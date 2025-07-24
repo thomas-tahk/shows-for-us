@@ -18,8 +18,7 @@ export const testDatabaseConnection = async () => {
   try {
     const { data, error } = await supabase
       .from('musicals')
-      .select('count(*)')
-      .limit(1);
+      .select('*', { count: 'exact', head: true });
 
     if (error) {
       console.error('Database connection error:', error);
