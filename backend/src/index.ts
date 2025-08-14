@@ -6,6 +6,7 @@ import musicalsRoutes from './routes/musicals';
 import castMembersRoutes from './routes/cast-members';
 import ticketmasterRoutes from './routes/ticketmaster';
 import importRoutes from './routes/import';
+import searchRoutes from './routes/search';
 
 dotenv.config();
 
@@ -29,7 +30,10 @@ app.get('/', (req, res) => {
       'GET /api/ticketmaster/musicals',
       'GET /api/ticketmaster/status',
       'POST /api/import/musicals',
-      'GET /api/import/stats'
+      'GET /api/import/stats',
+      'GET /api/search?q=hamilton',
+      'GET /api/search/suggestions?q=ham',
+      'GET /api/search/popular'
     ]
   });
 });
@@ -48,6 +52,7 @@ app.use('/api/musicals', musicalsRoutes);
 app.use('/api/cast-members', castMembersRoutes);
 app.use('/api/ticketmaster', ticketmasterRoutes);
 app.use('/api/import', importRoutes);
+app.use('/api/search', searchRoutes);
 
 // Error handling middleware
 app.use((err: Error, _req: express.Request, res: express.Response, _next: express.NextFunction) => {

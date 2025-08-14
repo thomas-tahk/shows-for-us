@@ -60,20 +60,43 @@ export class CastMemberModel {
   }
 
   /**
-   * Search cast members using full-text search
+   * Advanced fuzzy search for cast members with scoring
    */
   static async search(searchTerm: string, limit: number = 10): Promise<CastMember[]> {
+    // Clean and prepare search term
+    const cleanTerm = searchTerm.trim().replace(/[^a-zA-Z0-9\s]/g, '');
+    
+    if (!cleanTerm) {
+      return this.getAll({ limit });
+    }
+
+    // Use PostgreSQL's advanced search function
+    const { data, error } = await supabase.rpc('search_cast_members', {
+      search_term: cleanTerm,
+      result_limit: limit
+    });
+
+    if (error) {
+      console.warn('Advanced search failed, falling back to basic search:', error.message);
+      return this.basicSearch(searchTerm, limit);
+    }
+
+    return data || [];
+  }
+
+  /**
+   * Fallback basic search method
+   */
+  static async basicSearch(searchTerm: string, limit: number = 10): Promise<CastMember[]> {
     const { data, error } = await supabase
       .from('cast_members')
       .select('*')
-      .textSearch('name', searchTerm, {
-        type: 'websearch',
-        config: 'english'
-      })
+      .or(`name.ilike.%${searchTerm}%,bio.ilike.%${searchTerm}%`)
+      .order('name', { ascending: true })
       .limit(limit);
 
     if (error) {
-      throw new Error(`Error searching cast members: ${error.message}`);
+      throw new Error(`Error in basic search: ${error.message}`);
     }
 
     return data || [];

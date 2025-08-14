@@ -83,20 +83,43 @@ export class MusicalModel {
   }
 
   /**
-   * Search musicals using full-text search
+   * Advanced fuzzy search across multiple fields with scoring
    */
   static async search(searchTerm: string, limit: number = 10): Promise<Musical[]> {
+    // Clean and prepare search term
+    const cleanTerm = searchTerm.trim().replace(/[^a-zA-Z0-9\s]/g, '');
+    
+    if (!cleanTerm) {
+      return this.getAll({ limit });
+    }
+
+    // Use PostgreSQL's full-text search with ranking
+    const { data, error } = await supabase.rpc('search_musicals', {
+      search_term: cleanTerm,
+      result_limit: limit
+    });
+
+    if (error) {
+      console.warn('Advanced search failed, falling back to basic search:', error.message);
+      return this.basicSearch(searchTerm, limit);
+    }
+
+    return data || [];
+  }
+
+  /**
+   * Fallback basic search method
+   */
+  static async basicSearch(searchTerm: string, limit: number = 10): Promise<Musical[]> {
     const { data, error } = await supabase
       .from('musicals')
       .select('*')
-      .textSearch('name', searchTerm, {
-        type: 'websearch',
-        config: 'english'
-      })
+      .or(`name.ilike.%${searchTerm}%,description.ilike.%${searchTerm}%,genre.ilike.%${searchTerm}%`)
+      .order('name', { ascending: true })
       .limit(limit);
 
     if (error) {
-      throw new Error(`Error searching musicals: ${error.message}`);
+      throw new Error(`Error in basic search: ${error.message}`);
     }
 
     return data || [];
