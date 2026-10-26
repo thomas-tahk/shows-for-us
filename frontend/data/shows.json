@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-10-26T18:34:54.402Z",
+    "generated_at": "2026-10-26T18:41:20.365Z",
     "mode": "offline-fixtures",
     "live": false,
     "skipped": [
@@ -66,10 +66,11 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Hamilton_fixture_placeholder.jpg",
         "license": "CC BY-SA 4.0",
         "author": "Example Photographer (placeholder)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
         "source_url": "https://commons.wikimedia.org/wiki/File:Hamilton_fixture_placeholder.jpg"
       },
       "links": {
-        "ibdb": "https://www.ibdb.com/broadway-production/499520",
+        "ibdb": "https://www.ibdb.com/broadway-show/499520",
         "playbill": "https://playbill.com/production/hamilton-richard-rodgers-theatre-vault-0000014104",
         "official_site": "https://hamiltonmusical.com"
       },
@@ -127,10 +128,11 @@
         "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Les_Mis_fixture_placeholder.jpg",
         "license": "CC BY 2.0",
         "author": "Example Author & Co (placeholder)",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
         "source_url": "https://commons.wikimedia.org/wiki/File:Les_Mis_fixture_placeholder.jpg"
       },
       "links": {
-        "ibdb": "https://www.ibdb.com/broadway-production/5340",
+        "ibdb": "https://www.ibdb.com/broadway-show/5340",
         "playbill": "https://playbill.com/production/les-miserables-fixture-placeholder-0000000000",
         "official_site": "https://www.lesmis.com"
       },
