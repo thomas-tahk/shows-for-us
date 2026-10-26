@@ -27,10 +27,15 @@ jobs:
       - run: npm ci
       # Writes frontend/data/shows.json; exits 1 if any show fails.
       - run: npm run pull
+      # pull.ts always rewrites meta.generated_at; if that is the only change,
+      # restore the committed data so no PR opens.
+      - run: git diff --quiet -I'"generated_at":' -- data/ && git checkout -- data/ || true
+      # PRs made with GITHUB_TOKEN trigger no CI, so check here before opening one.
+      - run: npm run typecheck && npm test && npm run build
+      # Run manually from the default branch only (the PR targets the branch the run is on).
       - uses: peter-evans/create-pull-request@v7
         with:
           branch: data-refresh
-          base: ${{ github.event.repository.default_branch }}
           add-paths: frontend/data/
           commit-message: 'chore: refresh Wikidata/Wikipedia data'
           title: 'chore: weekly data refresh'

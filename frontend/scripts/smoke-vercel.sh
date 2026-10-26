@@ -8,7 +8,7 @@ FRONTEND="$(cd "$(dirname "$0")/.." && pwd)"
 SCRATCH="$(mktemp -d)"
 trap 'rm -rf "$SCRATCH"' EXIT
 
-# Tracked files only (no dist/, no stale .vercel), plus node_modules.
+# Tracked and untracked-but-not-ignored files (no dist/, no stale .vercel), plus node_modules.
 git -C "$FRONTEND" ls-files -z --cached --others --exclude-standard . | (cd "$FRONTEND" && xargs -0 -I{} cp --parents {} "$SCRATCH")
 ln -s "$FRONTEND/node_modules" "$SCRATCH/node_modules"
 mkdir -p "$SCRATCH/.vercel"

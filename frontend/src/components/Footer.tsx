@@ -1,5 +1,5 @@
 export default function Footer() {
-  const link = 'text-amber-400 hover:underline'
+  const link = 'text-amber-400 underline hover:no-underline'
   return (
     <footer
       data-testid="site-footer"
