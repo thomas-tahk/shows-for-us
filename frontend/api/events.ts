@@ -1,4 +1,4 @@
-import { handleEvents } from './_lib/events.ts'
+import { handleEvents } from './_lib/events.js'
 
 export async function GET(request: Request): Promise<Response> {
   const show = new URL(request.url).searchParams.get('show')

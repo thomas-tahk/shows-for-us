@@ -1,4 +1,4 @@
-import { isValidSlug, keywordForSlug } from './shows.ts'
+import { isValidSlug, keywordForSlug } from './shows.js'
 
 export interface ShowEvent {
   id: string
@@ -53,12 +53,13 @@ interface RawEvent {
 export function mapEvents(raw: unknown, keyword: string): ShowEvent[] {
   const list = (raw as { _embedded?: { events?: RawEvent[] } } | null)?._embedded?.events
   if (!Array.isArray(list)) return []
-  const needle = fold(keyword)
+  // Whole-word match, so a short title like "Six" doesn't match "Sixteen Candles".
+  const needle = new RegExp(`(^|[^a-z0-9])${fold(keyword).replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}($|[^a-z0-9])`)
   const out: ShowEvent[] = []
   for (const e of list) {
     const date = e.dates?.start?.localDate
     if (!date || !e.id || !e.name || !e.url) continue
-    if (!fold(e.name).includes(needle)) continue
+    if (!needle.test(fold(e.name))) continue
     const v = e._embedded?.venues?.[0]
     out.push({
       id: e.id,

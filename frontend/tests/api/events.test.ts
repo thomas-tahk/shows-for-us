@@ -1,6 +1,6 @@
 import { describe, expect, it, vi } from 'vitest'
 import { readFileSync } from 'node:fs'
-import { handleEvents } from '../../api/_lib/events.ts'
+import { handleEvents, mapEvents } from '../../api/_lib/events.ts'
 import { keywordForSlug } from '../../api/_lib/shows.ts'
 
 const fixture = JSON.parse(
@@ -122,5 +122,15 @@ describe('keywordForSlug', () => {
     expect(keywordForSlug('hamilton')).toBe('Hamilton')
     expect(keywordForSlug('les-miserables')).toBe('Les Misérables')
     expect(keywordForSlug('the-lion-king')).toBe('The Lion King')
+  })
+})
+
+describe('mapEvents title matching', () => {
+  const ev = (id: string, name: string) => ({
+    id, name, url: `https://tm.example/${id}`, dates: { start: { localDate: '2026-11-01' } },
+  })
+  it('matches the title as a whole word only', () => {
+    const raw = { _embedded: { events: [ev('a', 'SIX (Touring)'), ev('b', 'Sixteen Candles'), ev('c', 'Six')] } }
+    expect(mapEvents(raw, 'Six').map(e => e.id)).toEqual(['a', 'c'])
   })
 })
