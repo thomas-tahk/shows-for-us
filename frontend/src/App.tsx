@@ -1,5 +1,6 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
+import Footer from './components/Footer';
 import HomePage from './pages/HomePage';
 import SearchPage from './pages/SearchPage';
 import MusicalDetailPage from './pages/MusicalDetailPage';
@@ -16,6 +17,7 @@ export default function App() {
           <Route path="/musicals/:id" element={<MusicalDetailPage />} />
           <Route path="/cast/:id" element={<CastMemberDetailPage />} />
         </Routes>
+        <Footer />
       </div>
     </BrowserRouter>
   );
