@@ -1,7 +1,7 @@
 import { describe, expect, it, vi } from 'vitest'
 import { readFileSync } from 'node:fs'
-import { handleEvents, mapEvents } from '../../api/_lib/events.ts'
-import { keywordForSlug } from '../../api/_lib/shows.ts'
+import { fold, handleEvents, mapEvents } from '../../api/_lib/events.ts'
+import { isValidSlug, keywordForSlug } from '../../api/_lib/shows.ts'
 
 const fixture = JSON.parse(
   readFileSync(new URL('../../fixtures/ticketmaster/discovery-hamilton.json', import.meta.url), 'utf8'),
@@ -132,5 +132,16 @@ describe('mapEvents title matching', () => {
   it('matches the title as a whole word only', () => {
     const raw = { _embedded: { events: [ev('a', 'SIX (Touring)'), ev('b', 'Sixteen Candles'), ev('c', 'Six')] } }
     expect(mapEvents(raw, 'Six').map(e => e.id)).toEqual(['a', 'c'])
+  })
+})
+
+describe('flagship coverage', () => {
+  it('every flagship slug is accepted and searches for its title', () => {
+    const raw = JSON.parse(readFileSync(new URL('../../data/flagships.json', import.meta.url), 'utf8'))
+    const flagships: { slug: string; title: string }[] = Array.isArray(raw) ? raw : raw.shows
+    for (const f of flagships) {
+      expect(isValidSlug(f.slug)).toBe(true)
+      expect(fold(keywordForSlug(f.slug))).toBe(fold(f.title))
+    }
   })
 })
