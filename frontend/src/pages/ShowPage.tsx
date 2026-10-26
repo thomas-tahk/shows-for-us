@@ -9,10 +9,13 @@ import OriginalCast from '../components/show/OriginalCast'
 import Productions from '../components/show/Productions'
 import Awards from '../components/show/Awards'
 import ShowLinks from '../components/show/ShowLinks'
+import PlayingNext from '../components/show/PlayingNext'
+import { useShowEvents } from '../data/useShowEvents'
 import WikipediaAttribution from '../components/show/WikipediaAttribution'
 
 export default function ShowPage() {
   const { slug = '' } = useParams()
+  const events = useShowEvents(slug)
   const flagship = getFlagship(slug)
   if (!flagship) return <NotFoundPage what="show" />
 
@@ -20,6 +23,7 @@ export default function ShowPage() {
   const data = getShowData(slug)
   // Fixture-built data (meta.live false) has a fake image and placeholder summary: never show it.
   const live = dataIsLive && data !== undefined
+  const officialUrl = writeup?.tickets?.official_url ?? (live ? data.links.official_site : undefined)
 
   return (
     <main className="mx-auto max-w-3xl px-4 py-8 sm:py-12 space-y-8">
@@ -39,7 +43,7 @@ export default function ShowPage() {
 
       {writeup && <Creators creators={writeup.creators} />}
 
-      {/* PLAYING NEXT slot (issue #7): live ticket dates go here, between creators and history. */}
+      <PlayingNext state={events.state} events={events.events} runs={writeup?.runs ?? []} officialUrl={officialUrl} />
 
       {live && data.summary && (
         <section aria-labelledby="summary-h">
@@ -66,7 +70,6 @@ export default function ShowPage() {
       )}
 
       <ShowLinks
-        officialUrl={writeup?.tickets?.official_url ?? (live ? data.links.official_site : undefined)}
         ibdb={live ? data.links.ibdb : undefined}
         playbill={live ? data.links.playbill : undefined}
       />
