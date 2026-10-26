@@ -1,0 +1,14 @@
+# Deliberately invalid: history[0] has no `source`. The schema test asserts it is rejected.
+slug: bad-example
+title: "Bad Example"
+status: awaiting-owner-check
+sources_opened: false
+creators: []
+history:
+  - text: "A paragraph with no source."
+  - text: "A second paragraph."
+    source: https://en.wikipedia.org/wiki/Hamilton_(musical)
+original_cast: []
+productions: []
+awards: []
+runs: []

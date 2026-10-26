@@ -1,0 +1,46 @@
+# Draft written from the drafter's own knowledge; cited URLs NOT opened (sources_opened: false).
+# Owner: open each source, correct or cut facts, then see content/README.md.
+slug: maybe-happy-ending
+title: "Maybe Happy Ending"
+status: awaiting-owner-check
+sources_opened: false
+creators:
+  - name: "Will Aronson"
+    role: "music, co-lyrics and co-book"
+    source: https://en.wikipedia.org/wiki/Maybe_Happy_Ending
+  - name: "Hue Park"
+    role: "co-lyrics and co-book"
+    source: https://en.wikipedia.org/wiki/Maybe_Happy_Ending
+history:
+  - text: "Maybe Happy Ending is a chamber musical about two obsolete household robots in a near-future Seoul who form a bond. It was written by Will Aronson and Hue Park and first staged in South Korea before being reworked for English-language audiences."
+    source: https://en.wikipedia.org/wiki/Maybe_Happy_Ending
+  - text: "It opened on Broadway at the Belasco Theatre in November 2024, directed by Michael Arden."
+    source: https://en.wikipedia.org/wiki/Maybe_Happy_Ending
+  - text: "It won the Tony Award for Best Musical in 2025."
+    source: https://en.wikipedia.org/wiki/Maybe_Happy_Ending
+original_cast:
+  - person: "Darren Criss"
+    role: "Oliver"
+    production: "Broadway 2024"
+    source: https://en.wikipedia.org/wiki/Maybe_Happy_Ending
+  - person: "Helen J Shen"
+    role: "Claire"
+    production: "Broadway 2024"
+    source: https://en.wikipedia.org/wiki/Maybe_Happy_Ending
+  - person: "Marcus Choi"
+    role: "James"
+    production: "Broadway 2024"
+    source: https://en.wikipedia.org/wiki/Maybe_Happy_Ending
+productions:
+  - name: "Broadway"
+    venue: "Belasco Theatre"
+    city: "New York"
+    opened: "2024-11-12"
+    source: https://en.wikipedia.org/wiki/Maybe_Happy_Ending
+awards:
+  - name: "Tony Award for Best Musical"
+    year: 2025
+    source: https://en.wikipedia.org/wiki/Maybe_Happy_Ending
+# Current and announced runs: none entered yet. Ticketmaster live data covers 'playing next'.
+# Add entries from the official site (name, venue, city, start?, end?, ticket_url, source, checked).
+runs: []
