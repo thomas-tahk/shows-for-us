@@ -7,7 +7,7 @@ import type { Writeup } from './writeup'
 export const flagships = flagshipsRaw as Flagship[]
 const showsFile = showsRaw as unknown as ShowsFile
 
-/** False while data/shows.json was built from offline fixtures: its image/summary are fake. */
+/** False while data/shows.json was built from offline fixtures: its image, summary and links are fake. */
 export const dataIsLive = showsFile.meta.live
 
 export function getFlagship(slug: string): Flagship | undefined {
@@ -25,9 +25,14 @@ export interface SearchEntry {
   haystack: string
 }
 
-/** Lowercase, accent-stripped. */
+/** Lowercase, accent-stripped, punctuation runs collapsed to one space. */
 export function normalize(s: string): string {
-  return s.normalize('NFD').replace(/[̀-ͯ]/g, '').toLowerCase()
+  return s
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, ' ')
+    .trim()
 }
 
 export function buildIndex(
@@ -41,7 +46,7 @@ export function buildIndex(
 }
 
 export function filterIndex(index: SearchEntry[], query: string): SearchEntry[] {
-  const q = normalize(query).trim()
+  const q = normalize(query)
   return q === '' ? index : index.filter(e => e.haystack.includes(q))
 }
 

@@ -66,9 +66,9 @@ export default function ShowPage() {
       )}
 
       <ShowLinks
-        officialUrl={writeup?.tickets?.official_url ?? data?.links.official_site}
-        ibdb={data?.links.ibdb}
-        playbill={data?.links.playbill}
+        officialUrl={writeup?.tickets?.official_url ?? (live ? data.links.official_site : undefined)}
+        ibdb={live ? data.links.ibdb : undefined}
+        playbill={live ? data.links.playbill : undefined}
       />
 
       <WikipediaAttribution enwiki={flagship.enwiki} />

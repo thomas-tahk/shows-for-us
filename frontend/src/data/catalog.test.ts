@@ -15,6 +15,9 @@ describe('filterIndex', () => {
   it('matches creator names', () => {
     expect(filterIndex(searchIndex, 'lin-manuel').map(e => e.slug)).toContain('hamilton')
   })
+  it('treats punctuation as a space', () => {
+    expect(filterIndex(searchIndex, 'lin manuel').map(e => e.slug)).toContain('hamilton')
+  })
   it('returns nothing for a nonsense query', () => {
     expect(filterIndex(searchIndex, 'zzzzqq')).toEqual([])
   })

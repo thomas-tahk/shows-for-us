@@ -1,7 +1,5 @@
 import { test, expect, type Page } from '@playwright/test'
 
-const SHOTS = '/tmp/claude-0/-home-user-shows-for-us/d8c634e9-8978-5a68-8bbf-a624387d9651/scratchpad/screens'
-
 // String form: the e2e tsconfig has no DOM lib.
 async function expectNoHScroll(page: Page) {
   const ok = await page.evaluate(`document.scrollingElement.scrollWidth <= window.innerWidth`)
@@ -23,7 +21,7 @@ for (const width of [390, 1280]) {
     await page.getByLabel('Search shows').fill('hamil')
     await expect(page.locator('main a[href^="/show/"]')).toHaveCount(1)
     await expectNoHScroll(page)
-    await page.screenshot({ path: `${SHOTS}/home-results-${width}.png`, fullPage: true })
+    await page.screenshot({ path: test.info().outputPath(`home-results-${width}.png`), fullPage: true })
 
     await page.locator('main a[href="/show/hamilton"]').click()
     await expect(page).toHaveURL(/\/show\/hamilton$/)
@@ -45,8 +43,10 @@ for (const width of [390, 1280]) {
       'href',
       'https://creativecommons.org/licenses/by-sa/4.0/',
     )
+    // data/shows.json is fixture-built (meta.live false): its IBDB/Playbill URLs are not real.
+    await expect(page.locator('main a[href*="ibdb.com"], main a[href*="playbill.com"]')).toHaveCount(0)
     await expectNoHScroll(page)
-    await page.screenshot({ path: `${SHOTS}/show-hamilton-${width}.png`, fullPage: true })
+    await page.screenshot({ path: test.info().outputPath(`show-hamilton-${width}.png`), fullPage: true })
 
     expect(errors).toEqual([])
   })
