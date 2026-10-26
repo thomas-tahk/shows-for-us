@@ -1,6 +1,6 @@
 import { describe, expect, it, vi } from 'vitest'
 import { readFileSync } from 'node:fs'
-import { fold, handleEvents, mapEvents } from '../../api/_lib/events.ts'
+import { handleEvents, mapEvents } from '../../api/_lib/events.ts'
 import { isValidSlug, keywordForSlug } from '../../api/_lib/shows.ts'
 
 const fixture = JSON.parse(
@@ -101,6 +101,18 @@ describe('events core', () => {
   })
 })
 
+describe('unknown shows', () => {
+  it('404s a well-formed slug that is not a flagship, without calling Ticketmaster', async () => {
+    for (const s of ['made-up-show', 'constructor', 'tostring']) {
+      const f = okFetch()
+      const res = await handleEvents(s, { fetch: asFetch(f), apiKey: KEY, now })
+      expect(res.status).toBe(404)
+      expect(await res.json()).toEqual({ error: 'Unknown show' })
+      expect(f).not.toHaveBeenCalled()
+    }
+  })
+})
+
 describe('GET handler', () => {
   it('reads the key from process.env and 400s without show', async () => {
     const { GET } = await import('../../api/events.ts')
@@ -118,10 +130,11 @@ describe('GET handler', () => {
 })
 
 describe('keywordForSlug', () => {
-  it('maps known slugs and title-cases others', () => {
+  it('maps flagship slugs and rejects others', () => {
     expect(keywordForSlug('hamilton')).toBe('Hamilton')
     expect(keywordForSlug('les-miserables')).toBe('Les Misérables')
     expect(keywordForSlug('the-lion-king')).toBe('The Lion King')
+    expect(keywordForSlug('made-up-show')).toBeUndefined()
   })
 })
 
@@ -141,7 +154,7 @@ describe('flagship coverage', () => {
     const flagships: { slug: string; title: string }[] = Array.isArray(raw) ? raw : raw.shows
     for (const f of flagships) {
       expect(isValidSlug(f.slug)).toBe(true)
-      expect(fold(keywordForSlug(f.slug))).toBe(fold(f.title))
+      expect(keywordForSlug(f.slug)).toBe(f.title)
     }
   })
 })

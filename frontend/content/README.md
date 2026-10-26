@@ -21,7 +21,7 @@ Unknown keys are rejected anywhere, so extra fields cannot slip in unsourced. Ev
 
 ## License rules
 
-- Write in your own words. Do not paste or lightly reword text from Wikipedia. If you ever quote it, mark it as a quotation and keep the CC BY-SA 4.0 attribution (`source_url`, `license`, `modified`).
+- Write in your own words. Do not paste or lightly reword text from Wikipedia. Quoting Wikipedia is not allowed in write-ups: the schema has no fields for quoted text or its attribution, so history must be in our own words.
 - IBDB, Playbill and BroadwayWorld: never copy their text, cast lists or tables, and never use them as a `source`. They are linked only, through Wikidata IDs, by the pull script.
 - Sources should be the show's Wikipedia article, another page you actually opened, or the official site.
 - Ticketmaster event data never goes in these files. `runs` come from the show's official site only; if the site lists no run, leave it out.

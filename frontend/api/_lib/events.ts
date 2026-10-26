@@ -81,10 +81,13 @@ export async function handleEvents(slug: string | null, deps: EventsDeps): Promi
   if (!isValidSlug(slug)) {
     return json({ error: 'Missing or invalid "show" parameter' }, 400)
   }
+  const keyword = keywordForSlug(slug)
+  if (keyword === undefined) {
+    return json({ error: 'Unknown show' }, 404)
+  }
   if (!deps.apiKey) {
     return json({ events: [], reason: 'Ticketmaster is not configured (no API key)' }, 200)
   }
-  const keyword = keywordForSlug(slug)
   const params = new URLSearchParams({
     apikey: deps.apiKey,
     keyword,

@@ -30,6 +30,6 @@
       "page": "https://en.m.wikipedia.org/wiki/Hamilton_(musical)"
     }
   },
-  "extract": "[Placeholder text, not from Wikipedia: run npm run pull -- --record to replace this with the real article summary.]",
-  "extract_html": "<p>[Placeholder text, not from Wikipedia: run npm run pull -- --record to replace this with the real article summary.]</p>"
+  "extract": "[Placeholder text, not from Wikipedia: run a plain npm run pull (not --record) to get the real article summary in data/shows.json.]",
+  "extract_html": "<p>[Placeholder text, not from Wikipedia: run a plain npm run pull (not --record) to get the real article summary in data/shows.json.]</p>"
 }

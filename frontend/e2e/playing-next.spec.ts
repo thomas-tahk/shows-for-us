@@ -90,6 +90,27 @@ for (const width of [390, 1280]) {
       expect(errors).toEqual([])
     })
 
+    test('no official link and live dates unavailable: Ticketmaster search fallback', async ({ page }) => {
+      await page.route('**/api/events?show=rent*', route =>
+        route.fulfill({ status: 502, json: { error: 'Ticketmaster is unavailable' } }),
+      )
+      page.removeAllListeners('console')
+      page.on('console', m => {
+        if (m.type() === 'error' && !/Failed to load resource: .*status of 502/.test(m.text())) errors.push(m.text())
+      })
+      await page.goto('/show/rent')
+      const section = page.getByRole('region', { name: 'Playing next' })
+      await expect(section.getByText('Live dates are unavailable right now.')).toBeVisible()
+      await expect(section.getByRole('link', { name: /Official tickets/ })).toHaveCount(0)
+      const search = section.getByRole('link', { name: /Search Ticketmaster for Rent/ })
+      await expect(search).toHaveAttribute('href', 'https://www.ticketmaster.com/search?q=Rent')
+      await expect(search).toHaveAttribute('target', '_blank')
+      await expect(search).toHaveAttribute('rel', 'noopener noreferrer')
+      await expectNoHScroll(page)
+      await page.screenshot({ path: test.info().outputPath(`playing-next-rent-502-${width}.png`), fullPage: true })
+      expect(errors).toEqual([])
+    })
+
     test('no API key (200 with a reason) reads as unavailable', async ({ page }) => {
       await page.route('**/api/events?show=hamilton*', route =>
         route.fulfill({ json: { events: [], reason: 'TICKETMASTER_API_KEY not set' } }),

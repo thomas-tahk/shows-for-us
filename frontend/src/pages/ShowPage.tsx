@@ -13,6 +13,11 @@ import PlayingNext from '../components/show/PlayingNext'
 import { useShowEvents } from '../data/useShowEvents'
 import WikipediaAttribution from '../components/show/WikipediaAttribution'
 
+/** A write-up is a draft until the owner has opened the sources and signed it off. */
+function isDraft(w: { sources_opened: boolean; status: string }): boolean {
+  return !w.sources_opened || w.status !== 'owner-checked'
+}
+
 export default function ShowPage() {
   const { slug = '' } = useParams()
   const events = useShowEvents(slug)
@@ -29,7 +34,7 @@ export default function ShowPage() {
     <main className="mx-auto max-w-3xl px-4 py-8 sm:py-12 space-y-8">
       <header>
         <h1 className="text-3xl sm:text-4xl font-bold text-white break-words">{flagship.title}</h1>
-        {writeup && !writeup.sources_opened && (
+        {writeup && isDraft(writeup) && (
           <p
             role="note"
             className="mt-3 rounded-lg border border-amber-400 bg-amber-400/10 px-3 py-2 text-sm text-amber-200"
@@ -43,7 +48,7 @@ export default function ShowPage() {
 
       {writeup && <Creators creators={writeup.creators} />}
 
-      <PlayingNext state={events.state} events={events.events} runs={writeup?.runs ?? []} officialUrl={officialUrl} />
+      <PlayingNext state={events.state} events={events.events} runs={writeup?.runs ?? []} officialUrl={officialUrl} title={flagship.title} />
 
       {live && data.summary && (
         <section aria-labelledby="summary-h">
