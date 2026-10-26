@@ -2,7 +2,7 @@ import { readFileSync } from 'node:fs'
 import { describe, expect, it } from 'vitest'
 import type { Flagship } from '../src/data/show.ts'
 import { offlineFetcher } from '../scripts/fetchers.ts'
-import { pullShows } from '../scripts/pull-lib.ts'
+import { formatDate, pullShows, stripHtml } from '../scripts/pull-lib.ts'
 
 const flagships = JSON.parse(readFileSync('data/flagships.json', 'utf8')) as Flagship[]
 const result = await pullShows(flagships, offlineFetcher('fixtures'))
@@ -43,10 +43,11 @@ describe('offline pull', () => {
       commons_file: 'Hamilton fixture placeholder.jpg',
       url: expect.stringMatching(/^https:\/\/upload\.wikimedia\.org\//),
       license: 'CC BY-SA 4.0',
+      license_url: 'https://creativecommons.org/licenses/by-sa/4.0',
       author: 'Example Photographer (placeholder)',
       source_url: 'https://commons.wikimedia.org/wiki/File:Hamilton_fixture_placeholder.jpg',
     })
-    expect(h.links.ibdb).toBe('https://www.ibdb.com/broadway-production/499520')
+    expect(h.links.ibdb).toBe('https://www.ibdb.com/broadway-show/499520')
     expect(h.links.playbill).toBe('https://playbill.com/production/hamilton-richard-rodgers-theatre-vault-0000014104')
     expect(h.links.official_site).toBe('https://hamiltonmusical.com')
     expect(h.summary).toEqual({
@@ -71,10 +72,27 @@ describe('offline pull', () => {
     expect(l.image?.license).toBe('CC BY 2.0')
     expect(l.image?.author).toBe('Example Author & Co (placeholder)')
     expect(l.image?.source_url).toMatch(/^https:\/\/commons\.wikimedia\.org\/wiki\/File:/)
-    expect(l.links.ibdb).toBe('https://www.ibdb.com/broadway-production/5340')
+    expect(l.links.ibdb).toBe('https://www.ibdb.com/broadway-show/5340')
     expect(l.links.playbill).toMatch(/^https:\/\/playbill\.com\/production\//)
     expect(l.summary?.source_url).toBe('https://en.wikipedia.org/wiki/Les_Misérables_(musical)')
     expect(l.summary?.license).toBe('CC BY-SA 4.0')
     expect(l.wikidata_url).toBe('https://www.wikidata.org/wiki/Q111905785')
+  })
+})
+
+describe('formatDate', () => {
+  it('honours Wikidata time precision', () => {
+    expect(formatDate('1980-01-01T00:00:00Z', '9')).toBe('1980')
+    expect(formatDate('1980-09-01T00:00:00Z', 10)).toBe('1980-09')
+    expect(formatDate('1980-09-17T00:00:00Z', '11')).toBe('1980-09-17')
+    expect(formatDate('1980-09-17T00:00:00Z')).toBe('1980-09-17')
+  })
+})
+
+describe('stripHtml', () => {
+  it('removes tags and decodes entities', () => {
+    expect(stripHtml('<a href="x">Tom &amp; Jerry&#039;s &quot;Show&quot;&nbsp;&lt;3&gt; &#x41;&#66;</a>')).toBe(
+      'Tom & Jerry\'s "Show" <3> AB',
+    )
   })
 })

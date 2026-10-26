@@ -11,6 +11,8 @@ export interface PersonCredit {
 export interface ShowImage {
   /** Commons file name, without the "File:" prefix. */
   commons_file: string
+  /** URL of the license text from Commons, when stated. */
+  license_url: string | null
   /** Direct file URL on upload.wikimedia.org. */
   url: string
   /** The file's own license, e.g. "CC BY-SA 4.0". */
@@ -47,6 +49,7 @@ export interface Show {
   composers: PersonCredit[]
   lyricists: PersonCredit[]
   librettists: PersonCredit[]
+  /** `date` is ISO but only as precise as Wikidata: "1985", "1985-09" or "1985-09-28". */
   premiere: { date: string | null; venue: string | null }
   awards: ShowAward[]
   image: ShowImage | null

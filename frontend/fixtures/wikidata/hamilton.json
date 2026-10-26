@@ -92,6 +92,10 @@
           "type": "literal",
           "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
           "value": "2015-02-17T00:00:00Z"
+        },
+        "extra": {
+          "type": "literal",
+          "value": "11"
         }
       },
       {

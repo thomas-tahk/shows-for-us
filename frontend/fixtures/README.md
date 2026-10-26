@@ -7,6 +7,9 @@ These files are **hand-built, not recorded**. They were written by hand to match
 - The Wikipedia `extract` fields are **placeholder text**, not Wikipedia text. Revision ids, timestamps and descriptions are placeholders.
 - `data/shows.json` built from these is marked `meta.mode: "offline-fixtures"`, `live: false`. Do not publish it.
 
+- **Unverified formatter:** the IBDB show URL pattern `https://www.ibdb.com/broadway-show/{P1219}` is from memory. Owner to check the formatter URL (P1630) on Property:P1219 and fix `buildShow` in `scripts/pull-lib.ts` if it differs.
+- Premiere date rows carry a placeholder time precision of `11` (day).
+
 To replace them with real recorded responses, from `frontend/`:
 
 ```

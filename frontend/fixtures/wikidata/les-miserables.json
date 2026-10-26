@@ -111,6 +111,10 @@
           "type": "literal",
           "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
           "value": "1980-09-17T00:00:00Z"
+        },
+        "extra": {
+          "type": "literal",
+          "value": "11"
         }
       },
       {
@@ -244,6 +248,10 @@
           "type": "literal",
           "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
           "value": "1985-09-28T00:00:00Z"
+        },
+        "extra": {
+          "type": "literal",
+          "value": "11"
         }
       },
       {

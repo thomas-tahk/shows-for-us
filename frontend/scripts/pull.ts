@@ -34,7 +34,10 @@ const out: ShowsFile = {
   },
   shows,
 }
-await writeFile(join(root, 'data/shows.json'), JSON.stringify(out, null, 2) + '\n')
-console.log(`\nwrote data/shows.json: ${shows.length} shows, ${skipped.length} skipped`)
-for (const s of skipped) console.log(`  ${s.slug}: ${s.reason}`)
-if (!offline && skipped.some((s) => s.reason.startsWith('FAILED'))) process.exitCode = 1
+const failed = skipped.some((s) => s.reason.startsWith('FAILED'))
+// A run with failures must not clobber the committed data.
+const target = failed ? 'data/shows.partial.json' : 'data/shows.json'
+await writeFile(join(root, target), JSON.stringify(out, null, 2) + '\n')
+console.log(`\nwrote ${target}: ${shows.length} shows, ${skipped.length} skipped`)
+for (const s of skipped) console.log(`  ${s.reason.startsWith('FAILED') ? 'FAILED ' : ''}${s.slug}: ${s.reason}`)
+if (failed) process.exitCode = 1

@@ -40,12 +40,21 @@ function sparqlRequest(path: string, query: string): PullRequest {
   }
 }
 
-export function resolveQuery(enwiki: string): string {
+/** Sitelink lookup. With `anyClass`, the class filter is dropped and each item's P31 values are returned. */
+export function resolveQuery(enwiki: string, anyClass = false): string {
   const title = enwiki.replace(/\\/g, '\\\\').replace(/"/g, '\\"')
-  return `SELECT ?item WHERE {
-  ?article schema:about ?item ;
+  const head = `?article schema:about ?item ;
            schema:isPartOf <https://en.wikipedia.org/> ;
-           schema:name "${title}"@en .
+           schema:name "${title}"@en .`
+  if (anyClass) {
+    return `SELECT ?item ?cls ?clsLabel WHERE {
+  ${head}
+  OPTIONAL { ?item wdt:P31 ?cls }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+}`
+  }
+  return `SELECT ?item WHERE {
+  ${head}
   ?item wdt:P31/wdt:P279* wd:${MUSICAL_CLASS} .
 }`
 }
@@ -60,7 +69,7 @@ export function itemsQuery(qids: string[]): string {
   ${person('P86', 'composer')}
   UNION ${person('P676', 'lyricist')}
   UNION ${person('P87', 'librettist')}
-  UNION ${plain('P1191', 'premiere_date')}
+  UNION { ?item p:P1191/psv:P1191 ?tv . ?tv wikibase:timeValue ?v ; wikibase:timePrecision ?extra . BIND("premiere_date" AS ?kind) }
   UNION ${plain('P4647', 'premiere_venue')}
   UNION ${plain('P166', 'award')}
   UNION ${plain('P18', 'image')}
@@ -68,7 +77,8 @@ export function itemsQuery(qids: string[]): string {
   UNION ${plain('P5833', 'playbill')}
   UNION ${plain('P856', 'website')}
   SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
-}`
+}
+ORDER BY ?item ?kind ?v`
 }
 
 // ---- Pure transforms --------------------------------------------------------
@@ -88,12 +98,26 @@ interface Row {
   extra: string | undefined
 }
 
+const cmp = (a: string, b: string) => (a < b ? -1 : a > b ? 1 : 0)
+
+/** Rows sorted by item, kind, value so every pick is deterministic whatever order the endpoint returns. */
 function parseRows(res: unknown): Row[] {
-  return (res as SparqlResult).results.bindings.flatMap((b) =>
-    b.item && b.kind && b.v
-      ? [{ item: qidOf(b.item.value), kind: b.kind.value, v: b.v, label: b.vLabel?.value, extra: b.extra?.value }]
-      : [],
-  )
+  return (res as SparqlResult).results.bindings
+    .flatMap((b) =>
+      b.item && b.kind && b.v
+        ? [{ item: qidOf(b.item.value), kind: b.kind.value, v: b.v, label: b.vLabel?.value, extra: b.extra?.value }]
+        : [],
+    )
+    .sort((a, b) => cmp(a.item, b.item) || cmp(a.kind, b.kind) || cmp(a.v.value, b.v.value))
+}
+
+/** Wikidata time precision: 9 = year, 10 = month, 11 (or missing) = day. */
+export function formatDate(value: string, precision?: string | number): string {
+  const ymd = value.slice(0, 10)
+  const p = Number(precision)
+  if (p === 9) return ymd.slice(0, 4)
+  if (p === 10) return ymd.slice(0, 7)
+  return ymd
 }
 
 function dedupe(rows: Row[]): Row[] {
@@ -131,7 +155,19 @@ export function commonsFileName(uri: string): string {
   return decodeURIComponent(uri.slice(uri.lastIndexOf('/') + 1)).replace(/_/g, ' ')
 }
 
-const stripHtml = (s: string) => s.replace(/<[^>]*>/g, '').replace(/&amp;/g, '&').replace(/\s+/g, ' ').trim()
+const NAMED_ENTITIES: Record<string, string> = { amp: '&', quot: '"', apos: "'", lt: '<', gt: '>', nbsp: ' ' }
+
+export function stripHtml(s: string): string {
+  return s
+    .replace(/<[^>]*>/g, '')
+    .replace(/&(?:#(\d+)|#x([0-9a-f]+)|([a-z]+));/gi, (m, dec?: string, hex?: string, name?: string) => {
+      if (dec) return String.fromCodePoint(Number(dec))
+      if (hex) return String.fromCodePoint(parseInt(hex, 16))
+      return NAMED_ENTITIES[(name ?? '').toLowerCase()] ?? m
+    })
+    .replace(/\s+/g, ' ')
+    .trim()
+}
 
 interface ImageInfoPage {
   imageinfo?: {
@@ -151,6 +187,7 @@ export function parseImage(file: string, res: unknown): ShowImage | null {
     url: info.url,
     license: meta.LicenseShortName?.value ?? 'unknown',
     author: stripHtml(meta.Artist?.value ?? '') || 'unknown',
+    license_url: meta.LicenseUrl?.value ?? null,
     source_url: info.descriptionurl,
   }
 }
@@ -171,12 +208,12 @@ function buildShow(
 ): Show {
   const p = (k: string) => pick(rows, k, qids, flagship.prefer_qid)
   const first = (k: string) => p(k)[0]
-  const date = first('premiere_date')?.v.value
+  const dateRow = first('premiere_date')
   const links: ShowLinks = {}
   const ibdb = first('ibdb')?.v.value
   const playbill = first('playbill')?.v.value
   const site = first('website')?.v.value
-  if (ibdb) links.ibdb = `https://www.ibdb.com/broadway-production/${encodeURIComponent(ibdb)}`
+  if (ibdb) links.ibdb = `https://www.ibdb.com/broadway-show/${encodeURIComponent(ibdb)}`
   if (playbill) links.playbill = `https://playbill.com/production/${encodeURIComponent(playbill)}`
   if (site) links.official_site = site
   const awards: ShowAward[] = [
@@ -194,7 +231,7 @@ function buildShow(
     lyricists: people(p('lyricist')),
     librettists: people(p('librettist')),
     premiere: {
-      date: date ? date.slice(0, 10) : null,
+      date: dateRow ? formatDate(dateRow.v.value, dateRow.extra) : null,
       venue: first('premiere_venue')?.label ?? null,
     },
     awards,
@@ -226,7 +263,20 @@ export async function pullShows(
       let qids = f.qids
       if (!qids?.length) {
         qids = parseResolve(await fetcher(sparqlRequest(`wikidata/${f.slug}.resolve.json`, resolveQuery(f.enwiki))))
-        if (!qids.length) throw new Error(`no musical item found for enwiki "${f.enwiki}"`)
+        if (!qids.length) {
+          // Retry without the class filter and say what the item is.
+          const res = (await fetcher(
+            sparqlRequest(`wikidata/${f.slug}.resolve-any.json`, resolveQuery(f.enwiki, true)),
+          )) as SparqlResult
+          qids = parseResolve(res)
+          if (!qids.length) throw new Error(`no Wikidata item found for enwiki "${f.enwiki}"`)
+          const classes = res.results.bindings
+            .flatMap((b) => (b.cls ? [`${qidOf(b.cls.value)}${b.clsLabel ? ` (${b.clsLabel.value})` : ''}`] : []))
+            .join(', ')
+          log(
+            `WARNING ${f.slug}: ${qids.join(', ')} is not under class ${MUSICAL_CLASS}; accepted anyway. P31: ${classes || 'none'}`,
+          )
+        }
       }
       const rows = parseRows(await fetcher(sparqlRequest(`wikidata/${f.slug}.json`, itemsQuery(qids))))
 
