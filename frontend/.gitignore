@@ -32,3 +32,4 @@ dist-ssr
 # Playwright
 test-results
 playwright-report
+data/shows.partial.json

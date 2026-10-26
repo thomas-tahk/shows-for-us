@@ -1,0 +1,148 @@
+{
+  "meta": {
+    "generated_at": "2026-10-26T18:41:20.365Z",
+    "mode": "offline-fixtures",
+    "live": false,
+    "skipped": [
+      "the-lion-king",
+      "rent",
+      "the-book-of-mormon",
+      "hadestown",
+      "kimberly-akimbo",
+      "the-outsiders",
+      "maybe-happy-ending",
+      "jersey-boys",
+      "kinky-boots",
+      "the-phantom-of-the-opera",
+      "dear-evan-hansen",
+      "next-to-normal",
+      "a-strange-loop"
+    ]
+  },
+  "shows": [
+    {
+      "slug": "hamilton",
+      "title": "Hamilton",
+      "qids": [
+        "Q19320959"
+      ],
+      "composers": [
+        {
+          "name": "Lin-Manuel Miranda",
+          "qid": "Q0000001",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9999991"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Lin-Manuel Miranda",
+          "qid": "Q0000001",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9999991"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Lin-Manuel Miranda",
+          "qid": "Q0000001",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9999991"
+        }
+      ],
+      "premiere": {
+        "date": "2015-02-17",
+        "venue": "The Public Theater"
+      },
+      "awards": [
+        {
+          "name": "Pulitzer Prize for Drama",
+          "qid": "Q0000003"
+        },
+        {
+          "name": "Tony Award for Best Musical",
+          "qid": "Q0000004"
+        }
+      ],
+      "image": {
+        "commons_file": "Hamilton fixture placeholder.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Hamilton_fixture_placeholder.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Example Photographer (placeholder)",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Hamilton_fixture_placeholder.jpg"
+      },
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/499520",
+        "playbill": "https://playbill.com/production/hamilton-richard-rodgers-theatre-vault-0000014104",
+        "official_site": "https://hamiltonmusical.com"
+      },
+      "summary": {
+        "text": "[Placeholder text, not from Wikipedia: run npm run pull -- --record to replace this with the real article summary.]",
+        "source_url": "https://en.wikipedia.org/wiki/Hamilton_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      },
+      "wikidata_url": "https://www.wikidata.org/wiki/Q19320959"
+    },
+    {
+      "slug": "les-miserables",
+      "title": "Les Misérables",
+      "qids": [
+        "Q830581",
+        "Q111905785"
+      ],
+      "composers": [
+        {
+          "name": "Claude-Michel Schönberg",
+          "qid": "Q0000010",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9999992"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Herbert Kretzmer",
+          "qid": "Q0000014"
+        },
+        {
+          "name": "James Fenton",
+          "qid": "Q0000015"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Alain Boublil",
+          "qid": "Q0000011",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9999993"
+        }
+      ],
+      "premiere": {
+        "date": "1985-09-28",
+        "venue": "Barbican Centre"
+      },
+      "awards": [
+        {
+          "name": "Tony Award for Best Musical",
+          "qid": "Q0000004"
+        }
+      ],
+      "image": {
+        "commons_file": "Les Mis fixture placeholder.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Les_Mis_fixture_placeholder.jpg",
+        "license": "CC BY 2.0",
+        "author": "Example Author & Co (placeholder)",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Les_Mis_fixture_placeholder.jpg"
+      },
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5340",
+        "playbill": "https://playbill.com/production/les-miserables-fixture-placeholder-0000000000",
+        "official_site": "https://www.lesmis.com"
+      },
+      "summary": {
+        "text": "[Placeholder text, not from Wikipedia: run npm run pull -- --record to replace this with the real article summary.]",
+        "source_url": "https://en.wikipedia.org/wiki/Les_Misérables_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      },
+      "wikidata_url": "https://www.wikidata.org/wiki/Q111905785"
+    }
+  ]
+}
