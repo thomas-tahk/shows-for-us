@@ -1,14 +1,6 @@
 import { test, expect } from '@playwright/test'
 
 test('footer credits Wikidata/Wikipedia and discloses Ticketmaster data', async ({ page }) => {
-  // The backend is not part of this suite: answer every API call with empty data.
-  await page.route('**/api/search/popular', route =>
-    route.fulfill({ json: { success: true, data: { popularMusicals: [], genres: [] } } }),
-  )
-  await page.route('**/api/musicals**', route =>
-    route.fulfill({ json: { success: true, data: [] } }),
-  )
-
   await page.setViewportSize({ width: 390, height: 800 })
   await page.goto('/')
 
@@ -28,8 +20,7 @@ test('footer credits Wikidata/Wikipedia and discloses Ticketmaster data', async 
   await expect(footer).toContainText('not stored by this site')
   await expect(footer).toContainText("We don't sell tickets; links go to the sellers.")
 
-  // The footer itself must fit a 390px screen. (The home page hero button already overflows
-  // to 428px; that is pre-existing and not this footer's.) String form: no DOM lib in e2e tsconfig.
+  // String form: no DOM lib in e2e tsconfig.
   const noHScroll = await page.evaluate(
     `(() => { const e = document.querySelector('[data-testid=site-footer]'); return e.scrollWidth <= e.clientWidth && e.getBoundingClientRect().right <= 390 })()`,
   )
