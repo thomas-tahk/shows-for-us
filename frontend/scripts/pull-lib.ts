@@ -69,7 +69,7 @@ export function itemsQuery(qids: string[]): string {
   ${person('P86', 'composer')}
   UNION ${person('P676', 'lyricist')}
   UNION ${person('P87', 'librettist')}
-  UNION { ?item p:P1191/psv:P1191 ?tv . ?tv wikibase:timeValue ?v ; wikibase:timePrecision ?extra . BIND("premiere_date" AS ?kind) }
+  UNION { ?item p:P1191 ?st . ?st psv:P1191 ?tv . FILTER NOT EXISTS { ?st wikibase:rank wikibase:DeprecatedRank } ?tv wikibase:timeValue ?v ; wikibase:timePrecision ?extra . BIND("premiere_date" AS ?kind) }
   UNION ${plain('P4647', 'premiere_venue')}
   UNION ${plain('P166', 'award')}
   UNION ${plain('P18', 'image')}
