@@ -1,0 +1,100 @@
+<title>Shows For Us Plan</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,600;12..96,800&family=IBM+Plex+Sans:wght@400;600&family=IBM+Plex+Mono:wght@500&display=swap">
+<style>
+/* Layout: single reading column; milestones as a vertical "dial" track, M1 expanded into issue rows; decisions boxed at top */
+:root {
+  --bg: #f3f4f7; --surface: #ffffff; --fg: #1b2130; --muted: #5a6275;
+  --line: #d8dbe4; --accent: #b4540a; --accent-soft: #fbead9; --ok: #1f7a4d;
+  --display: "Bricolage Grotesque", "Helvetica Neue", Arial, sans-serif;
+  --body: "IBM Plex Sans", system-ui, sans-serif;
+  --mono: "IBM Plex Mono", ui-monospace, Menlo, monospace;
+}
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) {
+  --bg: #141824; --surface: #1c2232; --fg: #e7e9f0; --muted: #9aa2b6;
+  --line: #2e3549; --accent: #f29a4a; --accent-soft: #3a2a1c; --ok: #5fcf95; color-scheme: dark } }
+:root[data-theme="dark"] {
+  --bg: #141824; --surface: #1c2232; --fg: #e7e9f0; --muted: #9aa2b6;
+  --line: #2e3549; --accent: #f29a4a; --accent-soft: #3a2a1c; --ok: #5fcf95; color-scheme: dark }
+body { background: var(--bg); color: var(--fg); font: 16px/1.6 var(--body); }
+.wrap { max-width: 760px; margin: 0 auto; padding-block: 32px 64px;
+  padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px));
+  display: flex; flex-direction: column; gap: 32px; }
+h1, h2, h3 { font-family: var(--display); text-wrap: balance; margin: 0; line-height: 1.15; }
+h1 { font-size: 2.2rem; font-weight: 800; }
+h2 { font-size: 1.4rem; font-weight: 600; }
+h3 { font-size: 1.05rem; font-weight: 600; }
+p { margin: 0; }
+.eyebrow { font: 500 .75rem var(--mono); letter-spacing: .08em; text-transform: uppercase; color: var(--accent); }
+.lede { color: var(--muted); max-width: 62ch; }
+.gate { border-left: 3px solid var(--accent); padding: 4px 0 4px 14px; font-style: italic; }
+section { display: flex; flex-direction: column; gap: 14px; }
+.decide { background: var(--accent-soft); border-radius: 10px; padding: 18px; display: flex; flex-direction: column; gap: 12px; }
+.decide ol { margin: 0; padding-left: 1.2em; display: flex; flex-direction: column; gap: 10px; }
+.rec { font-weight: 600; }
+.track { display: flex; flex-direction: column; gap: 0; border-left: 2px solid var(--line); margin-left: 6px; }
+.ms { position: relative; padding: 0 0 22px 22px; display: flex; flex-direction: column; gap: 6px; }
+.ms::before { content: ""; position: absolute; left: -7px; top: 5px; width: 12px; height: 12px; border-radius: 50%; background: var(--bg); border: 2px solid var(--muted); }
+.ms.now::before { background: var(--accent); border-color: var(--accent); }
+.ms.done::before { background: var(--ok); border-color: var(--ok); }
+.tag { font: 500 .72rem var(--mono); color: var(--muted); letter-spacing: .04em; }
+.issues { display: flex; flex-direction: column; gap: 10px; }
+.issue { background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 14px; display: grid; grid-template-columns: 2.2em 1fr; gap: 4px 10px; }
+.issue .n { font: 500 .85rem var(--mono); color: var(--accent); grid-row: span 4; }
+.issue .meta { font: 500 .78rem var(--mono); color: var(--muted); }
+.issue .check { font-size: .92rem; } .issue .check b { color: var(--ok); font-weight: 600; }
+.yours { font-size: .95rem; } .yours li { margin-bottom: 4px; }
+code { font: .88em var(--mono); }
+</style>
+
+<div class="wrap">
+  <header style="display:flex;flex-direction:column;gap:10px">
+    <span class="eyebrow">Chief · Plan for approval · 2026-10-25</span>
+    <h1>Shows For Us Plan</h1>
+    <p class="lede">A public wiki for musicals, built on Wikidata and Wikipedia, with 15 flagship shows written up in depth and live "playing next" dates from Ticketmaster. Three milestones. Only Milestone 1 is broken into issues.</p>
+    <p class="gate">Project done-gate: I search a musical I love, read its history and who wrote it and starred in it, see where it's playing next, and click through to buy tickets.</p>
+  </header>
+
+  <section class="decide">
+    <h2>Approve with these four calls</h2>
+    <ol>
+      <li><span class="rec">Keep the React frontend; set the Express/Postgres backend aside.</span> Show data is built into the site, so a static site is enough. One small Vercel function fetches Ticketmaster dates live, because Ticketmaster's terms forbid storing them. <code>backend/</code> stays untouched in M1, and so do your uncommitted axios→fetch changes. I'll ask before deleting it later.</li>
+      <li><span class="rec">Agents pick the 15 flagship shows; you swap any.</span> They choose by Tony and Pulitzer wins plus whether the show is touring or running now. Each page is drafted from Wikipedia and Wikidata with sources cited, and you spot-check it at the end of M1.</li>
+      <li><span class="rec">Hosted on Vercel's free tier.</span> It never sleeps, and the frontend already has a Vercel config. No database, so there's nothing to pause.</li>
+      <li><span class="rec">You do one thing: put your Ticketmaster key into Vercel.</span> You already have it in <code>backend/.env</code>. Until it's there, pages show your hand-listed runs plus the official ticket site, and nothing breaks.</li>
+    </ol>
+  </section>
+
+  <section>
+    <h2>Milestones</h2>
+    <div class="track">
+      <div class="ms now"><span class="tag">NEXT</span><h3>M1 · Flagship shows, end to end</h3><p>Search, 15 in-depth show pages (history, creators, original cast, notable productions), live "playing next" and buy-ticket links. Live on a public URL.</p><p class="gate">Gate: the project done-gate, for any of the 15 flagship shows.</p></div>
+      <div class="ms"><span class="tag">THEN</span><h3>M2 · Every musical</h3><p>About 6,000 musicals with a Wikipedia article get a lighter page: summary, creators, premiere, awards, and links out to IBDB, Playbill and BroadwayWorld. Search covers all of them. The data refreshes weekly.</p><p class="gate">Gate: I search an obscure musical that isn't a flagship, land on its page, and follow its IBDB link.</p></div>
+      <div class="ms"><span class="tag">THEN</span><h3>M3 · People</h3><p>Pages for composers, lyricists, writers and performers: their shows and roles, linked both ways from show pages.</p><p class="gate">Gate: from a show page I click a composer, see their other shows, and open one.</p></div>
+      <div class="ms"><span class="tag">LATER</span><h3>Possible · Tracker layer, beyond musicals</h3><p>Favorites and "near me" alerts from the 2025 plan, plus plays and opera. These are non-goals for now and get a Shape round before anything is built.</p></div>
+    </div>
+  </section>
+
+  <section>
+    <h2>M1 issues</h2>
+    <p class="lede">Agents build these in the cloud, in the order the arrows give; everything else runs in parallel. Each issue has a check that decides "done" without you. I'm also adding a <code>shows-for-us-curator</code> specialist that knows the Wikidata quirks (one show stored as several entries) and the licensing rules (credit Wikipedia text, never copy IBDB).</p>
+    <div class="issues">
+      <div class="issue"><span class="n">1</span><h3>Test harness + CI</h3><span class="meta">qa-engineer · blocks everything</span><p class="check"><b>Done:</b> <code>npm test</code> (Vitest) and <code>npm run e2e</code> (Playwright) each pass one test; GitHub Actions runs typecheck, tests and the build on every push.</p></div>
+      <div class="issue"><span class="n">2</span><h3>Wikidata + Wikipedia pull</h3><span class="meta">shows-for-us-curator · after 1</span><p class="check"><b>Done:</b> <code>npm run pull</code> writes <code>data/shows.json</code> for the flagship list, merging version entries (both Les Mis items become one show). A test against recorded responses checks creators, premiere, awards and summary text with its source link.</p></div>
+      <div class="issue"><span class="n">3</span><h3>Flagship write-ups</h3><span class="meta">shows-for-us-curator · after 2</span><p class="check"><b>Done:</b> 15 <code>content/shows/*.yaml</code> files (history, original cast, notable productions, current runs, official ticket link), each fact with a source URL. A schema test passes on all 15, and each is flagged "awaiting owner check".</p></div>
+      <div class="issue"><span class="n">4</span><h3>Show page + search</h3><span class="meta">frontend-engineer · after 2, 3</span><p class="check"><b>Done:</b> Playwright at phone and desktop size: type "hamil", pick Hamilton, see history, creators and original cast; no horizontal scroll; credit to Wikipedia is visible on the page.</p></div>
+      <div class="issue"><span class="n">5</span><h3>Live Ticketmaster dates</h3><span class="meta">backend-engineer · after 1</span><p class="check"><b>Done:</b> <code>api/events?show=…</code> test with a recorded Ticketmaster response returns dated events with buy links and caches for at most 1 hour. With no key it returns an empty list instead of an error.</p></div>
+      <div class="issue"><span class="n">6</span><h3>"Playing next" + buy tickets</h3><span class="meta">frontend-engineer · after 4, 5</span><p class="check"><b>Done:</b> Playwright: show page lists upcoming dates (Ticketmaster first, then the curated runs), each with a ticket link that opens off-site. With the function down, the official-site ticket link still shows.</p></div>
+      <div class="issue"><span class="n">7</span><h3>Deploy + weekly refresh</h3><span class="meta">backend-engineer · after 2</span><p class="check"><b>Done:</b> a Vercel preview URL serves the built site, and an Actions workflow runs the pull weekly and opens a PR when data changes. Footer carries Wikidata/Wikipedia credit and the Ticketmaster data notice.</p></div>
+    </div>
+  </section>
+
+  <section>
+    <h2>What you do</h2>
+    <ul class="yours">
+      <li>Now: approve this plan, or answer any of the four calls differently.</li>
+      <li>Any time in M1: add <code>TICKETMASTER_API_KEY</code> to the Vercel project's environment variables (copy it from <code>backend/.env</code>).</li>
+      <li>End of M1: run the gate on your phone, spot-check the 15 write-ups, and answer the batched questions.</li>
+    </ul>
+  </section>
+</div>
