@@ -1,0 +1,292 @@
+{
+  "head": {
+    "vars": [
+      "item",
+      "kind",
+      "v",
+      "vLabel",
+      "extra"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q830581"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "composer"
+        },
+        "v": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q0000010"
+        },
+        "vLabel": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Claude-Michel Schönberg"
+        },
+        "extra": {
+          "type": "literal",
+          "value": "9999992"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q830581"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "lyricist"
+        },
+        "v": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q0000011"
+        },
+        "vLabel": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Alain Boublil"
+        },
+        "extra": {
+          "type": "literal",
+          "value": "9999993"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q830581"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "lyricist"
+        },
+        "v": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q0000012"
+        },
+        "vLabel": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Jean-Marc Natel"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q830581"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "librettist"
+        },
+        "v": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q0000011"
+        },
+        "vLabel": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Alain Boublil"
+        },
+        "extra": {
+          "type": "literal",
+          "value": "9999993"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q830581"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "premiere_date"
+        },
+        "v": {
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "value": "1980-09-17T00:00:00Z"
+        },
+        "extra": {
+          "type": "literal",
+          "value": "11"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q830581"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "premiere_venue"
+        },
+        "v": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q0000013"
+        },
+        "vLabel": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Palais des Sports"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q830581"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "award"
+        },
+        "v": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q0000004"
+        },
+        "vLabel": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Tony Award for Best Musical"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q830581"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "image"
+        },
+        "v": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Les_Mis_fixture_placeholder.jpg"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q830581"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "ibdb"
+        },
+        "v": {
+          "type": "literal",
+          "value": "5340"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q830581"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "website"
+        },
+        "v": {
+          "type": "literal",
+          "value": "https://www.lesmis.com"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q111905785"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "lyricist"
+        },
+        "v": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q0000014"
+        },
+        "vLabel": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Herbert Kretzmer"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q111905785"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "lyricist"
+        },
+        "v": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q0000015"
+        },
+        "vLabel": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "James Fenton"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q111905785"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "premiere_date"
+        },
+        "v": {
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "value": "1985-09-28T00:00:00Z"
+        },
+        "extra": {
+          "type": "literal",
+          "value": "11"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q111905785"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "premiere_venue"
+        },
+        "v": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q0000016"
+        },
+        "vLabel": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Barbican Centre"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q111905785"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "playbill"
+        },
+        "v": {
+          "type": "literal",
+          "value": "les-miserables-fixture-placeholder-0000000000"
+        }
+      }
+    ]
+  }
+}
