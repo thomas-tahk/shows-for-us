@@ -1,0 +1,72 @@
+# Draft written from the drafter's own knowledge; cited URLs NOT opened (sources_opened: false).
+# Owner: open each source, correct or cut facts, then see content/README.md.
+slug: hadestown
+title: "Hadestown"
+status: awaiting-owner-check
+sources_opened: false
+creators:
+  - name: "Anaïs Mitchell"
+    role: "book, music and lyrics"
+    source: https://en.wikipedia.org/wiki/Hadestown
+  - name: "Rachel Chavkin"
+    role: "director"
+    source: https://en.wikipedia.org/wiki/Hadestown
+history:
+  - text: "Anaïs Mitchell developed Hadestown from a folk-opera song cycle into a stage musical that retells the Greek myth of Orpheus and Eurydice in a post-apocalyptic, jazz and folk-inflected setting."
+    source: https://en.wikipedia.org/wiki/Hadestown
+  - text: "A staged version played Off-Broadway at New York Theatre Workshop in 2016, followed by productions in Edmonton and at London's National Theatre before it reached Broadway's Walter Kerr Theatre in April 2019. A West End production followed at the Lyric Theatre."
+    source: https://en.wikipedia.org/wiki/Hadestown
+  - text: "It won the Tony Award for Best Musical in 2019."
+    source: https://en.wikipedia.org/wiki/Hadestown
+original_cast:
+  - person: "Reeve Carney"
+    role: "Orpheus"
+    production: "Broadway 2019"
+    source: https://en.wikipedia.org/wiki/Hadestown
+  - person: "Eva Noblezada"
+    role: "Eurydice"
+    production: "Broadway 2019"
+    source: https://en.wikipedia.org/wiki/Hadestown
+  - person: "André De Shields"
+    role: "Hermes"
+    production: "Broadway 2019"
+    source: https://en.wikipedia.org/wiki/Hadestown
+  - person: "Patrick Page"
+    role: "Hades"
+    production: "Broadway 2019"
+    source: https://en.wikipedia.org/wiki/Hadestown
+  - person: "Amber Gray"
+    role: "Persephone"
+    production: "Broadway 2019"
+    source: https://en.wikipedia.org/wiki/Hadestown
+productions:
+  - name: "Off-Broadway"
+    venue: "New York Theatre Workshop"
+    city: "New York"
+    opened: "2016"
+    source: https://en.wikipedia.org/wiki/Hadestown
+  - name: "National Theatre"
+    venue: "Olivier Theatre"
+    city: "London"
+    opened: "2018"
+    source: https://en.wikipedia.org/wiki/Hadestown
+  - name: "Broadway"
+    venue: "Walter Kerr Theatre"
+    city: "New York"
+    opened: "2019-04-17"
+    source: https://en.wikipedia.org/wiki/Hadestown
+  - name: "West End"
+    venue: "Lyric Theatre"
+    city: "London"
+    opened: "2023"
+    source: https://en.wikipedia.org/wiki/Hadestown
+awards:
+  - name: "Tony Award for Best Musical"
+    year: 2019
+    source: https://en.wikipedia.org/wiki/Hadestown
+# Current and announced runs: none entered yet. Ticketmaster live data covers 'playing next'.
+# Add entries from the official site (name, venue, city, start?, end?, ticket_url, source, checked).
+runs: []
+tickets:
+  official_url: https://hadestown.com
+  source: https://hadestown.com

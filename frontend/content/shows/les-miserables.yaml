@@ -1,0 +1,71 @@
+# Draft written from the drafter's own knowledge; cited URLs NOT opened (sources_opened: false).
+# Owner: open each source, correct or cut facts, then see content/README.md.
+slug: les-miserables
+title: "Les Misérables"
+status: awaiting-owner-check
+sources_opened: false
+creators:
+  - name: "Claude-Michel Schönberg"
+    role: "music"
+    source: https://en.wikipedia.org/wiki/Les_Misérables_(musical)
+  - name: "Alain Boublil"
+    role: "original French lyrics"
+    source: https://en.wikipedia.org/wiki/Les_Misérables_(musical)
+  - name: "Herbert Kretzmer"
+    role: "English lyrics"
+    source: https://en.wikipedia.org/wiki/Les_Misérables_(musical)
+history:
+  - text: "The musical adapts Victor Hugo's 1862 novel of the same name. It began as a French-language concept recording and stage show in Paris in 1980, before producer Cameron Mackintosh commissioned an English-language version."
+    source: https://en.wikipedia.org/wiki/Les_Misérables_(musical)
+  - text: "The English production, co-produced with the Royal Shakespeare Company, opened at the Barbican in London in October 1985 and soon transferred to the Palace Theatre in the West End. It reached Broadway in March 1987 and has since toured widely and been staged around the world."
+    source: https://en.wikipedia.org/wiki/Les_Misérables_(musical)
+  - text: "The Broadway production won the Tony Award for Best Musical in 1987."
+    source: https://en.wikipedia.org/wiki/Les_Misérables_(musical)
+original_cast:
+  - person: "Colm Wilkinson"
+    role: "Jean Valjean"
+    production: "London 1985"
+    source: https://en.wikipedia.org/wiki/Les_Misérables_(musical)
+  - person: "Roger Allam"
+    role: "Javert"
+    production: "London 1985"
+    source: https://en.wikipedia.org/wiki/Les_Misérables_(musical)
+  - person: "Patti LuPone"
+    role: "Fantine"
+    production: "London 1985"
+    source: https://en.wikipedia.org/wiki/Les_Misérables_(musical)
+  - person: "Frances Ruffelle"
+    role: "\u00c9ponine"
+    production: "London 1985"
+    source: https://en.wikipedia.org/wiki/Les_Misérables_(musical)
+  - person: "Michael Ball"
+    role: "Marius"
+    production: "London 1985"
+    source: https://en.wikipedia.org/wiki/Les_Misérables_(musical)
+productions:
+  - name: "Original French production"
+    venue: "Palais des Sports"
+    city: "Paris"
+    opened: "1980"
+    source: https://en.wikipedia.org/wiki/Les_Misérables_(musical)
+  - name: "London (English-language premiere)"
+    venue: "Barbican Theatre"
+    city: "London"
+    opened: "1985-10-08"
+    note: "Later transferred to the Palace Theatre"
+    source: https://en.wikipedia.org/wiki/Les_Misérables_(musical)
+  - name: "Broadway"
+    venue: "Broadway Theatre"
+    city: "New York"
+    opened: "1987-03-12"
+    source: https://en.wikipedia.org/wiki/Les_Misérables_(musical)
+awards:
+  - name: "Tony Award for Best Musical"
+    year: 1987
+    source: https://en.wikipedia.org/wiki/Les_Misérables_(musical)
+# Current and announced runs: none entered yet. Ticketmaster live data covers 'playing next'.
+# Add entries from the official site (name, venue, city, start?, end?, ticket_url, source, checked).
+runs: []
+tickets:
+  official_url: https://www.lesmis.com
+  source: https://www.lesmis.com

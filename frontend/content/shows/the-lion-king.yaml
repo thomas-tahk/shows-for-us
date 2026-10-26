@@ -1,0 +1,72 @@
+# Draft written from the drafter's own knowledge; cited URLs NOT opened (sources_opened: false).
+# Owner: open each source, correct or cut facts, then see content/README.md.
+slug: the-lion-king
+title: "The Lion King"
+status: awaiting-owner-check
+sources_opened: false
+creators:
+  - name: "Elton John"
+    role: "music"
+    source: https://en.wikipedia.org/wiki/The_Lion_King_(musical)
+  - name: "Tim Rice"
+    role: "lyrics"
+    source: https://en.wikipedia.org/wiki/The_Lion_King_(musical)
+  - name: "Roger Allers"
+    role: "book"
+    source: https://en.wikipedia.org/wiki/The_Lion_King_(musical)
+  - name: "Irene Mecchi"
+    role: "book"
+    source: https://en.wikipedia.org/wiki/The_Lion_King_(musical)
+  - name: "Julie Taymor"
+    role: "director"
+    source: https://en.wikipedia.org/wiki/The_Lion_King_(musical)
+history:
+  - text: "The stage show adapts Disney's 1994 animated film. Director Julie Taymor became known for its approach to staging, using elaborate puppetry and masks worn by performers rather than costumes that hide them."
+    source: https://en.wikipedia.org/wiki/The_Lion_King_(musical)
+  - text: "After a tryout in Minneapolis in 1997, it opened on Broadway at the New Amsterdam Theatre in November 1997. It later moved to the Minskoff Theatre, and a West End production opened at the Lyceum Theatre in 1999. Companies have toured and settled in many countries since."
+    source: https://en.wikipedia.org/wiki/The_Lion_King_(musical)
+  - text: "It won the Tony Award for Best Musical in 1998."
+    source: https://en.wikipedia.org/wiki/The_Lion_King_(musical)
+original_cast:
+  - person: "Jason Raize"
+    role: "Simba"
+    production: "Broadway 1997"
+    source: https://en.wikipedia.org/wiki/The_Lion_King_(musical)
+  - person: "Heather Headley"
+    role: "Nala"
+    production: "Broadway 1997"
+    source: https://en.wikipedia.org/wiki/The_Lion_King_(musical)
+  - person: "Samuel E. Wright"
+    role: "Mufasa"
+    production: "Broadway 1997"
+    source: https://en.wikipedia.org/wiki/The_Lion_King_(musical)
+  - person: "John Vickery"
+    role: "Scar"
+    production: "Broadway 1997"
+    source: https://en.wikipedia.org/wiki/The_Lion_King_(musical)
+  - person: "Tsidii Le Loka"
+    role: "Rafiki"
+    production: "Broadway 1997"
+    source: https://en.wikipedia.org/wiki/The_Lion_King_(musical)
+productions:
+  - name: "Broadway"
+    venue: "New Amsterdam Theatre"
+    city: "New York"
+    opened: "1997-11-13"
+    note: "Later moved to the Minskoff Theatre"
+    source: https://en.wikipedia.org/wiki/The_Lion_King_(musical)
+  - name: "West End"
+    venue: "Lyceum Theatre"
+    city: "London"
+    opened: "1999-10"
+    source: https://en.wikipedia.org/wiki/The_Lion_King_(musical)
+awards:
+  - name: "Tony Award for Best Musical"
+    year: 1998
+    source: https://en.wikipedia.org/wiki/The_Lion_King_(musical)
+# Current and announced runs: none entered yet. Ticketmaster live data covers 'playing next'.
+# Add entries from the official site (name, venue, city, start?, end?, ticket_url, source, checked).
+runs: []
+tickets:
+  official_url: https://www.lionking.com
+  source: https://www.lionking.com

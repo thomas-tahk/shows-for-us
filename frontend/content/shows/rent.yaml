@@ -1,0 +1,61 @@
+# Draft written from the drafter's own knowledge; cited URLs NOT opened (sources_opened: false).
+# Owner: open each source, correct or cut facts, then see content/README.md.
+slug: rent
+title: "Rent"
+status: awaiting-owner-check
+sources_opened: false
+creators:
+  - name: "Jonathan Larson"
+    role: "book, music and lyrics"
+    source: https://en.wikipedia.org/wiki/Rent_(musical)
+history:
+  - text: "Jonathan Larson's rock musical is loosely based on Puccini's opera La bohème and follows a group of struggling artists in New York's East Village. Larson died suddenly on the eve of the first Off-Broadway preview, in January 1996."
+    source: https://en.wikipedia.org/wiki/Rent_(musical)
+  - text: "It opened Off-Broadway at New York Theatre Workshop in February 1996 and moved to Broadway's Nederlander Theatre in April 1996. A West End production and national tours followed."
+    source: https://en.wikipedia.org/wiki/Rent_(musical)
+original_cast:
+  - person: "Anthony Rapp"
+    role: "Mark Cohen"
+    production: "Broadway 1996"
+    source: https://en.wikipedia.org/wiki/Rent_(musical)
+  - person: "Adam Pascal"
+    role: "Roger Davis"
+    production: "Broadway 1996"
+    source: https://en.wikipedia.org/wiki/Rent_(musical)
+  - person: "Idina Menzel"
+    role: "Maureen Johnson"
+    production: "Broadway 1996"
+    source: https://en.wikipedia.org/wiki/Rent_(musical)
+  - person: "Daphne Rubin-Vega"
+    role: "Mimi M\u00e1rquez"
+    production: "Broadway 1996"
+    source: https://en.wikipedia.org/wiki/Rent_(musical)
+  - person: "Taye Diggs"
+    role: "Benny"
+    production: "Broadway 1996"
+    source: https://en.wikipedia.org/wiki/Rent_(musical)
+  - person: "Jesse L. Martin"
+    role: "Tom Collins"
+    production: "Broadway 1996"
+    source: https://en.wikipedia.org/wiki/Rent_(musical)
+productions:
+  - name: "Off-Broadway"
+    venue: "New York Theatre Workshop"
+    city: "New York"
+    opened: "1996-02"
+    source: https://en.wikipedia.org/wiki/Rent_(musical)
+  - name: "Broadway"
+    venue: "Nederlander Theatre"
+    city: "New York"
+    opened: "1996-04-29"
+    source: https://en.wikipedia.org/wiki/Rent_(musical)
+awards:
+  - name: "Pulitzer Prize for Drama"
+    year: 1996
+    source: https://en.wikipedia.org/wiki/Rent_(musical)
+  - name: "Tony Award for Best Musical"
+    year: 1996
+    source: https://en.wikipedia.org/wiki/Rent_(musical)
+# Current and announced runs: none entered yet. Ticketmaster live data covers 'playing next'.
+# Add entries from the official site (name, venue, city, start?, end?, ticket_url, source, checked).
+runs: []

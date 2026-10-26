@@ -1,0 +1,61 @@
+# Draft written from the drafter's own knowledge; cited URLs NOT opened (sources_opened: false).
+# Owner: open each source, correct or cut facts, then see content/README.md.
+slug: the-phantom-of-the-opera
+title: "The Phantom of the Opera"
+status: awaiting-owner-check
+sources_opened: false
+creators:
+  - name: "Andrew Lloyd Webber"
+    role: "music"
+    source: https://en.wikipedia.org/wiki/The_Phantom_of_the_Opera_(1986_musical)
+  - name: "Charles Hart"
+    role: "lyrics"
+    source: https://en.wikipedia.org/wiki/The_Phantom_of_the_Opera_(1986_musical)
+  - name: "Richard Stilgoe"
+    role: "additional lyrics and co-book"
+    source: https://en.wikipedia.org/wiki/The_Phantom_of_the_Opera_(1986_musical)
+  - name: "Hal Prince"
+    role: "director"
+    source: https://en.wikipedia.org/wiki/The_Phantom_of_the_Opera_(1986_musical)
+history:
+  - text: "The musical is based on Gaston Leroux's 1910 novel about a disfigured musical genius who haunts the Paris Opera House and becomes obsessed with a young soprano, Christine. Andrew Lloyd Webber composed the score."
+    source: https://en.wikipedia.org/wiki/The_Phantom_of_the_Opera_(1986_musical)
+  - text: "It opened in the West End at Her Majesty's Theatre in October 1986 and on Broadway at the Majestic Theatre in January 1988. The Broadway production became the longest-running show in that city's history before closing in April 2023."
+    source: https://en.wikipedia.org/wiki/The_Phantom_of_the_Opera_(1986_musical)
+  - text: "The Broadway production won the Tony Award for Best Musical in 1988."
+    source: https://en.wikipedia.org/wiki/The_Phantom_of_the_Opera_(1986_musical)
+original_cast:
+  - person: "Michael Crawford"
+    role: "The Phantom"
+    production: "West End 1986"
+    source: https://en.wikipedia.org/wiki/The_Phantom_of_the_Opera_(1986_musical)
+  - person: "Sarah Brightman"
+    role: "Christine Daa\u00e9"
+    production: "West End 1986"
+    source: https://en.wikipedia.org/wiki/The_Phantom_of_the_Opera_(1986_musical)
+  - person: "Steve Barton"
+    role: "Raoul"
+    production: "West End 1986"
+    source: https://en.wikipedia.org/wiki/The_Phantom_of_the_Opera_(1986_musical)
+productions:
+  - name: "West End"
+    venue: "Her Majesty's Theatre"
+    city: "London"
+    opened: "1986-10-09"
+    source: https://en.wikipedia.org/wiki/The_Phantom_of_the_Opera_(1986_musical)
+  - name: "Broadway"
+    venue: "Majestic Theatre"
+    city: "New York"
+    opened: "1988-01-26"
+    note: "Closed April 2023"
+    source: https://en.wikipedia.org/wiki/The_Phantom_of_the_Opera_(1986_musical)
+awards:
+  - name: "Tony Award for Best Musical"
+    year: 1988
+    source: https://en.wikipedia.org/wiki/The_Phantom_of_the_Opera_(1986_musical)
+# Current and announced runs: none entered yet. Ticketmaster live data covers 'playing next'.
+# Add entries from the official site (name, venue, city, start?, end?, ticket_url, source, checked).
+runs: []
+tickets:
+  official_url: https://www.thephantomoftheopera.com
+  source: https://www.thephantomoftheopera.com

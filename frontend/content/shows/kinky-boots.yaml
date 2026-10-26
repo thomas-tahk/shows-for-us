@@ -1,0 +1,56 @@
+# Draft written from the drafter's own knowledge; cited URLs NOT opened (sources_opened: false).
+# Owner: open each source, correct or cut facts, then see content/README.md.
+slug: kinky-boots
+title: "Kinky Boots"
+status: awaiting-owner-check
+sources_opened: false
+creators:
+  - name: "Cyndi Lauper"
+    role: "music and lyrics"
+    source: https://en.wikipedia.org/wiki/Kinky_Boots_(musical)
+  - name: "Harvey Fierstein"
+    role: "book"
+    source: https://en.wikipedia.org/wiki/Kinky_Boots_(musical)
+history:
+  - text: "The musical is based on the 2005 British film of the same name, about a struggling shoe factory that turns to making boots for drag performers. Cyndi Lauper wrote the score, her first for the stage, and Harvey Fierstein the book."
+    source: https://en.wikipedia.org/wiki/Kinky_Boots_(musical)
+  - text: "After a tryout in Chicago in late 2012, it opened on Broadway at the Al Hirschfeld Theatre in April 2013. A West End production opened at the Adelphi Theatre in 2015."
+    source: https://en.wikipedia.org/wiki/Kinky_Boots_(musical)
+  - text: "It won the Tony Award for Best Musical in 2013."
+    source: https://en.wikipedia.org/wiki/Kinky_Boots_(musical)
+original_cast:
+  - person: "Billy Porter"
+    role: "Lola"
+    production: "Broadway 2013"
+    source: https://en.wikipedia.org/wiki/Kinky_Boots_(musical)
+  - person: "Stark Sands"
+    role: "Charlie Price"
+    production: "Broadway 2013"
+    source: https://en.wikipedia.org/wiki/Kinky_Boots_(musical)
+  - person: "Annaleigh Ashford"
+    role: "Lauren"
+    production: "Broadway 2013"
+    source: https://en.wikipedia.org/wiki/Kinky_Boots_(musical)
+productions:
+  - name: "Pre-Broadway"
+    venue: "Bank of America Theatre"
+    city: "Chicago"
+    opened: "2012"
+    source: https://en.wikipedia.org/wiki/Kinky_Boots_(musical)
+  - name: "Broadway"
+    venue: "Al Hirschfeld Theatre"
+    city: "New York"
+    opened: "2013-04-04"
+    source: https://en.wikipedia.org/wiki/Kinky_Boots_(musical)
+  - name: "West End"
+    venue: "Adelphi Theatre"
+    city: "London"
+    opened: "2015"
+    source: https://en.wikipedia.org/wiki/Kinky_Boots_(musical)
+awards:
+  - name: "Tony Award for Best Musical"
+    year: 2013
+    source: https://en.wikipedia.org/wiki/Kinky_Boots_(musical)
+# Current and announced runs: none entered yet. Ticketmaster live data covers 'playing next'.
+# Add entries from the official site (name, venue, city, start?, end?, ticket_url, source, checked).
+runs: []

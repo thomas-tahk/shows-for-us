@@ -1,0 +1,65 @@
+# Draft written from the drafter's own knowledge; cited URLs NOT opened (sources_opened: false).
+# Owner: open each source, correct or cut facts, then see content/README.md.
+slug: the-book-of-mormon
+title: "The Book of Mormon"
+status: awaiting-owner-check
+sources_opened: false
+creators:
+  - name: "Trey Parker"
+    role: "book, music and lyrics"
+    source: https://en.wikipedia.org/wiki/The_Book_of_Mormon_(musical)
+  - name: "Robert Lopez"
+    role: "book, music and lyrics"
+    source: https://en.wikipedia.org/wiki/The_Book_of_Mormon_(musical)
+  - name: "Matt Stone"
+    role: "book, music and lyrics"
+    source: https://en.wikipedia.org/wiki/The_Book_of_Mormon_(musical)
+history:
+  - text: "The satirical musical follows two young missionaries sent to Uganda. It was created by South Park co-creators Trey Parker and Matt Stone together with Robert Lopez, co-composer of Avenue Q, and directed by Parker and Casey Nicholaw."
+    source: https://en.wikipedia.org/wiki/The_Book_of_Mormon_(musical)
+  - text: "It opened on Broadway at the Eugene O'Neill Theatre in March 2011. A West End production opened at the Prince of Wales Theatre in 2013, and North American tours followed."
+    source: https://en.wikipedia.org/wiki/The_Book_of_Mormon_(musical)
+  - text: "The show won nine Tony Awards, including Best Musical, in 2011."
+    source: https://en.wikipedia.org/wiki/The_Book_of_Mormon_(musical)
+original_cast:
+  - person: "Andrew Rannells"
+    role: "Elder Price"
+    production: "Broadway 2011"
+    source: https://en.wikipedia.org/wiki/The_Book_of_Mormon_(musical)
+  - person: "Josh Gad"
+    role: "Elder Cunningham"
+    production: "Broadway 2011"
+    source: https://en.wikipedia.org/wiki/The_Book_of_Mormon_(musical)
+  - person: "Nikki M. James"
+    role: "Nabulungi"
+    production: "Broadway 2011"
+    source: https://en.wikipedia.org/wiki/The_Book_of_Mormon_(musical)
+  - person: "Rory O'Malley"
+    role: "Elder McKinley"
+    production: "Broadway 2011"
+    source: https://en.wikipedia.org/wiki/The_Book_of_Mormon_(musical)
+  - person: "Michael Potts"
+    role: "Mafala Hatimbi"
+    production: "Broadway 2011"
+    source: https://en.wikipedia.org/wiki/The_Book_of_Mormon_(musical)
+productions:
+  - name: "Broadway"
+    venue: "Eugene O'Neill Theatre"
+    city: "New York"
+    opened: "2011-03-24"
+    source: https://en.wikipedia.org/wiki/The_Book_of_Mormon_(musical)
+  - name: "West End"
+    venue: "Prince of Wales Theatre"
+    city: "London"
+    opened: "2013-03"
+    source: https://en.wikipedia.org/wiki/The_Book_of_Mormon_(musical)
+awards:
+  - name: "Tony Award for Best Musical"
+    year: 2011
+    source: https://en.wikipedia.org/wiki/The_Book_of_Mormon_(musical)
+# Current and announced runs: none entered yet. Ticketmaster live data covers 'playing next'.
+# Add entries from the official site (name, venue, city, start?, end?, ticket_url, source, checked).
+runs: []
+tickets:
+  official_url: https://bookofmormonbroadway.com
+  source: https://bookofmormonbroadway.com
