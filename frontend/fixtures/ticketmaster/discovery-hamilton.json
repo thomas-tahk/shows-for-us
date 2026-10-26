@@ -1,0 +1,48 @@
+{
+  "_embedded": {
+    "events": [
+      {
+        "name": "Hamilton (Touring)",
+        "type": "event",
+        "id": "evt-late",
+        "url": "https://www.ticketmaster.com/event/evt-late",
+        "dates": { "start": { "localDate": "2026-12-10", "localTime": "19:30:00", "dateTBA": false } },
+        "_embedded": { "venues": [ { "name": "Orpheum Theatre", "city": { "name": "Minneapolis" }, "state": { "name": "Minnesota", "stateCode": "MN" } } ] }
+      },
+      {
+        "name": "Cirque Du Soleil: Corteo",
+        "type": "event",
+        "id": "evt-offtopic",
+        "url": "https://www.ticketmaster.com/event/evt-offtopic",
+        "dates": { "start": { "localDate": "2026-11-02", "localTime": "20:00:00" } },
+        "_embedded": { "venues": [ { "name": "Arena", "city": { "name": "Denver" }, "state": { "stateCode": "CO" } } ] }
+      },
+      {
+        "name": "HAMILTON",
+        "type": "event",
+        "id": "evt-early",
+        "url": "https://www.ticketmaster.com/event/evt-early",
+        "dates": { "start": { "localDate": "2026-11-05", "localTime": "19:00:00" } },
+        "_embedded": { "venues": [ { "name": "Richard Rodgers Theatre", "city": { "name": "New York" }, "state": { "name": "New York", "stateCode": "NY" } } ] }
+      },
+      {
+        "name": "Hamilton",
+        "type": "event",
+        "id": "evt-notime",
+        "url": "https://www.ticketmaster.com/event/evt-notime",
+        "dates": { "start": { "localDate": "2026-11-20", "noSpecificTime": true } },
+        "_embedded": { "venues": [ { "name": "Kennedy Center Opera House", "city": { "name": "Washington" }, "state": { "stateCode": "DC" } } ] }
+      },
+      {
+        "name": "Hamilton (date TBA)",
+        "type": "event",
+        "id": "evt-tba",
+        "url": "https://www.ticketmaster.com/event/evt-tba",
+        "dates": { "start": { "dateTBA": true } },
+        "_embedded": { "venues": [ { "name": "Somewhere", "city": { "name": "Austin" }, "state": { "stateCode": "TX" } } ] }
+      }
+    ]
+  },
+  "_links": { "self": { "href": "/discovery/v2/events.json?keyword=Hamilton" } },
+  "page": { "size": 20, "totalElements": 5, "totalPages": 1, "number": 0 }
+}

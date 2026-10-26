@@ -1,0 +1,68 @@
+# Draft written from the drafter's own knowledge; cited URLs NOT opened (sources_opened: false).
+# Owner: open each source, correct or cut facts, then see content/README.md.
+slug: dear-evan-hansen
+title: "Dear Evan Hansen"
+status: awaiting-owner-check
+sources_opened: false
+creators:
+  - name: "Steven Levenson"
+    role: "book"
+    source: https://en.wikipedia.org/wiki/Dear_Evan_Hansen
+  - name: "Benj Pasek"
+    role: "music and lyrics"
+    source: https://en.wikipedia.org/wiki/Dear_Evan_Hansen
+  - name: "Justin Paul"
+    role: "music and lyrics"
+    source: https://en.wikipedia.org/wiki/Dear_Evan_Hansen
+history:
+  - text: "The musical follows a socially anxious high school student whose private letter to himself is mistaken for a note by a classmate who has died. Steven Levenson wrote the book, and Benj Pasek and Justin Paul wrote the songs."
+    source: https://en.wikipedia.org/wiki/Dear_Evan_Hansen
+  - text: "It premiered at Arena Stage in Washington, D.C., in 2015, played Off-Broadway at Second Stage Theatre in 2016, and opened on Broadway at the Music Box Theatre in December 2016. A West End production followed in 2019."
+    source: https://en.wikipedia.org/wiki/Dear_Evan_Hansen
+  - text: "It won the Tony Award for Best Musical in 2017."
+    source: https://en.wikipedia.org/wiki/Dear_Evan_Hansen
+original_cast:
+  - person: "Ben Platt"
+    role: "Evan Hansen"
+    production: "Broadway 2016"
+    source: https://en.wikipedia.org/wiki/Dear_Evan_Hansen
+  - person: "Rachel Bay Jones"
+    role: "Heidi Hansen"
+    production: "Broadway 2016"
+    source: https://en.wikipedia.org/wiki/Dear_Evan_Hansen
+  - person: "Laura Dreyfuss"
+    role: "Zoe Murphy"
+    production: "Broadway 2016"
+    source: https://en.wikipedia.org/wiki/Dear_Evan_Hansen
+  - person: "Mike Faist"
+    role: "Connor Murphy"
+    production: "Broadway 2016"
+    source: https://en.wikipedia.org/wiki/Dear_Evan_Hansen
+productions:
+  - name: "World premiere"
+    venue: "Arena Stage"
+    city: "Washington, D.C."
+    opened: "2015"
+    source: https://en.wikipedia.org/wiki/Dear_Evan_Hansen
+  - name: "Off-Broadway"
+    venue: "Second Stage Theatre"
+    city: "New York"
+    opened: "2016"
+    source: https://en.wikipedia.org/wiki/Dear_Evan_Hansen
+  - name: "Broadway"
+    venue: "Music Box Theatre"
+    city: "New York"
+    opened: "2016-12-04"
+    source: https://en.wikipedia.org/wiki/Dear_Evan_Hansen
+  - name: "West End"
+    venue: "No\u00ebl Coward Theatre"
+    city: "London"
+    opened: "2019"
+    source: https://en.wikipedia.org/wiki/Dear_Evan_Hansen
+awards:
+  - name: "Tony Award for Best Musical"
+    year: 2017
+    source: https://en.wikipedia.org/wiki/Dear_Evan_Hansen
+# Current and announced runs: none entered yet. Ticketmaster live data covers 'playing next'.
+# Add entries from the official site (name, venue, city, start?, end?, ticket_url, source, checked).
+runs: []
