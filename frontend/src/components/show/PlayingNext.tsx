@@ -1,5 +1,5 @@
 import type { Run } from '../../data/writeup'
-import { formatLocalDate, formatLocalTime, formatPartialDate, type ShowEvent } from '../../data/events'
+import { formatLocalDate, formatLocalTime, formatPartialDate, localToday, upcomingRuns, type ShowEvent } from '../../data/events'
 import Section from './Section'
 
 interface Props {
@@ -7,6 +7,8 @@ interface Props {
   events: ShowEvent[]
   runs: Run[]
   officialUrl?: string
+  /** YYYY-MM-DD used to drop finished runs; defaults to the viewer's local date. */
+  today?: string
 }
 
 const linkClass =
@@ -32,19 +34,23 @@ function runDates(run: Run): string {
   return ''
 }
 
-const itemClass = 'flex flex-wrap items-center justify-between gap-3 rounded-lg border border-neutral-700 p-3'
+const itemClass =
+  'flex flex-col items-start gap-3 rounded-lg border border-neutral-700 p-3 sm:flex-row sm:flex-wrap sm:items-center sm:justify-between'
 
-export default function PlayingNext({ state, events, runs, officialUrl }: Props) {
+export default function PlayingNext({ state, events, runs: allRuns, officialUrl, today }: Props) {
   const showEvents = state === 'ok' && events.length > 0
+  const runs = upcomingRuns(allRuns, today ?? localToday())
+  const status =
+    state === 'loading'
+      ? 'Checking live dates…'
+      : state === 'unavailable'
+        ? 'Live dates are unavailable right now.'
+        : events.length === 0
+          ? 'No upcoming dates found on Ticketmaster.'
+          : `${events.length} upcoming ${events.length === 1 ? 'date' : 'dates'} from Ticketmaster.`
   return (
     <Section id="playing-next-h" title="Playing next">
-      {state === 'loading' && <p className="text-neutral-300" role="status">Checking live dates…</p>}
-      {state === 'unavailable' && (
-        <p className="text-neutral-200" role="status">Live dates are unavailable right now.</p>
-      )}
-      {state === 'ok' && events.length === 0 && (
-        <p className="text-neutral-200">No upcoming dates found on Ticketmaster.</p>
-      )}
+      <p role="status" className={showEvents ? 'sr-only' : 'text-neutral-200'}>{status}</p>
 
       {showEvents && (
         <div>
@@ -57,7 +63,7 @@ export default function PlayingNext({ state, events, runs, officialUrl }: Props)
                     <p className="font-semibold text-white">{when}</p>
                     <p className="text-sm text-neutral-300 break-words">{place(e.venue, e.city, e.state)}</p>
                   </div>
-                  <OutLink href={e.url} label="Tickets" detail={`for ${formatLocalDate(e.date)}${e.venue ? ` at ${e.venue}` : ''}`} />
+                  <OutLink href={e.url} label="Tickets" detail={`for ${when}${e.venue ? ` at ${e.venue}` : ''}`} />
                 </li>
               )
             })}

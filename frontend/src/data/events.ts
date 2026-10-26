@@ -1,3 +1,5 @@
+import type { Run } from './writeup'
+
 /**
  * Mirrors `ShowEvent` in api/_lib/events.ts (the app tsconfig only includes src/, and that
  * file belongs to the Vercel function's program). Keep the two in sync.
@@ -33,6 +35,20 @@ export function formatLocalTime(time: string): string {
   if (!m) return time
   const h = Number(m[1])
   return `${h % 12 === 0 ? 12 : h % 12}:${m[2]} ${h < 12 ? 'AM' : 'PM'}`
+}
+
+/** The viewer's local date as YYYY-MM-DD. */
+export function localToday(): string {
+  const n = new Date()
+  const p2 = (x: number) => String(x).padStart(2, '0')
+  return `${n.getFullYear()}-${p2(n.getMonth() + 1)}-${p2(n.getDate())}`
+}
+
+/** Drops runs that ended before `today` and sorts by start (runs with no start last). End may be YYYY or YYYY-MM. */
+export function upcomingRuns(runs: Run[], today: string): Run[] {
+  return runs
+    .filter(r => !r.end || r.end >= today.slice(0, r.end.length))
+    .sort((a, b) => (a.start ?? '9999').localeCompare(b.start ?? '9999'))
 }
 
 /** Curated run dates may be YYYY, YYYY-MM or YYYY-MM-DD. */

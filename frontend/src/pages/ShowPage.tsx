@@ -70,7 +70,6 @@ export default function ShowPage() {
       )}
 
       <ShowLinks
-        officialUrl={officialUrl}
         ibdb={live ? data.links.ibdb : undefined}
         playbill={live ? data.links.playbill : undefined}
       />

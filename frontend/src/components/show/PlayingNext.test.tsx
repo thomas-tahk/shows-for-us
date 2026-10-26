@@ -45,7 +45,7 @@ describe('PlayingNext', () => {
       expect(a.getAttribute('rel')).toContain('noopener')
       expect(a.textContent).toContain('(opens in a new tab)')
     }
-    const t = screen.getByRole('link', { name: /Tickets for Sat, Nov 14, 2026 at Richard Rodgers Theatre/ })
+    const t = screen.getByRole('link', { name: /Tickets for Sat, Nov 14, 2026 · 7:30 PM at Richard Rodgers Theatre/ })
     expect(t.getAttribute('href')).toBe(event.url)
   })
 
@@ -84,5 +84,29 @@ describe('PlayingNext', () => {
     render(<PlayingNext state="unavailable" events={[]} runs={[]} />)
     expect(screen.getByRole('heading', { name: 'Playing next' })).toBeTruthy()
     expect(screen.queryAllByRole('link')).toHaveLength(0)
+  })
+
+  it('gives same-day shows distinct link names by including the time', () => {
+    const evening = { ...event, id: 'e2', time: '20:00:00', url: 'https://www.ticketmaster.com/e2' }
+    const matinee = { ...event, id: 'e3', time: '14:00:00', url: 'https://www.ticketmaster.com/e3' }
+    render(<PlayingNext state="ok" events={[matinee, evening]} runs={[]} />)
+    expect(screen.getByRole('link', { name: /Tickets for Sat, Nov 14, 2026 · 2:00 PM at/ })).toBeTruthy()
+    expect(screen.getByRole('link', { name: /Tickets for Sat, Nov 14, 2026 · 8:00 PM at/ })).toBeTruthy()
+  })
+
+  it('keeps one status line that reflects the state', () => {
+    const { rerender } = render(<PlayingNext state="loading" events={[]} runs={[]} />)
+    expect(screen.getByRole('status').textContent).toBe('Checking live dates…')
+    rerender(<PlayingNext state="ok" events={[event]} runs={[]} />)
+    expect(screen.getAllByRole('status')).toHaveLength(1)
+    expect(screen.getByRole('status').textContent).toBe('1 upcoming date from Ticketmaster.')
+  })
+
+  it('drops finished runs and sorts the rest by start', () => {
+    const mk = (name: string, start?: string, end?: string): Run => ({ ...run, name, ticket_url: `https://example.com/${name}`, start, end })
+    const runs = [mk('Later', '2027-03-01', '2027-03-10'), mk('Done', '2026-01-01', '2026-02-01'), mk('Soon', '2026-11-01', '2026-11-30'), mk('Today', '2026-10-20', '2026-10-26')]
+    render(<PlayingNext state="unavailable" events={[]} runs={runs} today="2026-10-26" />)
+    const names = screen.getAllByRole('listitem').map(li => li.querySelector('p')?.textContent)
+    expect(names).toEqual(['Today', 'Soon', 'Later'])
   })
 })
