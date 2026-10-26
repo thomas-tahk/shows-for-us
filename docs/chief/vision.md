@@ -15,7 +15,10 @@ A public wiki for musicals and the performing arts: each show's history, the peo
 - Accounts, favorites, personalized feed, proximity alerts (the 2025 tracker plan). Possible later layer.
 - Reviews.
 
-## Done-gate (draft, unconfirmed)
+## Depth decision (2026-10-25)
+v1 hand-curates ~10–20 flagship shows in depth (agents draft from Wikipedia/Wikidata, owner spot-checks); every other show links out to IBDB via Wikidata IDs.
+
+## Done-gate (confirmed 2026-10-25)
 I search a musical I love, read its history and who wrote it and starred in it, see where it's playing next, and click through to buy tickets.
 
 ## Assumptions
