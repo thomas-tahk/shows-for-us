@@ -13,6 +13,7 @@ const flagships = JSON.parse(readFileSync(join(root, 'data/flagships.json'), 'ut
 const dir = join(root, 'content/shows')
 const files = readdirSync(dir).filter((f) => f.endsWith('.yaml'))
 const read = (p: string) => load(readFileSync(p, 'utf8'))
+type Good = Record<string, unknown> & { history: object[]; productions: object[] }
 
 describe('curated write-ups', () => {
   it('has exactly one file per flagship slug', () => {
@@ -27,14 +28,13 @@ describe('curated write-ups', () => {
       expect(result.ok ? [] : result.errors).toEqual([])
     })
 
-    it('matches its file name, awaits the owner and is marked unopened', () => {
+    it('matches its file name; unopened sources imply awaiting-owner-check', () => {
       if (!result.ok) throw new Error('invalid')
       expect(result.value.slug).toBe(slug)
-      expect(result.value.status).toBe('awaiting-owner-check')
-      expect(result.value.sources_opened).toBe(false)
+      if (!result.value.sources_opened) expect(result.value.status).toBe('awaiting-owner-check')
     })
 
-    it("cites only the show's Wikipedia article or its official site, never IBDB/Playbill/BWW", () => {
+    it('never cites IBDB/Playbill/BWW; while unopened, cites only Wikipedia or the official site', () => {
       if (!result.ok) throw new Error('invalid')
       const v = result.value
       const urls = [
@@ -48,8 +48,8 @@ describe('curated write-ups', () => {
       ].map((x) => x.source)
       const wiki = `https://en.wikipedia.org/wiki/${enwiki.replace(/ /g, '_')}`
       for (const u of urls) {
-        expect(u === wiki || u === v.tickets?.official_url, u).toBe(true)
         expect(u).not.toMatch(/ibdb|playbill|broadwayworld/i)
+        if (!v.sources_opened) expect(u === wiki || u === v.tickets?.official_url, u).toBe(true)
       }
     })
   })
@@ -66,6 +66,25 @@ describe('curated write-ups', () => {
     const r = parseWriteup(good)
     expect(r.ok ? [] : r.errors).toContain('sources_opened: required boolean')
     expect(parseWriteup('nope').ok).toBe(false)
+  })
+
+  it('rejects unknown keys at the root and on items, naming the key', () => {
+    const good = read(join(dir, 'hamilton.yaml')) as Good
+    const bad = { ...good, trivia: 'x', history: [{ ...good.history[0], extra_fact: 'y' }, good.history[1]] }
+    const r = parseWriteup(bad)
+    expect(r.ok ? [] : r.errors).toEqual(expect.arrayContaining(['trivia: unknown key', 'history[0].extra_fact: unknown key']))
+  })
+
+  it('validates calendar dates', () => {
+    const good = read(join(dir, 'hamilton.yaml')) as Good
+    const withOpened = (opened: string) =>
+      parseWriteup({ ...good, productions: [{ ...good.productions[0], opened }] })
+    for (const ok of ['2015', '2015-08', '2024-02-29']) expect(withOpened(ok).ok, ok).toBe(true)
+    for (const bad of ['2015-13', '2015-00', '2023-02-29', '2015-04-31', '2015-8']) {
+      const r = withOpened(bad)
+      expect(r.ok, bad).toBe(false)
+      expect(r.ok ? [] : r.errors).toContain('productions[0].opened: must be a real date, YYYY, YYYY-MM or YYYY-MM-DD')
+    }
   })
 
   it('loads through import.meta.glob', () => {

@@ -12,9 +12,9 @@ creators:
     role: "director"
     source: https://en.wikipedia.org/wiki/Hadestown
 history:
-  - text: "Anaïs Mitchell developed Hadestown from a folk-opera song cycle into a stage musical that retells the Greek myth of Orpheus and Eurydice in a post-apocalyptic, jazz and folk-inflected setting."
+  - text: "Anaïs Mitchell developed Hadestown from a folk-opera song cycle into a stage musical that retells the Greek myth of Orpheus and Eurydice in a Depression-era, post-apocalyptic world, with a jazz- and folk-flavoured score."
     source: https://en.wikipedia.org/wiki/Hadestown
-  - text: "A staged version played Off-Broadway at New York Theatre Workshop in 2016, followed by productions in Edmonton and at London's National Theatre before it reached Broadway's Walter Kerr Theatre in April 2019. A West End production followed at the Lyric Theatre."
+  - text: "A staged version played Off-Broadway at New York Theatre Workshop in 2016, followed by productions in Edmonton and at London's National Theatre before it reached Broadway's Walter Kerr Theatre in April 2019. A separate West End production opened at the Lyric Theatre in 2024."
     source: https://en.wikipedia.org/wiki/Hadestown
   - text: "It won the Tony Award for Best Musical in 2019."
     source: https://en.wikipedia.org/wiki/Hadestown
@@ -58,7 +58,7 @@ productions:
   - name: "West End"
     venue: "Lyric Theatre"
     city: "London"
-    opened: "2023"
+    opened: "2024-02"
     source: https://en.wikipedia.org/wiki/Hadestown
 awards:
   - name: "Tony Award for Best Musical"

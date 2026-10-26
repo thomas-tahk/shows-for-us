@@ -29,6 +29,8 @@ export interface Production {
   city: string
   /** YYYY, YYYY-MM or YYYY-MM-DD. */
   opened?: string
+  /** Same format as `opened`. */
+  closed?: string
   note?: string
   source: string
 }
@@ -76,8 +78,16 @@ export type WriteupResult = { ok: true; value: Writeup } | { ok: false; errors: 
 type Obj = Record<string, unknown>
 const isObj = (v: unknown): v is Obj => typeof v === 'object' && v !== null && !Array.isArray(v)
 const URL_RE = /^https?:\/\/[^\s/]+\.[^\s]+$/
-const DATE_RE = /^\d{4}-\d{2}-\d{2}$/
-const PARTIAL_DATE_RE = /^\d{4}(-\d{2}(-\d{2})?)?$/
+/** Real calendar check for YYYY, YYYY-MM or YYYY-MM-DD (full = YYYY-MM-DD only). */
+function validDate(v: string, full: boolean): boolean {
+  const m = /^(\d{4})(?:-(\d{2})(?:-(\d{2}))?)?$/.exec(v)
+  if (!m || (full && m[3] === undefined)) return false
+  const month = m[2] === undefined ? 1 : Number(m[2])
+  if (month < 1 || month > 12) return false
+  if (m[3] === undefined) return true
+  const day = Number(m[3])
+  return day >= 1 && day <= new Date(Date.UTC(Number(m[1]), month, 0)).getUTCDate()
+}
 const PARTIAL_HINT = 'YYYY, YYYY-MM or YYYY-MM-DD'
 
 export function parseWriteup(input: unknown): WriteupResult {
@@ -98,12 +108,17 @@ export function parseWriteup(input: unknown): WriteupResult {
     if (v !== '' && !URL_RE.test(v)) errors.push(`${path}${key}: must be an http(s) URL`)
     return v
   }
-  const matching = (o: Obj, key: string, path: string, re: RegExp, hint: string, optional: boolean) => {
+  const date = (o: Obj, key: string, path: string, full: boolean, optional: boolean) => {
     const v = optional ? optStr(o, key, path) : str(o, key, path)
-    if (v !== undefined && v !== '' && !re.test(v)) errors.push(`${path}${key}: must be ${hint}`)
+    if (v !== undefined && v !== '' && !validDate(v, full)) {
+      errors.push(`${path}${key}: must be a real date, ${full ? 'YYYY-MM-DD' : PARTIAL_HINT}`)
+    }
     return v
   }
-  const list = <T>(o: Obj, key: string, each: (item: Obj, path: string) => T): T[] => {
+  const noExtra = (o: Obj, allowed: string[], path: string) => {
+    for (const k of Object.keys(o)) if (!allowed.includes(k)) errors.push(`${path}${k}: unknown key`)
+  }
+  const list = <T>(o: Obj, key: string, allowed: string[], each: (item: Obj, path: string) => T): T[] => {
     const v = o[key]
     if (!Array.isArray(v)) {
       errors.push(`${key}: required array`)
@@ -114,6 +129,7 @@ export function parseWriteup(input: unknown): WriteupResult {
         errors.push(`${key}[${i}]: must be an object`)
         return {} as T
       }
+      noExtra(item, allowed, `${key}[${i}].`)
       return each(item, `${key}[${i}].`)
     })
   }
@@ -121,6 +137,11 @@ export function parseWriteup(input: unknown): WriteupResult {
   if (!isObj(input)) return { ok: false, errors: ['root: must be a mapping'] }
   const o = input
 
+  noExtra(
+    o,
+    ['slug', 'title', 'status', 'sources_opened', 'creators', 'history', 'original_cast', 'productions', 'awards', 'runs', 'tickets'],
+    '',
+  )
   const slug = str(o, 'slug', '')
   const title = str(o, 'title', '')
   if (slug !== '' && !/^[a-z0-9]+(-[a-z0-9]+)*$/.test(slug)) errors.push('slug: must be lowercase-hyphenated')
@@ -129,51 +150,53 @@ export function parseWriteup(input: unknown): WriteupResult {
   }
   if (typeof o.sources_opened !== 'boolean') errors.push('sources_opened: required boolean')
 
-  const creators = list<Creator>(o, 'creators', (c, p) => ({
+  const creators = list<Creator>(o, 'creators', ['name', 'role', 'source'], (c, p) => ({
     name: str(c, 'name', p),
     role: str(c, 'role', p),
     source: url(c, 'source', p),
   }))
-  const history = list<HistoryParagraph>(o, 'history', (h, p) => ({
+  const history = list<HistoryParagraph>(o, 'history', ['text', 'source'], (h, p) => ({
     text: str(h, 'text', p),
     source: url(h, 'source', p),
   }))
   if (Array.isArray(o.history) && (history.length < 2 || history.length > 4)) {
     errors.push('history: needs 2 to 4 paragraphs')
   }
-  const original_cast = list<CastCredit>(o, 'original_cast', (c, p) => ({
+  const original_cast = list<CastCredit>(o, 'original_cast', ['person', 'role', 'production', 'source'], (c, p) => ({
     person: str(c, 'person', p),
     role: str(c, 'role', p),
     production: optStr(c, 'production', p),
     source: url(c, 'source', p),
   }))
-  const productions = list<Production>(o, 'productions', (x, p) => ({
+  const productions = list<Production>(o, 'productions', ['name', 'venue', 'city', 'opened', 'closed', 'note', 'source'], (x, p) => ({
     name: str(x, 'name', p),
     venue: str(x, 'venue', p),
     city: str(x, 'city', p),
-    opened: matching(x, 'opened', p, PARTIAL_DATE_RE, PARTIAL_HINT, true),
+    opened: date(x, 'opened', p, false, true),
+    closed: date(x, 'closed', p, false, true),
     note: optStr(x, 'note', p),
     source: url(x, 'source', p),
   }))
-  const awards = list<Award>(o, 'awards', (a, p) => {
+  const awards = list<Award>(o, 'awards', ['name', 'year', 'source'], (a, p) => {
     if (!Number.isInteger(a.year)) errors.push(`${p}year: required integer`)
     return { name: str(a, 'name', p), year: a.year as number, source: url(a, 'source', p) }
   })
-  const runs = list<Run>(o, 'runs', (r, p) => ({
+  const runs = list<Run>(o, 'runs', ['name', 'venue', 'city', 'start', 'end', 'ticket_url', 'source', 'checked'], (r, p) => ({
     name: str(r, 'name', p),
     venue: str(r, 'venue', p),
     city: str(r, 'city', p),
-    start: matching(r, 'start', p, PARTIAL_DATE_RE, PARTIAL_HINT, true),
-    end: matching(r, 'end', p, PARTIAL_DATE_RE, PARTIAL_HINT, true),
+    start: date(r, 'start', p, false, true),
+    end: date(r, 'end', p, false, true),
     ticket_url: url(r, 'ticket_url', p),
     source: url(r, 'source', p),
-    checked: matching(r, 'checked', p, DATE_RE, 'YYYY-MM-DD', false) ?? '',
+    checked: date(r, 'checked', p, true, false) ?? '',
   }))
 
   let tickets: Tickets | undefined
   if (o.tickets !== undefined) {
     if (!isObj(o.tickets)) errors.push('tickets: must be an object')
     else {
+      noExtra(o.tickets, ['official_url', 'source'], 'tickets.')
       tickets = {
         official_url: url(o.tickets, 'official_url', 'tickets.'),
         source: url(o.tickets, 'source', 'tickets.'),

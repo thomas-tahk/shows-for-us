@@ -12,12 +12,12 @@ One file per flagship: `content/shows/<slug>.yaml`. The slug must match `data/fl
 | `creators[]` | yes (may be empty) | `name`, `role`, `source`. |
 | `history[]` | yes, 2 to 4 | `text` (own words, short paragraph), `source`. Each paragraph has its own source. |
 | `original_cast[]` | yes (may be empty) | `person`, `role`, `production?` (e.g. "Broadway 2015"), `source`. |
-| `productions[]` | yes (may be empty) | `name`, `venue`, `city`, `opened?` (`YYYY`, `YYYY-MM` or `YYYY-MM-DD`), `note?`, `source`. |
+| `productions[]` | yes (may be empty) | `name`, `venue`, `city`, `opened?`, `closed?` (each `YYYY`, `YYYY-MM` or `YYYY-MM-DD`, a real calendar date), `note?`, `source`. |
 | `awards[]` | yes (may be empty) | `name`, `year`, `source`. |
 | `runs[]` | yes (may be empty) | Current or announced productions: `name`, `venue`, `city`, `start?`, `end?`, `ticket_url`, `source`, `checked` (`YYYY-MM-DD`). |
 | `tickets` | no | `{ official_url, source }`: the show's official website. Omit if unsure. |
 
-Every fact carries a `source` http(s) URL. A fact without one fails validation and is cut, not guessed.
+Unknown keys are rejected anywhere, so extra fields cannot slip in unsourced. Every fact carries a `source` http(s) URL. A fact without one fails validation and is cut, not guessed.
 
 ## License rules
 
@@ -37,4 +37,4 @@ Every fact carries a `source` http(s) URL. A fact without one fails validation a
 1. Open each `source` URL for the file and check every fact. Correct it or delete it. Add facts you can source.
 2. Add `runs` from the official site, with `checked:` today's date.
 3. When satisfied, set `sources_opened: true` and `status: owner-checked`.
-4. Run `npm test` (from `frontend/`) and commit.
+4. Run `npm test` (from `frontend/`) and commit. Once `sources_opened` is `true`, sources other than Wikipedia or the official site are allowed; IBDB, Playbill and BroadwayWorld stay banned.

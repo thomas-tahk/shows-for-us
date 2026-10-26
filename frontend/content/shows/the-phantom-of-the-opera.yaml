@@ -18,7 +18,7 @@ creators:
     role: "director"
     source: https://en.wikipedia.org/wiki/The_Phantom_of_the_Opera_(1986_musical)
 history:
-  - text: "The musical is based on Gaston Leroux's 1910 novel about a disfigured musical genius who haunts the Paris Opera House and becomes obsessed with a young soprano, Christine. Andrew Lloyd Webber composed the score."
+  - text: "Andrew Lloyd Webber turned Gaston Leroux's early-20th-century French novel into a gothic romance: a masked composer lurks beneath the Paris Opera and fixes his obsession on the young singer Christine."
     source: https://en.wikipedia.org/wiki/The_Phantom_of_the_Opera_(1986_musical)
   - text: "It opened in the West End at Her Majesty's Theatre in October 1986 and on Broadway at the Majestic Theatre in January 1988. The Broadway production became the longest-running show in that city's history before closing in April 2023."
     source: https://en.wikipedia.org/wiki/The_Phantom_of_the_Opera_(1986_musical)
@@ -47,7 +47,7 @@ productions:
     venue: "Majestic Theatre"
     city: "New York"
     opened: "1988-01-26"
-    note: "Closed April 2023"
+    closed: "2023-04-16"
     source: https://en.wikipedia.org/wiki/The_Phantom_of_the_Opera_(1986_musical)
 awards:
   - name: "Tony Award for Best Musical"
