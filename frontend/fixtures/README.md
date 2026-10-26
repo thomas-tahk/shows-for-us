@@ -10,10 +10,10 @@ These files are **hand-built, not recorded**. They were written by hand to match
 - **Unverified formatter:** the IBDB show URL pattern `https://www.ibdb.com/broadway-show/{P1219}` is from memory. Owner to check the formatter URL (P1630) on Property:P1219 and fix `buildShow` in `scripts/pull-lib.ts` if it differs.
 - Premiere date rows carry a placeholder time precision of `11` (day).
 
-To replace them with real recorded responses, from `frontend/`:
+To replace the placeholders with real Wikidata/Wikipedia data, do NOT run `npm run pull -- --record`: it overwrites these hand-built files, and `tests/pull.test.ts` asserts their hand-built contents, so the tests would break. Instead run a plain live pull from `frontend/` (or run the "Refresh data" workflow, see `docs/deploy.md`):
 
 ```
-npm run pull -- --record
+npm run pull
 ```
 
-That runs the live pull (sequential, descriptive User-Agent, honours 429 + Retry-After) and overwrites every file here with the raw response. Review the diff, then run `npm test`; the tests assert credits and URLs, so update expected values if Wikidata differs from what the hand-built fixtures say.
+That writes `data/shows.json` from live responses and leaves these fixtures alone. (`--record` exists only for deliberately re-recording fixtures, after which expected values in `tests/pull.test.ts` need updating.)

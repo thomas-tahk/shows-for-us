@@ -1,4 +1,15 @@
+import { readFileSync } from 'node:fs'
 import { test, expect, type Page } from '@playwright/test'
+import { load } from 'js-yaml'
+
+// Read the committed data so these tests survive the owner's sign-off edits and the first live pull.
+const writeup = load(readFileSync('content/shows/hamilton.yaml', 'utf8')) as {
+  status: string
+  sources_opened: boolean
+  original_cast: { person: string }[]
+}
+const isDraft = !writeup.sources_opened || writeup.status !== 'owner-checked'
+const dataLive = (JSON.parse(readFileSync('data/shows.json', 'utf8')) as { meta: { live: boolean } }).meta.live
 
 // String form: the e2e tsconfig has no DOM lib.
 async function expectNoHScroll(page: Page) {
@@ -30,8 +41,10 @@ for (const width of [390, 1280]) {
     await expect(page.getByRole('heading', { name: 'Created by' })).toBeVisible()
     await expect(page.getByRole('heading', { name: 'Original cast' })).toBeVisible()
     await expect(page.getByText('Lin-Manuel Miranda').first()).toBeVisible()
-    await expect(page.getByText('Leslie Odom Jr.')).toBeVisible()
-    await expect(page.getByText("Draft: these facts haven't been checked")).toBeVisible()
+    await expect(page.getByText(writeup.original_cast[0].person).first()).toBeVisible()
+    const banner = page.getByText("Draft: these facts haven't been checked")
+    if (isDraft) await expect(banner).toBeVisible()
+    else await expect(banner).toHaveCount(0)
 
     const attr = page.getByTestId('wikipedia-attribution')
     await expect(attr).toBeVisible()
@@ -43,8 +56,15 @@ for (const width of [390, 1280]) {
       'href',
       'https://creativecommons.org/licenses/by-sa/4.0/',
     )
-    // data/shows.json is fixture-built (meta.live false): its IBDB/Playbill URLs are not real.
-    await expect(page.locator('main a[href*="ibdb.com"], main a[href*="playbill.com"]')).toHaveCount(0)
+    if (dataLive) {
+      // Real pull: the IBDB link must point at a show page.
+      const ibdb = page.locator('main a[href*="ibdb.com"]')
+      await expect(ibdb).toHaveCount(1)
+      expect(await ibdb.getAttribute('href')).toMatch(/^https:\/\/www\.ibdb\.com\/broadway-show\//)
+    } else {
+      // data/shows.json is fixture-built (meta.live false): its IBDB/Playbill URLs are not real.
+      await expect(page.locator('main a[href*="ibdb.com"], main a[href*="playbill.com"]')).toHaveCount(0)
+    }
     await expectNoHScroll(page)
     await page.screenshot({ path: test.info().outputPath(`show-hamilton-${width}.png`), fullPage: true })
 

@@ -31,7 +31,12 @@ jobs:
       # restore the committed data so no PR opens.
       - run: git diff --quiet -I'"generated_at":' -- data/ && git checkout -- data/ || true
       # PRs made with GITHUB_TOKEN trigger no CI, so check here before opening one.
-      - run: npm run typecheck && npm test && npm run build
+      - run: npm run typecheck
+      - run: npm run lint
+      - run: npm test
+      - run: npx playwright install --with-deps chromium
+      - run: npm run e2e
+      - run: npm run build
       # Run manually from the default branch only (the PR targets the branch the run is on).
       - uses: peter-evans/create-pull-request@v7
         with:

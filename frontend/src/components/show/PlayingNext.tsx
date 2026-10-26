@@ -7,6 +7,8 @@ interface Props {
   events: ShowEvent[]
   runs: Run[]
   officialUrl?: string
+  /** Show title, used for the Ticketmaster search fallback when there is no official link. */
+  title: string
   /** YYYY-MM-DD used to drop finished runs; defaults to the viewer's local date. */
   today?: string
 }
@@ -37,7 +39,7 @@ function runDates(run: Run): string {
 const itemClass =
   'flex flex-col items-start gap-3 rounded-lg border border-neutral-700 p-3 sm:flex-row sm:flex-wrap sm:items-center sm:justify-between'
 
-export default function PlayingNext({ state, events, runs: allRuns, officialUrl, today }: Props) {
+export default function PlayingNext({ state, events, runs: allRuns, officialUrl, title, today }: Props) {
   const showEvents = state === 'ok' && events.length > 0
   const runs = upcomingRuns(allRuns, today ?? localToday())
   const status =
@@ -90,11 +92,17 @@ export default function PlayingNext({ state, events, runs: allRuns, officialUrl,
         </div>
       )}
 
-      {officialUrl && (
-        <p className="mt-5">
+      <p className="mt-5">
+        {officialUrl ? (
           <OutLink href={officialUrl} label="Official tickets" detail="on the show's official site" />
-        </p>
-      )}
+        ) : (
+          <OutLink
+            href={`https://www.ticketmaster.com/search?q=${encodeURIComponent(title)}`}
+            label={`Search Ticketmaster for ${title}`}
+            detail="on Ticketmaster"
+          />
+        )}
+      </p>
     </Section>
   )
 }
