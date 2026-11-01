@@ -33,7 +33,29 @@ function json(body: unknown, status: number, cache = false): Response {
 
 /** Lowercase and strip accents so "Les Misérables" matches "LES MISERABLES". */
 export function fold(s: string): string {
-  return s.normalize('NFD').replace(/\p{M}/gu, '').toLowerCase()
+  return s.normalize('NFD').replace(/\p{M}/gu, '').replace(/\u2019/g, "'").toLowerCase()
+}
+
+/** Title must lead the name (optionally after "Disney's ") and end at a non-alphanumeric or the end. */
+function leadsWithTitle(name: string, keyword: string): boolean {
+  const title = fold(keyword).replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+  return new RegExp(`^(disney's )?${title}($|[^a-z0-9])`).test(fold(name))
+}
+
+function isBetter(a: ShowEvent, b: ShowEvent): boolean {
+  if (a.name.length !== b.name.length) return a.name.length < b.name.length
+  return a.id < b.id
+}
+
+/** One event per (date, time, city): keep the shortest name, then the lowest id. */
+function dedupePerformances(events: ShowEvent[]): ShowEvent[] {
+  const best = new Map<string, ShowEvent>()
+  for (const e of events) {
+    const key = [e.date, e.time ?? '', fold(e.city ?? '')].join('|')
+    const kept = best.get(key)
+    if (!kept || isBetter(e, kept)) best.set(key, e)
+  }
+  return [...best.values()]
 }
 
 interface RawEvent {
@@ -53,13 +75,11 @@ interface RawEvent {
 export function mapEvents(raw: unknown, keyword: string): ShowEvent[] {
   const list = (raw as { _embedded?: { events?: RawEvent[] } } | null)?._embedded?.events
   if (!Array.isArray(list)) return []
-  // Whole-word match, so a short title like "Six" doesn't match "Sixteen Candles".
-  const needle = new RegExp(`(^|[^a-z0-9])${fold(keyword).replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}($|[^a-z0-9])`)
   const out: ShowEvent[] = []
   for (const e of list) {
     const date = e.dates?.start?.localDate
     if (!date || !e.id || !e.name || !e.url) continue
-    if (!needle.test(fold(e.name))) continue
+    if (!leadsWithTitle(e.name, keyword)) continue
     const v = e._embedded?.venues?.[0]
     out.push({
       id: e.id,
@@ -72,7 +92,7 @@ export function mapEvents(raw: unknown, keyword: string): ShowEvent[] {
       state: v?.state?.stateCode ?? v?.state?.name ?? null,
     })
   }
-  return out.sort(
+  return dedupePerformances(out).sort(
     (a, b) => a.date.localeCompare(b.date) || (a.time ?? '').localeCompare(b.time ?? ''),
   )
 }
@@ -94,7 +114,7 @@ export async function handleEvents(slug: string | null, deps: EventsDeps): Promi
     classificationName: 'Theatre',
     countryCode: 'US',
     sort: 'date,asc',
-    size: '50',
+    size: '200',
     startDateTime: deps.now().toISOString().replace(/\.\d{3}Z$/, 'Z'),
   })
   let res: Response
