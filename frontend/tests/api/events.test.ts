@@ -35,7 +35,7 @@ describe('events core', () => {
     expect(url.searchParams.get('classificationName')).toBe('Theatre')
     expect(url.searchParams.get('sort')).toBe('date,asc')
     expect(url.searchParams.get('countryCode')).toBe('US')
-    expect(Number(url.searchParams.get('size'))).toBeLessThanOrEqual(50)
+    expect(url.searchParams.get('size')).toBe('200')
     expect(url.searchParams.get('startDateTime')).toBe('2026-10-26T12:00:00Z')
   })
 
@@ -143,8 +143,65 @@ describe('mapEvents title matching', () => {
     id, name, url: `https://tm.example/${id}`, dates: { start: { localDate: '2026-11-01' } },
   })
   it('matches the title as a whole word only', () => {
-    const raw = { _embedded: { events: [ev('a', 'SIX (Touring)'), ev('b', 'Sixteen Candles'), ev('c', 'Six')] } }
-    expect(mapEvents(raw, 'Six').map(e => e.id)).toEqual(['a', 'c'])
+    const a = { ...ev('a', 'SIX (Touring)'), dates: { start: { localDate: '2026-11-02' } } } // distinct date: not a de-dup
+    const raw = { _embedded: { events: [a, ev('b', 'Sixteen Candles'), ev('c', 'Six')] } }
+    expect(mapEvents(raw, 'Six').map(e => e.id)).toEqual(['c', 'a'])
+  })
+})
+
+describe('mapEvents leading title and de-dup', () => {
+  const mk = (id: string, name: string, time: string | null, venue = 'Richard Rodgers Theatre', city = 'New York') => ({
+    id, name, url: `https://tm.example/${id}`,
+    dates: { start: { localDate: '2026-11-05', ...(time ? { localTime: time } : {}) } },
+    _embedded: { venues: [{ name: venue, city: { name: city }, state: { stateCode: 'NY' } }] },
+  })
+  const run = (events: unknown[], kw: string) => mapEvents({ _embedded: { events } }, kw).map(e => e.id)
+
+  it('rejects titles that do not lead the name', () => {
+    const events = [mk('a', 'Hamilton (NY)', '19:00:00'), mk('b', 'Ryan Hamilton', '20:00:00', 'Keswick Theatre', 'Glenside')]
+    expect(run(events, 'Hamilton')).toEqual(['a'])
+  })
+  it('rejects a title that is only a prefix of a word', () => {
+    expect(run([mk('a', 'Rentals', '19:00:00'), mk('b', 'Rent', '20:00:00')], 'Rent')).toEqual(['b'])
+  })
+  it("allows only the disney's prefix, with either apostrophe", () => {
+    const events = [mk('a', "Disney's The Lion King", '13:00:00'), mk('b', 'Disney’s The Lion King', '19:00:00'),
+      mk('c', 'Not Disney The Lion King', '20:00:00')]
+    expect(run(events, 'The Lion King')).toEqual(['a', 'b'])
+  })
+  it('keeps one event per date, time and city, preferring the shortest name', () => {
+    const events = [mk('a', 'Hamilton (NY)', '19:00:00'), mk('b', 'Hamilton', '19:00:00', 'Richard Rodgers Theatre-NY')]
+    expect(run(events, 'Hamilton')).toEqual(['b'])
+  })
+  it('breaks equal-length ties by lowest id', () => {
+    expect(run([mk('z', 'Hamilton', '19:00:00'), mk('b', 'Hamilton', '19:00:00')], 'Hamilton')).toEqual(['b'])
+  })
+  it('accepts possessive credit prefixes of up to 4 words', () => {
+    const cases: [string, string][] = [
+      ["Jonathan Larson's RENT", 'Rent'],
+      ["Andrew Lloyd Webber's The Phantom of the Opera", 'The Phantom of the Opera'],
+      ["Cameron Mackintosh's Les Misérables", 'Les Misérables'],
+      ['Disney’s The Lion King', 'The Lion King'],
+    ]
+    for (const [name, kw] of cases) expect(run([mk('a', name, '19:00:00')], kw)).toEqual(['a'])
+    expect(run([mk('a', "One Two Three Four Five's Hamilton", '19:00:00')], 'Hamilton')).toEqual([])
+    expect(run([mk('a', 'Broadway In Chicago presents Hamilton', '19:00:00')], 'Hamilton')).toEqual([])
+  })
+  it('folds U+2018 like an apostrophe', () => {
+    expect(run([mk('a', 'Disney‘s The Lion King', '19:00:00')], 'The Lion King')).toEqual(['a'])
+  })
+  it('keeps same date+time in different states', () => {
+    const e = (id: string, st: string) => ({ ...mk(id, 'Next to Normal', '19:00:00', 'V', 'Springfield'),
+      _embedded: { venues: [{ name: 'V', city: { name: 'Springfield' }, state: { stateCode: st } }] } })
+    expect(run([e('a', 'MO'), e('b', 'IL')], 'Next to Normal')).toEqual(['a', 'b'])
+  })
+  it('never dedupes events with no city', () => {
+    const e = (id: string) => ({ ...mk(id, 'Hamilton', '19:00:00'), _embedded: { venues: [{ name: 'V' }] } })
+    expect(run([e('a'), e('b')], 'Hamilton')).toEqual(['a', 'b'])
+  })
+  it('keeps a same-day different-time performance, sorted by time', () => {
+    const events = [mk('late', 'Hamilton', '20:00:00'), mk('early', 'Hamilton', '14:00:00'), mk('dup', 'Hamilton (NY)', '20:00:00')]
+    expect(run(events, 'Hamilton')).toEqual(['early', 'late'])
   })
 })
 
