@@ -176,7 +176,7 @@ describe('mapEvents leading title and de-dup', () => {
   it('breaks equal-length ties by lowest id', () => {
     expect(run([mk('z', 'Hamilton', '19:00:00'), mk('b', 'Hamilton', '19:00:00')], 'Hamilton')).toEqual(['b'])
   })
-  it('accepts possessive credit prefixes of up to 4 words', () => {
+  it('accepts possessive credit prefixes of up to 3 words', () => {
     const cases: [string, string][] = [
       ["Jonathan Larson's RENT", 'Rent'],
       ["Andrew Lloyd Webber's The Phantom of the Opera", 'The Phantom of the Opera'],
@@ -184,7 +184,9 @@ describe('mapEvents leading title and de-dup', () => {
       ['Disney’s The Lion King', 'The Lion King'],
     ]
     for (const [name, kw] of cases) expect(run([mk('a', name, '19:00:00')], kw)).toEqual(['a'])
-    expect(run([mk('a', "One Two Three Four Five's Hamilton", '19:00:00')], 'Hamilton')).toEqual([])
+    expect(run([mk('a', "One Two Three Four's Hamilton", '19:00:00')], 'Hamilton')).toEqual([])
+    expect(run([mk('a', "Songs from Jonathan Larson's Rent", '19:00:00')], 'Rent')).toEqual([])
+    expect(run([mk('a', "A Tribute to Disney's The Lion King", '19:00:00')], 'The Lion King')).toEqual([])
     expect(run([mk('a', 'Broadway In Chicago presents Hamilton', '19:00:00')], 'Hamilton')).toEqual([])
   })
   it('folds U+2018 like an apostrophe', () => {

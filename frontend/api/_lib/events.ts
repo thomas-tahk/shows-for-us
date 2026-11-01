@@ -36,10 +36,10 @@ export function fold(s: string): string {
   return s.normalize('NFD').replace(/\p{M}/gu, '').replace(/[\u2018\u2019]/g, "'").toLowerCase()
 }
 
-/** Matcher: title leads the name, optionally after a possessive credit ("Jonathan Larson's "), up to 4 words. */
+/** Matcher: title leads the name, optionally after a possessive credit ("Jonathan Larson's "), up to 3 words. */
 function titleMatcher(keyword: string): (name: string) => boolean {
   const title = fold(keyword).replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
-  const re = new RegExp(`^((?:\\S+ ){0,3}\\S+'s )?${title}($|[^a-z0-9])`)
+  const re = new RegExp(`^((?:\\S+ ){0,2}\\S+'s )?${title}($|[^a-z0-9])`)
   return name => re.test(fold(name))
 }
 
