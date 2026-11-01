@@ -33,6 +33,7 @@ Full-stack web application for tracking traveling musical performances and cast 
 - Keep costs minimal (side project)
 - Prioritize core features over nice-to-haves
 - Always run linting/typechecking before considering tasks complete
+- Ticketmaster returns the same performance under several events and keyword hits on other acts ("Ryan Hamilton"). De-dupe, require the title to lead the name, and test with real-shape fixtures that include near-miss names (#10)
 
 ## Development Commands
 - Frontend: `npm run dev` (from frontend/)
