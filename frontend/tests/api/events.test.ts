@@ -35,7 +35,7 @@ describe('events core', () => {
     expect(url.searchParams.get('classificationName')).toBe('Theatre')
     expect(url.searchParams.get('sort')).toBe('date,asc')
     expect(url.searchParams.get('countryCode')).toBe('US')
-    expect(Number(url.searchParams.get('size'))).toBeLessThanOrEqual(200)
+    expect(url.searchParams.get('size')).toBe('200')
     expect(url.searchParams.get('startDateTime')).toBe('2026-10-26T12:00:00Z')
   })
 
@@ -175,6 +175,29 @@ describe('mapEvents leading title and de-dup', () => {
   })
   it('breaks equal-length ties by lowest id', () => {
     expect(run([mk('z', 'Hamilton', '19:00:00'), mk('b', 'Hamilton', '19:00:00')], 'Hamilton')).toEqual(['b'])
+  })
+  it('accepts possessive credit prefixes of up to 4 words', () => {
+    const cases: [string, string][] = [
+      ["Jonathan Larson's RENT", 'Rent'],
+      ["Andrew Lloyd Webber's The Phantom of the Opera", 'The Phantom of the Opera'],
+      ["Cameron Mackintosh's Les Misérables", 'Les Misérables'],
+      ['Disney’s The Lion King', 'The Lion King'],
+    ]
+    for (const [name, kw] of cases) expect(run([mk('a', name, '19:00:00')], kw)).toEqual(['a'])
+    expect(run([mk('a', "One Two Three Four Five's Hamilton", '19:00:00')], 'Hamilton')).toEqual([])
+    expect(run([mk('a', 'Broadway In Chicago presents Hamilton', '19:00:00')], 'Hamilton')).toEqual([])
+  })
+  it('folds U+2018 like an apostrophe', () => {
+    expect(run([mk('a', 'Disney‘s The Lion King', '19:00:00')], 'The Lion King')).toEqual(['a'])
+  })
+  it('keeps same date+time in different states', () => {
+    const e = (id: string, st: string) => ({ ...mk(id, 'Next to Normal', '19:00:00', 'V', 'Springfield'),
+      _embedded: { venues: [{ name: 'V', city: { name: 'Springfield' }, state: { stateCode: st } }] } })
+    expect(run([e('a', 'MO'), e('b', 'IL')], 'Next to Normal')).toEqual(['a', 'b'])
+  })
+  it('never dedupes events with no city', () => {
+    const e = (id: string) => ({ ...mk(id, 'Hamilton', '19:00:00'), _embedded: { venues: [{ name: 'V' }] } })
+    expect(run([e('a'), e('b')], 'Hamilton')).toEqual(['a', 'b'])
   })
   it('keeps a same-day different-time performance, sorted by time', () => {
     const events = [mk('late', 'Hamilton', '20:00:00'), mk('early', 'Hamilton', '14:00:00'), mk('dup', 'Hamilton (NY)', '20:00:00')]

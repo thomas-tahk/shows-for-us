@@ -33,13 +33,14 @@ function json(body: unknown, status: number, cache = false): Response {
 
 /** Lowercase and strip accents so "Les Misérables" matches "LES MISERABLES". */
 export function fold(s: string): string {
-  return s.normalize('NFD').replace(/\p{M}/gu, '').replace(/\u2019/g, "'").toLowerCase()
+  return s.normalize('NFD').replace(/\p{M}/gu, '').replace(/[\u2018\u2019]/g, "'").toLowerCase()
 }
 
-/** Title must lead the name (optionally after "Disney's ") and end at a non-alphanumeric or the end. */
-function leadsWithTitle(name: string, keyword: string): boolean {
+/** Matcher: title leads the name, optionally after a possessive credit ("Jonathan Larson's "), up to 4 words. */
+function titleMatcher(keyword: string): (name: string) => boolean {
   const title = fold(keyword).replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
-  return new RegExp(`^(disney's )?${title}($|[^a-z0-9])`).test(fold(name))
+  const re = new RegExp(`^((?:\\S+ ){0,3}\\S+'s )?${title}($|[^a-z0-9])`)
+  return name => re.test(fold(name))
 }
 
 function isBetter(a: ShowEvent, b: ShowEvent): boolean {
@@ -47,11 +48,15 @@ function isBetter(a: ShowEvent, b: ShowEvent): boolean {
   return a.id < b.id
 }
 
-/** One event per (date, time, city): keep the shortest name, then the lowest id. */
+/** One event per (date, time, city, state); city-less events are never merged: keep the shortest name, then the lowest id. */
 function dedupePerformances(events: ShowEvent[]): ShowEvent[] {
   const best = new Map<string, ShowEvent>()
   for (const e of events) {
-    const key = [e.date, e.time ?? '', fold(e.city ?? '')].join('|')
+    if (!e.city) {
+      best.set(`nocity|${e.id}`, e)
+      continue
+    }
+    const key = [e.date, e.time ?? '', fold(e.city), fold(e.state ?? '')].join('|')
     const kept = best.get(key)
     if (!kept || isBetter(e, kept)) best.set(key, e)
   }
@@ -75,11 +80,12 @@ interface RawEvent {
 export function mapEvents(raw: unknown, keyword: string): ShowEvent[] {
   const list = (raw as { _embedded?: { events?: RawEvent[] } } | null)?._embedded?.events
   if (!Array.isArray(list)) return []
+  const matches = titleMatcher(keyword)
   const out: ShowEvent[] = []
   for (const e of list) {
     const date = e.dates?.start?.localDate
     if (!date || !e.id || !e.name || !e.url) continue
-    if (!leadsWithTitle(e.name, keyword)) continue
+    if (!matches(e.name)) continue
     const v = e._embedded?.venues?.[0]
     out.push({
       id: e.id,
