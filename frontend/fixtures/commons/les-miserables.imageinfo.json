@@ -1,0 +1,34 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 2,
+        "ns": 6,
+        "title": "File:Les Mis fixture placeholder.jpg",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Les_Mis_fixture_placeholder.jpg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Les_Mis_fixture_placeholder.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=2",
+            "extmetadata": {
+              "LicenseShortName": {
+                "value": "CC BY 2.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by/2.0",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "Example Author &amp; Co (placeholder)",
+                "source": "commons-desc-page"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,59 @@
+# Draft written from the drafter's own knowledge; cited URLs NOT opened (sources_opened: false).
+# Owner: open each source, correct or cut facts, then see content/README.md.
+slug: next-to-normal
+title: "Next to Normal"
+status: awaiting-owner-check
+sources_opened: false
+creators:
+  - name: "Tom Kitt"
+    role: "music"
+    source: https://en.wikipedia.org/wiki/Next_to_Normal
+  - name: "Brian Yorkey"
+    role: "book and lyrics"
+    source: https://en.wikipedia.org/wiki/Next_to_Normal
+history:
+  - text: "The rock musical centres on a suburban mother living with bipolar disorder and the effect of her illness and treatment on her family. Tom Kitt wrote the music and Brian Yorkey the book and lyrics."
+    source: https://en.wikipedia.org/wiki/Next_to_Normal
+  - text: "It played Off-Broadway at Second Stage Theatre in 2008 and opened on Broadway at the Booth Theatre in April 2009."
+    source: https://en.wikipedia.org/wiki/Next_to_Normal
+  - text: "It won the Pulitzer Prize for Drama in 2010, one of few musicals to do so, as well as Tony Awards for its score and its lead actress."
+    source: https://en.wikipedia.org/wiki/Next_to_Normal
+original_cast:
+  - person: "Alice Ripley"
+    role: "Diana Goodman"
+    production: "Broadway 2009"
+    source: https://en.wikipedia.org/wiki/Next_to_Normal
+  - person: "J. Robert Spencer"
+    role: "Dan Goodman"
+    production: "Broadway 2009"
+    source: https://en.wikipedia.org/wiki/Next_to_Normal
+  - person: "Aaron Tveit"
+    role: "Gabe"
+    production: "Broadway 2009"
+    source: https://en.wikipedia.org/wiki/Next_to_Normal
+  - person: "Jennifer Damiano"
+    role: "Natalie"
+    production: "Broadway 2009"
+    source: https://en.wikipedia.org/wiki/Next_to_Normal
+  - person: "Adam Chanler-Berat"
+    role: "Henry"
+    production: "Broadway 2009"
+    source: https://en.wikipedia.org/wiki/Next_to_Normal
+productions:
+  - name: "Off-Broadway"
+    venue: "Second Stage Theatre"
+    city: "New York"
+    opened: "2008"
+    source: https://en.wikipedia.org/wiki/Next_to_Normal
+  - name: "Broadway"
+    venue: "Booth Theatre"
+    city: "New York"
+    opened: "2009-04-15"
+    source: https://en.wikipedia.org/wiki/Next_to_Normal
+awards:
+  - name: "Pulitzer Prize for Drama"
+    year: 2010
+    source: https://en.wikipedia.org/wiki/Next_to_Normal
+# Current and announced runs: none entered yet. Ticketmaster live data covers 'playing next'.
+# Add entries from the official site (name, venue, city, start?, end?, ticket_url, source, checked).
+runs: []

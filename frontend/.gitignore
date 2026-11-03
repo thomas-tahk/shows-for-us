@@ -28,3 +28,11 @@ dist-ssr
 .env.local
 .env.production
 .env.staging
+
+# Vercel
+.vercel/
+
+# Playwright
+test-results
+playwright-report
+data/shows.partial.json

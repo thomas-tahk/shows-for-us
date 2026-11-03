@@ -1,0 +1,35 @@
+{
+  "type": "standard",
+  "title": "Hamilton (musical)",
+  "displaytitle": "<span class=\"mw-page-title-main\">Hamilton (musical)</span>",
+  "namespace": {
+    "id": 0,
+    "text": ""
+  },
+  "wikibase_item": "Q19320959",
+  "titles": {
+    "canonical": "Hamilton_(musical)",
+    "normalized": "Hamilton (musical)",
+    "display": "Hamilton (musical)"
+  },
+  "pageid": 1,
+  "lang": "en",
+  "dir": "ltr",
+  "revision": "0",
+  "tid": "00000000-0000-0000-0000-000000000000",
+  "timestamp": "2026-01-01T00:00:00Z",
+  "description": "Placeholder description",
+  "content_urls": {
+    "desktop": {
+      "page": "https://en.wikipedia.org/wiki/Hamilton_(musical)",
+      "revisions": "https://en.wikipedia.org/wiki/Hamilton_(musical)?action=history",
+      "edit": "https://en.wikipedia.org/wiki/Hamilton_(musical)?action=edit",
+      "talk": "https://en.wikipedia.org/wiki/Talk:Hamilton_(musical)"
+    },
+    "mobile": {
+      "page": "https://en.m.wikipedia.org/wiki/Hamilton_(musical)"
+    }
+  },
+  "extract": "[Placeholder text, not from Wikipedia: run a plain npm run pull (not --record) to get the real article summary in data/shows.json.]",
+  "extract_html": "<p>[Placeholder text, not from Wikipedia: run a plain npm run pull (not --record) to get the real article summary in data/shows.json.]</p>"
+}

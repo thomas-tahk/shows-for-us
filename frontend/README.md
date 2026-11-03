@@ -1,69 +1,24 @@
-# React + TypeScript + Vite
+# Shows For Us
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A site about touring and Broadway musicals: for each of 15 flagship shows, who made it, the original cast, productions and awards, and where to get tickets. Facts come from Wikidata and Wikipedia plus hand-checked write-ups; "Playing next" dates come live from Ticketmaster through a Vercel function.
 
-Currently, two official plugins are available:
+## Commands
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Run from this directory (`frontend/`).
 
-## Expanding the ESLint configuration
+- `npm run dev` start the Vite dev server
+- `npm test` unit tests (vitest), including the content schema check
+- `npm run e2e` Playwright tests against a production build
+- `npm run pull` fetch Wikidata/Wikipedia data into `data/shows.json` (live; do not use `-- --record`, see `fixtures/README.md`)
+- `npm run typecheck`, `npm run lint`, `npm run build`
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+## Layout
 
-```js
-export default tseslint.config([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+- `src/` the React app
+- `api/` the Vercel function `/api/events` (Ticketmaster dates)
+- `scripts/` the data pull (`pull.ts`) and `smoke-vercel.sh`
+- `data/` generated `shows.json` and the `flagships.json` list
+- `content/` hand-written show write-ups (YAML) and their schema, see `content/README.md`
+- `fixtures/` hand-built test fixtures, see `fixtures/README.md`
 
-      // Remove tseslint.configs.recommended and replace with this
-      ...tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      ...tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      ...tseslint.configs.stylisticTypeChecked,
-
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
-
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
-
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default tseslint.config([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+Deploying and the first data pull: see `../docs/deploy.md`.

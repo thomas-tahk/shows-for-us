@@ -1,0 +1,57 @@
+# Draft written from the drafter's own knowledge; cited URLs NOT opened (sources_opened: false).
+# Owner: open each source, correct or cut facts, then see content/README.md.
+slug: the-outsiders
+title: "The Outsiders"
+status: awaiting-owner-check
+sources_opened: false
+creators:
+  - name: "Adam Rapp"
+    role: "book"
+    source: https://en.wikipedia.org/wiki/The_Outsiders_(musical)
+  - name: "Justin Levine"
+    role: "book, music and lyrics"
+    source: https://en.wikipedia.org/wiki/The_Outsiders_(musical)
+  - name: "Jamestown Revival"
+    role: "music and lyrics"
+    source: https://en.wikipedia.org/wiki/The_Outsiders_(musical)
+  - name: "Danya Taymor"
+    role: "director"
+    source: https://en.wikipedia.org/wiki/The_Outsiders_(musical)
+history:
+  - text: "The musical is based on S. E. Hinton's 1967 novel about two rival groups of teenagers in 1960s Oklahoma, the working-class Greasers and the wealthy Socs."
+    source: https://en.wikipedia.org/wiki/The_Outsiders_(musical)
+  - text: "It premiered at La Jolla Playhouse in California in 2023 and opened on Broadway at the Bernard B. Jacobs Theatre in April 2024. A national tour followed."
+    source: https://en.wikipedia.org/wiki/The_Outsiders_(musical)
+  - text: "It won the Tony Award for Best Musical in 2024."
+    source: https://en.wikipedia.org/wiki/The_Outsiders_(musical)
+original_cast:
+  - person: "Brody Grant"
+    role: "Ponyboy Curtis"
+    production: "Broadway 2024"
+    source: https://en.wikipedia.org/wiki/The_Outsiders_(musical)
+  - person: "Joshua Boone"
+    role: "Dallas Winston"
+    production: "Broadway 2024"
+    source: https://en.wikipedia.org/wiki/The_Outsiders_(musical)
+  - person: "Sky Lakota-Lynch"
+    role: "Johnny Cade"
+    production: "Broadway 2024"
+    source: https://en.wikipedia.org/wiki/The_Outsiders_(musical)
+productions:
+  - name: "World premiere"
+    venue: "La Jolla Playhouse"
+    city: "San Diego"
+    opened: "2023"
+    source: https://en.wikipedia.org/wiki/The_Outsiders_(musical)
+  - name: "Broadway"
+    venue: "Bernard B. Jacobs Theatre"
+    city: "New York"
+    opened: "2024-04-11"
+    source: https://en.wikipedia.org/wiki/The_Outsiders_(musical)
+awards:
+  - name: "Tony Award for Best Musical"
+    year: 2024
+    source: https://en.wikipedia.org/wiki/The_Outsiders_(musical)
+# Current and announced runs: none entered yet. Ticketmaster live data covers 'playing next'.
+# Add entries from the official site (name, venue, city, start?, end?, ticket_url, source, checked).
+runs: []

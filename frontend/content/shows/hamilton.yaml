@@ -1,0 +1,71 @@
+# Draft written from the drafter's own knowledge; cited URLs NOT opened (sources_opened: false).
+# Owner: open each source, correct or cut facts, then see content/README.md.
+slug: hamilton
+title: "Hamilton"
+status: awaiting-owner-check
+sources_opened: false
+creators:
+  - name: "Lin-Manuel Miranda"
+    role: "book, music and lyrics"
+    source: https://en.wikipedia.org/wiki/Hamilton_(musical)
+history:
+  - text: "Miranda was inspired by Ron Chernow's biography of Alexander Hamilton. He set the Founding Fathers' story to hip-hop, R&B and pop numbers alongside classic show tunes, casting performers of colour as the historical figures."
+    source: https://en.wikipedia.org/wiki/Hamilton_(musical)
+  - text: "It opened Off-Broadway at the Public Theater in early 2015 and moved to Broadway's Richard Rodgers Theatre that August. A West End production followed at the Victoria Palace Theatre in late 2017, and touring companies have since played in many cities."
+    source: https://en.wikipedia.org/wiki/Hamilton_(musical)
+  - text: "The show won the Pulitzer Prize for Drama and the Tony Award for Best Musical in 2016."
+    source: https://en.wikipedia.org/wiki/Hamilton_(musical)
+original_cast:
+  - person: "Lin-Manuel Miranda"
+    role: "Alexander Hamilton"
+    production: "Broadway 2015"
+    source: https://en.wikipedia.org/wiki/Hamilton_(musical)
+  - person: "Leslie Odom Jr."
+    role: "Aaron Burr"
+    production: "Broadway 2015"
+    source: https://en.wikipedia.org/wiki/Hamilton_(musical)
+  - person: "Phillipa Soo"
+    role: "Eliza Schuyler"
+    production: "Broadway 2015"
+    source: https://en.wikipedia.org/wiki/Hamilton_(musical)
+  - person: "Renée Elise Goldsberry"
+    role: "Angelica Schuyler"
+    production: "Broadway 2015"
+    source: https://en.wikipedia.org/wiki/Hamilton_(musical)
+  - person: "Daveed Diggs"
+    role: "Lafayette / Thomas Jefferson"
+    production: "Broadway 2015"
+    source: https://en.wikipedia.org/wiki/Hamilton_(musical)
+  - person: "Christopher Jackson"
+    role: "George Washington"
+    production: "Broadway 2015"
+    source: https://en.wikipedia.org/wiki/Hamilton_(musical)
+productions:
+  - name: "Off-Broadway"
+    venue: "The Public Theater"
+    city: "New York"
+    opened: "2015"
+    source: https://en.wikipedia.org/wiki/Hamilton_(musical)
+  - name: "Broadway"
+    venue: "Richard Rodgers Theatre"
+    city: "New York"
+    opened: "2015-08-06"
+    source: https://en.wikipedia.org/wiki/Hamilton_(musical)
+  - name: "West End"
+    venue: "Victoria Palace Theatre"
+    city: "London"
+    opened: "2017-12"
+    source: https://en.wikipedia.org/wiki/Hamilton_(musical)
+awards:
+  - name: "Pulitzer Prize for Drama"
+    year: 2016
+    source: https://en.wikipedia.org/wiki/Hamilton_(musical)
+  - name: "Tony Award for Best Musical"
+    year: 2016
+    source: https://en.wikipedia.org/wiki/Hamilton_(musical)
+# Current and announced runs: none entered yet. Ticketmaster live data covers 'playing next'.
+# Add entries from the official site (name, venue, city, start?, end?, ticket_url, source, checked).
+runs: []
+tickets:
+  official_url: https://hamiltonmusical.com
+  source: https://hamiltonmusical.com

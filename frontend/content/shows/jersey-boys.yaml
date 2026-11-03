@@ -1,0 +1,66 @@
+# Draft written from the drafter's own knowledge; cited URLs NOT opened (sources_opened: false).
+# Owner: open each source, correct or cut facts, then see content/README.md.
+slug: jersey-boys
+title: "Jersey Boys"
+status: awaiting-owner-check
+sources_opened: false
+creators:
+  - name: "Bob Gaudio"
+    role: "music"
+    source: https://en.wikipedia.org/wiki/Jersey_Boys
+  - name: "Bob Crewe"
+    role: "lyrics"
+    source: https://en.wikipedia.org/wiki/Jersey_Boys
+  - name: "Marshall Brickman"
+    role: "book"
+    source: https://en.wikipedia.org/wiki/Jersey_Boys
+  - name: "Rick Elice"
+    role: "book"
+    source: https://en.wikipedia.org/wiki/Jersey_Boys
+history:
+  - text: "Jersey Boys is a jukebox musical telling the story of the 1960s pop group the Four Seasons, built around the group's hit songs and framed as four members each narrating a part of the story. It was directed by Des McAnuff."
+    source: https://en.wikipedia.org/wiki/Jersey_Boys
+  - text: "After a run at La Jolla Playhouse in 2004, it opened on Broadway at the August Wilson Theatre in November 2005. A West End production opened in 2008 at the Prince Edward Theatre, and the show has toured widely."
+    source: https://en.wikipedia.org/wiki/Jersey_Boys
+  - text: "It won the Tony Award for Best Musical in 2006."
+    source: https://en.wikipedia.org/wiki/Jersey_Boys
+original_cast:
+  - person: "John Lloyd Young"
+    role: "Frankie Valli"
+    production: "Broadway 2005"
+    source: https://en.wikipedia.org/wiki/Jersey_Boys
+  - person: "Christian Hoff"
+    role: "Tommy DeVito"
+    production: "Broadway 2005"
+    source: https://en.wikipedia.org/wiki/Jersey_Boys
+  - person: "Daniel Reichard"
+    role: "Bob Gaudio"
+    production: "Broadway 2005"
+    source: https://en.wikipedia.org/wiki/Jersey_Boys
+  - person: "J. Robert Spencer"
+    role: "Nick Massi"
+    production: "Broadway 2005"
+    source: https://en.wikipedia.org/wiki/Jersey_Boys
+productions:
+  - name: "Pre-Broadway"
+    venue: "La Jolla Playhouse"
+    city: "San Diego"
+    opened: "2004"
+    source: https://en.wikipedia.org/wiki/Jersey_Boys
+  - name: "Broadway"
+    venue: "August Wilson Theatre"
+    city: "New York"
+    opened: "2005-11-06"
+    source: https://en.wikipedia.org/wiki/Jersey_Boys
+  - name: "West End"
+    venue: "Prince Edward Theatre"
+    city: "London"
+    opened: "2008"
+    source: https://en.wikipedia.org/wiki/Jersey_Boys
+awards:
+  - name: "Tony Award for Best Musical"
+    year: 2006
+    source: https://en.wikipedia.org/wiki/Jersey_Boys
+# Current and announced runs: none entered yet. Ticketmaster live data covers 'playing next'.
+# Add entries from the official site (name, venue, city, start?, end?, ticket_url, source, checked).
+runs: []

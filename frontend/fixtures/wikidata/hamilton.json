@@ -1,0 +1,216 @@
+{
+  "head": {
+    "vars": [
+      "item",
+      "kind",
+      "v",
+      "vLabel",
+      "extra"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19320959"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "composer"
+        },
+        "v": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q0000001"
+        },
+        "vLabel": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Lin-Manuel Miranda"
+        },
+        "extra": {
+          "type": "literal",
+          "value": "9999991"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19320959"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "lyricist"
+        },
+        "v": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q0000001"
+        },
+        "vLabel": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Lin-Manuel Miranda"
+        },
+        "extra": {
+          "type": "literal",
+          "value": "9999991"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19320959"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "librettist"
+        },
+        "v": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q0000001"
+        },
+        "vLabel": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Lin-Manuel Miranda"
+        },
+        "extra": {
+          "type": "literal",
+          "value": "9999991"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19320959"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "premiere_date"
+        },
+        "v": {
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "value": "2015-02-17T00:00:00Z"
+        },
+        "extra": {
+          "type": "literal",
+          "value": "11"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19320959"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "premiere_venue"
+        },
+        "v": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q0000002"
+        },
+        "vLabel": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The Public Theater"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19320959"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "award"
+        },
+        "v": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q0000003"
+        },
+        "vLabel": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Pulitzer Prize for Drama"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19320959"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "award"
+        },
+        "v": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q0000004"
+        },
+        "vLabel": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Tony Award for Best Musical"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19320959"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "image"
+        },
+        "v": {
+          "type": "uri",
+          "value": "http://commons.wikimedia.org/wiki/Special:FilePath/Hamilton_fixture_placeholder.jpg"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19320959"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "ibdb"
+        },
+        "v": {
+          "type": "literal",
+          "value": "499520"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19320959"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "playbill"
+        },
+        "v": {
+          "type": "literal",
+          "value": "hamilton-richard-rodgers-theatre-vault-0000014104"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19320959"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "website"
+        },
+        "v": {
+          "type": "literal",
+          "value": "https://hamiltonmusical.com"
+        }
+      }
+    ]
+  }
+}

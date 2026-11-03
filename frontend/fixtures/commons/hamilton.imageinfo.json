@@ -1,0 +1,34 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "pages": [
+      {
+        "pageid": 1,
+        "ns": 6,
+        "title": "File:Hamilton fixture placeholder.jpg",
+        "imageinfo": [
+          {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Hamilton_fixture_placeholder.jpg",
+            "descriptionurl": "https://commons.wikimedia.org/wiki/File:Hamilton_fixture_placeholder.jpg",
+            "descriptionshorturl": "https://commons.wikimedia.org/w/index.php?curid=1",
+            "extmetadata": {
+              "LicenseShortName": {
+                "value": "CC BY-SA 4.0",
+                "source": "commons-desc-page",
+                "hidden": ""
+              },
+              "LicenseUrl": {
+                "value": "https://creativecommons.org/licenses/by-sa/4.0",
+                "source": "commons-desc-page"
+              },
+              "Artist": {
+                "value": "<a href=\"//commons.wikimedia.org/wiki/User:Example\" title=\"User:Example\">Example Photographer (placeholder)</a>",
+                "source": "commons-desc-page"
+              }
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

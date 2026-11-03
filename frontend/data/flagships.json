@@ -1,0 +1,100 @@
+[
+  {
+    "slug": "hamilton",
+    "title": "Hamilton",
+    "enwiki": "Hamilton (musical)",
+    "qids": [
+      "Q19320959"
+    ],
+    "reason": "Pulitzer Prize for Drama 2016 and Tony Best Musical 2016; long-running on Broadway/West End and touring. Running/touring status: as of model knowledge, unverified."
+  },
+  {
+    "slug": "les-miserables",
+    "title": "Les Misérables",
+    "enwiki": "Les Misérables (musical)",
+    "qids": [
+      "Q830581",
+      "Q111905785"
+    ],
+    "prefer_qid": "Q111905785",
+    "reason": "Tony Best Musical 1987; long-running West End production and national tours. Running/touring status: as of model knowledge, unverified."
+  },
+  {
+    "slug": "the-lion-king",
+    "title": "The Lion King",
+    "enwiki": "The Lion King (musical)",
+    "reason": "Tony Best Musical 1998; Broadway, West End and international tours. Running/touring status: as of model knowledge, unverified."
+  },
+  {
+    "slug": "rent",
+    "title": "Rent",
+    "enwiki": "Rent (musical)",
+    "reason": "Pulitzer Prize for Drama 1996 and Tony Best Musical 1996; anniversary tours. Running/touring status: as of model knowledge, unverified."
+  },
+  {
+    "slug": "the-book-of-mormon",
+    "title": "The Book of Mormon",
+    "enwiki": "The Book of Mormon (musical)",
+    "reason": "Tony Best Musical 2011; Broadway, West End and national tours. Running/touring status: as of model knowledge, unverified."
+  },
+  {
+    "slug": "hadestown",
+    "title": "Hadestown",
+    "enwiki": "Hadestown",
+    "reason": "Tony Best Musical 2019; Broadway and touring. Running/touring status: as of model knowledge, unverified."
+  },
+  {
+    "slug": "kimberly-akimbo",
+    "title": "Kimberly Akimbo",
+    "enwiki": "Kimberly Akimbo (musical)",
+    "reason": "Tony Best Musical 2023; touring. Running/touring status: as of model knowledge, unverified."
+  },
+  {
+    "slug": "the-outsiders",
+    "title": "The Outsiders",
+    "enwiki": "The Outsiders (musical)",
+    "reason": "Tony Best Musical 2024; Broadway and touring. Running/touring status: as of model knowledge, unverified."
+  },
+  {
+    "slug": "maybe-happy-ending",
+    "title": "Maybe Happy Ending",
+    "enwiki": "Maybe Happy Ending",
+    "reason": "Tony Best Musical 2025; Broadway. Running/touring status: as of model knowledge, unverified."
+  },
+  {
+    "slug": "jersey-boys",
+    "title": "Jersey Boys",
+    "enwiki": "Jersey Boys",
+    "reason": "Tony Best Musical 2006; Off-Broadway and touring. Running/touring status: as of model knowledge, unverified."
+  },
+  {
+    "slug": "kinky-boots",
+    "title": "Kinky Boots",
+    "enwiki": "Kinky Boots (musical)",
+    "reason": "Tony Best Musical 2013; touring and licensed productions. Running/touring status: as of model knowledge, unverified."
+  },
+  {
+    "slug": "the-phantom-of-the-opera",
+    "title": "The Phantom of the Opera",
+    "enwiki": "The Phantom of the Opera (1986 musical)",
+    "reason": "Tony Best Musical 1988; West End and touring after the Broadway closing. Running/touring status: as of model knowledge, unverified."
+  },
+  {
+    "slug": "dear-evan-hansen",
+    "title": "Dear Evan Hansen",
+    "enwiki": "Dear Evan Hansen",
+    "reason": "Tony Best Musical 2017; tours and licensed productions after the Broadway closing. Running/touring status: as of model knowledge, unverified."
+  },
+  {
+    "slug": "next-to-normal",
+    "title": "Next to Normal",
+    "enwiki": "Next to Normal",
+    "reason": "Pulitzer Prize for Drama 2010; regional and revival productions. Running/touring status: as of model knowledge, unverified."
+  },
+  {
+    "slug": "a-strange-loop",
+    "title": "A Strange Loop",
+    "enwiki": "A Strange Loop",
+    "reason": "Pulitzer Prize for Drama 2020 and Tony Best Musical 2022; touring announced. Running/touring status: as of model knowledge, unverified."
+  }
+]

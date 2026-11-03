@@ -1,0 +1,50 @@
+# Draft written from the drafter's own knowledge; cited URLs NOT opened (sources_opened: false).
+# Owner: open each source, correct or cut facts, then see content/README.md.
+slug: a-strange-loop
+title: "A Strange Loop"
+status: awaiting-owner-check
+sources_opened: false
+creators:
+  - name: "Michael R. Jackson"
+    role: "book, music and lyrics"
+    source: https://en.wikipedia.org/wiki/A_Strange_Loop
+  - name: "Stephen Brackett"
+    role: "director"
+    source: https://en.wikipedia.org/wiki/A_Strange_Loop
+history:
+  - text: "Michael R. Jackson's musical follows Usher, a Black, queer writer working as an usher at a Broadway theatre while trying to write a musical about a Black, queer writer working as an usher."
+    source: https://en.wikipedia.org/wiki/A_Strange_Loop
+  - text: "It premiered Off-Broadway at Playwrights Horizons in 2019 and opened on Broadway at the Lyceum Theatre in April 2022."
+    source: https://en.wikipedia.org/wiki/A_Strange_Loop
+  - text: "It won the Pulitzer Prize for Drama in 2020 and the Tony Award for Best Musical in 2022."
+    source: https://en.wikipedia.org/wiki/A_Strange_Loop
+original_cast:
+  - person: "Larry Owens"
+    role: "Usher"
+    production: "Off-Broadway 2019"
+    source: https://en.wikipedia.org/wiki/A_Strange_Loop
+  - person: "Jaquel Spivey"
+    role: "Usher"
+    production: "Broadway 2022"
+    source: https://en.wikipedia.org/wiki/A_Strange_Loop
+productions:
+  - name: "Off-Broadway"
+    venue: "Playwrights Horizons"
+    city: "New York"
+    opened: "2019"
+    source: https://en.wikipedia.org/wiki/A_Strange_Loop
+  - name: "Broadway"
+    venue: "Lyceum Theatre"
+    city: "New York"
+    opened: "2022-04-26"
+    source: https://en.wikipedia.org/wiki/A_Strange_Loop
+awards:
+  - name: "Pulitzer Prize for Drama"
+    year: 2020
+    source: https://en.wikipedia.org/wiki/A_Strange_Loop
+  - name: "Tony Award for Best Musical"
+    year: 2022
+    source: https://en.wikipedia.org/wiki/A_Strange_Loop
+# Current and announced runs: none entered yet. Ticketmaster live data covers 'playing next'.
+# Add entries from the official site (name, venue, city, start?, end?, ticket_url, source, checked).
+runs: []

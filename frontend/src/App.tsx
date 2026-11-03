@@ -1,9 +1,9 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Navbar from './components/Navbar';
+import Footer from './components/Footer';
 import HomePage from './pages/HomePage';
-import SearchPage from './pages/SearchPage';
-import MusicalDetailPage from './pages/MusicalDetailPage';
-import CastMemberDetailPage from './pages/CastMemberDetailPage';
+import ShowPage from './pages/ShowPage';
+import NotFoundPage from './pages/NotFoundPage';
 
 export default function App() {
   return (
@@ -12,10 +12,10 @@ export default function App() {
         <Navbar />
         <Routes>
           <Route path="/" element={<HomePage />} />
-          <Route path="/search" element={<SearchPage />} />
-          <Route path="/musicals/:id" element={<MusicalDetailPage />} />
-          <Route path="/cast/:id" element={<CastMemberDetailPage />} />
+          <Route path="/show/:slug" element={<ShowPage />} />
+          <Route path="*" element={<NotFoundPage />} />
         </Routes>
+        <Footer />
       </div>
     </BrowserRouter>
   );
