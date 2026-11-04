@@ -2,7 +2,8 @@
 //   npm run pull:catalog                 live: Wikidata SPARQL + Wikipedia API
 //   npm run pull:catalog -- --record     live, and save every raw response to fixtures/
 //   npm run pull:catalog -- --offline    replay fixtures/catalog/, no network
-// Exit code 1 (and nothing written) on any failed request or if the catalogue shrank by > 10%.
+// Exit code 1 (and nothing written) on any failed request, if the catalogue shrank by > 10%,
+// or if --offline would overwrite a live catalogue.
 import { readFile } from 'node:fs/promises'
 import { dirname, join } from 'node:path'
 import { fileURLToPath } from 'node:url'

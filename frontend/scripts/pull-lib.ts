@@ -30,9 +30,9 @@ interface SparqlResult {
   results: { bindings: Binding[] }
 }
 
-const SPARQL = 'https://query.wikidata.org/sparql'
+export const SPARQL = 'https://query.wikidata.org/sparql'
 
-function sparqlRequest(path: string, query: string): PullRequest {
+export function sparqlRequest(path: string, query: string): PullRequest {
   return {
     path,
     url: `${SPARQL}?format=json&query=${encodeURIComponent(query)}`,
@@ -50,7 +50,7 @@ export function resolveQuery(enwiki: string, anyClass = false): string {
     return `SELECT ?item ?cls ?clsLabel WHERE {
   ${head}
   OPTIONAL { ?item wdt:P31 ?cls }
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,mul". }
 }`
   }
   return `SELECT ?item WHERE {
@@ -76,12 +76,15 @@ export function itemsQuery(qids: string[], withImage = true): string {
   UNION ${plain('P1219', 'ibdb')}
   UNION ${plain('P5833', 'playbill')}
   UNION ${plain('P856', 'website')}
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,mul". }
 }
 ORDER BY ?item ?kind ?v`
 }
 
 // ---- Pure transforms --------------------------------------------------------
+
+export const ibdbShowUrl = (id: string) => `https://www.ibdb.com/broadway-show/${encodeURIComponent(id)}`
+export const playbillUrl = (id: string) => `https://playbill.com/production/${encodeURIComponent(id)}`
 
 export const qidOf = (uri: string) => uri.slice(uri.lastIndexOf('/') + 1)
 
@@ -111,11 +114,11 @@ export function parseRows(res: unknown): Row[] {
     .sort((a, b) => cmp(a.item, b.item) || cmp(a.kind, b.kind) || cmp(a.v.value, b.v.value))
 }
 
-/** Wikidata time precision: 9 = year, 10 = month, 11 (or missing) = day. */
+/** Wikidata time precision: <= 9 = year (or coarser), 10 = month, 11 (or missing) = day. */
 export function formatDate(value: string, precision?: string | number): string {
   const ymd = value.slice(0, 10)
   const p = Number(precision)
-  if (p === 9) return ymd.slice(0, 4)
+  if (p <= 9 && p > 0) return ymd.slice(0, 4) // year, decade or century: no finer date is known
   if (p === 10) return ymd.slice(0, 7)
   return ymd
 }
@@ -213,8 +216,8 @@ function buildShow(
   const ibdb = first('ibdb')?.v.value
   const playbill = first('playbill')?.v.value
   const site = first('website')?.v.value
-  if (ibdb) links.ibdb = `https://www.ibdb.com/broadway-show/${encodeURIComponent(ibdb)}`
-  if (playbill) links.playbill = `https://playbill.com/production/${encodeURIComponent(playbill)}`
+  if (ibdb) links.ibdb = ibdbShowUrl(ibdb)
+  if (playbill) links.playbill = playbillUrl(playbill)
   if (site) links.official_site = site
   const awards: ShowAward[] = [
     ...new Map(

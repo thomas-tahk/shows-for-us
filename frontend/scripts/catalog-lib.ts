@@ -1,6 +1,6 @@
 // Catalogue pull: every musical (Wikidata class Q58483083 incl. subclasses) with an English
 // Wikipedia article, minus the flagships. Three sequential stages, all via the injected Fetcher:
-//   1. listing   SPARQL, paged LIMIT/OFFSET   -> (Q-id, enwiki title)
+//   1. listing   one SPARQL query             -> (Q-id, enwiki title)
 //   2. details   SPARQL, VALUES batches       -> credits, premiere, awards, links
 //   3. extracts  MediaWiki action API batches -> intro text (CC BY-SA 4.0)
 import type { CatalogIndexEntry, CatalogShard, CatalogShow } from '../src/data/catalogShow.ts'
@@ -11,16 +11,18 @@ import {
   cmp,
   dedupe,
   formatDate,
+  ibdbShowUrl,
   itemsQuery,
   parseRows,
   people,
+  playbillUrl,
   qidOf,
+  sparqlRequest,
   type Fetcher,
   type PullRequest,
   type Row,
 } from './pull-lib.ts'
 
-export const LIST_PAGE_SIZE = 2000
 export const ITEMS_BATCH = 100
 export const EXTRACTS_BATCH = 20
 const MAX_CREATORS = 3
@@ -30,7 +32,6 @@ export interface ListEntry {
   enwiki: string
 }
 interface PullOptions {
-  listPageSize?: number
   log?: (msg: string) => void
 }
 
@@ -74,25 +75,26 @@ export function assignSlugs(entries: ListEntry[], flagshipSlugs: Set<string>): M
 
 // ---- Requests ----------------------------------------------------------------
 
-const SPARQL = 'https://query.wikidata.org/sparql'
 const pad = (n: number) => String(n).padStart(3, '0')
 
-export function listingQuery(offset: number, limit: number): string {
-  return `SELECT ?item ?enwiki WHERE {
+/** One query for the whole class (~6k rows): no paging, so the result is one consistent snapshot. */
+export function listingQuery(): string {
+  return `SELECT DISTINCT ?item ?enwiki WHERE {
   ?item wdt:P31/wdt:P279* wd:${MUSICAL_CLASS} .
   ?article schema:about ?item ;
            schema:isPartOf <https://en.wikipedia.org/> ;
            schema:name ?enwiki .
-}
-ORDER BY ?item
-LIMIT ${limit} OFFSET ${offset}`
+}`
 }
 
-function sparqlRequest(path: string, query: string): PullRequest {
-  return { path, url: `${SPARQL}?format=json&query=${encodeURIComponent(query)}`, accept: 'application/sparql-results+json' }
+export interface ExtractsCall {
+  titles: string[]
+  batch: number
+  part: number
+  cont?: Record<string, unknown>
 }
 
-export function extractsRequest(titles: string[], batch: number, part: number, cont: Record<string, unknown> = {}): PullRequest {
+export function extractsRequest({ titles, batch, part, cont = {} }: ExtractsCall): PullRequest {
   const params = new URLSearchParams({
     action: 'query',
     prop: 'extracts',
@@ -116,15 +118,11 @@ export const wikipediaUrl = (enwiki: string) => `https://en.wikipedia.org/wiki/$
 
 type Bindings = { results: { bindings: Record<string, { value: string } | undefined>[] } }
 
-export async function fetchListing(fetcher: Fetcher, pageSize = LIST_PAGE_SIZE): Promise<ListEntry[]> {
+export async function fetchListing(fetcher: Fetcher): Promise<ListEntry[]> {
+  const { results } = (await fetcher(sparqlRequest('catalog/list.json', listingQuery()))) as Bindings
   const byQid = new Map<string, ListEntry>()
-  for (let page = 0; ; page++) {
-    const q = listingQuery(page * pageSize, pageSize)
-    const { results } = (await fetcher(sparqlRequest(`catalog/list.${pad(page)}.json`, q))) as Bindings
-    for (const b of results.bindings) {
-      if (b.item && b.enwiki) byQid.set(qidOf(b.item.value), { qid: qidOf(b.item.value), enwiki: b.enwiki.value })
-    }
-    if (results.bindings.length < pageSize) break
+  for (const b of results.bindings) {
+    if (b.item && b.enwiki) byQid.set(qidOf(b.item.value), { qid: qidOf(b.item.value), enwiki: b.enwiki.value })
   }
   return [...byQid.values()].sort((a, b) => Number(a.qid.slice(1)) - Number(b.qid.slice(1)))
 }
@@ -155,6 +153,7 @@ const ofKind = (rows: Row[], kind: string) => rows.filter((r) => r.kind === kind
 // ---- Stage 3: extracts -------------------------------------------------------
 
 interface ExtractsResponse {
+  error?: { code?: string; info?: string }
   continue?: Record<string, unknown>
   query?: {
     normalized?: { from: string; to: string }[]
@@ -168,9 +167,12 @@ async function fetchBatchExtracts(fetcher: Fetcher, titles: string[], batch: num
   const text = new Map<string, string>()
   let cont: Record<string, unknown> | undefined = {}
   for (let part = 0; cont; part++) {
-    const res = (await fetcher(extractsRequest(titles, batch, part, cont))) as ExtractsResponse
-    for (const m of [...(res.query?.normalized ?? []), ...(res.query?.redirects ?? [])]) moved.set(m.from, m.to)
-    for (const p of res.query?.pages ?? []) if (p.extract && !text.has(p.title)) text.set(p.title, p.extract)
+    const res = (await fetcher(extractsRequest({ titles, batch, part, cont }))) as ExtractsResponse
+    if (res.error || !res.query) {
+      throw new Error(`extracts batch ${batch}: ${res.error ? `API error ${res.error.code ?? ''} ${res.error.info ?? ''}`.trim() : 'response has no query'}`)
+    }
+    for (const m of [...(res.query.normalized ?? []), ...(res.query.redirects ?? [])]) moved.set(m.from, m.to)
+    for (const p of res.query.pages ?? []) if (p.extract && !text.has(p.title)) text.set(p.title, p.extract)
     cont = res.continue
   }
   const resolve = (t: string) => {
@@ -201,8 +203,8 @@ function linksOf(entry: ListEntry, rows: Row[]): CatalogShow['links'] {
   const playbill = first('playbill')
   const site = first('website')
   return {
-    ...(ibdb ? { ibdb: `https://www.ibdb.com/broadway-show/${encodeURIComponent(ibdb)}` } : {}),
-    ...(playbill ? { playbill: `https://playbill.com/production/${encodeURIComponent(playbill)}` } : {}),
+    ...(ibdb ? { ibdb: ibdbShowUrl(ibdb) } : {}),
+    ...(playbill ? { playbill: playbillUrl(playbill) } : {}),
     ...(site ? { official_site: site } : {}),
     wikipedia: wikipediaUrl(entry.enwiki),
     wikidata: `https://www.wikidata.org/wiki/${entry.qid}`,
@@ -219,7 +221,14 @@ function premiereOf(rows: Row[]): CatalogShow['premiere'] {
   return { date: earliest ? formatDate(earliest.v.value, earliest.extra) : null, venue: venue?.label ?? null }
 }
 
-export function buildCatalogShow(entry: ListEntry, slug: string, rows: Row[], extract: string | undefined): CatalogShow {
+export interface ShowInput {
+  entry: ListEntry
+  slug: string
+  rows: Row[]
+  extract: string | undefined
+}
+
+export function buildCatalogShow({ entry, slug, rows, extract }: ShowInput): CatalogShow {
   const credits = (kind: string) => people(dedupe(ofKind(rows, kind).filter(hasEnglishLabel)))
   return {
     slug,
@@ -238,7 +247,7 @@ export function buildCatalogShow(entry: ListEntry, slug: string, rows: Row[], ex
 
 export async function pullCatalog(flagships: Flagship[], fetcher: Fetcher, opts: PullOptions = {}): Promise<CatalogShow[]> {
   const log = opts.log ?? (() => {})
-  const listed = await fetchListing(fetcher, opts.listPageSize)
+  const listed = await fetchListing(fetcher)
   const entries = withoutFlagships(listed, flagships)
   log(`listing: ${listed.length} musicals with an enwiki article, ${entries.length} after excluding flagships`)
   const slugs = assignSlugs(entries, new Set(flagships.map((f) => f.slug)))
@@ -247,7 +256,7 @@ export async function pullCatalog(flagships: Flagship[], fetcher: Fetcher, opts:
   const extracts = await fetchExtracts(fetcher, entries)
   log(`extracts: ${extracts.size} summaries`)
   return entries
-    .map((e) => buildCatalogShow(e, slugs.get(e.qid) as string, rows.get(e.qid) ?? [], extracts.get(e.enwiki)))
+    .map((e) => buildCatalogShow({ entry: e, slug: slugs.get(e.qid) as string, rows: rows.get(e.qid) ?? [], extract: extracts.get(e.enwiki) }))
     .sort((a, b) => cmp(a.slug, b.slug))
 }
 

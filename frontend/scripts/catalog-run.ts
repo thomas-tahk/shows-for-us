@@ -16,20 +16,26 @@ export interface RunOptions {
   log: (msg: string) => void
 }
 
-async function committedCount(outDir: string): Promise<number | null> {
+async function committedMeta(outDir: string): Promise<Partial<CatalogIndex['meta']> | null> {
   try {
-    const n = (JSON.parse(await readFile(join(outDir, 'index.json'), 'utf8')) as CatalogIndex).meta.count
-    return Number.isFinite(n) ? n : null
+    return (JSON.parse(await readFile(join(outDir, 'index.json'), 'utf8')) as CatalogIndex).meta
   } catch {
     return null
   }
 }
 
+/** Fixture data must never replace a real catalogue. */
+async function offlineProblem(o: RunOptions): Promise<string | null> {
+  if (o.mode !== 'offline-fixtures') return null
+  if (!(await committedMeta(o.outDir))?.live) return null
+  return `refusing offline run: ${o.outDir}/index.json is live data; fixtures would replace it. Nothing written`
+}
+
 /** Message if this run must not overwrite the committed catalogue, else null. Offline runs are exempt. */
 async function shrinkProblem(o: RunOptions, count: number): Promise<string | null> {
   if (o.mode === 'offline-fixtures') return null
-  const before = await committedCount(o.outDir)
-  if (before === null || count >= before * SHRINK_FLOOR) return null
+  const before = (await committedMeta(o.outDir))?.count
+  if (typeof before !== 'number' || count >= before * SHRINK_FLOOR) return null
   return `shrink guard: this run found ${count} shows, under 90% of the ${before} in ${o.outDir}/index.json; nothing written`
 }
 
@@ -49,6 +55,11 @@ async function writeCatalog(o: RunOptions, shows: CatalogShow[]): Promise<void> 
 
 /** Pull, check, then write. Returns the process exit code; writes nothing unless every request succeeded. */
 export async function runCatalog(o: RunOptions): Promise<number> {
+  const refused = await offlineProblem(o)
+  if (refused) {
+    o.log(refused)
+    return 1
+  }
   let shows: CatalogShow[]
   try {
     shows = await pullCatalog(o.flagships, o.fetcher, { log: o.log })

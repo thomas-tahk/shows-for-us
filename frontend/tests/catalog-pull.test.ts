@@ -1,12 +1,12 @@
-import { existsSync, mkdirSync, mkdtempSync, readFileSync, readdirSync, writeFileSync } from 'node:fs'
+import { existsSync, mkdirSync, rmSync, mkdtempSync, readFileSync, readdirSync, writeFileSync } from 'node:fs'
 import { tmpdir } from 'node:os'
 import { join } from 'node:path'
-import { describe, expect, it } from 'vitest'
+import { afterAll, describe, expect, it } from 'vitest'
 import type { Flagship } from '../src/data/show.ts'
 import { shardOf, type CatalogIndex, type CatalogShard, type CatalogShow } from '../src/data/catalogShow.ts'
 import { offlineFetcher } from '../scripts/fetchers.ts'
-import type { Fetcher, PullRequest } from '../scripts/pull-lib.ts'
-import { assignSlugs, buildIndex, groupShards, pullCatalog, slugify } from '../scripts/catalog-lib.ts'
+import { itemsQuery, type Fetcher, type PullRequest } from '../scripts/pull-lib.ts'
+import { assignSlugs, buildIndex, extractsRequest, groupShards, pullCatalog, slugify } from '../scripts/catalog-lib.ts'
 import { runCatalog } from '../scripts/catalog-run.ts'
 
 const flagships = JSON.parse(readFileSync('data/flagships.json', 'utf8')) as Flagship[]
@@ -163,14 +163,10 @@ function stub(total: number) {
   const reqs: PullRequest[] = []
   const fetcher: Fetcher = async (req) => {
     reqs.push(req)
-    const q = decodeURIComponent(req.url)
     if (req.path.startsWith('catalog/list')) {
-      const offset = Number(/OFFSET (\d+)/.exec(q)?.[1] ?? 0)
-      const limit = Number(/LIMIT (\d+)/.exec(q)?.[1] ?? total)
-      const n = Math.max(0, Math.min(total - offset, limit))
-      const bindings = Array.from({ length: n }, (_, i) => ({
-        item: { type: 'uri', value: `http://www.wikidata.org/entity/Q${5000 + offset + i}` },
-        enwiki: { type: 'literal', value: `Show ${offset + i} (musical)` },
+      const bindings = Array.from({ length: total }, (_, i) => ({
+        item: { type: 'uri', value: `http://www.wikidata.org/entity/Q${5000 + i}` },
+        enwiki: { type: 'literal', value: `Show ${i} (musical)` },
       }))
       return { results: { bindings } }
     }
@@ -180,15 +176,39 @@ function stub(total: number) {
   return { reqs, fetcher }
 }
 
+describe('extracts errors', () => {
+  const failing = (body: unknown): Fetcher => async (req) => {
+    if (req.path.startsWith('catalog/list'))
+      return { results: { bindings: [{ item: { type: 'uri', value: 'http://www.wikidata.org/entity/Q1' }, enwiki: { type: 'literal', value: 'One' } }] } }
+    if (req.path.startsWith('catalog/items')) return { results: { bindings: [] } }
+    return body
+  }
+  it('throws on a 200 response carrying {error}', async () => {
+    await expect(pullCatalog([], failing({ error: { code: 'internal_api_error', info: 'x' } }))).rejects.toThrow(/internal_api_error|error/)
+  })
+  it('throws when the response has no query', async () => {
+    await expect(pullCatalog([], failing({ batchcomplete: true }))).rejects.toThrow(/query/)
+  })
+  it('extractsRequest takes an object', () => {
+    const r = extractsRequest({ titles: ['A', 'B'], batch: 1, part: 2, cont: { excontinue: 3 } })
+    expect(r.path).toBe('catalog/extracts.001.2.json')
+    expect(r.url).toContain('excontinue=3')
+  })
+})
+
 describe('query batching', () => {
-  it('pages the listing with LIMIT/OFFSET until a short page', async () => {
+  it('lists everything with one SELECT DISTINCT query, no paging', async () => {
     const { reqs, fetcher } = stub(5)
-    const out = await pullCatalog([], fetcher, { listPageSize: 2 })
-    expect(out).toHaveLength(5)
+    expect(await pullCatalog([], fetcher)).toHaveLength(5)
     const lists = reqs.filter((r) => r.path.startsWith('catalog/list'))
-    expect(lists.map((r) => /OFFSET (\d+)/.exec(decodeURIComponent(r.url))?.[1])).toEqual(['0', '2', '4'])
-    expect(decodeURIComponent(lists[0].url)).toContain('LIMIT 2')
-    expect(decodeURIComponent(lists[0].url)).toContain('ORDER BY')
+    expect(lists).toHaveLength(1)
+    const q = decodeURIComponent(lists[0].url)
+    expect(q).toContain('SELECT DISTINCT')
+    expect(q).not.toMatch(/LIMIT|OFFSET/)
+  })
+
+  it('asks the label service for en then mul', () => {
+    expect(itemsQuery(['Q1'])).toContain('"en,mul"')
   })
 
   it('detail queries: 100 Q-ids per VALUES batch; extracts: 20 titles per request', async () => {
@@ -232,7 +252,13 @@ describe('query batching', () => {
 
 // ---- run: writing, guards, failure ---------------------------------------------
 
-const tmp = () => mkdtempSync(join(tmpdir(), 'catalog-'))
+const made: string[] = []
+const tmp = () => {
+  const d = mkdtempSync(join(tmpdir(), 'catalog-'))
+  made.push(d)
+  return d
+}
+afterAll(() => made.forEach((d) => rmSync(d, { recursive: true, force: true })))
 const read = <T>(p: string) => JSON.parse(readFileSync(p, 'utf8')) as T
 const snapshot = (dir: string): Record<string, string> =>
   Object.fromEntries(
@@ -270,6 +296,16 @@ describe('runCatalog', () => {
     const dir = tmp()
     await runCatalog(opts(dir, { mode: 'live' }))
     expect(read<CatalogIndex>(join(dir, 'index.json')).meta).toMatchObject({ mode: 'live', live: true })
+  })
+
+  it('offline run refuses to replace a live catalogue', async () => {
+    const dir = tmp()
+    writeFileSync(join(dir, 'index.json'), JSON.stringify({ meta: { mode: 'live', live: true, count: 5900 }, shows: [] }))
+    const before = snapshot(dir)
+    const logs: string[] = []
+    expect(await runCatalog(opts(dir, { log: (m) => logs.push(m) }))).toBe(1)
+    expect(snapshot(dir)).toEqual(before)
+    expect(logs.join('\n')).toMatch(/offline.*live|live.*offline/i)
   })
 
   it('deletes stale shard files', async () => {
@@ -327,11 +363,16 @@ describe('runCatalog', () => {
 })
 
 describe('committed output', () => {
-  it('public/catalog/index.json matches the contract and has the stable sample slugs', () => {
+  it('index.json and shards agree (invariants only; content changes with each refresh)', () => {
     const idx = read<CatalogIndex>('public/catalog/index.json')
     expect(idx.meta.count).toBe(idx.shows.length)
-    expect(idx.meta).toMatchObject({ mode: 'offline-fixtures', live: false })
-    const slugs = idx.shows.map((s) => s.slug)
-    expect(slugs).toEqual(expect.arrayContaining(['show-boat', 'the-robber-bridegroom', 'chicago']))
+    expect(['live', 'recorded-live', 'offline-fixtures']).toContain(idx.meta.mode)
+    expect(idx.meta.live).toBe(idx.meta.mode !== 'offline-fixtures')
+    const shards = new Map<string, CatalogShard>()
+    for (const e of idx.shows) {
+      const key = shardOf(e.slug)
+      if (!shards.has(key)) shards.set(key, read<CatalogShard>(`public/catalog/shows/${key}.json`))
+      expect(shards.get(key)?.shows[e.slug]?.slug).toBe(e.slug)
+    }
   })
 })
