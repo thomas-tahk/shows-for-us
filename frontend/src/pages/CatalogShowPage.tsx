@@ -1,12 +1,11 @@
-import { useCatalogLive, useCatalogShow } from '../data/catalogShard'
+import { useCatalogShow } from '../data/catalogShard'
 import CatalogShowBody from '../components/show/CatalogShowBody'
 import NotFoundPage from './NotFoundPage'
 
 export default function CatalogShowPage({ slug }: { slug: string }) {
   const { state, retry } = useCatalogShow(slug)
-  const live = useCatalogLive()
   if (state.status === 'missing') return <NotFoundPage what="show" />
-  if (state.status === 'ok') return <CatalogShowBody show={state.show} live={live} />
+  if (state.status === 'ok') return <CatalogShowBody show={state.show} live={state.live} />
   if (state.status === 'loading') {
     return (
       <main className="mx-auto max-w-3xl px-4 py-12" aria-busy="true">

@@ -10,7 +10,7 @@ const FIXTURE_DIR = join(import.meta.dirname, 'fixtures', 'catalog')
 const PIXEL = Buffer.from('iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=', 'base64')
 const SPA_FALLBACK = '<!doctype html><html><head><title>Shows For Us</title></head><body><div id="root"></div></body></html>'
 
-function readFixture(path: string): string | null {
+export function readFixture(path: string): string | null {
   // Only the shapes the app requests; anything else is "missing".
   if (!/^(index|shows\/\d{3})\.json$/.test(path)) return null
   try {

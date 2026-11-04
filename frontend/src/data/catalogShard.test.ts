@@ -11,9 +11,14 @@ function respond(body: string, init: { status?: number; type?: string } = {}) {
 afterEach(() => vi.unstubAllGlobals())
 
 describe('fetchCatalogShow', () => {
-  it('returns the record', async () => {
+  it('returns the record with the shard live flag', async () => {
+    respond('{"live":false,"shows":{"a":{"slug":"a"}}}')
+    expect(await fetchCatalogShow('a')).toEqual({ show: { slug: 'a' }, live: false })
+  })
+
+  it('treats a shard without live as live', async () => {
     respond('{"shows":{"a":{"slug":"a"}}}')
-    expect(await fetchCatalogShow('a')).toEqual({ slug: 'a' })
+    expect(await fetchCatalogShow('a')).toEqual({ show: { slug: 'a' }, live: true })
   })
 
   it('treats prototype names as missing', async () => {
