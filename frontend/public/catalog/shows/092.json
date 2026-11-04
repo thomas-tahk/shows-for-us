@@ -1,4 +1,5 @@
 {
+  "live": true,
   "shows": {
     "agon": {
       "slug": "agon",
@@ -524,41 +525,6 @@
       "summary": {
         "text": "Lottchen am Hofe (Lottchen at Court) is a three-act singspiel by the German composer Johann Adam Hiller.\nThe libretto by Christian Felix Weiße was based on the opéra comique text La caprice amoureux, ou Ninette à la cour by Charles Simon Favart.",
         "source_url": "https://en.wikipedia.org/wiki/Lottchen_am_Hofe",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "love-in-a-village": {
-      "slug": "love-in-a-village",
-      "title": "Love in a Village",
-      "qid": "Q6691850",
-      "enwiki": "Love in a Village",
-      "composers": [
-        {
-          "name": "Thomas Arne",
-          "qid": "Q309709",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/88200"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Isaac Bickerstaffe",
-          "qid": "Q5575474"
-        }
-      ],
-      "premiere": {
-        "date": "1762-12-08",
-        "venue": "Theatre Royal, Covent Garden"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Love_in_a_Village",
-        "wikidata": "https://www.wikidata.org/wiki/Q6691850"
-      },
-      "summary": {
-        "text": "Love in a Village is a ballad opera in three acts that was composed and arranged by Thomas Arne. A pastiche, the work contains 42 musical numbers of which only five were newly composed works by Arne. The other music is made up of 13 pieces borrowed from Arne's earlier stage works, a new overture was by C. F. Abel, and 23 songs by other composers, including Bishop, Boyce, Geminiani, Giordani, and Galuppi, albeit with new texts. The English libretto, by Isaac Bickerstaffe, is based on Charles Johnson’s 1729 play The Village Opera. The opera premiered at the Royal Opera, Covent Garden in London on 8 December 1762. One of its best known songs is the Miller of Dee.",
-        "source_url": "https://en.wikipedia.org/wiki/Love_in_a_Village",
         "license": "CC BY-SA 4.0",
         "modified": false
       }

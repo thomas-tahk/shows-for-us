@@ -1,4 +1,5 @@
 {
+  "live": true,
   "shows": {
     "acteon": {
       "slug": "acteon",
@@ -1585,40 +1586,6 @@
       "summary": {
         "text": "Up in Central Park is a Broadway musical with a book by Herbert Fields and Dorothy Fields, lyrics by Dorothy Fields, and music by Sigmund Romberg.  The musical, originally called \"Central Park\" before Broadway (see image of sheet music), was Romberg's last stage work produced during his lifetime.\nProduced by Michael Todd, the Broadway production, staged by John Kennedy, and choreographed by Helen Tamiris, opened on January 27, 1945 at the New Century Theatre, where it ran for 504 performances.  The cast included Noah Beery Sr., Wilbur Evans and Betty Bruce.\nThe musical is set in the Boss Tweed era of New York City in the 1870s.  Wilbur Evans plays John Matthews, a New York Times reporter investigating the Tweed’s crooked political machine, especially the fraud connected with constructing Central Park.\nHe falls in love with the daughter of one of the Boss’ ward heelers, who marries a politician, who is killed.  She later rekindles her love for Matthews. The settings, costumes and dances evoked the lithographs of Currier and Ives.",
         "source_url": "https://en.wikipedia.org/wiki/Up_in_Central_Park",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "what-men-live-by": {
-      "slug": "what-men-live-by",
-      "title": "What Men Live By",
-      "qid": "Q7991326",
-      "enwiki": "What Men Live By (opera)",
-      "composers": [
-        {
-          "name": "Bohuslav Martinů",
-          "qid": "Q223258"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Bohuslav Martinů",
-          "qid": "Q223258"
-        }
-      ],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/What_Men_Live_By_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q7991326"
-      },
-      "summary": {
-        "text": "What Men Live By (Czech: Čím lidé žijí) is an opera in one act by Bohuslav Martinů to an English libretto by the composer, based on Where Love Is, There God Is Also (1885) by Leo Tolstoy, though he chose to use the more universal title of a different Tolstoy story What Men Live By (1886). It was composed in 1951-1952 when the composer was living in the United States, and described by him as a 'pastoral-opera'.",
-        "source_url": "https://en.wikipedia.org/wiki/What_Men_Live_By_(opera)",
         "license": "CC BY-SA 4.0",
         "modified": false
       }

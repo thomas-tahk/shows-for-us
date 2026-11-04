@@ -1,4 +1,5 @@
 {
+  "live": true,
   "shows": {
     "afternoon-of-a-faun-rushton": {
       "slug": "afternoon-of-a-faun-rushton",
@@ -493,36 +494,6 @@
       "summary": {
         "text": "Goosebumps The Musical: Phantom of the Auditorium (also known as Goosebumps The Musical) is a musical with book and lyrics by John Maclay, and music and lyrics by Danny Abosch. It is based on Phantom of the Auditorium, book 24 of the bestselling Goosebumps book series by R.L. Stine, published by Scholastic Publishing.",
         "source_url": "https://en.wikipedia.org/wiki/Goosebumps_The_Musical",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "griffelkin": {
-      "slug": "griffelkin",
-      "title": "Griffelkin",
-      "qid": "Q5608755",
-      "enwiki": "Griffelkin",
-      "composers": [
-        {
-          "name": "Lukas Foss",
-          "qid": "Q213709",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11682"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": "NBC Opera Theatre"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Griffelkin",
-        "wikidata": "https://www.wikidata.org/wiki/Q5608755"
-      },
-      "summary": {
-        "text": "Griffelkin is an opera in three acts by Lukas Foss with a libretto by Alastair Reid. The opera was first performed on November 6, 1955, in a nationwide telecast by the NBC Opera Theatre.",
-        "source_url": "https://en.wikipedia.org/wiki/Griffelkin",
         "license": "CC BY-SA 4.0",
         "modified": false
       }

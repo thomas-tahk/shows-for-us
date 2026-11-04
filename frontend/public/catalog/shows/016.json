@@ -1,4 +1,5 @@
 {
+  "live": true,
   "shows": {
     "a-marvelous-order": {
       "slug": "a-marvelous-order",
@@ -125,6 +126,30 @@
       "summary": {
         "text": "Bad Boy Johnny and the Prophets of Doom is a rock stage musical first performed in Australia in 1989. It is a satire on religion and rock and roll.",
         "source_url": "https://en.wikipedia.org/wiki/Bad_Boy_Johnny_and_the_Prophets_of_Doom",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "bajazet": {
+      "slug": "bajazet",
+      "title": "Bajazet",
+      "qid": "Q85744959",
+      "enwiki": "Bajazet (Gasparini opera)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Bajazet_(Gasparini_opera)",
+        "wikidata": "https://www.wikidata.org/wiki/Q85744959"
+      },
+      "summary": {
+        "text": "Bajazet (Italian pronunciation: [baʒaˈze]) is an opera by Francesco Gasparini, a revision of his 1711 work Tamerlano. It was first performed at the Teatro Pubblico in Reggio Emilia in 1719, with designs by Pietro Righini.\nThe first production included Francesco Borosini in the title role,  Antonio Bernacchi (Tamerlano), Marina Benta Bulgarelli (Asteria), Faustina Bordoni (Irene), Diana Vico (Andronico), Antonio Piasi (Clearco), Battista Roberti (Leone) and Girolamo Bartoluzzi Regiano (Zaida).\nA second production was staged in Venice in 1723. Three versions of the work are known, but it is only the 1719 one for which all the music is known to have survived.",
+        "source_url": "https://en.wikipedia.org/wiki/Bajazet_(Gasparini_opera)",
         "license": "CC BY-SA 4.0",
         "modified": false
       }

@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-04T12:52:22.355Z",
+    "generated_at": "2026-11-04T13:22:25.778Z",
     "mode": "live",
     "live": true,
-    "count": 6528
+    "count": 6512
   },
   "shows": [
     {
@@ -1450,16 +1450,6 @@
       "creators": []
     },
     {
-      "slug": "adriana-lecouvreur",
-      "title": "Adriana Lecouvreur",
-      "year": "1902",
-      "creators": [
-        "Francesco Cilea",
-        "Ernest Legouvé",
-        "Arturo Colautti"
-      ]
-    },
-    {
       "slug": "adriana-mater",
       "title": "Adriana Mater",
       "year": null,
@@ -2336,14 +2326,6 @@
       "year": null,
       "creators": [
         "André Cardinal Destouches"
-      ]
-    },
-    {
-      "slug": "amahl-and-the-night-visitors",
-      "title": "Amahl and the Night Visitors",
-      "year": "1951",
-      "creators": [
-        "Gian Carlo Menotti"
       ]
     },
     {
@@ -3802,14 +3784,6 @@
       ]
     },
     {
-      "slug": "ashig-garib",
-      "title": "Ashig Garib",
-      "year": "1916",
-      "creators": [
-        "Zulfugar Hajibeyov"
-      ]
-    },
-    {
       "slug": "ashmedai",
       "title": "Ashmedai",
       "year": "1971",
@@ -4416,19 +4390,10 @@
       "creators": []
     },
     {
-      "slug": "bajazet-gasparini-opera",
+      "slug": "bajazet",
       "title": "Bajazet",
       "year": null,
       "creators": []
-    },
-    {
-      "slug": "bajazet-vivaldi-opera",
-      "title": "Bajazet",
-      "year": "1735",
-      "creators": [
-        "Antonio Vivaldi",
-        "Agostino Piovene"
-      ]
     },
     {
       "slug": "bajour",
@@ -13388,15 +13353,6 @@
       ]
     },
     {
-      "slug": "erwartung",
-      "title": "Erwartung",
-      "year": "1924",
-      "creators": [
-        "Arnold Schoenberg",
-        "Marie Pappenheim"
-      ]
-    },
-    {
       "slug": "erwin-und-elmire",
       "title": "Erwin und Elmire",
       "year": "1775",
@@ -15674,14 +15630,6 @@
       ]
     },
     {
-      "slug": "germanico",
-      "title": "Germanico",
-      "year": null,
-      "creators": [
-        "George Frideric Handel"
-      ]
-    },
-    {
       "slug": "germanico-in-germania",
       "title": "Germanico in Germania",
       "year": null,
@@ -16581,14 +16529,6 @@
         "Scott Frankel",
         "Michael Korie",
         "Doug Wright"
-      ]
-    },
-    {
-      "slug": "griffelkin",
-      "title": "Griffelkin",
-      "year": null,
-      "creators": [
-        "Lukas Foss"
       ]
     },
     {
@@ -18197,14 +18137,6 @@
       "year": null,
       "creators": [
         "Tony Kushner"
-      ]
-    },
-    {
-      "slug": "husband-and-wife",
-      "title": "Husband and Wife",
-      "year": "1910",
-      "creators": [
-        "Uzeyir Hajibeyov"
       ]
     },
     {
@@ -24992,15 +24924,6 @@
       "creators": []
     },
     {
-      "slug": "la-traviata",
-      "title": "La traviata",
-      "year": "1853",
-      "creators": [
-        "Giuseppe Verdi",
-        "Francesco Maria Piave"
-      ]
-    },
-    {
       "slug": "la-valse",
       "title": "La valse",
       "year": "1920",
@@ -28511,15 +28434,6 @@
       "creators": []
     },
     {
-      "slug": "love-in-a-village",
-      "title": "Love in a Village",
-      "year": "1762",
-      "creators": [
-        "Thomas Arne",
-        "Isaac Bickerstaffe"
-      ]
-    },
-    {
       "slug": "love-in-the-age-of-therapy",
       "title": "Love in the Age of Therapy",
       "year": "2002",
@@ -31030,14 +30944,6 @@
       "year": "1984",
       "creators": [
         "Sergei Rachmaninoff"
-      ]
-    },
-    {
-      "slug": "monna-vanna-fevrier",
-      "title": "Monna Vanna",
-      "year": null,
-      "creators": [
-        "Henry Février"
       ]
     },
     {
@@ -37467,14 +37373,6 @@
       "year": "2006",
       "creators": [
         "Leonid Desyatnikov"
-      ]
-    },
-    {
-      "slug": "rustam-and-zohrab",
-      "title": "Rustam and Zohrab",
-      "year": "1910",
-      "creators": [
-        "Uzeyir Hajibeyov"
       ]
     },
     {
@@ -45571,15 +45469,6 @@
       ]
     },
     {
-      "slug": "the-maid-of-cashmere",
-      "title": "The Maid of Cashmere",
-      "year": null,
-      "creators": [
-        "Henry Bishop",
-        "Daniel François Esprit Auber"
-      ]
-    },
-    {
       "slug": "the-maid-of-orleans",
       "title": "The Maid of Orleans",
       "year": "1881",
@@ -45700,14 +45589,6 @@
       "creators": [
         "César Cui",
         "Viktor Krylov"
-      ]
-    },
-    {
-      "slug": "the-marriage",
-      "title": "The Marriage",
-      "year": "1953",
-      "creators": [
-        "Bohuslav Martinů"
       ]
     },
     {
@@ -48265,14 +48146,6 @@
       "creators": [
         "Thomas Koppel",
         "Flemming Flindt"
-      ]
-    },
-    {
-      "slug": "the-triumph-of-st-joan",
-      "title": "The Triumph of St. Joan",
-      "year": null,
-      "creators": [
-        "Norman Dello Joio"
       ]
     },
     {
@@ -51649,14 +51522,6 @@
       "title": "What Makes Sammy Run?",
       "year": null,
       "creators": []
-    },
-    {
-      "slug": "what-men-live-by",
-      "title": "What Men Live By",
-      "year": null,
-      "creators": [
-        "Bohuslav Martinů"
-      ]
     },
     {
       "slug": "what-next",

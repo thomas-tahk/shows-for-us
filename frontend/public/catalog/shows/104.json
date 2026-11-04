@@ -1,4 +1,5 @@
 {
+  "live": true,
   "shows": {
     "achille-in-sciro": {
       "slug": "achille-in-sciro",
@@ -309,36 +310,6 @@
       "summary": {
         "text": "Don Bucefalo is an opera (dramma giocoso) in three acts composed by Antonio Cagnoni to a libretto by Calisto Bassi. Bassi's libretto was based on the libretto by Giuseppe Palomba (fl. 1765–1825) to Le cantatrici villane (1799) by Valentino Fioravanti. Don Bucefalo premiered on 28 June 1847 at the Milan Conservatory.",
         "source_url": "https://en.wikipedia.org/wiki/Don_Bucefalo",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "germanico": {
-      "slug": "germanico",
-      "title": "Germanico",
-      "qid": "Q1514155",
-      "enwiki": "Germanico (Handel)",
-      "composers": [
-        {
-          "name": "George Frideric Handel",
-          "qid": "Q7302",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/89505"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Germanico_(Handel)",
-        "wikidata": "https://www.wikidata.org/wiki/Q1514155"
-      },
-      "summary": {
-        "text": "Germanico is a serenata in one act, to a libretto of unknown authorship, which is ascribed to George Frideric Handel on the sole source, a copyist's manuscript in the library of the Conservatorio Luigi Cherubini in Florence. The ascription to Handel, \"del sig. Hendl\", is in the same hand that copied the music, suggesting it was contemporary with the writing of the score. It was discovered in 2007 by the conductor and scholar Ottaviano Tenerani and has been recorded by Deutsche Harmonia Mundi (EAN 886978604521). Probably spurious, the work is said by its discoverers to date from the earliest phase of Handel's sojourn in Italy, probably around 1708, leading to claims that it was Handel's first Italian opera.\nDespite the division into two acts, the work is described on the manuscript as a serenata, and it lacks the drama of conventional opera seria. Instead it is a work of rejoicing and prophecy, based around the historical figure of Germanicus and his victory over the German chieftain Arminius. Another character is Germanico's wife Agrippina the Elder – they were the parents of Agrippina the Younger, who is the central protagonist of Handel's later Italian opera Agrippina of 1710.",
-        "source_url": "https://en.wikipedia.org/wiki/Germanico_(Handel)",
         "license": "CC BY-SA 4.0",
         "modified": false
       }

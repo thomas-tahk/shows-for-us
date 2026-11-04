@@ -1,4 +1,5 @@
 {
+  "live": true,
   "shows": {
     "a-letter-for-queen-victoria": {
       "slug": "a-letter-for-queen-victoria",
@@ -476,41 +477,6 @@
       "summary": {
         "text": "Edipo Re is an opera generally attributed to Ruggero Leoncavallo, although there is some dispute about the authorship.  The libretto is by Giovacchino Forzano.  It had its premiere in Chicago in 1920.\nThe opera was published posthumously in 1920 and was completed and orchestrated by Giovanni Pennacchio.  Leoncavallo biographer Konrad Dryden disputes whether Leoncavallo composed the opera at all, stating that \"it is extremely doubtful whether Edipo Re, Maschera nuda or the short operetta Il primo bacio had anything to do with the composer at all.\"  Other sources continue to attribute it to Leoncavallo with completion by Pennacchio.\nEdipo Re was premiered by the Chicago Opera in 1920.  It had its Italian operatic premiere in 1958, although a performance was broadcast on Italian radio in 1939.\nThe plot of Edipo Re is based on Sophocles' Oedipus Rex, although the libretto excluded most of the choruses.",
         "source_url": "https://en.wikipedia.org/wiki/Edipo_re_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "erwartung": {
-      "slug": "erwartung",
-      "title": "Erwartung",
-      "qid": "Q1362653",
-      "enwiki": "Erwartung",
-      "composers": [
-        {
-          "name": "Arnold Schoenberg",
-          "qid": "Q154770",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/91752"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Marie Pappenheim",
-          "qid": "Q1897454"
-        }
-      ],
-      "premiere": {
-        "date": "1924-06-06",
-        "venue": "State Opera Prague"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Erwartung",
-        "wikidata": "https://www.wikidata.org/wiki/Q1362653"
-      },
-      "summary": {
-        "text": "Erwartung (Expectation), Op. 17, is a one-act monodrama in four scenes by Arnold Schönberg to a libretto by Marie Pappenheim. Composed in 1909, it was not premiered until 6 June 1924 in Prague, conducted by Alexander Zemlinsky with Marie Gutheil-Schoder as the soprano. The opera takes the unusual form of a monologue for solo soprano accompanied by a large orchestra. In performance, it lasts for about half an hour. Schönberg described Erwartung, saying \"the aim is to represent in slow motion everything that occurs during a single second of maximum spiritual excitement, stretching it out to half an hour.\"\nPhilip Friedheim has described Erwartung as Schönberg's \"only lengthy work in an athematic style\", where no musical material returns once stated over the course of 426 measures. In his analysis of the structure, one indication of the complexity of the music is that the first scene of over 30 bars contains 9 metre changes and 16 tempo changes. Herbert Buchanan has countered this description of the work as \"athematic\", and the general impression of it as \"atonal\", in his own analysis.\nThe musicologist Charles Rosen has said that Erwartung, along with Berg's Wozzeck and Stravinsky's The Rite of Spring, is among the \"impregnable\" \"great monuments of modernism.\" According to Christopher Small, \"Schoenberg's intuitive understanding of the integrative process of dreams is revealed especially in the marvellous closing pages, filled as they are with tenderness and longing. At the end we can almost see the sleeper awake as with a scurry of chromatic scales the music vanished from our hearing and the dream recedes from her waking mind.\"",
-        "source_url": "https://en.wikipedia.org/wiki/Erwartung",
         "license": "CC BY-SA 4.0",
         "modified": false
       }

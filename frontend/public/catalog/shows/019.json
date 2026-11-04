@@ -1,4 +1,5 @@
 {
+  "live": true,
   "shows": {
     "a-tree-grows-in-brooklyn": {
       "slug": "a-tree-grows-in-brooklyn",
@@ -1460,40 +1461,6 @@
       "summary": {
         "text": "The Maiden of the North (in Finnish: Pohjan neiti) is an opera in three acts written in 1898 by the Finnish composer Oskar Merikanto. The piece was a collaboration with the Finnish author Antti Rytkönen, the Finnish-language libretto of whom was based on a script by the Finnish opera singer Lorenz Nikolai Achté. The opera tells a story from The Kalevala, Finland's national epic, in which the old wizard Väinämöinen and the blacksmith Ilmarinen, as rival suitors, vie for the hand of the beautiful Maiden of Pohjola; she is the daughter of Louhi, the villainous Queen of the Northland. Although rarely performed, The Maiden of the North retains a degree of historical significance as the first Finnish-language opera.",
         "source_url": "https://en.wikipedia.org/wiki/The_Maiden_of_the_North",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "the-marriage": {
-      "slug": "the-marriage",
-      "title": "The Marriage",
-      "qid": "Q7750400",
-      "enwiki": "The Marriage (Martinů)",
-      "composers": [
-        {
-          "name": "Bohuslav Martinů",
-          "qid": "Q223258"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Bohuslav Martinů",
-          "qid": "Q223258"
-        }
-      ],
-      "premiere": {
-        "date": "1953-02-07",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/The_Marriage_(Martin%C5%AF)",
-        "wikidata": "https://www.wikidata.org/wiki/Q7750400"
-      },
-      "summary": {
-        "text": "The Marriage (Czech: Ženitba) is a comic opera in 2 acts by Bohuslav Martinů, to the composer's own libretto, after the play of the same name by Nikolai Gogol. The opera was commissioned for television by the NBC, and the NBC Opera Theatre performed the work's world premiere on their television program NBC TV Opera Theatre for a national broadcast in the United States on 2 July 1953. The opera has subsequently been adapted for the stage and recorded on CD.",
-        "source_url": "https://en.wikipedia.org/wiki/The_Marriage_(Martin%C5%AF)",
         "license": "CC BY-SA 4.0",
         "modified": false
       }

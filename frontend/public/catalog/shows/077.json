@@ -1,4 +1,5 @@
 {
+  "live": true,
   "shows": {
     "american-idiot": {
       "slug": "american-idiot",
@@ -1771,41 +1772,6 @@
       "summary": {
         "text": "The Lunch Box is a chamber opera by Thai composer Thanapoom Sirichang and Thai librettist Bringkop Vora-Urai. Composed entirely in Tasmania under the guidance of IHOS Artistic Director Constantine Koukias, The Lunch Box may be the first opera sung in Thai to blend traditional Thai music and contemporary Western opera.",
         "source_url": "https://en.wikipedia.org/wiki/The_Lunch_Box",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "the-maid-of-cashmere": {
-      "slug": "the-maid-of-cashmere",
-      "title": "The Maid of Cashmere",
-      "qid": "Q130751511",
-      "enwiki": "The Maid of Cashmere",
-      "composers": [
-        {
-          "name": "Henry Bishop",
-          "qid": "Q1200639",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/412245"
-        },
-        {
-          "name": "Daniel François Esprit Auber",
-          "qid": "Q157672",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/412308"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/The_Maid_of_Cashmere",
-        "wikidata": "https://www.wikidata.org/wiki/Q130751511"
-      },
-      "summary": {
-        "text": "The Maid of Cashmere is a opéra-ballet created and performed in the 1830s. It was an English version of Daniel Auber's Le Dieu et la Bayadère.",
-        "source_url": "https://en.wikipedia.org/wiki/The_Maid_of_Cashmere",
         "license": "CC BY-SA 4.0",
         "modified": false
       }

@@ -1,4 +1,5 @@
 {
+  "live": true,
   "shows": {
     "200-000-taler": {
       "slug": "200-000-taler",

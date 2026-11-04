@@ -1,4 +1,5 @@
 {
+  "live": true,
   "shows": {
     "arianna-goehr": {
       "slug": "arianna-goehr",
@@ -967,43 +968,6 @@
       "summary": {
         "text": "La mascotte (The Mascot) is a three-act opéra comique with music by Edmond Audran and words by Alfred Duru and Henri Chivot. The story concerns a farm girl who is a \"mascotte\": someone with the mystic power to bring good luck to all around her, so long as she remains a virgin.\nThe opera opened at the Théâtre des Bouffes Parisiens, Paris, on 28 December 1880, and had an initial run of 301 performances. Productions followed in other continental European countries, the Americas, Britain and Australia. The title of the piece introduced the word \"mascotte\" into standard French usage, \"mascot\" into English, and other variants of it into several more languages.",
         "source_url": "https://en.wikipedia.org/wiki/La_mascotte",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "la-traviata": {
-      "slug": "la-traviata",
-      "title": "La traviata",
-      "qid": "Q186162",
-      "enwiki": "La traviata",
-      "composers": [
-        {
-          "name": "Giuseppe Verdi",
-          "qid": "Q7317",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11207"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Francesco Maria Piave",
-          "qid": "Q334205",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/97266"
-        }
-      ],
-      "premiere": {
-        "date": "1853-03-06",
-        "venue": "Teatro La Fenice"
-      },
-      "awards": [],
-      "links": {
-        "ibdb": "https://www.ibdb.com/broadway-show/8854",
-        "wikipedia": "https://en.wikipedia.org/wiki/La_traviata",
-        "wikidata": "https://www.wikidata.org/wiki/Q186162"
-      },
-      "summary": {
-        "text": "La traviata (Italian: [la traviˈaːta, -aˈvjaː-]; The Wayward Woman) is an opera in three acts by Giuseppe Verdi set to an Italian libretto by Francesco Maria Piave. It is based on La Dame aux camélias (1852), a play by Alexandre Dumas fils, which he adapted from his own 1848 novel. The opera was originally titled Violetta, after the main character. It was first performed on 6 March 1853 at La Fenice opera house in Venice.\nPiave and Verdi wanted to follow Dumas in giving the opera a contemporary setting, but the authorities at La Fenice insisted that it be set in the past, \"c. 1700\". It was not until the 1880s that the composer's and librettist's original wishes were carried out and \"realistic\" productions were staged. La traviata has become immensely popular and is among the most frequently performed of all operas.",
-        "source_url": "https://en.wikipedia.org/wiki/La_traviata",
         "license": "CC BY-SA 4.0",
         "modified": false
       }

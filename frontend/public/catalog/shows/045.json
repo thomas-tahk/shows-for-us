@@ -1,4 +1,5 @@
 {
+  "live": true,
   "shows": {
     "adams-violin-concerto": {
       "slug": "adams-violin-concerto",
@@ -82,42 +83,6 @@
       "summary": {
         "text": "Amadis de Gaule is an opera by the French composers Jean-Benjamin de La Borde and Pierre Montan Berton, first performed at the Académie Royale de Musique, Paris (the Paris Opera) on 26 November 1771. It takes the form of a tragédie en musique in five acts. The opera is a new setting of a libretto by Philippe Quinault, originally set by Jean-Baptiste Lully in 1684, based on Garci Rodríguez de Montalvo's Amadis de Gaula.",
         "source_url": "https://en.wikipedia.org/wiki/Amadis_de_Gaule_(La_Borde_and_Berton)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "amahl-and-the-night-visitors": {
-      "slug": "amahl-and-the-night-visitors",
-      "title": "Amahl and the Night Visitors",
-      "qid": "Q452523",
-      "enwiki": "Amahl and the Night Visitors",
-      "composers": [
-        {
-          "name": "Gian Carlo Menotti",
-          "qid": "Q270662",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5904"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Gian Carlo Menotti",
-          "qid": "Q270662",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5904"
-        }
-      ],
-      "premiere": {
-        "date": "1951-12-24",
-        "venue": "NBC Opera Theatre"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Amahl_and_the_Night_Visitors",
-        "wikidata": "https://www.wikidata.org/wiki/Q452523"
-      },
-      "summary": {
-        "text": "Amahl and the Night Visitors is an opera in one act by Gian Carlo Menotti with an original English libretto by the composer. It was commissioned by NBC and first performed by the NBC Opera Theatre on December 24, 1951, in New York City at NBC Studio 8H in Rockefeller Center, where it was broadcast live on television from that venue as the debut production of the Hallmark Hall of Fame. It was the first opera specifically composed for television in the United States.",
-        "source_url": "https://en.wikipedia.org/wiki/Amahl_and_the_Night_Visitors",
         "license": "CC BY-SA 4.0",
         "modified": false
       }

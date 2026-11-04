@@ -1,4 +1,5 @@
 {
+  "live": true,
   "shows": {
     "1492-epopea-lirica-d-america": {
       "slug": "1492-epopea-lirica-d-america",
@@ -1586,36 +1587,6 @@
       "summary": {
         "text": "The Sun Dance Opera is a 1913 opera with a score by William F. Hanson and libretto and songs by Zitkala-Ša, also known as Gertrude Simmons Bonnin. It is the first opera by a Native American person.",
         "source_url": "https://en.wikipedia.org/wiki/The_Sun_Dance_Opera",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "the-triumph-of-st-joan": {
-      "slug": "the-triumph-of-st-joan",
-      "title": "The Triumph of St. Joan",
-      "qid": "Q7770294",
-      "enwiki": "The Triumph of St. Joan",
-      "composers": [
-        {
-          "name": "Norman Dello Joio",
-          "qid": "Q724145",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11588"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/The_Triumph_of_St._Joan",
-        "wikidata": "https://www.wikidata.org/wiki/Q7770294"
-      },
-      "summary": {
-        "text": "The Triumph of St. Joan was originally an opera in three acts by Norman Dello Joio to an English language libretto on the subject of the martyrdom of Joan of Arc by Dello Joio and Joseph Machlis (1906–1998). It was premiered at Sarah Lawrence College on May 9, 1950. Although the opera was received positively, the composer was unhappy with the work and declined to have it performed again. However, he did adapt part of the opera into a symphony of the same title in 1951. The symphony was later renamed Seraphic Ode.\nDello Joio returned to the subject of Joan of Arc in 1955 when he was commissioned by the NBC Television Opera Theatre to produce an original 75-minute opera for television. The resulting work in two acts was retitled The Trial at Rouen, and, in using new music and a new libretto by Dello Joio, was in effect a completely different musical drama from its predecessor. It premiered on April 8, 1956 on NBC. Dello Joio adapted the work a third time, extending the music at the beginning and end of the 1956 version (including some music from the 1950 opera) to create a one-act opera for the stage. This third version, once again called The Triumph of St. Joan, was premiered by the New York City Opera on April 16, 1959.",
-        "source_url": "https://en.wikipedia.org/wiki/The_Triumph_of_St._Joan",
         "license": "CC BY-SA 4.0",
         "modified": false
       }

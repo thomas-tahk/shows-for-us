@@ -1,4 +1,5 @@
 {
+  "live": true,
   "shows": {
     "a-midsummer-night-s-dream-ballet": {
       "slug": "a-midsummer-night-s-dream-ballet",
@@ -676,40 +677,6 @@
       "summary": {
         "text": "Hugh the Drover (or Love in the Stocks) is an opera in two acts by Ralph Vaughan Williams to an original English libretto by Harold Child. The work has set numbers with recitatives. It has been described as a modern example of a ballad opera. Contemporary comment noted the use of humour and the role of the chorus in the work, in the context of developing English opera.",
         "source_url": "https://en.wikipedia.org/wiki/Hugh_the_Drover",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "husband-and-wife": {
-      "slug": "husband-and-wife",
-      "title": "Husband and Wife",
-      "qid": "Q4305798",
-      "enwiki": "Husband and Wife (operetta)",
-      "composers": [
-        {
-          "name": "Uzeyir Hajibeyov",
-          "qid": "Q317397"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Uzeyir Hajibeyov",
-          "qid": "Q317397"
-        }
-      ],
-      "premiere": {
-        "date": "1910-06-06",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Husband_and_Wife_(operetta)",
-        "wikidata": "https://www.wikidata.org/wiki/Q4305798"
-      },
-      "summary": {
-        "text": "Husband and Wife (Azerbaijani: Ər və Arvad) is a musical comedy in three acts with music and libretto written by Azerbaijani composer Uzeyir Hajibeyov, and an early example of the genre in Azerbaijan. It is the first of Hajibeyov's trilogy of three musical comedies, which also includes If Not That One, Then This One and Arshin mal alan.\nThe operetta's themes centre on the family and everyday life, oppression in the family and Azerbaijani woman in society.\nThe premiere was held on May 24, 1910, in Baku, in the theatre-circus of the Nikitin brothers. Huseyngulu Sarabski (Marjan bey), Ahmed Agdamski (Minnat khanim), M.H.Teregulov (Safi) and Mirzagha Aliyev (Kerbelayi Gubad) played the leading parts, Huseyn Arablinski was the stage director and Uzeyir Hajibeyov was the conductor. Husband and Wife was subsequently staged in other theatres in Azerbaijan, including Nakhchivan, Aghdam and Shaki.",
-        "source_url": "https://en.wikipedia.org/wiki/Husband_and_Wife_(operetta)",
         "license": "CC BY-SA 4.0",
         "modified": false
       }

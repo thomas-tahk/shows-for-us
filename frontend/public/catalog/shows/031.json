@@ -1,4 +1,5 @@
 {
+  "live": true,
   "shows": {
     "a-gaiety-girl": {
       "slug": "a-gaiety-girl",
@@ -1172,37 +1173,6 @@
       "summary": {
         "text": "Mignon (French pronunciation: [miɲɔ̃] ) is an 1866 opéra comique (or opera in its second version) in three acts by Ambroise Thomas. The original French libretto was by Jules Barbier and Michel Carré, based on Goethe's 1795-96 novel Wilhelm Meisters Lehrjahre. The Italian version was translated by Giuseppe Zaffira. The opera is mentioned in James Joyce's \"The Dead\" (in Dubliners) and Willa Cather's The Professor's House.  Thomas's goddaughter Mignon Nevada was named after the main character. The aria “I am Titania” was used repeatedly in the British feature film The Life and Death of Colonel Blimp.",
         "source_url": "https://en.wikipedia.org/wiki/Mignon",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "monna-vanna-fevrier": {
-      "slug": "monna-vanna-fevrier",
-      "title": "Monna Vanna",
-      "qid": "Q628536",
-      "enwiki": "Monna Vanna (Février)",
-      "composers": [
-        {
-          "name": "Henry Février",
-          "qid": "Q3100982",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11657"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": "Palais Garnier"
-      },
-      "awards": [],
-      "links": {
-        "ibdb": "https://www.ibdb.com/broadway-show/6204",
-        "wikipedia": "https://en.wikipedia.org/wiki/Monna_Vanna_(F%C3%A9vrier)",
-        "wikidata": "https://www.wikidata.org/wiki/Q628536"
-      },
-      "summary": {
-        "text": "Monna Vanna is a drame lyrique or opera in four acts by composer Henry Février. The opera's French libretto is by playwright Maurice Maeterlinck and is based on his play of the same name. The opera premiered on 13 January 1909 at the Académie Nationale de Musique in Paris.",
-        "source_url": "https://en.wikipedia.org/wiki/Monna_Vanna_(F%C3%A9vrier)",
         "license": "CC BY-SA 4.0",
         "modified": false
       }

@@ -1,49 +1,6 @@
 {
+  "live": true,
   "shows": {
-    "adriana-lecouvreur": {
-      "slug": "adriana-lecouvreur",
-      "title": "Adriana Lecouvreur",
-      "qid": "Q375063",
-      "enwiki": "Adriana Lecouvreur",
-      "composers": [
-        {
-          "name": "Francesco Cilea",
-          "qid": "Q250952"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Ernest Legouvé",
-          "qid": "Q1333348",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5424"
-        },
-        {
-          "name": "Arturo Colautti",
-          "qid": "Q1628725"
-        },
-        {
-          "name": "Eugène Scribe",
-          "qid": "Q319261",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5467"
-        }
-      ],
-      "premiere": {
-        "date": "1902-11-06",
-        "venue": "Teatro Lirico"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Adriana_Lecouvreur",
-        "wikidata": "https://www.wikidata.org/wiki/Q375063"
-      },
-      "summary": {
-        "text": "Adriana Lecouvreur (Italian pronunciation: [adriˈaːna lekuˈvrør, -ɛr]) is an opera in four acts by Francesco Cilea to an Italian libretto by Arturo Colautti, based on the 1849 play Adrienne Lecouvreur by Eugène Scribe and Ernest Legouvé. It was first performed on 6 November 1902 at the Teatro Lirico in Milan.",
-        "source_url": "https://en.wikipedia.org/wiki/Adriana_Lecouvreur",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "afgar": {
       "slug": "afgar",
       "title": "Afgar",

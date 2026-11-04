@@ -1,4 +1,5 @@
 {
+  "live": true,
   "shows": {
     "agnes-von-hohenstaufen": {
       "slug": "agnes-von-hohenstaufen",
@@ -139,40 +140,6 @@
       "summary": {
         "text": "Azora, The Daughter of Montezuma is a 1917 opera in three acts by American composer Henry Kimball Hadley to a libretto in English by author David Stevens.",
         "source_url": "https://en.wikipedia.org/wiki/Azora%2C_the_Daughter_of_Montezuma",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "bajazet-vivaldi-opera": {
-      "slug": "bajazet-vivaldi-opera",
-      "title": "Bajazet",
-      "qid": "Q2299902",
-      "enwiki": "Bajazet (Vivaldi opera)",
-      "composers": [
-        {
-          "name": "Antonio Vivaldi",
-          "qid": "Q1340"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Agostino Piovene",
-          "qid": "Q20750793"
-        }
-      ],
-      "premiere": {
-        "date": "1735",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Bajazet_(Vivaldi_opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q2299902"
-      },
-      "summary": {
-        "text": "Bajazet (Italian pronunciation: [baʒaˈzɛt]; also called Il Tamerlano) (RV 703) is an Italian opera in 3 acts composed by Antonio Vivaldi in 1735. Its libretto was written by Agostino Piovene. It was premiered in Verona, during the Carnival season of that year. It includes a three-movement sinfonia as an introduction. The story is about the fate of Bajazet (known as Bayezid I) after being captured by Tamerlane (Timur Lenk). The famous aria \"Sposa son disprezzata\" is from this opera.",
-        "source_url": "https://en.wikipedia.org/wiki/Bajazet_(Vivaldi_opera)",
         "license": "CC BY-SA 4.0",
         "modified": false
       }

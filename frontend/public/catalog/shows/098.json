@@ -1,4 +1,5 @@
 {
+  "live": true,
   "shows": {
     "a-change-in-the-heir": {
       "slug": "a-change-in-the-heir",
@@ -1197,40 +1198,6 @@
       "summary": {
         "text": "Prism (styled as p r i s m) is a 2018 opera by Ellen Reid that explores the post-traumatic stress experience after sexual assault. Reid received the 2019 Pulitzer Prize for Music for her work on the opera.",
         "source_url": "https://en.wikipedia.org/wiki/Prism_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "rustam-and-zohrab": {
-      "slug": "rustam-and-zohrab",
-      "title": "Rustam and Zohrab",
-      "qid": "Q4401101",
-      "enwiki": "Rustam and Zohrab",
-      "composers": [
-        {
-          "name": "Uzeyir Hajibeyov",
-          "qid": "Q317397"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Uzeyir Hajibeyov",
-          "qid": "Q317397"
-        }
-      ],
-      "premiere": {
-        "date": "1910",
-        "venue": "Baku"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Rustam_and_Zohrab",
-        "wikidata": "https://www.wikidata.org/wiki/Q4401101"
-      },
-      "summary": {
-        "text": "Rustam and Zohrab (in Azeri Rüstәm vә Söһrab) is the third mugham opera by Uzeyir Hajibeyov. It was composed in 1910 based on the story of Rostam and Sohrab of the epic poem Shahnameh by Ferdowsi, and written in Persian.\nHajibeyov shortened the mugham scene in this opera, devoting much attention to the author's music. The existence of several versions of its libretto created an authorship controversy. This was investigated by M. Aslanov, who determined Uzeyir Hajibeyov as the primary author, as well as other poems initially attributed to poet and gazel writer Azer Buzovnali.\nThe opera premiered on November 12, 1910, in the H. Z.Taghiyev theatre in Baku, with Huseyngulu Sarabski as stage director and Hajibeyov as conductor. Huseyngulu Sarabski (Zohrab), Ahmed Agdamski (Tahmina), M. H. Teregulov (Keykavus) and others played the leading parts. The opera did not achieve success and Hajibeyov took it off the stage. After some revisions the opera was to be staged in March 1915 at a benefit performance of Muslim Magomayev, although it was eventually cancelled due to lack of popularity.",
-        "source_url": "https://en.wikipedia.org/wiki/Rustam_and_Zohrab",
         "license": "CC BY-SA 4.0",
         "modified": false
       }

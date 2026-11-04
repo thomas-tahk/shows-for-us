@@ -1,4 +1,5 @@
 {
+  "live": true,
   "shows": {
     "anastasia-ballet": {
       "slug": "anastasia-ballet",
@@ -138,40 +139,6 @@
       "summary": {
         "text": "Around the World is a musical based on the 1873 Jules Verne novel Around the World in Eighty Days, with a book by Orson Welles and music and lyrics by Cole Porter. It involves an around-the-world adventure by Phileas Fogg. The expensive musical extravaganza opened on Broadway in May 1946 but closed after 75 performances.\nAs he did with his unsuccessful 1938 stage production of Too Much Johnson, Welles shot film sequences that were integrated into Around the World. This footage is lost.",
         "source_url": "https://en.wikipedia.org/wiki/Around_the_World_(musical)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "ashig-garib": {
-      "slug": "ashig-garib",
-      "title": "Ashig Garib",
-      "qid": "Q12837132",
-      "enwiki": "Ashig Garib (opera)",
-      "composers": [
-        {
-          "name": "Zulfugar Hajibeyov",
-          "qid": "Q2351779"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Zulfugar Hajibeyov",
-          "qid": "Q2351779"
-        }
-      ],
-      "premiere": {
-        "date": "1916",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Ashig_Garib_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q12837132"
-      },
-      "summary": {
-        "text": "Ashig Garib (Azerbaijani: Aşıq Qərib) – is the first opera written by Azerbaijani composer Zulfugar Hajibeyov, in 1916, based on motifs of a dastan of the same name. The opera was staged in Baku, in the theater of Haji Zeynalabdin Taghiyev, for the first time.\nActors and singers such as Huseyngulu Sarabski, Huseynagha Hajibababeyov and others performed main parts of “Ashig Garib” opera. Ahmad Badalbayli, famed as Ahmed Agdamski, Rubaba Muradova and other actors acted the part of Shahsenem, Garib's beloved, at that times.",
-        "source_url": "https://en.wikipedia.org/wiki/Ashig_Garib_(opera)",
         "license": "CC BY-SA 4.0",
         "modified": false
       }

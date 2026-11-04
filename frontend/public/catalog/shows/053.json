@@ -1,4 +1,5 @@
 {
+  "live": true,
   "shows": {
     "abyssinia-1987-musical": {
       "slug": "abyssinia-1987-musical",
@@ -128,30 +129,6 @@
       "summary": {
         "text": "Atalanta (HWV 35) is a pastoral opera in three acts by George Frideric Handel composed in 1736. It is based upon the mythological female athlete, Atalanta, the libretto (which is in Italian) being derived from the book La Caccia in Etolia by Belisario Valeriani. The identity of the librettist is not known.\nHandel composed it for the London celebrations of the marriage in 1736 of Frederick, Prince of Wales, eldest son of King George II, to Princess Augusta of Saxe-Gotha. The first performance took place on 12 May 1736 in the Covent Garden Theatre. It closed with a spectacular display of fireworks, which was highly popular with the royal family and the London audience, and the opera and fireworks display were revived a number of times in the year of its first performance.\nAn arioso from the opera, \"Care selve\", is often heard in recital and on recordings.",
         "source_url": "https://en.wikipedia.org/wiki/Atalanta_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "bajazet-gasparini-opera": {
-      "slug": "bajazet-gasparini-opera",
-      "title": "Bajazet",
-      "qid": "Q85744959",
-      "enwiki": "Bajazet (Gasparini opera)",
-      "composers": [],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Bajazet_(Gasparini_opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q85744959"
-      },
-      "summary": {
-        "text": "Bajazet (Italian pronunciation: [baʒaˈze]) is an opera by Francesco Gasparini, a revision of his 1711 work Tamerlano. It was first performed at the Teatro Pubblico in Reggio Emilia in 1719, with designs by Pietro Righini.\nThe first production included Francesco Borosini in the title role,  Antonio Bernacchi (Tamerlano), Marina Benta Bulgarelli (Asteria), Faustina Bordoni (Irene), Diana Vico (Andronico), Antonio Piasi (Clearco), Battista Roberti (Leone) and Girolamo Bartoluzzi Regiano (Zaida).\nA second production was staged in Venice in 1723. Three versions of the work are known, but it is only the 1719 one for which all the music is known to have survived.",
-        "source_url": "https://en.wikipedia.org/wiki/Bajazet_(Gasparini_opera)",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
