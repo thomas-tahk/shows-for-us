@@ -28,10 +28,14 @@ const TYPO_MIN_LENGTH = 5
 const LEADING_ARTICLES = new Set(['the', 'a', 'an'])
 const tokenize = (s: string) => normalize(s.replace(/['\u2019]/g, '')).split(' ').filter(Boolean)
 
-/** Tokens plus each adjacent pair joined, so "spiderman" finds "Spider-Man". */
-function withJoins(tokens: string[]): string[] {
-  const joined = tokens.slice(1).map((t, i) => tokens[i] + t)
-  return [...tokens, ...joined]
+/**
+ * Tokens plus, within each space-delimited chunk, adjacent tokens joined:
+ * "Spider-Man" also yields "spiderman", but "The Melody" never yields "themelody".
+ */
+function wordsWithJoins(text: string): string[] {
+  const chunks = text.split(/\s+/).map(tokenize)
+  const joined = chunks.flatMap(tokens => tokens.slice(1).map((t, i) => tokens[i] + t))
+  return [...chunks.flat(), ...joined]
 }
 
 /** True when a and b differ by at most one insertion, deletion, substitution or adjacent swap. */
@@ -63,8 +67,8 @@ const wordMatchesAny = (word: string, tokens: string[], typo: boolean) =>
 
 function prepare(entry: SearchableEntry): Prepared {
   const titleTokens = tokenize(entry.title)
-  const titleWords = withJoins(titleTokens)
-  const creatorWords = entry.creators.flatMap(c => withJoins(tokenize(c)))
+  const titleWords = wordsWithJoins(entry.title)
+  const creatorWords = entry.creators.flatMap(wordsWithJoins)
   const yearWords = entry.year ? tokenize(entry.year) : []
   return {
     entry,

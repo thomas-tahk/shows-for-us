@@ -1,0 +1,45 @@
+{
+  "shows": {
+    "show-boat": {
+      "slug": "show-boat",
+      "title": "Show Boat",
+      "qid": "Q1050738",
+      "enwiki": "Show Boat",
+      "composers": [
+        {
+          "name": "Jerome Kern",
+          "qid": "Q1000001",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9999901"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Oscar Hammerstein II",
+          "qid": "Q1000002"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Oscar Hammerstein II",
+          "qid": "Q1000002"
+        }
+      ],
+      "premiere": {
+        "date": "1927-12-27",
+        "venue": "Ziegfeld Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4367",
+        "wikipedia": "https://en.wikipedia.org/wiki/Show_Boat",
+        "wikidata": "https://www.wikidata.org/wiki/Q1050738"
+      },
+      "summary": {
+        "text": "Placeholder intro for Show Boat. Not Wikipedia text.",
+        "source_url": "https://en.wikipedia.org/wiki/Show_Boat",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

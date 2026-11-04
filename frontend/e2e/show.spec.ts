@@ -1,5 +1,6 @@
 import { readFileSync } from 'node:fs'
-import { test, expect, type Page } from '@playwright/test'
+import type { Page } from '@playwright/test'
+import { test, expect } from './catalogFixture'
 import { load } from 'js-yaml'
 
 // Read the committed data so these tests survive the owner's sign-off edits and the first live pull.

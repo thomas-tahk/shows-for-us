@@ -1,4 +1,5 @@
-import { test, expect, type Page } from '@playwright/test'
+import type { Page } from '@playwright/test'
+import { test, expect } from './catalogFixture'
 
 // String form: the e2e tsconfig has no DOM lib.
 async function expectNoHScroll(page: Page) {
@@ -66,7 +67,7 @@ for (const [width, height] of [[390, 844], [1280, 800]]) {
 test('fetch error shows a retry button that recovers', async ({ page }) => {
   let fail = true
   await page.route('**/catalog/shows/*.json', route =>
-    fail ? route.fulfill({ status: 500, body: 'boom' }) : route.continue(),
+    fail ? route.fulfill({ status: 500, body: 'boom' }) : route.fallback(),
   )
   await page.goto('/show/show-boat')
   await expect(page.getByText("Couldn't load this show. Try again.")).toBeVisible()

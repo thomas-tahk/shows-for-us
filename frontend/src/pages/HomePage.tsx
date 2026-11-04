@@ -40,7 +40,7 @@ export default function HomePage() {
           type="search"
           autoComplete="off"
           value={query}
-          onFocus={catalog.load}
+          onFocus={catalog.loadOrRetry}
           onChange={e => {
             catalog.load()
             setQuery(e.target.value)

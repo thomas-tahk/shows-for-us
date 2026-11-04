@@ -16,6 +16,13 @@ const e = (
 const titles = (entries: SearchableEntry[], q: string, limit = 50) =>
   search(entries, q, limit).results.map(r => r.title)
 
+describe('joined words', () => {
+  it('does not join words separated by spaces', () =>
+    expect(titles([e('The Melody Lingers')], 'theme')).toEqual([]))
+  it('joins hyphenated words', () =>
+    expect(titles([e('Spider-Man: Turn Off the Dark')], 'spiderman')).toHaveLength(1))
+})
+
 describe('typo tolerance', () => {
   const list = [e('Hamilton', ['Lin-Manuel Miranda']), e('Sweeney Todd', ['Stephen Sondheim'])]
   it('finds a missing letter', () => expect(titles(list, 'hamiltn')).toEqual(['Hamilton']))

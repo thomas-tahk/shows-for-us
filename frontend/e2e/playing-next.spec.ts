@@ -1,4 +1,5 @@
-import { test, expect, type Page } from '@playwright/test'
+import type { Page } from '@playwright/test'
+import { test, expect } from './catalogFixture'
 
 // String form: the e2e tsconfig has no DOM lib.
 async function expectNoHScroll(page: Page) {

@@ -1,0 +1,33 @@
+{
+  "shows": {
+    "aladdin-musical": {
+      "slug": "aladdin-musical",
+      "title": "Aladdin",
+      "qid": "Q1000040",
+      "enwiki": "Aladdin (musical)",
+      "composers": [
+        {
+          "name": "John Kander",
+          "qid": "Q1000005"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2011-07-12",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Aladdin_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1000040"
+      },
+      "summary": {
+        "text": "Placeholder intro for Aladdin (musical). Not Wikipedia text.",
+        "source_url": "https://en.wikipedia.org/wiki/Aladdin_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}
