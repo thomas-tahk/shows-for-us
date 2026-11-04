@@ -66,4 +66,4 @@ config/config.json
 secrets.json
 
 # Supabase
-.supabase/
+.supabase/.claude/worktrees/
