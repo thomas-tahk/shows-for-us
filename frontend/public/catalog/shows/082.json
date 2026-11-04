@@ -1,0 +1,1442 @@
+{
+  "shows": {
+    "barnum": {
+      "slug": "barnum",
+      "title": "Barnum",
+      "qid": "Q4862013",
+      "enwiki": "Barnum (musical)",
+      "composers": [
+        {
+          "name": "Cy Coleman",
+          "qid": "Q1146861",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4929"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Michael Stewart",
+          "qid": "Q6834631",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7748"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Mark Bramble",
+          "qid": "Q6766825",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7548"
+        }
+      ],
+      "premiere": {
+        "date": "1980-04-30",
+        "venue": "St. James Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1847",
+        "wikipedia": "https://en.wikipedia.org/wiki/Barnum_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4862013"
+      },
+      "summary": {
+        "text": "Barnum is an American musical with a book by Mark Bramble, lyrics by Michael Stewart, and music by Cy Coleman. It is based on the life of showman P. T. Barnum, covering the period from 1835 through 1880 in America and major cities of the world where Barnum took his performing companies. The production combines elements of traditional musical theater with the spectacle of the circus. The characters include jugglers, trapeze artists and clowns, as well as such real-life personalities as Jenny Lind and General Tom Thumb.\nThe original Broadway production ran for 854 performances and was followed by a London production, among others.",
+        "source_url": "https://en.wikipedia.org/wiki/Barnum_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "between-the-devil": {
+      "slug": "between-the-devil",
+      "title": "Between the Devil",
+      "qid": "Q4899157",
+      "enwiki": "Between the Devil",
+      "composers": [
+        {
+          "name": "Arthur Schwartz",
+          "qid": "Q711473",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4324"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Howard Dietz",
+          "qid": "Q1631780",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6363"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Howard Dietz",
+          "qid": "Q1631780",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6363"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1982",
+        "wikipedia": "https://en.wikipedia.org/wiki/Between_the_Devil",
+        "wikidata": "https://www.wikidata.org/wiki/Q4899157"
+      },
+      "summary": {
+        "text": "Between the Devil is a musical comedy with book and lyrics by Howard Dietz and music by Arthur Schwartz.",
+        "source_url": "https://en.wikipedia.org/wiki/Between_the_Devil",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "blue-eyes": {
+      "slug": "blue-eyes",
+      "title": "Blue Eyes",
+      "qid": "Q115516849",
+      "enwiki": "Blue Eyes (musical)",
+      "composers": [
+        {
+          "name": "Jerome Kern",
+          "qid": "Q313270",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6711"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Guy Bolton",
+          "qid": "Q924974",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4575"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Blue_Eyes_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q115516849"
+      },
+      "summary": {
+        "text": "Blue Eyes is a musical composed by Jerome Kern, with a book and lyrics by Guy Bolton and Graham John. Orchestrations were by Robert Russell Bennett, and the original producer was Lee Ephraim. The musical was a historical comedy and romance set against the backdrop of Jacobite Charles Edward Stuart's attempts to restore the House of Stuart to the British throne. In the plot of Blue Eyes a London actress disguises herself as a soldier to help her brother who has been imprisoned by the Duke of Cumberland in the aftermath of the Battle of Culloden. It starred Evelyn Laye, and comic relief was provided by W. H. Berry, who \"disguised himself as a silly Scotsman, a flea circus owner [and a] French dancing teacher\". \nIt was the first production at London's new Piccadilly Theatre, opening on 27 April 1928, and transferred to Daly's Theatre in July, before finishing its run of eight months, for a total of 327 performances.\nThe cast recording with the Piccadilly Theatre Orchestra was issued by Columbia Records.\nThe musicologist Thomas Hischak described Kern's score for Blue Eyes as featuring some \"entrancing songs\", particularly praising \"Back to the Heather\", \"Charlie Is the Darling of My Heart\", and the comic song \"In Vodeodo\". Hischak felt that the score was closer to that of an operetta than a musical comedy. The song \"Do I Do Wrong\" was cut from the production before the musical opened. The melody was later used for Kern's \"You're Devastating\" from his 1933 musical Roberta.",
+        "source_url": "https://en.wikipedia.org/wiki/Blue_Eyes_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "boyarina-morozova": {
+      "slug": "boyarina-morozova",
+      "title": "Boyarina Morozova",
+      "qid": "Q21998378",
+      "enwiki": "Boyarina Morozova (opera)",
+      "composers": [
+        {
+          "name": "Rodion Shchedrin",
+          "qid": "Q165706"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Rodion Shchedrin",
+          "qid": "Q165706"
+        }
+      ],
+      "premiere": {
+        "date": "2006",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Boyarina_Morozova_(opera)",
+        "wikidata": "https://www.wikidata.org/wiki/Q21998378"
+      },
+      "summary": {
+        "text": "Boyarina Morozova (Боярыня Морозова) is a 2006 choral opera by Rodion Shchedrin based on his own libretto on the story of Boyarina Morozova (d.1675), from the account of archbishop Avvakum and inspired by the painting Boyarina Morozova by Vasily Surikov.",
+        "source_url": "https://en.wikipedia.org/wiki/Boyarina_Morozova_(opera)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "bradamante": {
+      "slug": "bradamante",
+      "title": "Bradamante",
+      "qid": "Q16845666",
+      "enwiki": "Bradamante (opera)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Bradamante_(opera)",
+        "wikidata": "https://www.wikidata.org/wiki/Q16845666"
+      },
+      "summary": {
+        "text": "Bradamante is an opera by the French composer Louis Lacoste, first performed at the Académie Royale de Musique (the Paris Opera) on 2 May 1707. It takes the form of a tragédie en musique in a prologue and five acts. The libretto, by Pierre-Charles Roy, is based on Orlando Furioso by Ludovico Ariosto.",
+        "source_url": "https://en.wikipedia.org/wiki/Bradamante_(opera)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "clytemnestra": {
+      "slug": "clytemnestra",
+      "title": "Clytemnestra",
+      "qid": "Q110913074",
+      "enwiki": "Clytemnestra (dance)",
+      "composers": [
+        {
+          "name": "Halim El-Dabh",
+          "qid": "Q3109811",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/103162"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1958-04-01",
+        "venue": "George Abbott Theatre"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Clytemnestra_(dance)",
+        "wikidata": "https://www.wikidata.org/wiki/Q110913074"
+      },
+      "summary": {
+        "text": "Clytemnestra is a 90-minute ballet choreographed by Martha Graham. It premiered on April 1, 1958, at the Adelphi Theatre in New York with music composed by Halim El-Dabh and sets designed by Isamu Noguchi. Following Cave of the Heart, Errand into the Maze, and Night Journey, Clytemnestra continued Graham's series of choreography inspired by Greek mythology.",
+        "source_url": "https://en.wikipedia.org/wiki/Clytemnestra_(dance)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "der-freischutz": {
+      "slug": "der-freischutz",
+      "title": "Der Freischütz",
+      "qid": "Q156435",
+      "enwiki": "Der Freischütz",
+      "composers": [
+        {
+          "name": "Carl Maria von Weber",
+          "qid": "Q154812",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/118643"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Johann Friedrich Kind",
+          "qid": "Q78246"
+        }
+      ],
+      "premiere": {
+        "date": "1821-06-18",
+        "venue": "Konzerthaus Berlin"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Der_Freisch%C3%BCtz",
+        "wikidata": "https://www.wikidata.org/wiki/Q156435"
+      },
+      "summary": {
+        "text": "Der Freischütz (J. 277, Op. 77 The Marksman or The Freeshooter) is a German opera with spoken dialogue in three acts by Carl Maria von Weber with a libretto by Friedrich Kind, based on the story \"The Fatal Marksman\" by Johann August Apel from the 1810 collection Gespensterbuch. It premiered on 18 June 1821 at the Schauspielhaus Berlin. It is considered the first German Romantic opera.\nThe opera's plot is mainly based on Apel's tale \"The Fatal Marksman\" from the Gespensterbuch though the hermit, Kaspar and Ännchen are new to Kind's libretto. That Weber's tunes were just German folk music is a common misconception. Its unearthly portrayal of the supernatural in the famous Wolf's Glen scene has been described as \"the most expressive rendering of the gruesome that is to be found in a musical score\".",
+        "source_url": "https://en.wikipedia.org/wiki/Der_Freisch%C3%BCtz",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "don-chisciotte-in-sierra-morena": {
+      "slug": "don-chisciotte-in-sierra-morena",
+      "title": "Don Chisciotte in Sierra Morena",
+      "qid": "Q28228846",
+      "enwiki": "Don Chisciotte in Sierra Morena",
+      "composers": [
+        {
+          "name": "Francesco Bartolomeo Conti",
+          "qid": "Q691763"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Pietro Pariati",
+          "qid": "Q328190"
+        },
+        {
+          "name": "Apostolo Zeno",
+          "qid": "Q349507"
+        }
+      ],
+      "premiere": {
+        "date": "1719-02-06",
+        "venue": "Old Burgtheater"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Don_Chisciotte_in_Sierra_Morena",
+        "wikidata": "https://www.wikidata.org/wiki/Q28228846"
+      },
+      "summary": {
+        "text": "Don Chisciotte in Sierra Morena is a tragicomic opera in five acts composed by Francesco Bartolomeo Conti to an Italian libretto by Apostolo Zeno and Pietro Pariati. The libretto is based on the episodes set in the Sierra Morena mountains of Spain in Book I of the Miguel de Cervantes novel Don Quixote. The opera premiered on 6 February 1719 at the Hoftheater in Vienna and proved to be one of Conti's most successful ones. It has had several revivals in modern times beginning in 1987 at the Buxton Festival.",
+        "source_url": "https://en.wikipedia.org/wiki/Don_Chisciotte_in_Sierra_Morena",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "eithne": {
+      "slug": "eithne",
+      "title": "Eithne",
+      "qid": "Q13157292",
+      "enwiki": "Eithne (opera)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Eithne_(opera)",
+        "wikidata": "https://www.wikidata.org/wiki/Q13157292"
+      },
+      "summary": {
+        "text": "Eithne was the first full-scale opera written and performed in the Irish language. It was composed by Irish composer Robert O'Dwyer.\nThe libretto was based on an Irish-language tale known as Éan an Cheoil Bhinn (The Bird of Sweet Music), adapted by Galway Reverend Thomas O'Kelly. It covers two acts and includes in its complex plot the presence of stepbrothers, a divine descent to earth and the transformation of a queen into a bird.",
+        "source_url": "https://en.wikipedia.org/wiki/Eithne_(opera)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "girls-of-the-golden-west": {
+      "slug": "girls-of-the-golden-west",
+      "title": "Girls of the Golden West",
+      "qid": "Q25218948",
+      "enwiki": "Girls of the Golden West (opera)",
+      "composers": [
+        {
+          "name": "John Adams",
+          "qid": "Q84114"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2017-11-21",
+        "venue": "War Memorial Opera House"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Girls_of_the_Golden_West_(opera)",
+        "wikidata": "https://www.wikidata.org/wiki/Q25218948"
+      },
+      "summary": {
+        "text": "Girls of the Golden West is an opera in two acts with music by  John Adams and a libretto by Peter Sellars. The San Francisco Opera commissioned the work jointly with Dallas Opera, the Dutch National Opera (De Nationale Opera) and Teatro La Fenice in Venice. The opera was premiered in San Francisco on November 21, 2017.  The running time is 160 minutes.",
+        "source_url": "https://en.wikipedia.org/wiki/Girls_of_the_Golden_West_(opera)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "hello-again": {
+      "slug": "hello-again",
+      "title": "Hello Again",
+      "qid": "Q16975606",
+      "enwiki": "Hello Again (musical)",
+      "composers": [
+        {
+          "name": "Michael John LaChiusa",
+          "qid": "Q3308276",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13016"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Michael John LaChiusa",
+          "qid": "Q3308276",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13016"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Michael John LaChiusa",
+          "qid": "Q3308276",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13016"
+        }
+      ],
+      "premiere": {
+        "date": "1993-12-30",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Hello_Again_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q16975606"
+      },
+      "summary": {
+        "text": "Hello Again is a musical with music, lyrics and book by Michael John LaChiusa.  It is based on the 1897 play La Ronde by Arthur Schnitzler (also titled Reigen).  It focuses on a series of love affairs among ten characters during the ten different decades of the 20th century.\nThe musical premiered Off-Broadway in 1993, directed and choreographed by Graciela Daniele.  Since then it has been performed in London, Sweden, Australia, Germany, The Netherlands and New York.",
+        "source_url": "https://en.wikipedia.org/wiki/Hello_Again_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "high-society": {
+      "slug": "high-society",
+      "title": "High Society",
+      "qid": "Q16975689",
+      "enwiki": "High Society (musical)",
+      "composers": [
+        {
+          "name": "Cole Porter",
+          "qid": "Q215120",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12257"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Cole Porter",
+          "qid": "Q215120",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12257"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Arthur Kopit",
+          "qid": "Q770566",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4304"
+        }
+      ],
+      "premiere": {
+        "date": "1997-09-04",
+        "venue": "American Conservatory Theater"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4392",
+        "wikipedia": "https://en.wikipedia.org/wiki/High_Society_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q16975689"
+      },
+      "summary": {
+        "text": "High Society is a musical comedy with a book by Arthur Kopit, music and lyrics by Cole Porter, and additional lyrics by Susan Birkenhead. The stage version adapts Porter's score for the 1956 film of the same name, which was based on the stage comedy The Philadelphia Story. The musical features much of the film's score, augmented by several songs selected from Porter's catalogue. The plot follows a pretentious Oyster Bay socialite who is planning to wed an equally pretentious executive, when her ex-husband arrives to disrupt the proceedings.\nThe musical premiered in San Francisco in late 1997, transferred to Broadway in early 1998, receiving mixed to unfavorable reviews, and closed after five months. Since then, it has been staged in the West End and elsewhere.",
+        "source_url": "https://en.wikipedia.org/wiki/High_Society_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "jalta-jalta": {
+      "slug": "jalta-jalta",
+      "title": "Jalta, Jalta",
+      "qid": "Q2619594",
+      "enwiki": "Jalta, Jalta",
+      "composers": [
+        {
+          "name": "Alfi Kabiljo",
+          "qid": "Q1273413"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Jalta%2C_Jalta",
+        "wikidata": "https://www.wikidata.org/wiki/Q2619594"
+      },
+      "summary": {
+        "text": "Jalta, Jalta is a Yugoslav musical from 1971. The libretto was written by Milan Grgić, the music was composed by the renowned Croatian composer Alfi Kabiljo, and the production was directed by Vlado Štefančić.\nIts first performance took place on 28 December 1971 in Zagreb at the Komedija Theatre, while the official premiere was held on 7 January 1972. The musical quickly became one of the most successful and long-running stage productions in the history of Yugoslav and Croatian theatre.\nThe story is loosely inspired by the Yalta Conference held in February 1945 in Yalta, where Allied leaders Franklin D. Roosevelt, Winston Churchill, and Joseph Stalin negotiated the post-war division of Europe. Instead of focusing on the political leaders themselves, the musical humorously follows the lives of three hotel servants from the United States, the United Kingdom, and the Soviet Union who work at the conference venue.\nThe original Zagreb production starred actors from the Komedija Theatre ensemble and quickly became extremely popular with audiences. The show ran for hundreds of performances, over 650 of which were performed by the Komedija Theatre ensemble alone. It was later staged in other cities across the former Yugoslavia. Because of its popularity, a television recording was also produced on 12 March 1974 and broadcast on Yugoslav television throughout the 1970s.\nThroughout the years, Jalta, Jalta has remained a highly popular musical, particularly in Croatia. The production has been revived several times at the Komedija Theatre in Zagreb, with notable stagings in 2010, 2013, and 2024.\nDue to its lasting popularity and cultural significance, the musical was also released on DVD in 2013, allowing audiences to watch the famous stage production outside the theatre.",
+        "source_url": "https://en.wikipedia.org/wiki/Jalta%2C_Jalta",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "jolson-tonight": {
+      "slug": "jolson-tonight",
+      "title": "Jolson Tonight",
+      "qid": "Q6270148",
+      "enwiki": "Jolson Tonight",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Nicholas Dante",
+          "qid": "Q7025282",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/90970"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Jolson_Tonight",
+        "wikidata": "https://www.wikidata.org/wiki/Q6270148"
+      },
+      "summary": {
+        "text": "Jolson Tonight is a musical with a book by Nicholas Dante. The musical is based on the life of Al Jolson.",
+        "source_url": "https://en.wikipedia.org/wiki/Jolson_Tonight",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "joseph-and-the-amazing-technicolor-dreamcoat": {
+      "slug": "joseph-and-the-amazing-technicolor-dreamcoat",
+      "title": "Joseph and the Amazing Technicolor Dreamcoat",
+      "qid": "Q1146264",
+      "enwiki": "Joseph and the Amazing Technicolor Dreamcoat",
+      "composers": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "qid": "Q180975",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12073"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Tim Rice",
+          "qid": "Q298295",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8890"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Tim Rice",
+          "qid": "Q298295",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8890"
+        }
+      ],
+      "premiere": {
+        "date": "1968",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4942",
+        "wikipedia": "https://en.wikipedia.org/wiki/Joseph_and_the_Amazing_Technicolor_Dreamcoat",
+        "wikidata": "https://www.wikidata.org/wiki/Q1146264"
+      },
+      "summary": {
+        "text": "Joseph and the Amazing Technicolor Dreamcoat is a sung-through musical with music by Andrew Lloyd Webber and lyrics by Tim Rice, based on the character Joseph from the Bible's Book of Genesis. This was the first Lloyd Webber and Rice musical to be performed publicly: their first collaboration, The Likes of Us, written in 1965, was not performed in public until 2005. Its family-friendly retelling of Joseph, familiar themes, and catchy music have resulted in numerous stagings. According to the owner of the copyright, the Really Useful Group, by 2008 more than 20,000 productions had been staged by schools and amateur theatre groups.\nJoseph... was first presented as a 15-minute \"pop cantata\" at Colet Court School in London in 1968, and was published by Novello and recorded in an expanded form by Decca Records in 1969. After the success of the next Lloyd Webber and Rice piece, Jesus Christ Superstar, Joseph... received amateur stage productions in the US beginning in 1970, and the first American release of the album was in 1971. The musical had its professional premiere, as a 35-minute version, at the Haymarket ice rink during the Edinburgh International Festival in 1972. It was Part Two of Bible One, a Young Vic Theatre Company production presented by the National Theatre of Great Britain. While still undergoing various modifications and expansions, the musical was produced in the West End in 1973. In 1974, its full modern format was performed at the Haymarket Theatre in Leicester and was also recorded that year. The musical was mounted on Broadway in 1982. Several major revivals, national tours, and a 1999 direct-to-video film starring Donny Osmond followed.",
+        "source_url": "https://en.wikipedia.org/wiki/Joseph_and_the_Amazing_Technicolor_Dreamcoat",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "kauboji": {
+      "slug": "kauboji",
+      "title": "Kauboji",
+      "qid": "Q12634331",
+      "enwiki": "Kauboji",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Kauboji",
+        "wikidata": "https://www.wikidata.org/wiki/Q12634331"
+      },
+      "summary": {
+        "text": "Kauboji (English: Cowboys) is a comedy musical authored by Saša Anočić, with music by Rakan Rushaidat and Matija Antolić.",
+        "source_url": "https://en.wikipedia.org/wiki/Kauboji",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "la-guirlande": {
+      "slug": "la-guirlande",
+      "title": "La guirlande",
+      "qid": "Q3209742",
+      "enwiki": "La guirlande",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/La_guirlande",
+        "wikidata": "https://www.wikidata.org/wiki/Q3209742"
+      },
+      "summary": {
+        "text": "La guirlande (full name: La guirlande, ou Les fleurs enchantées) is an opera by the French composer Jean-Philippe Rameau with a libretto by Jean-François Marmontel. It takes the form of an acte de ballet (a one-act opera with many dance movements). It debuted on 21 September 1751 at the Paris Opéra.\nThe primary theme is faithfulness, as shown by the characters of two shepherds.  The story occurs in Arcadia, an idealized area of Greece that was a popular setting in the pastoral literature of the time.",
+        "source_url": "https://en.wikipedia.org/wiki/La_guirlande",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "le-sherif": {
+      "slug": "le-sherif",
+      "title": "Le shérif",
+      "qid": "Q20670752",
+      "enwiki": "Le shérif",
+      "composers": [
+        {
+          "name": "Fromental Halévy",
+          "qid": "Q313917"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Eugène Scribe",
+          "qid": "Q319261",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5467"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": "Opéra-Comique"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Le_sh%C3%A9rif",
+        "wikidata": "https://www.wikidata.org/wiki/Q20670752"
+      },
+      "summary": {
+        "text": "Le shérif (The Sheriff) is an opéra comique in three acts composed by Fromental Halévy to a libretto by Eugène Scribe. It was premiered by the Opéra-Comique at the Salle de la Bourse in Paris on 2 September 1839. Based on a short story by Balzac, the opera is set in the London Docklands during the late 18th century.",
+        "source_url": "https://en.wikipedia.org/wiki/Le_sh%C3%A9rif",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "les-gentilhommes": {
+      "slug": "les-gentilhommes",
+      "title": "Les Gentilhommes",
+      "qid": "Q6529525",
+      "enwiki": "Les Gentilhommes",
+      "composers": [
+        {
+          "name": "George Frideric Handel",
+          "qid": "Q7302",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/89505"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Les_Gentilhommes",
+        "wikidata": "https://www.wikidata.org/wiki/Q6529525"
+      },
+      "summary": {
+        "text": "Les Gentilhommes is a ballet for nine men choreographed by New York City Ballet's balletmaster-in-chief Peter Martins to Georg Friedrich Händel's 1739 Concerti grossi, Op. 6, Nos. 9 and 2 (Largo). The premiere took place on May 15, 1987, at the New York State Theater, Lincoln Center.\nLes Gentilhommes was subtitled \"Skol, Stanley!\" at its premiere and is dedicated to the late Stanley Williams, co-chairman of faculty at the School of American Ballet, who taught Martins at the Royal Danish Ballet school. The ballet consists of three trios of different moods preceded and followed by sections for the whole ensemble, concluding with a solo. \"In Gentilhommes, I didn't just want to make a big bravura piece, showing beats and double air turns, but showing how elegantly and beautifully men can move.\"",
+        "source_url": "https://en.wikipedia.org/wiki/Les_Gentilhommes",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "mendi-mendiyan": {
+      "slug": "mendi-mendiyan",
+      "title": "Mendi Mendiyan",
+      "qid": "Q27698893",
+      "enwiki": "Mendi Mendiyan",
+      "composers": [
+        {
+          "name": "José María Usandizaga",
+          "qid": "Q2280662"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "José Power",
+          "qid": "Q104475615"
+        }
+      ],
+      "premiere": {
+        "date": "1911-05-21",
+        "venue": "Teatro Campos Elíseos"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Mendi_Mendiyan",
+        "wikidata": "https://www.wikidata.org/wiki/Q27698893"
+      },
+      "summary": {
+        "text": "Mendi Mendiyan is a 1910 Basque language opera by the Basque composer José María Usandizaga.",
+        "source_url": "https://en.wikipedia.org/wiki/Mendi_Mendiyan",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "my-best-friend-s-wedding": {
+      "slug": "my-best-friend-s-wedding",
+      "title": "My Best Friend's Wedding",
+      "qid": "Q85851469",
+      "enwiki": "My Best Friend's Wedding (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/My_Best_Friend's_Wedding_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q85851469"
+      },
+      "summary": {
+        "text": "My Best Friend's Wedding is a jukebox musical with a book by Ronald Bass and Jonathan Harvey featuring songs by songwriters Burt Bacharach and Hal David, based on the 1997 film of the same name with screenplay by Bass.",
+        "source_url": "https://en.wikipedia.org/wiki/My_Best_Friend's_Wedding_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "my-brilliant-career": {
+      "slug": "my-brilliant-career",
+      "title": "My Brilliant Career",
+      "qid": "Q131443295",
+      "enwiki": "My Brilliant Career (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2024-11-07",
+        "venue": "Southbank Theatre"
+      },
+      "awards": [],
+      "links": {
+        "official_site": "https://www.mybrilliantcareermusical.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/My_Brilliant_Career_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q131443295"
+      },
+      "summary": {
+        "text": "My Brilliant Career is an Australian musical based on the novel of the same name by Miles Franklin, with book by Sheridan Harbridge and Dean Bryant, music by Mathew Frank and lyrics by Dean Bryant.",
+        "source_url": "https://en.wikipedia.org/wiki/My_Brilliant_Career_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "patrie": {
+      "slug": "patrie",
+      "title": "Patrie!",
+      "qid": "Q48996568",
+      "enwiki": "Patrie!",
+      "composers": [
+        {
+          "name": "Émile Paladilhe",
+          "qid": "Q286294"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Louis Gallet",
+          "qid": "Q1148209"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Victorien Sardou",
+          "qid": "Q354828",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8957"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Patrie!",
+        "wikidata": "https://www.wikidata.org/wiki/Q48996568"
+      },
+      "summary": {
+        "text": "Patrie! is an 1886 French-language opera in five acts by Émile Paladilhe with a libretto by Victorien Sardou and Louis Gallet based on the play by Sardou about a 16th-century revolt of Flemish nobles in Brussels. The opera was Paladilhe's greatest popular success and was one of the last in the style of grand opera to premiere at the Paris Opéra.",
+        "source_url": "https://en.wikipedia.org/wiki/Patrie!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "po-ca-hon-tas-or-the-gentle-savage": {
+      "slug": "po-ca-hon-tas-or-the-gentle-savage",
+      "title": "Po-ca-hon-tas, or The Gentle Savage",
+      "qid": "Q7206080",
+      "enwiki": "Po-ca-hon-tas, or The Gentle Savage",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "John Brougham",
+          "qid": "Q6223414",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/394322"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/412442",
+        "wikipedia": "https://en.wikipedia.org/wiki/Po-ca-hon-tas%2C_or_The_Gentle_Savage",
+        "wikidata": "https://www.wikidata.org/wiki/Q7206080"
+      },
+      "summary": {
+        "text": "Po-ca-hon-tas, or The Gentle Savage (subtitled \"An Original Aboriginal Erratic Operatic Semi-civilized and Demi-savage Extravaganza\") is a two-act musical burlesque by John Brougham (words) and James Gaspard Maeder (music). It debuted in 1855 and became an instant hit. Po-ca-hon-tas remained a staple of theatre troupes and blackface minstrel companies for the next 30 years, typically as an afterpiece.\nThe play parodies the Indian narratives that were popular at the time in the United States, particularly those featuring Indian heroines in the Noble Savage mould, such as The Indian Princess. The burlesque is usually credited with bringing the fad for Indian narratives to an end.",
+        "source_url": "https://en.wikipedia.org/wiki/Po-ca-hon-tas%2C_or_The_Gentle_Savage",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "primitive-mysteries": {
+      "slug": "primitive-mysteries",
+      "title": "Primitive Mysteries",
+      "qid": "Q23035425",
+      "enwiki": "Primitive Mysteries",
+      "composers": [
+        {
+          "name": "Louis Horst",
+          "qid": "Q2353611",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11886"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/489805",
+        "wikipedia": "https://en.wikipedia.org/wiki/Primitive_Mysteries",
+        "wikidata": "https://www.wikidata.org/wiki/Q23035425"
+      },
+      "summary": {
+        "text": "Primitive Mysteries is a modern dance work choreographed by Martha Graham to music by Louis Horst. Graham also designed the original costumes. The piece premiered on February 2, 1931 at the Craig Theatre in New York City. From the first performance, critics hailed the ballet as a masterpiece and acknowledged Graham's rising role as a major force in American dance.",
+        "source_url": "https://en.wikipedia.org/wiki/Primitive_Mysteries",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "regina-play": {
+      "slug": "regina-play",
+      "title": "Regina",
+      "qid": "Q7308424",
+      "enwiki": "Regina (play)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Antonio Velasco Piña",
+          "qid": "Q4777020"
+        }
+      ],
+      "premiere": {
+        "date": "2003",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Regina_(play)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7308424"
+      },
+      "summary": {
+        "text": "Regina: Un Musical Para Una Nación Que Despierta (Regina: A musical for an awaking nation) is a Mexican musical composed by Antonio Calvo, with lyrics by Alex Slucki. It is based on the novel Regina (1987) by Antonio Velasco Piña.",
+        "source_url": "https://en.wikipedia.org/wiki/Regina_(play)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "saturday-night-fever": {
+      "slug": "saturday-night-fever",
+      "title": "Saturday Night Fever",
+      "qid": "Q673893",
+      "enwiki": "Saturday Night Fever (musical)",
+      "composers": [],
+      "lyricists": [
+        {
+          "name": "Bee Gees",
+          "qid": "Q133405"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Nan Knighton",
+          "qid": "Q6962214",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7859"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7755",
+        "wikipedia": "https://en.wikipedia.org/wiki/Saturday_Night_Fever_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q673893"
+      },
+      "summary": {
+        "text": "Saturday Night Fever is a 1998 jukebox musical based on the 1977 film Saturday Night Fever. Its book is by Nan Knighton (in collaboration with Arlene Phillips, Paul Nicholas, and Robert Stigwood), and the songs mostly consist of songs that were featured in the film's soundtrack, which in turn were mostly written and performed by the Bee Gees.\nThe musical focuses on Tony Manero, an Italian-American Brooklyn youth whose weekend is spent at the local discotheque. There he luxuriates in the admiration of the crowd and a growing relationship with Stephanie Mangano, and can temporarily forget the realities of his life, including a dead-end job in a paint store and his gang of deadbeat friends. In an effort to make it a family-friendly show, many of the film's darker elements, including references to racial conflict, drug use, and violence, were eliminated from the plot.",
+        "source_url": "https://en.wikipedia.org/wiki/Saturday_Night_Fever_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "servilia": {
+      "slug": "servilia",
+      "title": "Servilia",
+      "qid": "Q3958039",
+      "enwiki": "Servilia (opera)",
+      "composers": [
+        {
+          "name": "Nikolai Rimsky-Korsakov",
+          "qid": "Q93227",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/94628"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Nikolai Rimsky-Korsakov",
+          "qid": "Q93227",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/94628"
+        }
+      ],
+      "premiere": {
+        "date": "1902-10-14",
+        "venue": "Mariinsky Theatre"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Servilia_(opera)",
+        "wikidata": "https://www.wikidata.org/wiki/Q3958039"
+      },
+      "summary": {
+        "text": "Servilia (Russian: Сервилия, romanized: Servilya , the name of a main character), is an opera in five acts by Nikolai Rimsky-Korsakov. The work was completed in 1901, and was first performed in 1902 in St. Petersburg, Russia. The composer wrote the libretto, which is based on the drama by Lev Alexandrovich Mey. The story is set in Ancient Rome during Nero's reign.",
+        "source_url": "https://en.wikipedia.org/wiki/Servilia_(opera)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "shelter": {
+      "slug": "shelter",
+      "title": "Shelter",
+      "qid": "Q120664583",
+      "enwiki": "Shelter (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Shelter_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q120664583"
+      },
+      "summary": {
+        "text": "Shelter is a 1973 stage musical with book and lyrics by Gretchen Cryer, and music by Nancy Ford. The musical tells the story of a man who takes shelter from the real world in the virtual world and how his unhealthy relationship with his computer affects his real-life relationships. Marcia Rodd was nominated for the Tony Award for Best Actress in a Musical for her performance as Maud in the Broadway production.\nIn 2017, a concert production was staged at 54 Below starring Cryer's son, Jon Cryer.",
+        "source_url": "https://en.wikipedia.org/wiki/Shelter_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "sing-street": {
+      "slug": "sing-street",
+      "title": "Sing Street",
+      "qid": "Q85801271",
+      "enwiki": "Sing Street (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Sing_Street_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q85801271"
+      },
+      "summary": {
+        "text": "Sing Street is a musical with music and lyrics by Gary Clark and John Carney and a book by Enda Walsh. The musical is based on Carney's 2016 film of the same name. The stage adaptation was originally presented at New York Theatre Workshop. Directed by Rebecca Taichman and produced by Barbara Broccoli, Brian Carmody, Patrick Milling-Smith, Michael Wilson, Orin Wolf, and Frederick Zollo, the musical was initially set to premiere on Broadway at the Lyceum Theatre in previews on March 26, 2020, and officially on April 19 with the same cast, but was ultimately delayed due to the COVID-19 pandemic. Nevertheless, a cast recording featuring the original Broadway cast was released on April 22, 2020. The show was presented by the Huntington Theatre Company in Boston in the fall of 2022, with plans to move to Broadway.",
+        "source_url": "https://en.wikipedia.org/wiki/Sing_Street_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "stonewall": {
+      "slug": "stonewall",
+      "title": "Stonewall",
+      "qid": "Q65041285",
+      "enwiki": "Stonewall (opera)",
+      "composers": [
+        {
+          "name": "Iain Bell",
+          "qid": "Q15101007"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Mark Campbell",
+          "qid": "Q54858776"
+        }
+      ],
+      "premiere": {
+        "date": "2019-06",
+        "venue": "Jazz at Lincoln Center"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Stonewall_(opera)",
+        "wikidata": "https://www.wikidata.org/wiki/Q65041285"
+      },
+      "summary": {
+        "text": "Stonewall is an American opera about the 1969 Stonewall riots, the spark of the modern LGBTQ rights movement, which received its world premiere June 2019 in conjunction with Stonewall 50 – WorldPride NYC 2019, projected to be the world's largest LGBTQ event. Stonewall was commissioned by New York City Opera (NYCO), and features music by Iain Bell, libretto by Pulitzer Prize-winning Mark Campbell, and direction by Leonard Foglia. The production is a 2019 Pride Initiative of the NYCO, an annual production of an LGBT-focused work each June in commemoration of Gay Pride Month. The opera premiered in June 2019 at the Rose Theater at Jazz at Lincoln Center. The opera was produced to honor both the 50th anniversary of the Stonewall Riots, and the 75th anniversary of the NYCO. Stonewall is the first opera to feature a transgender character written for an openly transgender singer, mezzo-soprano Liz Bouk.",
+        "source_url": "https://en.wikipedia.org/wiki/Stonewall_(opera)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "summer-song": {
+      "slug": "summer-song",
+      "title": "Summer Song",
+      "qid": "Q25217447",
+      "enwiki": "Summer Song (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Summer_Song_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q25217447"
+      },
+      "summary": {
+        "text": "Summer Song is a 1956 musical based on the visit of the Czech composer Antonin Dvorak to Iowa, where he wrote his symphony From the New World. The lyrics were written by Eric Maschwitz and book by Hy Kraft to music by Dvorak, arranged by Bernard Grun. Maschwitz had already worked with Grun on the Chopin musical Waltz Without End in 1942.\nSummer Song opened in London in 1956 at the Prince's Theatre and ran for 148 performances.",
+        "source_url": "https://en.wikipedia.org/wiki/Summer_Song_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "symphony-no-1": {
+      "slug": "symphony-no-1",
+      "title": "Symphony No. 1",
+      "qid": "Q7661508",
+      "enwiki": "Symphony No. 1 (ballet)",
+      "composers": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "qid": "Q7315",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12486"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Symphony_No._1_(ballet)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7661508"
+      },
+      "summary": {
+        "text": "Symphony No. 1 is a ballet made by New York City Ballet ballet master (subsequently ballet master in chief) Peter Martins to Tschaikovsky's Symphony No. 1 in G minor, Op. 13, Winter Dreams (1866–74). The premiere took place 6 June 1981, as part of City Ballet's Tschaikovsky Festival at the New York State Theater, Lincoln Center.",
+        "source_url": "https://en.wikipedia.org/wiki/Symphony_No._1_(ballet)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "temistocle-porpora": {
+      "slug": "temistocle-porpora",
+      "title": "Temistocle",
+      "qid": "Q79396478",
+      "enwiki": "Temistocle (Porpora)",
+      "composers": [
+        {
+          "name": "Nicola Porpora",
+          "qid": "Q312788",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/517118"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Apostolo Zeno",
+          "qid": "Q349507"
+        }
+      ],
+      "premiere": {
+        "date": "1718-10-01",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Temistocle_(Porpora)",
+        "wikidata": "https://www.wikidata.org/wiki/Q79396478"
+      },
+      "summary": {
+        "text": "Temistocle is an opera in three acts composed by Nicola Porpora to an Italian libretto by Apostolo Zeno. It was first performed at the Hoftheater in Vienna on 1 October 1718. It is possibly the same opera that was performed on 30 May 1756 at the Teatre de la Santa Creu, Barcelona.\nThere is another version, also by Porpora, to a libretto by Metastasio, first performed in 1743, as well as another opera on the same subject by Francesco Manelli (1595–1670). Apostolic Zeno's libretto was also set to music by Marc'Antonio Ziani in 1701 and by Fortunato Chelleri in 1721.",
+        "source_url": "https://en.wikipedia.org/wiki/Temistocle_(Porpora)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "tesla-lightning-in-his-hand": {
+      "slug": "tesla-lightning-in-his-hand",
+      "title": "Tesla – Lightning in His Hand",
+      "qid": "Q7705506",
+      "enwiki": "Tesla – Lightning in His Hand",
+      "composers": [
+        {
+          "name": "Constantine Koukias",
+          "qid": "Q5163824"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2003",
+        "venue": "Hobart"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Tesla_%E2%80%93_Lightning_in_His_Hand",
+        "wikidata": "https://www.wikidata.org/wiki/Q7705506"
+      },
+      "summary": {
+        "text": "Tesla – Lightning in His Hand is a large-scale opera about Serbian American engineer and inventor Nikola Tesla (1856–1943), composed by Constantine Koukias, a Tasmanian composer and opera director of Greek ancestry based in Amsterdam, where he is known by his Greek name of Konstantin Koukias, with libretto by Marianne Fisher.",
+        "source_url": "https://en.wikipedia.org/wiki/Tesla_%E2%80%93_Lightning_in_His_Hand",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-child-dreams": {
+      "slug": "the-child-dreams",
+      "title": "The Child Dreams",
+      "qid": "Q7722437",
+      "enwiki": "The Child Dreams (opera)",
+      "composers": [
+        {
+          "name": "Gil Shohat",
+          "qid": "Q5560612"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Child_Dreams_(opera)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7722437"
+      },
+      "summary": {
+        "text": "The Child Dreams (Hebrew: הילד חולם) is a 2010 opera by Gil Shohat, based on the play of the same name by Hanoch Levin.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Child_Dreams_(opera)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-demon": {
+      "slug": "the-demon",
+      "title": "The Demon",
+      "qid": "Q2623107",
+      "enwiki": "The Demon (opera)",
+      "composers": [
+        {
+          "name": "Anton Rubinstein",
+          "qid": "Q87567"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Pavel Viskovatov",
+          "qid": "Q382271"
+        }
+      ],
+      "premiere": {
+        "date": "1875-01-25",
+        "venue": "Mariinsky Theatre"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Demon_(opera)",
+        "wikidata": "https://www.wikidata.org/wiki/Q2623107"
+      },
+      "summary": {
+        "text": "Demon (Russian: Демон) is an opera in three acts (six scenes) by Russian composer Anton Rubinstein. The work was composed in 1871.  The libretto was by Pavel Viskovatov, based on the poem of the same name by Mikhail Lermontov.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Demon_(opera)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-eternity-man": {
+      "slug": "the-eternity-man",
+      "title": "The Eternity Man",
+      "qid": "Q7732573",
+      "enwiki": "The Eternity Man",
+      "composers": [
+        {
+          "name": "Jonathan Mills",
+          "qid": "Q16676403"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Dorothy Porter",
+          "qid": "Q5298596"
+        }
+      ],
+      "premiere": {
+        "date": "2003-07-23",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Eternity_Man",
+        "wikidata": "https://www.wikidata.org/wiki/Q7732573"
+      },
+      "summary": {
+        "text": "The Eternity Man is a chamber opera in one act and seven scenes by the Australian composer Jonathan Mills to a libretto by Dorothy Porter. It deals with the life of Arthur Stace who was known as \"The Eternity Man\" because he chalked the word \"Eternity\" about 500,000 times in over 35 years on Sydney's walls and footpaths.\nThe opera is written for four voices. These include the voice of Stace himself (baritone) and three female characters (soprano, mezzo-soprano, contralto) who represent alternatively Stace's sister, Myrtle; a Darlinghurst brothel keeper; and an assortment of female choruses – female freaks at the Sydney Royal Easter Show and also ghosts of female convicts and a gaggle of Kings Cross drag queens. A performance lasts for about 70 minutes.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Eternity_Man",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-marvelous-wonderettes": {
+      "slug": "the-marvelous-wonderettes",
+      "title": "The Marvelous Wonderettes",
+      "qid": "Q7750480",
+      "enwiki": "The Marvelous Wonderettes",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Roger Bean",
+          "qid": "Q16194426"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Marvelous_Wonderettes",
+        "wikidata": "https://www.wikidata.org/wiki/Q7750480"
+      },
+      "summary": {
+        "text": "The Marvelous Wonderettes is a jukebox musical comedy with a book by Roger Bean. The show, which uses pop songs from the 1950s and 1960s as a vehicle to tell its story, pays homage to the high school Songleader squads of the 50s. When called upon to perform at their senior prom as a last minute replacement, Springfield High Songleaders Betty Jean, Cindy Lou, Missy and Suzy, rally together to entertain their classmates in four-part harmony. The second act shows the four ten years later at a high school reunion.\nThe musical includes the songs \"Lollipop\", \"Dream Lover\", \"Stupid Cupid\", \"Lipstick on Your Collar\", \"Hold Me, Thrill Me, Kiss Me\", \"It's My Party\", and \"It's In His Kiss (The Shoop Shoop Song)\".",
+        "source_url": "https://en.wikipedia.org/wiki/The_Marvelous_Wonderettes",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-regulars": {
+      "slug": "the-regulars",
+      "title": "The Regulars",
+      "qid": "Q111946565",
+      "enwiki": "The Regulars",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Regulars",
+        "wikidata": "https://www.wikidata.org/wiki/Q111946565"
+      },
+      "summary": {
+        "text": "The Regulars is a folk musical with music, lyrics, and book by Will Shishmanian. It follows the story of Mark Howard, a trans man who has just moved away from his childhood home to a rural, upstate town, where he befriends Dani Thompson, a Black queer woman who's opening her own gay bar. The production is developed and directed by Miss Hazel Jade.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Regulars",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-story-of-a-real-man": {
+      "slug": "the-story-of-a-real-man",
+      "title": "The Story of a Real Man",
+      "qid": "Q1212967",
+      "enwiki": "The Story of a Real Man",
+      "composers": [
+        {
+          "name": "Sergei Prokofiev",
+          "qid": "Q49481",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/118533"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Mira Mendelssohn",
+          "qid": "Q3315772"
+        },
+        {
+          "name": "Sergei Prokofiev",
+          "qid": "Q49481",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/118533"
+        }
+      ],
+      "premiere": {
+        "date": "1948-12-03",
+        "venue": "Mariinsky Theatre"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Story_of_a_Real_Man",
+        "wikidata": "https://www.wikidata.org/wiki/Q1212967"
+      },
+      "summary": {
+        "text": "The Story of a Real Man (Russian: Повесть о настоящем человеке, romanized: Povest' o nastoyashchem cheloveke) is an opera in four acts by the Russian composer Sergei Prokofiev, his opus 117. It is based on the novel of the same name by Boris Polevoy recounting the life of Aleksey Maresyev. It was written from 1947 to 1948.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Story_of_a_Real_Man",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "thunderstorm": {
+      "slug": "thunderstorm",
+      "title": "Thunderstorm",
+      "qid": "Q7799177",
+      "enwiki": "Thunderstorm (opera)",
+      "composers": [
+        {
+          "name": "Mo Fan",
+          "qid": "Q6886215"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Thunderstorm_(opera)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7799177"
+      },
+      "summary": {
+        "text": "Leiyu (雷雨 \"Thunderstorm\") is a 2001 Chinese-language western-style opera by Hangzhou-born composer Mo Fan based on Thunderstorm by Cao Yu. True to the setting of the play Mo Fan introduced 1930s Shanghai salon tunes into the opera.\nThe opera was commissioned by the Shanghai Opera House company, and was presented in concert in 2001 and full dress form in 2006. The opera was taken by the Shanghai company among four of its productions to present in the inaugural 2008-2009 season of Beijing's CHNCPA, or \"Big Egg\" on Tiananmen Square East.",
+        "source_url": "https://en.wikipedia.org/wiki/Thunderstorm_(opera)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "whoop-up": {
+      "slug": "whoop-up",
+      "title": "Whoop-Up",
+      "qid": "Q7997616",
+      "enwiki": "Whoop-Up",
+      "composers": [
+        {
+          "name": "Moose Charlap",
+          "qid": "Q6908563",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11512"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Norman Gimbel",
+          "qid": "Q7052273",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12899"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Cy Feuer",
+          "qid": "Q963035",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4930"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/9349",
+        "wikipedia": "https://en.wikipedia.org/wiki/Whoop-Up",
+        "wikidata": "https://www.wikidata.org/wiki/Q7997616"
+      },
+      "summary": {
+        "text": "Whoop-Up is a musical with music by Moose Charlap, lyrics by Norman Gimbel, and book by Cy Feuer and Ernest Martin, based on Stay Away, Joe by Dan Cushman.  It was directed by Cy Feuer, with sets and lighting by Jo Mielziner and choreography by Onna White. \nProduced by Feuer and Martin, the Broadway production opened on December 22, 1958 at the Shubert Theatre, where it ran for 56 performances. Cast included Sylvia Syms, Paul Ford, Susan Johnson, Ralph Young and Romo Vincent. Julienne Marie was nominated for a Tony Award for Best Featured Actress in a Musical for her performance. The plot is described thus: \"Welcome to Glenda's Place - a saloon half-on, half-off a Montana Indian reservation. Glenda's one tough gal, until her native American boyfriend returns after two years on the rodeo circuit.\"\nAn original cast recording was made by MGM Records but the show's short run curtailed album sales and the record was soon deleted from the catalog. In 1987 Larry L. Lash at PolyGram Records, which had purchased the MGM catalogue, digitally remastered and reissued Whoop-Up on CD, adding ten bonus tracks of songs from the score performed by pop artists of the day including Connie Francis, Maurice Chevalier and Rosemary Clooney, as well as the composers' demo recording of a song cut from the show during out-of-town tryouts. The CD was embraced by Broadway cast album collectors but did not sell well and it, too, was soon deleted. The recording is now owned by Universal Music Group, but Brian Drutman of its Decca Broadway label said that with the weak sales of the previous edition there is little reason for Decca to reissue the title.",
+        "source_url": "https://en.wikipedia.org/wiki/Whoop-Up",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "windy-city": {
+      "slug": "windy-city",
+      "title": "Windy City",
+      "qid": "Q8024825",
+      "enwiki": "Windy City (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Windy_City_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q8024825"
+      },
+      "summary": {
+        "text": "Windy City is a 1982 musical with a book and lyrics by Dick Vosburgh and music by Tony Macaulay. It is based on the 1928 play The Front Page by Ben Hecht and Charles MacArthur.",
+        "source_url": "https://en.wikipedia.org/wiki/Windy_City_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "zakouski": {
+      "slug": "zakouski",
+      "title": "Zakouski",
+      "qid": "Q8065140",
+      "enwiki": "Zakouski (ballet)",
+      "composers": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "qid": "Q131861",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12625"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1992-11-17",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Zakouski_(ballet)",
+        "wikidata": "https://www.wikidata.org/wiki/Q8065140"
+      },
+      "summary": {
+        "text": "Zakouski is a ballet made by New York City Ballet ballet master in chief Peter Martins to: \n\nVocalise, Op. 34, No. 14 by Sergei Rachmaninoff\n\"Parasha's Song\" from the opera Mavra by Igor Stravinsky\nThe fourth of Cinq Melodies by Sergei Prokofiev\nValse-Scherzo, Op. 34 by Pyotr Ilyich Tchaikovsky.\nThe premiere took place on Tuesday, 17 November 1992 at the New York State Theater, Lincoln Center. It was the first role made on Nikolaj Hübbe at City Ballet; he chose to dance it as well at his farewell performance on Sunday, 10 February 2008, at which time he and Yvonne Borree divided the pas de deux with Megan Fairchild and Andrew Veyette, who were dancing it for the first time.\nThe costumes were designed by British born, American costume designer Barbara Matera.",
+        "source_url": "https://en.wikipedia.org/wiki/Zakouski_(ballet)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

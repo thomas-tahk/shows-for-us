@@ -1,0 +1,1518 @@
+{
+  "shows": {
+    "42nd-street": {
+      "slug": "42nd-street",
+      "title": "42nd Street",
+      "qid": "Q233773",
+      "enwiki": "42nd Street (musical)",
+      "composers": [
+        {
+          "name": "Harry Warren",
+          "qid": "Q938810",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12549"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Al Dubin",
+          "qid": "Q180899",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12855"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Michael Stewart",
+          "qid": "Q6834631",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7748"
+        }
+      ],
+      "premiere": {
+        "date": "1980-08-25",
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Laurence Olivier Awards",
+          "qid": "Q28470"
+        }
+      ],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1027",
+        "wikipedia": "https://en.wikipedia.org/wiki/42nd_Street_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q233773"
+      },
+      "summary": {
+        "text": "42nd Street is a 1980 stage musical with a book by Michael Stewart and Mark Bramble, lyrics by Al Dubin and Johnny Mercer and music by Harry Warren. The 1980 Broadway production won the Tony Awards for Best Musical and Best Choreography and it became a long-running hit. The show was also produced in London in 1984 (winning the Olivier Award for Best Musical) and its 2001 Broadway revival won the Tony Award for Best Revival.\nBased on the 1932 novel by Bradford Ropes and the subsequent 1933 Hollywood film adaptation, this backstage musical follows the rehearsal process of a Broadway show staged during the height of the Great Depression.\nThe show is a jukebox musical of sorts, in that, in addition to songs from the 1933 film 42nd Street, it includes songs that Dubin and Warren wrote for many other films at around the same time, including Gold Diggers of 1933, Roman Scandals, Dames, Gold Diggers of 1935, Go into Your Dance, Gold Diggers of 1937 and The Singing Marine. It also includes \"There's a Sunny Side to Every Situation\", written by Warren and Johnny Mercer for Hard to Get. A 2017 revival added the song \"Boulevard of Broken Dreams\", written by Warren and Dubin for Moulin Rouge.",
+        "source_url": "https://en.wikipedia.org/wiki/42nd_Street_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "a-party-with-betty-comden-and-adolph-green": {
+      "slug": "a-party-with-betty-comden-and-adolph-green",
+      "title": "A Party with Betty Comden and Adolph Green",
+      "qid": "Q4658713",
+      "enwiki": "A Party with Betty Comden and Adolph Green",
+      "composers": [
+        {
+          "name": "Leonard Bernstein",
+          "qid": "Q152505",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7257"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Betty Comden",
+          "qid": "Q175078",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4525"
+        },
+        {
+          "name": "Adolph Green",
+          "qid": "Q329849",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3911"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1229",
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Party_with_Betty_Comden_and_Adolph_Green",
+        "wikidata": "https://www.wikidata.org/wiki/Q4658713"
+      },
+      "summary": {
+        "text": "A Party with Betty Comden and Adolph Green is a musical revue with a book and lyrics by Betty Comden and Adolph Green and music by Leonard Bernstein, Jule Styne, André Previn, Saul Chaplin, and Roger Edens.\nThe performance was composed of material written by Comden and Green for stage shows, films, and their former comedy troupe The Revuers.\nComden and Green originally performed the revue A Party Off-Broadway at the Cherry Lane Theatre for 5 performances in November 1958.\nThe revue was then produced on Broadway by the Theatre Guild, opening on December 23, 1958, at the John Golden Theatre, where it closed on May 23, 1959, after 82 performances. It won the Obie Award for Best Musical  An original cast recording was released by Capitol Records (LP# SWAO-1197).\nAfter four previews, a revival opened on Broadway on February 10, 1977, at the Morosco Theatre, where it remained for six weeks before transferring to the Little Theatre to complete its 92-performance run on April 30, 1977. This production included material written since the original 1958 show, including Do Re Mi and Subways Are For Sleeping. The duo then took the show on tour, starting in Washington, DC. A revival cast album was recorded live at the Arena Theatre in Washington, D.C. was released by DRG.",
+        "source_url": "https://en.wikipedia.org/wiki/A_Party_with_Betty_Comden_and_Adolph_Green",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "adele-de-ponthieu-la-borde-and-berton": {
+      "slug": "adele-de-ponthieu-la-borde-and-berton",
+      "title": "Adèle de Ponthieu",
+      "qid": "Q16156637",
+      "enwiki": "Adèle de Ponthieu (La Borde and Berton)",
+      "composers": [
+        {
+          "name": "Pierre Montan Berton",
+          "qid": "Q178336"
+        },
+        {
+          "name": "Jean-Benjamin de La Borde",
+          "qid": "Q932694"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Jean-Paul-André Razins de Saint-Marc",
+          "qid": "Q3168321"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Ad%C3%A8le_de_Ponthieu_(La_Borde_and_Berton)",
+        "wikidata": "https://www.wikidata.org/wiki/Q16156637"
+      },
+      "summary": {
+        "text": "Adèle de Ponthieu is an opera by the French composers Jean-Benjamin de La Borde and Pierre Montan Berton, first performed at the Académie Royale de Musique, Paris (the Paris Opera) on 1 December 1772. It takes the form of a tragédie lyrique in three acts. The libretto was written by Jean-Paul-André Razins de Saint-Marc, after a tragedy by Pierre-Antoine de La Place, staged  at the Comédie-Française in 1757.\nThe opera had little success in its first run and was only revived in 1775 in five acts, for 38 performances, before being withdrawn for good. The three-act libretto, however, was later set by Niccolò Piccinni in 1781.",
+        "source_url": "https://en.wikipedia.org/wiki/Ad%C3%A8le_de_Ponthieu_(La_Borde_and_Berton)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "amelia-goes-to-the-ball": {
+      "slug": "amelia-goes-to-the-ball",
+      "title": "Amelia Goes to the Ball",
+      "qid": "Q461669",
+      "enwiki": "Amelia Goes to the Ball",
+      "composers": [
+        {
+          "name": "Gian Carlo Menotti",
+          "qid": "Q270662",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5904"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Gian Carlo Menotti",
+          "qid": "Q270662",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5904"
+        }
+      ],
+      "premiere": {
+        "date": "1937-04-01",
+        "venue": "Academy of Music"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Amelia_Goes_to_the_Ball",
+        "wikidata": "https://www.wikidata.org/wiki/Q461669"
+      },
+      "summary": {
+        "text": "Amelia al ballo (Amelia Goes to the Ball) is a one-act opera buffa by Gian Carlo Menotti, who set his own Italian libretto. Composed during 1936 when Menotti was in his mid-twenties, it was the composer's first mature opera and first critical success. The opera recounts a series of farcical events as a young Italian socialite overcomes obstacles to her attendance at the first ball of the season.",
+        "source_url": "https://en.wikipedia.org/wiki/Amelia_Goes_to_the_Ball",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "artemisia-cavalli": {
+      "slug": "artemisia-cavalli",
+      "title": "Artemisia",
+      "qid": "Q4797485",
+      "enwiki": "Artemisia (Cavalli)",
+      "composers": [
+        {
+          "name": "Francesco Cavalli",
+          "qid": "Q108062"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Nicolò Minato",
+          "qid": "Q1987241"
+        }
+      ],
+      "premiere": {
+        "date": "1657-01-10",
+        "venue": "Teatro Santi Giovanni e Paolo"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Artemisia_(Cavalli)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4797485"
+      },
+      "summary": {
+        "text": "Artemisia is an opera (\"dramma per musica\") in three acts and a prologue by the Italian composer Francesco Cavalli from a libretto written by Nicolò Minato. It was first performed at the Teatro San Giovanni e San Paolo, Venice on 10 January 1657 and revived in Naples in 1658, Palermo in 1659, Milan in 1663 and Genoa in 1665.",
+        "source_url": "https://en.wikipedia.org/wiki/Artemisia_(Cavalli)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "between-the-lines": {
+      "slug": "between-the-lines",
+      "title": "Between the Lines",
+      "qid": "Q114352458",
+      "enwiki": "Between the Lines (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Between_the_Lines_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q114352458"
+      },
+      "summary": {
+        "text": "Between the Lines is a musical based on the novel of the same name, written by Jodi Picoult, with music and lyrics by Elyssa Samsel and Kate Anderson, and a book by Timothy Allen McDonald. The musical follows 17-year-old Delilah as she struggles to balance fitting in at her new school and a romance with a prince who is another world away.",
+        "source_url": "https://en.wikipedia.org/wiki/Between_the_Lines_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "charlie-and-the-chocolate-factory": {
+      "slug": "charlie-and-the-chocolate-factory",
+      "title": "Charlie and the Chocolate Factory",
+      "qid": "Q5085750",
+      "enwiki": "Charlie and the Chocolate Factory (musical)",
+      "composers": [
+        {
+          "name": "Marc Shaiman",
+          "qid": "Q979312",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/75368"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Scott Wittman",
+          "qid": "Q4022358",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/16532"
+        },
+        {
+          "name": "Marc Shaiman",
+          "qid": "Q979312",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/75368"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "David Greig",
+          "qid": "Q726345",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/509570"
+        }
+      ],
+      "premiere": {
+        "date": "2013-06-25",
+        "venue": "The Theatre Royal"
+      },
+      "awards": [
+        {
+          "name": "Laurence Olivier Award for Best Costume Design",
+          "qid": "Q6500778"
+        },
+        {
+          "name": "Laurence Olivier Award for Best Lighting Design",
+          "qid": "Q6500787"
+        }
+      ],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/509566",
+        "official_site": "http://www.charlieandthechocolatefactory.co.uk/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Charlie_and_the_Chocolate_Factory_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5085750"
+      },
+      "summary": {
+        "text": "Charlie and the Chocolate Factory is a musical based on the 1964 children's novel by Roald Dahl, with book by David Greig, music by Marc Shaiman and lyrics by Shaiman and Scott Wittman, with original songs from the 1971 film Willy Wonka & the Chocolate Factory by Leslie Bricusse and Anthony Newley.\nDirected by Sam Mendes, the musical premiered in the West End at the Theatre Royal Drury Lane in June 2013 and ran for 3 years and 7 months before closing on 7 January 2017. In 2013 the production broke the record for weekly ticket sales in London. While receiving mixed reviews from critics, the show won two Laurence Olivier Awards in 2014 for Best Costume Design and Best Lighting Design. The show was reworked for a Broadway production opening in April 2017 at the Lunt-Fontanne Theatre and ran almost nine months before closing in January 2018. A U.S. tour opened 21 September 2018 at Shea's Performing Arts Center in Buffalo, New York and an Australian tour at Capitol Theatre on 11 January 2019. A second U.S. tour launched on 1 January 2020 in Miami, Florida. The Broadway version of the musical has been acquired for licensing rights in North America, Europe and Australia by Music Theatre International.",
+        "source_url": "https://en.wikipedia.org/wiki/Charlie_and_the_Chocolate_Factory_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "columbiad": {
+      "slug": "columbiad",
+      "title": "Columbiad",
+      "qid": "Q25217440",
+      "enwiki": "Columbiad (ballet)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Columbiad_(ballet)",
+        "wikidata": "https://www.wikidata.org/wiki/Q25217440"
+      },
+      "summary": {
+        "text": "Columbiad is a solo modern dance choreographed by Martha Graham to music by Louis Horst. Edythe Gilfond designed the costume; Philip Stapp created the set. The ballet premiered on December 27, 1939, at the St. James Theatre in New York City. Columbiad's debut was part of an event called the Holiday Dance Festival, which included four additional works by Graham and pieces by the American Ballet Caravan, Carmalita Maracci and Dance Group, and Korean modern dancer Sai Shoki.",
+        "source_url": "https://en.wikipedia.org/wiki/Columbiad_(ballet)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "der-proze": {
+      "slug": "der-proze",
+      "title": "Der Prozeß",
+      "qid": "Q1196299",
+      "enwiki": "Der Prozeß (opera)",
+      "composers": [
+        {
+          "name": "Gottfried von Einem",
+          "qid": "Q434389"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1953-08-17",
+        "venue": "Salzburg Festival"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Der_Proze%C3%9F_(opera)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1196299"
+      },
+      "summary": {
+        "text": "Der Prozeß (The Trial) is a German-language opera in two parts, divided into nine scenes, with music by Gottfried von Einem and a libretto by Boris Blacher and Heinz von Cramer, based on the posthumously published 1925 novel by Franz Kafka. Composed over the period 1950 to 1952, this was von Einem's second opera. He dedicated it to the psychologist and theologian Oskar Pfister, who had been his therapist, and to his former teacher, Karl Christian Jensen.\nThe opera premiered on 17 August 1953 at the Salzburg Festival, with stage direction by Oscar Fritz Schuh, scene design by Caspar Neher, and Karl Böhm as conductor. The US premiere of the opera was in October 1953 at the New York City Opera, directed by Otto Preminger. The British premiere, attended by the composer Gottfired Von Einem, took place in May 1973, at Bloomsbury Theatre London, in a production, conducted by Leon Lovett, directed by Fuad Kavur.",
+        "source_url": "https://en.wikipedia.org/wiki/Der_Proze%C3%9F_(opera)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "dora-s-dream": {
+      "slug": "dora-s-dream",
+      "title": "Dora's Dream",
+      "qid": "Q5297370",
+      "enwiki": "Dora's Dream",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Dora's_Dream",
+        "wikidata": "https://www.wikidata.org/wiki/Q5297370"
+      },
+      "summary": {
+        "text": "Dora's Dream is a one-act operetta, with music composed by Alfred Cellier and a libretto by Arthur Cecil.\nThe piece was first performed at the Royal Gallery of Illustration on 3 July 1873, with Fanny Holland and Arthur Cecil starring in the two roles.  It was performed again with the same cast on 5 May 1876 at the Princess's Theatre in London for Pauline Rita's benefit.\nThe opera was revived on 17 November 1877 at the Opera Comique as a curtain raiser to The Sorcerer, which opened on the same night.  It then ran until 7 or 8 February 1878, starring Giulia Warwick and Richard Temple.  The curtain raiser debuted to a warm review from The Times, which wrote, \"This pleasant and sparkling bagatelle at once put the house in good humour.\" \nNo printed libretto or vocal score is found in the British Library, but the license copy of the libretto resides in the Lord Chamberlain's collection, Add. MS. 53194, play no. A, NovDec 1877.  Only dialogue is given, not the lyrics of the songs, and in Cecil's original draft, it was apparently not intended to be performed with music.",
+        "source_url": "https://en.wikipedia.org/wiki/Dora's_Dream",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "dove-e-amore-e-gelosia": {
+      "slug": "dove-e-amore-e-gelosia",
+      "title": "Dove è amore è gelosia",
+      "qid": "Q17005108",
+      "enwiki": "Dove è amore è gelosia",
+      "composers": [
+        {
+          "name": "Giuseppe Scarlatti",
+          "qid": "Q795584"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Dove_%C3%A8_amore_%C3%A8_gelosia",
+        "wikidata": "https://www.wikidata.org/wiki/Q17005108"
+      },
+      "summary": {
+        "text": "Dove è amore è gelosia is an opera (intermezzo giocoso) in two acts composed by Giuseppe Scarlatti to an Italian libretto by Marco Coltellini. It was originally written for the wedding celebration of Johann Nepomuk Anton, the eldest son and heir-apparent of Prince Joseph I Adam of Schwarzenberg, and premiered at the theatre in the Český Krumlov Castle in Český Krumlov on 24 July 1768.\nThe first modern revival of Dove è amore è gelosia was staged at the Baroque Theatre of Český Krumlov Castle, the site of its original premiere, on 9 September 2011. This performed was recorded and released in DVD and blu-ray by Opus Arte.\nThe music to one of Patrizio's arias, \"A che serve intisichire\" has been noted to share a degree of similarity with Cherubino's aria, \"Non so più cosa son\" from Mozart's Le Nozze di Figaro, which was composed 18 years later.",
+        "source_url": "https://en.wikipedia.org/wiki/Dove_%C3%A8_amore_%C3%A8_gelosia",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "elixier": {
+      "slug": "elixier",
+      "title": "Elixier",
+      "qid": "Q5362027",
+      "enwiki": "Elixier",
+      "composers": [
+        {
+          "name": "Tobias Künzel",
+          "qid": "Q119976"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Kati Naumann",
+          "qid": "Q19965153"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Elixier",
+        "wikidata": "https://www.wikidata.org/wiki/Q5362027"
+      },
+      "summary": {
+        "text": "Elixier is a German musical that premiered in 1997 in Leipzig, Germany under the direction of Horst Königstein. The music was written by Tobias Künzel and Wolfgang Lenk (Die Prinzen), with lyrics by Kati Naumann.",
+        "source_url": "https://en.wikipedia.org/wiki/Elixier",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "fancy-nancy-the-musical": {
+      "slug": "fancy-nancy-the-musical",
+      "title": "Fancy Nancy the Musical",
+      "qid": "Q5433698",
+      "enwiki": "Fancy Nancy the Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "http://fancy-nancy-the-musical.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Fancy_Nancy_the_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q5433698"
+      },
+      "summary": {
+        "text": "Fancy Nancy The Musical is an American musical with book and lyrics by Susan DiLallo, and music and lyrics by Danny Abosch. It is based on Fancy Nancy and the Mermaid Ballet, part of the popular Fancy Nancy book series by Jane O'Connor, illustrated by Robin Preiss Glasser.",
+        "source_url": "https://en.wikipedia.org/wiki/Fancy_Nancy_the_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "fly-by-night": {
+      "slug": "fly-by-night",
+      "title": "Fly by Night",
+      "qid": "Q96378069",
+      "enwiki": "Fly by Night (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Fly_by_Night_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q96378069"
+      },
+      "summary": {
+        "text": "Fly by Night is a stage musical written by Will Connolly, Michael Mitnick, and Kim Rosenstock, and conceived by Kim Rosenstock.The show was first developed and presented by Yale Summer Cabaret in 2009, and had a workshop at The American Musical Theatre Project at Northwestern University in 2011.\nAfter an out of town run at Dallas Theater Center in 2013, it opened Off-Broadway on May 16, 2014 in the Playwrights Horizons Mainstage Theater, where it ran until June 29. The production was directed by Carolyn Cantor.\nThe show, described as a 'darkly comic rock-fable', is set largely in 1965 New York at the time of the northeast blackout, and centres around a love triangle between a sandwich maker and two sisters.",
+        "source_url": "https://en.wikipedia.org/wiki/Fly_by_Night_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "forty-five-minutes-from-broadway": {
+      "slug": "forty-five-minutes-from-broadway",
+      "title": "Forty-five Minutes from Broadway",
+      "qid": "Q5472933",
+      "enwiki": "Forty-five Minutes from Broadway",
+      "composers": [
+        {
+          "name": "George M. Cohan",
+          "qid": "Q563017",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5829"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "George M. Cohan",
+          "qid": "Q563017",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5829"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "George M. Cohan",
+          "qid": "Q563017",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5829"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3686",
+        "wikipedia": "https://en.wikipedia.org/wiki/Forty-five_Minutes_from_Broadway",
+        "wikidata": "https://www.wikidata.org/wiki/Q5472933"
+      },
+      "summary": {
+        "text": "Forty-Five Minutes From Broadway is a three-act musical by George M. Cohan written about the town of New Rochelle, New York. The title refers to the 45-minute train ride from New Rochelle to Broadway. The story concerns a romance between a maid who stands to inherit a fortune and an unpopular out-of-towner.\nThe musical premiered on Broadway in 1906 and was briefly revived in 1912. It was adapted as silent film and broadcast live on television in 1959.",
+        "source_url": "https://en.wikipedia.org/wiki/Forty-five_Minutes_from_Broadway",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "hell-s-kitchen": {
+      "slug": "hell-s-kitchen",
+      "title": "Hell's Kitchen",
+      "qid": "Q123808021",
+      "enwiki": "Hell's Kitchen (musical)",
+      "composers": [
+        {
+          "name": "Alicia Keys",
+          "qid": "Q121507",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/513231"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Alicia Keys",
+          "qid": "Q121507",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/513231"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": "2024-04-20",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "https://hellskitchen.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Hell's_Kitchen_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q123808021"
+      },
+      "summary": {
+        "text": "Hell's Kitchen is a jukebox musical built on the music and lyrics of Alicia Keys, with a semi-autobiographical plot about her upbringing in Manhattan in the 1990s. The musical, with a book by Kristoffer Diaz, initially ran at The Public Theater in October 2023, having its Broadway debut at the Shubert Theatre on April 20, 2024, followed by a cast recording on June 7, 2024.\nThe original Off-Broadway and Broadway productions received positive reviews by theatre critics, considering the musical among the best examples of the jukebox musical, while Maleah Joi Moon, Shoshana Bean, and Kecia Lewis were praised for their acting and vocal performances. The productions received nominations and won at the Lucille Lortel Awards, Drama Desk Awards, Drama League Awards, and Grammy Awards. At the 77th Tony Awards, the Broadway production garnered 13 nominations, winning Best Leading Actress and Best Featured Actress.",
+        "source_url": "https://en.wikipedia.org/wiki/Hell's_Kitchen_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "images": {
+      "slug": "images",
+      "title": "Images",
+      "qid": "Q6002359",
+      "enwiki": "Images (ballet)",
+      "composers": [
+        {
+          "name": "Claude Debussy",
+          "qid": "Q4700",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/87554"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Images_(ballet)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6002359"
+      },
+      "summary": {
+        "text": "Images is a ballet made by Miriam Mahdaviani for the New York City Ballet's first Diamond Project to Debussy's \"Gigues\" from Images pour orchestre (1906–12) and \"Nuages\" and \"Fêtes\" from his Nocturnes (1893–99). The premiere took place 30 May 1992 at the New York State Theater, Lincoln Center.",
+        "source_url": "https://en.wikipedia.org/wiki/Images_(ballet)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "king-s-rhapsody": {
+      "slug": "king-s-rhapsody",
+      "title": "King's Rhapsody",
+      "qid": "Q6411075",
+      "enwiki": "King's Rhapsody",
+      "composers": [
+        {
+          "name": "Ivor Novello",
+          "qid": "Q436693",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6484"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Ivor Novello",
+          "qid": "Q436693",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6484"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/King's_Rhapsody",
+        "wikidata": "https://www.wikidata.org/wiki/Q6411075"
+      },
+      "summary": {
+        "text": "King's Rhapsody is a musical with book and music by Ivor Novello and lyrics by Christopher Hassall.\nThe musical was first produced at the Palace Theatre, London, on 15 September 1949 and ran for 841 performances, surviving its author, who died in 1951. It starred Novello in the title role of the heir to the throne under pressure from his long-lived mother, Queen Elana, to abdicate in favour of his infant son, with Phyllis Dare as his mistress Marta Karillos, Zena Dare as Queen Elana, Vanessa Lee as Princess Cristiane, Robert Andrews as Vanescu, and Olive Gilbert as Countess Vera.\nA 1955 film adaptation was made, starring Errol Flynn.",
+        "source_url": "https://en.wikipedia.org/wiki/King's_Rhapsody",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "la-boheme": {
+      "slug": "la-boheme",
+      "title": "La bohème",
+      "qid": "Q188621",
+      "enwiki": "La bohème",
+      "composers": [
+        {
+          "name": "Giacomo Puccini",
+          "qid": "Q7311",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8199"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Giuseppe Giacosa",
+          "qid": "Q372032",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/95286"
+        },
+        {
+          "name": "Luigi Illica",
+          "qid": "Q441843",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/95287"
+        }
+      ],
+      "premiere": {
+        "date": "1896-02-01",
+        "venue": "Teatro Regio"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/9949",
+        "wikipedia": "https://en.wikipedia.org/wiki/La_boh%C3%A8me",
+        "wikidata": "https://www.wikidata.org/wiki/Q188621"
+      },
+      "summary": {
+        "text": "La bohème ( LAH boh-EM, Italian: [la boˈɛm]) is an opera in four acts, composed by Giacomo Puccini between 1893 and 1895 to an Italian libretto by Luigi Illica and Giuseppe Giacosa, based on Scènes de la vie de bohème (1851) by Henri Murger. The story is set in Paris around 1830 and shows the Bohemian lifestyle (known in French as \"la bohème\") of a poor seamstress and her artist friends.\nThe world premiere of La bohème was on 1 February 1896 at the Teatro Regio in Turin, conducted by the 28-year-old Arturo Toscanini. Since then, La bohème has become part of the standard Italian opera repertory and is one of the most frequently performed operas worldwide.\nIn 1946, 50 years after the opera's premiere, Toscanini conducted a commemorative performance of it on radio with the NBC Symphony Orchestra. A recording of the performance was later released by RCA Victor on vinyl record, tape and compact disc. It is the only recording ever made of a Puccini opera by its original conductor.",
+        "source_url": "https://en.wikipedia.org/wiki/La_boh%C3%A8me",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "local-hero": {
+      "slug": "local-hero",
+      "title": "Local Hero",
+      "qid": "Q55621133",
+      "enwiki": "Local Hero (musical)",
+      "composers": [
+        {
+          "name": "Mark Knopfler",
+          "qid": "Q185343"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Mark Knopfler",
+          "qid": "Q185343"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": "2019-03-23",
+        "venue": "Royal Lyceum Theatre"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Local_Hero_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q55621133"
+      },
+      "summary": {
+        "text": "Local Hero is a musical with music and lyrics by Mark Knopfler, and a book by Bill Forsyth and David Greig. The musical is based on the 1983 film of the same name, written by Bill Forsyth. It tells the story of an American oil company representative who is sent to the fictional village of Furness on the west coast of Scotland to purchase the town and surrounding property for his company. The musical made its world premiere at the Royal Lyceum Theatre in Edinburgh in March 2019.",
+        "source_url": "https://en.wikipedia.org/wiki/Local_Hero_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "mikrovion": {
+      "slug": "mikrovion",
+      "title": "Mikrovion",
+      "qid": "Q6850225",
+      "enwiki": "Mikrovion",
+      "composers": [
+        {
+          "name": "Constantine Koukias",
+          "qid": "Q5163824"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": "Hobart"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Mikrovion",
+        "wikidata": "https://www.wikidata.org/wiki/Q6850225"
+      },
+      "summary": {
+        "text": "MIKROVION, by Constantine Koukias a Tasmanian composer and opera director of Greek ancestry based in Amsterdam, where he is known by his Greek name of Konstantin Koukias. This opera is described by Maria Shevtsova as \"an epic opera about AIDS\".\nThe three-hour opera is in five parts and its 1994 premiere in Hobart, Tasmania, featured 16 principal performers, 7 musicians, 20 men and women in the vocal choruses, a semaphore chorus of 11 high school students as \"the voice of God\", a creative team of 11 and a production team of 24.\nDescribed by one writer as a \"microscopic epic\", MIKROVION takes its title from the classical Greek for \"small life\" - in this case HIV.\nThe 1994 production by IHOS Music Theatre and Opera included matinee workshops for students that provided an insight into production techniques and information on the disease. In this regard, the opera had both an artistic and an educative ambition: it sought to develop a broad social context for HIV AIDS research while also examining the microscopic world of the virus in relation to technology and perceptions of the body and illness. Its stated aim was \"to collapse and re-figure distinctions between such traditionally disparate realms of cultural, political, scientific, moral and psychological concerns towards a broader and more inclusive understanding of the issues arising from the HIV AIDS phenomena\".\nThe artistic design by Ann Wulff included images of tears and semen - the \"fluids of love and intimacy\" -  such as an electron microscope photograph of a tear drop by Ian J. Kaplan. As Danielle Wood wrote at the time, \"Who would have thought that something as simple and human as a tear could hold such striking images within?\"\nIn addition to being sung in English, classical and modern Greek, German, Hebrew and Chinese, the composition draws on many forms of coded language, including semaphore, morse code and braille. The libretto, also by Koukias, is composed of fragments from biblical texts, the Torah, the I Ching, Plato, the Origin of the Species, counselling guides, scientific papers, magazines, newspapers and jazz lyrics. As related by journalist Matthew Westwood, \"Koukias compares the mutations of language with distortions triggered by the human immunodeficiency virus\".",
+        "source_url": "https://en.wikipedia.org/wiki/Mikrovion",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "moses-und-aron": {
+      "slug": "moses-und-aron",
+      "title": "Moses und Aron",
+      "qid": "Q1661920",
+      "enwiki": "Moses und Aron",
+      "composers": [
+        {
+          "name": "Arnold Schoenberg",
+          "qid": "Q154770",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/91752"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1954-03-12",
+        "venue": "Zürich Opera House"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Moses_und_Aron",
+        "wikidata": "https://www.wikidata.org/wiki/Q1661920"
+      },
+      "summary": {
+        "text": "Moses und Aron (English: Moses and Aaron) is a 1932 opera by Arnold Schoenberg, who wrote his own libretto, in German, based on selected incidents from the Book of Exodus (chapters 3-32). It is effectively in two 50-minute acts, comprising four scenes and five scenes respectively, the last ending with Moses' despair after a confrontation with his brother; critical opinion nearly unanimously finds this to be a satisfactory whole, dramatically and musically, and it is the form in which the work is usually performed. The composer did however at first plan a three-act opera, but he abandoned this idea in 1937 after writing the libretto for a tenth scene, without music. Accordingly the publisher, in 1957, after his death, titled the work an \"opera in three acts.\" In 2009 the Schoenberg heirs permitted Zoltán Kocsis to \"complete\" Act III by writing music for it; the result was an 18-minute scene, premiered in Budapest the following year.",
+        "source_url": "https://en.wikipedia.org/wiki/Moses_und_Aron",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "nancy-brown": {
+      "slug": "nancy-brown",
+      "title": "Nancy Brown",
+      "qid": "Q125186304",
+      "enwiki": "Nancy Brown (musical)",
+      "composers": [
+        {
+          "name": "Henry Kimball Hadley",
+          "qid": "Q707340",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6235"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Frederic Ranken",
+          "qid": "Q112429825",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5659"
+        },
+        {
+          "name": "George Broadhurst",
+          "qid": "Q3760447",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/24415"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Nancy_Brown_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q125186304"
+      },
+      "summary": {
+        "text": "Nancy Brown is a musical in two acts with music by Henry Kimball Hadley and both book and lyrics by George Broadhurst and Frederic Ranken. The musical also used several songs written by the African-American songwriting team of Robert Cole, J. Rosamond Johnson, and James Weldon Johnson. Set in the royal palace of the  fictional kingdom of Ballyhoo, the show was about the matchmaker Nancy Brown's attempt to wed the Ballyhooian royalty and nobility to eight wealthy American heiresses in order to save the financially bankrupt kingdom.",
+        "source_url": "https://en.wikipedia.org/wiki/Nancy_Brown_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "nord-ost": {
+      "slug": "nord-ost",
+      "title": "Nord-Ost",
+      "qid": "Q2747",
+      "enwiki": "Nord-Ost",
+      "composers": [
+        {
+          "name": "Georgy Leonardovich Vasilyev",
+          "qid": "Q4104588"
+        },
+        {
+          "name": "Aleksey Ivashchenko",
+          "qid": "Q4197092"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Georgy Leonardovich Vasilyev",
+          "qid": "Q4104588"
+        },
+        {
+          "name": "Aleksey Ivashchenko",
+          "qid": "Q4197092"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": "2001-10-19",
+        "venue": "Dubrovka Theatre"
+      },
+      "awards": [
+        {
+          "name": "Golden Mask",
+          "qid": "Q1271569"
+        }
+      ],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Nord-Ost",
+        "wikidata": "https://www.wikidata.org/wiki/Q2747"
+      },
+      "summary": {
+        "text": "Nord-Ost (Russian: Норд-Ост, means \"North-East\" in German) is a Russian musical theatre production that was composed by Aleksei Ivaschenko and Georgii Vasilyev, based on the novel The Two Captains by Veniamin Kaverin. It is a fictional story based around the historical events surrounding the discovery of the Severnaya Zemlya archipelago in 1913. The musical was first staged on October 19, 2001 in the Dubrovka theatre, where it played over 400 performances.\nThe play celebrates the Russian soldiers who fought in World War II.",
+        "source_url": "https://en.wikipedia.org/wiki/Nord-Ost",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "one-night-stand-opera": {
+      "slug": "one-night-stand-opera",
+      "title": "One Night Stand",
+      "qid": "Q7093052",
+      "enwiki": "One Night Stand (opera)",
+      "composers": [
+        {
+          "name": "Olli Kortekangas",
+          "qid": "Q7088300"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Michael Baran",
+          "qid": "Q11882361"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/One_Night_Stand_(opera)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7093052"
+      },
+      "summary": {
+        "text": "One Night Stand  Finnish: Yhden yön juttu) is a one-act opera by Finnish composer Olli Kortekangas and librettist Michael Baran. The work was composed from 2009-2010. \nIt was commissioned by the Sibelius Academy and premiered in the Helsinki Music Center in October 2011 for the program, \"OPERA, MASTER.\" In 2011, Kortekangas noted that the opera shared similarities with his previous opera, \"Daddy's Girl.\" \nKaryl Charna Lynn of Opera Now regarded the opera as \"a 21st century opera that speaks to a 21st century audience in its language and music.\"",
+        "source_url": "https://en.wikipedia.org/wiki/One_Night_Stand_(opera)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "proserpine-lully": {
+      "slug": "proserpine-lully",
+      "title": "Proserpine",
+      "qid": "Q2745696",
+      "enwiki": "Proserpine (Lully)",
+      "composers": [
+        {
+          "name": "Jean-Baptiste Lully",
+          "qid": "Q1192",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/113686"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Philippe Quinault",
+          "qid": "Q379947"
+        }
+      ],
+      "premiere": {
+        "date": "1680-02-03",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Proserpine_(Lully)",
+        "wikidata": "https://www.wikidata.org/wiki/Q2745696"
+      },
+      "summary": {
+        "text": "Proserpine (Proserpina) is an opera with music by Jean-Baptiste Lully and a libretto by Philippe Quinault first performed at Saint-Germain-en-Laye on 3 February 1680.",
+        "source_url": "https://en.wikipedia.org/wiki/Proserpine_(Lully)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "radamisto": {
+      "slug": "radamisto",
+      "title": "Radamisto",
+      "qid": "Q1713359",
+      "enwiki": "Radamisto (Handel)",
+      "composers": [
+        {
+          "name": "George Frideric Handel",
+          "qid": "Q7302",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/89505"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Nicola Francesco Haym",
+          "qid": "Q1986170"
+        }
+      ],
+      "premiere": {
+        "date": "1720-04-27",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Radamisto_(Handel)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1713359"
+      },
+      "summary": {
+        "text": "Radamisto  (HWV 12) is an opera seria in three acts by George Frideric Handel to an Italian libretto by Nicola Francesco Haym, based on L'amor tirannico, o Zenobia by Domenico Lalli and Zenobia by Matteo Noris. It was Handel's first opera for the Royal Academy of Music. The opera's plot is loosely based on the account of Rhadamistus in  Tacitus's Annals of Imperial Rome.",
+        "source_url": "https://en.wikipedia.org/wiki/Radamisto_(Handel)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "re-enzo": {
+      "slug": "re-enzo",
+      "title": "Re Enzo",
+      "qid": "Q16268690",
+      "enwiki": "Re Enzo (opera)",
+      "composers": [
+        {
+          "name": "Ottorino Respighi",
+          "qid": "Q243837"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Alberto Donini",
+          "qid": "Q21207882"
+        }
+      ],
+      "premiere": {
+        "date": "1905-03-12",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Re_Enzo_(opera)",
+        "wikidata": "https://www.wikidata.org/wiki/Q16268690"
+      },
+      "summary": {
+        "text": "Re Enzo (King Enzo) is an opera in three acts by Ottorino Respighi to a libretto by Alberto Donini (a student friend of Respighi). Re Enzo premiered on 12 March 1905 at the Teatro del Corso in Bologna. The singers were amateurs selected in the world of the Bolognese students; among them, Rosina Giovannoni Zacchi as Lauretta and Ernesto Lavarello as Leonzio. Following the will of the composer, there was a single performance, which obtained a good success.\nRe Enzo is organized as an operetta, with a succession of musical pieces and dialogues.\nIn modern times, Re Enzo was revived in September 2004 at the Teatro Comunale di Bologna, with Cristiano Cremonini (Re Enzo), Yoon Bin Jung (Lauretta), Filomena Pericoli (Isabella), Giuseppe di Paola (Podestà) and Maurizio Amadori (Gigione). The performance, conducted by Luigi Pagliarini, was presented as a collaboration between various institutions of the city of Bologna (Conservatory, Academy of Arts and University).",
+        "source_url": "https://en.wikipedia.org/wiki/Re_Enzo_(opera)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "rudolf": {
+      "slug": "rudolf",
+      "title": "Rudolf",
+      "qid": "Q681540",
+      "enwiki": "Rudolf (musical)",
+      "composers": [
+        {
+          "name": "Frank Wildhorn",
+          "qid": "Q1444457",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5638"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2006-05-26",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Rudolf_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q681540"
+      },
+      "summary": {
+        "text": "Rudolf is a musical conceived for the stage by Frank Wildhorn and Steve Cuden, with a book by Jack Murphy and Phoebe Hwang, lyrics by Murphy, additional lyrics by Nan Knighton, and music by Frank Wildhorn. Arrangements by Koen Schoots and orchestrations by Kim Scharnberg. It is about Rudolf, Crown Prince of Austria and his extramarital relationship with Baroness Mary Vetsera. Their 1889 deaths at his Mayerling hunting lodge apparently were the result of a murder-suicide pact, although historians have debated this explanation.\nLoosely based on the book A Nervous Splendor: Vienna 1888-1889 by Frederic Morton, the musical was developed under the working titles Vienna, Affäre Mayerling (The Mayerling Affair), and Rudolf - The Last Kiss. The pressures of the monarchy have fallen upon Rudolf's shoulders, he is in political and personal conflict with his father, Emperor Franz Joseph, and his marriage to Princess Stéphanie of Belgium is crumbling when he meets and falls in love with the 17-year-old baroness. Their secret liaison doesn't escape the attention of prime minister Eduard Taaffe, who hopes to use his knowledge of the affair to destroy Rudolf's political career.",
+        "source_url": "https://en.wikipedia.org/wiki/Rudolf_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "semiramis-destouches": {
+      "slug": "semiramis-destouches",
+      "title": "Sémiramis",
+      "qid": "Q16938064",
+      "enwiki": "Sémiramis (Destouches)",
+      "composers": [
+        {
+          "name": "André Cardinal Destouches",
+          "qid": "Q517636"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/S%C3%A9miramis_(Destouches)",
+        "wikidata": "https://www.wikidata.org/wiki/Q16938064"
+      },
+      "summary": {
+        "text": "Sémiramis is an opera by the French composer André Cardinal Destouches, first performed at the Académie Royale de Musique (the Paris Opera) on 4 December 1718. It takes the form of a tragédie en musique in a prologue and five acts. The libretto is by Pierre-Charles Roy.\nThe opera was very successful : the Regent's eldest daughter, the Duchesse de Berry, came to see Sémiramis on December 7 : as if she were a queen, the haughty princess sat on an armchair which was set on a platform in the amphitheater. A barrier placed in the middle of the amphitheater, separated her and the thirty ladies of her court from the rest of the audience. On March 20, 1719, Mme de Berry, soon to give birth, saw Sémiramis again, sitting in the amphitheater on an armchair with the Regent and one of her sisters, both next to her on chairs.",
+        "source_url": "https://en.wikipedia.org/wiki/S%C3%A9miramis_(Destouches)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "six": {
+      "slug": "six",
+      "title": "Six",
+      "qid": "Q60752083",
+      "enwiki": "Six (musical)",
+      "composers": [
+        {
+          "name": "Lucy Moss",
+          "qid": "Q67205843",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/523490"
+        },
+        {
+          "name": "Toby Marlow",
+          "qid": "Q7811844",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/523489"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Lucy Moss",
+          "qid": "Q67205843",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/523490"
+        },
+        {
+          "name": "Toby Marlow",
+          "qid": "Q7811844",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/523489"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Lucy Moss",
+          "qid": "Q67205843",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/523490"
+        },
+        {
+          "name": "Toby Marlow",
+          "qid": "Q7811844",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/523489"
+        }
+      ],
+      "premiere": {
+        "date": "2017",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/523484",
+        "official_site": "https://www.sixthemusical.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Six_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q60752083"
+      },
+      "summary": {
+        "text": "Six (stylised SIX in all caps) is a British musical with music, book, and lyrics by Toby Marlow and Lucy Moss. It is a modern retelling of the lives of the six wives of Henry VIII, presented in the form of a singing competition and pop concert. In the show, the wives take turns telling their stories to determine who suffered the most from their shared husband, but ultimately seek to reclaim their individual identities and rewrite their stories.\nThe musical premiered at the Edinburgh Festival Fringe in 2017, where it was performed by students from Cambridge University. Six premiered in the West End at the Arts Theatre in January 2019, and has since embarked on a UK tour. It premiered in North America in May 2019 and on Broadway in February 2020. Following a hiatus due to the COVID-19 pandemic, it officially opened at the Brooks Atkinson Theatre on 3 October 2021 and has since launched additional touring companies. \nA filmed stage production titled SIX The Musical Live!, featuring the original West End cast, was released in UK & Ireland cinemas by Universal Pictures on 6 April 2025. It was released in theaters in the US and Canada on 14 August 2026.",
+        "source_url": "https://en.wikipedia.org/wiki/Six_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-bassarids": {
+      "slug": "the-bassarids",
+      "title": "The Bassarids",
+      "qid": "Q844406",
+      "enwiki": "The Bassarids",
+      "composers": [
+        {
+          "name": "Hans Werner Henze",
+          "qid": "Q76915"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "W. H. Auden",
+          "qid": "Q178698",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8991"
+        },
+        {
+          "name": "Chester Kallman",
+          "qid": "Q5093626"
+        }
+      ],
+      "premiere": {
+        "date": "1966-08-06",
+        "venue": "Salzburg"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Bassarids",
+        "wikidata": "https://www.wikidata.org/wiki/Q844406"
+      },
+      "summary": {
+        "text": "The Bassarids (in German: Die Bassariden) is an opera in one act and an intermezzo, with music by Hans Werner Henze to an English libretto by W. H. Auden and Chester Kallman, after Euripides's The Bacchae.\nThe conflict in the opera is between human rationality and emotional control, represented by the King of Thebes, Pentheus, and unbridled human passion, represented by the god Dionysus.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Bassarids",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-bohemian-girl": {
+      "slug": "the-bohemian-girl",
+      "title": "The Bohemian Girl",
+      "qid": "Q3986042",
+      "enwiki": "The Bohemian Girl",
+      "composers": [
+        {
+          "name": "Michael William Balfe",
+          "qid": "Q434171",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/24437"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Alfred Bunn",
+          "qid": "Q4722386",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/119171"
+        },
+        {
+          "name": "Jules-Henri Vernoy de Saint-Georges",
+          "qid": "Q967704",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/463218"
+        }
+      ],
+      "premiere": {
+        "date": "1843-11-27",
+        "venue": "The Theatre Royal"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2134",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Bohemian_Girl",
+        "wikidata": "https://www.wikidata.org/wiki/Q3986042"
+      },
+      "summary": {
+        "text": "The Bohemian Girl is an English language Romantic opera composed by Michael William Balfe with a libretto by Alfred Bunn.  The plot is loosely based on a Miguel de Cervantes' tale, La gitanilla.\nThe best-known aria from the piece is \"I Dreamt I Dwelt in Marble Halls\" in which the main character, Arline, describes her vague memories of her childhood.  It has been recorded by many artists, most famously by Dame Joan Sutherland, and also by the Norwegian soprano Sissel Kyrkjebø and Irish singer Enya.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Bohemian_Girl",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-donkey-show": {
+      "slug": "the-donkey-show",
+      "title": "The Donkey Show",
+      "qid": "Q7730645",
+      "enwiki": "The Donkey Show (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Diane Paulus",
+          "qid": "Q5271541",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/482425"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Donkey_Show_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7730645"
+      },
+      "summary": {
+        "text": "The Donkey Show: A Midsummer Night's Disco is a theatrical adaptation of Shakespeare's A Midsummer Night's Dream.  The production, created in a disco-era style, was written by Diane Paulus and her husband Randy Weiner and the members of Project 400, Emily Hellstrom, Jordin Ruderman, Rachel Murdy and Anna Wilson. It first appeared Off-Broadway, opening August 18, 1999.  The show subsequently ran for six years including venues in England, Scotland, France and Spain. After a successful run at the Edinburgh Festival the Donkey Show came to London for an eight-month run in London’s West End (Hanover Grand). The London show was produced by David Babani and Graham Kentsley. Rob Goodmonson (NYC) played the part of the DJ in the UK production. In 2009, the show was revived by the American Repertory Theater in Cambridge, Massachusetts, for which Paulus is artistic director. The club/theater space used in Cambridge is called OBERON, after the king of the fairies in A Midsummer Night's Dream. The show ran in that space until September 2019.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Donkey_Show_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-fair-at-sorochyntsi": {
+      "slug": "the-fair-at-sorochyntsi",
+      "title": "The Fair at Sorochyntsi",
+      "qid": "Q471725",
+      "enwiki": "The Fair at Sorochyntsi",
+      "composers": [
+        {
+          "name": "Modest Petrovich Mussorgsky",
+          "qid": "Q132682",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/480522"
+        },
+        {
+          "name": "César Cui",
+          "qid": "Q208546"
+        },
+        {
+          "name": "Vissarion Shebalin",
+          "qid": "Q504286"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Modest Petrovich Mussorgsky",
+          "qid": "Q132682",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/480522"
+        },
+        {
+          "name": "Arseny Golenishchev-Kutuzov",
+          "qid": "Q4141439"
+        }
+      ],
+      "premiere": {
+        "date": "1917-10-26",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/9755",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Fair_at_Sorochyntsi",
+        "wikidata": "https://www.wikidata.org/wiki/Q471725"
+      },
+      "summary": {
+        "text": "The Fair at Sorochyntsi (Russian: Сорочинская ярмарка, Sorochinskaya yarmarka, Sorochyntsi Fair) is a comic opera in three acts by Modest Mussorgsky, composed between 1874 and 1880 in St. Petersburg, Russia. The composer wrote the libretto, which is based on Nikolai Gogol's short story of the same name, from his early (1832) collection of stories Evenings on a Farm near Dikanka. The opera remained unfinished and unperformed at Mussorgsky's death in 1881. Today, the completion by Vissarion Shebalin has become the standard.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Fair_at_Sorochyntsi",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-peony-pavilion": {
+      "slug": "the-peony-pavilion",
+      "title": "The Peony Pavilion",
+      "qid": "Q7165446",
+      "enwiki": "The Peony Pavilion (opera)",
+      "composers": [
+        {
+          "name": "Tan Dun",
+          "qid": "Q314176"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Peony_Pavilion_(opera)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7165446"
+      },
+      "summary": {
+        "text": "The Peony Pavilion is a 1998 production by Peter Sellars, in a mix of Chinese and English translation, of the Ming Dynasty play The Peony Pavilion.\nPart One is an avant-garde staging of the traditional Kunqu form of Chinese opera's staging of the play, which is how the play is usually performed in China. Part Two is a specially-composed two-hour opera by Tan Dun, mixing Chinese and western forms and instruments.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Peony_Pavilion_(opera)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-poisoned-kiss": {
+      "slug": "the-poisoned-kiss",
+      "title": "The Poisoned Kiss",
+      "qid": "Q4992431",
+      "enwiki": "The Poisoned Kiss",
+      "composers": [
+        {
+          "name": "Ralph Vaughan Williams",
+          "qid": "Q207947"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Evelyn Sharp",
+          "qid": "Q5416441"
+        }
+      ],
+      "premiere": {
+        "date": "1936-05-12",
+        "venue": "Cambridge Arts Theatre"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Poisoned_Kiss",
+        "wikidata": "https://www.wikidata.org/wiki/Q4992431"
+      },
+      "summary": {
+        "text": "The Poisoned Kiss, or The Empress and the Necromancer is an opera in three acts by the English composer Ralph Vaughan Williams. The libretto, by Evelyn Sharp, is based on Richard Garnett's The Poison Maid and Nathaniel Hawthorne's 1844 short story \"Rappaccini's Daughter.\"",
+        "source_url": "https://en.wikipedia.org/wiki/The_Poisoned_Kiss",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-queen-of-golconda": {
+      "slug": "the-queen-of-golconda",
+      "title": "The Queen of Golconda",
+      "qid": "Q7759012",
+      "enwiki": "The Queen of Golconda",
+      "composers": [
+        {
+          "name": "Franz Berwald",
+          "qid": "Q217044"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Queen_of_Golconda",
+        "wikidata": "https://www.wikidata.org/wiki/Q7759012"
+      },
+      "summary": {
+        "text": "Drottningen av Golconda (The Queen of Golconda) is a three-act romantic opera by Franz Berwald, begun in 1863. The libretto was adapted by the composer from one by Jean-Baptiste-Charles Vial and Edmond de Favières, Aline, reine de Golconde (1803), intended for Henri-Montan Berton; this had been based on another opera of the same name (1766) by Michel-Jean Sedaine for Pierre-Alexandre Monsigny. Berwald may have known the Berton opera from when he played in the opera orchestra in Stockholm. Boieldieu's 1804 opera of the same name and Donizetti's Alina, regina di Golconda (1828) are based on the same material.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Queen_of_Golconda",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "thespis": {
+      "slug": "thespis",
+      "title": "Thespis",
+      "qid": "Q972539",
+      "enwiki": "Thespis (opera)",
+      "composers": [
+        {
+          "name": "Arthur Sullivan",
+          "qid": "Q212692",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8692"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "W. S. Gilbert",
+          "qid": "Q348513",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5905"
+        }
+      ],
+      "premiere": {
+        "date": "1871-12-26",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Thespis_(opera)",
+        "wikidata": "https://www.wikidata.org/wiki/Q972539"
+      },
+      "summary": {
+        "text": "Thespis, or The Gods Grown Old, is an operatic extravaganza that was the first collaboration between dramatist W. S. Gilbert and composer Arthur Sullivan.  No musical score of Thespis was ever published, and most of the music has been lost. Gilbert and Sullivan went on to become the most famous and successful artistic partnership in Victorian England, creating a string of enduring comic opera hits, including H.M.S. Pinafore, The Pirates of Penzance and The Mikado.\nThespis premièred in London at the Gaiety Theatre on 26 December 1871. Like many productions at that theatre, it was written in a broad, burlesque style, considerably different from Gilbert and Sullivan's later works. It was a success, for a Christmas entertainment of the time, and closed on 8 March 1872, after a run of 63 performances. It was advertised as \"An entirely original Grotesque Opera in Two Acts\".\nThe story follows an acting troupe headed by Thespis, the legendary Greek father of the drama, who temporarily trade places with the gods on Mount Olympus, who have grown elderly and ignored. The actors turn out to be comically inept rulers. Having seen the ensuing mayhem down below, the angry gods return, sending the actors back to Earth as \"eminent tragedians, whom no one ever goes to see\". Gilbert would return to this theme twenty-five years later in his last opera with Sullivan, The Grand Duke, in which a theatre company temporarily replaces the ruler of a small country and decides to \"revive the classic memories of Athens at its best\".\nSeasonal works like Thespis were not normally expected to endure, and apart from a benefit performance shortly after the original staging, Thespis was not performed again during its creators' lifetimes.  A renewed interest in the piece began in the 1950s, and numerous productions have been performed since, either with music taken from Sullivan's other works, or with original music.",
+        "source_url": "https://en.wikipedia.org/wiki/Thespis_(opera)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "tickets-please": {
+      "slug": "tickets-please",
+      "title": "Tickets, Please!",
+      "qid": "Q7800677",
+      "enwiki": "Tickets, Please!",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8712",
+        "wikipedia": "https://en.wikipedia.org/wiki/Tickets%2C_Please!",
+        "wikidata": "https://www.wikidata.org/wiki/Q7800677"
+      },
+      "summary": {
+        "text": "Tickets, Please! is a musical revue.  It contains sketches by Sketches by Harry Herrmann, Edmund Rice, Jack Roche and Ted Luce, with music and lyrics by Lyn Duddy, Joan Edwards, Mel Tolkin, Lucille Kallen and Clay Warnick.  Incidental music is by Phil Ingalls and Harold Hastings.\nIt first played on Broadway at the Coronet Theatre from April 27, 1950 to November 4, 1950.  It then moved to the Mark Hellinger Theatre for a further three weeks, closing on November 27, 1950, for a total of 245 performances.  The production was directed by Mervyn Nelson and choreographed by Joan Mann.  It starred Grace Hartman and Paul Hartman and featured Jack Albertson, Roger Price and Tommy Wonder.\t It is also notable as the first Broadway credit of Larry Kert and Hal Prince (assistant stage manager).  Time magazine wrote that the piece \"is that always attractive idea, an intimate revue. Its stars are those always entertaining zanies, the Hartmans, who are in excellent form. The pity is that the rest of the show constitutes a sort of conspiracy against them.\"",
+        "source_url": "https://en.wikipedia.org/wiki/Tickets%2C_Please!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "wise-guy": {
+      "slug": "wise-guy",
+      "title": "Wise Guy",
+      "qid": "Q55637825",
+      "enwiki": "Wise Guy (musical)",
+      "composers": [
+        {
+          "name": "Irving Berlin",
+          "qid": "Q128746",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6452"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Wise_Guy_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q55637825"
+      },
+      "summary": {
+        "text": "Wise Guy, which had at different points the working titles (in approximate order) The Last Resorts, Palm Beach, The Mizner Story, and Sentimental Guy, is a musical whose music and lyrics were written by Irving Berlin between 1952 and 1956. It has never been produced.\nThe subject of the musical is Berlin's deceased friend, the famous Florida architect Addison Mizner, to a lesser extent Addison's younger brother and sometimes partner Wilson, and their friends and clients. Berlin had been an investor in Mizner's visionary but ultimately ruinous Boca Raton project, and there had been talk (but no serious plans) of Berlin setting up a nightclub in Boca Raton.",
+        "source_url": "https://en.wikipedia.org/wiki/Wise_Guy_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "woman-of-the-year": {
+      "slug": "woman-of-the-year",
+      "title": "Woman of the Year",
+      "qid": "Q8030743",
+      "enwiki": "Woman of the Year (musical)",
+      "composers": [
+        {
+          "name": "John Kander",
+          "qid": "Q1685876",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6837"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Fred Ebb",
+          "qid": "Q1274807",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5654"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Peter Stone",
+          "qid": "Q1718449",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8128"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/9448",
+        "wikipedia": "https://en.wikipedia.org/wiki/Woman_of_the_Year_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q8030743"
+      },
+      "summary": {
+        "text": "Woman of the Year is a musical with a book by Peter Stone and score by John Kander and Fred Ebb.\nBased on the Ring Lardner Jr.-Michael Kanin written, Katharine Hepburn and Spencer Tracy starring 1942 film, the musical changes the newspaper reporters of the original to television personality Tess Harding and cartoonist Sam Craig, who experience difficulty merging their careers with their marriage. The musical premiered on Broadway in 1981 and starred Lauren Bacall.",
+        "source_url": "https://en.wikipedia.org/wiki/Woman_of_the_Year_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "zum-gro-admiral": {
+      "slug": "zum-gro-admiral",
+      "title": "Zum Groß-Admiral",
+      "qid": "Q96213273",
+      "enwiki": "Zum Groß-Admiral",
+      "composers": [
+        {
+          "name": "Albert Lortzing",
+          "qid": "Q154203"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Albert Lortzing",
+          "qid": "Q154203"
+        }
+      ],
+      "premiere": {
+        "date": "1847-12-13",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Zum_Gro%C3%9F-Admiral",
+        "wikidata": "https://www.wikidata.org/wiki/Q96213273"
+      },
+      "summary": {
+        "text": "Zum Groß-Admiral (LoWV 74) is a comic opera in three acts by Albert Lortzing; it premiered on 13 December 1847 at the Altes Theater in Leipzig.",
+        "source_url": "https://en.wikipedia.org/wiki/Zum_Gro%C3%9F-Admiral",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

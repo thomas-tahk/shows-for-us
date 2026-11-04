@@ -1,27 +1,1278 @@
 {
   "shows": {
+    "a-theory-of-justice-the-musical": {
+      "slug": "a-theory-of-justice-the-musical",
+      "title": "A Theory of Justice: The Musical",
+      "qid": "Q17019046",
+      "enwiki": "A Theory of Justice: The Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Theory_of_Justice%3A_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q17019046"
+      },
+      "summary": {
+        "text": "A Theory of Justice: The Musical is a musical comedy by Eylon Levy, Ramin Sabi, Tommy Peto and Toby Huelin. Billed as a \"time-travelling romp through 2,500 years of political philosophy\", the musical tells a fictionalised account of the writing of A Theory of Justice (1971), the classic philosophical treatise by the American political philosopher John Rawls.\nThe musical premiered in Oxford's Keble O'Reilly Theatre in January 2013 and was revived for the Edinburgh Fringe Festival in August 2013, where it was nominated for four awards in the categories of Best Musical, Best Book, Best Music, and Best Lyrics. In 2018, a reworked version was presented for a rehearsed reading in London's West End. The official cast soundtrack was released in May 2019.\nThe musical follows John Rawls on a journey through time to gain inspiration for A Theory of Justice from a chorus of singing and dancing political philosophers, including Plato, Locke, Hobbes, Rousseau, Mill, Wollstonecraft, Marx and Kant. As he pursues his love interest, a beautiful student named Fairness, Rawls is menaced by villainous libertarian philosopher Robert Nozick and his lover Ayn Rand, who plot to stop Rawls writing his redistributionist theory of justice.\nThe real-life John Rawls' daughter Liz praised the musical as \"perfect\" and \"amazing and witty\" after watching the Edinburgh Fringe Festival production, saying it \"far surpassed any expectations\".",
+        "source_url": "https://en.wikipedia.org/wiki/A_Theory_of_Justice%3A_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "alceste-schweitzer": {
+      "slug": "alceste-schweitzer",
+      "title": "Alceste",
+      "qid": "Q2640248",
+      "enwiki": "Alceste (Schweitzer)",
+      "composers": [
+        {
+          "name": "Anton Schweitzer",
+          "qid": "Q128232"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Christoph Martin Wieland",
+          "qid": "Q154010"
+        }
+      ],
+      "premiere": {
+        "date": "1773-05-28",
+        "venue": "Nationaltheater Weimar"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Alceste_(Schweitzer)",
+        "wikidata": "https://www.wikidata.org/wiki/Q2640248"
+      },
+      "summary": {
+        "text": "Alceste is an opera in German in five acts by Anton Schweitzer with a libretto by Christoph Martin Wieland. It was commissioned by Abel Seyler for the Seylersche Schauspiel-Gesellschaft, and premiered on 28 May 1773 at the Hoftheater Weimar. Considered a milestone of German opera, it was revived in Weimar and recorded in 1999.",
+        "source_url": "https://en.wikipedia.org/wiki/Alceste_(Schweitzer)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "amazing-grace": {
+      "slug": "amazing-grace",
+      "title": "Amazing Grace",
+      "qid": "Q20708381",
+      "enwiki": "Amazing Grace (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/500419",
+        "wikipedia": "https://en.wikipedia.org/wiki/Amazing_Grace_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q20708381"
+      },
+      "summary": {
+        "text": "Amazing Grace is a musical with music and lyrics by Christopher Smith and a book by Smith and Arthur Giron. The musical is Smith's first foray as a professional writer or composer. It is based loosely on the life of John Newton, an English slave trader who later became an Anglican priest and eventually an abolitionist. He wrote many hymns, including \"Amazing Grace\".\nThe musical had a 2012 production by Goodspeed Musicals in Connecticut and a pre-Broadway run in Chicago in 2014. It opened on Broadway on July 16, 2015, and closed on October 25, 2015.",
+        "source_url": "https://en.wikipedia.org/wiki/Amazing_Grace_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "bats": {
+      "slug": "bats",
+      "title": "Bats",
+      "qid": "Q4869620",
+      "enwiki": "Bats (musical)",
+      "composers": [
+        {
+          "name": "Ian Dorricott",
+          "qid": "Q5981428"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Bats_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4869620"
+      },
+      "summary": {
+        "text": "Ian J. Dorricott (born 1949 in Brisbane, Australia) is an Australian composer for school music texts and stage musicals.\nDorricott attended West Bundaberg State School, Bundaberg State High School and the University of Queensland. He earned a B. A. (Hons.)/B. Music and A. Music from the University of Queensland in 1971. His teaching experience includes Yeronga High School, Brisbane Girls Grammar School and St Joseph's College, Gregory Terrace.",
+        "source_url": "https://en.wikipedia.org/wiki/Bats_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "castore-e-polluce": {
+      "slug": "castore-e-polluce",
+      "title": "Castore e Polluce",
+      "qid": "Q5050703",
+      "enwiki": "Castore e Polluce",
+      "composers": [
+        {
+          "name": "Francesco Bianchi",
+          "qid": "Q934712"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Carlo Innocenzo Frugoni",
+          "qid": "Q2259161"
+        }
+      ],
+      "premiere": {
+        "date": "1779-09-10",
+        "venue": "Teatro della Pergola"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Castore_e_Polluce",
+        "wikidata": "https://www.wikidata.org/wiki/Q5050703"
+      },
+      "summary": {
+        "text": "Castore e Polluce (Castor and Pollux) is an opera seria by Francesco Bianchi. The libretto was adapted by Carlo Innocenzo Frugoni from Pierre-Joseph Bernard's French text for Rameau's Castor et Pollux.\nThe opera is a \"Franco-Italian\" fusion typical of \"reform\" operas in Italy at the time. The mythological subject matter, Castor and Pollux, and avoidance of vocal coloratura are notable signs of this. In addition to these French traits, as Marita P. McClymonds has explained, \"Castore contains all the elements that had been purged from Italian serious opera before the turn of the century: gods appearing in machines, miraculous scene changes, arias without exit, much use of chorus, and an infernal scene in the underworld with dancing.\"",
+        "source_url": "https://en.wikipedia.org/wiki/Castore_e_Polluce",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "chu-chem": {
+      "slug": "chu-chem",
+      "title": "Chu Chem",
+      "qid": "Q5115121",
+      "enwiki": "Chu Chem",
+      "composers": [
+        {
+          "name": "Mitch Leigh",
+          "qid": "Q1939469",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12043"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Jim Haines",
+          "qid": "Q21104205"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Ted Allen",
+          "qid": "Q517270"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2585",
+        "wikipedia": "https://en.wikipedia.org/wiki/Chu_Chem",
+        "wikidata": "https://www.wikidata.org/wiki/Q5115121"
+      },
+      "summary": {
+        "text": "Chu Chem is a musical with a book by Ted Allen, lyrics by Jim Haines and Jack Wohl, and music by Mitch Leigh.",
+        "source_url": "https://en.wikipedia.org/wiki/Chu_Chem",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "cilla-the-musical": {
+      "slug": "cilla-the-musical",
+      "title": "Cilla The Musical",
+      "qid": "Q96418124",
+      "enwiki": "Cilla The Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Cilla_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q96418124"
+      },
+      "summary": {
+        "text": "Cilla The Musical is a jukebox musical written by Jeff Pope based on the early career and music of Cilla Black and Pope's 2014 ITV drama biopic of the same name.",
+        "source_url": "https://en.wikipedia.org/wiki/Cilla_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "das-madchen-mit-den-schwefelholzern": {
+      "slug": "das-madchen-mit-den-schwefelholzern",
+      "title": "Das Mädchen mit den Schwefelhölzern",
+      "qid": "Q79330148",
+      "enwiki": "Das Mädchen mit den Schwefelhölzern",
+      "composers": [
+        {
+          "name": "Helmut Lachenmann",
+          "qid": "Q549442"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1997-01-26",
+        "venue": "Hamburg State Opera"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Das_M%C3%A4dchen_mit_den_Schwefelh%C3%B6lzern",
+        "wikidata": "https://www.wikidata.org/wiki/Q79330148"
+      },
+      "summary": {
+        "text": "Das Mädchen mit den Schwefelhölzern (The girl with the matches), subtitled Musik mit Bildern (Music with images) is an opera in two parts by Helmut Lachenmann. He also wrote the libretto based on Andersen's fairy tale \"The Little Match Girl\", and added texts by Leonardo da Vinci, Gudrun Ensslin, Ernst Toller and Friedrich Nietzsche. It was premiered at the Hamburg State Opera on 26 January 1997.",
+        "source_url": "https://en.wikipedia.org/wiki/Das_M%C3%A4dchen_mit_den_Schwefelh%C3%B6lzern",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "dragaredokko": {
+      "slug": "dragaredokko",
+      "title": "Dragaredokko",
+      "qid": "Q5304944",
+      "enwiki": "Dragaredokko",
+      "composers": [
+        {
+          "name": "Geirr Tveitt",
+          "qid": "Q727821"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Dragaredokko",
+        "wikidata": "https://www.wikidata.org/wiki/Q5304944"
+      },
+      "summary": {
+        "text": "Dragaredokko is the name of an opera by the Norwegian composer Geirr Tveitt, performed in 1940. The entire score was destroyed in a fire in 1970, but an incomplete piano transcription still exists in the National Library of Norway.",
+        "source_url": "https://en.wikipedia.org/wiki/Dragaredokko",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "enigma-variations": {
+      "slug": "enigma-variations",
+      "title": "Enigma Variations",
+      "qid": "Q16835558",
+      "enwiki": "Enigma Variations (ballet)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Enigma_Variations_(ballet)",
+        "wikidata": "https://www.wikidata.org/wiki/Q16835558"
+      },
+      "summary": {
+        "text": "Enigma Variations (My Friends Pictured Within) is a one-act ballet by Frederick Ashton, to the music of the Variations on an Original Theme (Enigma Variations), Op. 36, by Edward Elgar. The work was first given by the Royal Ballet at the Royal Opera House, Covent Garden, London, on 25 October 1968. It has been revived in every subsequent decade.",
+        "source_url": "https://en.wikipedia.org/wiki/Enigma_Variations_(ballet)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "erismena": {
+      "slug": "erismena",
+      "title": "Erismena",
+      "qid": "Q4689683",
+      "enwiki": "Erismena",
+      "composers": [
+        {
+          "name": "Francesco Cavalli",
+          "qid": "Q108062"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Aurelio Aureli",
+          "qid": "Q775525"
+        }
+      ],
+      "premiere": {
+        "date": "1655-12-30",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Erismena",
+        "wikidata": "https://www.wikidata.org/wiki/Q4689683"
+      },
+      "summary": {
+        "text": "Erismena is an opera in a prologue and three acts by Francesco Cavalli. First performed in Venice in 1655, it was designated as a dramma per musica.",
+        "source_url": "https://en.wikipedia.org/wiki/Erismena",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "etudes": {
+      "slug": "etudes",
+      "title": "Études",
+      "qid": "Q8078524",
+      "enwiki": "Études (ballet)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/%C3%89tudes_(ballet)",
+        "wikidata": "https://www.wikidata.org/wiki/Q8078524"
+      },
+      "summary": {
+        "text": "Études is a one-act ballet choreographed by Danish dancer and choreographer Harald Lander to piano studies by Carl Czerny arranged for orchestra by Knudåge Riisager. It is considered Lander's most famous choreographic work and brought him international fame. The work premiered on 15 January 1948 at the Royal Danish Theatre in Copenhagen with the Royal Danish Ballet, with scenery and costumes by Rolf Gerard and lighting by Nananne Porcher.\nÉtudes is considered an homage to classical ballet training. It begins with traditional ballet exercises at the barre and ends with spectacular bravura displays.\nThe original cast included:  Margot Lander, Hans Brenaa, Svend Erik Jensen, Inge Sand and Inge Goth. Its ABT premiere at the 54th Street Theatre in New York took place on 5 October 1961 and featured dancers Toni Lander, Royes Fernandez, Bruce Marks, Eleanor D'Antuono and Elisabeth Carroll.",
+        "source_url": "https://en.wikipedia.org/wiki/%C3%89tudes_(ballet)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "fiesque": {
+      "slug": "fiesque",
+      "title": "Fiesque",
+      "qid": "Q5447302",
+      "enwiki": "Fiesque",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Charles Beauquier",
+          "qid": "Q2958509"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Fiesque",
+        "wikidata": "https://www.wikidata.org/wiki/Q5447302"
+      },
+      "summary": {
+        "text": "Fiesque (The Genoese Conspiracy) is an opera in three acts by the French composer Édouard Lalo.  The libretto, by Charles Beauquier, is based on Schiller's 1784 play, Die Verschwörung des Fiesco zu Genua, an account of the conspiracy in 1547 led by Giovanni Luigi Fieschi against the ruling Doria family. Although completed in 1868, it was not staged until 16 June 2007 when it premiered at the Nationaltheater in Mannheim.",
+        "source_url": "https://en.wikipedia.org/wiki/Fiesque",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "hit-list": {
+      "slug": "hit-list",
+      "title": "Hit List",
+      "qid": "Q16995592",
+      "enwiki": "Hit List (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Hit_List_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q16995592"
+      },
+      "summary": {
+        "text": "Hit List is an American musical with music and lyrics by Marc Shaiman, Scott Wittman, Drew Gasparini, Joe Iconis, Andrew McMahon, Benj Pasek & Justin Paul, and Lucie Silvas and a book by Julia Brownell, based on the original fictitious musical from the second season of the NBC television series Smash.\nWithin the television series Hit List is created by characters Jimmy Collins (Jeremy Jordan) and Kyle Bishop (Andy Mientus). Hit List centers around three characters, Amanda, Jesse and \"The Diva\", as they seek to attain and hold onto fame. Amanda is portrayed by Karen Cartwright (Katharine McPhee), Jesse by Jimmy Collins and The Diva by Ana Vargas (Krysta Rodriguez).\nOn October 15, 2013, New York City venue 54 Below announced plans to stage Hit List in concert format. Jordan, Mientus and Rodriguez each appeared, with Carrie Manolakos standing in for McPhee. The musical's original concert production opened on December 8, 2013 and closed December 9, 2013 after 3 regular performances.",
+        "source_url": "https://en.wikipedia.org/wiki/Hit_List_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "holger-danske": {
+      "slug": "holger-danske",
+      "title": "Holger Danske",
+      "qid": "Q1762793",
+      "enwiki": "Holger Danske (opera)",
+      "composers": [
+        {
+          "name": "F.L.Æ. Kunzen",
+          "qid": "Q643734"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Holger_Danske_(opera)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1762793"
+      },
+      "summary": {
+        "text": "Holger Danske (lit. Ogier the Dane) is the title of a 1789 Syngespil opera based on the Oberon myth, with music by F.L.Æ. Kunzen and a Danish libretto by Jens Baggesen.",
+        "source_url": "https://en.wikipedia.org/wiki/Holger_Danske_(opera)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "il-ruggiero": {
+      "slug": "il-ruggiero",
+      "title": "Il Ruggiero",
+      "qid": "Q79442736",
+      "enwiki": "Il Ruggiero",
+      "composers": [
+        {
+          "name": "Johann Adolf Hasse",
+          "qid": "Q164732"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Pietro Metastasio",
+          "qid": "Q29473"
+        }
+      ],
+      "premiere": {
+        "date": "1771-10-06",
+        "venue": "Teatro Regio Ducal"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Il_Ruggiero",
+        "wikidata": "https://www.wikidata.org/wiki/Q79442736"
+      },
+      "summary": {
+        "text": "Il Ruggiero (full name: Il Ruggiero ovvero L'eroica gratitudine) is an opera in three acts composed by Johann Adolph Hasse to a libretto by Pietro Metastasio. It was first staged on 16 October 1771 for the wedding of Archduke Ferdinand Karl with Maria Beatrice d'Este in the Teatro Regio Ducale, Milan. It was both Metastasio's last libretto and Hasse's last opera, as well as the thirty-second Metastasio libretto Hasse had set to music.",
+        "source_url": "https://en.wikipedia.org/wiki/Il_Ruggiero",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "immediate-tragedy": {
+      "slug": "immediate-tragedy",
+      "title": "Immediate Tragedy",
+      "qid": "Q24964333",
+      "enwiki": "Immediate Tragedy",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Immediate_Tragedy",
+        "wikidata": "https://www.wikidata.org/wiki/Q24964333"
+      },
+      "summary": {
+        "text": "Immediate Tragedy, sometimes subtitled Dance of Dedication, was a modern dance solo choreographed by Martha Graham to the music of Henry Cowell. It premiered on July 30, 1937, at the Bennington School of the Dance in Bennington, Vermont. The piece was created in response to the Spanish Civil War and rising fascism as Francisco Franco gained control of the country.",
+        "source_url": "https://en.wikipedia.org/wiki/Immediate_Tragedy",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "innocence": {
+      "slug": "innocence",
+      "title": "Innocence",
+      "qid": "Q110702909",
+      "enwiki": "Innocence (opera)",
+      "composers": [
+        {
+          "name": "Kaija Saariaho",
+          "qid": "Q241432"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Sofi Oksanen",
+          "qid": "Q233953"
+        },
+        {
+          "name": "Aleksi Barrière",
+          "qid": "Q63093339"
+        }
+      ],
+      "premiere": {
+        "date": "2021-07-03",
+        "venue": "Grand Théâtre de Provence"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Innocence_(opera)",
+        "wikidata": "https://www.wikidata.org/wiki/Q110702909"
+      },
+      "summary": {
+        "text": "Innocence is an opera in five acts by the Finnish composer Kaija Saariaho. The libretto was written in Finnish by Sofi Oksanen and translated/adapted by Aleksi Barrière.\nThe opera was co-commissioned by the Aix-en-Provence Festival, the Dutch National Opera, the Finnish National Opera, and the San Francisco Opera. It received its world premiere on 3 July 2021 at the Aix-en-Provence Festival, conducted by Susanna Mälkki and directed by Simon Stone.\nThe opera tells the intertwined stories of a wedding in 2000s Helsinki and a school shooting ten years earlier, and has been described as a thriller.",
+        "source_url": "https://en.wikipedia.org/wiki/Innocence_(opera)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "irrelohe": {
+      "slug": "irrelohe",
+      "title": "Irrelohe",
+      "qid": "Q1266208",
+      "enwiki": "Irrelohe",
+      "composers": [
+        {
+          "name": "Franz Schreker",
+          "qid": "Q78528"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Franz Schreker",
+          "qid": "Q78528"
+        }
+      ],
+      "premiere": {
+        "date": "1924-03-27",
+        "venue": "Cologne Opera"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Irrelohe",
+        "wikidata": "https://www.wikidata.org/wiki/Q1266208"
+      },
+      "summary": {
+        "text": "Irrelohe is an opera in three acts by the Austrian composer Franz Schreker, libretto by the composer.",
+        "source_url": "https://en.wikipedia.org/wiki/Irrelohe",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "l-enfant-roi": {
+      "slug": "l-enfant-roi",
+      "title": "L'Enfant roi",
+      "qid": "Q48724573",
+      "enwiki": "L'Enfant roi",
+      "composers": [
+        {
+          "name": "Alfred Bruneau",
+          "qid": "Q933351"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Émile Zola",
+          "qid": "Q504",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11239"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/L'Enfant_roi",
+        "wikidata": "https://www.wikidata.org/wiki/Q48724573"
+      },
+      "summary": {
+        "text": "L'Enfant roi is a 1905 opera by Alfred Bruneau to a libretto by Émile Zola.",
+        "source_url": "https://en.wikipedia.org/wiki/L'Enfant_roi",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "l-hotellerie-portugaise": {
+      "slug": "l-hotellerie-portugaise",
+      "title": "L'hôtellerie portugaise",
+      "qid": "Q6455951",
+      "enwiki": "L'hôtellerie portugaise",
+      "composers": [
+        {
+          "name": "Luigi Cherubini",
+          "qid": "Q20721"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1798-07-25",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/L'h%C3%B4tellerie_portugaise",
+        "wikidata": "https://www.wikidata.org/wiki/Q6455951"
+      },
+      "summary": {
+        "text": "L'Hôtellerie portugaise is an opéra comique in 1 act by Luigi Cherubini. The opera uses a French language libretto by Étienne Aignan. The work premiered on 25 July 1798 in Paris at the Théâtre Feydeau.",
+        "source_url": "https://en.wikipedia.org/wiki/L'h%C3%B4tellerie_portugaise",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "la-permission-de-dix-heures": {
+      "slug": "la-permission-de-dix-heures",
+      "title": "La permission de dix heures",
+      "qid": "Q6466318",
+      "enwiki": "La permission de dix heures",
+      "composers": [
+        {
+          "name": "Jacques Offenbach",
+          "qid": "Q41555",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7941"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Mélesville",
+          "qid": "Q2660806"
+        },
+        {
+          "name": "Pierre Carmouche",
+          "qid": "Q3384294"
+        }
+      ],
+      "premiere": {
+        "date": "1867-07-09",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/La_permission_de_dix_heures",
+        "wikidata": "https://www.wikidata.org/wiki/Q6466318"
+      },
+      "summary": {
+        "text": "La permission de dix heures is an opéra comique in one act, composed in 1867 by Jacques Offenbach. The French libretto, by Mélesville and Pierre Carmouche, was arranged by Nuitter with the agreement of Carmouche from the comédie-vaudeville by the same authors, first performed at the Théâtre du Palais-Royal on 17 April 1841. Offenbach's opéra comique premiered in Bad Ems, Germany, and had a Paris production but did not enter the repertoire.",
+        "source_url": "https://en.wikipedia.org/wiki/La_permission_de_dix_heures",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "le-droit-d-ainesse": {
+      "slug": "le-droit-d-ainesse",
+      "title": "Le droit d'aînesse",
+      "qid": "Q6508005",
+      "enwiki": "Le droit d'aînesse",
+      "composers": [
+        {
+          "name": "Francis Chassaigne",
+          "qid": "Q5480502"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Albert Vanloo",
+          "qid": "Q2831622",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3861"
+        },
+        {
+          "name": "Eugène Leterrier",
+          "qid": "Q3059998",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/409613"
+        }
+      ],
+      "premiere": {
+        "date": "1883-01-27",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Le_droit_d'a%C3%AEnesse",
+        "wikidata": "https://www.wikidata.org/wiki/Q6508005"
+      },
+      "summary": {
+        "text": "Le droit d'aînesse (French pronunciation: [lə dʁwa dɛnɛs], \"The Birthright\") is an opéra bouffe, a form of operetta, in three acts by Francis Chassaigne with a French libretto by Eugène Leterrier and Albert Vanloo. The story concerns an arranged marriage intended to make a governor's heir, his nephew, an aristocrat. Through a series of mishaps that place the governor's nephew and his niece each in danger, the niece, Falka, becomes the noble heir. The opera premiered in Paris in 1883. An English-language version titled Falka (after the name of the principal female character), with a libretto translated and adapted by Henry Brougham Farnie, was successfully premiered in London later that year followed by productions throughout the English-speaking world.",
+        "source_url": "https://en.wikipedia.org/wiki/Le_droit_d'a%C3%AEnesse",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "le-spectre-de-la-rose": {
+      "slug": "le-spectre-de-la-rose",
+      "title": "Le Spectre de la rose",
+      "qid": "Q1529152",
+      "enwiki": "Le Spectre de la rose",
+      "composers": [
+        {
+          "name": "Carl Maria von Weber",
+          "qid": "Q154812",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/118643"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Jean-Louis Vaudoyer",
+          "qid": "Q3167016"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Le_Spectre_de_la_rose",
+        "wikidata": "https://www.wikidata.org/wiki/Q1529152"
+      },
+      "summary": {
+        "text": "Le Spectre de la rose (The Spirit of the Rose) is a short ballet about a young girl who dreams of dancing with the spirit of a souvenir rose from her first ball. The ballet was written by Jean-Louis Vaudoyer who based the story on a verse by Théophile Gautier and used the music of Carl Maria von Weber's piano piece Aufforderung zum Tanz (Invitation to the Dance) as orchestrated by Hector Berlioz.\nThe ballet premiered in Monte Carlo on 19 April 1911, produced by the Ballets Russes ballet company.  Michel Fokine was the choreographer and Léon Bakst designed the original Biedermeier sets and costumes. Nijinsky danced The Rose and Tamara Karsavina danced the Young Girl. It was a great success. Spectre became internationally famous for the spectacular leap Nijinsky made through a window at the ballet's end.",
+        "source_url": "https://en.wikipedia.org/wiki/Le_Spectre_de_la_rose",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "les-noces-de-jeannette": {
+      "slug": "les-noces-de-jeannette",
+      "title": "Les noces de Jeannette",
+      "qid": "Q3076437",
+      "enwiki": "Les noces de Jeannette",
+      "composers": [
+        {
+          "name": "Victor Massé",
+          "qid": "Q1382004",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/412404"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Jules Barbier",
+          "qid": "Q548181",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/393326"
+        },
+        {
+          "name": "Michel Carré",
+          "qid": "Q602493",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/424954"
+        }
+      ],
+      "premiere": {
+        "date": "1853-02-04",
+        "venue": "Opéra-Comique"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/424940",
+        "wikipedia": "https://en.wikipedia.org/wiki/Les_noces_de_Jeannette",
+        "wikidata": "https://www.wikidata.org/wiki/Q3076437"
+      },
+      "summary": {
+        "text": "Les noces de Jeannette (French pronunciation: [le nɔs də ʒanɛt], Jeannette's Wedding) is an opéra comique in one act by Victor Massé to a libretto by Jules Barbier and Michel Carré. It had its premiere in Paris in the Salle Favart at the Opéra-Comique, 4 February 1853.",
+        "source_url": "https://en.wikipedia.org/wiki/Les_noces_de_Jeannette",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "make-it-snappy": {
+      "slug": "make-it-snappy",
+      "title": "Make It Snappy",
+      "qid": "Q17089509",
+      "enwiki": "Make It Snappy",
+      "composers": [
+        {
+          "name": "William B. Friedlander",
+          "qid": "Q16981477",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/14833"
+        },
+        {
+          "name": "Jean Schwartz",
+          "qid": "Q6171492",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12374"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Alfred Bryan",
+          "qid": "Q1273339",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12786"
+        },
+        {
+          "name": "William B. Friedlander",
+          "qid": "Q16981477",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/14833"
+        },
+        {
+          "name": "Harold R. Atteridge",
+          "qid": "Q5662077",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/24428"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Eddie Cantor",
+          "qid": "Q350472",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5198"
+        },
+        {
+          "name": "Harold R. Atteridge",
+          "qid": "Q5662077",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/24428"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": "Winter Garden Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/10484",
+        "wikipedia": "https://en.wikipedia.org/wiki/Make_It_Snappy",
+        "wikidata": "https://www.wikidata.org/wiki/Q17089509"
+      },
+      "summary": {
+        "text": "Make It Snappy was a musical revue that ran for 96 performances at the  Winter Garden Theatre in the 1922–23 Broadway season. It ran from 13 April to 1 July 1922.\nIt starred Eddie Cantor, who introduced the hit songs \"Yes! We Have No Bananas\" and \"The Sheik of Araby\".",
+        "source_url": "https://en.wikipedia.org/wiki/Make_It_Snappy",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "marco-visconti": {
+      "slug": "marco-visconti",
+      "title": "Marco Visconti",
+      "qid": "Q140530502",
+      "enwiki": "Marco Visconti (opera)",
+      "composers": [
+        {
+          "name": "Errico Petrella",
+          "qid": "Q555720"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Domenico Bolognese",
+          "qid": "Q3712922"
+        }
+      ],
+      "premiere": {
+        "date": "1852-02-09",
+        "venue": "Teatro di San Carlo"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Marco_Visconti_(opera)",
+        "wikidata": "https://www.wikidata.org/wiki/Q140530502"
+      },
+      "summary": {
+        "text": "Marco Visconti, is an opera in 3 acts by Italian composer Errico Petrella with a libretto by Domenico Bolognese based on the 1834 novel of the same name by Tommaso Grossi. It premiered in 1854 at the Teatro di San Carlo in Naples and was met with unanimous praise.",
+        "source_url": "https://en.wikipedia.org/wiki/Marco_Visconti_(opera)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "michael-todd-s-peep-show": {
+      "slug": "michael-todd-s-peep-show",
+      "title": "Michael Todd's Peep Show",
+      "qid": "Q16981959",
+      "enwiki": "Michael Todd's Peep Show",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/10675",
+        "wikipedia": "https://en.wikipedia.org/wiki/Michael_Todd's_Peep_Show",
+        "wikidata": "https://www.wikidata.org/wiki/Q16981959"
+      },
+      "summary": {
+        "text": "Michael Todd's Peep Show was a 1950 American musical revue produced by Mike Todd, with music by, among others, Jule Styne, Raymond Scott and Bhumibol Adulyadej, the King of Thailand. The book was by comedian Bobby Clark, who did not perform in the show. Peep Show, which opened at Broadway's Winter Garden Theatre on 28 June 1950, was a success, closing on 25 February 1951 after 278 performances. The production was choreographed by James Starbuck.\nAfter the opening performances of Peep Show, the New York City Commissioner of Licenses called a meeting with Todd which led to changes in how the women were presented. In Art Cohn's posthumous biography of Todd, The Nine Lives of Mike Todd, it is revealed that the naked girls featured in the show's mermaid sequence had difficulty getting the blue dye used in the water, out of their pubic hair. \nCritic George Jean Nathan wrote that Peep Show emphasized \"sex, ferociously\".",
+        "source_url": "https://en.wikipedia.org/wiki/Michael_Todd's_Peep_Show",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "mozart-comedie-musicale": {
+      "slug": "mozart-comedie-musicale",
+      "title": "Mozart",
+      "qid": "Q3327043",
+      "enwiki": "Mozart (comédie musicale)",
+      "composers": [
+        {
+          "name": "Reynaldo Hahn",
+          "qid": "Q432938",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11805"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Sacha Guitry",
+          "qid": "Q337276",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8565"
+        }
+      ],
+      "premiere": {
+        "date": "1925-12-02",
+        "venue": "Théâtre Édouard VII"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Mozart_(com%C3%A9die_musicale)",
+        "wikidata": "https://www.wikidata.org/wiki/Q3327043"
+      },
+      "summary": {
+        "text": "Mozart is a comédie musicale in three acts with music by Reynaldo Hahn and words by Sacha Guitry, a pastiche of the composer's early works to fit beside arias written for Yvonne Printemps (playing the title role as a breeches role). The story concerns the fictional adventures of Mozart on a visit to the French capital.\nAfter the success of L'amour masqué, Sacha Guitry wanted to collaborate again with Messager, but the older composer declined. Guitry wrote to Hahn, on holiday in Cannes, who seized the opportunity with great joy, and the collaboration was excellent.\nIt was first performed at the Théâtre Édouard VII in Paris on 2 December 1925.",
+        "source_url": "https://en.wikipedia.org/wiki/Mozart_(com%C3%A9die_musicale)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "mrika": {
+      "slug": "mrika",
+      "title": "Mrika",
+      "qid": "Q3304328",
+      "enwiki": "Mrika",
+      "composers": [
+        {
+          "name": "Prenkë Jakova",
+          "qid": "Q899056"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Llazar Siliqi",
+          "qid": "Q6661947"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Mrika",
+        "wikidata": "https://www.wikidata.org/wiki/Q3304328"
+      },
+      "summary": {
+        "text": "Mrika (Maria) is an opera in three acts composed by Prenkë Jakova with a libretto in Albanian by Llazar Siliqi. It premiered (in a four-act version) in  Shkoder, Albania in 1958 at the Migjeni Theatre. The revised three-act version (and the one used today) premiered in Tirana at the Academy of Music and Arts of Albania in December 1959. The work is based on a \"musical action\" in two scenes, Dritë mbi Shqipëri (Light over Albania), a previous collaboration between Jakova and Siliqi which had premiered in Tirana in July 1952. Mrika is popularly considered to be the first Albanian opera. Its first stage director was Kristaq Antoniu.",
+        "source_url": "https://en.wikipedia.org/wiki/Mrika",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "nana": {
+      "slug": "nana",
+      "title": "Nana",
+      "qid": "Q28228307",
+      "enwiki": "Nana (opera)",
+      "composers": [
+        {
+          "name": "Manfred Gurlitt",
+          "qid": "Q446453"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Max Brod",
+          "qid": "Q28480"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Nana_(opera)",
+        "wikidata": "https://www.wikidata.org/wiki/Q28228307"
+      },
+      "summary": {
+        "text": "Nana is a German-language opera by Manfred Gurlitt to a libretto by Max Brod based on the novel Nana by Emile Zola. The opera was written 1931-1932, and due to be premiered in 1933, but cancelled because of Gurlitt's known opposition to the Nazi regime. It was not staged until 1958 in Dortmund, when the composer had long been in exile in Japan.",
+        "source_url": "https://en.wikipedia.org/wiki/Nana_(opera)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "octet-martins": {
+      "slug": "octet-martins",
+      "title": "Octet",
+      "qid": "Q7076853",
+      "enwiki": "Octet (Martins)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Octet_(Martins)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7076853"
+      },
+      "summary": {
+        "text": "Octet is a ballet made by New York City Ballet balletmaster in chief Peter Martins to Mendelssohn's Octet in E-flat major (1825). The premiere took place November 14, 2003 at the Royal Danish Ballet, Copenhagen; the NYCB premiere was November 23, 2004, at the New York State Theater, Lincoln Center.",
+        "source_url": "https://en.wikipedia.org/wiki/Octet_(Martins)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "olga-ballet": {
+      "slug": "olga-ballet",
+      "title": "Olga",
+      "qid": "Q12135789",
+      "enwiki": "Olga (ballet)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Olga_(ballet)",
+        "wikidata": "https://www.wikidata.org/wiki/Q12135789"
+      },
+      "summary": {
+        "text": "Olga (Ukrainian: Ольга, romanized: Ol'ha) is a two-act ballet by Ukrainian composer Yevhen Stankovych and librettist Yuriy Ilyenko based on the life of Olga of Kiev, which was written in 1981 to commemorate the 1500th anniversary of the city of Kyiv.",
+        "source_url": "https://en.wikipedia.org/wiki/Olga_(ballet)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "pinocchio": {
+      "slug": "pinocchio",
+      "title": "Pinocchio",
+      "qid": "Q42815261",
+      "enwiki": "Pinocchio (opera)",
+      "composers": [
+        {
+          "name": "Philippe Boesmans",
+          "qid": "Q741647"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Joël Pommerat",
+          "qid": "Q933547"
+        }
+      ],
+      "premiere": {
+        "date": "2017-07-03",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Pinocchio_(opera)",
+        "wikidata": "https://www.wikidata.org/wiki/Q42815261"
+      },
+      "summary": {
+        "text": "Pinocchio is a 2017 French-language opera by Philippe Boesmans to a libretto by Joël Pommerat, based on the 1883 novel The Adventures of Pinocchio by Carlo Collodi. The opera was commissioned by the Aix-en-Provence Festival in France and premiered there in July 2017. The opera reopened the restored La Monnaie in Brussels in September 2017.",
+        "source_url": "https://en.wikipedia.org/wiki/Pinocchio_(opera)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "ragtime-ii": {
+      "slug": "ragtime-ii",
+      "title": "Ragtime",
+      "qid": "Q7283244",
+      "enwiki": "Ragtime (II)",
+      "composers": [
+        {
+          "name": "Igor Stravinsky",
+          "qid": "Q7314",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12461"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Ragtime_(II)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7283244"
+      },
+      "summary": {
+        "text": "Ragtime (II) is the third ballet made by New York City Ballet's co-founder and balletmaster George Balanchine to Igor Stravinsky's Ragtime for Eleven Instruments (1918). The premiere took place on July 15, 1966, at Philharmonic Hall, New York. The first City Ballet performance was on January 17, 1967, at New York State Theater, Lincoln Center. The previous ballets made to Stravinsky's Ragtime were Ragtime (I) for City Ballet in 1960 and one of a number of \"informal little things\" made in St. Petersburg in 1922.",
+        "source_url": "https://en.wikipedia.org/wiki/Ragtime_(II)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "red-hot-and-blue": {
+      "slug": "red-hot-and-blue",
+      "title": "Red, Hot and Blue",
+      "qid": "Q1118554",
+      "enwiki": "Red, Hot and Blue",
+      "composers": [
+        {
+          "name": "Cole Porter",
+          "qid": "Q215120",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12257"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Cole Porter",
+          "qid": "Q215120",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12257"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Howard Lindsay",
+          "qid": "Q1374517",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6373"
+        },
+        {
+          "name": "Russel Crouse",
+          "qid": "Q1382872",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8531"
+        }
+      ],
+      "premiere": {
+        "date": "1936-10-29",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7423",
+        "wikipedia": "https://en.wikipedia.org/wiki/Red%2C_Hot_and_Blue",
+        "wikidata": "https://www.wikidata.org/wiki/Q1118554"
+      },
+      "summary": {
+        "text": "Red, Hot and Blue is a musical with music and lyrics by Cole Porter and a book by Howard Lindsay and Russel Crouse. It premiered on Broadway in 1936 and introduced the popular song \"It's De-Lovely,\" sung by Ethel Merman and Bob Hope.\nThe musical has no connection to the 1949 film musical of the same name with songs by Frank Loesser.\nToday it may be most famous as one of the first instances of creative resolution of top billing on posters and marquees. Stars Jimmy Durante and Ethel Merman refused to accept second billing. The producers devised a compromise in which their names formed an X-shaped cross, drawing the observer’s eye in two directions. The third star, Bob Hope, settled for his name in bold under the cross.",
+        "source_url": "https://en.wikipedia.org/wiki/Red%2C_Hot_and_Blue",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "robin-hood-tippett-opera": {
+      "slug": "robin-hood-tippett-opera",
+      "title": "Robin Hood",
+      "qid": "Q7352499",
+      "enwiki": "Robin Hood (Tippett opera)",
+      "composers": [
+        {
+          "name": "Michael Tippett",
+          "qid": "Q356499",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/83770"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1934",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Robin_Hood_(Tippett_opera)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7352499"
+      },
+      "summary": {
+        "text": "Robin Hood is a ballad opera by Michael Tippett based on the legend of Robin Hood. Composed in 1934, the score remains unpublished. However, Tippett later used an expanded version of the overture as the finale to his 1948 Suite in D major (For the Birthday of Prince Charles).",
+        "source_url": "https://en.wikipedia.org/wiki/Robin_Hood_(Tippett_opera)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "rock-of-ages": {
+      "slug": "rock-of-ages",
+      "title": "Rock of Ages",
+      "qid": "Q10656270",
+      "enwiki": "Rock of Ages (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/482290",
+        "playbill": "https://playbill.com/production/rock-of-ages-wilson-center-at-cape-fear-community-college-2018-2019",
+        "wikipedia": "https://en.wikipedia.org/wiki/Rock_of_Ages_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q10656270"
+      },
+      "summary": {
+        "text": "Rock of Ages is a jukebox musical built around classic rock songs from the 1980s, especially from the famous glam metal bands of that decade. The musical features songs from Styx, Journey, Bon Jovi, Pat Benatar, Twisted Sister, Steve Perry, Poison and Europe, among other well-known rock bands. It was written by Chris D'Arienzo, directed by Kristin Hanggi and choreographed by Kelly Devine with music supervision, arrangements and orchestrations by Ethan Popp.\nDuring the show, the performers frequently break the \"fourth wall\", directly addressing the audience and seemingly forgetting (or perhaps reminding the audience) that they are actors in a musical. Despite the musical's title, the Def Leppard song of the same name was not included in the musical during its original Broadway incarnation, though it now often appears in revivals, tours, and regional productions.\nThe original Broadway production ran for 2,328 performances, closing on January 18, 2015 tied as the 34th-longest running show in Broadway history. Since debuting in 2009, it has spawned replica productions in Japan, Australia and the United Kingdom, as well as several touring productions.",
+        "source_url": "https://en.wikipedia.org/wiki/Rock_of_Ages_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "school-idol-musical": {
+      "slug": "school-idol-musical",
+      "title": "School Idol Musical",
+      "qid": "Q130297380",
+      "enwiki": "School Idol Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/School_Idol_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q130297380"
+      },
+      "summary": {
+        "text": "Love Live! School Idol Project Series is a Japanese multimedia project created by Hajime Yatate and Sakurako Kimino and co-produced by Kadokawa through ASCII Media Works; Bandai Namco Music Live through music label Lantis; and Bandai Namco Filmworks through its animation studio Sunrise. Each of the individual titles within the franchise revolve around teenage girls who become \"school idols\". Starting in June 2010 with Love Live! School Idol Project, the franchise has seen multiple anime television series, three anime films, light novels, manga, and video games. The rhythm game series Love Live! School Idol Festival features characters across multiple Love Live! titles.",
+        "source_url": "https://en.wikipedia.org/wiki/School_Idol_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
     "show-boat": {
       "slug": "show-boat",
       "title": "Show Boat",
-      "qid": "Q1050738",
+      "qid": "Q2166879",
       "enwiki": "Show Boat",
       "composers": [
         {
           "name": "Jerome Kern",
-          "qid": "Q1000001",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9999901"
+          "qid": "Q313270",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6711"
         }
       ],
       "lyricists": [
         {
           "name": "Oscar Hammerstein II",
-          "qid": "Q1000002"
+          "qid": "Q319693",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7965"
         }
       ],
       "librettists": [
         {
           "name": "Oscar Hammerstein II",
-          "qid": "Q1000002"
+          "qid": "Q319693",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7965"
         }
       ],
       "premiere": {
@@ -30,13 +1281,471 @@
       },
       "awards": [],
       "links": {
-        "ibdb": "https://www.ibdb.com/broadway-show/4367",
+        "ibdb": "https://www.ibdb.com/broadway-show/10963",
+        "playbill": "https://playbill.com/production/show-boat-city-center-vault-0000013161",
         "wikipedia": "https://en.wikipedia.org/wiki/Show_Boat",
-        "wikidata": "https://www.wikidata.org/wiki/Q1050738"
+        "wikidata": "https://www.wikidata.org/wiki/Q2166879"
       },
       "summary": {
-        "text": "Placeholder intro for Show Boat. Not Wikipedia text.",
+        "text": "Show Boat is a musical with music by Jerome Kern and book and lyrics by Oscar Hammerstein II. It is based on Edna Ferber's best-selling 1926 novel of the same name. The musical follows the lives of the performers, stagehands and dock workers on the Cotton Blossom, a Mississippi River show boat, over 40 years from 1887 to 1927. Its themes include racial prejudice and tragic, enduring love. The musical contributed such classic songs as \"Ol' Man River\", \"Make Believe\", and \"Can't Help Lovin' Dat Man\".\n\nThe musical was first produced in 1927 by Florenz Ziegfeld. The premiere of Show Boat on Broadway was an important event in the history of American musical theatre. It \"was a radical departure in musical storytelling, marrying spectacle with seriousness\", compared with the trivial and unrealistic operettas, light musical comedies and \"Follies\"-type musical revues that defined Broadway in the 1890s and early 20th century. According to The Complete Book of Light Opera:Here we come to a completely new genre – the musical play as distinguished from musical comedy. Now … the play was the thing, and everything else was subservient to that play. Now … came complete integration of song, humor and production numbers into a single and inextricable artistic entity.\nThe quality of Show Boat was recognized immediately by critics, and it is frequently revived. Awards did not exist for Broadway shows in 1927, when the show premiered, nor in 1932 when its first revival was staged. Late 20th-century revivals of Show Boat have won both the Tony Award for Best Revival of a Musical (1995) and the Laurence Olivier Award for Best Musical Revival (1991).",
         "source_url": "https://en.wikipedia.org/wiki/Show_Boat",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "shponka-and-his-aunt": {
+      "slug": "shponka-and-his-aunt",
+      "title": "Shponka and His Aunt",
+      "qid": "Q8012974",
+      "enwiki": "Shponka and His Aunt",
+      "composers": [
+        {
+          "name": "Anastasiya Bespalova",
+          "qid": "Q4751942"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Arkady Zastyrets",
+          "qid": "Q4188281"
+        }
+      ],
+      "premiere": {
+        "date": "2009-06-21",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Shponka_and_His_Aunt",
+        "wikidata": "https://www.wikidata.org/wiki/Q8012974"
+      },
+      "summary": {
+        "text": "Shponka and His Aunt is an opera in one act by composer Anastasiya Bespalova. The opera uses a Russian libretto by Arkady Zastyrets which is based upon the story of the same name by Nikolai Gogol. The opera was commissioned by the Mariinsky Theatre along with two other new operas, Svetlana Nesterova's The Lawsuit and Vyacheslav Kruglik's The Carriage, all based on stories by Gogol. The three operas premiered together on 21 June 2009 during the Mariinsky Theatre's summer festival.",
+        "source_url": "https://en.wikipedia.org/wiki/Shponka_and_His_Aunt",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "soft-power": {
+      "slug": "soft-power",
+      "title": "Soft Power",
+      "qid": "Q93320938",
+      "enwiki": "Soft Power (musical)",
+      "composers": [
+        {
+          "name": "Jeanine Tesori",
+          "qid": "Q16194364",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12488"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Jeanine Tesori",
+          "qid": "Q16194364",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12488"
+        },
+        {
+          "name": "David Henry Hwang",
+          "qid": "Q329897",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4993"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "David Henry Hwang",
+          "qid": "Q329897",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4993"
+        }
+      ],
+      "premiere": {
+        "date": "2018-05-03",
+        "venue": "Ahmanson Theatre"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Soft_Power_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q93320938"
+      },
+      "summary": {
+        "text": "Soft Power is a musical (also referred to by its authors as a \"play with a musical\") with book and lyrics by David Henry Hwang and music and additional lyrics by Jeanine Tesori.\nSoft Power was intended as a \"reverse The King And I\". Instead of exoticizing an Asian country, Soft Power exoticizes America by looking at it from a hypothetical future Chinese musical. It also serves as a quasi-sequel to Hwang's 2007 play Yellow Face. Like that play, the semi-autobiographical work centers around a stand-in for the author named DHH interacting with fictional characters. The play was partially inspired by a 2015 stabbing of Hwang by a stranger on the streets of New York City.",
+        "source_url": "https://en.wikipedia.org/wiki/Soft_Power_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "sonya-s-story": {
+      "slug": "sonya-s-story",
+      "title": "Sonya's Story",
+      "qid": "Q7562566",
+      "enwiki": "Sonya's Story",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2010-08-07",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Sonya's_Story",
+        "wikidata": "https://www.wikidata.org/wiki/Q7562566"
+      },
+      "summary": {
+        "text": "Sonya's Story is an opera by the British composer Neal Thornton to a libretto based on the original Russian text of Anton Chekhov's 1899 play Uncle Vanya. The libretto reproduces passages from Uncle Vanya in English translation with additional spoken text by Neal Thornton. \nSonya's Story premiered on 7 August 2010 at the Riverside Studios in London to celebrate Chekhov's 150th birthday. The production, part of the Tête à Tête festival was directed by Sally Burgess and designed by Charles Phu. The work was positively received, Jessica Duchen of The Independent noticing \"no compromise on standards\".",
+        "source_url": "https://en.wikipedia.org/wiki/Sonya's_Story",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-band-wagon": {
+      "slug": "the-band-wagon",
+      "title": "The Band Wagon",
+      "qid": "Q3519868",
+      "enwiki": "The Band Wagon (musical)",
+      "composers": [
+        {
+          "name": "Arthur Schwartz",
+          "qid": "Q711473",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4324"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Howard Dietz",
+          "qid": "Q1631780",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6363"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Howard Dietz",
+          "qid": "Q1631780",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6363"
+        },
+        {
+          "name": "George S. Kaufman",
+          "qid": "Q163662",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5827"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1825",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Band_Wagon_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q3519868"
+      },
+      "summary": {
+        "text": "The Band Wagon is a musical revue with book by George S. Kaufman and Howard Dietz, lyrics also by Dietz and music by Arthur Schwartz.  It first played on Broadway in 1931, running for 260 performances.  It introduced the song \"Dancing in the Dark\" and inspired two films.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Band_Wagon_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-perfect-american": {
+      "slug": "the-perfect-american",
+      "title": "The Perfect American",
+      "qid": "Q3522206",
+      "enwiki": "The Perfect American",
+      "composers": [
+        {
+          "name": "Philip Glass",
+          "qid": "Q189729",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11740"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Philip Glass",
+          "qid": "Q189729",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11740"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": "Teatro Real"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Perfect_American",
+        "wikidata": "https://www.wikidata.org/wiki/Q3522206"
+      },
+      "summary": {
+        "text": "The Perfect American is an opera in two acts composed in 2011–12 by Philip Glass. It is an adaptation of the Peter Stephan Jungk novel Der König von Amerika, a fictional work that re-imagines Walt Disney in his later years as a power-hungry racist. It was commissioned by the Teatro Real in Madrid in co-production with the English National Opera in London.\nThe world premiere of the work took place at the Teatro Real on 22 January 2013 with Dennis Russell Davies conducting and directed by Phelim McDermott. The first English production was on 1 June 2013 by the English National Opera at the London Coliseum, under the direction of Gareth Jones.\nJones and McDermott directed the third production with Opera Queensland (Australia) for the Brisbane Festival, commencing 15 September 2014. Christopher Purves, the baritone who sang the role of Walt, and Marie McLaughlin who played the role of Walt’s wife, also participated in a televised TV chat show about the opera along with McDermott.\nThe Madrid premiere was broadcast live on medici.tv and recorded for subsequent DVD release.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Perfect_American",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-secret-garden-opera": {
+      "slug": "the-secret-garden-opera",
+      "title": "The Secret Garden",
+      "qid": "Q17022772",
+      "enwiki": "The Secret Garden (opera)",
+      "composers": [
+        {
+          "name": "Nolan Gasser",
+          "qid": "Q7048185"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Carey Harrison",
+          "qid": "Q5039185"
+        }
+      ],
+      "premiere": {
+        "date": "2013-03-01",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Secret_Garden_(opera)",
+        "wikidata": "https://www.wikidata.org/wiki/Q17022772"
+      },
+      "summary": {
+        "text": "The Secret Garden is an opera by Nolan Gasser with a libretto (based on the 1911 novel by Frances Hodgson Burnett) written by Carey Harrison. Commissioned by the San Francisco Opera and presented in partnership with Cal Performances, it premiered on March 1, 2013, at Zellerbach Hall at the University of California, Berkeley.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Secret_Garden_(opera)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-song-of-mount-kumgang": {
+      "slug": "the-song-of-mount-kumgang",
+      "title": "The Song of Mount Kumgang",
+      "qid": "Q12586386",
+      "enwiki": "The Song of Mount Kumgang",
+      "composers": [
+        {
+          "name": "Kim Jong-il",
+          "qid": "Q10665"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Kim Jong-il",
+          "qid": "Q10665"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Song_of_Mount_Kumgang",
+        "wikidata": "https://www.wikidata.org/wiki/Q12586386"
+      },
+      "summary": {
+        "text": "The Song of Mount Kumgang (Korean: 금강산의 노래) is a North Korean revolutionary opera. First performed in 1973, it is credited to Kim Jong Il.\nThe performance is considered one of the \"Five Great Revolutionary Operas\", a group of classical, revolution-themed opera repertoires well received within North Korea.\nThe orchestra uses entirely Western musical instruments, except for some bamboo wind instruments.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Song_of_Mount_Kumgang",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-unicorn-the-gorgon-and-the-manticore": {
+      "slug": "the-unicorn-the-gorgon-and-the-manticore",
+      "title": "The Unicorn, the Gorgon, and the Manticore",
+      "qid": "Q7771501",
+      "enwiki": "The Unicorn, the Gorgon, and the Manticore",
+      "composers": [
+        {
+          "name": "Gian Carlo Menotti",
+          "qid": "Q270662",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5904"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Gian Carlo Menotti",
+          "qid": "Q270662",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5904"
+        }
+      ],
+      "premiere": {
+        "date": "1956-10-21",
+        "venue": "Library of Congress"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Unicorn%2C_the_Gorgon%2C_and_the_Manticore",
+        "wikidata": "https://www.wikidata.org/wiki/Q7771501"
+      },
+      "summary": {
+        "text": "The Unicorn, the Gorgon and the Manticore or The Three Sundays of a Poet is a \"madrigal fable\" for chorus, ten dancers and nine instruments with music and original libretto by Gian Carlo Menotti. Based on the 16th-century Italian madrigal comedy genre, it consists of a prologue and 12 madrigals which tell a continuous story, interspersed with six instrumental interludes. The unicorn, gorgon, and manticore in the title are allegories for three stages in the life of the story's protagonist, a strange poet who keeps the mythical creatures as pets. The work premiered in Washington D.C. at the Library of Congress Coolidge Auditorium on October 19, 1956.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Unicorn%2C_the_Gorgon%2C_and_the_Manticore",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-vertiginous-thrill-of-exactitude": {
+      "slug": "the-vertiginous-thrill-of-exactitude",
+      "title": "The Vertiginous Thrill of Exactitude",
+      "qid": "Q112872123",
+      "enwiki": "The Vertiginous Thrill of Exactitude",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Vertiginous_Thrill_of_Exactitude",
+        "wikidata": "https://www.wikidata.org/wiki/Q112872123"
+      },
+      "summary": {
+        "text": "The Vertiginous Thrill of Exactitude is a ballet choreographed by William Forsythe to the finale of Schubert's Symphony No. 9. The ballet was choreographed for Frankfurt Ballet's programme Six Counter Points, and was presented as a ballet \"in the Manner of the late 20th Century.\" Danced by a cast of five, the ballet features classical and technically demanding choreography. It premiered on 20 January 1996, at Frankfurt. It had since been performed by many other ballet companies.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Vertiginous_Thrill_of_Exactitude",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-young-guard": {
+      "slug": "the-young-guard",
+      "title": "The Young Guard",
+      "qid": "Q97707485",
+      "enwiki": "The Young Guard (opera)",
+      "composers": [
+        {
+          "name": "Yulii Meitus",
+          "qid": "Q4289181"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Andrii Malyshko",
+          "qid": "Q2037667"
+        },
+        {
+          "name": "Mikhail Isakovsky",
+          "qid": "Q730900"
+        }
+      ],
+      "premiere": {
+        "date": "1947-11-07",
+        "venue": "National Opera of Ukraine"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Young_Guard_(opera)",
+        "wikidata": "https://www.wikidata.org/wiki/Q97707485"
+      },
+      "summary": {
+        "text": "The Young Guard (Ukrainian: «Молода гвардiя», romanized: Moloda Hvardia) is an opera in four acts and seven scenes by the Ukrainian composer Yuliy Meitus, with a libretto by Andriy Malyshko.\nThe opera deals with the fate of the youth resistance group The Young Guard in Krasnodon, Ukraine, during the Second World War. The libretto was based on the novel of the same name by the Russian author Alexander Fadeyev. The original version of the opera premiered in Kyiv in 1947, and a reworked version was performed for the first time in Stalin (now Donetsk, Ukraine) in 1950.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Young_Guard_(opera)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "torquato-tasso": {
+      "slug": "torquato-tasso",
+      "title": "Torquato Tasso",
+      "qid": "Q520950",
+      "enwiki": "Torquato Tasso (opera)",
+      "composers": [
+        {
+          "name": "Gaetano Donizetti",
+          "qid": "Q101698",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/82838"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Jacopo Ferretti",
+          "qid": "Q659749"
+        }
+      ],
+      "premiere": {
+        "date": "1833-09-09",
+        "venue": "Teatro Valle"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Torquato_Tasso_(opera)",
+        "wikidata": "https://www.wikidata.org/wiki/Q520950"
+      },
+      "summary": {
+        "text": "Torquato Tasso is a melodramma semiserio, or \"semi-serious\" opera, in three acts by Gaetano Donizetti and based on the life of the great poet Torquato Tasso. The Italian libretto was written by Jacopo Ferretti, who used a number of sources for his text, including works by Giovanni Rosini, Goethe, Goldoni and Lord Byron, as well as Tasso's actual poetry.  It premiered on 9 September 1833 at the Teatro Valle, Rome.\nThe work has been criticized for \"its odd deployment of vocal types\" characteristic of the semiseria genre.",
+        "source_url": "https://en.wikipedia.org/wiki/Torquato_Tasso_(opera)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "when-claudia-smiles": {
+      "slug": "when-claudia-smiles",
+      "title": "When Claudia Smiles",
+      "qid": "Q124795496",
+      "enwiki": "When Claudia Smiles",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/When_Claudia_Smiles",
+        "wikidata": "https://www.wikidata.org/wiki/Q124795496"
+      },
+      "summary": {
+        "text": "When Claudia Smiles is a musical in three acts with music by Jean Schwartz and both book and lyrics by Anne Caldwell. Set in New York City, the work is based on Leo Ditrichstein's 1903 play Vivian's Papas. The musical began its Broadway run at the 39th Street Theatre on February 2, 1914, and then transferred to the Lyric Theatre where it ultimately closed on March 21, 1914, after 56 performances.  The production was directed by Charles Winninger and produced by Frederic McKay. The cast included Blanche Ring, Mahlon Hamilton, Anna Laughlin, and Bertha Mann.",
+        "source_url": "https://en.wikipedia.org/wiki/When_Claudia_Smiles",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "zorba": {
+      "slug": "zorba",
+      "title": "Zorba",
+      "qid": "Q498325",
+      "enwiki": "Zorba (musical)",
+      "composers": [
+        {
+          "name": "John Kander",
+          "qid": "Q1685876",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6837"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Fred Ebb",
+          "qid": "Q1274807",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5654"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Joseph Stein",
+          "qid": "Q1361175",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6978"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/9600",
+        "wikipedia": "https://en.wikipedia.org/wiki/Zorba_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q498325"
+      },
+      "summary": {
+        "text": "Zorba is a musical with a book by Joseph Stein, lyrics by Fred Ebb, and music by John Kander.  Adapted from the 1946 novel Zorba the Greek by Nikos Kazantzakis and the subsequent 1964 film of the same name, it focuses on the friendship that evolves between Zorba and Nikos, a young American who has inherited an abandoned mine on Crete, and their romantic relationships with a French woman and a local widow, respectively.\nThe musical premiered on Broadway in 1968 in a production directed by Harold Prince.  It was nominated for the Tony Award for Best Musical in a season that included Hair, Promises, Promises and 1776.  The last of these won the award. The original production ran for 305 performances, and a 1983 Broadway revival ran for 362 performances with a cast starring Anthony Quinn.",
+        "source_url": "https://en.wikipedia.org/wiki/Zorba_(musical)",
         "license": "CC BY-SA 4.0",
         "modified": false
       }

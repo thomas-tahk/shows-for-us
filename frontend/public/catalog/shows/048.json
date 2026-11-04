@@ -1,0 +1,1401 @@
+{
+  "shows": {
+    "anna-karenina-musical": {
+      "slug": "anna-karenina-musical",
+      "title": "Anna Karenina",
+      "qid": "Q4767141",
+      "enwiki": "Anna Karenina (musical)",
+      "composers": [
+        {
+          "name": "Daniel Levine",
+          "qid": "Q5217924",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12056"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Peter Kellogg",
+          "qid": "Q7175134",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8119"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Peter Kellogg",
+          "qid": "Q7175132"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/9975",
+        "wikipedia": "https://en.wikipedia.org/wiki/Anna_Karenina_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4767141"
+      },
+      "summary": {
+        "text": "Anna Karenina is a 1992 musical with a book and lyrics by Peter Kellogg and music by Daniel Levine.  \nBased on the classic 1877 Leo Tolstoy novel of the same name, it focuses on the tragic title character, a fashionable but unhappily married woman, and her ill-fated liaison with Count Vronsky, which ultimately leads to her downfall.",
+        "source_url": "https://en.wikipedia.org/wiki/Anna_Karenina_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "arlette": {
+      "slug": "arlette",
+      "title": "Arlette",
+      "qid": "Q65069443",
+      "enwiki": "Arlette (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Austen Hurgon",
+          "qid": "Q64006295"
+        }
+      ],
+      "premiere": {
+        "date": "1917-09-06",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Arlette_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q65069443"
+      },
+      "summary": {
+        "text": "Arlette is a 1917 operetta in three acts by Austen Hurgon and George Arthurs with lyrics by Adrian Ross and Clifford Grey. Produced by George Grossmith Jr. and Edward Laurillard it was adapted from the French with music by Jane Vieu, Guy Le Feuvre and Ivor Novello. It opened at the Shaftesbury Theatre in London on 6 September 1917 where it ran for 260 performances. It starred Winifred Barnes, Joseph Coyne and Stanley Lupino.\nOriginally produced in Brussels in October 1904 with music by Jane Vieu and a book and lyrics by Claude Roland and Louis Bouvet, it underwent considerable alteration for the British production resulting in only two of Vieu's songs remaining while the rest were specially written for the show by Ivor Novello and Guy Le Feuvre. The critic for The Stage commented that these changes reduced the piece from an operetta to a musical comedy. The London production was directed by Austen Hurgon, and the musical director was Leonard Hornsey. The play's opening night coincided with the worst of the German air raids on London during World War I, but the cast decided to continue with evening performances. In 1936 the show was revised and retitled How Do, Princess?, with six new songs by Novello, but the subsequent tour of the British provinces was a financial disaster and quickly closed. On 14 October 1937 a one-hour condensed version was broadcast on BBC Radio with Jean Colin as Arlette and Tommy Handley as Rono.",
+        "source_url": "https://en.wikipedia.org/wiki/Arlette_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "armida-al-campo-d-egitto": {
+      "slug": "armida-al-campo-d-egitto",
+      "title": "Armida al campo d'Egitto",
+      "qid": "Q2862257",
+      "enwiki": "Armida al campo d'Egitto",
+      "composers": [
+        {
+          "name": "Antonio Vivaldi",
+          "qid": "Q1340"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Giovanni Palazzi",
+          "qid": "Q112469750"
+        }
+      ],
+      "premiere": {
+        "date": "1718-02-14",
+        "venue": "Teatro San Moisè"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Armida_al_campo_d'Egitto",
+        "wikidata": "https://www.wikidata.org/wiki/Q2862257"
+      },
+      "summary": {
+        "text": "Armida al campo d'Egitto is an opera in three acts by Antonio Vivaldi to a libretto by Giovanni Palazzi.  It was first performed during the Carnival season of 1718 at the Teatro San Moisè in Venice, then immediately repeated in the spring in Mantua, where Vivaldi served at the court of the governor Philip of Hesse-Darmstadt.  Vivaldi's version is different from the more than 50 operas whose themes derive in varying degrees from the story of Rinaldo and Armida in Torquato Tasso's epic poem La Gerusalemme liberata (Jerusalem Delivered). Unlike the more than 50 operas based on the romance of Rinaldo and Armida, Vivaldi's version starts during previous events before the war against the Crusaders. Armida was revived for the Carnival season of 1738, with much of the music rewritten, and arias by Leonardo Leo added. Act II of the original version of the opera is now lost.",
+        "source_url": "https://en.wikipedia.org/wiki/Armida_al_campo_d'Egitto",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "atide": {
+      "slug": "atide",
+      "title": "Atide",
+      "qid": "Q4815770",
+      "enwiki": "Atide",
+      "composers": [
+        {
+          "name": "Josef Mysliveček",
+          "qid": "Q313974"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1774-06-06",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Atide",
+        "wikidata": "https://www.wikidata.org/wiki/Q4815770"
+      },
+      "summary": {
+        "text": "Atide is an opera in three acts by Josef Mysliveček set to a libretto by Tommaso Stanzani that is based on Greek legends about Atys, an ancient king of Lydia. Stanzani's libretto is based on an earlier libretto by Philippe Quinault that was originally set by Jean-Baptiste Lully as Atys in 1676.  It is the only Italian adaptation of this Quinault libretto ever produced in the 18th century. The opera Atide (and all the rest of Mysliveček's operas) belong to the serious type in Italian language referred to as opera seria and would usually feature the designation dramma per musica in librettos.",
+        "source_url": "https://en.wikipedia.org/wiki/Atide",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "beatrice": {
+      "slug": "beatrice",
+      "title": "Béatrice",
+      "qid": "Q5004976",
+      "enwiki": "Béatrice (opera)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/B%C3%A9atrice_(opera)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5004976"
+      },
+      "summary": {
+        "text": "Béatrice is a légende lyrique (opera) in four acts of 1914, with music by André Messager and a French libretto by Caillavet and Flers, after the short story La légende de Soeur Béatrix (1837) by Nodier.",
+        "source_url": "https://en.wikipedia.org/wiki/B%C3%A9atrice_(opera)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "bridget-jones-s-diary": {
+      "slug": "bridget-jones-s-diary",
+      "title": "Bridget Jones's Diary",
+      "qid": "Q4966724",
+      "enwiki": "Bridget Jones's Diary (musical)",
+      "composers": [
+        {
+          "name": "Lily Allen",
+          "qid": "Q58735"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Lily Allen",
+          "qid": "Q58735"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Bridget_Jones's_Diary_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4966724"
+      },
+      "summary": {
+        "text": "Bridget Jones's Diary is a musical with music and lyrics by Lily Allen, Greg Kurstin, and Karen Poole. The play is based on the 1996 book by Helen Fielding and the 2001 film of the same name. The show was in development around 2009–2010 and has had several workshop readings, but no full performances.",
+        "source_url": "https://en.wikipedia.org/wiki/Bridget_Jones's_Diary_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "burger-brain-the-fast-food-musical": {
+      "slug": "burger-brain-the-fast-food-musical",
+      "title": "Burger Brain - The Fast Food Musical",
+      "qid": "Q131425557",
+      "enwiki": "Burger Brain - The Fast Food Musical",
+      "composers": [
+        {
+          "name": "Chris Harriott",
+          "qid": "Q64541751"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Dennis Watkins",
+          "qid": "Q131328642"
+        }
+      ],
+      "premiere": {
+        "date": "1988-09-27",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Burger_Brain_-_The_Fast_Food_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q131425557"
+      },
+      "summary": {
+        "text": "Burger Brain - The Fast Food Musical is an Australian musical with book and lyrics by Dennis Watkins and music by Chris Harriott. \nStaged by the Australian Theatre for Young People it was directed by Stephen Lloyd Helper it featured a cast of forty and the lead roles were shared. On opening night lead roles of Waldo and Hanna were played by Huey Acuna and Toni Collette. Other cast members include Nadine Weinberger, Daryl Aberhart and Margaret Dokic.",
+        "source_url": "https://en.wikipedia.org/wiki/Burger_Brain_-_The_Fast_Food_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "canterbury-tales": {
+      "slug": "canterbury-tales",
+      "title": "Canterbury Tales",
+      "qid": "Q5033701",
+      "enwiki": "Canterbury Tales (musical)",
+      "composers": [
+        {
+          "name": "Richard Hill",
+          "qid": "Q7326457",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11858"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Nevill Coghill",
+          "qid": "Q3338877",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7885"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Martin Starkie",
+          "qid": "Q6776658",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7578"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2388",
+        "wikipedia": "https://en.wikipedia.org/wiki/Canterbury_Tales_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5033701"
+      },
+      "summary": {
+        "text": "Canterbury Tales is a British musical based on Chaucer's fourteenth-century collection of stories published under the same title. The show was first given in Oxford in 1964 and subsequently presented in the West End, on Broadway and in Australia and Continental Europe. It was conceived by the actor and director Martin Starkie and co-written with Nevill Coghill, whose modern-English translation of Chaucer's original had been published in 1951. The music was by John Hawkins and Richard Hill. \nThe first London production ran for 2,082 performances – at the time, one of the longest runs in West End history. There have been a few revivals since the original productions. A sequel, presented in 1979, failed.",
+        "source_url": "https://en.wikipedia.org/wiki/Canterbury_Tales_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "caterina-di-guisa": {
+      "slug": "caterina-di-guisa",
+      "title": "Caterina di Guisa",
+      "qid": "Q3663538",
+      "enwiki": "Caterina di Guisa",
+      "composers": [
+        {
+          "name": "Carlo Coccia",
+          "qid": "Q167242"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Felice Romani",
+          "qid": "Q350103"
+        }
+      ],
+      "premiere": {
+        "date": "1833-02-14",
+        "venue": "La Scala"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Caterina_di_Guisa",
+        "wikidata": "https://www.wikidata.org/wiki/Q3663538"
+      },
+      "summary": {
+        "text": "Caterina di Guisa is an opera in two acts by Carlo Coccia to a libretto by Felice Romani based on the 1829 play Henry III and His Court by Alexandre Dumas. Caterina di Guisa premiered on 14 February 1833 at the Teatro alla Scala in Milan with triumphal success. A revised version, probably prepared to exploit at its best the different cast, was presented on 15 June 1836 at the Teatro Carignano in Turin. This opera is characterized by an \"intensely dramatic score, rich in power and originality\" and by a \"heartrending finale\".\nIn modern times, Caterina di Guisa was revived at the Teatro Gabriello Chiabrera in Savona on 30 October 1990. This performance was recorded and published on CD.",
+        "source_url": "https://en.wikipedia.org/wiki/Caterina_di_Guisa",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "designs-with-strings": {
+      "slug": "designs-with-strings",
+      "title": "Designs with Strings",
+      "qid": "Q85756557",
+      "enwiki": "Designs with Strings",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Designs_with_Strings",
+        "wikidata": "https://www.wikidata.org/wiki/Q85756557"
+      },
+      "summary": {
+        "text": "Designs with Strings, also Designs for Strings (French: Dessins pour six or pour les six; Danish: Variationer), is a ballet choreographed by John Taras to music from the second movement of Tschaikovsky's Trio in A minor. It was first performed on 6 February 1948 in Edinburgh by the Metropolitan Ballet.",
+        "source_url": "https://en.wikipedia.org/wiki/Designs_with_Strings",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "don-quichotte-et-sancho-panca": {
+      "slug": "don-quichotte-et-sancho-panca",
+      "title": "Don Quichotte et Sancho Pança",
+      "qid": "Q5293354",
+      "enwiki": "Don Quichotte et Sancho Pança",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Don_Quichotte_et_Sancho_Pan%C3%A7a",
+        "wikidata": "https://www.wikidata.org/wiki/Q5293354"
+      },
+      "summary": {
+        "text": "Don Quichotte et Sancho Pança is a one-act 'tableau grotesque' or 'grotesque scene' with music by Hervé after Cervantes, first produced in 1847, which has been dubbed ‘the first French operetta’, and a precursor of the opéra bouffe.\nDon Quichotte et Sancho Pança was conceived as a vehicle for Desiré, a friend of Hervé, who had requested a piece for a benefit performance. Desiré, short and plump as Sancho, was pitted against the tall and thin Quichotte of Hervé.\nThe piece was staged the following year on 6 March 1848 at Adolphe Adam's Opéra-National at the Cirque Olympique (with Hervé again playing Quichotte, and Joseph Kelm as Sancho), in a double-bill with Les barricades de 1848.\nHervé recalled that the success of his piece led to the tunes becoming very popular in the vaudevilles of Paris and hummed all around the city. The most popular couplet was:\n\nJe sais que les filles\nSont vraiment gentilles\nEt que tous les drilles\nEn sont amoureux.\nMais sous l'aubépine,\nLa corde argentine\nDe ma mandoline\nSait me rendre heureux;\nOui, ma guitarine\nSait me rendre heureux.",
+        "source_url": "https://en.wikipedia.org/wiki/Don_Quichotte_et_Sancho_Pan%C3%A7a",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "donna-bianca": {
+      "slug": "donna-bianca",
+      "title": "Donna Bianca",
+      "qid": "Q19571492",
+      "enwiki": "Donna Bianca",
+      "composers": [
+        {
+          "name": "Alfredo Keil",
+          "qid": "Q1437304"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Donna_Bianca",
+        "wikidata": "https://www.wikidata.org/wiki/Q19571492"
+      },
+      "summary": {
+        "text": "Donna Bianca is an opera in a prologue and four acts composed by Alfredo Keil to an Italian-language libretto by César Féréal. The libretto is based the narrative poem Dona Branca by Almeida Garrett. The opera premiered on 10 March 1888 at the Teatro São Carlos in Lisbon and had 30 performances between 1888 and 1899. The opera was revived at the Teatro São Carlos in September 2010 in a series of four concert performances sung in the original Italian.\nSet in Portugal during the reconquest of the Kingdom of the Algarve from the Moors in the second half of the 13th century, the opera recounts the tragic love story between Afonso III's daughter Dona Branca and the Moor ruler Aben-Afan.",
+        "source_url": "https://en.wikipedia.org/wiki/Donna_Bianca",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "estrella-de-soria": {
+      "slug": "estrella-de-soria",
+      "title": "Estrella de Soria",
+      "qid": "Q926956",
+      "enwiki": "Estrella de Soria",
+      "composers": [
+        {
+          "name": "Franz Berwald",
+          "qid": "Q217044"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Otto Prechtler",
+          "qid": "Q1695915"
+        }
+      ],
+      "premiere": {
+        "date": "1862-04-09",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Estrella_de_Soria",
+        "wikidata": "https://www.wikidata.org/wiki/Q926956"
+      },
+      "summary": {
+        "text": "Estrella de Soria is a three-act opera by Franz Berwald, to a libretto by Otto Prechtler translated into Swedish by Ernst Wallmark.\nIt was first performed at the Royal Swedish Opera, Stockholm on 9 April 1862 and had five performances in that run. It has never entered the repertory, although it was revived in Stockholm in 1898 and 1946. The overture, which makes use of Estrella’s first act aria, has occasionally been recorded, and a CD of extended excerpts was released by Musica Sveciae in 1994. An aria for Estrella was the first recording by Birgit Nilsson in 1947 (and has been since re-issued). A full score of the 1862 edition was published as Volume 17a-b of the complete Bärenreiter edition.",
+        "source_url": "https://en.wikipedia.org/wiki/Estrella_de_Soria",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "gone-with-the-wind": {
+      "slug": "gone-with-the-wind",
+      "title": "Gone with the Wind",
+      "qid": "Q5581647",
+      "enwiki": "Gone with the Wind (musical)",
+      "composers": [
+        {
+          "name": "Margaret Martin",
+          "qid": "Q51078620"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Gone_with_the_Wind_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5581647"
+      },
+      "summary": {
+        "text": "Gone with the Wind is a musical written by Margaret Martin. It was adapted by Trevor Nunn from Margaret Mitchell's 1936 novel of the same name and its 1939 film adaptation. \nThe production began previews on 5 April 2008 and officially opened at the New London Theatre in London's West End on 22 April 2008.  The production was directed by Nunn and featured sets by John Napier and costumes by Andreane Neofitu. Darius Danesh and Jill Paice starred as Rhett Butler and Scarlett O'Hara respectively.  The show was produced by Aldo Scrofani, Colin Ingram, Gary McAvay and the Nederlander Producing Company. The production closed on 14 June 2008, after 79 performances.",
+        "source_url": "https://en.wikipedia.org/wiki/Gone_with_the_Wind_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "il-prigioniero": {
+      "slug": "il-prigioniero",
+      "title": "Il prigioniero",
+      "qid": "Q670898",
+      "enwiki": "Il prigioniero",
+      "composers": [
+        {
+          "name": "Luigi Dallapiccola",
+          "qid": "Q17575"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Luigi Dallapiccola",
+          "qid": "Q17575"
+        }
+      ],
+      "premiere": {
+        "date": "1950-05-20",
+        "venue": "RAI"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Il_prigioniero",
+        "wikidata": "https://www.wikidata.org/wiki/Q670898"
+      },
+      "summary": {
+        "text": "Il prigioniero (The Prisoner) is an opera (originally a radio opera) in a prologue and one act, with music and libretto by Luigi Dallapiccola. The opera was first broadcast by the Italian radio station RAI on 1 December 1949. The work is based on the short story La torture par l'espérance (\"Torture by Hope\") from the collection Nouveaux contes cruels by the French writer Auguste Villiers de l'Isle-Adam and from La Légende d'Ulenspiegel et de Lamme Goedzak by Charles De Coster. Some of the musical material is based on Dallapiccola's earlier choral work on a similar theme, Canti di prigionia (1938). Dallapiccola composed Il prigioniero in the period of 1944–1948. The work contains seven parts and lasts about 50 minutes. The musical idiom is serialism, and it is one of the first completed operas using that compositional method.",
+        "source_url": "https://en.wikipedia.org/wiki/Il_prigioniero",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "il-ritorno-di-don-calandrino": {
+      "slug": "il-ritorno-di-don-calandrino",
+      "title": "Il ritorno di Don Calandrino",
+      "qid": "Q3795601",
+      "enwiki": "Il ritorno di Don Calandrino",
+      "composers": [
+        {
+          "name": "Domenico Cimarosa",
+          "qid": "Q191775"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Giuseppe Petrosellini",
+          "qid": "Q3771211"
+        }
+      ],
+      "premiere": {
+        "date": "1778",
+        "venue": "Teatro Valle"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Il_ritorno_di_Don_Calandrino",
+        "wikidata": "https://www.wikidata.org/wiki/Q3795601"
+      },
+      "summary": {
+        "text": "Il ritorno di Don Calandrino (The Return of Don Calandrino), also known as Armidoro e Laurina, is an intermezzo in two acts by Domenico Cimarosa with an Italian libretto presumably written by Giuseppe Petrosellini.",
+        "source_url": "https://en.wikipedia.org/wiki/Il_ritorno_di_Don_Calandrino",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "jason": {
+      "slug": "jason",
+      "title": "Jason",
+      "qid": "Q15503545",
+      "enwiki": "Jason (opera)",
+      "composers": [
+        {
+          "name": "Pascal Collasse",
+          "qid": "Q287421"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Jean-Baptiste Rousseau",
+          "qid": "Q471026"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Jason_(opera)",
+        "wikidata": "https://www.wikidata.org/wiki/Q15503545"
+      },
+      "summary": {
+        "text": "Jason, ou La toison d'or (Jason, or The Golden Fleece) is an opera by the French composer Pascal Collasse, first performed at the Académie Royale de Musique (the Paris Opéra) on 15 January 1696. It takes the form of a tragédie lyrique in a prologue and five acts. The libretto, by Jean-Baptiste Rousseau, is based on the legend of Jason in the epic poem Argonautica by Apollonius of Rhodes.",
+        "source_url": "https://en.wikipedia.org/wiki/Jason_(opera)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "julien": {
+      "slug": "julien",
+      "title": "Julien",
+      "qid": "Q6308632",
+      "enwiki": "Julien (opera)",
+      "composers": [
+        {
+          "name": "Gustave Charpentier",
+          "qid": "Q311663",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/87553"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Gustave Charpentier",
+          "qid": "Q311663",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/87553"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": "Opéra-Comique"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Julien_(opera)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6308632"
+      },
+      "summary": {
+        "text": "Julien, ou La vie du poète (Julien, or The Poet's Life) is a poème lyrique, or opera, by composer Gustave Charpentier. The work is devised in a prologue and four acts and uses a French libretto by the composer. Julien is a sequel to Charpentier's Louise (1900) and describes the artistic aspirations of Louise's suitor Julien. The opera premiered in Paris at the Salle Favart on 4 June 1913.",
+        "source_url": "https://en.wikipedia.org/wiki/Julien_(opera)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "kismet": {
+      "slug": "kismet",
+      "title": "Kismet",
+      "qid": "Q3815652",
+      "enwiki": "Kismet (musical)",
+      "composers": [
+        {
+          "name": "Alexander Borodin",
+          "qid": "Q164004",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11407"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "George Forrest",
+          "qid": "Q1070832",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11679"
+        },
+        {
+          "name": "Robert Wright",
+          "qid": "Q888339",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12601"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Luther Davis",
+          "qid": "Q3267868",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7445"
+        },
+        {
+          "name": "Charles Lederer",
+          "qid": "Q971219",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4774"
+        }
+      ],
+      "premiere": {
+        "date": "1953-12-03",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5079",
+        "wikipedia": "https://en.wikipedia.org/wiki/Kismet_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q3815652"
+      },
+      "summary": {
+        "text": "Kismet is a musical adapted by Charles Lederer and Luther Davis from the play Kismet (1911) by Edward Knoblock, with lyrics and musical adaptation (as well as some original music) by Robert Wright and George Forrest. The music was mostly adapted from several pieces composed by Alexander Borodin. The story concerns a wily poet who talks his way out of trouble several times; meanwhile, his beautiful daughter meets and falls in love with the young caliph.\nThe musical was first produced on Broadway in 1953 and won the Tony Award for best musical in 1954. It was also successful in London's West End and has been given several revivals.  A 1955 film version was produced by Metro-Goldwyn-Mayer.",
+        "source_url": "https://en.wikipedia.org/wiki/Kismet_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "le-postillon-de-lonjumeau": {
+      "slug": "le-postillon-de-lonjumeau",
+      "title": "Le postillon de Lonjumeau",
+      "qid": "Q468633",
+      "enwiki": "Le postillon de Lonjumeau",
+      "composers": [
+        {
+          "name": "Adolphe Adam",
+          "qid": "Q189544",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/111079"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Adolphe de Leuven",
+          "qid": "Q2087458"
+        },
+        {
+          "name": "Léon-Lévy Brunswick",
+          "qid": "Q3270631"
+        }
+      ],
+      "premiere": {
+        "date": "1836-10-13",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Le_postillon_de_Lonjumeau",
+        "wikidata": "https://www.wikidata.org/wiki/Q468633"
+      },
+      "summary": {
+        "text": "Le postillon de Lonjumeau (The Postillion of Lonjumeau) is an opéra comique in three acts by Adolphe Adam to a French libretto by Adolphe de Leuven and Léon Lévy Brunswick.\nThe opera has become the most successful of Adam's works, and the one by which (apart from his ballet Giselle and his Christmas carol \"Cantique de Noël\") he is best known outside his native France. The opera is \"in the mainstream of French opera comique, jam-packed with Gallic style and charm and musically quite sophisticated, with parody and pastiche lightly touched in\".  The well-known tenor Act one aria ('ronde') \"Mes amis, écoutez l'histoire\" includes the demanding high D, or D5, at the end.",
+        "source_url": "https://en.wikipedia.org/wiki/Le_postillon_de_Lonjumeau",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "les-cadeaux-de-noel": {
+      "slug": "les-cadeaux-de-noel",
+      "title": "Les cadeaux de Noël",
+      "qid": "Q15410861",
+      "enwiki": "Les cadeaux de Noël",
+      "composers": [
+        {
+          "name": "Xavier Leroux",
+          "qid": "Q323589"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Émile Fabre",
+          "qid": "Q3588493",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5390"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": "Salle Favart"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Les_cadeaux_de_No%C3%ABl",
+        "wikidata": "https://www.wikidata.org/wiki/Q15410861"
+      },
+      "summary": {
+        "text": "Les cadeaux de Noël (The Christmas Gifts) is an opera in one act composed by Xavier Leroux to a French-language libretto by Émile Fabre. Described as a conte héroïque (heroic tale), it was premiered by the Opéra-Comique at the Salle Favart Theatre in Paris on Christmas Day 1915. Its story of four children, whose parents had been killed by German soldiers but who nevertheless found hope in a seemingly bleak Christmas, had a particular resonance with French audiences in the midst of World War I. The opera was a great success in Paris, and subsequently performed in Italy, Monte Carlo and Latin America.",
+        "source_url": "https://en.wikipedia.org/wiki/Les_cadeaux_de_No%C3%ABl",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "my-favorite-year": {
+      "slug": "my-favorite-year",
+      "title": "My Favorite Year",
+      "qid": "Q6945431",
+      "enwiki": "My Favorite Year (musical)",
+      "composers": [
+        {
+          "name": "Stephen Flaherty",
+          "qid": "Q3973178",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11668"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Lynn Ahrens",
+          "qid": "Q293323",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7450"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Joseph Dougherty",
+          "qid": "Q6282683"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6371",
+        "wikipedia": "https://en.wikipedia.org/wiki/My_Favorite_Year_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6945431"
+      },
+      "summary": {
+        "text": "My Favorite Year is a musical with a book by Joseph Dougherty, music by Stephen Flaherty, and lyrics by Lynn Ahrens. It is based on the 1982 film of the same name.",
+        "source_url": "https://en.wikipedia.org/wiki/My_Favorite_Year_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "paavo-the-great-great-race-great-dream": {
+      "slug": "paavo-the-great-great-race-great-dream",
+      "title": "Paavo the Great. Great Race. Great Dream.",
+      "qid": "Q18690077",
+      "enwiki": "Paavo the Great. Great Race. Great Dream.",
+      "composers": [
+        {
+          "name": "Tuomas Kantelinen",
+          "qid": "Q1888492"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Paavo Haavikko",
+          "qid": "Q444876"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Paavo_the_Great._Great_Race._Great_Dream.",
+        "wikidata": "https://www.wikidata.org/wiki/Q18690077"
+      },
+      "summary": {
+        "text": "Paavo the Great. Great Race. Great Dream. (Finnish: Paavo Suuri. Suuri juoksu. Suuri uni.) is an opera in three acts by Finnish composer Tuomas Kantelinen to a libretto by the poet Paavo Haavikko. The opera deals with the life of the Finnish middle- and long-distance runner Paavo Nurmi who won a total of nine Olympic gold medals in the 1920s. It was premiered in the Helsinki Olympic Stadium in 2000 as Helsinki was one of the European Capitals of Culture. The title refers to Nurmi's great ambition to win the marathon race at the 1940 Helsinki Olympics, which were not held because of the outbreak of World War II.",
+        "source_url": "https://en.wikipedia.org/wiki/Paavo_the_Great._Great_Race._Great_Dream.",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "pyramus-and-thisbe": {
+      "slug": "pyramus-and-thisbe",
+      "title": "Pyramus and Thisbe",
+      "qid": "Q7263384",
+      "enwiki": "Pyramus and Thisbe (opera)",
+      "composers": [
+        {
+          "name": "John Frederick Lampe",
+          "qid": "Q480487"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "http://www.wikidata.org/.well-known/genid/ffa9032f9a54a713294ec58a20bcf608",
+          "qid": "ffa9032f9a54a713294ec58a20bcf608"
+        }
+      ],
+      "premiere": {
+        "date": "1745-01-25",
+        "venue": "Covent Theater"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Pyramus_and_Thisbe_(opera)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7263384"
+      },
+      "summary": {
+        "text": "Pyramus and Thisbe is a \"mock opera\" by the German-born composer John Frederick Lampe on the story of Pyramus and Thisbe. It was first performed at Covent Garden Theatre, London, on 25 January 1745. The anonymous libretto (possibly the work of the composer or Henry Carey) is based on Richard Leveridge's The Comickal Masque of Pyramus and Thisbe (1716), itself inspired by the \"play within a play\" in act 5 of William Shakespeare's A Midsummer Night's Dream.\nThis was the last of Lampe's operas, and was a much-needed success after a difficult period for musicians in the London theatre. In 1741 the revolution in Shakespearean acting initiated by Macklin and Garrick diverted attention away from music, and Lampe produced no new work in the major theatres for four years. Pyramus returns to the vein of burlesque that he mined in The Dragon of Wantley (1737), his first popular success; it ridicules Italian-style opera and opera singers rather than Shakespeare's plays and players. The onstage audience, originally Duke Theseus and his entourage, consists of Mr Semibrief (the impresario) and two gentlemen, one of whom has experienced Italian opera at first hand on the grand tour; they interject facetious spoken comments as the all-sung opera proceeds. The story follows Shakespeare closely: the Wall (tenor) sports a chink through which Pyramus (tenor) and Thisbe (soprano) arrange to meet 'at Ninny's tomb'. Thisbe arrives first and is frightened away by the Lion (bass), who sings a splendid roaring aria. After the Moon (tenor) has sung a lyrical Arne-like number, Pyramus appears, fears the worst and stabs himself 'like a hero in Italian opera, to very good time and tune'; Thisbe follows suit. But they are revived by Mr Semibrief in time to sing the epilogue. Lampe's music is charming and largely deadpan, though there are the standard Handelian rage and revenge arias. The full score (London, 1745/ R 1988) omits the secco recitatives, a dance and the last chorus.",
+        "source_url": "https://en.wikipedia.org/wiki/Pyramus_and_Thisbe_(opera)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "roger-de-flor": {
+      "slug": "roger-de-flor",
+      "title": "Roger de Flor",
+      "qid": "Q6111071",
+      "enwiki": "Roger de Flor (opera)",
+      "composers": [
+        {
+          "name": "Ruperto Chapí",
+          "qid": "Q964682"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1878-02-11",
+        "venue": "Teatro Real"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Roger_de_Flor_(opera)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6111071"
+      },
+      "summary": {
+        "text": "Roger de Flor is an opera (drama lírico) in three acts by Ruperto Chapí for libretto by Mariano Capdepón. It is the third of the three operas composed by Chapí during his studies in Paris and Italy. It was staged for the first time at the Teatro Real in Madrid on 23 January 1878. The first modern performance was on 10 March 2012 in Palau de la Música de València in a concert performance.",
+        "source_url": "https://en.wikipedia.org/wiki/Roger_de_Flor_(opera)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "smike": {
+      "slug": "smike",
+      "title": "Smike",
+      "qid": "Q1539188",
+      "enwiki": "Smike",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Smike",
+        "wikidata": "https://www.wikidata.org/wiki/Q1539188"
+      },
+      "summary": {
+        "text": "Smike is a pop musical adaptation of a small part of Charles Dickens' 1839 novel Nicholas Nickleby, that was televised for the BBC in 1973. The musical is based on the character Smike from that novel. The TV production starred Beryl Reid as Mrs Squeers, Andrew Keir as Mr Squeers, Leonard Whiting as Nicholas, and Ian Sharrock as Smike. The original cast also featured DJ Neil Fox, a pupil at Kingston Grammar, as one of the schoolboys. A cast album was released on Pye records, including the songs from that production, but not all of the songs used in the stage version. The complete score was re-recorded in 1983 and released on a double album featuring Jill Gascoine, Oliver Tobias and Mike Holoway.\nIt was originally devised in 1973 at Kingston Grammar School by two teachers, Simon May, who became a successful television composer, and Clive Barnett. The songwriting partner was Roger Holman.\nSongs include \"Don't Let Life Get You Down\" and \"In the Warm Light of a Brand New Day\". \"We'll Find Our Day\" was recorded by Mark Rattray and Emma Robbins, and featured on the album New Vintage: The Best of Simon May. Simon May's 1977 album Summer of My Life included \"Don't Let Life Get You Down\" and \"In the Warm Light of a Brand New Day\", with the latter also featured on his album Simon's Way. '\"Parents\"/\"Better Off The Way I Am\" was included on May's 2010 compilation album The Simon May Collection.",
+        "source_url": "https://en.wikipedia.org/wiki/Smike",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "suncanica": {
+      "slug": "suncanica",
+      "title": "Sunčanica",
+      "qid": "Q7641792",
+      "enwiki": "Sunčanica",
+      "composers": [
+        {
+          "name": "Boris Papandopulo",
+          "qid": "Q893746"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1942-06-13",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Sun%C4%8Danica",
+        "wikidata": "https://www.wikidata.org/wiki/Q7641792"
+      },
+      "summary": {
+        "text": "Sunčanica is a historical opera composed by Boris Papandopulo, with a libretto by Marko Soljačić based on Ivan Gundulić's Osman and his son Šišmundo Gundulić, who continued the Osman, about the Sunčanica history.\nIt was first performed at the Croatian National Theatre in Zagreb (then the Croatian State Theatre in Zagreb) on June 13, 1942. The opera was produced by Branko Gavella, choreographed by Ana Roje and Oskar Harmoš, and its main role was played by Srebrenka Jurinac.\nIn 2008, the opera was fully performed for the first time in 62 years when it opened the 16th Zajc's Days festival at the Croatian National Theatre Ivan pl. Zajc in Rijeka.",
+        "source_url": "https://en.wikipedia.org/wiki/Sun%C4%8Danica",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "superbia": {
+      "slug": "superbia",
+      "title": "Superbia",
+      "qid": "Q112161233",
+      "enwiki": "Superbia (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Superbia_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q112161233"
+      },
+      "summary": {
+        "text": "Superbia is an unproduced musical with book, music, and lyrics by Jonathan Larson. Stemming from an earlier attempt at writing a musical based on Nineteen Eighty-Four by George Orwell, Larson spent a six-year period from 1985 to 1991 working on Superbia, which for numerous reasons never went beyond the workshop stage of development. Eventually, Larson set aside Superbia for other projects, including Rent, and died in 1996 before he could return to working on it.\nSuperbia was a science fiction musical set in the year 2064 in a world dominated by TVs and cameras. The overall message Larson pursued, which remained to his final draft, was a cautionary tale about media desensitization and what Larson referred to as \"Bottom Line Mentality\". He initially described it as a futuristic fairy tale along the lines of Cinderella and The Emperor's New Clothes. Larson wanted to blend the inherent theatricality of 1980s pop with musical theater storytelling. To that end, he composed the musical largely on a synthesizer, combining New Wave synth-pop and rock with traditional Broadway and vaudevillian structures. Superbia thus represents Larson's first serious attempt to meld popular music styles with musical theater, a combination he later became well known for with Rent and Tick, Tick...Boom!.\nSuperbia has never been produced or published even after Larson's death, but interest in it has persisted due to its depiction in his semi-autobiographical musical Tick, Tick... Boom! and its 2021 film adaptation.",
+        "source_url": "https://en.wikipedia.org/wiki/Superbia_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "thanks-to-my-eyes": {
+      "slug": "thanks-to-my-eyes",
+      "title": "Thanks to My Eyes",
+      "qid": "Q17142867",
+      "enwiki": "Thanks to My Eyes",
+      "composers": [
+        {
+          "name": "Oscar Bianchi",
+          "qid": "Q7105882"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Joël Pommerat",
+          "qid": "Q933547"
+        }
+      ],
+      "premiere": {
+        "date": "2011",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "http://www.oscarbianchi.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Thanks_to_My_Eyes",
+        "wikidata": "https://www.wikidata.org/wiki/Q17142867"
+      },
+      "summary": {
+        "text": "Thanks To My Eyes is the first opera by the Italian Swiss composer Oscar Bianchi. It was premiered at the Festival d'Aix-en-Provence in 2011 and received its Belgian premiere at the La Monnaie in Brussels in March 2012. The same year further performances took place in Europe.\nThe libretto by Joël Pommerat is based on his former play Grace a mes Yeux.",
+        "source_url": "https://en.wikipedia.org/wiki/Thanks_to_My_Eyes",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-canterville-ghost-getty-opera": {
+      "slug": "the-canterville-ghost-getty-opera",
+      "title": "The Canterville Ghost",
+      "qid": "Q48779392",
+      "enwiki": "The Canterville Ghost (Getty opera)",
+      "composers": [
+        {
+          "name": "Gordon Getty",
+          "qid": "Q3110901"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Gordon Getty",
+          "qid": "Q3110901"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Canterville_Ghost_(Getty_opera)",
+        "wikidata": "https://www.wikidata.org/wiki/Q48779392"
+      },
+      "summary": {
+        "text": "The Canterville Ghost is a one-act opera by Gordon Getty to the composer's own libretto after the 1887 short story by Oscar Wilde. The opera was first performed in 2015 at Leipzig Opera, with Matthias Foremny conducting the Gewandhaus Orchestra. It was performed as a pair with his opera Usher House at the Center for Contemporary Opera in New York in August 2017.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Canterville_Ghost_(Getty_opera)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-dangerous-liaisons": {
+      "slug": "the-dangerous-liaisons",
+      "title": "The Dangerous Liaisons",
+      "qid": "Q5970890",
+      "enwiki": "The Dangerous Liaisons",
+      "composers": [
+        {
+          "name": "Conrad Susa",
+          "qid": "Q2993633",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12473"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Philip Littell",
+          "qid": "Q108544520"
+        }
+      ],
+      "premiere": {
+        "date": "1994-09-10",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Dangerous_Liaisons",
+        "wikidata": "https://www.wikidata.org/wiki/Q5970890"
+      },
+      "summary": {
+        "text": "The Dangerous Liaisons is an opera in two acts and eight scenes, with music by Conrad Susa to an English libretto by Philip Littell.  It is based on the 1782 novel Les Liaisons dangereuses by Pierre Choderlos de Laclos. The opera has set numbers with recitative and spoken dialog.  It is set in France in the 18th century. The opera received its first performance by the San Francisco Opera on 10 September 1994, with stage direction by Colin Graham and Donald Runnicles as the conductor.  The world-premiere cast included Thomas Hampson as Valmont, Frederica von Stade as Merteuil, David Hobson as Chevalier de Danceny, Renée Fleming as Tourvel and Mary Mills as Cécile de Volanges.  The opera was performed at Washington Opera in March 1998. The San Francisco Opera production was also aired on the American PBS television network's Great Performances. Albany Records released an audio recording of a performance by Manhattan School of Music Opera Theater in 2016.\nOther notable performances include a 2008 production by Dicapo Opera Theater in New York City, featuring an adaptation for reduced forces.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Dangerous_Liaisons",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-duchess-of-malfi": {
+      "slug": "the-duchess-of-malfi",
+      "title": "The Duchess of Malfi",
+      "qid": "Q7731117",
+      "enwiki": "The Duchess of Malfi (opera)",
+      "composers": [
+        {
+          "name": "Stephen Oliver",
+          "qid": "Q3498622",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12214"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1971-11-23",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Duchess_of_Malfi_(opera)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7731117"
+      },
+      "summary": {
+        "text": "The Duchess of Malfi is an opera in three acts by the British composer Stephen Oliver, based on the  eponymous play by John Webster.  Oliver originally wrote this opera, his ninth, in 1971, at age 21, for a production at the Oxford Playhouse on commission from the Oxford University Opera Club.  The premiere was on November 23, 1971, with the following cast members:\n\nJillian Crowe (The Duchess)\nKeith Jones (Antonio)\nMarion Milford (Julia)\nPeter Reynolds (The Cardinal)\nStephen Oliver (Bosola)\nAnthony Sargent (Ferdinand)\nAlison Stamp (Cariola)\nThe conductor was Peter Robinson, and the director Julian Hope.\nOliver then rewrote the work, and the revised version received its US premiere at Santa Fe Opera on August 5, 1978.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Duchess_of_Malfi_(opera)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-magician-s-elephant": {
+      "slug": "the-magician-s-elephant",
+      "title": "The Magician's Elephant",
+      "qid": "Q85847720",
+      "enwiki": "The Magician's Elephant (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Magician's_Elephant_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q85847720"
+      },
+      "summary": {
+        "text": "The Magician's Elephant is a musical with book and lyrics by Nancy Harris and music and lyrics by Marc Teitler, based on the 2009 children's novel of the same name by Kate DiCamillo.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Magician's_Elephant_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-night-boat": {
+      "slug": "the-night-boat",
+      "title": "The Night Boat",
+      "qid": "Q7754070",
+      "enwiki": "The Night Boat",
+      "composers": [
+        {
+          "name": "Jerome Kern",
+          "qid": "Q313270",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6711"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Anne Caldwell",
+          "qid": "Q4768205",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4167"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Anne Caldwell",
+          "qid": "Q4768205",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4167"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6531",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Night_Boat",
+        "wikidata": "https://www.wikidata.org/wiki/Q7754070"
+      },
+      "summary": {
+        "text": "The Night Boat (1920) is a musical in three acts, based on a farce by Alexandre Bisson, with a book and lyrics by Anne Caldwell and music by Jerome Kern.  The story lampoons the notorious New York City-to-Albany night boat, on which clandestine romances were common.\nAfter out-of-town tryouts, the musical was produced on Broadway by Charles Dillingham, where it opened on February 2, 1920, at the Liberty Theatre under the direction of Fred G. Latham and Ned Wayburn, with music direction by Victor Baravalle. The Night Boat had a successful initial run of 313 performances, closing on October 30, 1920 and opening for a new run in Boston soon afterwards, followed by successful tours.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Night_Boat",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-spitfire-grill": {
+      "slug": "the-spitfire-grill",
+      "title": "The Spitfire Grill",
+      "qid": "Q7765961",
+      "enwiki": "The Spitfire Grill (musical)",
+      "composers": [
+        {
+          "name": "James Valcq",
+          "qid": "Q15458843"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Fred Alley",
+          "qid": "Q5494440"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "James Valcq",
+          "qid": "Q15458843"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Spitfire_Grill_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7765961"
+      },
+      "summary": {
+        "text": "The Spitfire Grill is an American musical with music and book by James Valcq and lyrics and book by Fred Alley, based on the 1996 film of the same name by Lee David Zlotoff. The off-Broadway production by Playwrights Horizons began previews at the Duke Theatre on 42nd Street on September 7, 2001, and concluded its scheduled run on October 14, 2001. It won the Richard Rodgers Production Award, administered by the American Academy of Arts and Letters. The musical depicts the journey of a young woman just released from prison, who decides to start her life anew in a rural town in Wisconsin. She participates in a journey within the town toward its own tenuous reawakening.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Spitfire_Grill_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-three-cornered-hat": {
+      "slug": "the-three-cornered-hat",
+      "title": "The Three-Cornered Hat",
+      "qid": "Q1193029",
+      "enwiki": "The Three-Cornered Hat",
+      "composers": [
+        {
+          "name": "Manuel de Falla",
+          "qid": "Q193283",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11578"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1919-07-22",
+        "venue": "Alhambra Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8666",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Three-Cornered_Hat",
+        "wikidata": "https://www.wikidata.org/wiki/Q1193029"
+      },
+      "summary": {
+        "text": "The Three-Cornered Hat (Spanish: El sombrero de tres picos or Le tricorne) is a ballet choreographed by Léonide Massine to music by Manuel de Falla. Commissioned by Sergei Diaghilev, the ballet premiered in 1919. In addition to its Spanish setting, this ballet also employs the techniques of Spanish dance (adapted and somewhat simplified) instead of classical ballet.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Three-Cornered_Hat",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "thesee-lully": {
+      "slug": "thesee-lully",
+      "title": "Thésée",
+      "qid": "Q3098992",
+      "enwiki": "Thésée (Lully)",
+      "composers": [
+        {
+          "name": "Jean-Baptiste Lully",
+          "qid": "Q1192",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/113686"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Philippe Quinault",
+          "qid": "Q379947"
+        }
+      ],
+      "premiere": {
+        "date": "1675-01-11",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Th%C3%A9s%C3%A9e_(Lully)",
+        "wikidata": "https://www.wikidata.org/wiki/Q3098992"
+      },
+      "summary": {
+        "text": "Thésée (French: [te.ze]; lit. 'Theseus') is a tragédie en musique, an early type of French opera, in a prologue and five acts with music by Jean-Baptiste Lully and a libretto by Philippe Quinault based on Ovid's Metamorphoses. It was first performed on 11 January 1675 by the Paris Opera for the royal court at the Château de Saint-Germain-en-Laye and was first performed in public in April at the Théâtre du Palais-Royal in Paris.\nThe plot centres around a love triangle: Aegeus wants to marry his ward, princess Aegle, while the sorceress Medea wishes to marry the young warrior Theseus, but Theseus and Aegle love each other. Medea attempts to force the lovers to renounce each other: first by using her magic to bring Aegle to a place of torment, then by convincing Aegeus to have Theseus killed as a potential threat to his reign. But before Theseus can drink the poison he has been given, Aegeus realises that Theseus is his lost son. He then gives Aegle to Theseus. Medea takes vengeance by destroying the festive setting, but the goddess Minerva undoes this.\nThésée is notable for being the earliest known piece of Western classical music to include timpani in its orchestral instrumentation.",
+        "source_url": "https://en.wikipedia.org/wiki/Th%C3%A9s%C3%A9e_(Lully)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "three-preludes": {
+      "slug": "three-preludes",
+      "title": "Three Preludes",
+      "qid": "Q7797703",
+      "enwiki": "Three Preludes (ballet)",
+      "composers": [
+        {
+          "name": "George Gershwin",
+          "qid": "Q123829",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5813"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Three_Preludes_(ballet)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7797703"
+      },
+      "summary": {
+        "text": "Three Preludes is a ballet by Mark Morris to eponymous music by George Gershwin for his own company and presented as a piece d'occasion by the New York City Ballet.  The performance took place June 16, 1992, at the New York State Theater, Lincoln Center and featured Mikhail Baryshnikov.",
+        "source_url": "https://en.wikipedia.org/wiki/Three_Preludes_(ballet)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "undine-hoffmann": {
+      "slug": "undine-hoffmann",
+      "title": "Undine",
+      "qid": "Q2492973",
+      "enwiki": "Undine (Hoffmann)",
+      "composers": [
+        {
+          "name": "E. T. A. Hoffmann",
+          "qid": "Q150471",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/79587"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "E. T. A. Hoffmann",
+          "qid": "Q150471",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/79587"
+        },
+        {
+          "name": "Friedrich de la Motte Fouqué",
+          "qid": "Q77371"
+        }
+      ],
+      "premiere": {
+        "date": "1816-08-03",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Undine_(Hoffmann)",
+        "wikidata": "https://www.wikidata.org/wiki/Q2492973"
+      },
+      "summary": {
+        "text": "Undine is an opera, with spoken dialogue, in three acts by the German composer and author E. T. A. Hoffmann (1776-1822). The libretto, by Friedrich de la Motte Fouqué, is based on his own story Undine (1811). It received its premiere at the Königliches Schauspielhaus in Berlin on 3 August 1816. Undine was Hoffmann's greatest operatic success and a major influence on the development of German Romantic opera.\nCarl Maria von Weber's enthusiastic review of the opera admired it as \"an art work complete in itself, in which partial contributions of the related and collaborating arts blend together, disappear, and, in disappearing, somehow form a new world\".\nIt was revived by the Wuppertal Opera in 1970.\nThere is a 1960 recording (including the spoken dialogue) by the Choir and Symphony Orchestra of the Bavarian Radio, conductor: Jan Koetsier, Undine: Rita Streich, Hulbrand von Ringstetten: Raimund Grumbach, Berthalda: Melitta Muszely, Kuhleborn: Karl-Christian Kohn, Ein alter Fischer: Max Proebstl, Seine Frau: Sunhild Rauschkolb, Heilmann: Kieth Engen, Herzog: Anton Rosner, Herzogin: Marjorie Heistermann; and a 3 CDs 1993 recording (leaving out the spoken dialogue) by the Berlin Radio Symphony Orchestra and the Choir of St. Hedwig's Cathedral in Berlin, conductor: Roland Bader; Roland Hermann, Hans Franzen, Elisabeth Glauser, Krisztina Laki, Heikki Orama, Karl Ridderbusch, Ulrich Ress, Dora Koschak, Mani Mekler.",
+        "source_url": "https://en.wikipedia.org/wiki/Undine_(Hoffmann)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "white-noise-a-cautionary-musical": {
+      "slug": "white-noise-a-cautionary-musical",
+      "title": "White Noise: A Cautionary Musical",
+      "qid": "Q7995113",
+      "enwiki": "White Noise: A Cautionary Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/White_Noise%3A_A_Cautionary_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q7995113"
+      },
+      "summary": {
+        "text": "White Noise: A Cautionary Musical is a musical about a white supremacist rock duo. Created by Ryan J. Davis, the show was directed by Sergio Trujillo and produced by Whoopi Goldberg. The music and lyrics were written by Robert Morris, Steven Morris, and Joe Shane, based upon the book White Noise by Matte O'Brien. \nThis musical is a satire that was inspired by the true story of Prussian Blue, a Neo-Nazi folk duo that gained a following singing songs with undertones of their racist ideology. It seeks to draw attention to the lyrical content found in the contemporary music industry and the individual's responsibility to critically listen to and evaluate musical selections.",
+        "source_url": "https://en.wikipedia.org/wiki/White_Noise%3A_A_Cautionary_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "wintermarchen": {
+      "slug": "wintermarchen",
+      "title": "Wintermärchen",
+      "qid": "Q21823320",
+      "enwiki": "Wintermärchen",
+      "composers": [
+        {
+          "name": "Philippe Boesmans",
+          "qid": "Q741647"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Luc Bondy",
+          "qid": "Q116359"
+        },
+        {
+          "name": "Marie-Louise Bischofberger",
+          "qid": "Q17579874"
+        }
+      ],
+      "premiere": {
+        "date": "1999-12-10",
+        "venue": "Royal Theatre of La Monnaie"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Winterm%C3%A4rchen",
+        "wikidata": "https://www.wikidata.org/wiki/Q21823320"
+      },
+      "summary": {
+        "text": "Wintermärchen is an opera by Philippe Boesmans to a libretto by Luc Bondy and Marie-Louise Bischofberger after Shakespeare's The Winter's Tale. It was premiered on 10 December 1999 at La Monnaie in Brussels. The German premiere followed in 2001 at the Staatstheater Braunschweig.",
+        "source_url": "https://en.wikipedia.org/wiki/Winterm%C3%A4rchen",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "written-on-skin": {
+      "slug": "written-on-skin",
+      "title": "Written on Skin",
+      "qid": "Q8012986",
+      "enwiki": "Written on Skin",
+      "composers": [
+        {
+          "name": "George Benjamin",
+          "qid": "Q945633"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Martin Crimp",
+          "qid": "Q2641841",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7571"
+        }
+      ],
+      "premiere": {
+        "date": "2012-07-07",
+        "venue": "Aix-en-Provence Festival"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Written_on_Skin",
+        "wikidata": "https://www.wikidata.org/wiki/Q8012986"
+      },
+      "summary": {
+        "text": "Written on Skin is an opera by the British composer George Benjamin, with a libretto written by Martin Crimp.\nBenjamin's first full-length opera, it was premiered at the 2012 Aix-en-Provence Festival by the Mahler Chamber Orchestra as a commission from five opera centres, and received its British premiere at the Royal Opera House in London in March 2013 and its Paris premiere at the Opéra-Comique in November that year; Benjamin conducted for all of these premiere seasons.\nThe libretto by Martin Crimp, who also wrote the libretto for Benjamin's first opera Into The Little Hill, is based on legend of the troubadour Guillaume de Cabestanh; the story is also repeated in The Decameron of Giovanni Boccaccio. The action takes place in 13th-century Provence.\nThe opera is divided into 15 scenes. The Protector (a rich land-owner) pays the Boy (an artist) to create and illustrate a manuscript about his family. The Boy and the Protector's wife Agnès are attracted to each other. Incensed by the reawakened independence of his wife, the Protector murders the Boy and forces Agnès unwittingly to eat his heart. Agnès commits suicide. 'Angels' comment throughout on the action from a modern-day perspective.\nThe success of the opera in performance motivated the Royal Opera to commission a second full-length opera by Crimp and Benjamin, Lessons in Love and Violence, premiered at the Royal Opera House in May 2018. The opera was given in several productions, such as the Oper Frankfurt in 2026, directed by Tatjana Gürbaca and conducted by Erik Nielsen, with Bo Skovhus as The Protector, Elizabeth Reiter as Agnès, and Iurii Iushkevich as First Angel/The Boy.",
+        "source_url": "https://en.wikipedia.org/wiki/Written_on_Skin",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}
