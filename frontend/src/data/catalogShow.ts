@@ -60,6 +60,8 @@ export interface CatalogIndex {
 }
 
 export interface CatalogShard {
+  /** Same as the index's meta.live, so a show page never needs the 1 MB index. */
+  live: boolean
   shows: Record<string, CatalogShow>
 }
 

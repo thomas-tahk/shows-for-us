@@ -3,8 +3,11 @@ import { join } from 'node:path'
 import { test as base, expect } from '@playwright/test'
 
 // The e2e specs never read public/catalog/: the weekly refresh replaces it with ~5,900 real shows.
-// Every test serves e2e/fixtures/catalog/ instead (a copy of the sample catalogue).
+// Every test serves e2e/fixtures/catalog/ instead (a copy of the sample catalogue),
+// and gets a stub for Wikimedia images.
 const FIXTURE_DIR = join(import.meta.dirname, 'fixtures', 'catalog')
+// 1x1 transparent PNG: show images come from upload.wikimedia.org, which e2e must not depend on.
+const PIXEL = Buffer.from('iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=', 'base64')
 const SPA_FALLBACK = '<!doctype html><html><head><title>Shows For Us</title></head><body><div id="root"></div></body></html>'
 
 function readFixture(path: string): string | null {
@@ -27,6 +30,9 @@ export const test = base.extend<{ catalogFixture: void }>({
         if (body === null) return route.fulfill({ status: 200, contentType: 'text/html', body: SPA_FALLBACK })
         return route.fulfill({ status: 200, contentType: 'application/json', body })
       })
+      await page.route('https://upload.wikimedia.org/**', route =>
+        route.fulfill({ status: 200, contentType: 'image/png', body: PIXEL }),
+      )
       await use()
     },
     { auto: true },
