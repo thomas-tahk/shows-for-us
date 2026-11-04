@@ -1,0 +1,1619 @@
+{
+  "shows": {
+    "1600-pennsylvania-avenue": {
+      "slug": "1600-pennsylvania-avenue",
+      "title": "1600 Pennsylvania Avenue",
+      "qid": "Q4551092",
+      "enwiki": "1600 Pennsylvania Avenue (musical)",
+      "composers": [
+        {
+          "name": "Leonard Bernstein",
+          "qid": "Q152505",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7257"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Alan Jay Lerner",
+          "qid": "Q961893",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3945"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Alan Jay Lerner",
+          "qid": "Q961893",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3945"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1013",
+        "playbill": "https://playbill.com/production/1600-pennsylvania-avenue-mark-hellinger-theatre-vault-0000005790",
+        "wikipedia": "https://en.wikipedia.org/wiki/1600_Pennsylvania_Avenue_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4551092"
+      },
+      "summary": {
+        "text": "1600 Pennsylvania Avenue is a 1976 musical with music by Leonard Bernstein and book and lyrics by Alan Jay Lerner. It is considered to be a legendary Broadway flop, running only seven performances. It was Bernstein's last original score for Broadway.",
+        "source_url": "https://en.wikipedia.org/wiki/1600_Pennsylvania_Avenue_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "a-chorus-line": {
+      "slug": "a-chorus-line",
+      "title": "A Chorus Line",
+      "qid": "Q189427",
+      "enwiki": "A Chorus Line",
+      "composers": [
+        {
+          "name": "Marvin Hamlisch",
+          "qid": "Q337206",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11816"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Edward Kleban",
+          "qid": "Q5343953",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13009"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "James Kirkwood, Jr.",
+          "qid": "Q3110308",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/48233"
+        }
+      ],
+      "premiere": {
+        "date": "1975-04-15",
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Laurence Olivier Awards",
+          "qid": "Q28470"
+        },
+        {
+          "name": "Pulitzer Prize for Drama",
+          "qid": "Q289214"
+        },
+        {
+          "name": "Drama Desk Award for Outstanding Music",
+          "qid": "Q5305717"
+        }
+      ],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1058",
+        "official_site": "http://www.achoruslineontour.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Chorus_Line",
+        "wikidata": "https://www.wikidata.org/wiki/Q189427"
+      },
+      "summary": {
+        "text": "A Chorus Line is a 1975 musical conceived by Michael Bennett with music by Marvin Hamlisch, lyrics by Edward Kleban, and a book by James Kirkwood Jr. and Nicholas Dante.\nSet on the bare stage of a Broadway theater, the musical is centered on seventeen Broadway dancers auditioning for spots on a chorus line. A Chorus Line provides a glimpse into the personalities of the performers and the choreographer, as they describe the events that have shaped their lives and their decisions to become dancers.\nFollowing several workshops and an Off-Broadway production, A Chorus Line opened at the Shubert Theatre on Broadway July 25, 1975, directed by Michael Bennett and co-choreographed by Bennett and Bob Avian. An unprecedented box office and critical hit, the musical received twelve Tony Award nominations and won nine, in addition to the 1976 Pulitzer Prize for Drama.\nThe original Broadway production ran for 6,137 performances, becoming the longest-running production in Broadway history until surpassed by Cats in 1997, and the longest-running Broadway musical originally produced in the US, until surpassed in 2011 by the revival of Chicago. It remains the seventh longest-running Broadway show ever. A Chorus Line's success has spawned many successful productions worldwide. It began a lengthy run in the West End in 1976 winning the Laurence Olivier Award for Best New Musical and was revived on Broadway in 2006, and in the West End in 2013.",
+        "source_url": "https://en.wikipedia.org/wiki/A_Chorus_Line",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "a-life-for-the-tsar": {
+      "slug": "a-life-for-the-tsar",
+      "title": "A Life for the Tsar",
+      "qid": "Q94737",
+      "enwiki": "A Life for the Tsar",
+      "composers": [
+        {
+          "name": "Michael Glinka",
+          "qid": "Q181885"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Vassilij Jukovskij",
+          "qid": "Q100338086"
+        },
+        {
+          "name": "Sergey Gorodetsky",
+          "qid": "Q2072175"
+        },
+        {
+          "name": "Karl Georg Woldemar von Rosen",
+          "qid": "Q4396503"
+        }
+      ],
+      "premiere": {
+        "date": "1836-12-09",
+        "venue": "Bolshoi Kamenny Theatre"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Life_for_the_Tsar",
+        "wikidata": "https://www.wikidata.org/wiki/Q94737"
+      },
+      "summary": {
+        "text": "A Life for the Tsar (Russian: Жизнь за царя, romanized: Zhizn za tsarya ) is a \"patriotic-heroic tragic\" opera in four acts with an epilogue by Mikhail Glinka. During the Soviet era the opera was known under the name Ivan Susanin (Russian: Иван Сусанин ), due to the anti-monarchist censorship.\nThe original Russian libretto, based on historical events, was written by Nestor Kukolnik, Egor Fyodorovich (von) Rozen, Vladimir Sollogub and Vasily Zhukovsky. It premiered on 27 November 1836 OS (9 December NS) at the Bolshoi Kamenny Theatre in Saint Petersburg. The historical basis of the plot involves Ivan Susanin, a patriotic hero of the early 17th century who died in the expulsion of the invading Polish army for the newly elected Tsar Michael of Russia, the first of the Romanov dynasty, elected in 1613.",
+        "source_url": "https://en.wikipedia.org/wiki/A_Life_for_the_Tsar",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "acorn-antiques-the-musical": {
+      "slug": "acorn-antiques-the-musical",
+      "title": "Acorn Antiques: The Musical!",
+      "qid": "Q4674541",
+      "enwiki": "Acorn Antiques: The Musical!",
+      "composers": [
+        {
+          "name": "Victoria Wood",
+          "qid": "Q3309588"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Victoria Wood",
+          "qid": "Q3309588"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Laurence Olivier Awards",
+          "qid": "Q28470"
+        }
+      ],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Acorn_Antiques%3A_The_Musical!",
+        "wikidata": "https://www.wikidata.org/wiki/Q4674541"
+      },
+      "summary": {
+        "text": "Acorn Antiques: The Musical! is a musical about an antiques dealer, based on the parodic soap opera of the same name by Victoria Wood. It premiered in the West End in 2005, and starred Julie Walters and Celia Imrie. The musical won the Olivier Award for Best Performance in a Supporting Role in a Musical and was nominated as Best New Musical.",
+        "source_url": "https://en.wikipedia.org/wiki/Acorn_Antiques%3A_The_Musical!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "ain-t-supposed-to-die-a-natural-death": {
+      "slug": "ain-t-supposed-to-die-a-natural-death",
+      "title": "Ain't Supposed to Die a Natural Death",
+      "qid": "Q4697295",
+      "enwiki": "Ain't Supposed to Die a Natural Death",
+      "composers": [
+        {
+          "name": "Melvin Van Peebles",
+          "qid": "Q2531955",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7702"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Melvin Van Peebles",
+          "qid": "Q2531955",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7702"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Melvin Van Peebles",
+          "qid": "Q2531955",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7702"
+        }
+      ],
+      "premiere": {
+        "date": "1971",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1426",
+        "wikipedia": "https://en.wikipedia.org/wiki/Ain't_Supposed_to_Die_a_Natural_Death",
+        "wikidata": "https://www.wikidata.org/wiki/Q4697295"
+      },
+      "summary": {
+        "text": "Ain't Supposed to Die a Natural Death (Tunes from Blackness) is a musical with a book, music, and lyrics by Melvin Van Peebles.  The musical contains some material also on three of Van Peebles' albums, Brer Soul, Ain't Supposed to Die a Natural Death and As Serious as a Heart-Attack, some of which were yet to come out.\nThe musical is a series of 19 politically outspoken, darkly comic, and sexually charged musical monologues that explore the negative aspects of African-American street life and the ghetto experience. Each character has a painful story to tell in funk, soul, jazz and blues-inflected songs.  The innovative piece, presented in a confrontational, \"in your face\" style, is a precursor to choreopoem, spoken word, and rap music.  It \"contributed to the growing black presence on Broadway.\"\nIn 1970, Van Peebles decided to transform some of the albums he had recorded between 1968 and 1970 into a musical.  According to Van Peebles, \"The songs were mirroring the incidents that were happening in the streets.\"  Van Peebles marketed the musical to black audiences in churches \"all up and down the fucking East Coast. Ministers have congregations, and the congregations would come with busloads of people.\"",
+        "source_url": "https://en.wikipedia.org/wiki/Ain't_Supposed_to_Die_a_Natural_Death",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "amor-ingegnoso": {
+      "slug": "amor-ingegnoso",
+      "title": "Amor ingegnoso",
+      "qid": "Q30611992",
+      "enwiki": "Amor ingegnoso (Mayr)",
+      "composers": [
+        {
+          "name": "Johann Simon Mayr",
+          "qid": "Q373770"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Caterino Mazzolà",
+          "qid": "Q2856477"
+        }
+      ],
+      "premiere": {
+        "date": "1798-12-27",
+        "venue": "Teatro San Benedetto"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Amor_ingegnoso_(Mayr)",
+        "wikidata": "https://www.wikidata.org/wiki/Q30611992"
+      },
+      "summary": {
+        "text": "Amor ingegnoso is a 1798 farsa by Simon Mayr to a libretto by Caterino Mazzolà, the librettist of Mozart's La Clemenza di Tito. The plot concerns a girl, thought to have died, who pretends to be a ghost to misdirect her former fiancé, in order to marry the man she really loves.",
+        "source_url": "https://en.wikipedia.org/wiki/Amor_ingegnoso_(Mayr)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "angelica-e-medoro": {
+      "slug": "angelica-e-medoro",
+      "title": "Angelica e Medoro",
+      "qid": "Q48999540",
+      "enwiki": "Angelica e Medoro (Porpora)",
+      "composers": [
+        {
+          "name": "Nicola Porpora",
+          "qid": "Q312788",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/517118"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Pietro Metastasio",
+          "qid": "Q29473"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Angelica_e_Medoro_(Porpora)",
+        "wikidata": "https://www.wikidata.org/wiki/Q48999540"
+      },
+      "summary": {
+        "text": "Angelica e Medoro is a 1720 serenata by Nicola Porpora to libretto by Metastasio, after Ludovico Ariosto's epic poem Orlando furioso. The opera, written to celebrate the birthday of the Habsburg emperor, Charles VI and performed 28 August 1720 Naples, Palazzo del Principe di Torella, marked the debut of the castrato Farinelli.",
+        "source_url": "https://en.wikipedia.org/wiki/Angelica_e_Medoro_(Porpora)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "bring-it-on-the-musical": {
+      "slug": "bring-it-on-the-musical",
+      "title": "Bring It On: The Musical",
+      "qid": "Q4968283",
+      "enwiki": "Bring It On: The Musical",
+      "composers": [
+        {
+          "name": "Lin-Manuel Miranda",
+          "qid": "Q1646482",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/459893"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Amanda Green",
+          "qid": "Q4739639",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/447001"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Jeff Whitty",
+          "qid": "Q6175265",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/109407"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/492886",
+        "playbill": "https://playbill.com/production/bring-it-on-the-musical-st-james-theatre-vault-0000013953",
+        "official_site": "https://bringitonmusical.com/index.html",
+        "wikipedia": "https://en.wikipedia.org/wiki/Bring_It_On%3A_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q4968283"
+      },
+      "summary": {
+        "text": "Bring It On: The Musical is a musical with music by Tom Kitt and Lin-Manuel Miranda, lyrics by Amanda Green and Miranda, and book by Jeff Whitty. The musical, loosely based on the 2000 film of the same name written by Jessica Bendinger, focuses on the competitive world of cheerleading and over-the-top team rivalries.\nThe musical premiered at the Alliance Theatre in Atlanta, Georgia in January 2011. The cast included Amanda Lea LaVergne as Campbell, Adrienne Warren as Danielle, Nick Blaemire as Randall, Ryann Redmond as Bridget, and \"award-winning competitive cheerleaders from across the country\". A national tour of the musical played in major U.S. cities from November 2011 to June 2012.\nThe touring stage production began previews on Broadway in July 2012 at the St. James Theatre, before opening for a limited engagement on August 1, 2012, to December 30, 2012.",
+        "source_url": "https://en.wikipedia.org/wiki/Bring_It_On%3A_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "by-the-beautiful-sea": {
+      "slug": "by-the-beautiful-sea",
+      "title": "By the Beautiful Sea",
+      "qid": "Q5003847",
+      "enwiki": "By the Beautiful Sea (musical)",
+      "composers": [
+        {
+          "name": "Arthur Schwartz",
+          "qid": "Q711473",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4324"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Dorothy Fields",
+          "qid": "Q435241",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5113"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Herbert Fields",
+          "qid": "Q1608254",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11265"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2331",
+        "wikipedia": "https://en.wikipedia.org/wiki/By_the_Beautiful_Sea_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5003847"
+      },
+      "summary": {
+        "text": "By the Beautiful Sea is a musical with a book by Herbert Fields and Dorothy Fields, lyrics by Dorothy Fields, and music by Arthur Schwartz. Like Schwartz's previous musical, A Tree Grows in Brooklyn, also starring Shirley Booth, the musical is set in Brooklyn just after the start of the 20th century (1907).  By the Beautiful Sea played on Broadway in 1954.",
+        "source_url": "https://en.wikipedia.org/wiki/By_the_Beautiful_Sea_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "cleopatre": {
+      "slug": "cleopatre",
+      "title": "Cléopâtre",
+      "qid": "Q2980772",
+      "enwiki": "Cléopâtre",
+      "composers": [
+        {
+          "name": "Jules Massenet",
+          "qid": "Q194436",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/87555"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Louis Payen",
+          "qid": "Q3262857"
+        }
+      ],
+      "premiere": {
+        "date": "1914-02-23",
+        "venue": "Opéra de Monte-Carlo"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Cl%C3%A9op%C3%A2tre",
+        "wikidata": "https://www.wikidata.org/wiki/Q2980772"
+      },
+      "summary": {
+        "text": "Cléopâtre is an opera in four acts by Jules Massenet to a French libretto by Louis Payen. It was first performed at the Opéra de Monte-Carlo on 23 February 1914, nearly two years after Massenet's death.\nCléopâtre is one of three operas by Massenet to be premiered posthumously; the others are Panurge (1913) and Amadis (1922).  The piece has seen limited revival since its premiere and has a modest modern recording history.",
+        "source_url": "https://en.wikipedia.org/wiki/Cl%C3%A9op%C3%A2tre",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "das-rheingold": {
+      "slug": "das-rheingold",
+      "title": "Das Rheingold",
+      "qid": "Q327717",
+      "enwiki": "Das Rheingold",
+      "composers": [
+        {
+          "name": "Richard Wagner",
+          "qid": "Q1511",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/72163"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Richard Wagner",
+          "qid": "Q1511",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/72163"
+        }
+      ],
+      "premiere": {
+        "date": "1869-09-22",
+        "venue": "National Theatre Munich"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Das_Rheingold",
+        "wikidata": "https://www.wikidata.org/wiki/Q327717"
+      },
+      "summary": {
+        "text": "Das Rheingold (German: [das ˈʁaɪnɡɔlt] ; The Rhinegold), WWV 86A, is the first of the four epic music dramas that constitute Richard Wagner's cycle Der Ring des Nibelungen (English: The Ring of the Nibelung). It premiered as a single opera at the National Theatre of Munich on 22 September 1869, and received its first performance as part of the Ring cycle at the Bayreuth Festspielhaus on 13 August 1876.\nWagner wrote the Ring librettos in reverse order, so that Das Rheingold was the last of the texts to be written; it was, however, the first to be set to music. The score was completed in 1854, but Wagner was unwilling to sanction its performance until the whole cycle was complete; he worked intermittently on this music until 1874. The 1869 Munich premiere of Das Rheingold was staged, against Wagner's wishes, on the orders of King Ludwig II of Bavaria, his patron. Following its 1876 Bayreuth premiere, the Ring cycle was introduced into the worldwide repertory, with performances in all the main opera houses, in which it has remained a regular and popular fixture.\nIn his 1851 essay Opera and Drama, Wagner had set out new principles as to how music dramas should be constructed, under which the conventional forms of opera (arias, ensembles, choruses) were rejected. Rather than providing word-settings, the music would interpret the text emotionally, reflecting the feelings and moods behind the work, by using a system of recurring leitmotifs to represent people, ideas and situations. Das Rheingold was Wagner's first work that adopted these principles, and his most rigid adherence to them, despite a few deviations – the Rhinemaidens frequently sing in ensemble.\nAs the \"preliminary evening\" within the cycle, Das Rheingold gives the background to the events that drive the main dramas of the cycle. It recounts Alberich's theft of the Rhine gold after his renunciation of love; his fashioning of the all-powerful ring from the gold and his enslavement of the Nibelungs; Wotan's seizure of the gold and the ring, to pay his debt to the giants who have built his fortress Valhalla; Alberich's curse on the ring and its possessors; Erda's warning to Wotan to forsake the ring; the early manifestation of the curse's power after Wotan yields the ring to the giants; and the gods' uneasy entry into Valhalla, under the shadow of their impending doom.",
+        "source_url": "https://en.wikipedia.org/wiki/Das_Rheingold",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "der-evangelimann": {
+      "slug": "der-evangelimann",
+      "title": "Der Evangelimann",
+      "qid": "Q1193192",
+      "enwiki": "Der Evangelimann",
+      "composers": [
+        {
+          "name": "Wilhelm Kienzl",
+          "qid": "Q637353"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1895-05-04",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Der_Evangelimann",
+        "wikidata": "https://www.wikidata.org/wiki/Q1193192"
+      },
+      "summary": {
+        "text": "Der Evangelimann (The Evangelist) is an opera in two acts by the Austrian composer Wilhelm Kienzl. The libretto, by the composer, is based on Leopold Florian Meissner's short story \"Aus den Berichten eines Polizeikommissärs\". It was adapted in 1924 as a silent film The Evangelist.",
+        "source_url": "https://en.wikipedia.org/wiki/Der_Evangelimann",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "dr-seuss-how-the-grinch-stole-christmas-the-musical": {
+      "slug": "dr-seuss-how-the-grinch-stole-christmas-the-musical",
+      "title": "Dr. Seuss' How the Grinch Stole Christmas! The Musical",
+      "qid": "Q5304377",
+      "enwiki": "Dr. Seuss' How the Grinch Stole Christmas! The Musical",
+      "composers": [],
+      "lyricists": [
+        {
+          "name": "Timothy Mason",
+          "qid": "Q2435268"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Timothy Mason",
+          "qid": "Q2435268"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/438378",
+        "wikipedia": "https://en.wikipedia.org/wiki/Dr._Seuss'_How_the_Grinch_Stole_Christmas!_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q5304377"
+      },
+      "summary": {
+        "text": "Dr. Seuss' How the Grinch Stole Christmas! The Musical, or simply How the Grinch Stole Christmas! The Musical, is a seasonal musical stage adaptation of the 1957 Dr. Seuss book How the Grinch Stole Christmas!. Versions of the musical have been produced since the 1990s, including a Broadway production that ran during two Christmas seasons.",
+        "source_url": "https://en.wikipedia.org/wiki/Dr._Seuss'_How_the_Grinch_Stole_Christmas!_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "dracula-the-musical-q5304725": {
+      "slug": "dracula-the-musical-q5304725",
+      "title": "Dracula: the Musical",
+      "qid": "Q5304725",
+      "enwiki": "Dracula: the Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Dracula%3A_the_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q5304725"
+      },
+      "summary": {
+        "text": "Dracula, the Musical is a musical based on the original 1897 Victorian novel by Bram Stoker. The score is by Frank Wildhorn, with lyrics and book by Don Black and Christopher Hampton.\nThe show had its regional premiere at the La Jolla Playhouse, La Jolla, California, in 2001, playing to 115% capacity, earning the highest paid capacity for any world premiere production in the playhouse's history. It then premiered on Broadway in 2004, starring Tom Hewitt as the vampire Count and Melissa Errico as the woman he loves, Mina Harker.\nA brief nude scene in which Dracula seduces Lucy Westenra (played by Kelli O'Hara) received much publicity, as did the show's numerous special effects. Despite that, the show ran for only 154 performances, and received mainly negative reviews. The show underwent substantial revision and later had engagements in Europe and Asia, where it achieved considerable success.",
+        "source_url": "https://en.wikipedia.org/wiki/Dracula%3A_the_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "eyes-and-no-eyes": {
+      "slug": "eyes-and-no-eyes",
+      "title": "Eyes and No Eyes",
+      "qid": "Q5422816",
+      "enwiki": "Eyes and No Eyes",
+      "composers": [
+        {
+          "name": "Joseph Williams",
+          "qid": "Q52155365"
+        },
+        {
+          "name": "Thomas German Reed",
+          "qid": "Q7789995"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "W. S. Gilbert",
+          "qid": "Q348513",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5905"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Eyes_and_No_Eyes",
+        "wikidata": "https://www.wikidata.org/wiki/Q5422816"
+      },
+      "summary": {
+        "text": "Eyes and No Eyes, or The Art of Seeing is a one-act musical entertainment with a libretto by W. S. Gilbert and music originally by Thomas German Reed. The story concerns two sisters who love flirtatious twin brothers (though it is not certain which loves which). The sisters lose their uncle's wedding cloak. To avoid his anger, they persuade him that the cloak is magically visible only to true lovers and invisible to flirts.\nThe entertainment premiered in 1875 at St. George's Hall in London. The original music was lost, and twenty years later new music was composed by \"Florian Pascal\" (a pseudonym for Joseph Williams Jr. (1847–1923), a music publisher who acquired the copyright to the show). It was then published, but not immediately performed.",
+        "source_url": "https://en.wikipedia.org/wiki/Eyes_and_No_Eyes",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "faustus-the-last-night": {
+      "slug": "faustus-the-last-night",
+      "title": "Faustus, the Last Night",
+      "qid": "Q3067494",
+      "enwiki": "Faustus, the Last Night",
+      "composers": [
+        {
+          "name": "Pascal Dusapin",
+          "qid": "Q516845"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Pascal Dusapin",
+          "qid": "Q516845"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": "Berlin State Opera"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Faustus%2C_the_Last_Night",
+        "wikidata": "https://www.wikidata.org/wiki/Q3067494"
+      },
+      "summary": {
+        "text": "Faustus, the Last Night is an opera in English by French composer Pascal Dusapin, inspired by Doctor Faustus (c. 1588) by Christopher Marlowe. The work was premiered on 21 January 2006 by the Berlin State Opera, a coproduction with the Opéra de Lyon. It was first staged in the United States at the Spoleto Festival USA 2007.",
+        "source_url": "https://en.wikipedia.org/wiki/Faustus%2C_the_Last_Night",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "infinite-joy": {
+      "slug": "infinite-joy",
+      "title": "Infinite Joy",
+      "qid": "Q16848469",
+      "enwiki": "Infinite Joy",
+      "composers": [
+        {
+          "name": "William Finn",
+          "qid": "Q8009056",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9128"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": "Joe's Pub"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Infinite_Joy",
+        "wikidata": "https://www.wikidata.org/wiki/Q16848469"
+      },
+      "summary": {
+        "text": "Infinite Joy is a musical revue consisting of songs by Broadway composer William Finn. The songs are mostly material cut from Finn's earlier shows and material from works Finn was then working on. Several of the songs were included in the composer's song cycle Elegies.",
+        "source_url": "https://en.wikipedia.org/wiki/Infinite_Joy",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "king-of-hearts": {
+      "slug": "king-of-hearts",
+      "title": "King of Hearts",
+      "qid": "Q6412248",
+      "enwiki": "King of Hearts (musical)",
+      "composers": [
+        {
+          "name": "Peter Link",
+          "qid": "Q7175474",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12064"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Jacob Brackman",
+          "qid": "Q6118405",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11413"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Joseph Stein",
+          "qid": "Q1361175",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6978"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/10096",
+        "wikipedia": "https://en.wikipedia.org/wiki/King_of_Hearts_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6412248"
+      },
+      "summary": {
+        "text": "King of Hearts is a 1978 musical with a book by Joseph Stein, lyrics by Jacob Brackman, and music by Peter Link, orchestrated by Bill Brohn. It is based on the 1966 anti-war cult film of the same name.",
+        "source_url": "https://en.wikipedia.org/wiki/King_of_Hearts_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "l-heureux-malgre-lui": {
+      "slug": "l-heureux-malgre-lui",
+      "title": "L'heureux malgré lui",
+      "qid": "Q24964184",
+      "enwiki": "L'heureux malgré lui",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/L'heureux_malgr%C3%A9_lui",
+        "wikidata": "https://www.wikidata.org/wiki/Q24964184"
+      },
+      "summary": {
+        "text": "L'heureux malgré lui (The Man Happy in Spite of Himself) is an opera by the French composer Étienne Méhul. It takes the form of an opéra bouffon in one act. It premiered at the Opéra-Comique, Paris on 29 December 1803. The libretto is by Claude Godard d'Aucourt de Saint-Just. It was a complete failure, only enjoying two performances.",
+        "source_url": "https://en.wikipedia.org/wiki/L'heureux_malgr%C3%A9_lui",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "la-falena": {
+      "slug": "la-falena",
+      "title": "La falena",
+      "qid": "Q8012470",
+      "enwiki": "La falena",
+      "composers": [
+        {
+          "name": "Antonio Smareglia",
+          "qid": "Q605191"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Silvio Benco",
+          "qid": "Q3960835"
+        }
+      ],
+      "premiere": {
+        "date": "1897-09-06",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/La_falena",
+        "wikidata": "https://www.wikidata.org/wiki/Q8012470"
+      },
+      "summary": {
+        "text": "La falena (The Moth-Woman) is a leggenda or opera in three acts by composer Antonio Smareglia with an Italian libretto by Silvio Benco. The opera premiered at the Teatro Rossini in Venice on 6 September 1897.",
+        "source_url": "https://en.wikipedia.org/wiki/La_falena",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "la-peri-dukas": {
+      "slug": "la-peri-dukas",
+      "title": "La Péri",
+      "qid": "Q3212076",
+      "enwiki": "La Péri (Dukas)",
+      "composers": [
+        {
+          "name": "Paul Dukas",
+          "qid": "Q215556"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1912-04-22",
+        "venue": "Théâtre du Châtelet"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/La_P%C3%A9ri_(Dukas)",
+        "wikidata": "https://www.wikidata.org/wiki/Q3212076"
+      },
+      "summary": {
+        "text": "La Péri (English: The Peri) is a 1912 ballet in one act by French composer Paul Dukas, originally choreographed by Ivan Clustine and first performed in Paris, about Iskender (the name of Alexander the Great in Persian) searching for immortality and his encounter with a mythological Peri.  It was premiered on April 22, 1912.",
+        "source_url": "https://en.wikipedia.org/wiki/La_P%C3%A9ri_(Dukas)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "la-scuola-de-gelosi": {
+      "slug": "la-scuola-de-gelosi",
+      "title": "La scuola de' gelosi",
+      "qid": "Q357801",
+      "enwiki": "La scuola de' gelosi",
+      "composers": [
+        {
+          "name": "Antonio Salieri",
+          "qid": "Q51088"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Caterino Mazzolà",
+          "qid": "Q2856477"
+        }
+      ],
+      "premiere": {
+        "date": "1778-12-27",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/La_scuola_de'_gelosi",
+        "wikidata": "https://www.wikidata.org/wiki/Q357801"
+      },
+      "summary": {
+        "text": "La scuola de' gelosi (School for the Jealous) is a dramma giocoso in two acts by Antonio Salieri, set to a libretto by Caterino Mazzolà.",
+        "source_url": "https://en.wikipedia.org/wiki/La_scuola_de'_gelosi",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "les-caprices-de-marianne": {
+      "slug": "les-caprices-de-marianne",
+      "title": "Les caprices de Marianne",
+      "qid": "Q6530127",
+      "enwiki": "Les caprices de Marianne",
+      "composers": [
+        {
+          "name": "Henri Sauguet",
+          "qid": "Q708863",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/105288"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Jean-Pierre Grédy",
+          "qid": "Q3169372",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6694"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Les_caprices_de_Marianne",
+        "wikidata": "https://www.wikidata.org/wiki/Q6530127"
+      },
+      "summary": {
+        "text": "Les caprices de Marianne is a two-act opéra comique by Henri Sauguet with a French libretto by Jean-Pierre Gredy after the 1833 play The Moods of Marianne by Alfred de Musset. It was first performed at the Aix-en-Provence Festival in 1954, with the Orchestre de la Société des Concerts du Conservatoire conducted by Louis de Froment with the Chorale Élisabeth Brasseur.\nThe opera was broadcast on French radio ten days after the premiere, performed at the Théâtre des Champs-Élysées in 1956, with Graziella Sciutti, Jacques Jansen and Michel Sénéchal, and was recorded in 1959 (conducted by Manuel Rosenthal). More recently, the opera has been staged by Compiègne (2006) and Dijon (2007).",
+        "source_url": "https://en.wikipedia.org/wiki/Les_caprices_de_Marianne",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "little-johnny-jones": {
+      "slug": "little-johnny-jones",
+      "title": "Little Johnny Jones",
+      "qid": "Q6650560",
+      "enwiki": "Little Johnny Jones",
+      "composers": [
+        {
+          "name": "George M. Cohan",
+          "qid": "Q563017",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5829"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "George M. Cohan",
+          "qid": "Q563017",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5829"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "George M. Cohan",
+          "qid": "Q563017",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5829"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5456",
+        "wikipedia": "https://en.wikipedia.org/wiki/Little_Johnny_Jones",
+        "wikidata": "https://www.wikidata.org/wiki/Q6650560"
+      },
+      "summary": {
+        "text": "Little Johnny Jones is a musical by George M. Cohan.  The show introduced Cohan's tunes \"Give My Regards to Broadway\" and \"The Yankee Doodle Boy.\" The Johnny Jones character was inspired by real-life  Hall of Fame jockey Tod Sloan.",
+        "source_url": "https://en.wikipedia.org/wiki/Little_Johnny_Jones",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "louise": {
+      "slug": "louise",
+      "title": "Louise",
+      "qid": "Q286488",
+      "enwiki": "Louise (opera)",
+      "composers": [
+        {
+          "name": "Gustave Charpentier",
+          "qid": "Q311663",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/87553"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Saint-Pol-Roux",
+          "qid": "Q2097468"
+        }
+      ],
+      "premiere": {
+        "date": "1900-02-02",
+        "venue": "Opéra-Comique"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Louise_(opera)",
+        "wikidata": "https://www.wikidata.org/wiki/Q286488"
+      },
+      "summary": {
+        "text": "Louise is a \"musical novel\", or \"roman musical\", in four acts and five scenes by Gustave Charpentier. It can be considered an opera. The composer himself penned the French libretto with contributions from Saint-Pol-Roux, a symbolist poet and the inspiration of the surrealists. It is an atmospheric story of working-class life in Paris, with the city itself invoked along the way: young Louise, a seamstress living with her parents, loves Julien, an artist; she desires freedom, associated in her mind with him and the city. (Charpentier would later write a sequel, the opera Julien, describing the artist's aspirations.) Musically the work is considered an example of verismo, and marks the beginning of naturalism in French opera.",
+        "source_url": "https://en.wikipedia.org/wiki/Louise_(opera)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "manon-lescaut-puccini": {
+      "slug": "manon-lescaut-puccini",
+      "title": "Manon Lescaut",
+      "qid": "Q459341",
+      "enwiki": "Manon Lescaut (Puccini)",
+      "composers": [
+        {
+          "name": "Giacomo Puccini",
+          "qid": "Q7311",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8199"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Ruggero Leoncavallo",
+          "qid": "Q189015",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12047"
+        },
+        {
+          "name": "Domenico Oliva",
+          "qid": "Q3713164"
+        },
+        {
+          "name": "Giuseppe Giacosa",
+          "qid": "Q372032",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/95286"
+        },
+        {
+          "name": "Marco Praga",
+          "qid": "Q3846392",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7504"
+        },
+        {
+          "name": "Luigi Illica",
+          "qid": "Q441843",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/95287"
+        }
+      ],
+      "premiere": {
+        "date": "1893-02-01",
+        "venue": "Teatro Regio"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Manon_Lescaut_(Puccini)",
+        "wikidata": "https://www.wikidata.org/wiki/Q459341"
+      },
+      "summary": {
+        "text": "Manon Lescaut (Italian: [maˈnɔn leˈsko]) is an Italian-language opera in four acts composed by Giacomo Puccini between 1889 and 1892 to a libretto by Luigi Illica, Giuseppe Giacosa, Marco Praga and Domenico Oliva, based on the 1731 novel Histoire du Chevalier des Grieux, et de Manon Lescaut by Abbé Prévost. The opera was first performed  in 1893 in Turin, at the Teatro Regio.",
+        "source_url": "https://en.wikipedia.org/wiki/Manon_Lescaut_(Puccini)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "midnight-in-the-garden-of-good-and-evil": {
+      "slug": "midnight-in-the-garden-of-good-and-evil",
+      "title": "Midnight in the Garden of Good and Evil",
+      "qid": "Q131783088",
+      "enwiki": "Midnight in the Garden of Good and Evil (musical)",
+      "composers": [
+        {
+          "name": "Jason Robert Brown",
+          "qid": "Q1683976",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11446"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Midnight_in_the_Garden_of_Good_and_Evil_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q131783088"
+      },
+      "summary": {
+        "text": "Midnight in the Garden of Good and Evil is a musical with music and lyrics by Jason Robert Brown and a book by Taylor Mac. Based on John Berendt's 1994 non-fiction novel of the same name, it premiered on July 8, 2024, at the Goodman Theatre in Chicago. The musical follows an antiques dealer who is on trial for the murder of a male prostitute in Savannah, Georgia, U.S., based on the killing of Danny Hansford. A Broadway run was announced for 2025 but has not yet come to fruition.",
+        "source_url": "https://en.wikipedia.org/wiki/Midnight_in_the_Garden_of_Good_and_Evil_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "new-orleans": {
+      "slug": "new-orleans",
+      "title": "New Orleans",
+      "qid": "Q123367576",
+      "enwiki": "New Orleans (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/New_Orleans_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q123367576"
+      },
+      "summary": {
+        "text": "New Orleans: the Storyville Musical is a musical by Toni Morrison, Donald McKayle and Dorothea Freitag, set in 1917 in New Orleans' Storyville district. Produced in workshop in 1982, it also received staged readings at New York Shakespeare Festival in 1984 but was never fully produced. It was Morrison's first venture in the medium of theatre. \nNumerous working titles and variations have been used in press coverage of the piece, including Storyville, District Storyville, New Orleans,  N'Orleans: the Storyville Musical and New Orleans: the Storyville Musical.",
+        "source_url": "https://en.wikipedia.org/wiki/New_Orleans_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "o-garatuja": {
+      "slug": "o-garatuja",
+      "title": "O Garatuja",
+      "qid": "Q7073250",
+      "enwiki": "O Garatuja",
+      "composers": [
+        {
+          "name": "Ernst Mahle",
+          "qid": "Q324002"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2006-04-27",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/O_Garatuja",
+        "wikidata": "https://www.wikidata.org/wiki/Q7073250"
+      },
+      "summary": {
+        "text": "O Garatuja is an opera composed by Ernst Mahle in 2005, with libretto written by Eugênio Leandro.  The opera is based on the homonymous novel by José de Alencar (1873) and premiered in Piracicaba at the Teatro Municipal \"Dr Losso Netto\" on 27 April 2006.",
+        "source_url": "https://en.wikipedia.org/wiki/O_Garatuja",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "oberon-weber": {
+      "slug": "oberon-weber",
+      "title": "Oberon",
+      "qid": "Q690835",
+      "enwiki": "Oberon (Weber)",
+      "composers": [
+        {
+          "name": "Carl Maria von Weber",
+          "qid": "Q154812",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/118643"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "James Planché",
+          "qid": "Q1680990",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/394511"
+        }
+      ],
+      "premiere": {
+        "date": "1826-04-12",
+        "venue": "Royal Opera House"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Oberon_(Weber)",
+        "wikidata": "https://www.wikidata.org/wiki/Q690835"
+      },
+      "summary": {
+        "text": "Oberon, or The Elf-King's Oath (J. 306) is a 3-act romantic opera with spoken dialogue composed in 1825–26 by Carl Maria von Weber. The only English opera ever set by Weber, the libretto  by James Robinson Planché was based on the German poem Oberon by Christoph Martin Wieland, which itself was based on the epic romance Huon de Bordeaux, a French medieval tale. It was premiered in London on 12 April 1826.\nAgainst his doctor's advice, Weber undertook the project commissioned by the actor-impresario Charles Kemble for financial reasons. Having been offered the choice of Faust or Oberon as subject matter, he travelled to London to complete the music, learning English to be better able to follow the libretto, before the premiere of the opera. However, the pressure of rehearsals, social engagements and composing extra numbers destroyed his health, and Weber died in London on 5 June 1826.\nThe autograph manuscript of the opera was donated by Emperor Alexander II to the National Library of Russia, where it is currently preserved.",
+        "source_url": "https://en.wikipedia.org/wiki/Oberon_(Weber)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "oh-calcutta": {
+      "slug": "oh-calcutta",
+      "title": "Oh! Calcutta!",
+      "qid": "Q1396725",
+      "enwiki": "Oh! Calcutta!",
+      "composers": [
+        {
+          "name": "Peter Schickele",
+          "qid": "Q1354646",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/87927"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6679",
+        "wikipedia": "https://en.wikipedia.org/wiki/Oh!_Calcutta!",
+        "wikidata": "https://www.wikidata.org/wiki/Q1396725"
+      },
+      "summary": {
+        "text": "Oh! Calcutta! is an avant-garde, risqué theatrical revue created by British drama critic Kenneth Tynan and produced by Hillard Elkins. The show, consisting of sketches on sex-related topics, debuted Off-Broadway in 1969 and then in the West End in 1970. It ran in London for over 3,900 performances, and in New York initially for 1,314. Revivals enjoyed even longer runs, including a 1976 Broadway revival that ran for 5,959 performances, making the show the longest-running revue in Broadway history, the second longest-running revival (after Chicago), and the eighth longest-running Broadway show ever.\nThe show sparked considerable controversy at the time due to its extended scenes of total nudity, both male and female. \nThe title is taken from a painting by French artist Clovis Trouille, a portrait of a reclining nude. Trouille's 1946 work Oh! Calcutta! Calcutta! mixes photographic collage and oil techniques; the inscription is a French pun (quel cul t'as!), an admiring exclamation on the woman's buttocks.",
+        "source_url": "https://en.wikipedia.org/wiki/Oh!_Calcutta!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "pretty-filthy": {
+      "slug": "pretty-filthy",
+      "title": "Pretty Filthy",
+      "qid": "Q85794429",
+      "enwiki": "Pretty Filthy",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Pretty_Filthy",
+        "wikidata": "https://www.wikidata.org/wiki/Q85794429"
+      },
+      "summary": {
+        "text": "Pretty Filthy is a 2015 musical with a book by Bess Wohl and music and lyrics by Michael Friedman developed with director Steve Cosson. The musical is produced by American \"investigative\" theater company The Civilians. The show is based on The Civilians' visit to the San Fernando Valley, also known as \"the Hollywood of the adult film industry.\" The musical focuses on the private and professional lives of either real-life adult film stars or composite characters based on various people, with each actor playing multiple roles.",
+        "source_url": "https://en.wikipedia.org/wiki/Pretty_Filthy",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "radvila-perkunas": {
+      "slug": "radvila-perkunas",
+      "title": "Radvila Perkūnas",
+      "qid": "Q118875731",
+      "enwiki": "Radvila Perkūnas",
+      "composers": [
+        {
+          "name": "Jurgis Karnavičius",
+          "qid": "Q6315089"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1937-02-15",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Radvila_Perk%C5%ABnas",
+        "wikidata": "https://www.wikidata.org/wiki/Q118875731"
+      },
+      "summary": {
+        "text": "Radvila Perkūnas (Radziwiłł the Piorun, Radziwiłł the Thunderbolt) is a Lithuanian-language opera in four acts by Jurgis Karnavičius to the libretto of a musical play written for the opera by Balys Sruoga which premiered at the Kaunas State Theater on February 15, 1937, on the eve of Independence Day. Although Sruoga was not satisfied either with Karnavičius' music, nor with the production by the director P. Olekas, nevertheless the opera met with great success with the public.\nIn 1948 when the theatre archive was moved to the new capital Vilnius, the opera score was considered lost but the opera was revived and staged at the Kaunas State Musical Theater during the 2018 International Mykolas Oginskis Festival, conducted by Jonas Janulevičius, performed by orchestra, choir, ballet artists and soloists of the Kaunas State Musical Theatre.",
+        "source_url": "https://en.wikipedia.org/wiki/Radvila_Perk%C5%ABnas",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "stand-by-the-river": {
+      "slug": "stand-by-the-river",
+      "title": "Stand by the River",
+      "qid": "Q7598134",
+      "enwiki": "Stand by the River",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Stand_by_the_River",
+        "wikidata": "https://www.wikidata.org/wiki/Q7598134"
+      },
+      "summary": {
+        "text": "Stand by the River is a musical written by Joanne and Mark Sutton-Smith based on the life of abolitionist William Still, his liberation of Jane Johnson and her two sons from slavery in 1855, and the federal trial that summer.",
+        "source_url": "https://en.wikipedia.org/wiki/Stand_by_the_River",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "szibill": {
+      "slug": "szibill",
+      "title": "Szibill",
+      "qid": "Q7664661",
+      "enwiki": "Szibill",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1914-02-27",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Szibill",
+        "wikidata": "https://www.wikidata.org/wiki/Q7664661"
+      },
+      "summary": {
+        "text": "Leányvásár (Girls' Market) is a Hungarian operetta composed by Victor Jacobi with a libretto by Miklós Bródy and Ferenc Martos. It was premiered on 14 November 1911 at the Király Színház (King Theater) in Budapest. It was adapted several times, as The Marriage Market in 1913 and as Szibill/Sybill/Sybil in 1914, all of which had several successful productions, and as Jack in Spanish.\nThe operetta has also been adapted to the screen multiple times. The first adaptation was a 1919 silent film, Leányvásár, directed by Antal Forgács (1881–1930), which used the libretto by Bródy and Martos as the basis for its story. A 1941 Hungarian-language sound film of the same name included the score by Jacobi. It starred Zita Szeleczky as Lucy Gergely, János Sárdy as Dr. Péter Haday, and Manyi Kiss as Biri, and was directed by Félix Podmaniczky. The operetta was adapted again into a 1985 Hungarian-language television film, also titled Leányvásár, which starred the actress Adél Kováts as Lucy Harryson with the singing voice of Lucy being dubbed by opera singer Magda Kalmár.",
+        "source_url": "https://en.wikipedia.org/wiki/Szibill",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-gadfly": {
+      "slug": "the-gadfly",
+      "title": "The Gadfly",
+      "qid": "Q7735589",
+      "enwiki": "The Gadfly (opera)",
+      "composers": [
+        {
+          "name": "Antonio Spadavecchia",
+          "qid": "Q196267"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1958",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Gadfly_(opera)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7735589"
+      },
+      "summary": {
+        "text": "The Gadfly (Russian: Овод) is a 1958 Russian-language opera by the Soviet composer of Italian descent Antonio Spadavecchia based on the novel The Gadfly. An earlier opera based on the book, also called The Gadfly, had been composed by Mikhail Zhukov in 1928.\nIt is set in Italy in 1834–48, one of the few Russian revolutionary operas to take a plot overseas, another being Kirill Molchanov's 1960 opera Del Corno Street following Vasco Pratolini's anti-fascist story set in Mussolini's Italy.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Gadfly_(opera)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-liturgy-of-the-heathens": {
+      "slug": "the-liturgy-of-the-heathens",
+      "title": "The Liturgy of the Heathens",
+      "qid": "Q16801939",
+      "enwiki": "The Liturgy of the Heathens",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Liturgy_of_the_Heathens",
+        "wikidata": "https://www.wikidata.org/wiki/Q16801939"
+      },
+      "summary": {
+        "text": "Alexey Lvovich Rybnikov (Russian: Алексей Львович Рыбников; born July 17, 1945) is a modern Russian composer.\nHe is the author of music for Soviet and Russian musicals (rock operas) The Star and Death of Joaquin Murieta (Звезда и смерть Хоакина Мурьеты, 1976) and  Juno and Avos (Юнона и Авось, 1981, shown more than 700 times), for numerous plays and operas, for more than 80 Russian movies. More than 10 million discs with his music have been sold to 1989.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Liturgy_of_the_Heathens",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-love-of-the-nightingale": {
+      "slug": "the-love-of-the-nightingale",
+      "title": "The Love of the Nightingale",
+      "qid": "Q7749006",
+      "enwiki": "The Love of the Nightingale (opera)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Timberlake Wertenbaker",
+          "qid": "Q7804690",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13700"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Love_of_the_Nightingale_(opera)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7749006"
+      },
+      "summary": {
+        "text": "The Love of the Nightingale is an opera in two acts by Richard Mills. The libretto by Timberlake Wertenbaker is based on her play of the same name. It is an adaptation of the ancient Greek legend of the rape of Philomela by her brother-in-law Tereus, and the gruesome revenge undertaken by Philomela and her sister Procne.\nIt premiered on 10 February 2007 at His Majesty's Theatre, Perth, Western Australia, in a co-production of Perth International Arts Festival, West Australian Opera, Queensland Music Festival, Opera Queensland, Queensland Performing Arts Centre and Victorian Opera. The Perth production received four Helpmann Awards in 2007: for Best Music Direction to Richard Mills; Best Female Performer in an Opera to Emma Matthews; Best Male Performer in a Supporting Role in an Opera to James Egglestone; and Best Female Performer in a Supporting Role in an Opera to Orla Boylan. The production was shown later that year at the Playhouse, Queensland Performing Arts Centre, Brisbane, and at Her Majesty's Theatre, Melbourne, with Richard Gill conducting.\nIn October 2011, Opera Australia produced the opera at the Sydney Opera House with Emma Matthews (Philomele), Anke Höppner (Procne), Elizabeth Campbell (Niobe), Richard Anderson (Tereus), the composer conducting.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Love_of_the_Nightingale_(opera)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-makropulos-affair": {
+      "slug": "the-makropulos-affair",
+      "title": "The Makropulos Affair",
+      "qid": "Q1142221",
+      "enwiki": "The Makropulos Affair (opera)",
+      "composers": [
+        {
+          "name": "Leoš Janáček",
+          "qid": "Q184933"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Leoš Janáček",
+          "qid": "Q184933"
+        }
+      ],
+      "premiere": {
+        "date": "1926-12-18",
+        "venue": "Mahen Theatre"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Makropulos_Affair_(opera)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1142221"
+      },
+      "summary": {
+        "text": "The Makropulos Affair (also The Makropoulos Case, The Makropulos Secret, or in Czech: Věc Makropulos, lit. 'The Makropulos Thing') is a Czech opera in 3 acts, with music and libretto by Leoš Janáček. Janáček based his opera on the play Věc Makropulos by Karel Čapek. Composed between 1923 and 1925, The Makropulos Affair was his penultimate opera and, like much of his later work, was inspired by his infatuation with Kamila Stösslová, a married woman much younger than himself.\nThe opera received its world premiere at the National Theatre in Brno on 18 December 1926, conducted by František Neumann.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Makropulos_Affair_(opera)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-masque-of-blackness": {
+      "slug": "the-masque-of-blackness",
+      "title": "The Masque of Blackness",
+      "qid": "Q7750541",
+      "enwiki": "The Masque of Blackness",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Masque_of_Blackness",
+        "wikidata": "https://www.wikidata.org/wiki/Q7750541"
+      },
+      "summary": {
+        "text": "The Masque of Blackness was an early Jacobean era masque, first performed at the Stuart Court in the Banqueting Hall of Whitehall Palace on Twelfth Night, 6 January 1605. It was written by Ben Jonson at the request of Anne of Denmark, the queen consort of King James I, who wished the masquers to be disguised as Black Africans. Anne was one of the performers in the masque along with her court ladies, all of whom appeared in blackface makeup. In a ceremony earlier on the day, Prince Charles, Anne's second son (who was still in Scotland at Dunfermline Palace) was given the title of Duke of York.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Masque_of_Blackness",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-miracle": {
+      "slug": "the-miracle",
+      "title": "The Miracle",
+      "qid": "Q1169767",
+      "enwiki": "The Miracle (play)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1912",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6113",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Miracle_(play)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1169767"
+      },
+      "summary": {
+        "text": "The Miracle (German: Das Mirakel) is a 1911 wordless play by Karl Vollmöller with integral and accompanying music by Engelbert Humperdinck as well as church songs and sacred chants. It is sometimes referred to as a pantomime; it is not considered a ballet, although it contains dance interludes. \nThree movie versions have been made of the work, and one of these launched the career of the author's wife Maria Carmi, who went on to star in 25 silent films.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Miracle_(play)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-seven-deadly-sins": {
+      "slug": "the-seven-deadly-sins",
+      "title": "The Seven Deadly Sins",
+      "qid": "Q533623",
+      "enwiki": "The Seven Deadly Sins (ballet chanté)",
+      "composers": [
+        {
+          "name": "Kurt Weill",
+          "qid": "Q55004",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7112"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Bertolt Brecht",
+          "qid": "Q38757",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4511"
+        }
+      ],
+      "premiere": {
+        "date": "1933-06-07",
+        "venue": "Théâtre des Champs-Élysées"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Seven_Deadly_Sins_(ballet_chant%C3%A9)",
+        "wikidata": "https://www.wikidata.org/wiki/Q533623"
+      },
+      "summary": {
+        "text": "The Seven Deadly Sins (German: Die sieben Todsünden, French: Les sept péchés capitaux) is a satirical ballet chanté (\"sung ballet\") in seven scenes (nine movements, including a Prologue and Epilogue) composed by Kurt Weill to a German libretto by Bertolt Brecht in 1933 under a commission from Boris Kochno and Edward James. It was translated into English by W. H. Auden and Chester Kallman and more recently by Michael Feingold. It was the last major collaboration between Weill and Brecht.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Seven_Deadly_Sins_(ballet_chant%C3%A9)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-thorn-birds-musical": {
+      "slug": "the-thorn-birds-musical",
+      "title": "The Thorn Birds Musical",
+      "qid": "Q7768893",
+      "enwiki": "The Thorn Birds Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "http://www.thethornbirdsmusical.co.uk/",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Thorn_Birds_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q7768893"
+      },
+      "summary": {
+        "text": "The Thorn Birds is a 2009 musical adaptation of the 1977 novel of the same name by Colleen McCullough. The lyrics were written by McCullough herself, the music was composed by Gloria Bruni and it was directed by Michael Bogdanov behind Wales Theatre Company.\nIt starred Matthew Goodgame as Father Ralph de Bricassart, Helen Anker as Meggie Cleary and Peter Karrie as Cardinal di Conti-Verchese. The cast included Andrea Miller, Kieran Brown, Ieuan Rhys, Phylip Harries, Richard Munday and Llinos Daniel.\nThe UK tour features visits to Poole, Swansea, Wolverhampton, Aberystwyth, Bradford, Hull, Llandudno, Windsor, Plymouth, Malvern, Birmingham and then finishing in the Wales Millennium Centre, Cardiff in July.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Thorn_Birds_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-unanswered-question": {
+      "slug": "the-unanswered-question",
+      "title": "The Unanswered Question",
+      "qid": "Q7771271",
+      "enwiki": "The Unanswered Question (ballet)",
+      "composers": [
+        {
+          "name": "Charles Ives",
+          "qid": "Q309648"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Unanswered_Question_(ballet)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7771271"
+      },
+      "summary": {
+        "text": "The Unanswered Question: Some Intimations of the American Composer Charles Ives is a ballet made by Eliot Feld to Charles Ives' The Unanswered Question, Calcium Light Night, Fugue in Four Keys, Mists, From the Housatonic at Stockbridge, Sonata No. 2 for Piano and Violin (In the Barn), Remembrance and An Old Song Deranged. The premiere took place April 30, 1988, at the New York State Theater, Lincoln Center, as part of New York City Ballet's American Music Festival with lighting by the Feld Ballet's Allen Lee Hughes and Willa Kim's costumes. Other works to the music of Ives in the City Ballet repertory include Peter Martins' Calcium Light Night, Jerome Robbins' Ives, Songs and George Balanchine's Ivesiana.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Unanswered_Question_(ballet)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-yeomen-of-the-guard": {
+      "slug": "the-yeomen-of-the-guard",
+      "title": "The Yeomen of the Guard",
+      "qid": "Q499778",
+      "enwiki": "The Yeomen of the Guard",
+      "composers": [
+        {
+          "name": "Arthur Sullivan",
+          "qid": "Q212692",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8692"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": "Savoy Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/9515",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Yeomen_of_the_Guard",
+        "wikidata": "https://www.wikidata.org/wiki/Q499778"
+      },
+      "summary": {
+        "text": "The Yeomen of the Guard; or, The Merryman and His Maid, is a Savoy Opera, with music by Arthur Sullivan and libretto by W. S. Gilbert. It premiered at the Savoy Theatre on 3 October 1888 and ran for 423 performances. This was the eleventh collaboration of fourteen between Gilbert and Sullivan.\nThe opera is set in the Tower of London during the 16th century, and is the darkest, and perhaps most emotionally engaging, of the Savoy Operas, ending with a broken-hearted main character and two very reluctant engagements, rather than the usual numerous marriages. The libretto does contain considerable humour, including a lot of pun-laden one-liners, but Gilbert's trademark satire and topsy-turvy plot complications are subdued in comparison with the other Gilbert and Sullivan operas.  The dialogue, though in prose, is quasi-Shakespearean, or early modern English, in style.\nCritics considered the score to be Sullivan's finest, including its overture, which is in sonata form, rather than being written as a sequential pot-pourri of tunes from the opera, as in most of the other Gilbert and Sullivan overtures. This was the first Savoy Opera to use Sullivan's larger orchestra, including a second bassoon and third trombone. Most of Sullivan's subsequent operas, including those not composed with Gilbert as librettist, use this larger orchestra.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Yeomen_of_the_Guard",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "torvaldo-e-dorliska": {
+      "slug": "torvaldo-e-dorliska",
+      "title": "Torvaldo e Dorliska",
+      "qid": "Q1050791",
+      "enwiki": "Torvaldo e Dorliska",
+      "composers": [
+        {
+          "name": "Gioachino Rossini",
+          "qid": "Q9726",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/82835"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Cesare Sterbini",
+          "qid": "Q218534",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/97269"
+        }
+      ],
+      "premiere": {
+        "date": "1815-12-26",
+        "venue": "Teatro Valle"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Torvaldo_e_Dorliska",
+        "wikidata": "https://www.wikidata.org/wiki/Q1050791"
+      },
+      "summary": {
+        "text": "Torvaldo e Dorliska is an opera semiseria in two acts by Gioachino Rossini to an Italian libretto by Cesare Sterbini, based on the novel/memoir Les Amours du chevalier de Faublas (1787–1790) by the revolutionary Jean-Baptiste Louvet de Couvray, whose work was the source of the Lodoïska libretto set by Luigi Cherubini (1791), and Lodoiska set by Stephen Storace (1794), and Simon Mayr (1796).\nTorvaldo e Dorliska is a rescue opera with an eventual happy ending. The inclusion of buffo roles is the reason for its designation as a 'semiserio' work, similar to Rossini's La gazza ladra.",
+        "source_url": "https://en.wikipedia.org/wiki/Torvaldo_e_Dorliska",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "ugo-re-d-italia": {
+      "slug": "ugo-re-d-italia",
+      "title": "Ugo, re d'Italia",
+      "qid": "Q1832117",
+      "enwiki": "Ugo, re d'Italia",
+      "composers": [
+        {
+          "name": "Gioachino Rossini",
+          "qid": "Q9726",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/82835"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Ugo%2C_re_d'Italia",
+        "wikidata": "https://www.wikidata.org/wiki/Q1832117"
+      },
+      "summary": {
+        "text": "Ugo, re d'Italia (Hugo, King of Italy) is an unfinished opera by Gioachino Rossini that was abandoned when the composer and his wife, Isabella Colbran, were staying in London from December 1823 until July of the following year. It was intended that the music was to be set to an existing libretto, La figlia dell'aria, by an unknown author.\nScholar Charles Osborne notes that \"Rossini had been contracted to write it for performance in London\", during the 1824 season although the London Morning Chronicle of 15 December notes that \"he was to write two Operas during the season\". No completed opera was ever forthcoming.\nIn addition, the composer was engaged to oversee a season of eight of his operas, while Colbran was engaged to sing in Zelmira and Ricciardo e Zoraide. But when Rossini failed to produce even one opera for the season, due as much to the couple's very hectic social life as anything else, a new contract was drawn up with Benelli noting that the opera was intended to be \"commenced and in part finished\" by 1 January 1825. Leaving behind the \"preliminary workings and a bond for £400 with Benelli's bankers\" (as surety for its completion), Rossini and Colbran left England on 25 July 1824, never to return.",
+        "source_url": "https://en.wikipedia.org/wiki/Ugo%2C_re_d'Italia",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "wedding-night-in-paradise": {
+      "slug": "wedding-night-in-paradise",
+      "title": "Wedding Night in Paradise",
+      "qid": "Q20667637",
+      "enwiki": "Wedding Night in Paradise (operetta)",
+      "composers": [
+        {
+          "name": "Friedrich Schröder",
+          "qid": "Q317487"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Guenter Schwenn",
+          "qid": "Q1561835"
+        }
+      ],
+      "premiere": {
+        "date": "1942-09-24",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Wedding_Night_in_Paradise_(operetta)",
+        "wikidata": "https://www.wikidata.org/wiki/Q20667637"
+      },
+      "summary": {
+        "text": "Wedding Night in Paradise (German: Hochzeitsnacht im Paradies) is an operetta in eight scenes. Book by Heinz Hentschke, lyrics by Gunther Schwenn and music by Friedrich Schröder. It was premièred in Berlin at the Metropol Theater on September 24, 1942. It was filmed several times in German and several other languages.",
+        "source_url": "https://en.wikipedia.org/wiki/Wedding_Night_in_Paradise_(operetta)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

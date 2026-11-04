@@ -1,0 +1,1808 @@
+{
+  "shows": {
+    "a-marvelous-order": {
+      "slug": "a-marvelous-order",
+      "title": "A Marvelous Order",
+      "qid": "Q59254967",
+      "enwiki": "A Marvelous Order",
+      "composers": [
+        {
+          "name": "Judd Greenstein",
+          "qid": "Q16201890"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Tracy K. Smith",
+          "qid": "Q7831770"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Marvelous_Order",
+        "wikidata": "https://www.wikidata.org/wiki/Q59254967"
+      },
+      "summary": {
+        "text": "A Marvelous Order is an opera by Judd Greenstein to a libretto by Tracy K. Smith about New York urban activist Jane Jacobs and urban planner Robert Moses. The work was conceived by three artists—Greenstein, Smith and director Joshua Frankel, who also created animation that is projected throughout the opera.\nA Marvelous Order was given a work-in-progress \"pre-premiere\" in March 2016 at the '62 Center for Theater and Dance at Williams College. An excerpt was presented in June 2017 at the Fulton Center in New York City by the River to River Festival. In 2021, excerpts of A Marvelous Order were presented by Brooklyn Public Library in the plaza in front of the Central Library, outdoors, in concert, with animation projected onto the building’s Art Deco facade.\nThe completed opera had its world premiere on October 20, 2022 at the Center for the Performing Arts at Penn State, in the culmination of a multi-year partnership which included three creative development residencies. \nThe premiere of A Marvelous Order received a rave review from the Wall Street Journal.",
+        "source_url": "https://en.wikipedia.org/wiki/A_Marvelous_Order",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "a-suite-of-dances": {
+      "slug": "a-suite-of-dances",
+      "title": "A Suite of Dances",
+      "qid": "Q4659889",
+      "enwiki": "A Suite of Dances",
+      "composers": [
+        {
+          "name": "Johann Sebastian Bach",
+          "qid": "Q1339",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/10027"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1994-03",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Suite_of_Dances",
+        "wikidata": "https://www.wikidata.org/wiki/Q4659889"
+      },
+      "summary": {
+        "text": "A Suite of Dances is a ballet choreographed by Jerome Robbins to Johann Sebastian Bach's Cello Suites. The ballet was created for Mikhail Baryshnikov and premiered on March 3, 1994, at the New York State Theater.",
+        "source_url": "https://en.wikipedia.org/wiki/A_Suite_of_Dances",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "attila": {
+      "slug": "attila",
+      "title": "Attila",
+      "qid": "Q211460",
+      "enwiki": "Attila (opera)",
+      "composers": [
+        {
+          "name": "Giuseppe Verdi",
+          "qid": "Q7317",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11207"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Temistocle Solera",
+          "qid": "Q211329"
+        },
+        {
+          "name": "Francesco Maria Piave",
+          "qid": "Q334205",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/97266"
+        }
+      ],
+      "premiere": {
+        "date": "1846-03-17",
+        "venue": "Teatro La Fenice"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Attila_(opera)",
+        "wikidata": "https://www.wikidata.org/wiki/Q211460"
+      },
+      "summary": {
+        "text": "Attila is an opera in a prologue and three acts by Giuseppe Verdi to an Italian libretto by Temistocle Solera, based on the 1809 play Attila, König der Hunnen (Attila, King of the Huns) by Zacharias Werner. The opera received its first performance at La Fenice in Venice on 17 March 1846.\nEzio's act 2 aria of heroic resolution \"È gettata la mia sorte\" (My lot is cast, I am prepared for any warfare) is a fine example of a characteristic Verdian genre, and it achieved fame in its own time with audiences in the context of the adoption of a liberal constitution by Ferdinand II. Other contemporary comment praised the work as suitable for the \"political education of the people\", while, in contrast, others criticised the opera as \"Teutonic\" in nature.",
+        "source_url": "https://en.wikipedia.org/wiki/Attila_(opera)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "bad-boy-johnny-and-the-prophets-of-doom": {
+      "slug": "bad-boy-johnny-and-the-prophets-of-doom",
+      "title": "Bad Boy Johnny and the Prophets of Doom",
+      "qid": "Q4840206",
+      "enwiki": "Bad Boy Johnny and the Prophets of Doom",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "http://www.badboyjohnny.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/Bad_Boy_Johnny_and_the_Prophets_of_Doom",
+        "wikidata": "https://www.wikidata.org/wiki/Q4840206"
+      },
+      "summary": {
+        "text": "Bad Boy Johnny and the Prophets of Doom is a rock stage musical first performed in Australia in 1989. It is a satire on religion and rock and roll.",
+        "source_url": "https://en.wikipedia.org/wiki/Bad_Boy_Johnny_and_the_Prophets_of_Doom",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "beauty-world": {
+      "slug": "beauty-world",
+      "title": "Beauty World",
+      "qid": "Q4877908",
+      "enwiki": "Beauty World (musical)",
+      "composers": [
+        {
+          "name": "Dick Lee",
+          "qid": "Q710609"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Michael Chiang",
+          "qid": "Q6829233"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Michael Chiang",
+          "qid": "Q6829233"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Beauty_World_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4877908"
+      },
+      "summary": {
+        "text": "Beauty World is a Singaporean musical written by Michael Chiang and composed by Dick Lee. Drawing on the tradition of 1950s black-and-white Cantonese movies, it tells the story of a young Malaysian girl who comes from Batu Pahat to 1960s Singapore in search of her father and winds up in the eponymous sleazy night club. It premiered at the 1988 Singapore Arts Festival.\nWritten in English with some Singlish elements and Singaporean slang, it is one of the best known musicals of Singapore. With Makan Place, which was also written in 1988, it is one of the first two Singaporean musicals.",
+        "source_url": "https://en.wikipedia.org/wiki/Beauty_World_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "black-friday": {
+      "slug": "black-friday",
+      "title": "Black Friday",
+      "qid": "Q96373650",
+      "enwiki": "Black Friday (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Black_Friday_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q96373650"
+      },
+      "summary": {
+        "text": "StarKid Productions, also known as Team StarKid, is an American musical theatre company founded in 2009 at the University of Michigan by Darren Criss, Brian Holden, Matt Lang, and Nick Lang. Originally known for the viral success of their first musical, A Very Potter Musical, a parody of the Harry Potter series, the troupe primarily produces musical comedies inspired by pop culture, with original scripts, songs, and music. StarKid distributes their musicals for free on YouTube, with projects being funded by crowdfunding and physical ticket sales.\nSince the success of A Very Potter Musical, the group has produced fourteen stage musicals (including two Potter sequels), three national tours, two reunion concert specials, two concerts in London, three sketch comedy shows, and three web series.\nAs of 2023, the company has charted 13 albums in the top 10 on Billboard charts. The cast recording of Me and My Dick debuted at number 11 on the US Cast Albums chart in 2010, becoming the first student-produced musical recording to chart on Billboard. The following year they landed at number one on the same chart with the cast recording of Starship, a feat that has since been repeated with their 2019 musical Black Friday, and their 2023 musical Nerdy Prudes Must Die.",
+        "source_url": "https://en.wikipedia.org/wiki/Black_Friday_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "broken-wings-ballet": {
+      "slug": "broken-wings-ballet",
+      "title": "Broken Wings",
+      "qid": "Q97495433",
+      "enwiki": "Broken Wings (ballet)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2016-04-13",
+        "venue": "Sadler's Wells Theatre"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Broken_Wings_(ballet)",
+        "wikidata": "https://www.wikidata.org/wiki/Q97495433"
+      },
+      "summary": {
+        "text": "Broken Wings is a one-act ballet about Mexican painter Frida Kahlo, choreographed by Annabelle Lopez Ochoa, dramaturged by Nancy Meckler and designed by Dieuweke van Reij. The music was composed by Peter Salem, and featured Mexican folk song \"La Llorona\" sung by Chavela Vargas. The ballet premiered on 13 April 2016 at the Sadler's Wells Theatre, danced by the English National Ballet, with Tamara Rojo as Kahlo and Irek Mukhamedov as Kahlo's husband, Diego Rivera. Lopez Ochoa then created a three-act version titled Frida for the Dutch National Ballet, premiered in 2020.",
+        "source_url": "https://en.wikipedia.org/wiki/Broken_Wings_(ballet)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "cliff-the-musical": {
+      "slug": "cliff-the-musical",
+      "title": "Cliff – The Musical",
+      "qid": "Q5132818",
+      "enwiki": "Cliff – The Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Cliff_%E2%80%93_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q5132818"
+      },
+      "summary": {
+        "text": "Cliff – The Musical  was a musical based on the life of Sir Cliff Richard which was staged at The Prince of Wales Theatre, London from 17 March 2003 to June 2003. The show was written by Mike Read and Trevor Payne, with Payne directing. Four performers played the part of Richard.",
+        "source_url": "https://en.wikipedia.org/wiki/Cliff_%E2%80%93_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "cricket": {
+      "slug": "cricket",
+      "title": "Cricket",
+      "qid": "Q1139909",
+      "enwiki": "Cricket (musical)",
+      "composers": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "qid": "Q180975",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12073"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Tim Rice",
+          "qid": "Q298295",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8890"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Cricket_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1139909"
+      },
+      "summary": {
+        "text": "Cricket, also called Cricket (Hearts and Wickets), is a short musical with music by Andrew Lloyd Webber, and lyrics and book by Tim Rice. It was commissioned for Queen Elizabeth's 60th birthday celebration, and was first performed at Windsor Castle on 18 June 1986.\nA lighthearted, tongue-in-cheek show running 30 minutes, the plot is set against the backdrop of the semi-fictional Headingley Cricket Club, whose star player, Donald, is torn between his team and his girlfriend, Emma, as she decides to abandon watching cricket for what appears to be a far more exciting life at the race track with the caddish Vincent.\nAfter its premiere for the Queen, as well as a pair of follow-up performances, the musical was shelved; several tunes were later re-used for the musicals Aspects of Love and Sunset Boulevard. No commercial recording has been made.\nCricket is, to date, the final original musical written by the team of Lloyd Webber and Rice.",
+        "source_url": "https://en.wikipedia.org/wiki/Cricket_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "cyrano-de-bergerac-tamberg": {
+      "slug": "cyrano-de-bergerac-tamberg",
+      "title": "Cyrano de Bergerac",
+      "qid": "Q20057186",
+      "enwiki": "Cyrano de Bergerac (Tamberg)",
+      "composers": [
+        {
+          "name": "Eino Tamberg",
+          "qid": "Q948134"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Jaan Kross",
+          "qid": "Q161842"
+        }
+      ],
+      "premiere": {
+        "date": "1976-07-02",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Cyrano_de_Bergerac_(Tamberg)",
+        "wikidata": "https://www.wikidata.org/wiki/Q20057186"
+      },
+      "summary": {
+        "text": "Cyrano de Bergerac, Op. 45, subtitled A Romantic Opera, is an opera in three acts and an epilogue created in 1974 by Estonian composer Eino Tamberg. The libretto is by Jaan Kross and is based on the 1897 play of Edmond Rostand. The premiere was on 2 July 1976 in the Estonia Theatre in Tallinn.",
+        "source_url": "https://en.wikipedia.org/wiki/Cyrano_de_Bergerac_(Tamberg)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "cyrano-el-musical": {
+      "slug": "cyrano-el-musical",
+      "title": "Cyrano, el musical",
+      "qid": "Q5200573",
+      "enwiki": "Cyrano, el musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Cyrano%2C_el_musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q5200573"
+      },
+      "summary": {
+        "text": "Cyrano, el musical is a 2003 Mexican musical based on the 1897 play Cyrano de Bergerac by Edmond Rostand. The book and lyrics are by Lorenzo Gonzalez. The music is by David Tort. It was the first Mexican musical written in verse, based upon the Spanish translation from the French.",
+        "source_url": "https://en.wikipedia.org/wiki/Cyrano%2C_el_musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "der-gewaltige-hahnrei": {
+      "slug": "der-gewaltige-hahnrei",
+      "title": "Der gewaltige Hahnrei",
+      "qid": "Q1198718",
+      "enwiki": "Der gewaltige Hahnrei",
+      "composers": [
+        {
+          "name": "Berthold Goldschmidt",
+          "qid": "Q213910"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1932-02-14",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Der_gewaltige_Hahnrei",
+        "wikidata": "https://www.wikidata.org/wiki/Q1198718"
+      },
+      "summary": {
+        "text": "Der gewaltige Hahnrei is an opera by German composer Berthold Goldschmidt based on Le Cocu Magnifique by Fernand Crommelynck. The opera was premiered 14 February 1932 at the Nationaltheater Mannheim.",
+        "source_url": "https://en.wikipedia.org/wiki/Der_gewaltige_Hahnrei",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "dmitry-donskoy": {
+      "slug": "dmitry-donskoy",
+      "title": "Dmitry Donskoy",
+      "qid": "Q5285707",
+      "enwiki": "Dmitry Donskoy (opera)",
+      "composers": [
+        {
+          "name": "Anton Rubinstein",
+          "qid": "Q87567"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Vladimir Sollogub",
+          "qid": "Q720198"
+        }
+      ],
+      "premiere": {
+        "date": "1852-04-30",
+        "venue": "Bolshoi Kamenny Theatre"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Dmitry_Donskoy_(opera)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5285707"
+      },
+      "summary": {
+        "text": "Dmitry Donskoy (Russian: Дмитрий Донской), also known as The Battle of Kulikovo (Russian: Куликовская битва) was the first opera written by Anton Rubinstein. It has three acts and a libretto by Count Vladimir Sollogub and Vladimir Zotov, based on a drama by Vladislav Ozerov. First performed on April 18, 1852 at the Bolshoi Opera House, and then followed by three more performances, the opera, apart from its overture, is now lost.",
+        "source_url": "https://en.wikipedia.org/wiki/Dmitry_Donskoy_(opera)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "don-john-of-austria": {
+      "slug": "don-john-of-austria",
+      "title": "Don John of Austria",
+      "qid": "Q5292840",
+      "enwiki": "Don John of Austria (opera)",
+      "composers": [
+        {
+          "name": "Isaac Nathan",
+          "qid": "Q6076851"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Don_John_of_Austria_(opera)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5292840"
+      },
+      "summary": {
+        "text": "Don John of Austria is a ballad opera in three acts by Isaac Nathan to a libretto\nby Jacob Levi Montefiore. It is the first opera to be written, composed and produced in Australia.\nQuote from the opera's title page:\n\nThe plot is taken and many scenes are literal translations from Casimir Delavigne's celebrated comedy of \"Don John of Austria\" (Don Juan d'Autriche).",
+        "source_url": "https://en.wikipedia.org/wiki/Don_John_of_Austria_(opera)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "ercole-amante": {
+      "slug": "ercole-amante",
+      "title": "Ercole amante",
+      "qid": "Q2879546",
+      "enwiki": "Ercole amante",
+      "composers": [
+        {
+          "name": "Francesco Cavalli",
+          "qid": "Q108062"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Francesco Buti",
+          "qid": "Q3749693"
+        }
+      ],
+      "premiere": {
+        "date": "1662-02-07",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Ercole_amante",
+        "wikidata": "https://www.wikidata.org/wiki/Q2879546"
+      },
+      "summary": {
+        "text": "Ercole amante (Hercules in Love, French: Hercule amoureux) is an opera in a prologue and five acts by Francesco Cavalli. Its Italian libretto is by Francesco Buti, based on Sophocles' The Trachiniae and on the ninth book of Ovid's Metamorphoses. The first performance took place on 7 February 1662 in the Salle des Machines of the Tuileries in Paris.",
+        "source_url": "https://en.wikipedia.org/wiki/Ercole_amante",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "fellowship": {
+      "slug": "fellowship",
+      "title": "Fellowship!",
+      "qid": "Q5442503",
+      "enwiki": "Fellowship!",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "http://www.fellowshipthemusical.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Fellowship!",
+        "wikidata": "https://www.wikidata.org/wiki/Q5442503"
+      },
+      "summary": {
+        "text": "Fellowship! is a musical parody stage play based on The Fellowship of the Ring (the first volume of J. R. R. Tolkien's The Lord of the Rings) and Peter Jackson's 2001 film adaptation of it. The book was written by Kelly Holden-Bashar and Joel McCrary with music by Allen Simpson.  Lyrics and additional material by Brian D. Bradley, Lisa Fredrickson, Kelly Holden-Bashar, Joel McCrary, Edi Patterson, Steve Purnick, Cory Rouse, Allen Simpson, Ryan Smith, Peter Allen Vogt and Matthew Stephen Young (the original cast). The musical was first performed at the El Portal Forum Theater in North Hollywood, California.",
+        "source_url": "https://en.wikipedia.org/wiki/Fellowship!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "flight-pattern": {
+      "slug": "flight-pattern",
+      "title": "Flight Pattern",
+      "qid": "Q98076985",
+      "enwiki": "Flight Pattern",
+      "composers": [
+        {
+          "name": "Henryk Mikolaj Górecki",
+          "qid": "Q294568"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2017-03-16",
+        "venue": "Royal Opera House"
+      },
+      "awards": [
+        {
+          "name": "Laurence Olivier Award for Best New Dance Production",
+          "qid": "Q6500792"
+        }
+      ],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Flight_Pattern",
+        "wikidata": "https://www.wikidata.org/wiki/Q98076985"
+      },
+      "summary": {
+        "text": "Flight Pattern is a contemporary ballet choreographed by Crystal Pite, set to the first movement of Henryk Górecki's Symphony No. 3. It premiered at the Royal Opera House, London, on 16 March 2017, making Pite the first woman to choreograph for the Royal Ballet's main stage in 18 years. The ballet won the Laurence Olivier Award for Best New Dance Production in 2018.\nFlight Pattern examines the plight of refugees, drawing inspiration from 20th and 21st-century events, particularly the refugee crisis caused by the Syrian civil war. The ballet starts with 36 dancers performing on stage and becomes a series of duets and solos originated by the dancers Marcelino Sambé and Kristen McNally. The piece was mostly positively reviewed by critics, with many praising the performance of the two soloists and the choreography of the ensemble. In 2022, Pite expanded the ballet into Light of Passage, with Flight Pattern becoming the first part of the ballet. The narrative is non-linear and the movement uses lines created by the dancers' bodies and formations of queues to create tension on stage.",
+        "source_url": "https://en.wikipedia.org/wiki/Flight_Pattern",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "griselda-giovanni-bononcini": {
+      "slug": "griselda-giovanni-bononcini",
+      "title": "Griselda",
+      "qid": "Q2330994",
+      "enwiki": "Griselda (Giovanni Bononcini)",
+      "composers": [
+        {
+          "name": "Giovanni Bononcini",
+          "qid": "Q315241"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Paolo Antonio Rolli",
+          "qid": "Q726893"
+        }
+      ],
+      "premiere": {
+        "date": "1722-02-22",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Griselda_(Giovanni_Bononcini)",
+        "wikidata": "https://www.wikidata.org/wiki/Q2330994"
+      },
+      "summary": {
+        "text": "Griselda is a dramma per musica in three acts that was composed by Giovanni Bononcini. The opera uses a revised version of the 1701 Italian libretto by Apostolo Zeno that was based on Giovanni Boccaccio's The Decameron (X, 10, \"The Patient Griselda\"). The Italian poet Paolo Antonio Rolli was hired to revise the text. Bononcini's opera premiered in London at the King’s Theatre on 22 February 1722.  \nFrom the opera, an aria \"Per la gloria d'adorarvi\" is nowadays a famous and popular concert piece, with opera singers such as Oleg Ryabets (performed in 2001, at Kasals Hall, Tokyo, and in 2005, at Festival Die Metamorfosen by Georges-Emmanuel Schneider, Interlaken), or Ramon Vargas (recording in 2002, Arie Antiche).\nBononcini's brother, Antonio Maria Bononcini, also composed his own opera to Zeno's libretto four years earlier.",
+        "source_url": "https://en.wikipedia.org/wiki/Griselda_(Giovanni_Bononcini)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "having-it-all": {
+      "slug": "having-it-all",
+      "title": "Having It All",
+      "qid": "Q16948186",
+      "enwiki": "Having It All (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Having_It_All_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q16948186"
+      },
+      "summary": {
+        "text": "Having It All is a 2011 American musical with music by John Kavanaugh, book by David Goldsmith and Wendy Perelman, and lyrics by David Goldsmith based on an idea by Wendy Perelman. The plot concerns five women waiting in an airport lounge for a continually delayed plane. The musical was nominated in the Musical category in the 2011 Ovation Awards. The musical had a second run at the Laguna Playhouse, Laguna Beach 2013.",
+        "source_url": "https://en.wikipedia.org/wiki/Having_It_All_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "identical": {
+      "slug": "identical",
+      "title": "Identical",
+      "qid": "Q85768891",
+      "enwiki": "Identical (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Identical_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q85768891"
+      },
+      "summary": {
+        "text": "Identical is a stage musical with music by George Stiles, lyrics by Anthony Drewe and a book by Stuart Paterson. It is based on Erich Kästner's 1949 children's novel Lisa and Lottie (also known as The Parent Trap), which is also the basis for many adaptations including Disney's film franchise which began with a 1961 film.",
+        "source_url": "https://en.wikipedia.org/wiki/Identical_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "il-paria": {
+      "slug": "il-paria",
+      "title": "Il paria",
+      "qid": "Q470876",
+      "enwiki": "Il paria",
+      "composers": [
+        {
+          "name": "Gaetano Donizetti",
+          "qid": "Q101698",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/82838"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Domenico Gilardoni",
+          "qid": "Q3034738"
+        }
+      ],
+      "premiere": {
+        "date": "1829-01-12",
+        "venue": "Teatro di San Carlo"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Il_paria",
+        "wikidata": "https://www.wikidata.org/wiki/Q470876"
+      },
+      "summary": {
+        "text": "Il paria (The Outcast) is an opera in two acts by Gaetano Donizetti from a libretto by Domenico Gilardoni, based on Le Paria by Casimir Delavigne and Michele Carafa's Il paria with a libretto by Gaetano Rossi.\nCompleted in the winter of 1828, it was first performed on 12 January 1829 at the Teatro San Carlo, Naples. The opera had modest success, with six performances and Donizetti was not satisfied. In a letter to his father he announced his intentions to revise it, but the idea was abandoned.\nThe scholar William Ashbrook, has called this work \"Donizetti's finest achievement up to this point\", praising the adhesion of the vocal writing to the dramatic situations and the sense of proportions, stressing in particular the use of a quartet instead of the classic final. According to Ashbrook, the limited luck of Paria is due in large part to the libretto, with its numerous dramatic flaws, and lack of a final decisive dramaturgy.\nSome portions were re-used in other works by Donizetti, including Lucrezia Borgia, Anna Bolena, La romanziera e l'uomo nero, Torquato Tasso, and Le duc d'Albe,\n as well as in Il diluvio universale.",
+        "source_url": "https://en.wikipedia.org/wiki/Il_paria",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "in-memory-of": {
+      "slug": "in-memory-of",
+      "title": "In Memory of ...",
+      "qid": "Q16846981",
+      "enwiki": "In Memory of ... (ballet)",
+      "composers": [
+        {
+          "name": "Alban Berg",
+          "qid": "Q78475"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/In_Memory_of_..._(ballet)",
+        "wikidata": "https://www.wikidata.org/wiki/Q16846981"
+      },
+      "summary": {
+        "text": "In Memory of ... is a ballet in one act made by New York City Ballet ballet master Jerome Robbins to Berg's Violin Concerto (To the Memory of an Angel) of 1935 (written on the death of Manon Gropius, daughter of Alma Mahler, Gustav Mahler's widow, and Walter Gropius), based on themes from Mahler, a Carpathian folk song, and Bach's O Ewigkeit, du Donnerwort, BWV 20. The premiere took place on 13 June 1985 at the New York State Theater, Lincoln Center, with scenery by David Mitchell, costumes by Dain Marcus and lighting by Jennifer Tipton. A recording aired on PBS' Great Performances: Dance in America in 1987.",
+        "source_url": "https://en.wikipedia.org/wiki/In_Memory_of_..._(ballet)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "in-trousers": {
+      "slug": "in-trousers",
+      "title": "In Trousers",
+      "qid": "Q1660673",
+      "enwiki": "In Trousers",
+      "composers": [
+        {
+          "name": "William Finn",
+          "qid": "Q8009056",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9128"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/In_Trousers",
+        "wikidata": "https://www.wikidata.org/wiki/Q1660673"
+      },
+      "summary": {
+        "text": "In Trousers is a one-act musical that began off-Broadway in 1978 with book, music and lyrics by William Finn. It is the first in a trilogy of musicals, followed by March of the Falsettos and then Falsettoland.",
+        "source_url": "https://en.wikipedia.org/wiki/In_Trousers",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "initials-r-b-m-e": {
+      "slug": "initials-r-b-m-e",
+      "title": "Initials R.B.M.E.",
+      "qid": "Q112300342",
+      "enwiki": "Initials R.B.M.E.",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Initials_R.B.M.E.",
+        "wikidata": "https://www.wikidata.org/wiki/Q112300342"
+      },
+      "summary": {
+        "text": "Initials R.B.M.E. (German: Initialen R.B.M.E.) is a ballet choreographed by John Cranko to Brahms' Piano Concerto No. 2. The ballet is plotless, and features four movements, each with a lead dancer. The ballet was created for the Stuttgart Ballet, and the title was named after the dancers that originated the four lead roles, Richard Cragun, Birgit Keil, Marcia Haydée and Egon Madsen. Initials R.B.M.E. premiered on 18 January 1972, at the Staatsoper Stuttgart. It was one of Cranko's most successful ballets, and one of his final works before his sudden death in 1973.",
+        "source_url": "https://en.wikipedia.org/wiki/Initials_R.B.M.E.",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "isbe": {
+      "slug": "isbe",
+      "title": "Isbé",
+      "qid": "Q28408370",
+      "enwiki": "Isbé",
+      "composers": [
+        {
+          "name": "Jean-Joseph de Mondonville",
+          "qid": "Q371862"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Henri-François de La Rivière",
+          "qid": "Q56062819"
+        }
+      ],
+      "premiere": {
+        "date": "1742-10-04",
+        "venue": "Salle du Palais-Royal"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Isb%C3%A9",
+        "wikidata": "https://www.wikidata.org/wiki/Q28408370"
+      },
+      "summary": {
+        "text": "Isbé is a 1742 opera by Jean-Joseph Cassanéa de Mondonville to a libretto by Henri-Francois de La Rivière (1648–1738) A pastorale héroïque in 5 acts and a prologue, the opera was premiered in Paris on 10 April 1742. The plot concerns Adamas, chief Druid, who conceives a passion for Isbé.",
+        "source_url": "https://en.wikipedia.org/wiki/Isb%C3%A9",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "judith-matthus": {
+      "slug": "judith-matthus",
+      "title": "Judith",
+      "qid": "Q44632249",
+      "enwiki": "Judith (Matthus)",
+      "composers": [
+        {
+          "name": "Siegfried Matthus",
+          "qid": "Q314654"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Siegfried Matthus",
+          "qid": "Q314654"
+        }
+      ],
+      "premiere": {
+        "date": "1985-09-28",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Judith_(Matthus)",
+        "wikidata": "https://www.wikidata.org/wiki/Q44632249"
+      },
+      "summary": {
+        "text": "Judith is an opera in two acts by Siegfried Matthus with a libretto by the composer based on Friedrich Hebbel's Judith and texts from the Old Testament. The premiere was on 28 September 1985 at the Komische Oper Berlin, directed by Harry Kupfer. It was recorded in a studio production.",
+        "source_url": "https://en.wikipedia.org/wiki/Judith_(Matthus)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "just-so": {
+      "slug": "just-so",
+      "title": "Just So",
+      "qid": "Q6316365",
+      "enwiki": "Just So (musical)",
+      "composers": [
+        {
+          "name": "George Stiles",
+          "qid": "Q5544860",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/434332"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Anthony Drewe",
+          "qid": "Q4772423",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/434333"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Anthony Drewe",
+          "qid": "Q4772423",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/434333"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Just_So_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6316365"
+      },
+      "summary": {
+        "text": "Just So is a musical by Anthony Drewe and George Stiles written in 1984 based on the Just So Stories by Rudyard Kipling. Just So was originally produced by Cameron Mackintosh at the Watermill Theatre and in 1990, also by Mackintosh, at the Tricycle Theatre in London. It has been subsequently produced at various theatres in the US and UK.",
+        "source_url": "https://en.wikipedia.org/wiki/Just_So_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "la-cenicienta": {
+      "slug": "la-cenicienta",
+      "title": "La Cenicienta",
+      "qid": "Q3820715",
+      "enwiki": "La Cenicienta",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/La_Cenicienta",
+        "wikidata": "https://www.wikidata.org/wiki/Q3820715"
+      },
+      "summary": {
+        "text": "La Cenicienta (Cinderella) is a children's opera in three acts composed by Chilean artist Jorge Peña Hen (1928–1973), to a libretto by the Chilean author, Oscar Jara Azocar (1910–1988).\nThis opera is one of the few operas in the world composed with the aim to be sung, acted and played exclusively by children. It was written in 1966 and played by Jorge Peña Hen's first Symphonic Orchestra of Children at the Theater of the Girls Public School in La Serena, a city in the northern region of Coquimbo.\nIn 1967, a production of La Cenicienta went on a tour through several cities in Chile: Valparaíso, Viña del Mar, Concepción and Santiago, the capital. Its debut was considered a great success.\nIn 1986, a new version of this children's opera was played in Colombia.\nIn 1998, 25 years after Jorge Peña Hen's assassination by Chile's military coup officials, another version was re-made in La Serena.\nIn 2004, a new staging by Fondazione Teatro La Fenice, and in 2005 by University of Chile's Theatre in Santiago, Chile.\nThe plot of the opera is based on Charles Perrault's classic fairy tale Cinderella.",
+        "source_url": "https://en.wikipedia.org/wiki/La_Cenicienta",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "macbeth-bloch": {
+      "slug": "macbeth-bloch",
+      "title": "Macbeth",
+      "qid": "Q2917783",
+      "enwiki": "Macbeth (Bloch)",
+      "composers": [
+        {
+          "name": "Ernest Bloch",
+          "qid": "Q123234"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Edmond Fleg",
+          "qid": "Q324427",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/10617"
+        }
+      ],
+      "premiere": {
+        "date": "1910-11-30",
+        "venue": "Opéra-Comique"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Macbeth_(Bloch)",
+        "wikidata": "https://www.wikidata.org/wiki/Q2917783"
+      },
+      "summary": {
+        "text": "Macbeth is an opera in three acts, with music by Ernest Bloch to a libretto by Edmond Fleg, after the eponymous play of William Shakespeare.  Bloch composed the opera between 1904 and 1906, but it did not receive its first performance until 30 November 1910 by the Opéra-Comique in Paris with Henri Albers in the title role and conducted by François Ruhlmann.  Alex Cohen has written of quarrels within the cast that contributed to the opera's poorly received premiere.",
+        "source_url": "https://en.wikipedia.org/wiki/Macbeth_(Bloch)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "madama-butterfly": {
+      "slug": "madama-butterfly",
+      "title": "Madama Butterfly",
+      "qid": "Q19005",
+      "enwiki": "Madama Butterfly",
+      "composers": [
+        {
+          "name": "Giacomo Puccini",
+          "qid": "Q7311",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8199"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Giuseppe Giacosa",
+          "qid": "Q372032",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/95286"
+        },
+        {
+          "name": "Luigi Illica",
+          "qid": "Q441843",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/95287"
+        }
+      ],
+      "premiere": {
+        "date": "1904-02-17",
+        "venue": "La Scala"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Madama_Butterfly",
+        "wikidata": "https://www.wikidata.org/wiki/Q19005"
+      },
+      "summary": {
+        "text": "Madama Butterfly (Italian pronunciation: [maˈdaːma ˈbatterflai]; Madame Butterfly) is an opera in three acts (originally two) by Giacomo Puccini, with an Italian libretto by Luigi Illica and Giuseppe Giacosa. The Schickling catalog number is SC 74.\nIt is based on the short story \"Madame Butterfly\" (1898) by John Luther Long, which, in turn, was based on stories told to Long by his sister Jennie Correll, and on the semi-autobiographical 1887 French novel Madame Chrysanthème by Pierre Loti. Long's version was dramatized by David Belasco as the one-act play Madame Butterfly: A Tragedy of Japan, which, after premiering in New York in 1900, moved to London, where Puccini saw it in the summer of that year.\nThe original version of the opera, in two acts, had its premiere on 17 February 1904 at La Scala in Milan. It was poorly received, despite having such notable singers as soprano Rosina Storchio, tenor Giovanni Zenatello and baritone Giuseppe De Luca in lead roles. This was due in part to a late completion by Puccini, which gave inadequate time for rehearsals. Puccini revised the opera, splitting the second act in two, with the Humming Chorus as a bridge to what became Act III, and making other changes. Success ensued, starting with the first performance on 28 May 1904 in Brescia.",
+        "source_url": "https://en.wikipedia.org/wiki/Madama_Butterfly",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "mona-lisa": {
+      "slug": "mona-lisa",
+      "title": "Mona Lisa",
+      "qid": "Q1943928",
+      "enwiki": "Mona Lisa (opera)",
+      "composers": [
+        {
+          "name": "Max von Schillings",
+          "qid": "Q704926"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Beatrice von Dovsky",
+          "qid": "Q88821"
+        }
+      ],
+      "premiere": {
+        "date": "1915-09-26",
+        "venue": "Stuttgart"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Mona_Lisa_(opera)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1943928"
+      },
+      "summary": {
+        "text": "Mona Lisa, Op. 31, is a 1915 opera by the German composer Max von Schillings on a libretto by Beatrice von Dovsky. It was dedicated to the Philosophy Faculty of the University of Heidelberg, where the composer was awarded the title of professor.",
+        "source_url": "https://en.wikipedia.org/wiki/Mona_Lisa_(opera)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "mrs-doubtfire": {
+      "slug": "mrs-doubtfire",
+      "title": "Mrs. Doubtfire",
+      "qid": "Q85786843",
+      "enwiki": "Mrs. Doubtfire (musical)",
+      "composers": [
+        {
+          "name": "Wayne Kirkpatrick",
+          "qid": "Q7976392",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/498918"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2019-11-26",
+        "venue": "5th Avenue Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/524998",
+        "official_site": "https://mrsdoubtfirebroadway.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Mrs._Doubtfire_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q85786843"
+      },
+      "summary": {
+        "text": "Mrs. Doubtfire is a musical based on the 1993 film Mrs. Doubtfire, which in turn is based on the 1987 novel Madame Doubtfire by Anne Fine, with music and lyrics by Karey and Wayne Kirkpatrick and a book by Karey Kirkpatrick and John O'Farrell. The musical is produced by Kevin McCollum and presented by special arrangement with Buena Vista Theatrical.\nAs with the film, the musical is set in the city of San Francisco, California. However, the timeframe has been updated to the 21st century. The stage musical has references to both technology and pop culture that did not exist in 1993 when the film was released.",
+        "source_url": "https://en.wikipedia.org/wiki/Mrs._Doubtfire_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "nerdy-prudes-must-die": {
+      "slug": "nerdy-prudes-must-die",
+      "title": "Nerdy Prudes Must Die",
+      "qid": "Q124118899",
+      "enwiki": "Nerdy Prudes Must Die",
+      "composers": [
+        {
+          "name": "Jeff Blim",
+          "qid": "Q29577568"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Jeff Blim",
+          "qid": "Q29577568"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Nerdy_Prudes_Must_Die",
+        "wikidata": "https://www.wikidata.org/wiki/Q124118899"
+      },
+      "summary": {
+        "text": "Nerdy Prudes Must Die is a horror comedy musical with music and lyrics by Jeff Blim and a book by Matt and Nick Lang. It is the thirteenth staged show produced by StarKid Productions and is part of the Hatchetfield series, following the musicals The Guy Who Didn't Like Musicals and Black Friday, along with the web series Nightmare Time.\nThe show ran from February 16, 2023 to February 25, 2023 at the El Portal Theatre in Los Angeles, California, and was directed by Nick Lang. A live recording of the musical was uploaded onto StarKid's YouTube channel on October 13, 2023.\nOn September 14, 2026, StarKid announced the show would be staged for a limited run on the West End at Apollo Theatre, London in February 2027.\nThe show's cast album debuted at number 1 on Billboard's Cast Album charts.\nFunding for the show was done through Starkid Productions' Starkid Returns BackerKits project, which raised a total of $386,350.",
+        "source_url": "https://en.wikipedia.org/wiki/Nerdy_Prudes_Must_Die",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "one-love-the-bob-marley-musical": {
+      "slug": "one-love-the-bob-marley-musical",
+      "title": "One Love: The Bob Marley Musical",
+      "qid": "Q28128918",
+      "enwiki": "One Love: The Bob Marley Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/One_Love%3A_The_Bob_Marley_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q28128918"
+      },
+      "summary": {
+        "text": "One Love: The Bob Marley Musical previously titled Marley is a musical based on the life and music of Bob Marley, written by Kwame Kwei-Armah.",
+        "source_url": "https://en.wikipedia.org/wiki/One_Love%3A_The_Bob_Marley_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "owen-wingrave": {
+      "slug": "owen-wingrave",
+      "title": "Owen Wingrave",
+      "qid": "Q736246",
+      "enwiki": "Owen Wingrave",
+      "composers": [
+        {
+          "name": "Benjamin Britten",
+          "qid": "Q150767",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11434"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1971-05-16",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Owen_Wingrave",
+        "wikidata": "https://www.wikidata.org/wiki/Q736246"
+      },
+      "summary": {
+        "text": "Owen Wingrave, Op. 85, is an opera in two acts with music by Benjamin Britten and libretto by Myfanwy Piper, after a short story by Henry James. It was originally written for televised performance.\nBritten had been aware of the story since his work with Piper on his previous opera modelled after a James work, The Turn of the Screw in 1954. BBC television commissioned an opera for television from him in 1966 and, in 1968, he and Piper began work on the libretto. The work was completed by August 1970.\nThe premiere was recorded at Snape Maltings in November 1970 and first broadcast on BBC2 on 16 May 1971. The music is influenced by Britten's interest in twelve-tone serialist techniques. A large tuned percussion section anticipates the musical treatment of his next (and last) opera, Death in Venice. In addition to its being an expression of Britten's own pacifism, he was reported as saying that this opera was partly a response to the Vietnam War.\nThe costumes were designed by Charles Knode, who also designed some of the costumes for Death in Venice.\nBritten had never owned a television at that time. It has been reported that he hated television and never owned a set at all. This is not strictly true. Perhaps he would have never purchased a set himself, but he was given one by Decca for his 60th birthday in November 1973.",
+        "source_url": "https://en.wikipedia.org/wiki/Owen_Wingrave",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "pimmalione": {
+      "slug": "pimmalione",
+      "title": "Pimmalione",
+      "qid": "Q7194662",
+      "enwiki": "Pimmalione",
+      "composers": [
+        {
+          "name": "Luigi Cherubini",
+          "qid": "Q20721"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1809-11-30",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Pimmalione",
+        "wikidata": "https://www.wikidata.org/wiki/Q7194662"
+      },
+      "summary": {
+        "text": "Pimmalione (Pygmalion) is an opera in one act by Luigi Cherubini, first performed at the Théâtre des Tuileries, Paris, on 30 November 1809. The libretto is an adaptation by Stefano Vestris of Antonio Simeone Sografi's Italian translation of the text Jean-Jacques Rousseau wrote for his scène lyrique Pygmalion (1770). It is based on the Classical legend of the sculptor Pygmalion. \nCherubini, beset by severe depression, financial difficulties, and the hostility of Napoleon, was persuaded to write the one-act opera by two of the Emperor's favourite singers, the famous castrato Girolamo Crescentini and the contralto Giuseppina Grassini (who had been Napoleon's lover), who believed that this might be a way for the composer to regain Napoleon's regard. It was first given in a private performance at the emperor's palace, Les Tuileries. Napoleon was delighted with the work and offered Cherubini a large reward and a commission for another piece.",
+        "source_url": "https://en.wikipedia.org/wiki/Pimmalione",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "play-to-win": {
+      "slug": "play-to-win",
+      "title": "Play to Win",
+      "qid": "Q25217384",
+      "enwiki": "Play to Win (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Play_to_Win_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q25217384"
+      },
+      "summary": {
+        "text": "Play to Win is a 1989 musical with book and lyrics by James de Jongh, Charles Cleveland and music by Jimi Foster, based on the life of Jackie Robinson the Brooklyn Dodgers baseball player who was the first black player in major-league baseball. The show won the 1984 Audelco Award for \"best writing of a new show by black authors for the noncommercial theater.\" The 1989 New York production starred Michael-David Gordon and was directed by Ken Nixon.",
+        "source_url": "https://en.wikipedia.org/wiki/Play_to_Win_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "rodrigue-et-chimene": {
+      "slug": "rodrigue-et-chimene",
+      "title": "Rodrigue et Chimène",
+      "qid": "Q3891952",
+      "enwiki": "Rodrigue et Chimène",
+      "composers": [
+        {
+          "name": "Claude Debussy",
+          "qid": "Q4700",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/87554"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Catulle Mendès",
+          "qid": "Q971215"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Rodrigue_et_Chim%C3%A8ne",
+        "wikidata": "https://www.wikidata.org/wiki/Q3891952"
+      },
+      "summary": {
+        "text": "Rodrigue et Chimène (English: Rodrigo and Ximena) is an unfinished opera in three acts by Claude Debussy. The French libretto, by Catulle Mendès, is based on the plays Las Mocedades del Cid by Guillén de Castro y Bellvís and Corneille's Le Cid which deal with the legend of El Cid (Rodrigue in the opera). It was first staged in a version completed by Edison Denisov in Lyon on 14 May 1993.",
+        "source_url": "https://en.wikipedia.org/wiki/Rodrigue_et_Chim%C3%A8ne",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "romeo-and-juliet-macmillan": {
+      "slug": "romeo-and-juliet-macmillan",
+      "title": "Romeo and Juliet",
+      "qid": "Q7363135",
+      "enwiki": "Romeo and Juliet (MacMillan)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Romeo_and_Juliet_(MacMillan)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7363135"
+      },
+      "summary": {
+        "text": "Choreographer Sir Kenneth MacMillan's Royal Ballet production of Sergei Prokofiev's Romeo and Juliet premiered at the Royal Opera House, Covent Garden on 9 February 1965.",
+        "source_url": "https://en.wikipedia.org/wiki/Romeo_and_Juliet_(MacMillan)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "side-show": {
+      "slug": "side-show",
+      "title": "Side Show",
+      "qid": "Q7508290",
+      "enwiki": "Side Show (musical)",
+      "composers": [
+        {
+          "name": "Henry Krieger",
+          "qid": "Q5724487",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12011"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Bill Russell",
+          "qid": "Q862419",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4541"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Bill Russell",
+          "qid": "Q862419",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4541"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7992",
+        "playbill": "https://playbill.com/production/side-show-richard-rodgers-theatre-vault-0000003072",
+        "wikipedia": "https://en.wikipedia.org/wiki/Side_Show_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7508290"
+      },
+      "summary": {
+        "text": "Side Show is a musical by Bill Russell (book and lyrics) and Henry Krieger (music) based on the lives of Daisy and Violet Hilton, conjoined twins who became famous stage performers in the 1930s.\nThe musical opened October 16, 1997, on Broadway; Robert Longbottom directed and choreographed, and the cast starred Emily Skinner as Daisy and Alice Ripley as Violet. Despite receiving some positive reviews, the show closed after 91 performances.  A Broadway revival opened in November 2014, and closed after 56 performances.",
+        "source_url": "https://en.wikipedia.org/wiki/Side_Show_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "sons-o-guns": {
+      "slug": "sons-o-guns",
+      "title": "Sons O' Guns",
+      "qid": "Q131783066",
+      "enwiki": "Sons O' Guns",
+      "composers": [
+        {
+          "name": "J. Fred Coots",
+          "qid": "Q1284588",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11541"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Arthur Swanstrom",
+          "qid": "Q110904461",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4335"
+        },
+        {
+          "name": "Benny Davis",
+          "qid": "Q1261089",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11572"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Sons_O'_Guns",
+        "wikidata": "https://www.wikidata.org/wiki/Q131783066"
+      },
+      "summary": {
+        "text": "Sons O' Guns is a musical in two acts with music by J. Fred Coots; lyrics co-authored by Arthur Swanstrom and Benny Davis; and a book co-written by Frederick A. Thompson and Jack Donahue. Donahue also starred in the original production as the central character of Jimmy Canfield, an American playboy who is forced to enlist in the United States Army during World War I and has a series of comic adventures and a romance in France.",
+        "source_url": "https://en.wikipedia.org/wiki/Sons_O'_Guns",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "success": {
+      "slug": "success",
+      "title": "Success!",
+      "qid": "Q7632530",
+      "enwiki": "Success!",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Success!",
+        "wikidata": "https://www.wikidata.org/wiki/Q7632530"
+      },
+      "summary": {
+        "text": "Success! is a musical by Bernard J. Taylor that was first recorded in 1993 as a studio concept album featuring various West End performers including Lon Satton (who created the role of Poppa in Andrew Lloyd Webber's Starlight Express), Claire Moore, Kathryn Evans, Jessica Martin and Maurice Clarke.  It had its world premiere stage production in Rotherham, Yorkshire, in 1995. \nFollowing are extracts of some of the reviews:\n\"Great writers of stage music have always proved themselves to be versatile. In the light of the favourable reaction it received it would have been more than easy for Taylor to follow Wuthering Heights with another show in that same grand scale, but instead he quickly showed his credentials by heading in a totally different direction and in doing so comes up with another admirable piece of work. \"Success!\" is full of splendid material and is loads of fun.\" - Mike Gibb, Masquerade, Issue 13, 1993\n\"An adaptation of the Faust legend, I enjoyed this one very much, and it has some bright, breezy and catchy numbers. I will be surprised if anyone who buys it is disappointed with the standard of the songs.\" - Terry Wardrope, Words and Music,  Issue 17, January 1994.\n\"Taylor's score has several attractive songs . . . They're all sung as if they are the hottest songs to come from the West End.\" - Show Music, USA, autumn 1993 edition.",
+        "source_url": "https://en.wikipedia.org/wiki/Success!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "sweet-adeline": {
+      "slug": "sweet-adeline",
+      "title": "Sweet Adeline",
+      "qid": "Q7655190",
+      "enwiki": "Sweet Adeline (musical)",
+      "composers": [
+        {
+          "name": "Jerome Kern",
+          "qid": "Q313270",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6711"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Oscar Hammerstein II",
+          "qid": "Q319693",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7965"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Oscar Hammerstein II",
+          "qid": "Q319693",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7965"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8452",
+        "wikipedia": "https://en.wikipedia.org/wiki/Sweet_Adeline_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7655190"
+      },
+      "summary": {
+        "text": "Sweet Adeline is a musical with music by Jerome Kern, book and lyrics by Oscar Hammerstein II and original orchestration by Robert Russell Bennett. It premiered on Broadway in 1929. The story, set in the Gay Nineties, concerns a Hoboken, New Jersey girl who, unlucky in love, becomes a Broadway star.",
+        "source_url": "https://en.wikipedia.org/wiki/Sweet_Adeline_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "tasbebek": {
+      "slug": "tasbebek",
+      "title": "Taşbebek",
+      "qid": "Q7690510",
+      "enwiki": "Taşbebek",
+      "composers": [
+        {
+          "name": "Ahmet Adnan Saygun",
+          "qid": "Q401118"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1934-12-27",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Ta%C5%9Fbebek",
+        "wikidata": "https://www.wikidata.org/wiki/Q7690510"
+      },
+      "summary": {
+        "text": "Taşbebek (The Doll) is a 1934 Turkish-language opera by Ahmed Adnan Saygun. It was one of a group of operas commissioned by Atatürk as part of his cultural transformation.",
+        "source_url": "https://en.wikipedia.org/wiki/Ta%C5%9Fbebek",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-bardy-bunch": {
+      "slug": "the-bardy-bunch",
+      "title": "The Bardy Bunch",
+      "qid": "Q19870992",
+      "enwiki": "The Bardy Bunch",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Bardy_Bunch",
+        "wikidata": "https://www.wikidata.org/wiki/Q19870992"
+      },
+      "summary": {
+        "text": "The Bardy Bunch: The War of the Families Partridge and Brady is a musical parody written by Stephen Garvey. The show is a mash-up of a dozen Shakespeare plays and set in the 1970s amid a war between the popular sitcom families Partridge and Brady. The musical features 15 songs made famous on The Partridge Family and The Brady Bunch including \"I Think I Love You,\" \"It's a Sunshine Day,\" and \"I Woke Up In Love This Morning.\"",
+        "source_url": "https://en.wikipedia.org/wiki/The_Bardy_Bunch",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-boy-who-grew-too-fast": {
+      "slug": "the-boy-who-grew-too-fast",
+      "title": "The Boy Who Grew Too Fast",
+      "qid": "Q6861891",
+      "enwiki": "The Boy Who Grew Too Fast",
+      "composers": [
+        {
+          "name": "Gian Carlo Menotti",
+          "qid": "Q270662",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5904"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Gian Carlo Menotti",
+          "qid": "Q270662",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5904"
+        }
+      ],
+      "premiere": {
+        "date": "1982-09-24",
+        "venue": "Grand Opera House"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Boy_Who_Grew_Too_Fast",
+        "wikidata": "https://www.wikidata.org/wiki/Q6861891"
+      },
+      "summary": {
+        "text": "The Boy Who Grew Too Fast is a \"one-act opera for young people\" with music and libretto by Gian-Carlo Menotti. It was first performed by OperaDelaware at the Grand Opera House in Wilmington, Delaware, on September 24, 1982.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Boy_Who_Grew_Too_Fast",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-clockmaker-s-daughter": {
+      "slug": "the-clockmaker-s-daughter",
+      "title": "The Clockmaker's Daughter",
+      "qid": "Q133445580",
+      "enwiki": "The Clockmaker's Daughter",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2015-05-27",
+        "venue": "Landor Theatre"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Clockmaker's_Daughter",
+        "wikidata": "https://www.wikidata.org/wiki/Q133445580"
+      },
+      "summary": {
+        "text": "The Clockmaker's Daughter is a musical with music and lyrics by Michael Webborn and Daniel Finn.\nThe musical is set in late 19th-century Ireland, in the fictional town of Spindlewood. The story is focused around William 'Will' Riley and his developing relationship with Constance, who was secretly made (by Abraham Reed) of clock-work.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Clockmaker's_Daughter",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-idea": {
+      "slug": "the-idea",
+      "title": "The Idea",
+      "qid": "Q7741325",
+      "enwiki": "The Idea (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Idea_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7741325"
+      },
+      "summary": {
+        "text": "The Idea is a musical with words and music by Joseph Hart. While essentially a comedy, the plot centers around a young man whose destructive life of gambling and drinking is turned around after attending a meeting at the Salvation Army. Scholars have noted similarities of this work to the later 1950 musical Guys and Dolls, but with an aesthetic of musicals and culture of the 1890s.\nThe original production, featuring Frederick Hallen and Joseph Hart, was produced by Hallen at Bowdoin Square in Boston in November 1892. It then opened in New York City at the Fourteenth Street Theatre on April 9, 1893 and was still playing there in October. In 1894, a revival played in Chicago.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Idea_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-last-ship": {
+      "slug": "the-last-ship",
+      "title": "The Last Ship",
+      "qid": "Q16981116",
+      "enwiki": "The Last Ship (musical)",
+      "composers": [
+        {
+          "name": "Sting",
+          "qid": "Q483203",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/84134"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Sting",
+          "qid": "Q483203",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/84134"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "John Logan",
+          "qid": "Q384004",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/486440"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/496366",
+        "official_site": "http://www.thelastshipbroadway.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Last_Ship_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q16981116"
+      },
+      "summary": {
+        "text": "The Last Ship is an original musical with music and lyrics by Sting.\nInspired by Sting's own childhood experiences and the shipbuilding industry in Wallsend, Tyne and Wear,  the musical with book by John Logan and Brian Yorkey played at the Bank of America Theatre in Chicago, before moving to the Neil Simon Theatre on Broadway in 2014. The musical received two Tony Award nominations in 2015, for Best Original Score and Best Orchestrations.\nThe musical was later significantly revised. Following a UK national tour and subsequent six-week run at the Princess of Wales Theatre in Toronto, it embarked on a US national tour with the official opening at the Ahmanson Theatre, Los Angeles on 22 January 2020.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Last_Ship_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-little-mermaid-jr": {
+      "slug": "the-little-mermaid-jr",
+      "title": "The Little Mermaid Jr.",
+      "qid": "Q25212328",
+      "enwiki": "The Little Mermaid Jr.",
+      "composers": [
+        {
+          "name": "Alan Menken",
+          "qid": "Q317272",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12135"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Howard Ashman",
+          "qid": "Q1334295",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6356"
+        },
+        {
+          "name": "Glenn Slater",
+          "qid": "Q3427403",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/80644"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Doug Wright",
+          "qid": "Q722807",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/113564"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Little_Mermaid_Jr.",
+        "wikidata": "https://www.wikidata.org/wiki/Q25212328"
+      },
+      "summary": {
+        "text": "The Little Mermaid Jr. is a stage musical produced by Disney Theatrical, based on the animated 1989 Disney film of the same name and the classic story of the same name by Hans Christian Andersen about a mermaid who dreams of the world above the sea and gives up her voice to find love. Its book is by Doug Wright, music by Alan Menken and lyrics by Howard Ashman (written for the film), with additional lyrics by Glenn Slater. The Little Mermaid Jr. first became available to license by the company Music Theater International and Disney Theatrical Productions.\nA 60-minute adaption of the musical was produced, containing appropriate song keys for young children and accompaniment tracks so that live music is not necessary.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Little_Mermaid_Jr.",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-rose-of-castille": {
+      "slug": "the-rose-of-castille",
+      "title": "The Rose of Castille",
+      "qid": "Q7761557",
+      "enwiki": "The Rose of Castille",
+      "composers": [
+        {
+          "name": "Michael William Balfe",
+          "qid": "Q434171",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/24437"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": "Lyceum Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/427658",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Rose_of_Castille",
+        "wikidata": "https://www.wikidata.org/wiki/Q7761557"
+      },
+      "summary": {
+        "text": "The Rose of Castille (or Castile) is an opera in three acts, with music by Michael William Balfe to an English-language libretto by Augustus Glossop Harris and Edmund Falconer, after the libretto by Adolphe d'Ennery and Clairville (alias of Louis-François Nicolaïe (1811–1879)) for Adolphe Adam's Le muletier de Tolède (1854). It was premiered on 29 October 1857, at the Lyceum Theatre, London.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Rose_of_Castille",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-witches-of-eastwick": {
+      "slug": "the-witches-of-eastwick",
+      "title": "The Witches of Eastwick",
+      "qid": "Q7775315",
+      "enwiki": "The Witches of Eastwick (musical)",
+      "composers": [
+        {
+          "name": "Dana P. Rowe",
+          "qid": "Q5214803"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "John Dempsey",
+          "qid": "Q6229139",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/426184"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Witches_of_Eastwick_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7775315"
+      },
+      "summary": {
+        "text": "The Witches of Eastwick is a 2000 musical based on the 1984 novel of the same name by John Updike. It was adapted by John Dempsey (lyrics and book) and Dana P. Rowe (music), directed by Eric Schaeffer, and produced by Sir Cameron Mackintosh.\nThe story is based around three female protagonists, the 'Witches': Alexandra Spofford, Jane Smart, and Sukie Rougemont. Frustrated and bored by their mundane lives in the town of Eastwick, a shared longing and desire for \"all manner of man in one man\" comes to life in the form of a charismatic stranger, a devil-like character, Darryl Van Horne. Seducing each of the women in turn, Darryl teaches them how to expand the powers locked within, though their new unorthodox lifestyle scandalizes the town. As these powers become more sinister and events spiral out of control, the women come to realise that Darryl's influence is corrupting everyone he comes into contact with and resolve to use their new-found strength to exile him from their lives.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Witches_of_Eastwick_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "u": {
+      "slug": "u",
+      "title": "ʼuʼ",
+      "qid": "Q2012993",
+      "enwiki": "ʼuʼ",
+      "composers": [
+        {
+          "name": "Eef van Breen",
+          "qid": "Q1903602"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2010-09-10",
+        "venue": "The Hague"
+      },
+      "awards": [],
+      "links": {
+        "official_site": "https://u-theopera.org",
+        "wikipedia": "https://en.wikipedia.org/wiki/%CA%BCu%CA%BC",
+        "wikidata": "https://www.wikidata.org/wiki/Q2012993"
+      },
+      "summary": {
+        "text": "ʼuʼ ([ʔuʔ], beginning and ending with a glottal stop) is the first opera in the Klingon language, billed as \"The first authentic Klingon opera on Earth\". It was composed by Eef van Breen to a libretto by Kees Ligtelijn and Marc Okrand under the artistic direction of Floris Schönfeld. The story of ʼuʼ is based on the epic legend of \"Kahless the Unforgettable\", a messianic figure in the history of the fictional Klingon species.\nThe premiere of the opera in The Hague on 10 September 2010 was a success, and the opera has been revived since then.",
+        "source_url": "https://en.wikipedia.org/wiki/%CA%BCu%CA%BC",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "variations-musical": {
+      "slug": "variations-musical",
+      "title": "Variations",
+      "qid": "Q30601150",
+      "enwiki": "Variations (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Variations_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q30601150"
+      },
+      "summary": {
+        "text": "Variations is a musical with book and lyrics by Nick Enright and music and arrangements by Terence Clarke.\nIt premiered at the Belvoir St Theatre in Sydney on 2 December 1982, produced by the Nimrod Theatre Company. The original production was directed by John Bell and featured Nancye Hayes, Deidre Rubenstein, Robert Alexander, Philip Dodd, Vivienne Garrett, Brian James, Patricia Kennedy, Kim Krejus and George Spartels.\nSet in contemporary (1982) Sydney, the musical concerned the search for love and fulfilment in three generations of Australian women: a cello-playing grandmother seeking a violinist to play with her; her daughter, a shopfront lawyer and single mother; a daughter-in-law leaving a routine marriage; and a granddaughter approaching love for the first time.\nVariations received the Play Award at the 1983 New South Wales Premier's Literary Awards. Despite the award, since the première there has been no further staged production. Neglected Musicals performed a staged reading in 2013 at the Hayes Theatre in Sydney.",
+        "source_url": "https://en.wikipedia.org/wiki/Variations_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "wapping-old-stairs": {
+      "slug": "wapping-old-stairs",
+      "title": "Wapping Old Stairs",
+      "qid": "Q96414264",
+      "enwiki": "Wapping Old Stairs",
+      "composers": [
+        {
+          "name": "Howard Talbot",
+          "qid": "Q5921014",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12481"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1894-01-04",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Wapping_Old_Stairs",
+        "wikidata": "https://www.wikidata.org/wiki/Q96414264"
+      },
+      "summary": {
+        "text": "Wapping Old Stairs is an 1894 comic opera in three acts, with music by Howard Talbot, which played at the Vaudeville Theatre in London. It included D'Oyly Carte Opera Company regulars Courtice Pounds, Richard Temple and Jessie Bond in the cast.",
+        "source_url": "https://en.wikipedia.org/wiki/Wapping_Old_Stairs",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "women-on-the-verge-of-a-nervous-breakdown": {
+      "slug": "women-on-the-verge-of-a-nervous-breakdown",
+      "title": "Women on the Verge of a Nervous Breakdown",
+      "qid": "Q8031624",
+      "enwiki": "Women on the Verge of a Nervous Breakdown (musical)",
+      "composers": [
+        {
+          "name": "David Yazbek",
+          "qid": "Q5241354",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/75798"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "David Yazbek",
+          "qid": "Q5241354",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/75798"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Jeffrey Lane",
+          "qid": "Q15489785",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/392563"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/487912",
+        "wikipedia": "https://en.wikipedia.org/wiki/Women_on_the_Verge_of_a_Nervous_Breakdown_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q8031624"
+      },
+      "summary": {
+        "text": "Women on the Verge of a Nervous Breakdown is a musical with music and lyrics by David Yazbek and a book by Jeffrey Lane. Based on the Pedro Almodóvar film Women on the Verge of a Nervous Breakdown (1988), the musical tells the tale of a group of women in late 20th-century Madrid whose relationships with men lead to a tumultuous 48 hours of love, confusion and passion.\nThe original Broadway production opened at the Belasco Theatre in October 2010, but received mostly negative reviews and closed in January 2011 after 30 previews and 69 performances. It was nominated for 3 Tony Awards and 6 Drama Desk Awards. With new direction and production design, the musical transferred to London and opened at the Playhouse Theatre in January 2015, where it received mixed to positive reviews and 2 Laurence Olivier Award nominations. It closed in May of that year.",
+        "source_url": "https://en.wikipedia.org/wiki/Women_on_the_Verge_of_a_Nervous_Breakdown_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "yes": {
+      "slug": "yes",
+      "title": "Yes",
+      "qid": "Q119038423",
+      "enwiki": "Yes (operetta)",
+      "composers": [
+        {
+          "name": "Maurice Yvain",
+          "qid": "Q1911484",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12610"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Albert Willemetz",
+          "qid": "Q2831645",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3985"
+        }
+      ],
+      "premiere": {
+        "date": "1928-01-26",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Yes_(operetta)",
+        "wikidata": "https://www.wikidata.org/wiki/Q119038423"
+      },
+      "summary": {
+        "text": "Yes is an operetta in three acts with music by composer Maurice Yvain, lyrics by Albert Willemetz, and a book by René Pujol and Pierre Souvaine. It was written as a starring vehicle for the French singer and actress Arletty. The work shares the same story as the 1928 silent film The Story of a Little Parisian (French: Totte et sa chance) and the two works were released in conjunction with one another. It premiered at the Théâtre des Capucines in Paris on January 26, 1928.",
+        "source_url": "https://en.wikipedia.org/wiki/Yes_(operetta)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

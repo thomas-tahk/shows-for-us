@@ -1,23 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-10-26T18:41:20.365Z",
-    "mode": "offline-fixtures",
-    "live": false,
-    "skipped": [
-      "the-lion-king",
-      "rent",
-      "the-book-of-mormon",
-      "hadestown",
-      "kimberly-akimbo",
-      "the-outsiders",
-      "maybe-happy-ending",
-      "jersey-boys",
-      "kinky-boots",
-      "the-phantom-of-the-opera",
-      "dear-evan-hansen",
-      "next-to-normal",
-      "a-strange-loop"
-    ]
+    "generated_at": "2026-11-04T12:39:53.438Z",
+    "mode": "live",
+    "live": true,
+    "skipped": []
   },
   "shows": [
     {
@@ -29,22 +15,22 @@
       "composers": [
         {
           "name": "Lin-Manuel Miranda",
-          "qid": "Q0000001",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9999991"
+          "qid": "Q1646482",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/459893"
         }
       ],
       "lyricists": [
         {
           "name": "Lin-Manuel Miranda",
-          "qid": "Q0000001",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9999991"
+          "qid": "Q1646482",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/459893"
         }
       ],
       "librettists": [
         {
           "name": "Lin-Manuel Miranda",
-          "qid": "Q0000001",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9999991"
+          "qid": "Q1646482",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/459893"
         }
       ],
       "premiere": {
@@ -53,21 +39,21 @@
       },
       "awards": [
         {
-          "name": "Pulitzer Prize for Drama",
-          "qid": "Q0000003"
+          "name": "Tony Award for Best Musical",
+          "qid": "Q1780176"
         },
         {
-          "name": "Tony Award for Best Musical",
-          "qid": "Q0000004"
+          "name": "Pulitzer Prize for Drama",
+          "qid": "Q289214"
         }
       ],
       "image": {
-        "commons_file": "Hamilton fixture placeholder.jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Hamilton_fixture_placeholder.jpg",
-        "license": "CC BY-SA 4.0",
-        "author": "Example Photographer (placeholder)",
-        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Hamilton_fixture_placeholder.jpg"
+        "commons_file": "Lin-Manuel Miranda in Hamilton.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Lin-Manuel_Miranda_in_Hamilton.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY 2.0",
+        "author": "Steve Jurvetson",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Lin-Manuel_Miranda_in_Hamilton.jpg"
       },
       "links": {
         "ibdb": "https://www.ibdb.com/broadway-show/499520",
@@ -75,7 +61,7 @@
         "official_site": "https://hamiltonmusical.com"
       },
       "summary": {
-        "text": "[Placeholder text, not from Wikipedia: run npm run pull -- --record to replace this with the real article summary.]",
+        "text": "Hamilton: An American Musical, known simply as Hamilton, is a sung-and-rapped-through biographical musical with music, lyrics, and a book by Lin-Manuel Miranda. Based on the 2004 biography Alexander Hamilton by Ron Chernow, the musical covers the life of American Founding Father Alexander Hamilton and his involvement in the American Revolution and the political history of the early United States. Composed from 2008 to 2015, the music draws heavily from hip hop, as well as R&B, pop, soul, and traditional-style show tunes. It casts non-white actors as the Founding Fathers of the United States and other historical figures. Miranda described Hamilton as about \"America then, as told by America now\".",
         "source_url": "https://en.wikipedia.org/wiki/Hamilton_(musical)",
         "license": "CC BY-SA 4.0",
         "modified": false
@@ -92,25 +78,32 @@
       "composers": [
         {
           "name": "Claude-Michel Schönberg",
-          "qid": "Q0000010",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9999992"
+          "qid": "Q712004",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4864"
         }
       ],
       "lyricists": [
         {
-          "name": "Herbert Kretzmer",
-          "qid": "Q0000014"
+          "name": "James Fenton",
+          "qid": "Q449235",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/72570"
         },
         {
-          "name": "James Fenton",
-          "qid": "Q0000015"
+          "name": "Herbert Kretzmer",
+          "qid": "Q5734832",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13012"
         }
       ],
       "librettists": [
         {
           "name": "Alain Boublil",
-          "qid": "Q0000011",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9999993"
+          "qid": "Q284540",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3932"
+        },
+        {
+          "name": "Claude-Michel Schönberg",
+          "qid": "Q712004",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4864"
         }
       ],
       "premiere": {
@@ -119,30 +112,831 @@
       },
       "awards": [
         {
+          "name": "Tony Award for Best Original Score",
+          "qid": "Q1478089"
+        },
+        {
+          "name": "Helpmann Award for Best Musical",
+          "qid": "Q16957919"
+        },
+        {
           "name": "Tony Award for Best Musical",
-          "qid": "Q0000004"
+          "qid": "Q1780176"
+        },
+        {
+          "name": "Tony Award for Best Book of a Musical",
+          "qid": "Q1784838"
+        },
+        {
+          "name": "Audience Award for Most Popular Show",
+          "qid": "Q4819761"
+        },
+        {
+          "name": "Drama Desk Award for Outstanding Music",
+          "qid": "Q5305717"
+        },
+        {
+          "name": "Drama Desk Award for Outstanding Musical",
+          "qid": "Q5305719"
         }
       ],
       "image": {
-        "commons_file": "Les Mis fixture placeholder.jpg",
-        "url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Les_Mis_fixture_placeholder.jpg",
-        "license": "CC BY 2.0",
-        "author": "Example Author & Co (placeholder)",
-        "license_url": "https://creativecommons.org/licenses/by/2.0",
-        "source_url": "https://commons.wikimedia.org/wiki/File:Les_Mis_fixture_placeholder.jpg"
+        "commons_file": "Queen's Theatre by Day Cropped.png",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Queen%27s_Theatre_by_Day_Cropped.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "author": "Queen's_Theatre_by_Day.jpg: Rifleman_82 derivative work: Kalgaron",
+        "license_url": null,
+        "source_url": "https://commons.wikimedia.org/wiki/File:Queen%27s_Theatre_by_Day_Cropped.png"
       },
       "links": {
         "ibdb": "https://www.ibdb.com/broadway-show/5340",
-        "playbill": "https://playbill.com/production/les-miserables-fixture-placeholder-0000000000",
+        "playbill": "https://playbill.com/production/les-miserables-broadway-theatre-vault-0000012257",
         "official_site": "https://www.lesmis.com"
       },
       "summary": {
-        "text": "[Placeholder text, not from Wikipedia: run npm run pull -- --record to replace this with the real article summary.]",
-        "source_url": "https://en.wikipedia.org/wiki/Les_Misérables_(musical)",
+        "text": "Les Misérables, colloquially known as Les Mis or Les Miz, is a sung-through musical based on the 1862 novel by Victor Hugo. It is one of the most popular and highest-grossing stage musicals of all time. Set in early 19th-century France, Les Misérables tells the story of Jean Valjean, a French convict, and his journey of redemption. After stealing a loaf of bread for his sister's starving child, Valjean is imprisoned for 19 years and released in 1815. When a bishop inspires him with a tremendous act of mercy, Valjean breaks his parole, changes his name and starts his life anew. He becomes wealthy and adopts an orphan, Cosette. A police inspector named Javert pursues Valjean over the decades in a single-minded quest for \"justice.\" The plot leads the characters to Paris, where they are swept up in the events of a revolutionary period in France, as a group of young idealists attempts to overthrow the government from a street barricade.",
+        "source_url": "https://en.wikipedia.org/wiki/Les_Mis%C3%A9rables_(musical)",
         "license": "CC BY-SA 4.0",
         "modified": false
       },
       "wikidata_url": "https://www.wikidata.org/wiki/Q111905785"
+    },
+    {
+      "slug": "the-lion-king",
+      "title": "The Lion King",
+      "qids": [
+        "Q1195106"
+      ],
+      "composers": [
+        {
+          "name": "Elton John",
+          "qid": "Q2808",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11938"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Tim Rice",
+          "qid": "Q298295",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8890"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Roger Allers",
+          "qid": "Q847468",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8448"
+        }
+      ],
+      "premiere": {
+        "date": "1997",
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Laurence Olivier Awards",
+          "qid": "Q28470"
+        }
+      ],
+      "image": {
+        "commons_file": "Hamburg - Theater im Hafen Hamburg - 2016.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Hamburg_-_Theater_im_Hafen_Hamburg_-_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 3.0",
+        "author": "Avda",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Hamburg_-_Theater_im_Hafen_Hamburg_-_2016.jpg"
+      },
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5421",
+        "playbill": "https://playbill.com/production/the-lion-king-new-amsterdam-theatre-vault-0000008729",
+        "official_site": "https://www.londonwestendtheatre.com/lion-king-tickets"
+      },
+      "summary": {
+        "text": "The Lion King is a stage musical with a book by Roger Allers and Irene Mecchi based on the 1994 Walt Disney Animation Studios' film of the same name. Directed by Julie Taymor, the musical features actors in animal costumes as well as giant, hollow puppets. The show is produced by Disney Theatrical Productions and features songs from the original film by Elton John and Tim Rice, while the majority of new songs were contributed by Lebo M, Mark Mancina, Jay Rifkin, Tsidii Le Loka, Taymor, and Hans Zimmer.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Lion_King_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      },
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1195106"
+    },
+    {
+      "slug": "rent",
+      "title": "Rent",
+      "qids": [
+        "Q553890"
+      ],
+      "composers": [
+        {
+          "name": "Jonathan Larson",
+          "qid": "Q449002",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6927"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Jonathan Larson",
+          "qid": "Q449002",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6927"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Jonathan Larson",
+          "qid": "Q449002",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6927"
+        }
+      ],
+      "premiere": {
+        "date": "1996",
+        "venue": "New York Theatre Workshop"
+      },
+      "awards": [
+        {
+          "name": "Tony Award for Best Musical",
+          "qid": "Q1780176"
+        },
+        {
+          "name": "Pulitzer Prize for Drama",
+          "qid": "Q289214"
+        },
+        {
+          "name": "Drama Desk Award for Outstanding Book of a Musical",
+          "qid": "Q5305705"
+        },
+        {
+          "name": "Drama Desk Award for Outstanding Lyrics",
+          "qid": "Q5305716"
+        },
+        {
+          "name": "Drama Desk Award for Outstanding Music",
+          "qid": "Q5305717"
+        },
+        {
+          "name": "Drama Desk Award for Outstanding Musical",
+          "qid": "Q5305719"
+        }
+      ],
+      "image": {
+        "commons_file": "Nederlander-theatre-rent.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Nederlander-theatre-rent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY 2.0",
+        "author": "unknown",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Nederlander-theatre-rent.jpg"
+      },
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7448"
+      },
+      "summary": {
+        "text": "Rent is a rock musical with music, lyrics, and book by Jonathan Larson. Loosely based on the 1896 opera La bohème by Giacomo Puccini, Luigi Illica, and Giuseppe Giacosa, it tells the story of a group of impoverished young artists struggling to survive and create a life in Lower Manhattan's East Village, in the thriving days of the bohemian culture of Alphabet City, under the shadow of HIV/AIDS.",
+        "source_url": "https://en.wikipedia.org/wiki/Rent_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      },
+      "wikidata_url": "https://www.wikidata.org/wiki/Q553890"
+    },
+    {
+      "slug": "the-book-of-mormon",
+      "title": "The Book of Mormon",
+      "qids": [
+        "Q1064850"
+      ],
+      "composers": [
+        {
+          "name": "Robert Lopez",
+          "qid": "Q3435778",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/109408"
+        },
+        {
+          "name": "Matt Stone",
+          "qid": "Q44410",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/488722"
+        },
+        {
+          "name": "Trey Parker",
+          "qid": "Q44414",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/488723"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Robert Lopez",
+          "qid": "Q3435778",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/109408"
+        },
+        {
+          "name": "Matt Stone",
+          "qid": "Q44410",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/488722"
+        },
+        {
+          "name": "Trey Parker",
+          "qid": "Q44414",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/488723"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Robert Lopez",
+          "qid": "Q3435778",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/109408"
+        },
+        {
+          "name": "Matt Stone",
+          "qid": "Q44410",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/488722"
+        },
+        {
+          "name": "Trey Parker",
+          "qid": "Q44414",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/488723"
+        }
+      ],
+      "premiere": {
+        "date": "2011-03-24",
+        "venue": "Eugene O'Neill Theatre"
+      },
+      "awards": [
+        {
+          "name": "Tony Award for Best Musical",
+          "qid": "Q1780176"
+        }
+      ],
+      "image": {
+        "commons_file": "The Book of Mormon.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/0b/The_Book_of_Mormon.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY 2.0",
+        "author": "André-Pierre du Plessis",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:The_Book_of_Mormon.jpg"
+      },
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/488720",
+        "playbill": "https://playbill.com/production/book-of-mormon-the-prince-of-wales-theatre-2012-2013",
+        "official_site": "https://bookofmormonbroadway.com/"
+      },
+      "summary": {
+        "text": "The Book of Mormon is an American musical comedy with music, lyrics, and book by Trey Parker, Robert Lopez, and Matt Stone. The story follows two missionaries of the Church of Jesus Christ of Latter-day Saints as they attempt to preach the faith to the inhabitants of a remote Ugandan village. The earnest young men are challenged by the lack of interest from the locals, who are distracted by more pressing issues such as HIV/AIDS, famine, and oppression by the local warlord.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Book_of_Mormon_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      },
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1064850"
+    },
+    {
+      "slug": "hadestown",
+      "title": "Hadestown",
+      "qids": [
+        "Q28452845"
+      ],
+      "composers": [
+        {
+          "name": "Anaïs Mitchell",
+          "qid": "Q1467912",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/520713"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Anaïs Mitchell",
+          "qid": "Q1467912",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/520713"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Anaïs Mitchell",
+          "qid": "Q1467912",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/520713"
+        }
+      ],
+      "premiere": {
+        "date": "2016-05-06",
+        "venue": "New York Theatre Workshop"
+      },
+      "awards": [
+        {
+          "name": "Tony Award for Best Original Score",
+          "qid": "Q1478089"
+        },
+        {
+          "name": "Tony Award for Best Musical",
+          "qid": "Q1780176"
+        }
+      ],
+      "image": {
+        "commons_file": "Walter Kerr Theatre - Hadestown (48295952136).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Walter_Kerr_Theatre_-_Hadestown_%2848295952136%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY 2.0",
+        "author": "Ajay Suresh from New York, NY, USA",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Walter_Kerr_Theatre_-_Hadestown_(48295952136).jpg"
+      },
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/520710"
+      },
+      "summary": {
+        "text": "Hadestown is a musical with music, lyrics, and book by Anaïs Mitchell. It blends versions of two ancient Greek myths, Orpheus and Eurydice and Hades and Persephone, to explore enduring and contemporary themes such as poverty and love.",
+        "source_url": "https://en.wikipedia.org/wiki/Hadestown",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      },
+      "wikidata_url": "https://www.wikidata.org/wiki/Q28452845"
+    },
+    {
+      "slug": "kimberly-akimbo",
+      "title": "Kimberly Akimbo",
+      "qids": [
+        "Q112481527"
+      ],
+      "composers": [
+        {
+          "name": "Jeanine Tesori",
+          "qid": "Q16194364",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12488"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "David Lindsay-Abaire",
+          "qid": "Q532488",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/389683"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "David Lindsay-Abaire",
+          "qid": "Q532488",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/389683"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "image": null,
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/534753"
+      },
+      "summary": {
+        "text": "Kimberly Akimbo is a musical with music by Jeanine Tesori and lyrics and book by David Lindsay-Abaire. It is based on Lindsay-Abaire's 2001 play of the same name.",
+        "source_url": "https://en.wikipedia.org/wiki/Kimberly_Akimbo_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      },
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112481527"
+    },
+    {
+      "slug": "the-outsiders",
+      "title": "The Outsiders",
+      "qids": [
+        "Q125293293"
+      ],
+      "composers": [
+        {
+          "name": "Jonathan Clay",
+          "qid": "Q6272781"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Jonathan Clay",
+          "qid": "Q6272781"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Adam Rapp",
+          "qid": "Q4679649",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/453092"
+        }
+      ],
+      "premiere": {
+        "date": "2023-02-19",
+        "venue": null
+      },
+      "awards": [],
+      "image": null,
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/537823"
+      },
+      "summary": {
+        "text": "The Outsiders: A New Musical, also known as The Outsiders, is a 2023 coming-of-age musical with music and lyrics by Jonathan Clay and Zach Chance from the folk rock band Jamestown Revival alongside Justin Levine and a book by Adam Rapp and Levine. It is based on The Outsiders, first published in 1967 and written by S. E. Hinton, and on its 1983 film adaptation written by Kathleen Rowell and directed by Francis Ford Coppola. It is the second stage adaptation of Hinton's novel, following the 1990 play by Christopher Sergel.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Outsiders_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      },
+      "wikidata_url": "https://www.wikidata.org/wiki/Q125293293"
+    },
+    {
+      "slug": "maybe-happy-ending",
+      "title": "Maybe Happy Ending",
+      "qids": [
+        "Q112610353"
+      ],
+      "composers": [
+        {
+          "name": "Will Aronson",
+          "qid": "Q8002681",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/539784"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Hue Park",
+          "qid": "Q17145759",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/539785"
+        },
+        {
+          "name": "Will Aronson",
+          "qid": "Q8002681",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/539784"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Hue Park",
+          "qid": "Q17145759",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/539785"
+        },
+        {
+          "name": "Will Aronson",
+          "qid": "Q8002681",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/539784"
+        }
+      ],
+      "premiere": {
+        "date": "2016-12-20",
+        "venue": "Seoul"
+      },
+      "awards": [],
+      "image": null,
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/539777"
+      },
+      "summary": {
+        "text": "Maybe Happy Ending is a South Korean musical with lyrics written by Hue Park, music composed by Will Aronson, and book written by both Park and Aronson. The musical, which is performed without intermission, follows two human-like helper-bots, Oliver and Claire, who discover each other in Seoul later in the 21st century and develop a connection that challenges what they believe is possible for themselves, exploring relationships, love and mortality.",
+        "source_url": "https://en.wikipedia.org/wiki/Maybe_Happy_Ending",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      },
+      "wikidata_url": "https://www.wikidata.org/wiki/Q112610353"
+    },
+    {
+      "slug": "jersey-boys",
+      "title": "Jersey Boys",
+      "qids": [
+        "Q14954689"
+      ],
+      "composers": [
+        {
+          "name": "Bob Gaudio",
+          "qid": "Q887941",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/394784"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Bob Crewe",
+          "qid": "Q2295154",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/394785"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Marshall Brickman",
+          "qid": "Q459814",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/394782"
+        }
+      ],
+      "premiere": {
+        "date": "2004-10-05",
+        "venue": "La Jolla Playhouse"
+      },
+      "awards": [],
+      "image": {
+        "commons_file": "August Wilson Theatre NYC.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/August_Wilson_Theatre_NYC.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY 3.0",
+        "author": "Photo: Andreas Praefcke",
+        "license_url": "https://creativecommons.org/licenses/by/3.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:August_Wilson_Theatre_NYC.jpg"
+      },
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/394780"
+      },
+      "summary": {
+        "text": "Jersey Boys is a jukebox musical with a book by Marshall Brickman and Rick Elice. It is presented in a documentary-style format that dramatizes the formation, success and breakup of the 1960s rock 'n' roll group the Four Seasons. The musical is structured as four \"seasons\", each narrated by a different member of the band who gives his own perspective on its history and music. Songs include \"Big Girls Don't Cry\", \"Sherry\", \"December, 1963 \", \"My Eyes Adored You\", \"Stay\", \"Can't Take My Eyes Off You\", \"Walk Like A Man\", \"Who Loves You\", \"Working My Way Back to You\" and \"Rag Doll\".",
+        "source_url": "https://en.wikipedia.org/wiki/Jersey_Boys",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      },
+      "wikidata_url": "https://www.wikidata.org/wiki/Q14954689"
+    },
+    {
+      "slug": "kinky-boots",
+      "title": "Kinky Boots",
+      "qids": [
+        "Q6413943"
+      ],
+      "composers": [
+        {
+          "name": "Cyndi Lauper",
+          "qid": "Q1545",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/391830"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Harvey Fierstein",
+          "qid": "Q446481",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6157"
+        }
+      ],
+      "premiere": {
+        "date": "2012-10-02",
+        "venue": "CIBC Theatre"
+      },
+      "awards": [],
+      "image": {
+        "commons_file": "Kinky Boots - Toronto 2016.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Kinky_Boots_-_Toronto_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY-SA 4.0",
+        "author": "1Midge1",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Kinky_Boots_-_Toronto_2016.jpg"
+      },
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/493286",
+        "playbill": "https://playbill.com/production/kinky-boots-al-hirschfeld-theatre-vault-0000013982",
+        "official_site": "https://www.kinkybootsthemusical.com/"
+      },
+      "summary": {
+        "text": "Kinky Boots is a musical with music and lyrics by Cyndi Lauper and book by Harvey Fierstein.",
+        "source_url": "https://en.wikipedia.org/wiki/Kinky_Boots_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      },
+      "wikidata_url": "https://www.wikidata.org/wiki/Q6413943"
+    },
+    {
+      "slug": "the-phantom-of-the-opera",
+      "title": "The Phantom of the Opera",
+      "qids": [
+        "Q382353"
+      ],
+      "composers": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "qid": "Q180975",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12073"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Richard Stilgoe",
+          "qid": "Q2150690",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8326"
+        },
+        {
+          "name": "Charles Hart",
+          "qid": "Q4496084",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12947"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Richard Stilgoe",
+          "qid": "Q2150690",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8326"
+        },
+        {
+          "name": "Charles Hart",
+          "qid": "Q4496084",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12947"
+        }
+      ],
+      "premiere": {
+        "date": "1986-10-09",
+        "venue": "His Majesty's Theatre"
+      },
+      "awards": [
+        {
+          "name": "Laurence Olivier Awards",
+          "qid": "Q28470"
+        }
+      ],
+      "image": {
+        "commons_file": "The Phantom of the Opera title card.jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/The_Phantom_of_the_Opera_title_card.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "Public domain",
+        "author": "http://auditionresource.wordpress.com/2012/09/03/the-phantom-of-the-opera-production-team-announced/",
+        "license_url": null,
+        "source_url": "https://commons.wikimedia.org/wiki/File:The_Phantom_of_the_Opera_title_card.jpg"
+      },
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7062",
+        "playbill": "https://playbill.com/production/the-phantom-of-the-opera-majestic-theatre-vault-0000007818",
+        "official_site": "http://www.thephantomoftheopera.com"
+      },
+      "summary": {
+        "text": "The Phantom of the Opera is a musical with music by Andrew Lloyd Webber, lyrics by Charles Hart, and additional lyrics by Richard Stilgoe, with a libretto by Lloyd Webber and Stilgoe, inspired by the 1910 novel by Gaston Leroux, it tells the tragic story of beautiful soprano Christine Daaé, who becomes the obsession of a mysterious and disfigured musical genius living in the subterranean labyrinth beneath the Paris Opera House.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Phantom_of_the_Opera_(1986_musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      },
+      "wikidata_url": "https://www.wikidata.org/wiki/Q382353"
+    },
+    {
+      "slug": "dear-evan-hansen",
+      "title": "Dear Evan Hansen",
+      "qids": [
+        "Q20899421"
+      ],
+      "composers": [
+        {
+          "name": "Benj Pasek",
+          "qid": "Q27660156",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/493228"
+        },
+        {
+          "name": "Justin Paul",
+          "qid": "Q6317989",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/493227"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Benj Pasek",
+          "qid": "Q27660156",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/493228"
+        },
+        {
+          "name": "Justin Paul",
+          "qid": "Q6317989",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/493227"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": "2015-07-10",
+        "venue": "Arena Stage"
+      },
+      "awards": [
+        {
+          "name": "Tony Award for Best Original Score",
+          "qid": "Q1478089"
+        },
+        {
+          "name": "Tony Award for Best Musical",
+          "qid": "Q1780176"
+        },
+        {
+          "name": "Tony Award for Best Book of a Musical",
+          "qid": "Q1784838"
+        },
+        {
+          "name": "Obie Award",
+          "qid": "Q1813995"
+        },
+        {
+          "name": "Grammy Award for Best Musical Theater Album",
+          "qid": "Q3113385"
+        },
+        {
+          "name": "Drama League Award",
+          "qid": "Q4167639"
+        },
+        {
+          "name": "Drama Desk Award for Outstanding Lyrics",
+          "qid": "Q5305716"
+        }
+      ],
+      "image": {
+        "commons_file": "Music Box Theater - Dear Evan Hansen (48193412871).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Music_Box_Theater_-_Dear_Evan_Hansen_%2848193412871%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY 2.0",
+        "author": "Ajay Suresh from New York, NY, USA",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:Music_Box_Theater_-_Dear_Evan_Hansen_(48193412871).jpg"
+      },
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/508236",
+        "official_site": "http://dearevanhansen.com/"
+      },
+      "summary": {
+        "text": "Dear Evan Hansen is a stage musical with music and lyrics by Benj Pasek and Justin Paul, and a book by Steven Levenson. The musical follows Evan Hansen, a high school senior with social anxiety, \"who invents an important role for himself in a tragedy that he did not earn\".",
+        "source_url": "https://en.wikipedia.org/wiki/Dear_Evan_Hansen",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      },
+      "wikidata_url": "https://www.wikidata.org/wiki/Q20899421"
+    },
+    {
+      "slug": "next-to-normal",
+      "title": "Next to Normal",
+      "qids": [
+        "Q1533983"
+      ],
+      "composers": [
+        {
+          "name": "Tom Kitt",
+          "qid": "Q7816484",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/100673"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Brian Yorkey",
+          "qid": "Q913276",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/483138"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Brian Yorkey",
+          "qid": "Q913276",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/483138"
+        }
+      ],
+      "premiere": {
+        "date": "2008-01-16",
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Pulitzer Prize for Drama",
+          "qid": "Q289214"
+        }
+      ],
+      "image": {
+        "commons_file": "NEXT TO NORMAL (51652935466).jpg",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/NEXT_TO_NORMAL_%2851652935466%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "license": "CC BY 2.0",
+        "author": "MERCUTIOmedia",
+        "license_url": "https://creativecommons.org/licenses/by/2.0",
+        "source_url": "https://commons.wikimedia.org/wiki/File:NEXT_TO_NORMAL_(51652935466).jpg"
+      },
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/483135",
+        "official_site": "http://nexttonormal.com/"
+      },
+      "summary": {
+        "text": "Next to Normal is a 2008 American rock musical with book and lyrics by Brian Yorkey and music by Tom Kitt. The story centers on a mother who struggles with worsening bipolar disorder and the effects that managing her illness has on her family. The musical addresses grief, depression, suicide, drug abuse, ethics in modern psychiatry, and the underbelly of suburban life.",
+        "source_url": "https://en.wikipedia.org/wiki/Next_to_Normal",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      },
+      "wikidata_url": "https://www.wikidata.org/wiki/Q1533983"
+    },
+    {
+      "slug": "a-strange-loop",
+      "title": "A Strange Loop",
+      "qids": [
+        "Q93289802"
+      ],
+      "composers": [
+        {
+          "name": "Michael R. Jackson",
+          "qid": "Q66622353",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/527898"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Michael R. Jackson",
+          "qid": "Q66622353",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/527898"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": "2019-05-24",
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Tony Award for Best Musical",
+          "qid": "Q1780176"
+        },
+        {
+          "name": "Pulitzer Prize for Drama",
+          "qid": "Q289214"
+        }
+      ],
+      "image": null,
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/533374"
+      },
+      "summary": {
+        "text": "A Strange Loop is a musical with book, music, and lyrics by Michael R. Jackson, which won the 2020 Pulitzer Prize for Drama. First produced off-Broadway in 2019, then staged in Washington, D.C. in 2021, A Strange Loop premiered on Broadway at the Lyceum Theatre in April 2022. The show won Best Musical and Best Book of a Musical at the 75th Tony Awards.",
+        "source_url": "https://en.wikipedia.org/wiki/A_Strange_Loop",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      },
+      "wikidata_url": "https://www.wikidata.org/wiki/Q93289802"
     }
   ]
 }
