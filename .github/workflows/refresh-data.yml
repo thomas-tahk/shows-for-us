@@ -8,7 +8,7 @@ name: Refresh data
 #   3. Files whose only change is the generated_at timestamp are put back, so a
 #      week with no real change opens no PR.
 #   4. The same checks as CI run (PRs made with GITHUB_TOKEN trigger no CI).
-#   5. A PR is opened from `data-refresh/<branch>` into the branch the run was on:
+#   5. A PR is opened from `data-refresh-<branch>` into the branch the run was on:
 #      a run on main targets main, a run on m2-every-musical targets that branch.
 on:
   schedule:
@@ -46,7 +46,7 @@ jobs:
       # (untracked) files show up in the diff and are kept; deleted files already do.
       - run: |
           git add -N -- data/ public/catalog/
-          git diff --name-only -- data/ public/catalog/ | while IFS= read -r f; do
+          git diff --name-only --relative -- data/ public/catalog/ | while IFS= read -r f; do
             if git diff --quiet -I'"generated_at":' -- "$f"; then git checkout -- "$f"; fi
           done
       # PRs made with GITHUB_TOKEN trigger no CI, so check here before opening one.
@@ -61,7 +61,7 @@ jobs:
       # branches don't collide.
       - uses: peter-evans/create-pull-request@v7
         with:
-          branch: data-refresh/${{ github.ref_name }}
+          branch: data-refresh-${{ github.ref_name }}
           add-paths: |
             frontend/data/
             frontend/public/catalog/

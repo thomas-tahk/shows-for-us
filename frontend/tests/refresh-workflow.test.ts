@@ -8,7 +8,7 @@ import { load } from 'js-yaml'
 type Step = { uses?: string; run?: string; with?: Record<string, string> }
 type Workflow = {
   on: { schedule: { cron: string }[]; workflow_dispatch: unknown }
-  jobs: { refresh: { 'timeout-minutes'?: number; steps: Step[] } }
+  jobs: { refresh: { 'timeout-minutes'?: number; defaults: { run: { 'working-directory': string } }; steps: Step[] } }
 }
 const wf = load(readFileSync(join(__dirname, '../../.github/workflows/refresh-data.yml'), 'utf8')) as Workflow
 const steps = wf.jobs.refresh.steps
@@ -51,7 +51,7 @@ describe('refresh-data workflow', () => {
     const pr = steps[prIdx()]
     expect(pr.with!['add-paths']).toContain('frontend/data/')
     expect(pr.with!['add-paths']).toContain('frontend/public/catalog/')
-    expect(pr.with!.branch).toContain('github.ref_name')
+    expect(pr.with!.branch).toBe('data-refresh-${{ github.ref_name }}')
   })
 
   it('has a timeout that fits the catalogue pull', () => {
@@ -64,6 +64,9 @@ describe('timestamp filter step (real shell, temp repo)', () => {
   afterEach(() => rmSync(dir, { recursive: true, force: true }))
 
   const sh = (cmd: string) => execFileSync('bash', ['-ec', cmd], { cwd: dir, encoding: 'utf8' })
+  const workDir = wf.jobs.refresh.defaults.run['working-directory']
+  const actionsSh = (cmd: string) =>
+    execFileSync('bash', ['--noprofile', '--norc', '-eo', 'pipefail', '-c', cmd], { cwd: join(dir, workDir), encoding: 'utf8' })
   const doc = (stamp: string, v = 1) => JSON.stringify({ meta: { generated_at: stamp }, v }, null, 2) + '\n'
   const write = (p: string, s: string) => {
     mkdirSync(dirname(join(dir, p)), { recursive: true })
@@ -71,46 +74,46 @@ describe('timestamp filter step (real shell, temp repo)', () => {
   }
   function setup() {
     dir = mkdtempSync(join(tmpdir(), 'refresh-'))
-    write('data/shows.json', doc('t0'))
-    write('public/catalog/index.json', doc('t0'))
-    write('public/catalog/shows/a.json', doc('t0'))
+    write(workDir + '/data/shows.json', doc('t0'))
+    write(workDir + '/public/catalog/index.json', doc('t0'))
+    write(workDir + '/public/catalog/shows/a.json', doc('t0'))
     sh('git init -q . && git add -A && git -c user.name=t -c user.email=t@t commit -qm init')
   }
-  const runFilter = () => sh(steps[filterIdx()].run ?? '')
+  const runFilter = () => actionsSh(steps[filterIdx()].run ?? '')
   const status = () => sh('git status --porcelain').trim()
 
   it('restores a tree whose only changes are timestamps', () => {
     setup()
-    write('data/shows.json', doc('t1'))
-    write('public/catalog/index.json', doc('t1'))
-    write('public/catalog/shows/a.json', doc('t1'))
+    write(workDir + '/data/shows.json', doc('t1'))
+    write(workDir + '/public/catalog/index.json', doc('t1'))
+    write(workDir + '/public/catalog/shows/a.json', doc('t1'))
     runFilter()
     expect(status()).toBe('')
   })
 
   it('keeps a real change in a shard file and drops timestamp-only ones', () => {
     setup()
-    write('data/shows.json', doc('t1'))
-    write('public/catalog/index.json', doc('t1'))
-    write('public/catalog/shows/a.json', doc('t1', 2))
+    write(workDir + '/data/shows.json', doc('t1'))
+    write(workDir + '/public/catalog/index.json', doc('t1'))
+    write(workDir + '/public/catalog/shows/a.json', doc('t1', 2))
     runFilter()
-    expect(status()).toBe('M public/catalog/shows/a.json')
+    expect(status()).toBe('M frontend/public/catalog/shows/a.json')
   })
 
   it('keeps a new untracked shard file', () => {
     setup()
-    write('public/catalog/index.json', doc('t1'))
-    write('public/catalog/shows/b.json', doc('t1'))
+    write(workDir + '/public/catalog/index.json', doc('t1'))
+    write(workDir + '/public/catalog/shows/b.json', doc('t1'))
     runFilter()
-    expect(existsSync(join(dir, 'public/catalog/shows/b.json'))).toBe(true)
-    expect(status()).toContain('public/catalog/shows/b.json')
+    expect(existsSync(join(dir, 'frontend/public/catalog/shows/b.json'))).toBe(true)
+    expect(status()).toContain('frontend/public/catalog/shows/b.json')
     expect(status()).not.toContain('index.json')
   })
 
   it('keeps a deleted shard file', () => {
     setup()
-    sh('rm public/catalog/shows/a.json')
+    sh('rm frontend/public/catalog/shows/a.json')
     runFilter()
-    expect(status()).toMatch(/^D\s+public\/catalog\/shows\/a\.json$/)
+    expect(status()).toMatch(/^D\s+frontend\/public\/catalog\/shows\/a\.json$/)
   })
 })
