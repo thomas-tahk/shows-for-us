@@ -1,5 +1,15 @@
 name: Refresh data
 
+# Weekly (and on demand) refresh of the committed data, in plain English:
+#   1. `npm run pull` re-fetches the 15 flagship shows (frontend/data/).
+#   2. `npm run pull:catalog` re-fetches the whole catalogue (frontend/public/catalog/:
+#      one index plus one file per show). It takes ~30 minutes and fails the run if
+#      anything fails or the catalogue shrank by more than 10%.
+#   3. Files whose only change is the generated_at timestamp are put back, so a
+#      week with no real change opens no PR.
+#   4. The same checks as CI run (PRs made with GITHUB_TOKEN trigger no CI).
+#   5. A PR is opened from `data-refresh/<branch>` into the branch the run was on:
+#      a run on main targets main, a run on m2-every-musical targets that branch.
 on:
   schedule:
     - cron: '17 6 * * 1' # Mondays 06:17 UTC
@@ -14,6 +24,7 @@ permissions:
 jobs:
   refresh:
     runs-on: ubuntu-latest
+    timeout-minutes: 60 # catalogue pull ~30 min, plus checks
     defaults:
       run:
         working-directory: frontend
@@ -27,9 +38,17 @@ jobs:
       - run: npm ci
       # Writes frontend/data/shows.json; exits 1 if any show fails.
       - run: npm run pull
-      # pull.ts always rewrites meta.generated_at; if that is the only change,
-      # restore the committed data so no PR opens.
-      - run: git diff --quiet -I'"generated_at":' -- data/ && git checkout -- data/ || true
+      # Writes frontend/public/catalog/index.json and shows/*.json; exits 1 on any
+      # failure or if the catalogue shrank by more than 10%.
+      - run: npm run pull:catalog
+      # Both pulls always rewrite generated_at. Put back every file whose only change
+      # is that timestamp, so no PR opens for nothing. `git add -N` first so new
+      # (untracked) files show up in the diff and are kept; deleted files already do.
+      - run: |
+          git add -N -- data/ public/catalog/
+          git diff --name-only -- data/ public/catalog/ | while IFS= read -r f; do
+            if git diff --quiet -I'"generated_at":' -- "$f"; then git checkout -- "$f"; fi
+          done
       # PRs made with GITHUB_TOKEN trigger no CI, so check here before opening one.
       - run: npm run typecheck
       - run: npm run lint
@@ -37,12 +56,16 @@ jobs:
       - run: npx playwright install --with-deps chromium
       - run: npm run e2e
       - run: npm run build
-      # Run manually from the default branch only (the PR targets the branch the run is on).
+      # The PR targets the branch the run was dispatched on (the action's base defaults
+      # to the checked-out branch); the branch name includes it so runs on different
+      # branches don't collide.
       - uses: peter-evans/create-pull-request@v7
         with:
-          branch: data-refresh
-          add-paths: frontend/data/
+          branch: data-refresh/${{ github.ref_name }}
+          add-paths: |
+            frontend/data/
+            frontend/public/catalog/
           commit-message: 'chore: refresh Wikidata/Wikipedia data'
           title: 'chore: weekly data refresh'
-          body: Automated weekly refresh of `frontend/data/` from Wikidata and Wikipedia.
+          body: Automated weekly refresh of `frontend/data/` and `frontend/public/catalog/` from Wikidata and Wikipedia.
           delete-branch: true
