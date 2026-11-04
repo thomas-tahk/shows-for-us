@@ -207,7 +207,7 @@ describe('query batching', () => {
     expect(q).not.toMatch(/LIMIT|OFFSET/)
   })
 
-  it('listing excludes opera, operetta, oratorio, ballet, cantata, ballet (work), masques via P31|P136|P7937 + subclasses', () => {
+  it('listing flags (does not filter) opera, operetta, oratorio, ballet, cantata, ballet (work), masques via P31|P136|P7937 + subclasses', () => {
     const q = listingQuery()
     const ids = [
       ['Q1344', 'opera'],
@@ -220,9 +220,11 @@ describe('query batching', () => {
       ['Q1907293', 'Masque'],
     ]
     expect(EXCLUDED_CLASSES).toEqual(ids.map(([id]) => id))
-    expect(q).toContain('FILTER NOT EXISTS { ?item (wdt:P31|wdt:P136|wdt:P7937)/wdt:P279* ?bad . VALUES ?bad { ')
+    expect(q).toContain('BIND(EXISTS { ?item (wdt:P31|wdt:P136|wdt:P7937)/wdt:P279* ?bad . VALUES ?bad { ')
+    expect(q).toContain('AS ?excludedByClass)')
+    expect(q).not.toContain('FILTER NOT EXISTS')
     for (const [id] of ids) expect(q).toContain(`wd:${id}`)
-    expect(q.indexOf('FILTER NOT EXISTS')).toBeGreaterThan(q.indexOf('Q58483083'))
+    expect(q.indexOf('BIND(EXISTS')).toBeGreaterThan(q.indexOf('Q58483083'))
     for (const wrong of ['Q182832', 'Q2742', 'Q169034']) expect(q).not.toContain(wrong)
   })
 
@@ -289,7 +291,8 @@ describe('query batching', () => {
     expect(text).toMatch(/P7937/)
     expect(text).toMatch(/first sentence/i)
     expect(diagPaths).toHaveLength(7)
-    expect(main.reqs.some((r) => r.path.startsWith('catalog/classes') || r.path.startsWith('catalog/excluded'))).toBe(false)
+    const mainPaths = new Set(main.reqs.map((r) => r.path))
+    expect(diagPaths.filter((p) => mainPaths.has(p))).toEqual([])
     expect(logs.findIndex((m) => /^extracts:/.test(m))).toBeLessThan(logs.findIndex((m) => /excluded/i.test(m)))
   })
 
@@ -300,6 +303,18 @@ describe('query batching', () => {
     }
     expect(await pullCatalog([], stub(3).fetcher, { log: (m) => logs.push(m), diagnosticFetcher: diagnostic })).toHaveLength(3)
     expect(logs.join('\n')).toMatch(/breakdown.*unavailable|unavailable.*breakdown/i)
+  })
+
+  it('each diagnostic query fails on its own: the others still log', async () => {
+    const logs: string[] = []
+    const diagnostic: Fetcher = async (req) => {
+      if (req.path === 'catalog/excluded.json') throw new Error('HTTP 502')
+      return { results: { bindings: [{ cls: { type: 'uri', value: 'http://www.wikidata.org/entity/Q9' }, clsLabel: { type: 'literal', value: 'thing' }, n: { type: 'literal', value: '7' } }] } }
+    }
+    await pullCatalog([], stub(1).fetcher, { log: (m) => logs.push(m), diagnosticFetcher: diagnostic })
+    const text = logs.join('\n')
+    expect(text).toMatch(/unavailable.*HTTP 502/)
+    expect(text).toMatch(/Q9\s+thing\s+7/)
   })
 
   it('asks the label service for en then mul', () => {

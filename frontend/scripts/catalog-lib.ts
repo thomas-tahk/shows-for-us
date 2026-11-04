@@ -1,11 +1,16 @@
 // Catalogue pull: every musical (Wikidata class Q58483083 incl. subclasses) with an English
-// Wikipedia article, minus the flagships. Three sequential stages, all via the injected Fetcher:
-//   1. listing   one SPARQL query             -> (Q-id, enwiki title); opera/oratorio/ballet/cantata excluded
-//      (plus two log-only queries: excluded count, class breakdown of kept items)
-//   2. details   SPARQL, VALUES batches       -> credits, premiere, awards, links
-//   3. extracts  MediaWiki action API batches -> intro text (CC BY-SA 4.0)
+// Wikipedia article, minus the flagships and minus operas, ballets, masques, oratorios and
+// cantatas. Q58483083 also holds those, so "is it a musical" is decided by two signals:
+// the intro text first (scripts/catalog-classify.ts) and a Wikidata class check as fallback.
+// Sequential stages, all via the injected Fetcher:
+//   1. listing   one SPARQL query             -> (Q-id, enwiki title, excludedByClass) for ALL candidates
+//   2. extracts  MediaWiki action API batches -> intro text (CC BY-SA 4.0), for all candidates
+//   3. classify  text rule, else excludedByClass -> the kept shows (decision counts are logged)
+//   4. details   SPARQL, VALUES batches       -> credits, premiere, awards, links (kept only)
+//   5. diagnostics (log only, single attempt, each query on its own): class and genre breakdowns
 import type { CatalogIndexEntry, CatalogShard, CatalogShow } from '../src/data/catalogShow.ts'
 import { shardOf } from '../src/data/catalogShow.ts'
+import { classifyEntries, logDecisions } from './catalog-classify.ts'
 import type { Flagship, ShowAward, ShowSummary } from '../src/data/show.ts'
 import {
   MUSICAL_CLASS,
@@ -31,9 +36,11 @@ const MAX_CREATORS = 3
 export interface ListEntry {
   qid: string
   enwiki: string
+  /** True when P31/P136/P7937 reaches an EXCLUDED_CLASSES class. Absent = false. */
+  excludedByClass?: boolean
 }
 interface PullOptions {
-  log?: (msg: string) => void
+  log?: Log
   /** For the log-only class queries: should make one attempt, so a WDQS timeout is not retried. Defaults to the main fetcher. */
   diagnosticFetcher?: Fetcher
 }
@@ -104,13 +111,13 @@ const musicalsWithArticle = `?item wdt:P31/wdt:P279* wd:${MUSICAL_CLASS} .
            schema:isPartOf <https://en.wikipedia.org/> ;
            schema:name ?enwiki .`
 const notExcluded = `FILTER NOT EXISTS { ${badClasses} }`
-const isExcluded = badClasses
+const isExcluded = badClasses // used by the log-only breakdown queries
 
-/** One query for the whole class (~4k rows): no paging, so the result is one consistent snapshot. */
+/** One query for the whole class (~6.5k rows): no paging, so the result is one consistent snapshot. Flags, never filters. */
 export function listingQuery(): string {
-  return `SELECT DISTINCT ?item ?enwiki WHERE {
+  return `SELECT DISTINCT ?item ?enwiki ?excludedByClass WHERE {
   ${musicalsWithArticle}
-  ${notExcluded}
+  BIND(EXISTS { ${badClasses} } AS ?excludedByClass)
 }`
 }
 
@@ -178,46 +185,64 @@ export const wikipediaUrl = (enwiki: string) => `https://en.wikipedia.org/wiki/$
 // ---- Stage 1: listing --------------------------------------------------------
 
 type Bindings = { results: { bindings: Record<string, { value: string } | undefined>[] } }
+type Log = (msg: string) => void
 
 export async function fetchListing(fetcher: Fetcher): Promise<ListEntry[]> {
   const { results } = (await fetcher(sparqlRequest('catalog/list.json', listingQuery()))) as Bindings
   const byQid = new Map<string, ListEntry>()
   for (const b of results.bindings) {
-    if (b.item && b.enwiki) byQid.set(qidOf(b.item.value), { qid: qidOf(b.item.value), enwiki: b.enwiki.value })
+    if (b.item && b.enwiki) {
+      byQid.set(qidOf(b.item.value), { qid: qidOf(b.item.value), enwiki: b.enwiki.value, excludedByClass: b.excludedByClass?.value === 'true' })
+    }
   }
   return [...byQid.values()].sort((a, b) => Number(a.qid.slice(1)) - Number(b.qid.slice(1)))
 }
 
-async function logClassTable(fetcher: Fetcher, path: string, query: string, title: string, log: (msg: string) => void) {
+interface ClassTable {
+  path: string
+  query: string
+  title: string
+}
+
+async function logClassTable(fetcher: Fetcher, { path, query, title }: ClassTable, log: Log): Promise<void> {
   const res = (await fetcher(sparqlRequest(path, query))) as Bindings
   log(title)
   for (const b of res.results.bindings) log(`  ${qidOf(b.cls?.value ?? '')}\t${b.clsLabel?.value ?? ''}\t${b.n?.value ?? ''}`)
 }
 
-const SIDES = [
-  { name: 'KEPT', excluded: false },
-  { name: 'EXCLUDED', excluded: true },
-]
+async function logExcludedCount(fetcher: Fetcher, log: Log): Promise<void> {
+  const res = (await fetcher(sparqlRequest('catalog/excluded.json', excludedCountQuery()))) as Bindings
+  log(`flagged excludedByClass (P31/P136/P7937 reaching opera, operetta, oratorio, ballet, cantata, masque): ${res.results.bindings[0]?.n?.value ?? '?'}`)
+}
+
 const PROPERTIES = [
   { prop: 'P136', what: 'genre' },
   { prop: 'P7937', what: 'form of creative work' },
 ]
 
-/** Log-only check that the exclusions worked. A failure here is logged, never fatal. */
-export async function logClassBreakdown(fetcher: Fetcher, log: (msg: string) => void): Promise<void> {
-  try {
-    const excluded = (await fetcher(sparqlRequest('catalog/excluded.json', excludedCountQuery()))) as Bindings
-    log(`excluded by class (P31/P136/P7937 reaching opera, operetta, oratorio, ballet, cantata, masque): ${excluded.results.bindings[0]?.n?.value ?? '?'}`)
-    await logClassTable(fetcher, 'catalog/classes.json', classBreakdownQuery(), 'top P31 classes of KEPT items (Q-id, label, count):', log)
-    await logClassTable(fetcher, 'catalog/excluded-classes.json', excludedClassBreakdownQuery(), 'top P31 classes of EXCLUDED items (Q-id, label, count):', log)
-    for (const { prop, what } of PROPERTIES) {
-      for (const { name, excluded: isOut } of SIDES) {
-        const path = `catalog/${isOut ? 'excluded' : 'kept'}-${prop}.json`
-        await logClassTable(fetcher, path, propertyBreakdownQuery(prop, isOut), `top ${prop} (${what}) values of ${name} items (Q-id, label, count):`, log)
-      }
+function classTables(): ClassTable[] {
+  const tables: ClassTable[] = [
+    { path: 'catalog/classes.json', query: classBreakdownQuery(), title: 'top P31 classes of items NOT flagged by class (Q-id, label, count):' },
+    { path: 'catalog/excluded-classes.json', query: excludedClassBreakdownQuery(), title: 'top P31 classes of items flagged by class (Q-id, label, count):' },
+  ]
+  for (const { prop, what } of PROPERTIES) {
+    for (const [name, flagged] of [['NOT flagged', false], ['flagged', true]] as const) {
+      const path = `catalog/${flagged ? 'excluded' : 'kept'}-${prop}.json`
+      tables.push({ path, query: propertyBreakdownQuery(prop, flagged), title: `top ${prop} (${what}) values of items ${name} by class (Q-id, label, count):` })
     }
-  } catch (e) {
-    log(`class breakdown unavailable: ${(e as Error).message}`)
+  }
+  return tables
+}
+
+/** Log-only. Each query has its own try/catch: one 502 does not hide the others. */
+export async function logClassBreakdown(fetcher: Fetcher, log: Log): Promise<void> {
+  const calls = [() => logExcludedCount(fetcher, log), ...classTables().map((t) => () => logClassTable(fetcher, t, log))]
+  for (const call of calls) {
+    try {
+      await call()
+    } catch (e) {
+      log(`class breakdown unavailable: ${(e as Error).message}`)
+    }
   }
 }
 
@@ -237,7 +262,7 @@ export function summarySanity(shows: Pick<CatalogShow, 'title' | 'summary'>[]): 
   }
 }
 
-export function logSummarySanity(shows: Pick<CatalogShow, 'title' | 'summary'>[], log: (msg: string) => void): void {
+export function logSummarySanity(shows: Pick<CatalogShow, 'title' | 'summary'>[], log: Log): void {
   const r = summarySanity(shows)
   log(`summary first sentence: ${r.suspect} name opera/operetta/ballet/oratorio/cantata/masque/zarzuela/singspiel without "musical"; ${r.musical} contain "musical"`)
   if (r.examples.length) log(`  examples: ${r.examples.join('; ')}`)
@@ -364,13 +389,16 @@ export function buildCatalogShow({ entry, slug, rows, extract }: ShowInput): Cat
 export async function pullCatalog(flagships: Flagship[], fetcher: Fetcher, opts: PullOptions = {}): Promise<CatalogShow[]> {
   const log = opts.log ?? (() => {})
   const listed = await fetchListing(fetcher)
-  const entries = withoutFlagships(listed, flagships)
-  log(`listing: ${listed.length} musicals with an enwiki article, ${entries.length} after excluding flagships`)
+  const candidates = withoutFlagships(listed, flagships)
+  log(`listing: ${listed.length} items under the musical class with an enwiki article, ${candidates.length} after excluding flagships`)
+  const extracts = await fetchExtracts(fetcher, candidates)
+  log(`extracts: ${extracts.size} summaries`)
+  const classified = classifyEntries(candidates, extracts)
+  logDecisions(classified, log)
+  const entries = classified.kept
   const slugs = assignSlugs(entries, new Set(flagships.map((f) => f.slug)))
   const rows = await fetchRows(fetcher, entries)
-  log(`details: ${rows.size} items with data`)
-  const extracts = await fetchExtracts(fetcher, entries)
-  log(`extracts: ${extracts.size} summaries`)
+  log(`details: ${rows.size} of ${entries.length} kept items with data`)
   const shows = entries
     .map((e) => buildCatalogShow({ entry: e, slug: slugs.get(e.qid) as string, rows: rows.get(e.qid) ?? [], extract: extracts.get(e.enwiki) }))
     .sort((a, b) => cmp(a.slug, b.slug))

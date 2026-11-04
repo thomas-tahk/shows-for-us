@@ -21,7 +21,7 @@ The site is `frontend/` (Vercel root). Paths below are relative to it: `scripts/
 ## Wikidata traps
 
 - Never type a Q-id from memory (M2 shipped Q2742 "ballet" = Münster). Verify each one against its wikidata.org item page and write its label beside it in code and tests.
-- Q58483083 (dramatico-musical work) also covers opera, operetta, oratorio, ballet, cantata; the catalogue excludes those subtrees.
+- Q58483083 (dramatico-musical work) also covers opera, operetta, oratorio, ballet, masque, cantata, often typed directly as Q58483083. The catalogue lists all of them with an `excludedByClass` flag (P31/P136/P7937 reaching those classes) and decides in `frontend/scripts/catalog-classify.ts`: intro text first ("musical" and no other form: keep; the reverse: drop), the flag only as fallback.
 - Musicals are class `wd:Q58483083` (dramatico-musical work), not `wd:Q2743`. Always filter by class; a bare label search for "Hamilton" returns cities.
 - One show can be several items (original vs English version: Les Mis `Q830581` + `Q111905785`). The flagship list maps one slug to a list of Q-ids; merge them, preferring the English-version item for English credits.
 - Cast (`P161`) is missing on most shows; productions are rarely linked. Never infer cast from `P800` (notable work) reverse links alone; a person listing Hamilton as notable work may be a designer.
