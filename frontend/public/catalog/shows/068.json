@@ -1,4 +1,5 @@
 {
+  "live": true,
   "shows": {
     "a-very-potter-sequel": {
       "slug": "a-very-potter-sequel",
@@ -26,40 +27,6 @@
       "summary": {
         "text": "A Very Potter Sequel (often shortened to AVPS) is a musical with music and lyrics by Darren Criss and a book by Matt Lang, Nick Lang, and Brian Holden. The story is a parody, based on several of the Harry Potter novels (particularly Harry Potter and the Philosopher's Stone, Harry Potter and the Prisoner of Azkaban and Harry Potter and the Order of the Phoenix) by J. K. Rowling, as well as their film counterparts.\nA Very Potter Sequel picks up where A Very Potter Musical left off with Lord Voldemort destroyed. Lucius Malfoy then decides to go back in time to Harry Potter's first year at Hogwarts to destroy him before he becomes a bigger threat than he already is. \nThe musical was performed May 14-16, 2010, on the University of Michigan campus. It was produced by StarKid Productions and directed by Matt Lang. The musical starred Darren Criss as Harry Potter, Joey Richter as Ron Weasley, Bonnie Gruesen as Hermione Granger, Lauren Lopez as Draco Malfoy, and Joe Walker as Dolores Umbridge. The video version of the musical premiered in its entirety at Infinitus, a Harry Potter convention. The video premiered on YouTube July 22, 2010, and within two days had gotten over 160,000 views, making the StarKid Productions page the most viewed of the day.\nA Very Potter Sequel is followed by A Very Potter Senior Year.",
         "source_url": "https://en.wikipedia.org/wiki/A_Very_Potter_Sequel",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "alcyone": {
-      "slug": "alcyone",
-      "title": "Alcyone",
-      "qid": "Q4713396",
-      "enwiki": "Alcyone (opera)",
-      "composers": [
-        {
-          "name": "Marin Marais",
-          "qid": "Q213519"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Antoine Houdar de La Motte",
-          "qid": "Q586389"
-        }
-      ],
-      "premiere": {
-        "date": null,
-        "venue": "Palais-Royal"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Alcyone_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q4713396"
-      },
-      "summary": {
-        "text": "Alcyone (or Alcione) is an opera by the French composer Marin Marais. It takes the form of a tragédie en musique in a prologue and five acts. The libretto, by Antoine Houdar de la Motte, is based on the Greek myth of Alcyone and Ceyx as recounted by Ovid in his Metamorphoses. The opera was first performed on 18 February 1706 by the Académie royale de musique at the Théâtre du Palais-Royal in Paris. The score is particularly famous for the storm scene (tempête) in act 4. The \"Marche pour les Matelots\", from act 3, became popular as a dance tune and is the basis of the Christmas carol \"Masters in This Hall\".\nHaving been recorded by Erato in 1990, Alcyone received its first stage production since the composer's death as the first work to appear at the newly refurbished Opéra Comique in Paris on 25 April 2017; directed by Louise Moaty, Jordi Savall conducted Le Concert des Nations, with Lea Desandre in the title role and Marc Mauillon, Cyril Auvity, Lisandro Abadie and Antonio Abete among the cast.",
-        "source_url": "https://en.wikipedia.org/wiki/Alcyone_(opera)",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -132,35 +99,6 @@
         "modified": false
       }
     },
-    "becoming-santa-claus": {
-      "slug": "becoming-santa-claus",
-      "title": "Becoming Santa Claus",
-      "qid": "Q21775670",
-      "enwiki": "Becoming Santa Claus",
-      "composers": [
-        {
-          "name": "Mark Adamo",
-          "qid": "Q960129"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Becoming_Santa_Claus",
-        "wikidata": "https://www.wikidata.org/wiki/Q21775670"
-      },
-      "summary": {
-        "text": "Becoming Santa Claus is an opera in one act by American composer Mark Adamo. Adamo also wrote the English-language libretto. Commissioned by the Dallas Opera, the work had its world premiere at the Winspear Opera House on December 4, 2015. The opera has an approximate running time of 100 minutes. \nThe Fort Worth Star-Telegram review criticized the opera for a lack of memorable music, although the reviewer described the music as tonal and pleasant if forgettable. The critic also felt the opera lacked a clear target audience in its design. The critic asserted that Santa Claus as a topic was better targeted towards children, but that the opera's serious elements were beyond what a children's audience could handle. The reviewer also felt that its running time without an intermission would not be viable for an audience of children.",
-        "source_url": "https://en.wikipedia.org/wiki/Becoming_Santa_Claus",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "belles-belles-belles": {
       "slug": "belles-belles-belles",
       "title": "Belles belles belles",
@@ -219,40 +157,6 @@
         "modified": false
       }
     },
-    "bernarda-albas-haus": {
-      "slug": "bernarda-albas-haus",
-      "title": "Bernarda Albas Haus",
-      "qid": "Q56278881",
-      "enwiki": "Bernarda Albas Haus",
-      "composers": [
-        {
-          "name": "Aribert Reimann",
-          "qid": "Q246758"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Aribert Reimann",
-          "qid": "Q246758"
-        }
-      ],
-      "premiere": {
-        "date": "2000-10-30",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Bernarda_Albas_Haus",
-        "wikidata": "https://www.wikidata.org/wiki/Q56278881"
-      },
-      "summary": {
-        "text": "Bernarda Albas Haus ('The House of Bernarda Alba') is a 2000 German-language opera in three acts by Aribert Reimann to a libretto by the composer after Enrique Beck's German translation of Federico García Lorca's play La casa de Bernarda Alba (1936).",
-        "source_url": "https://en.wikipedia.org/wiki/Bernarda_Albas_Haus",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "blitz": {
       "slug": "blitz",
       "title": "Blitz!",
@@ -291,179 +195,6 @@
       "summary": {
         "text": "Blitz! is a musical by Lionel Bart. The musical, described by Steven Suskin as \"massive\", was set in the East End of London during the Blitz (the aerial bombings during World War II). The story drew on Bart's childhood memories of London's Jewish East End during the Blitz and, like most musicals, centred on a romance between a young couple, in this case a Jewish woman and a Cockney man, although the largest role and main point-of-view character is that of Mrs Blitztein, the young woman's mother. Steven Suskin describes it as \"Abie's Irish Rose set against the burning of Atlanta.\" Bart himself described the play as \"…three human stories inside an epic canvas; the major human conflict – the major plot – personifies the spirit of London and how that spirit developed during the period of the piece.\"",
         "source_url": "https://en.wikipedia.org/wiki/Blitz!",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "carlo-di-borgogna": {
-      "slug": "carlo-di-borgogna",
-      "title": "Carlo di Borgogna",
-      "qid": "Q5041635",
-      "enwiki": "Carlo di Borgogna",
-      "composers": [
-        {
-          "name": "Giovanni Pacini",
-          "qid": "Q357022"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Gaetano Rossi",
-          "qid": "Q1491039"
-        }
-      ],
-      "premiere": {
-        "date": "1835-02-21",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Carlo_di_Borgogna",
-        "wikidata": "https://www.wikidata.org/wiki/Q5041635"
-      },
-      "summary": {
-        "text": "Carlo di Borgogna is an Italian opera (melodramma romantico) in three parts composed by Giovanni Pacini to a libretto by Gaetano Rossi. It was first performed at the Teatro la Fenice, Venice, on 21 February 1835.",
-        "source_url": "https://en.wikipedia.org/wiki/Carlo_di_Borgogna",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "chichester-psalms": {
-      "slug": "chichester-psalms",
-      "title": "Chichester Psalms",
-      "qid": "Q5096010",
-      "enwiki": "Chichester Psalms (ballet)",
-      "composers": [
-        {
-          "name": "Leonard Bernstein",
-          "qid": "Q152505",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7257"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Chichester_Psalms_(ballet)",
-        "wikidata": "https://www.wikidata.org/wiki/Q5096010"
-      },
-      "summary": {
-        "text": "Chichester Psalms is a ballet made by New York City Ballet ballet master in chief Peter Martins to eponymous music by Leonard Bernstein. The premiere took place 2 June 2004 at the New York State Theater, with performance by the Juilliard Choral Union, costumes designed by Catherine Barinas, and lighting by Mark Stanley.",
-        "source_url": "https://en.wikipedia.org/wiki/Chichester_Psalms_(ballet)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "china-rose": {
-      "slug": "china-rose",
-      "title": "China Rose",
-      "qid": "Q121365258",
-      "enwiki": "China Rose (operetta)",
-      "composers": [
-        {
-          "name": "Alfred Baldwin Sloane",
-          "qid": "Q4722282",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3819"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Harry L. Cort",
-          "qid": "Q107209411",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6130"
-        },
-        {
-          "name": "George E. Stoddard",
-          "qid": "Q113171149"
-        }
-      ],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/China_Rose_(operetta)",
-        "wikidata": "https://www.wikidata.org/wiki/Q121365258"
-      },
-      "summary": {
-        "text": "China Rose is an operetta in two acts with music by A. Baldwin Sloane, and both lyrics and book by Harry L. Cort and George E. Stoddard. The work premiered in Boston at the Hollis Street Theatre on Christmas Eve of 1924. On December 30, 1924 portions of the work were performed by a live orchestra on WNAC (1260 AM) radio in Boston.\nThe production moved to Broadway at the Martin Beck Theatre on January 19, 1925. In the midst of its Broadway run the production transferred twice, first to Wallack's Theatre and then the Knickerbocker Theatre. The production ended its run at the latter theatre on May 9, 1925; closing after 120 performances.\nThe Broadway production was directed by R. H. Burnside and co-produced by Martin Beck, John Cort, and Charles Dillingham. It starred baritone J. Harold Murray as Cha Ming, the Prince of Manchuria, and Olga Steck as the prince's love interest, Ro See, a.k.a. the \"China Rose\". It was the final stage work created by A. Baldwin Sloane.",
-        "source_url": "https://en.wikipedia.org/wiki/China_Rose_(operetta)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "dalibor": {
-      "slug": "dalibor",
-      "title": "Dalibor",
-      "qid": "Q1157925",
-      "enwiki": "Dalibor (opera)",
-      "composers": [
-        {
-          "name": "Bedřich Smetana",
-          "qid": "Q48173",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/472382"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Josef Wenzig",
-          "qid": "Q1706029"
-        }
-      ],
-      "premiere": {
-        "date": "1868-05-16",
-        "venue": "Provisional Theatre"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Dalibor_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q1157925"
-      },
-      "summary": {
-        "text": "Dalibor is a Czech opera in three acts by Bedřich Smetana. The libretto was written in German by Josef Wenzig, and translated into Czech by Ervín Špindler. It was first performed at the New Town Theatre in Prague on 16 May  1868. The opera received criticism at the time for being overly influenced by German opera, including that of Wagner's Lohengrin.\nThe subject of the opera is Dalibor of Kozojedy (fl. c. 1490), a Czech knight who took part in an uprising in Ploskovice in support of the oppressed people and was sentenced to death in 1498, during the reign of Vladislaus II of Hungary. The plot bears a resemblance to that of Beethoven's Fidelio, in that the central female characters in each opera disguise themselves in male clothing and gain the confidence of a jailor to try to save the imprisoned hero.",
-        "source_url": "https://en.wikipedia.org/wiki/Dalibor_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "der-vampyr": {
-      "slug": "der-vampyr",
-      "title": "Der Vampyr",
-      "qid": "Q253866",
-      "enwiki": "Der Vampyr",
-      "composers": [
-        {
-          "name": "Heinrich August Marschner",
-          "qid": "Q160063"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Wilhelm August Wohlbrück",
-          "qid": "Q2571779"
-        }
-      ],
-      "premiere": {
-        "date": "1828-03-28",
-        "venue": "Altes Theater"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Der_Vampyr",
-        "wikidata": "https://www.wikidata.org/wiki/Q253866"
-      },
-      "summary": {
-        "text": "Der Vampyr  (The Vampire) is a Romantic opera in two acts by Heinrich Marschner. The German libretto by Wilhelm August Wohlbrück (Marschner's brother-in-law) is based on the play Der Vampir oder die Totenbraut (1821) by Heinrich Ludwig Ritter, which itself was based on the short story The Vampyre (1819) by John Polidori.  The first performance took place on 29 March 1828 in Leipzig, where it was a hit.\nThe opera is still occasionally performed, and, in 1992, an updated adaptation, entitled The Vampyr: A Soap Opera, with new lyrics by Charles Hart, starring Omar Ebrahim and produced by Janet Street-Porter, was serialised on BBC television.\nIn June 2014, OperaHub in Boston premiered a new English-language adaptation of Der Vampyr by John J King that spoofs more modern vampire stories such as Twilight, Dracula, the Vampire Chronicles, and Buffy the Vampire Slayer.",
-        "source_url": "https://en.wikipedia.org/wiki/Der_Vampyr",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -577,69 +308,6 @@
         "modified": false
       }
     },
-    "gilgamesh-saygun-opera": {
-      "slug": "gilgamesh-saygun-opera",
-      "title": "Gilgamesh",
-      "qid": "Q19571945",
-      "enwiki": "Gilgamesh (Saygun opera)",
-      "composers": [
-        {
-          "name": "Ahmet Adnan Saygun",
-          "qid": "Q401118"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Münir Hayri Egeli",
-          "qid": "Q6083334"
-        }
-      ],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Gilgamesh_(Saygun_opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q19571945"
-      },
-      "summary": {
-        "text": "Gılgameş (Op. 65) is an opera in three acts and twelve scenes composed by Ahmed Adnan Saygun to a Turkish-language libretto by Münir Hayri Egeli. The opera, based on the Epic of Gilgamesh was composed from 1964 to 1983, but premiered in an early version in 1970. The work had its origins in an opera of the same name by Nevit Kodallı with a libretto by Orhan Asena which was premiered in Ankara in 1964, but Saygun and his librettist were commissioned to rewrite both music and libretto.",
-        "source_url": "https://en.wikipedia.org/wiki/Gilgamesh_(Saygun_opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "gillet-pa-solhaug": {
-      "slug": "gillet-pa-solhaug",
-      "title": "Gillet på Solhaug",
-      "qid": "Q10504931",
-      "enwiki": "Gillet på Solhaug",
-      "composers": [
-        {
-          "name": "Wilhelm Stenhammar",
-          "qid": "Q435688"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Gillet_p%C3%A5_Solhaug",
-        "wikidata": "https://www.wikidata.org/wiki/Q10504931"
-      },
-      "summary": {
-        "text": "Gillet pa Solhaug is an 1893 Swedish-language opera in 3 acts by Wilhelm Stenhammar to a libretto based on The Feast at Solhaug (Norwegian Gildet paa Solhoug) by Henrik Ibsen. The opera was completed in 1893, and premiered at the Hoftheater Stuttgart in 1899, then in Sweden at the Royal Swedish Opera in 1902.",
-        "source_url": "https://en.wikipedia.org/wiki/Gillet_p%C3%A5_Solhaug",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "girl-interrupted": {
       "slug": "girl-interrupted",
       "title": "Girl, Interrupted",
@@ -696,159 +364,6 @@
       "summary": {
         "text": "In My Life was a 2005 Broadway musical with music, lyrics, and book by Joseph Brooks.\nDescribed by Playbill as being \"generally regarded\" to be \"one of the strangest shows ever to have graced a Broadway stage\", it told the story of a romance between a journalist with obsessive–compulsive disorder (OCD) and a singer-songwriter with Tourette's syndrome and later a brain tumor; as they fall in love, they are observed by an angel in Heaven who decides that their story would make a great \"reality opera\". Also involved in the tale are the songwriter's dead mother and sister, as well as God himself.\nWritten entirely by Brooks, the show opened on Broadway on October 20, 2005, in a production also directed by Brooks; after receiving uniformly negative reviews, it closed on December 11, 2005, after 61 performances and 23 previews. No cast recording was made of the show's songs, and the libretto has never been published.",
         "source_url": "https://en.wikipedia.org/wiki/In_My_Life_(musical)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "isabella-d-aspeno": {
-      "slug": "isabella-d-aspeno",
-      "title": "Isabella d'Aspeno",
-      "qid": "Q21998561",
-      "enwiki": "Isabella d'Aspeno",
-      "composers": [
-        {
-          "name": "Pavlos Carrer",
-          "qid": "Q1389257"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "1854-02-07",
-        "venue": "Corfu"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Isabella_d'Aspeno",
-        "wikidata": "https://www.wikidata.org/wiki/Q21998561"
-      },
-      "summary": {
-        "text": "Isabella d'Aspeno is an opera in three acts composed by Pavlos Carrer. The author of its Italian-language libretto is credited only with the initials \"R.G.S.\". The opera premiered at the Teatro San Giacomo in Corfu on 7 February 1854. The following year, the opera had its Italian premiere at Milan's Teatro Carcano where it achieved considerable success with multiple performances over two seasons. Set in Westphalia during the 14th Century, the plot of Isabella d'Aspeno bears several thematic similarities to Verdi's later opera, Un ballo in maschera. Both involve the assassination of a sovereign by his political and romantic  rival during a masquerade ball.",
-        "source_url": "https://en.wikipedia.org/wiki/Isabella_d'Aspeno",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "l-heure-espagnole": {
-      "slug": "l-heure-espagnole",
-      "title": "L'heure espagnole",
-      "qid": "Q593319",
-      "enwiki": "L'heure espagnole",
-      "composers": [
-        {
-          "name": "Maurice Ravel",
-          "qid": "Q1178",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/107172"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Franc-Nohain",
-          "qid": "Q447103"
-        }
-      ],
-      "premiere": {
-        "date": "1911-05-19",
-        "venue": "Opéra-Comique"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/L'heure_espagnole",
-        "wikidata": "https://www.wikidata.org/wiki/Q593319"
-      },
-      "summary": {
-        "text": "L'heure espagnole is a French one-act opera from 1911, described as a comédie musicale, with music by Maurice Ravel to a French libretto by Franc-Nohain, based on Franc-Nohain's 1904 play ('comédie-bouffe') of the same name The opera, set in Spain in the 18th century, is about a clockmaker whose unfaithful wife attempts to have sex with several different men while he is away, leading to them hiding in, and eventually getting stuck in, her husband's clocks. The title can be translated literally as \"The Spanish Hour\", but the word \"heure\" also means \"time\" – \"Spanish Time\", with the connotation \"How They Keep Time in Spain\".\nThe original play had first been performed at the Théâtre de l'Odéon on 28 October 1904. Ravel began working on the music as early as 1907, and the opera was first performed at the Opéra-Comique on 19 May 1911.",
-        "source_url": "https://en.wikipedia.org/wiki/L'heure_espagnole",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "les-francs-juges": {
-      "slug": "les-francs-juges",
-      "title": "Les Francs-juges",
-      "qid": "Q285689",
-      "enwiki": "Les Francs-juges",
-      "composers": [
-        {
-          "name": "Hector Berlioz",
-          "qid": "Q1151",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/485477"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Les_Francs-juges",
-        "wikidata": "https://www.wikidata.org/wiki/Q285689"
-      },
-      "summary": {
-        "text": "Les Francs-juges (translated as The Free Judges or The Judges of the Secret Court) is the title of an unfinished opera by the French composer Hector Berlioz written to a libretto by his friend Humbert Ferrand in 1826. Berlioz abandoned the incomplete composition and destroyed most of the music. He retained the overture, which has become a popular concert item, and used some other musical material in later compositions.",
-        "source_url": "https://en.wikipedia.org/wiki/Les_Francs-juges",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "love-s-labour-s-lost": {
-      "slug": "love-s-labour-s-lost",
-      "title": "Love's Labour's Lost",
-      "qid": "Q8012910",
-      "enwiki": "Love's Labour's Lost (opera)",
-      "composers": [],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Love's_Labour's_Lost_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q8012910"
-      },
-      "summary": {
-        "text": "Love's Labour's Lost is an opera by Nicolas Nabokov, written by W. H. Auden and Chester Kallman, based on Shakespeare's play of the same name. It was first performed in Brussels on 7 February 1973.",
-        "source_url": "https://en.wikipedia.org/wiki/Love's_Labour's_Lost_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "madame-chrysantheme": {
-      "slug": "madame-chrysantheme",
-      "title": "Madame Chrysanthème",
-      "qid": "Q3275256",
-      "enwiki": "Madame Chrysanthème (opera)",
-      "composers": [
-        {
-          "name": "André Messager",
-          "qid": "Q457645",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4120"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Georges Hartmann",
-          "qid": "Q3102860"
-        }
-      ],
-      "premiere": {
-        "date": "1893-01-21",
-        "venue": "Théâtre de la Renaissance"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Madame_Chrysanth%C3%A8me_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q3275256"
-      },
-      "summary": {
-        "text": "Madame Chrysanthème (Madam Chrysanthemum) is an opera, described as a comédie lyrique, with music by André Messager to a libretto by Georges Hartmann and Alexandre André, after the semi-autobiographical novel Madame Chrysanthème (1887) by Pierre Loti. It consists of four acts with a prologue and an epilogue and is set in Nagasaki, Japan.",
-        "source_url": "https://en.wikipedia.org/wiki/Madame_Chrysanth%C3%A8me_(opera)",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -945,70 +460,6 @@
         "modified": false
       }
     },
-    "other-dances": {
-      "slug": "other-dances",
-      "title": "Other Dances",
-      "qid": "Q7108587",
-      "enwiki": "Other Dances",
-      "composers": [
-        {
-          "name": "Frédéric Chopin",
-          "qid": "Q1268",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11521"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Other_Dances",
-        "wikidata": "https://www.wikidata.org/wiki/Q7108587"
-      },
-      "summary": {
-        "text": "Other Dances is a ballet choreographed by Jerome Robbins to music by Frédéric Chopin. It was created on Natalia Makarova and Mikhail Baryshnikov, and premiered on May 9, 1976, at a gala benefitting the New York Public Library for the Performing Arts, held at Metropolitan Opera House. It was originally made as a pièce d'occasion, but after receiving critical acclaim, it was soon added to American Ballet Theatre and New York City Ballet's repertories.",
-        "source_url": "https://en.wikipedia.org/wiki/Other_Dances",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "our-man-in-havana": {
-      "slug": "our-man-in-havana",
-      "title": "Our Man in Havana",
-      "qid": "Q30610775",
-      "enwiki": "Our Man in Havana (opera)",
-      "composers": [
-        {
-          "name": "Malcolm Williamson",
-          "qid": "Q644392"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Sidney Gilliat",
-          "qid": "Q505853"
-        }
-      ],
-      "premiere": {
-        "date": "1963-07-02",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Our_Man_in_Havana_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q30610775"
-      },
-      "summary": {
-        "text": "Our Man in Havana is an opera in three acts composed by Malcolm Williamson to a libretto by Sidney Gilliat based on Graham Greene's 1958 novel Our Man in Havana. Williamson's first full-scale opera, it was premiered on 2 July 1963 at Sadler's Wells Theatre in London.\nIts first performance in East Germany was in Karl-Marx-Stadt (today Chemnitz) in May 1966, with Renate Härtel, Eva Lehoczky, Elisabeth Fuchs, Peter Slawow, Konrad Rupf, Egon Schulz, Gerhard Scherfling, Manfred Drescher, conducted by Gerhard Rolf Bauer. The opera was presented at the Csokonai Theatre in Debrecen, Hungary, in May 1967, with Jozsef Csongor, Gyorgy Trefas, Magda Marsay, Janos Gazso, Gyorgy Siklos, Zsuzsa Marczaly, Kriszta Tibay, Miklos Albert, Jozsef Toth, Mihaly Viragos, conducted by Vilmos Rubányi.\nAfter years of neglect it was revived in 2016 by Lyric Opera of Melbourne at the Melbourne Athenaeum theatre.",
-        "source_url": "https://en.wikipedia.org/wiki/Our_Man_in_Havana_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "pacific-overtures": {
       "slug": "pacific-overtures",
       "title": "Pacific Overtures",
@@ -1057,80 +508,6 @@
         "modified": false
       }
     },
-    "plutus": {
-      "slug": "plutus",
-      "title": "Plutus",
-      "qid": "Q60788934",
-      "enwiki": "Plutus (opera)",
-      "composers": [
-        {
-          "name": "Charles Lecocq",
-          "qid": "Q538894",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4773"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Albert Millaud",
-          "qid": "Q2638502",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/414605"
-        },
-        {
-          "name": "Gaston Jollivet",
-          "qid": "Q3099044"
-        }
-      ],
-      "premiere": {
-        "date": "1886-03-31",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Plutus_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q60788934"
-      },
-      "summary": {
-        "text": "Plutus is a three-act opéra comique by Charles Lecocq, with a libretto by Albert Millaud and Gaston Jollivet. It was first presented at the Opéra-Comique, Paris, on 31 March 1886; it was not a success and was taken off after eight performances. This was the first and last opera Lecocq wrote for the Opéra-Comique.\nThe story, with an ancient Greek setting, is loosely based on a play by Aristophanes, and portrays the damage that wealth can do to the course of true love.",
-        "source_url": "https://en.wikipedia.org/wiki/Plutus_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "saint-francois-d-assise": {
-      "slug": "saint-francois-d-assise",
-      "title": "Saint François d'Assise",
-      "qid": "Q2605813",
-      "enwiki": "Saint François d'Assise",
-      "composers": [
-        {
-          "name": "Olivier Messiaen",
-          "qid": "Q151593"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Olivier Messiaen",
-          "qid": "Q151593"
-        }
-      ],
-      "premiere": {
-        "date": "1983-11-28",
-        "venue": "Paris Opera"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Saint_Fran%C3%A7ois_d'Assise",
-        "wikidata": "https://www.wikidata.org/wiki/Q2605813"
-      },
-      "summary": {
-        "text": "Saint François d'Assise : Scènes Franciscaines (English: Franciscan Scenes of Saint Francis of Assisi), or simply Saint François d'Assise, is an opera in three acts and eight scenes by French composer Olivier Messiaen, who was also its librettist; written from 1975 to 1979, with orchestration and copying from 1979 to 1983. It concerns Saint Francis of Assisi, the titular character, and displays Messiaen's devout Catholicism.\nThe premiere was given by the Paris Opera at the Palais Garnier on 28 November 1983. The work was published eight years later in 1991. Messiaen's only opera, it is considered his magnum opus.",
-        "source_url": "https://en.wikipedia.org/wiki/Saint_Fran%C3%A7ois_d'Assise",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "saved": {
       "slug": "saved",
       "title": "Saved",
@@ -1167,64 +544,6 @@
         "modified": false
       }
     },
-    "sevil": {
-      "slug": "sevil",
-      "title": "Sevil",
-      "qid": "Q12845644",
-      "enwiki": "Sevil (opera)",
-      "composers": [
-        {
-          "name": "Fikret Amirov",
-          "qid": "Q936001"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "1953",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Sevil_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q12845644"
-      },
-      "summary": {
-        "text": "Sevil is a lyrical psychological drama opera written in 1949–1952 with music by Fikret Amirov to a libretto by Talat Eyyubov based on Jafar Jabbarly's play Sevil. The premiere of the opera was held on December 25, 1953, at the Azerbaijan State Opera and Ballet Theater.\nSevil is the first Azerbaijani opera written in a modern lyrical and psychological genre. The melody, which is the main expression of Fikrat Amirov's work, plays an emotional beginning in the music of the opera. The composer used a variety of musical forms in the opera – aria, arioso, ensembles and choral episodes.",
-        "source_url": "https://en.wikipedia.org/wiki/Sevil_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "slice-to-sharp": {
-      "slug": "slice-to-sharp",
-      "title": "Slice to Sharp",
-      "qid": "Q7540237",
-      "enwiki": "Slice to Sharp",
-      "composers": [
-        {
-          "name": "Heinrich Biber",
-          "qid": "Q153455"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Slice_to_Sharp",
-        "wikidata": "https://www.wikidata.org/wiki/Q7540237"
-      },
-      "summary": {
-        "text": "Slice to Sharp is a ballet made for New York City Ballet's Diamond Project by Jorma Elo to music by Heinrich Ignaz Franz von Biber and Antonio Vivaldi. The premiere took place on 16 June 2006 at the New York State Theater, Lincoln Center with lighting by Mark Stanley and costumes by Holly Hynes.",
-        "source_url": "https://en.wikipedia.org/wiki/Slice_to_Sharp",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "spongebob-squarepants": {
       "slug": "spongebob-squarepants",
       "title": "SpongeBob SquarePants",
@@ -1253,30 +572,6 @@
       "summary": {
         "text": "SpongeBob SquarePants: The Broadway Musical (originally titled The SpongeBob Musical, later retitled for the national tour) is a musical, co-conceived and directed by Tina Landau with songs by various artists and a book by Kyle Jarrow. It is based on the Nickelodeon animated television series SpongeBob SquarePants and made its world premiere in June 2016 at the Oriental Theatre in Chicago. Following a month of previews, the musical opened on Broadway at the Palace Theatre in December 2017.\nThe musical follows SpongeBob SquarePants’ attempts to avert a volcanic eruption that could potentially wipe out all life in Bikini Bottom.\nThe show was produced by Nickelodeon, The Araca Group, Sony Music Masterworks and Kelp on the Road.\nThe musical opened to critical acclaim. With twelve Tony Award nominations, it tied with Mean Girls for the most-nominated production at the 72nd Tony Awards in 2018. The show closed at the Palace Theatre on September 16, 2018, due to theatre renovations. At the time of its closing, it had played 29 previews and 327 regular performances. A non-Equity North American tour opened on September 22, 2019, at Proctors Theatre in Schenectady, New York. On December 7, 2019, Nickelodeon aired The SpongeBob Musical: Live on Stage!, a television special of the show featuring members from the original Broadway cast. The tour closed in 2020 due to the ongoing COVID-19 pandemic. The SpongeBob Musical UK tour opened on April 5, 2023, at the Mayflower Theatre in Southampton and closed on September 9, 2023, at the Theatre Royal Newcastle.",
         "source_url": "https://en.wikipedia.org/wiki/SpongeBob_SquarePants_(musical)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "stamping-ground": {
-      "slug": "stamping-ground",
-      "title": "Stamping Ground",
-      "qid": "Q7597502",
-      "enwiki": "Stamping Ground (ballet)",
-      "composers": [],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Stamping_Ground_(ballet)",
-        "wikidata": "https://www.wikidata.org/wiki/Q7597502"
-      },
-      "summary": {
-        "text": "Stamping Ground is a contemporary dance choreographed in 1983 by Jiří Kylián to Carlos Chávez's Toccata for Percussion Instruments. It was inspired by the traditional dances of the Aboriginal Australians.",
-        "source_url": "https://en.wikipedia.org/wiki/Stamping_Ground_(ballet)",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -1367,40 +662,6 @@
         "modified": false
       }
     },
-    "the-handmaid-s-tale": {
-      "slug": "the-handmaid-s-tale",
-      "title": "The Handmaid's Tale",
-      "qid": "Q7738734",
-      "enwiki": "The Handmaid's Tale (opera)",
-      "composers": [
-        {
-          "name": "Poul Ruders",
-          "qid": "Q2429164"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Paul Bentley",
-          "qid": "Q29477848"
-        }
-      ],
-      "premiere": {
-        "date": "2000-03-06",
-        "venue": "Copenhagen"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/The_Handmaid's_Tale_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q7738734"
-      },
-      "summary": {
-        "text": "The Handmaid's Tale is a 1998 opera by Danish composer Poul Ruders, setting a libretto by Paul Bentley based on the novel of the same name by Margaret Atwood. It has a prologue, a prelude, two acts and an epilogue; there is a build-up in each act leading to a big scene. The work premiered in Copenhagen in 2000 and has since been produced in London, Toronto and elsewhere. Bentley's libretto converts a first-person novel into a third-person opera by means of framing devices. The action takes place in a 22nd-century United States taken over by a theocracy named Gilead; it starts with a newsreel-like collage: the narrative first frame.",
-        "source_url": "https://en.wikipedia.org/wiki/The_Handmaid's_Tale_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "the-likes-of-us": {
       "slug": "the-likes-of-us",
       "title": "The Likes of Us",
@@ -1439,65 +700,6 @@
       "summary": {
         "text": "The Likes of Us is musical with music by Andrew Lloyd Webber, lyrics by Tim Rice, and a book by Leslie Thomas. It is based on the story of Thomas John Barnardo, a philanthropist who founded homes for destitute children.",
         "source_url": "https://en.wikipedia.org/wiki/The_Likes_of_Us",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "the-little-prince-musical": {
-      "slug": "the-little-prince-musical",
-      "title": "The Little Prince",
-      "qid": "Q111972944",
-      "enwiki": "The Little Prince (musical)",
-      "composers": [],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/The_Little_Prince_(musical)",
-        "wikidata": "https://www.wikidata.org/wiki/Q111972944"
-      },
-      "summary": {
-        "text": "The Little Prince is a theatrical production based on Antoine de Saint-Exupéry’s 1943 story The Little Prince that features dance, circus arts, video production and acrobatics. Tournié and Mouron began adapting the show for the stage in 2018. The show is directed and choreographed by Anne Tournié and ran in Paris, Dubai and Sydney before arriving on Broadway in spring 2022. The Sydney engagement marked the city's first major international production since the COVID-19 lockdown. \nCast included Lionel Zalachas as the Little Prince, co-director Chris Mouron as The Narrator, Aurélien Bednarek as The Aviator together with a large ensemble cast. The Broadway production was slated to run from March through August at the Broadway Theatre but on April 26, it announced it would close on May 8 after receiving poor reviews.",
-        "source_url": "https://en.wikipedia.org/wiki/The_Little_Prince_(musical)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "the-queen-of-spades": {
-      "slug": "the-queen-of-spades",
-      "title": "The Queen of Spades",
-      "qid": "Q221047",
-      "enwiki": "The Queen of Spades (opera)",
-      "composers": [
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "qid": "Q7315",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12486"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Modest Tchaikovsky",
-          "qid": "Q2306644"
-        }
-      ],
-      "premiere": {
-        "date": "1890-12-19",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/The_Queen_of_Spades_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q221047"
-      },
-      "summary": {
-        "text": "The Queen of Spades or Pique Dame, Op. 68 (Russian: Пиковая дама, Pikovaya dama , French: La Dame de Pique) is an opera in three acts (seven scenes) by Pyotr Ilyich Tchaikovsky to a Russian libretto by the composer's brother Modest Tchaikovsky, based on the 1834 novella of the same name by Alexander Pushkin, but with a dramatically altered plot. The premiere took place in 1890 at the Mariinsky Theatre in Saint Petersburg, Russia.",
-        "source_url": "https://en.wikipedia.org/wiki/The_Queen_of_Spades_(opera)",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -1637,40 +839,6 @@
       "summary": {
         "text": "Vanities, A New Musical is a musical with music and lyrics by David Kirshenbaum and a book by Jack Heifner, based on the book and 1976 play of the same name. The musical premiered Off-Broadway in 2009, after an engagement at the Pasadena Playhouse, California in 2008. A revised version was then staged in the West End in 2016.",
         "source_url": "https://en.wikipedia.org/wiki/Vanities%2C_A_New_Musical",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "veinticinco-de-agosto-1983": {
-      "slug": "veinticinco-de-agosto-1983",
-      "title": "Veinticinco de agosto, 1983",
-      "qid": "Q7918702",
-      "enwiki": "Veinticinco de agosto, 1983",
-      "composers": [
-        {
-          "name": "Juan María Solare",
-          "qid": "Q566338"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Javier Adúriz",
-          "qid": "Q6165400"
-        }
-      ],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Veinticinco_de_agosto%2C_1983",
-        "wikidata": "https://www.wikidata.org/wiki/Q7918702"
-      },
-      "summary": {
-        "text": "Veinticinco de agosto, 1983 (August the 25th, 1983) is a chamber opera by Juan María Solare, to a Spanish libretto by Javier Adúriz based on the life of Jorge Luis Borges. Solare composed the opera from 1992 to 1993.\nThe opera is approximately 37.5 minutes in length and consists of one act with fifteen scenes.",
-        "source_url": "https://en.wikipedia.org/wiki/Veinticinco_de_agosto%2C_1983",
         "license": "CC BY-SA 4.0",
         "modified": false
       }

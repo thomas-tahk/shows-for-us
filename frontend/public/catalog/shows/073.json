@@ -1,4 +1,5 @@
 {
+  "live": true,
   "shows": {
     "1789-les-amants-de-la-bastille": {
       "slug": "1789-les-amants-de-la-bastille",
@@ -24,41 +25,6 @@
         "modified": false
       }
     },
-    "a-dinner-engagement": {
-      "slug": "a-dinner-engagement",
-      "title": "A Dinner Engagement",
-      "qid": "Q55602995",
-      "enwiki": "A Dinner Engagement",
-      "composers": [
-        {
-          "name": "Lennox Berkeley",
-          "qid": "Q514975",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11376"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Paul Dehn",
-          "qid": "Q678500"
-        }
-      ],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/A_Dinner_Engagement",
-        "wikidata": "https://www.wikidata.org/wiki/Q55602995"
-      },
-      "summary": {
-        "text": "A Dinner Engagement is a one-act comic opera by Lennox Berkeley, (his Op. 45) to a libretto by Paul Dehn.\nThe opera was written for Benjamin Britten's English Opera Group. It premiered at the Jubilee Hall, Aldeburgh Festival, in 1954; the first London performance was at Sadler's Wells Theatre on 7 October 1954, with the same cast. The first performance in the USA was at the University of Washington in 1958.\nBerkeley's 1967 one-act opera, Castaway (also to a libretto by Dehn) was written as a companion piece to A Dinner Engagement.",
-        "source_url": "https://en.wikipedia.org/wiki/A_Dinner_Engagement",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "a-snow-white-christmas": {
       "slug": "a-snow-white-christmas",
       "title": "A Snow White Christmas",
@@ -79,104 +45,6 @@
       "summary": {
         "text": "A Snow White Christmas is a pantomime version of the fairytale Snow White, with a book by Kris Lythgoe and a score consisting of a pastiche of well-known pop tunes. It was first produced in 2011 at the El Portal Theatre in North Hollywood, California. The music includes songs by Katy Perry, Bruno Mars, Michael Jackson, The Village People, Britney Spears, Lady Gaga and Hall & Oates, among others. Like other pantomime-style musicals, the show includes magic, dancing, singing, acting, audience interactivity and sing-a-long segments.",
         "source_url": "https://en.wikipedia.org/wiki/A_Snow_White_Christmas_(musical)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "adelina": {
-      "slug": "adelina",
-      "title": "Adelina",
-      "qid": "Q4681942",
-      "enwiki": "Adelina (opera)",
-      "composers": [
-        {
-          "name": "Pietro Generali",
-          "qid": "Q2006027"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Gaetano Rossi",
-          "qid": "Q1491039"
-        }
-      ],
-      "premiere": {
-        "date": "1810-09-15",
-        "venue": "Teatro San Moisè"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Adelina_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q4681942"
-      },
-      "summary": {
-        "text": "Adelina is an opera farsa (described as a ‘melodramma sentimentale’) in one act, by the Italian composer Pietro Generali with words by Gaetano Rossi. It was first performed at the Teatro San Moisè in Venice on either 15 or 16 September 1810. It premiered just before the first of Rossini's farse at the same theatre.\nFor the inspiration for his libretto Rossi turned to Lisbeth, a drame lyrique with words by Edmond de Favières, set by André Grétry and first performed in 1797 at the Salle Favart in Paris. The libretto is permeated by the ideals of Rousseau and the French Revolution.",
-        "source_url": "https://en.wikipedia.org/wiki/Adelina_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "amor-vuol-sofferenza": {
-      "slug": "amor-vuol-sofferenza",
-      "title": "Amor vuol sofferenza",
-      "qid": "Q60792539",
-      "enwiki": "Amor vuol sofferenza",
-      "composers": [
-        {
-          "name": "Leonardo Leo",
-          "qid": "Q316735"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "1739",
-        "venue": "Naples"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Amor_vuol_sofferenza",
-        "wikidata": "https://www.wikidata.org/wiki/Q60792539"
-      },
-      "summary": {
-        "text": "Amor vuol sofferenza is a 1739 commedia per musica in three acts by Leonardo Leo to a libretto by Antonio Federico Gennaro (d.1744). It was first performed at Naples, Teatro Nuovo. Leo was working on a revision to be entitled La finta Frascatana in 1744 when he died, which was completed by Matteo Capranica.",
-        "source_url": "https://en.wikipedia.org/wiki/Amor_vuol_sofferenza",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "armida-dvorak": {
-      "slug": "armida-dvorak",
-      "title": "Armida",
-      "qid": "Q3312234",
-      "enwiki": "Armida (Dvořák)",
-      "composers": [
-        {
-          "name": "Antonín Dvořák",
-          "qid": "Q7298",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/447817"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Jaroslav Vrchlický",
-          "qid": "Q461104"
-        }
-      ],
-      "premiere": {
-        "date": "1904-03-25",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Armida_(Dvo%C5%99%C3%A1k)",
-        "wikidata": "https://www.wikidata.org/wiki/Q3312234"
-      },
-      "summary": {
-        "text": "Armida is an opera by Antonín Dvořák in four acts, set to a libretto by Jaroslav Vrchlický that was originally based on Torquato Tasso's epic La Gerusalemme liberata. Dvořák's opera was first performed at Prague's National Theatre on 25 March 1904; the score was published as Opus 115 in 1941.\nWhile Armida represents the culmination of Dvořák's experimentation with a Wagnerian style of opera composition, much of the music is in Dvořák's personal style. Vrchlický's libretto parallels the one that Philippe Quinault wrote for Jean-Baptiste Lully in their opera of the same name. Despite three love-duets for Armida and Rinald, their characters are sketchily motivated. Dvořák, determined \"to write a big role for Růžena Maturová, his first Rusalka and first Princess in The Devil and Kate\" provides her with \"the best music, including a gorgeous entrance aria in which she describes dreaming of being a gazelle hunted by a handsome knight\".",
-        "source_url": "https://en.wikipedia.org/wiki/Armida_(Dvo%C5%99%C3%A1k)",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -282,118 +150,6 @@
         "modified": false
       }
     },
-    "covid-fan-tutte": {
-      "slug": "covid-fan-tutte",
-      "title": "Covid fan tutte",
-      "qid": "Q98844860",
-      "enwiki": "Covid fan tutte",
-      "composers": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "qid": "Q254",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/485475"
-        },
-        {
-          "name": "Karita Mattila",
-          "qid": "Q261199"
-        },
-        {
-          "name": "Esa-Pekka Salonen",
-          "qid": "Q314587"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Minna Lindgren",
-          "qid": "Q11882907"
-        }
-      ],
-      "premiere": {
-        "date": "2020-08-28",
-        "venue": "Finnish National Opera"
-      },
-      "awards": [],
-      "links": {
-        "official_site": "https://oopperabaletti.fi/ohjelmisto-ja-liput/covid-fan-tutte/",
-        "wikipedia": "https://en.wikipedia.org/wiki/Covid_fan_tutte",
-        "wikidata": "https://www.wikidata.org/wiki/Q98844860"
-      },
-      "summary": {
-        "text": "Covid fan tutte is a 2020 comic opera created and produced by the Finnish National Opera. It is a comedic adaptation of Mozart's Così fan tutte, depicting life in the spring of 2020 as disrupted by the COVID-19 pandemic. The libretto is by Minna Lindgren, written to music by Mozart. The idea for the opera was conceived by conductor Esa-Pekka Salonen and soprano Karita Mattila, after the pandemic caused the cancellation of Finnish National Opera's planned production of Wagner's Die Walküre. A filmed performance of the work was available for streaming worldwide through March 2021.",
-        "source_url": "https://en.wikipedia.org/wiki/Covid_fan_tutte",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "der-ferne-klang": {
-      "slug": "der-ferne-klang",
-      "title": "Der ferne Klang",
-      "qid": "Q1198586",
-      "enwiki": "Der ferne Klang",
-      "composers": [
-        {
-          "name": "Franz Schreker",
-          "qid": "Q78528"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Franz Schreker",
-          "qid": "Q78528"
-        }
-      ],
-      "premiere": {
-        "date": "1912-08-18",
-        "venue": "Oper Frankfurt"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Der_ferne_Klang",
-        "wikidata": "https://www.wikidata.org/wiki/Q1198586"
-      },
-      "summary": {
-        "text": "Der ferne Klang (The Distant Sound) is an opera by Franz Schreker, set to his own libretto. Begun in 1903, it was first performed by the Oper Frankfurt on 18 August 1912. It was the composer's breakthrough to fame, and was frequently performed up until 1931, shortly after which the composer's music was proscribed by the Nazi regime. Largely forgotten after World War II, it has been revived by several opera companies in the 21st century.",
-        "source_url": "https://en.wikipedia.org/wiki/Der_ferne_Klang",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "die-stechardin": {
-      "slug": "die-stechardin",
-      "title": "Die Stechardin",
-      "qid": "Q138499593",
-      "enwiki": "Die Stechardin",
-      "composers": [
-        {
-          "name": "György Kurtág",
-          "qid": "Q48184"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Christoph Hein",
-          "qid": "Q77497"
-        }
-      ],
-      "premiere": {
-        "date": "2026-02-20",
-        "venue": "Müpa Budapest"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Die_Stechardin",
-        "wikidata": "https://www.wikidata.org/wiki/Q138499593"
-      },
-      "summary": {
-        "text": "Die Stechardin ('The Stechard Woman') is a one-act opera in four scenes by György Kurtág, set to a libretto in German by Christoph Hein. His second opera, it is a monodrama for one woman, portraying Maria Dorothea Stechard, Georg Christoph Lichtenberg's domestic help and beloved. Kurtág worked on the composition from 2023 to 2025 and dedicated it to his late wife, Márta Kurtág. It was published by Editio Musica Budapest, and premiered at the Müpa Budapest on 20 February 2026 as part of a festival for his centenary.",
-        "source_url": "https://en.wikipedia.org/wiki/Die_Stechardin",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "dog-man-the-musical": {
       "slug": "dog-man-the-musical",
       "title": "Dog Man: The Musical",
@@ -414,59 +170,6 @@
       "summary": {
         "text": "Dog Man: The Musical is a 2019 superhero comedy musical based on the Dog Man series of graphic novels by writer Dav Pilkey. It was created by TheatreWorksUSA.",
         "source_url": "https://en.wikipedia.org/wiki/Dog_Man%3A_The_Musical",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "enee-et-lavinie-dauvergne": {
-      "slug": "enee-et-lavinie-dauvergne",
-      "title": "Énée et Lavinie",
-      "qid": "Q21998482",
-      "enwiki": "Énée et Lavinie (Dauvergne)",
-      "composers": [
-        {
-          "name": "Antoine Dauvergne",
-          "qid": "Q586017"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/%C3%89n%C3%A9e_et_Lavinie_(Dauvergne)",
-        "wikidata": "https://www.wikidata.org/wiki/Q21998482"
-      },
-      "summary": {
-        "text": "Énée et Lavinie (Aeneas and Lavinia) is an opera by the French composer Antoine Dauvergne, first performed at the Académie Royale de Musique (the Paris Opéra) on 14 February 1758. It takes the form of a tragédie lyrique in five acts.\nIt is a resetting of a libretto by Bernard Le Bovier de Fontenelle, which was originally set by Pascal Collasse in 1690. The story is taken from the later books of Virgil's Aeneid.",
-        "source_url": "https://en.wikipedia.org/wiki/%C3%89n%C3%A9e_et_Lavinie_(Dauvergne)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "horoscope": {
-      "slug": "horoscope",
-      "title": "Horoscope",
-      "qid": "Q5904895",
-      "enwiki": "Horoscope (ballet)",
-      "composers": [],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Horoscope_(ballet)",
-        "wikidata": "https://www.wikidata.org/wiki/Q5904895"
-      },
-      "summary": {
-        "text": "Horoscope is a ballet created in 1937 by Frederick Ashton with scenery by Sophie Fedorovitch and music by Constant Lambert. It is based on astrological themes, and is reminiscent of Gustav Holst's The Planets in its musical exploration of the mystical.",
-        "source_url": "https://en.wikipedia.org/wiki/Horoscope_(ballet)",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -534,70 +237,6 @@
       "summary": {
         "text": "King David: A World Premiere Concert Event is a 1997 oratorio (sometimes described as a work-in-progress musical), co-produced by The Walt Disney Company and Andre Djaoui, and written by Alan Menken (music) and Tim Rice (libretto). Originally conceived by Djaoui as a grand musical performed in Jerusalem to celebrate the 3000th anniversary of the city's founding, it was eventually staged as a concert in the first production at Broadway's New Amsterdam Theater after Disney's restoration. Opening on May 18, 1997 (after three previews beginning May 15), the show ran for six performances closing May 23.\nKing David is a song-cycle about David whom Alan Menken deems \"one of the great heroes of Jewish history\", and is based on Biblical tales from the Books of Samuel and 1 Chronicles, as well as text from David's Psalms. It retells the Old Testament story of the shepherd boy, David, who rises from his humble roots to become King of Israel, including the drama between him and Saul and David's trials and tribulations in the foundation of Jerusalem.\"\nAt present, there are no plans for a fully staged Broadway production.",
         "source_url": "https://en.wikipedia.org/wiki/King_David_(musical)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "kung-karls-jakt": {
-      "slug": "kung-karls-jakt",
-      "title": "Kung Karls jakt",
-      "qid": "Q8011999",
-      "enwiki": "Kung Karls jakt",
-      "composers": [
-        {
-          "name": "Fredrik Pacius",
-          "qid": "Q327024"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Zachris Topelius",
-          "qid": "Q139549"
-        }
-      ],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Kung_Karls_jakt",
-        "wikidata": "https://www.wikidata.org/wiki/Q8011999"
-      },
-      "summary": {
-        "text": "Kung Karls jakt (English: King Charles' Hunt; Finnish: Kaarle-kuninkaan metsästys) is an opera with music by Fredrik Pacius and a libretto by Zacharias Topelius. It was the first opera to be composed in Finland and was in the style of Romantic nationalism. Kung Karls jakt was first performed in Helsinki on 24 March 1852. The text is in Swedish (Swedish and Finnish are both official languages in Finland) and concerns an event from Finnish history when Finland was a province of Sweden in the 17th century. The work takes the form of a Singspiel with spoken dialogue between the musical numbers (the king himself does not sing). The music is heavily influenced by contemporary German and Italian opera, with a few Finnish elements such as the use of a kantele in one scene.",
-        "source_url": "https://en.wikipedia.org/wiki/Kung_Karls_jakt",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "l-allegro-il-penseroso-ed-il-moderato": {
-      "slug": "l-allegro-il-penseroso-ed-il-moderato",
-      "title": "L'Allegro, il Penseroso ed il Moderato",
-      "qid": "Q1419454",
-      "enwiki": "L'Allegro, il Penseroso ed il Moderato",
-      "composers": [
-        {
-          "name": "George Frideric Handel",
-          "qid": "Q7302",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/89505"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "1740-02-27",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/L'Allegro%2C_il_Penseroso_ed_il_Moderato",
-        "wikidata": "https://www.wikidata.org/wiki/Q1419454"
-      },
-      "summary": {
-        "text": "L'Allegro, il Penseroso ed il Moderato (The Cheerful Man, the Thoughtful Man and the Moderate Man), HWV 55, is a pastoral ode by George Frideric Handel based on the poetry of John Milton.",
-        "source_url": "https://en.wikipedia.org/wiki/L'Allegro%2C_il_Penseroso_ed_il_Moderato",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -682,264 +321,6 @@
         "modified": false
       }
     },
-    "le-cadi-dupe": {
-      "slug": "le-cadi-dupe",
-      "title": "Le cadi dupé",
-      "qid": "Q3538296",
-      "enwiki": "Le cadi dupé",
-      "composers": [
-        {
-          "name": "Christoph Willibald von Gluck",
-          "qid": "Q130759",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/480523"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Le_cadi_dup%C3%A9",
-        "wikidata": "https://www.wikidata.org/wiki/Q3538296"
-      },
-      "summary": {
-        "text": "Le cadi dupé (The Duped Qadi, or The Duped Judge) is an opéra comique in one act by Christoph Willibald Gluck. It has a French-language libretto by Pierre-René Lemonnier. It premiered at the Burgtheater in Vienna on 8 December 1761. The libretto had already been set by Pierre-Alexandre Monsigny in an opera that had premiered on 4 February of the same year at the Paris Foire St-Germain.\nThe music belongs to the Turkish-influenced fashion of the period and features janissary music, represented by piccolo, drums, and cymbals.",
-        "source_url": "https://en.wikipedia.org/wiki/Le_cadi_dup%C3%A9",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "le-nozze-d-ercole-e-d-ebe": {
-      "slug": "le-nozze-d-ercole-e-d-ebe",
-      "title": "Le nozze d'Ercole e d'Ebe",
-      "qid": "Q18162838",
-      "enwiki": "Le nozze d'Ercole e d'Ebe",
-      "composers": [
-        {
-          "name": "Christoph Willibald von Gluck",
-          "qid": "Q130759",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/480523"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Le_nozze_d'Ercole_e_d'Ebe",
-        "wikidata": "https://www.wikidata.org/wiki/Q18162838"
-      },
-      "summary": {
-        "text": "Le nozze d'Ercole e d'Ebe  (The Marriage of Hercules and Hebe) is an opera in two acts composed by Christoph Willibald Gluck to an Italian  libretto by an unknown author. Sometimes referred to as a festa teatrale or serenata, it was first performed in Pillnitz near Dresden on 29 June 1747 to celebrate the double wedding of the Bavarian elector and the Saxon crown prince to each other's sisters.",
-        "source_url": "https://en.wikipedia.org/wiki/Le_nozze_d'Ercole_e_d'Ebe",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "les-cloches-de-corneville": {
-      "slug": "les-cloches-de-corneville",
-      "title": "Les cloches de Corneville",
-      "qid": "Q959242",
-      "enwiki": "Les cloches de Corneville",
-      "composers": [
-        {
-          "name": "Robert Planquette",
-          "qid": "Q1921492",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8409"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Louis François Clairville",
-          "qid": "Q1740388",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/387161"
-        },
-        {
-          "name": "Charles Gabet",
-          "qid": "Q2959148",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/387162"
-        }
-      ],
-      "premiere": {
-        "date": "1877-04-19",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "ibdb": "https://www.ibdb.com/broadway-show/415826",
-        "wikipedia": "https://en.wikipedia.org/wiki/Les_cloches_de_Corneville",
-        "wikidata": "https://www.wikidata.org/wiki/Q959242"
-      },
-      "summary": {
-        "text": "Les cloches de Corneville (French pronunciation: [le klɔʃ də kɔʁnəvil], The Bells of Corneville, sometimes known in English as The Chimes of Normandy) is an opéra-comique in three acts, composed by Robert Planquette to a libretto by Louis Clairville and Charles Gabet. It premiered in Paris in 1877.\nThe story, set at the turn of the 18th century, depicts the return of an exiled aristocrat to his ancestral castle, the machinations of the miserly steward to secure the family's fortune for himself, and the changing amorous pairings of the four juvenile leads. Aspects of the plot were criticised by contemporary critics as derivative of earlier operas.\nThe opera was Planquette's first full-length stage work, and although he later wrote twelve more, including Rip Van Winkle, which was a hit in London, he never equalled the international success of this first venture. It broke box-office records in Paris and London, where it set a new long-run record for musical theatre worldwide, and it was continually revived in Europe and the US during the rest of the 19th century. Since then it has remained in the repertoire for occasional productions in France.",
-        "source_url": "https://en.wikipedia.org/wiki/Les_cloches_de_Corneville",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "les-rendezvous": {
-      "slug": "les-rendezvous",
-      "title": "Les Rendezvous",
-      "qid": "Q6529916",
-      "enwiki": "Les Rendezvous",
-      "composers": [
-        {
-          "name": "Daniel François Esprit Auber",
-          "qid": "Q157672",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/412308"
-        },
-        {
-          "name": "Constant Lambert",
-          "qid": "Q731407"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "1933",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Les_Rendezvous",
-        "wikidata": "https://www.wikidata.org/wiki/Q6529916"
-      },
-      "summary": {
-        "text": "Les Rendezvous is a plotless one-act ballet created in 1933, with choreography by Frederick Ashton to the music of Daniel Auber (the ballet music from his opera L'enfant prodigue) arranged by Constant Lambert and with designs by William Chappell. It was the first major ballet created by Ashton for the Vic-Wells company.\nIt was first performed on Tuesday, 5 December 1933 by Vic-Wells Ballet at Sadler's Wells Theatre, with Alicia Markova and Stanislas Idzikowski in the lead roles; these were later taken by Margot Fonteyn and Robert Helpmann. The choreography was revised in 1934 and the work was performed every season up to 1945, then from 1959 to 1963, when it used the set by Sophie Fedorovitch for Act 1 of La Traviata. It was revived in 1984 by Sadler's Wells Royal Ballet to celebrate Ashton's 80th birthday, and by the Royal Ballet at Covent Garden in 2000 with updated sets. The ballet has also been produced by companies in Norway, the US and Japan.\nIt was filmed for television in 1962 with Doreen Wells, Brian Shaw, and Merle Park, Petrus Brosnan and Graham Usher in the pas de trois.\nLes Rendezvous was Ashton's \"first substantial classical composition and an exultant statement of his idiosyncratic approach to academic ballet.\" It consists of a succession of light-hearted dances in a park, where friends meet and socialise.\nThe ballet was designed to show off the brilliance and style of Markova and the elevation and technical skill of Idzikowsky.\nOrder of numbers:\n\nEntrée des Promeneurs (company)\nPas de quatre: (four girls)\nMale Variation\nAdage des Amoureux (two leads)\nPas de trois (girl and two boys)\nFemale Variation\nPas de six: (six boys)\nSortie des Promeneurs (company)\nThe Sadler's Well Orchestra, conducted by Charles Mackerras made a recording of the music in July 1950 at Abbey Road Studios, but due to the standard of playing it was not published. An LP 'A Silver Jubilee Tribute to Sadler's Wells Ballet' included short extracts with the Royal Opera House Orchestra conducted by Robert Irving. In June 1988 the ballet was recorded by the English Concert Orchestra conducted by Richard Bonynge and issued in 1990 as part of a 'Ballet Gala' on a two-disc set by Decca.",
-        "source_url": "https://en.wikipedia.org/wiki/Les_Rendezvous",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "lisis-et-delie": {
-      "slug": "lisis-et-delie",
-      "title": "Lisis et Délie",
-      "qid": "Q24964723",
-      "enwiki": "Lisis et Délie",
-      "composers": [],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Lisis_et_D%C3%A9lie",
-        "wikidata": "https://www.wikidata.org/wiki/Q24964723"
-      },
-      "summary": {
-        "text": "Lisis et Délie (or Lysis et Délie) was a one-act pastoral opera with music by Jean-Philippe Rameau and  a libretto by Jean-François Marmontel. The musical score is now lost. It was scheduled to appear at Fontainebleau on 6 November 1753 as part of the celebrations for the birth of the royal prince Xavier, Duke of Aquitaine. It was due to form a double bill with the comédie-ballet Les hommes (words by Germain-François Poullain de Saint-Foix, music by François-Joseph Giraud). However, it was withdrawn from performance and \"La danse\", the third entrée of Rameau's Les fêtes d'Hébé, was performed in its place. The reason given for the work's cancellation was that it was too similar to Rameau's Daphnis et Eglé, premiered at Fontainebleau on 30 October.  The libretto was published but the music does not survive. Rameau may have reused some of it in his later operas.",
-        "source_url": "https://en.wikipedia.org/wiki/Lisis_et_D%C3%A9lie",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "lizzie-borden": {
-      "slug": "lizzie-borden",
-      "title": "Lizzie Borden",
-      "qid": "Q6660681",
-      "enwiki": "Lizzie Borden (opera)",
-      "composers": [
-        {
-          "name": "Jack Beeson",
-          "qid": "Q323757"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Kenward Elmslie",
-          "qid": "Q6392487",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7086"
-        },
-        {
-          "name": "Richard Plant",
-          "qid": "Q91059"
-        }
-      ],
-      "premiere": {
-        "date": "1965-03-25",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Lizzie_Borden_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q6660681"
-      },
-      "summary": {
-        "text": "Lizzie Borden is the sixth and best known opera by American composer Jack Beeson, commissioned by the Ford Foundation. The libretto by Kenward Elmslie after a scenario by Richard Plant is based on the real-life case of Lizzie Borden.\nIt was premiered on March 25, 1965, by the New York City Opera conducted by Anton Coppola and subsequently released on record.  The roughly two-hour opera is in three acts and an epilogue and is published by Boosey & Hawkes.",
-        "source_url": "https://en.wikipedia.org/wiki/Lizzie_Borden_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "mala-vita": {
-      "slug": "mala-vita",
-      "title": "Mala vita",
-      "qid": "Q3843734",
-      "enwiki": "Mala vita",
-      "composers": [
-        {
-          "name": "Umberto Giordano",
-          "qid": "Q294826",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/473583"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Nicola Daspuro",
-          "qid": "Q15269616"
-        }
-      ],
-      "premiere": {
-        "date": "1892-02-21",
-        "venue": "Teatro Argentina"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Mala_vita",
-        "wikidata": "https://www.wikidata.org/wiki/Q3843734"
-      },
-      "summary": {
-        "text": "Mala vita (Wretched Life) is an opera in three acts composed by Umberto Giordano to a libretto by Nicola Daspuro adapted from Salvatore Di Giacomo's and Goffredo Cognetti's verismo play of the same name. Giordano's first full-length opera, Mala vita premiered on 21 February 1892 at the Teatro Argentina. It was subsequently performed in Naples, Vienna, Berlin and Milan, and various Italian cities over the next two years. In 1897 a considerably re-worked and revised version under the title Il voto (The Vow) premiered in Milan. Within a few years, both versions had disappeared from the repertoire. Amongst its rare modern revivals was the 2002 performance at the Teatro Umberto Giordano in Foggia which was recorded live and released on the Bongiovanni label.\nSet in a slum neighborhood of Naples during the early 19th century, the opera's story (and that of the play on which it is based) revolves around a love triangle between Vito, a dyer afflicted with tuberculosis; Cristina, a prostitute whom Vito has vowed to marry in return for God curing him of his disease; and Amalia, Vito's mistress but married to Annetiello, a hard-drinking habitué of the brothel where Cristina worked. The action unfolds amidst the neighborhood's preparations for the Piedigrotta festival.",
-        "source_url": "https://en.wikipedia.org/wiki/Mala_vita",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "meleagre": {
-      "slug": "meleagre",
-      "title": "Méléagre",
-      "qid": "Q16937235",
-      "enwiki": "Méléagre",
-      "composers": [],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/M%C3%A9l%C3%A9agre",
-        "wikidata": "https://www.wikidata.org/wiki/Q16937235"
-      },
-      "summary": {
-        "text": "Méléagre (Meleager) is an opera by the French-Italian composer Jean-Baptiste Stuck, first performed at the Académie Royale de Musique (the Paris Opera) on 24 May 1709. It takes the form of a tragédie en musique in a prologue and five acts. The libretto, by François-Antoine Jolly, is based on the Greek legend of Meleager.",
-        "source_url": "https://en.wikipedia.org/wiki/M%C3%A9l%C3%A9agre",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "miss-saigon": {
       "slug": "miss-saigon",
       "title": "Miss Saigon",
@@ -983,35 +364,6 @@
         "modified": false
       }
     },
-    "nevtelen-hosok": {
-      "slug": "nevtelen-hosok",
-      "title": "Névtelen hősök",
-      "qid": "Q1221414",
-      "enwiki": "Névtelen hősök",
-      "composers": [
-        {
-          "name": "Ferenc Erkel",
-          "qid": "Q316820"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/N%C3%A9vtelen_h%C5%91s%C3%B6k",
-        "wikidata": "https://www.wikidata.org/wiki/Q1221414"
-      },
-      "summary": {
-        "text": "Névtelen hősök  [′Nameless heroes′] is an 1880 Hungarian four-act opera by Ferenc Erkel.",
-        "source_url": "https://en.wikipedia.org/wiki/N%C3%A9vtelen_h%C5%91s%C3%B6k",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "nobody-s-boy": {
       "slug": "nobody-s-boy",
       "title": "Nobody's Boy",
@@ -1032,6 +384,49 @@
       "summary": {
         "text": "Nobody's Boy is a musical theatre production of 1919, produced in London's West End.",
         "source_url": "https://en.wikipedia.org/wiki/Nobody's_Boy_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "one-night-stand": {
+      "slug": "one-night-stand",
+      "title": "One Night Stand",
+      "qid": "Q7093048",
+      "enwiki": "One Night Stand (musical)",
+      "composers": [
+        {
+          "name": "Jule Styne",
+          "qid": "Q587741",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12466"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Herb Gardner",
+          "qid": "Q113570",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6258"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Herb Gardner",
+          "qid": "Q113570",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6258"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6793",
+        "wikipedia": "https://en.wikipedia.org/wiki/One_Night_Stand_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7093048"
+      },
+      "summary": {
+        "text": "One Night Stand is a musical with a book and lyrics by Herb Gardner and music by Jule Styne. Its plot centers on a songwriter who feels he's past his prime.\nStyne had approached Gardner about adapting his play A Thousand Clowns for the musical stage, but Gardner was more interested in working on an original project. According to producer Joe Kipness, the collaboration was ill-conceived, since the two men could not agree about anything. \nThe Broadway production, directed by John Dexter and choreographed by Peter Gennaro, began previews at the Nederlander Theatre on October 20, 1980. After eight performances, it closed without ever officially opening. The cast included Charles Kimbrough, Catherine Cox, Jack Weston, and Brandon Maggart.\nA cast album was released by Original Cast Records.",
+        "source_url": "https://en.wikipedia.org/wiki/One_Night_Stand_(musical)",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -1109,98 +504,6 @@
         "modified": false
       }
     },
-    "princess-toto": {
-      "slug": "princess-toto",
-      "title": "Princess Toto",
-      "qid": "Q7244857",
-      "enwiki": "Princess Toto",
-      "composers": [],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Princess_Toto",
-        "wikidata": "https://www.wikidata.org/wiki/Q7244857"
-      },
-      "summary": {
-        "text": "Princess Toto is a three-act comic opera by W. S. Gilbert and his early collaborator Frederic Clay. Its pre-London tour opened on 24 June 1876 at the Theatre Royal, Nottingham, starring Kate Santley, W. S. Penley and J. H. Ryley. It transferred to the Royal Strand Theatre in London on 2 October 1876 for a run of only 48 performances. Brief New York and Boston runs followed in 1879–80 starring Leonora Braham and Ryley, and there were later tours in the US. Princess Toto was revived in 1881 at the Opera Comique in London for a run of 65 performances (starring Richard Temple). There was also an 1886 revival in Australia.",
-        "source_url": "https://en.wikipedia.org/wiki/Princess_Toto",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "prometheus-wagner-regeny": {
-      "slug": "prometheus-wagner-regeny",
-      "title": "Prometheus",
-      "qid": "Q7249725",
-      "enwiki": "Prometheus (Wagner-Régeny)",
-      "composers": [
-        {
-          "name": "Rudolf Wagner-Régeny",
-          "qid": "Q540323"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Rudolf Wagner-Régeny",
-          "qid": "Q540323"
-        }
-      ],
-      "premiere": {
-        "date": "1959-09-12",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Prometheus_(Wagner-R%C3%A9geny)",
-        "wikidata": "https://www.wikidata.org/wiki/Q7249725"
-      },
-      "summary": {
-        "text": "Prometheus is an operatic 'Szenisches Oratorium' (scenic oratorio) in five scenes by Rudolf Wagner-Régeny, with a German libretto by the composer after Aeschylus. The opera also uses Goethe's poem \"Prometheus\".",
-        "source_url": "https://en.wikipedia.org/wiki/Prometheus_(Wagner-R%C3%A9geny)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "sacco-and-vanzetti-blitzstein-opera": {
-      "slug": "sacco-and-vanzetti-blitzstein-opera",
-      "title": "Sacco and Vanzetti",
-      "qid": "Q110761550",
-      "enwiki": "Sacco and Vanzetti (Blitzstein opera)",
-      "composers": [
-        {
-          "name": "Leonard Lehrman",
-          "qid": "Q1819017"
-        },
-        {
-          "name": "Marc Blitzstein",
-          "qid": "Q918359",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7489"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Sacco_and_Vanzetti_(Blitzstein_opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q110761550"
-      },
-      "summary": {
-        "text": "Sacco and Vanzetti is a 2001 opera by Marc Blitzstein and Leonard Lehrman.",
-        "source_url": "https://en.wikipedia.org/wiki/Sacco_and_Vanzetti_(Blitzstein_opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "sunny-afternoon": {
       "slug": "sunny-afternoon",
       "title": "Sunny Afternoon",
@@ -1266,41 +569,6 @@
         "modified": false
       }
     },
-    "tarquin": {
-      "slug": "tarquin",
-      "title": "Tarquin",
-      "qid": "Q7686618",
-      "enwiki": "Tarquin (opera)",
-      "composers": [
-        {
-          "name": "Ernst Krenek",
-          "qid": "Q158436"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Emmet Lavery",
-          "qid": "Q3053022",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5401"
-        }
-      ],
-      "premiere": {
-        "date": "1950-07-16",
-        "venue": "Cologne"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Tarquin_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q7686618"
-      },
-      "summary": {
-        "text": "Tarquin is a chamber opera by Ernst Krenek to an English libretto by Emmet Lavery. Written in 1940, it is Krenek's only unpublished opera (Op. 90), though a premiere in German translation (by M.-C. Schulte-Strathaus & P. Funk rather than the composer) took place in 1950 in Cologne.",
-        "source_url": "https://en.wikipedia.org/wiki/Tarquin_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "the-great-big-radio-show": {
       "slug": "the-great-big-radio-show",
       "title": "The Great Big Radio Show!",
@@ -1349,40 +617,6 @@
         "modified": false
       }
     },
-    "the-greater-good-or-the-passion-of-boule-de-suif": {
-      "slug": "the-greater-good-or-the-passion-of-boule-de-suif",
-      "title": "The Greater Good, or the Passion of Boule de Suif",
-      "qid": "Q2047778",
-      "enwiki": "The Greater Good, or the Passion of Boule de Suif",
-      "composers": [
-        {
-          "name": "Stephen Hartke",
-          "qid": "Q7609438"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Philip Littell",
-          "qid": "Q108544520"
-        }
-      ],
-      "premiere": {
-        "date": "2006-07-23",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/The_Greater_Good%2C_or_the_Passion_of_Boule_de_Suif",
-        "wikidata": "https://www.wikidata.org/wiki/Q2047778"
-      },
-      "summary": {
-        "text": "The Greater Good, or the Passion of Boule de Suif is an opera in two acts by contemporary American composer Stephen Hartke, with an English libretto by Philip Littell, based on the short story Boule de Suif by Guy de Maupassant.  It was commissioned by the Glimmerglass Opera, and premiered on 22 July 2006 at Glimmerglass, in Cooperstown, New York.",
-        "source_url": "https://en.wikipedia.org/wiki/The_Greater_Good%2C_or_the_Passion_of_Boule_de_Suif",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "the-imbible": {
       "slug": "the-imbible",
       "title": "The Imbible",
@@ -1404,70 +638,6 @@
       "summary": {
         "text": "The Imbible is a series of educational entertainment musicals created and produced by Anthony Caporale through his production company Broadway Theatre Studio. Each installment tells a different story about the history, science, and culture of alcoholic beverages through music, comedy, audience interaction, and drink making demonstrations and tastings during the performances. \nThe first installment, The Imbible: A Spirited History of Drinking, features a book and new lyrics by Caporale, and original musical arrangements by Josh Ehrlich and Anthony Caporale. Known for creating the award-winning video podcasts Art of the Drink and Broadway Bartender, Caporale selected the music and created new arrangements with Ehrlich, an arranger for Voices of Gotham. \nThe Imbible: A Spirited History of Drinking tells the story of how Western civilization has been influenced by the introduction of alcohol consumption from 10,000 BC through the Craft cocktail movement. Caporale was originally supported in the lead role of The Bartender by a trio of waiters who also serve as clowns, Greek chorus, and round out the parts of a barbershop quartet called The Backwaiters. Caporale ultimately played 535 consecutive Off-Broadway performances before moving to an understudy role to focus on producing the series.",
         "source_url": "https://en.wikipedia.org/wiki/The_Imbible",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "the-times-are-racing": {
-      "slug": "the-times-are-racing",
-      "title": "The Times Are Racing",
-      "qid": "Q98592858",
-      "enwiki": "The Times Are Racing",
-      "composers": [
-        {
-          "name": "Dan Deacon",
-          "qid": "Q2279286"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "2017-01-26",
-        "venue": "David H. Koch Theater"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/The_Times_Are_Racing",
-        "wikidata": "https://www.wikidata.org/wiki/Q98592858"
-      },
-      "summary": {
-        "text": "The Times Are Racing is a one-act ballet by Justin Peck, to \"USA I-IV\" from Dan Deacon's album America, with costumes designed by Humberto Leon from the fashion label Opening Ceremony and lighting design by Brandon Stirling Baker. It premiered on January 26, 2017 at the David H. Koch Theater, danced by the New York City Ballet.",
-        "source_url": "https://en.wikipedia.org/wiki/The_Times_Are_Racing",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "the-turn-of-the-screw": {
-      "slug": "the-turn-of-the-screw",
-      "title": "The Turn of the Screw",
-      "qid": "Q464606",
-      "enwiki": "The Turn of the Screw (opera)",
-      "composers": [
-        {
-          "name": "Benjamin Britten",
-          "qid": "Q150767",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11434"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Myfanwy Piper",
-          "qid": "Q3331358"
-        }
-      ],
-      "premiere": {
-        "date": "1954-09-14",
-        "venue": "Teatro La Fenice"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/The_Turn_of_the_Screw_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q464606"
-      },
-      "summary": {
-        "text": "The Turn of the Screw, Op. 54, is a 20th-century English chamber opera composed by Benjamin Britten, with a libretto by Myfanwy Piper, based on the 1898 novella The Turn of the Screw by Henry James.\nIt concerns a young, inexperienced governess sent to a country house to care for two children, who she is gradually convinced have been corrupted by the ghosts of a previous manservant and governess. The drama grows increasingly tense, with a tragic outcome.\nIt has been described by The Guardian as one of the most dramatically appealing of Britten's operas, and by music professor Peter Evans as \"Britten's most intricately organized opera\". It is in two acts of eight scenes each, with a prologue that ends with the introduction of a twelve-note 'Screw' theme. Each scene is preceded by a variation on that theme. Several other related leitmotifs occur through the opera. Typically of Britten, the music mixes tonality and atonality.",
-        "source_url": "https://en.wikipedia.org/wiki/The_Turn_of_the_Screw_(opera)",
         "license": "CC BY-SA 4.0",
         "modified": false
       }

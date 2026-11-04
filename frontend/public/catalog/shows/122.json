@@ -1,4 +1,5 @@
 {
+  "live": true,
   "shows": {
     "alice-by-heart": {
       "slug": "alice-by-heart",
@@ -26,6 +27,56 @@
       "summary": {
         "text": "Alice by Heart is a musical with music by Duncan Sheik, lyrics by Steven Sater, and a book by Sater with Jessie Nelson. Inspired by the 1865 novel Alice's Adventures in Wonderland, the musical was originally presented in 2012 at the Royal National Theatre in London.",
         "source_url": "https://en.wikipedia.org/wiki/Alice_by_Heart",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "alice-in-wonderland": {
+      "slug": "alice-in-wonderland",
+      "title": "Alice in Wonderland",
+      "qid": "Q4726192",
+      "enwiki": "Alice in Wonderland (musical)",
+      "composers": [
+        {
+          "name": "Walter Slaughter",
+          "qid": "Q7966157",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9041"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Henry Savile Clarke",
+          "qid": "Q16522494"
+        },
+        {
+          "name": "Aubrey Hopwood",
+          "qid": "Q21000608",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/415924"
+        },
+        {
+          "name": "Lewis Carroll",
+          "qid": "Q38082",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7319"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Henry Savile Clarke",
+          "qid": "Q16522494"
+        }
+      ],
+      "premiere": {
+        "date": "1886-12-23",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Alice_in_Wonderland_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4726192"
+      },
+      "summary": {
+        "text": "Alice in Wonderland is a musical by Henry Savile Clarke (book and lyrics) and Walter Slaughter (music), based on Lewis Carroll's books Alice's Adventures in Wonderland (1865) and Through the Looking-Glass (1871). It debuted at the Prince of Wales's Theatre in the West End on 23 December 1886. Aubrey Hopwood (lyrics) and Walter Slaughter (music) wrote additional songs which were first used for the 1900 revival. \nThe piece, billed as \"A musical dream play in two acts\", achieved considerable popularity.  At Carroll's request, Slaughter retained the old tunes in the parodies such as \"Bonny Dundee\".",
+        "source_url": "https://en.wikipedia.org/wiki/Alice_in_Wonderland_(musical)",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -67,75 +118,6 @@
         "modified": false
       }
     },
-    "anacreon-rameau-1754": {
-      "slug": "anacreon-rameau-1754",
-      "title": "Anacréon",
-      "qid": "Q13420014",
-      "enwiki": "Anacréon (Rameau, 1754)",
-      "composers": [
-        {
-          "name": "Jean-Philippe Rameau",
-          "qid": "Q1145"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Louis de Cahusac",
-          "qid": "Q325083"
-        }
-      ],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Anacr%C3%A9on_(Rameau%2C_1754)",
-        "wikidata": "https://www.wikidata.org/wiki/Q13420014"
-      },
-      "summary": {
-        "text": "Anacréon is an opera by Jean-Philippe Rameau which  was first performed at Fontainebleau on 23 October 1754. Its libretto is by Louis de Cahusac. It takes the form of an acte de ballet in one act. Rameau also composed another Anacréon in 1757. The latter was an act added to a revival of the opéra-ballet Les surprises de l'Amour and has sometimes been performed and recorded as a stand-alone opera. It too features the Ancient Greek poet Anacreon as its hero, but the libretto (by Pierre-Joseph-Justin Bernard) and its plot are totally different.",
-        "source_url": "https://en.wikipedia.org/wiki/Anacr%C3%A9on_(Rameau%2C_1754)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "ariane-massenet": {
-      "slug": "ariane-massenet",
-      "title": "Ariane",
-      "qid": "Q2861176",
-      "enwiki": "Ariane (Massenet)",
-      "composers": [
-        {
-          "name": "Jules Massenet",
-          "qid": "Q194436",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/87555"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Catulle Mendès",
-          "qid": "Q971215"
-        }
-      ],
-      "premiere": {
-        "date": "1906-10-31",
-        "venue": "Palais Garnier"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Ariane_(Massenet)",
-        "wikidata": "https://www.wikidata.org/wiki/Q2861176"
-      },
-      "summary": {
-        "text": "Ariane is an opera in five acts by Jules Massenet to a French libretto by Catulle Mendès after Greek mythology (the tale of Ariadne).  It was first performed at the Palais Garnier in Paris on 31 October 1906, with Lucienne Bréval in the title role.",
-        "source_url": "https://en.wikipedia.org/wiki/Ariane_(Massenet)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "attack-of-the-elvis-impersonators": {
       "slug": "attack-of-the-elvis-impersonators",
       "title": "Attack of the Elvis Impersonators",
@@ -156,40 +138,6 @@
       "summary": {
         "text": "Attack of the Elvis Impersonators is a 2017 Off-Broadway musical-parody with a book, music and lyrics by Lory Lazarus. The musical features original songs based on the music of singer Elvis Presley. It was inspired by Elvis impersonator culture.",
         "source_url": "https://en.wikipedia.org/wiki/Attack_of_the_Elvis_Impersonators",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "attilio-regolo": {
-      "slug": "attilio-regolo",
-      "title": "Attilio Regolo",
-      "qid": "Q5710835",
-      "enwiki": "Attilio Regolo (Hasse)",
-      "composers": [
-        {
-          "name": "Johann Adolf Hasse",
-          "qid": "Q164732"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Pietro Metastasio",
-          "qid": "Q29473"
-        }
-      ],
-      "premiere": {
-        "date": "1750-01-12",
-        "venue": "Opernhaus am Zwinger"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Attilio_Regolo_(Hasse)",
-        "wikidata": "https://www.wikidata.org/wiki/Q5710835"
-      },
-      "summary": {
-        "text": "Attilio Regolo is an Italian-language opera seria by Johann Adolph Hasse based on the story of Marcus Atilius Regulus, a Roman general taken prisoner in Carthage who elects death rather than ransom. It has been acknowledged as a masterpiece of libretto writing, and is a paragon for the genre of opera seria. Pietro Metastasio wrote the libretto in 1740 for the name day of the emperor Charles VI, but the emperor's illness, then death, prevented the opera from being performed. \nMetastasio continued to work on the libretto intermittently over the next nine years, having it performed several times under Empress Maria Theresa as a spoken play. In 1749, at the request of King Frederick Augustus II of Saxony, Metastasio famously supplied exacting notes to Hasse for its setting in music, despite the composer's having set several Metastasio librettos before. Hasse completed the score within three months of these instructions. It was not until 12 January 1750 that the premiere took place, at the Opernhaus am Zwinger in Dresden. The role of Regolo was taken by the castrato Domenico Annibali, while the role of Attilia was composed for Hasse's wife Faustina Bordoni.",
-        "source_url": "https://en.wikipedia.org/wiki/Attilio_Regolo_(Hasse)",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -235,41 +183,6 @@
       "summary": {
         "text": "Bat Boy: The Musical is an American horror rock musical with a book by Keythe Farley and Brian Flemming and music and lyrics by Laurence O'Keefe, based on a June 23, 1992 Weekly World News story about a half-boy, half-bat, dubbed \"Bat Boy\", who grew up living in a cave.\nBat Boy premiered at Actors' Gang Theatre in 1997 and has since been produced off-Broadway, in London's West End, at the Edinburgh Festival and in scores of productions throughout the world.",
         "source_url": "https://en.wikipedia.org/wiki/Bat_Boy%3A_The_Musical",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "berenice-opera": {
-      "slug": "berenice-opera",
-      "title": "Berenice",
-      "qid": "Q381427",
-      "enwiki": "Berenice (opera)",
-      "composers": [
-        {
-          "name": "George Frideric Handel",
-          "qid": "Q7302",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/89505"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Antonio Salvi",
-          "qid": "Q604920"
-        }
-      ],
-      "premiere": {
-        "date": "1737-05-18",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Berenice_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q381427"
-      },
-      "summary": {
-        "text": "Berenice (HWV 38) is an opera in three acts by George Frideric Handel to a 1709 Antonio Salvi libretto, Berenice, regina d'Egitto, or Berenice, Queen of Egypt. Handel began the music in December 1736; the premiere took place at Covent Garden Theatre in London on 18 May 1737 — but was unsuccessful, with just three further performances. Set circa 81 B.C., Berenice traces the life of Berenice III of Egypt, daughter of Ptolemy IX, the main character in another Handel opera, Tolomeo.",
-        "source_url": "https://en.wikipedia.org/wiki/Berenice_(opera)",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -333,233 +246,6 @@
         "modified": false
       }
     },
-    "der-langwierige-weg-in-die-wohnung-der-natascha-ungeheuer": {
-      "slug": "der-langwierige-weg-in-die-wohnung-der-natascha-ungeheuer",
-      "title": "Der langwierige Weg in die Wohnung der Natascha Ungeheuer",
-      "qid": "Q5261263",
-      "enwiki": "Der langwierige Weg in die Wohnung der Natascha Ungeheuer",
-      "composers": [
-        {
-          "name": "Hans Werner Henze",
-          "qid": "Q76915"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "1971-05-17",
-        "venue": "Teatro Olimpico"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Der_langwierige_Weg_in_die_Wohnung_der_Natascha_Ungeheuer",
-        "wikidata": "https://www.wikidata.org/wiki/Q5261263"
-      },
-      "summary": {
-        "text": "Der langwierige Weg in die Wohnung der Natascha Ungeheuer (The Tedious Way to the Place of Natascha Ungeheuer) is a composition by the German composer Hans Werner Henze. It represents one of the most outré examples of his early socialism-inspired works.",
-        "source_url": "https://en.wikipedia.org/wiki/Der_langwierige_Weg_in_die_Wohnung_der_Natascha_Ungeheuer",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "der-roland-von-berlin": {
-      "slug": "der-roland-von-berlin",
-      "title": "Der Roland von Berlin",
-      "qid": "Q3705783",
-      "enwiki": "Der Roland von Berlin (opera)",
-      "composers": [
-        {
-          "name": "Ruggero Leoncavallo",
-          "qid": "Q189015",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12047"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Ruggero Leoncavallo",
-          "qid": "Q189015",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12047"
-        }
-      ],
-      "premiere": {
-        "date": "1904-12-13",
-        "venue": "Berlin State Opera"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Der_Roland_von_Berlin_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q3705783"
-      },
-      "summary": {
-        "text": "Der Roland von Berlin is an opera in four acts by composer Ruggero Leoncavallo. The work uses a German-language libretto by Leoncavallo which is based on Willibald Alexis's 1840 historical novel of the same name. The opera premiered at the Königliches Opernhaus in Berlin on 13 December 1904. Its premiere in Italy was given at the Teatro di San Carlo in Naples the following month where it was sung in Italian with the title Rolando.",
-        "source_url": "https://en.wikipedia.org/wiki/Der_Roland_von_Berlin_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "derby-day": {
-      "slug": "derby-day",
-      "title": "Derby Day",
-      "qid": "Q8012841",
-      "enwiki": "Derby Day (light opera)",
-      "composers": [],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": "Lyric Theatre"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Derby_Day_(light_opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q8012841"
-      },
-      "summary": {
-        "text": "Derby Day is a 1932 three-act light opera, with music composed by Alfred Reynolds to a libretto by A. P. Herbert.  Herbert wrote his text between March and May 1931, whilst on a trip to Australia, during the first run of his successful Tantivy Towers.\nOne contemporary review described the work as \"mainly a Cockney opera\", and praised the work as \"topical in the best sense\" and said of the music:\n\nI do not know if Mr. Reynolds is himself a Cockney, but I do know that his Cockney music, particularly in the coster scenes, is the best that has ever been written.\nIn particular, the song for the tipster, \"'Oo wants a winner for the big race tomorrer?\", has been singled out for particular praise as a musical expression of the Cockney.",
-        "source_url": "https://en.wikipedia.org/wiki/Derby_Day_(light_opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "die-forsterchristl": {
-      "slug": "die-forsterchristl",
-      "title": "Die Försterchristl",
-      "qid": "Q1212817",
-      "enwiki": "Die Försterchristl",
-      "composers": [
-        {
-          "name": "Georg Jarno",
-          "qid": "Q359500",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11929"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Bernhard Buchbinder",
-          "qid": "Q824822",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4499"
-        }
-      ],
-      "premiere": {
-        "date": "1907-12-17",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Die_F%C3%B6rsterchristl",
-        "wikidata": "https://www.wikidata.org/wiki/Q1212817"
-      },
-      "summary": {
-        "text": "Die Försterchristl (also Die Försterchristel) is an operetta in three acts by Georg Jarno to a libretto by Bernhard Buchbinder. It premiered on 17 December 1907 at the Theater in der Josefstadt in Vienna. Three years later, its English version by librettist Leonard Liebling had a run of 64 performances at Broadway's Herald Square Theatre in 1910/11 under the title The Girl and the Kaiser. The work is known in English as The Girl and the Kaiser, The Bohemian Dancer, The Forester's Daughter and in French as La petite amie de sa majesté and Christelle et l'empereur.",
-        "source_url": "https://en.wikipedia.org/wiki/Die_F%C3%B6rsterchristl",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "die-stadt-hinter-dem-strom": {
-      "slug": "die-stadt-hinter-dem-strom",
-      "title": "Die Stadt hinter dem Strom",
-      "qid": "Q5274442",
-      "enwiki": "Die Stadt hinter dem Strom (opera)",
-      "composers": [
-        {
-          "name": "Hans Vogt",
-          "qid": "Q1582893"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Hermann Kasack",
-          "qid": "Q77708"
-        }
-      ],
-      "premiere": {
-        "date": null,
-        "venue": "Hessisches Staatstheater Wiesbaden"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Die_Stadt_hinter_dem_Strom_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q5274442"
-      },
-      "summary": {
-        "text": "Die Stadt hinter dem Strom (The City Beyond the River) is a German-language oratorio-opera in three acts composed by Hans Vogt to a libretto by Hermann Kasack based on his 1947 dystopian novel Die Stadt hinter dem Strom.",
-        "source_url": "https://en.wikipedia.org/wiki/Die_Stadt_hinter_dem_Strom_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "die-wundersame-schustersfrau": {
-      "slug": "die-wundersame-schustersfrau",
-      "title": "Die wundersame Schustersfrau",
-      "qid": "Q29575325",
-      "enwiki": "Die wundersame Schustersfrau",
-      "composers": [
-        {
-          "name": "Udo Zimmermann",
-          "qid": "Q561954"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Udo Zimmermann",
-          "qid": "Q561954"
-        }
-      ],
-      "premiere": {
-        "date": "1982-04-25",
-        "venue": "Schlosstheater Schwetzingen"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Die_wundersame_Schustersfrau",
-        "wikidata": "https://www.wikidata.org/wiki/Q29575325"
-      },
-      "summary": {
-        "text": "Die wundersame Schustersfrau (The Wondrous Cobbler's Wife) is an opera in two acts by Udo Zimmermann, with a libretto which he wrote with Eberhard Schmidt based on the 1930 Spanish play La zapatera prodigiosa, a farsa violenta by Federico García Lorca, in the translation by Enrique Beck. The opera was first performed on 25 April 1982 at the Schlosstheater Schwetzingen, staged by Alfred Kirchner.",
-        "source_url": "https://en.wikipedia.org/wiki/Die_wundersame_Schustersfrau",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "doctor-ox-s-experiment": {
-      "slug": "doctor-ox-s-experiment",
-      "title": "Doctor Ox's Experiment",
-      "qid": "Q5287367",
-      "enwiki": "Doctor Ox's Experiment (opera)",
-      "composers": [
-        {
-          "name": "Gavin Bryars",
-          "qid": "Q713939"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Blake Morrison",
-          "qid": "Q3640836"
-        }
-      ],
-      "premiere": {
-        "date": null,
-        "venue": "London Coliseum"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Doctor_Ox's_Experiment_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q5287367"
-      },
-      "summary": {
-        "text": "Doctor Ox's Experiment is an opera in two acts by Gavin Bryars. It has an English-language libretto by Blake Morrison after the novella of the same name by Jules Verne. It was first performed on 15 June 1998 at the London Coliseum by English National Opera (ENO) who co-commissioned the opera with BBC Television.\nIn the experiment of the title, Doctor Ox introduces a gas into a sedate and conservative Flemish village with the result that everyone and everything becomes speeded up and chaotic. (Ox's and his assistant's names combine to make Oxygėne, the French name for Oxygen.)` The opera explores the conflict between Ox's advocacy of modernity and scientific and political change and Ygène's  belief that liberation and the accompanying loss of the traditional rhythms of life might bring unhappiness.\nThe music is predominantly slow-moving and quiet. Bryars allocated distinct voice types to the different types of roles: town elders, young lovers and scientists. He also included some unusual instruments in his orchestra: an oboe d'amore and an amplified jazz bass in the love scene, an electronic keyboard and a flugelhorn instead of trumpets in the brass section. The  reception was mixed with several critics complaining of boredom while others wrote of members of the audience being entranced by the music.",
-        "source_url": "https://en.wikipedia.org/wiki/Doctor_Ox's_Experiment_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "elvis": {
       "slug": "elvis",
       "title": "Elvis",
@@ -586,46 +272,6 @@
       "summary": {
         "text": "Elvis is a jukebox musical based upon the life of American singer Elvis Presley, conceived by and Ray Cooney (producer and co-devisor) and Jack Good (director and co-devisor). It tells the story of Elvis's life and career, from the beginning until his death. The original cast included Shakin' Stevens, who later became the top-selling UK singles artist of the 1980s, and Tracey Ullman.",
         "source_url": "https://en.wikipedia.org/wiki/Elvis_(musical)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "fierrabras": {
-      "slug": "fierrabras",
-      "title": "Fierrabras",
-      "qid": "Q201295",
-      "enwiki": "Fierrabras",
-      "composers": [
-        {
-          "name": "Franz Schubert",
-          "qid": "Q7312",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12366"
-        }
-      ],
-      "lyricists": [
-        {
-          "name": "Josef Kupelwieser",
-          "qid": "Q89961"
-        }
-      ],
-      "librettists": [
-        {
-          "name": "Josef Kupelwieser",
-          "qid": "Q89961"
-        }
-      ],
-      "premiere": {
-        "date": "1897-02-09",
-        "venue": "Baden Court Theatre"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Fierrabras",
-        "wikidata": "https://www.wikidata.org/wiki/Q201295"
-      },
-      "summary": {
-        "text": "Fierrabras, D 796, is a three-act German opera with spoken dialogue written by the composer Franz Schubert in 1823, to a libretto by Joseph Kupelwieser, the general manager of the Theater am Kärntnertor (Vienna's Court Opera Theatre). Like Alfonso und Estrella (1822), it marks Schubert's attempt to compose a grand Romantic opera in German, departing from the Singspiel tradition. It had to wait until 1897 for a (relatively) complete performance.",
-        "source_url": "https://en.wikipedia.org/wiki/Fierrabras",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -710,75 +356,6 @@
         "modified": false
       }
     },
-    "gabriella-di-vergy": {
-      "slug": "gabriella-di-vergy",
-      "title": "Gabriella di Vergy",
-      "qid": "Q914134",
-      "enwiki": "Gabriella di Vergy",
-      "composers": [
-        {
-          "name": "Gaetano Donizetti",
-          "qid": "Q101698",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/82838"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Andrea Leone Tottola",
-          "qid": "Q1152842"
-        }
-      ],
-      "premiere": {
-        "date": "1869-11-29",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Gabriella_di_Vergy",
-        "wikidata": "https://www.wikidata.org/wiki/Q914134"
-      },
-      "summary": {
-        "text": "Gabriella di Vergy is an opera seria in two acts by Gaetano Donizetti written in 1826 and revised in 1838, from a libretto by Andrea Leone Tottola, which was based on the tragedy Gabrielle de Vergy (1777) by Dormont De Belloy. Prior to that, the play was itself inspired by two French medieval legends, Le châtelain de Coucy et la dame de Fayel and Le Roman de la chastelaine de Vergy.\nThe story had already been the subject of an opera by Michele Carafa (1816) and had previously been used by Johann Simon Mayr (Raul di Créqui, Milan, 1809), Francesco Morlacchi (Raoul de Créqui, Dresden, 1811), and Carlo Coccia (Fayel, Florence, 1817). It was also subsequently used as Gabriella di Vergy by Saverio Mercadante in 1828.\n\"In its original form the opera was never performed\", but parts of the original version were re-used by Donizetti in his other operas Otto mesi in due ore (Naples, 1827), L’esule di Roma (Naples 1828), Il paria (Naples 1829) and Anna Bolena. For the revised version, Donizetti revisited Gabriella di Vergy and incorporated into the opera parts of Ugo, conte di Parigi (Milan 1832), Rosmonda d'Inghilterra (Florence 1834) and Maria de Rudenz (Venice 1838).",
-        "source_url": "https://en.wikipedia.org/wiki/Gabriella_di_Vergy",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "gul-baba": {
-      "slug": "gul-baba",
-      "title": "Gül Baba",
-      "qid": "Q4176959",
-      "enwiki": "Gül Baba (operetta)",
-      "composers": [
-        {
-          "name": "Jenő Huszka",
-          "qid": "Q854729"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Ferenc Martos",
-          "qid": "Q12765772"
-        }
-      ],
-      "premiere": {
-        "date": "1905-12-06",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/G%C3%BCl_Baba_(operetta)",
-        "wikidata": "https://www.wikidata.org/wiki/Q4176959"
-      },
-      "summary": {
-        "text": "Gül Baba is an operetta by Jenő Huszka in three acts. It was premiered on 6 December 1905 at Király Színház in Budapest, Hungary. The story is set in the 16th century Turkish invasion of Hungary. The libretto is by Ferenc Martos.",
-        "source_url": "https://en.wikipedia.org/wiki/G%C3%BCl_Baba_(operetta)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "half-a-sixpence": {
       "slug": "half-a-sixpence",
       "title": "Half a Sixpence",
@@ -818,64 +395,6 @@
       "summary": {
         "text": "Half a Sixpence is a 1963 musical comedy based on the 1905 novel Kipps by H. G. Wells, with music and lyrics by David Heneker and a book by Beverley Cross. It was written as a vehicle for British pop star Tommy Steele.",
         "source_url": "https://en.wikipedia.org/wiki/Half_a_Sixpence",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "hesione": {
-      "slug": "hesione",
-      "title": "Hésione",
-      "qid": "Q3145091",
-      "enwiki": "Hésione",
-      "composers": [
-        {
-          "name": "André Campra",
-          "qid": "Q313860"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Antoine Danchet",
-          "qid": "Q585987"
-        }
-      ],
-      "premiere": {
-        "date": null,
-        "venue": "Paris Opera"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/H%C3%A9sione",
-        "wikidata": "https://www.wikidata.org/wiki/Q3145091"
-      },
-      "summary": {
-        "text": "Hésione (English: Hesione) is an opera by the French composer André Campra. It takes the form of a tragédie en musique in a prologue and five acts. The libretto, by Antoine Danchet, is based on the Greek myth of Hesione and Laomedon.",
-        "source_url": "https://en.wikipedia.org/wiki/H%C3%A9sione",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "hua-ziliang": {
-      "slug": "hua-ziliang",
-      "title": "Hua Ziliang",
-      "qid": "Q48996718",
-      "enwiki": "Hua Ziliang (Peking opera)",
-      "composers": [],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Hua_Ziliang_(Peking_opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q48996718"
-      },
-      "summary": {
-        "text": "Red Crag  or Red Rock (Chinese: 红岩; pinyin: Hóngyán) was a 1961 novel based partly on fact by Chinese authors Luo Guangbin and Yang Yiyan, who were former inmates in a Kuomintang prison in Sichuan. It was set in Chongqing during the Chinese Civil War in 1949, and featured underground communist agents under the command of Zhou Enlai fighting an espionage battle against the Kuomintang.\nThe main protagonist Jiang Xueqin, or \"Sister Jiang\" (Chinese: 江姐; pinyin: Jiāng Jiě), is based on the Communist revolutionary Jiang Zhuyun (1920–1949). The novel contains a major scene in which Sister Jiang and fellow prisoners learn embroider the national flag together upon learning of the establishment of the People's Republic of China.\nThe novel contained a highly negative portrayal for the Sino-American Cooperative Organization, as responsible for the running prisons jailing communists and other political dissidents, although in reality they were actually run by the KMT secret police service BIS, and had no American involvement. \nXujun Eberlein wrote in The Atlantic that \"The novel played a critical role in the heroism culture of the Mao era.\"\nThe book includes a poem that was attributed to, but was not written by, the revolutionary \"martyr\" Chen Ran (陈然, 1923－1949).",
-        "source_url": "https://en.wikipedia.org/wiki/Hua_Ziliang_(Peking_opera)",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -920,264 +439,6 @@
         "modified": false
       }
     },
-    "i-disingannati": {
-      "slug": "i-disingannati",
-      "title": "I disingannati",
-      "qid": "Q28228848",
-      "enwiki": "I disingannati",
-      "composers": [
-        {
-          "name": "Antonio Caldara",
-          "qid": "Q311571"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Giovanni Claudio Pasquini",
-          "qid": "Q21036554"
-        }
-      ],
-      "premiere": {
-        "date": "1729-02-08",
-        "venue": "Vienna"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/I_disingannati",
-        "wikidata": "https://www.wikidata.org/wiki/Q28228848"
-      },
-      "summary": {
-        "text": "I disingannati (The Undeceived) is a comic opera in three acts composed by Antonio Caldara to an Italian libretto by Giovanni Claudio Pasquini based on Molière's play Le Misanthrope. It premiered on  8 February 1729 at the court theater in Vienna.\nAmongst its revivals in modern times was the 1993 production at the Innsbruck Festival of Early Music conducted by Sigiswald Kuijken.",
-        "source_url": "https://en.wikipedia.org/wiki/I_disingannati",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "judith-ballet": {
-      "slug": "judith-ballet",
-      "title": "Judith",
-      "qid": "Q25217452",
-      "enwiki": "Judith (ballet)",
-      "composers": [
-        {
-          "name": "William Schuman",
-          "qid": "Q503225"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Judith_(ballet)",
-        "wikidata": "https://www.wikidata.org/wiki/Q25217452"
-      },
-      "summary": {
-        "text": "Judith is a solo work created by dancer/choreographer Martha Graham. William Schuman composed the music. Charles Hyman designed the original set, which was replaced almost immediately by one conceived by Isamu Noguchi. He also added jewelry and a headdress. Jean Rosenthal provided the lighting. The piece premiered on January 4, 1950, at the Columbia Auditorium in Louisville, Kentucky.",
-        "source_url": "https://en.wikipedia.org/wiki/Judith_(ballet)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "kammermusik-no-2": {
-      "slug": "kammermusik-no-2",
-      "title": "Kammermusik No. 2",
-      "qid": "Q107133128",
-      "enwiki": "Kammermusik No. 2 (ballet)",
-      "composers": [],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "1978-01-26",
-        "venue": "David H. Koch Theater"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Kammermusik_No._2_(ballet)",
-        "wikidata": "https://www.wikidata.org/wiki/Q107133128"
-      },
-      "summary": {
-        "text": "Kammermusik No. 2 is a ballet choreographed by George Balanchine to Paul Hindemith's music of the same name. The ballet premiered on January 26, 1978, at the New York State Theater, danced by the New York City Ballet.",
-        "source_url": "https://en.wikipedia.org/wiki/Kammermusik_No._2_(ballet)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "king-harald-s-saga": {
-      "slug": "king-harald-s-saga",
-      "title": "King Harald's Saga",
-      "qid": "Q6411688",
-      "enwiki": "King Harald's Saga",
-      "composers": [],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/King_Harald's_Saga",
-        "wikidata": "https://www.wikidata.org/wiki/Q6411688"
-      },
-      "summary": {
-        "text": "King Harald's Saga, Grand opera in three acts for unaccompanied solo soprano singing eight rôles (based on the saga 'Heimskringla' by Snorri Sturlson, 1179-1241) is a monodrama by Judith Weir, commissioned by Jane Manning and premiered on 17 May 1979.  The score was published by Novello in 1982, and lasts under ten minutes, making it one of the shortest operas, and is possibly unique in having no instrumental accompaniment.",
-        "source_url": "https://en.wikipedia.org/wiki/King_Harald's_Saga",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "koza-dereza": {
-      "slug": "koza-dereza",
-      "title": "Koza-dereza",
-      "qid": "Q46972989",
-      "enwiki": "Koza-dereza",
-      "composers": [
-        {
-          "name": "Mykola Lysenko",
-          "qid": "Q172425"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Dniprova Chayka",
-          "qid": "Q4163309"
-        }
-      ],
-      "premiere": {
-        "date": "1890",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Koza-dereza",
-        "wikidata": "https://www.wikidata.org/wiki/Q46972989"
-      },
-      "summary": {
-        "text": "Koza-dereza (Ukrainian: «Коза-дереза») is a children's opera in one act by the Ukrainian composer Mykola Lysenko written in 1888 and first performed in 1890 in Lysenko's home in Kyiv.",
-        "source_url": "https://en.wikipedia.org/wiki/Koza-dereza",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "kuningas-lear": {
-      "slug": "kuningas-lear",
-      "title": "Kuningas Lear",
-      "qid": "Q6444716",
-      "enwiki": "Kuningas Lear",
-      "composers": [
-        {
-          "name": "Aulis Sallinen",
-          "qid": "Q542194"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Matti Rossi",
-          "qid": "Q11881693"
-        },
-        {
-          "name": "Aulis Sallinen",
-          "qid": "Q542194"
-        }
-      ],
-      "premiere": {
-        "date": "2000-09-15",
-        "venue": "Finnish National Opera"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Kuningas_Lear",
-        "wikidata": "https://www.wikidata.org/wiki/Q6444716"
-      },
-      "summary": {
-        "text": "Kuningas Lear (King Lear) is an opera in two acts by Aulis Sallinen, with a libretto by the composer, based on the play by William Shakespeare and premiered in 2000; it was Sallinen's sixth opera.",
-        "source_url": "https://en.wikipedia.org/wiki/Kuningas_Lear",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "l-olimpiade-vivaldi": {
-      "slug": "l-olimpiade-vivaldi",
-      "title": "L'Olimpiade",
-      "qid": "Q785528",
-      "enwiki": "L'Olimpiade (Vivaldi)",
-      "composers": [
-        {
-          "name": "Antonio Vivaldi",
-          "qid": "Q1340"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Pietro Metastasio",
-          "qid": "Q29473"
-        }
-      ],
-      "premiere": {
-        "date": "1734-02-17",
-        "venue": "Teatro San Angelo"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/L'Olimpiade_(Vivaldi)",
-        "wikidata": "https://www.wikidata.org/wiki/Q785528"
-      },
-      "summary": {
-        "text": "L'Olimpiade (The Olympiad, RV 725) is a dramma per musica in three acts that was composed by Antonio Vivaldi. The opera uses an Italian libretto by Pietro Metastasio that was originally written for Antonio Caldara's 1733 opera of the same name. Vivaldi's version premiered in Venice at the Teatro Sant'Angelo on 17 February 1734. The same libretto was to be later set to music by over 50 other composers, including Giovanni Battista Pergolesi in 1735.",
-        "source_url": "https://en.wikipedia.org/wiki/L'Olimpiade_(Vivaldi)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "le-financier-et-le-savetier": {
-      "slug": "le-financier-et-le-savetier",
-      "title": "Le financier et le savetier",
-      "qid": "Q6508019",
-      "enwiki": "Le financier et le savetier",
-      "composers": [
-        {
-          "name": "Jacques Offenbach",
-          "qid": "Q41555",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7941"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Hector Crémieux",
-          "qid": "Q1334216",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/434784"
-        },
-        {
-          "name": "Edmond François Valentin About",
-          "qid": "Q361004",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/87703"
-        }
-      ],
-      "premiere": {
-        "date": "1856-09-23",
-        "venue": "Théâtre des Bouffes-Parisiens"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Le_financier_et_le_savetier",
-        "wikidata": "https://www.wikidata.org/wiki/Q6508019"
-      },
-      "summary": {
-        "text": "Le financier et le savetier (The financier and the cobbler) is a one-act opérette bouffe of 1856 with words by Hector Crémieux and Edmond About, and music by Jacques Offenbach, based on the poem by La Fontaine. In 1842 Offenbach had set The Cobbler and the Financier (Le Savetier et le Financier) among a set of six fables of La Fontaine.",
-        "source_url": "https://en.wikipedia.org/wiki/Le_financier_et_le_savetier",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "leader-of-the-pack": {
       "slug": "leader-of-the-pack",
       "title": "Leader of the Pack",
@@ -1217,71 +478,6 @@
       "summary": {
         "text": "Leader of the Pack is a 1984 American jukebox musical based on the life and music of singer/songwriter Ellie Greenwich. The musical tells the story of Greenwich's career and personal life from the 1950s to the 1980s, using songs written or co-written by Greenwich, along with Jeff Barry, Phil Spector, George \"Shadow\" Morton, Jeff Kent, and Ellen Foley. The musical was based on an original concept by Melanie Mintz, and the book (referred to as the \"liner notes\") was written by Anne Beatts, with additional material by Jack Heifner.\nThe musical had a brief off-Broadway run in 1984, followed by a 120-performance Broadway run in 1985. The Broadway production had a lengthy preview period, during which the musical was retooled and much of the spoken dialogue was cut, turning Leader of the Pack into more of a revue. In both productions, the young Ellie was played by Dinah Manoff, while Greenwich herself appeared as the older Ellie. Annie Golden and Darlene Love, both of them Greenwich's real-life friends and collaborators, also appeared as themselves; Love was the original 1960s recording artist of some of the songs heard in the musical.",
         "source_url": "https://en.wikipedia.org/wiki/Leader_of_the_Pack_(musical)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "les-surprises-de-l-amour": {
-      "slug": "les-surprises-de-l-amour",
-      "title": "Les surprises de l'Amour",
-      "qid": "Q1760494",
-      "enwiki": "Les surprises de l'Amour",
-      "composers": [
-        {
-          "name": "Jean-Philippe Rameau",
-          "qid": "Q1145"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "1748-11-27",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Les_surprises_de_l'Amour",
-        "wikidata": "https://www.wikidata.org/wiki/Q1760494"
-      },
-      "summary": {
-        "text": "Les surprises de l'Amour is an opéra-ballet in two entrées (three or four in later versions) and a prologue by the French composer Jean-Philippe Rameau. It was first performed in Versailles on 27 November 1748. The opera is set to a libretto by Gentil-Bernard. According to the usage of the time, it was originally just billed as a ballet and was only later classified by scholars as an opéra-ballet, although its content might more precisely ascribe it to the ballet héroïque genre.\nThe original 1748 version consisted of a prologue and two entrées (acts), \"La lyre enchantée\" and \"Adonis\". For its 1757 revival, Rameau cut the prologue and added a third entrée, \"Anacréon\". The composer had written another opera under the title Anacréon in 1754. The earlier work has a libretto by Louis de Cahusac and a completely different plot. Both are linked by the figure of the ancient Greek lyric poet Anacreon. William Christie and Marc Minkowski have recorded the 1757 Anacréon separately. The complete 1757 Les surprises de l'Amour did not appear on disc until Sébastien d'Hérin's recording in 2013.",
-        "source_url": "https://en.wikipedia.org/wiki/Les_surprises_de_l'Amour",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "mavra": {
-      "slug": "mavra",
-      "title": "Mavra",
-      "qid": "Q1911979",
-      "enwiki": "Mavra",
-      "composers": [
-        {
-          "name": "Igor Stravinsky",
-          "qid": "Q7314",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12461"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Boris Kochno",
-          "qid": "Q893693",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4580"
-        }
-      ],
-      "premiere": {
-        "date": "1922-06-03",
-        "venue": "Paris"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Mavra",
-        "wikidata": "https://www.wikidata.org/wiki/Q1911979"
-      },
-      "summary": {
-        "text": "Mavra (Russian: Мавра) is a one-act comic opera composed by Igor Stravinsky, and one of the earliest works of Stravinsky's neo-classical period. The libretto, by Boris Kochno, is based on Alexander Pushkin's The Little House in Kolomna. Mavra is about 25 minutes long, and features two arias, a duet, and a quartet performed by its cast of four characters. The opera has been characterised as both an homage to Russian writers, and a satire of bourgeois manners and the Romeo and Juliet subgenre of romance. Philip Truman has also described the music as satirising 19th-century comic opera. The dedication on the score is to the memory of Pushkin, Glinka and Pyotr Ilyich Tchaikovsky.\nMavra premiered at the Théatre national de l'Opéra in Paris on 3 June 1922, under the auspices of Sergei Diaghilev, staged and choreographed by Bronislava Nijinska, conducted by Grzegorz Fitelberg, and with Oda Slobodskaya, Stefan Belina-Skupevsky, Zoya Rozovskaya, and Yelena Sadoven in the original cast.\nThe opera was a failure at the premiere, partly because the large space of the Paris Opéra overwhelmed the small scale of the opera. One critic, Émile Vuillermoz, so enraged Stravinsky that he cut the review out and pasted it onto his manuscript copy.\nStravinsky himself thought very highly of this composition, saying once that \"Mavra seems to me the best thing I've done\". Erik Satie praised the work after its premiere. The composer reacted with hostility to people who criticized it in later years.\nThe opera was given its United States premiere by the Philadelphia Grand Opera Company at the Academy of Music, Philadelphia on December 28, 1934 with Maria Kurenko as Parasha and Alexander Smallens conducting. The Santa Fe Opera mounted Mavra in 1962.\nThe first aria of the work has been arranged for cello and piano, and recorded with Mstislav Rostropovich under the title \"Russian Song\".",
-        "source_url": "https://en.wikipedia.org/wiki/Mavra",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -1335,30 +531,6 @@
         "modified": false
       }
     },
-    "pyrrhus": {
-      "slug": "pyrrhus",
-      "title": "Pyrrhus",
-      "qid": "Q16938649",
-      "enwiki": "Pyrrhus (Royer)",
-      "composers": [],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "1730-10-26",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Pyrrhus_(Royer)",
-        "wikidata": "https://www.wikidata.org/wiki/Q16938649"
-      },
-      "summary": {
-        "text": "Pyrrhus is an opera by the French composer Joseph-Nicolas-Pancrace Royer, first performed at the Académie Royale de Musique (the Paris Opera) on 26 October 1730. It takes the form of a tragédie en musique in a prologue and five acts. The libretto, by Fermelhuis, is based on the Greek myth of Pyrrhus, son of Achilles.\nThe opera was revived at Versailles on 16 September 2012. The performance was recorded and subsequently released in 2014.",
-        "source_url": "https://en.wikipedia.org/wiki/Pyrrhus_(Royer)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "robin-des-bois": {
       "slug": "robin-des-bois",
       "title": "Robin des Bois",
@@ -1385,40 +557,6 @@
       "summary": {
         "text": "Robin des Bois (full title Robin des Bois: Ne renoncez jamais) is a French musical with mise en scène by Michel Laprise and text and music by Patrice Guirao and Lionel Florence. It premiered on 26 September 2013 at Palais des congrès de Paris and played until 5 January 2014 with French singer M. Pokora in the role of Robin Hood.",
         "source_url": "https://en.wikipedia.org/wiki/Robin_des_Bois",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "rumi": {
-      "slug": "rumi",
-      "title": "Rumi",
-      "qid": "Q5772435",
-      "enwiki": "Rumi (opera)",
-      "composers": [
-        {
-          "name": "Behzad Abdi",
-          "qid": "Q5959594"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Behruz Gharibpur",
-          "qid": "Q37450"
-        }
-      ],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Rumi_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q5772435"
-      },
-      "summary": {
-        "text": "Rumi is a Persian-language opera by Iranian composer Behzad Abdi to a libretto by puppet theatre director Behrouz Gharibpour. The opera combines Persian traditional dastgāh modal system and sama dance with Western music. The libretto is based on the story of Shams and Rumi.",
-        "source_url": "https://en.wikipedia.org/wiki/Rumi_(opera)",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -1541,73 +679,6 @@
         "modified": false
       }
     },
-    "the-exterminating-angel": {
-      "slug": "the-exterminating-angel",
-      "title": "The Exterminating Angel",
-      "qid": "Q47004984",
-      "enwiki": "The Exterminating Angel (opera)",
-      "composers": [
-        {
-          "name": "Thomas Adès",
-          "qid": "Q439572"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "2016-07-28",
-        "venue": "Haus für Mozart"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/The_Exterminating_Angel_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q47004984"
-      },
-      "summary": {
-        "text": "The Exterminating Angel is an English-language opera in three acts, with music by Thomas Adès, and libretto by Tom Cairns in collaboration with Adès. The opera is based on the 1962 film of the same name by Luis Buñuel. The opera, Adès' third, was a joint commission between the Salzburg Festival, the Royal Opera House, Covent Garden, the Metropolitan Opera and the Royal Danish Opera.\nThe opera received its world premiere on 28 July 2016, at the Haus für Mozart, Salzburg. Adès' first-ever commission for the Salzburg Festival, the Salzburg production received four performances. The UK premiere was at the Royal Opera House, Covent Garden, on 24 April 2017. The North American premiere took place on 26 October of the same year at the Metropolitan Opera. For all of these stagings, Cairns was the stage director, with sets and costumes by Hildegard Bechtler, lighting by Jon Clark, videography by Tal Yarden, and choreography by Amir Hosseinpour.\nAdès had been interested in adapting the film into an opera since 2000. Copyright issues over the film and the commission for Adès' second opera, The Tempest, delayed his eventual start on this opera.\nThe role of Leticia required soprano Audrey Luna to sing an A above high C, which is the highest documented sung note in the history of the Metropolitan Opera.  The Metropolitan Opera transmitted the 18 November 2017 performance of the opera to cinemas worldwide as part of the Metropolitan Opera Live in HD series; that performance has subsequently been issued on DVD and was streamed online on 5 June, 15 November, and 10 December 2020.\nThe opera received a new staging at the Paris Opera in 2024, in a revised version by Adès.",
-        "source_url": "https://en.wikipedia.org/wiki/The_Exterminating_Angel_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "the-fairy-doll": {
-      "slug": "the-fairy-doll",
-      "title": "The Fairy Doll",
-      "qid": "Q1215571",
-      "enwiki": "The Fairy Doll (ballet)",
-      "composers": [
-        {
-          "name": "Josef Bayer",
-          "qid": "Q668930"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Joseph Haßreiter",
-          "qid": "Q1707191"
-        },
-        {
-          "name": "Franz Gaul",
-          "qid": "Q50307954"
-        }
-      ],
-      "premiere": {
-        "date": "1888-10-04",
-        "venue": "Vienna State Opera house"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/The_Fairy_Doll_(ballet)",
-        "wikidata": "https://www.wikidata.org/wiki/Q1215571"
-      },
-      "summary": {
-        "text": "The Fairy Doll (German: Die Puppenfee) is a is one-act, two-scene ballet first performed in October 4 1888 at the Vienna State Opera, telling the story of magical dolls coming to life in a Viennese toy shop at night. The libretto was written by Joseph Hassreiter and Franz Xaver Gaul. The ballet's first coreographer was Joseph Hassreiter, with music composed by Josef Bayer in 1888. Camilla Pagliero was the first to dance the role of the Fairy Doll.\nThe plot was inspired by E.T.A. Hoffmann’s \"The Sandman,\" which also inspired Jacques Offenbach to compose The Tales of Hoffmann and Léo Delibes to write the score for Coppélia. The Fairy Doll, in turn, inspired another ballet, La Boutique Fantasque.",
-        "source_url": "https://en.wikipedia.org/wiki/The_Fairy_Doll_(ballet)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "the-rocky-horror-show": {
       "slug": "the-rocky-horror-show",
       "title": "The Rocky Horror Show",
@@ -1642,40 +713,6 @@
       "summary": {
         "text": "The Rocky Horror Show is a musical with music, lyrics and book by Richard O'Brien. A humorous tribute to various B movies associated with the science fiction and horror genres from the 1930s to the early 1960s, the musical tells the story of a newly engaged couple getting caught in a storm and coming to the home of a mad transvestite scientist, Dr. Frank-N-Furter, unveiling his new creation, Rocky, a sort of Frankenstein-style monster in the form of an artificially made, fully grown, physically perfect muscle man.\nThe show was produced and directed by Jim Sharman. The original London production of the musical was premiered at the Royal Court Theatre (Upstairs) on 19 June 1973 (after two previews on 16 and 18 June 1973). It later moved to several other locations in London and closed on 13 September 1980. The show ran for a total of 2,960 performances in London and won the 1973 Standard Theatre Award for Best Musical. Songs in the musical include \"Time Warp\" and \"Sweet Transvestite\" (co-written by O'Brien and Richard Hartley), while the costumes were designed by Sue Blane. Its 1974 debut in the United States in Los Angeles had a successful nine-month run, but its 1975 Broadway debut at the Belasco Theatre lasted only three previews and forty-five showings, despite earning one Tony Award nomination and three Drama Desk nominations. Various international productions have since spanned across six continents as well as West End and Broadway revivals and eight UK tours. It was nominated for the 1991 Laurence Olivier Award for Best Musical Revival. Actor Tim Curry, who originated the role of Dr. Frank-N-Furter, became particularly associated with the musical.\nThe musical was adapted into the 1975 film The Rocky Horror Picture Show, starring O'Brien as Riff Raff, with Curry also reprising his role; the film has the longest-running release in film history. In 2016, it was adapted into the television film The Rocky Horror Picture Show: Let's Do the Time Warp Again. The musical was ranked eighth in a BBC Radio 2 listener poll of the \"Nation's Number One Essential Musicals\", and it was one of eight British musicals featured on a commemorative stamp issued by the Royal Mail in 2011.\nThe Rocky Horror Show has a cult following and influenced countercultural and sexual liberation movements that followed on from the 1960s. It was one of the first popular musicals to depict fluid sexuality during a time of division between generations and a lack of sexual difference acceptance. Like the film adaptation, the musical is noted for a long-running tradition of audience participation through call-back lines and attending dressed up as characters from the show. On the 50th anniversary of the musical in 2023, BBC News states that since debuting in London in 1973 the \"production has been performed in 20 different languages\" and been \"seen by 30 million people globally\".",
         "source_url": "https://en.wikipedia.org/wiki/The_Rocky_Horror_Show",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "the-scarecrow": {
-      "slug": "the-scarecrow",
-      "title": "The Scarecrow",
-      "qid": "Q8012964",
-      "enwiki": "The Scarecrow (opera)",
-      "composers": [
-        {
-          "name": "Joseph Turrin",
-          "qid": "Q13739217"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Bernard Stambler",
-          "qid": "Q107642267"
-        }
-      ],
-      "premiere": {
-        "date": "2006-02-24",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/The_Scarecrow_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q8012964"
-      },
-      "summary": {
-        "text": "The Scarecrow, an opera, premiered at the University of Texas at Austin in February–March 2006.  The music was written by Joseph Turrin and libretto by Bernard Stambler.  The opera is based on Percy MacKaye's play, which was in turn based on Nathaniel Hawthorne's last short story, “Feathertop.”\nThe Scarecrow was commissioned by a consortium of twelve universities: Eastman School of Music, Hartt School of Music, Yale University, University of Michigan, University of Minnesota, University of North Texas, Baylor University, University of Oklahoma, Arizona State, University of New Mexico, Michigan State, and the University of Texas at Austin. Honorable mention by the American Academy of Arts and Letters Richard Rodgers Award in 2006 and chosen as a finalist in both 2006 and 2017 by the National Opera Association.",
-        "source_url": "https://en.wikipedia.org/wiki/The_Scarecrow_(opera)",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -1717,81 +754,6 @@
         "modified": false
       }
     },
-    "thora-paa-rimol": {
-      "slug": "thora-paa-rimol",
-      "title": "Thora paa Rimol",
-      "qid": "Q17429437",
-      "enwiki": "Thora paa Rimol",
-      "composers": [
-        {
-          "name": "Hjalmar Borgstrøm",
-          "qid": "Q1350367"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Hjalmar Borgstrøm",
-          "qid": "Q1350367"
-        }
-      ],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Thora_paa_Rimol",
-        "wikidata": "https://www.wikidata.org/wiki/Q17429437"
-      },
-      "summary": {
-        "text": "Thora paa Rimol (Thora at Rimol) is an 1894 opera in 2 acts by Hjalmar Borgstrøm.\nThe opera is based on an episode in Olav Tryggvason's Saga in Snorre Sturlason's Heimskringla (Chronicle of Norwegian Kings). Earl Haakon and his slave Kark escape from Olav Tryggvason and hide at the farmstead of his former lover lady Thora in Rimol. Kark murders his master but is not rewarded by Tryggavason and is executed.",
-        "source_url": "https://en.wikipedia.org/wiki/Thora_paa_Rimol",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "vert-vert": {
-      "slug": "vert-vert",
-      "title": "Vert-Vert",
-      "qid": "Q3556194",
-      "enwiki": "Vert-Vert",
-      "composers": [
-        {
-          "name": "Jacques Offenbach",
-          "qid": "Q41555",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7941"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Henri Meilhac",
-          "qid": "Q723648",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7687"
-        },
-        {
-          "name": "Charles Nuitter",
-          "qid": "Q947276",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/434539"
-        }
-      ],
-      "premiere": {
-        "date": "1869-03-10",
-        "venue": "Opéra-Comique"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Vert-Vert",
-        "wikidata": "https://www.wikidata.org/wiki/Q3556194"
-      },
-      "summary": {
-        "text": "Vert-Vert is an opéra comique in three acts by Jacques Offenbach, with a libretto by Henri Meilhac and Charles Nuitter, first performed on 10 March 1869 at the Paris Opéra-Comique. Based on the 1734 poem « Vert-Vert ou les voyages du perroquet de la visitation de Nevers » by Jean-Baptiste Gresset, the opera found little success and has only been occasionally revived, although a complete studio recording was released in 2010.",
-        "source_url": "https://en.wikipedia.org/wiki/Vert-Vert",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "zanna-don-t": {
       "slug": "zanna-don-t",
       "title": "Zanna, Don't!",
@@ -1818,44 +780,6 @@
       "summary": {
         "text": "Zanna, Don't! (subtitled \"A Musical Fairy Tale\") is a 2003 musical written by Tim Acito with additional lyrics and material by Alexander Dinelaris. The story is set in a parallel universe where homosexuality is the norm and heterosexuality is a taboo: Zanna is the local matchmaker at Heartsville High, bringing happy couples together in mid-west America, but heterophobia strikes when a pair of opposite-sex highschoolers discover their feelings for each other. The show has been produced off-Broadway, off West End, and in regional theatres.",
         "source_url": "https://en.wikipedia.org/wiki/Zanna%2C_Don't!",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "zeisls-hiob": {
-      "slug": "zeisls-hiob",
-      "title": "Zeisls Hiob",
-      "qid": "Q23023704",
-      "enwiki": "Zeisls Hiob",
-      "composers": [
-        {
-          "name": "Jan Duszyński",
-          "qid": "Q114662177"
-        },
-        {
-          "name": "Erich Zeisl",
-          "qid": "Q214385"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Miron Hakenbeck",
-          "qid": "Q52826564"
-        }
-      ],
-      "premiere": {
-        "date": "2014",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Zeisls_Hiob",
-        "wikidata": "https://www.wikidata.org/wiki/Q23023704"
-      },
-      "summary": {
-        "text": "Zeisls Hiob (English: Zeisl's Job) is a completion by Jan Duszyński  and  Miron Hakenbeck of the unfinished opera Hiob commenced by Erich Zeisl in 1939. It was  premiered by the Bavarian State Opera in 2014.",
-        "source_url": "https://en.wikipedia.org/wiki/Zeisls_Hiob",
         "license": "CC BY-SA 4.0",
         "modified": false
       }

@@ -1,4 +1,5 @@
 {
+  "live": true,
   "shows": {
     "a-class-act": {
       "slug": "a-class-act",
@@ -117,90 +118,43 @@
         "modified": false
       }
     },
-    "antikrist": {
-      "slug": "antikrist",
-      "title": "Antikrist",
-      "qid": "Q1757853",
-      "enwiki": "Antikrist",
+    "an-american-tragedy": {
+      "slug": "an-american-tragedy",
+      "title": "An American Tragedy",
+      "qid": "Q4749777",
+      "enwiki": "An American Tragedy (musical)",
       "composers": [
         {
-          "name": "Rued Langgaard",
-          "qid": "Q149582"
+          "name": "Charles Strouse",
+          "qid": "Q2960275",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12463"
         }
       ],
-      "lyricists": [],
+      "lyricists": [
+        {
+          "name": "Lee Adams",
+          "qid": "Q6512930",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12723"
+        }
+      ],
       "librettists": [
         {
-          "name": "Rued Langgaard",
-          "qid": "Q149582"
+          "name": "David Shaber",
+          "qid": "Q5239658"
         }
       ],
-      "premiere": {
-        "date": "1980-06-28",
-        "venue": "DR"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Antikrist",
-        "wikidata": "https://www.wikidata.org/wiki/Q1757853"
-      },
-      "summary": {
-        "text": "Antikrist (English: Antichrist) is the only opera by Danish composer Rued Langgaard. It was composed in 1921–23 and reworked in 1926–30, but despite several attempts by the composer to have it performed, the work was not premiered until many years after Langgaard's death. Today, it is considered Langgaard's principal work and is included in the Danish Culture Canon; it was the first Danish opera recorded on DVD in 2002.",
-        "source_url": "https://en.wikipedia.org/wiki/Antikrist",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "arianna-in-nasso": {
-      "slug": "arianna-in-nasso",
-      "title": "Arianna in Nasso",
-      "qid": "Q11686691",
-      "enwiki": "Arianna in Nasso (Porpora)",
-      "composers": [
-        {
-          "name": "Nicola Porpora",
-          "qid": "Q312788",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/517118"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
       "premiere": {
         "date": null,
         "venue": null
       },
       "awards": [],
       "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Arianna_in_Nasso_(Porpora)",
-        "wikidata": "https://www.wikidata.org/wiki/Q11686691"
+        "wikipedia": "https://en.wikipedia.org/wiki/An_American_Tragedy_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4749777"
       },
       "summary": {
-        "text": "Arianna in Nasso is a 1733 opera by Nicola Porpora to a libretto by Paolo Rolli, chief conductor of the Opera of the Nobility.",
-        "source_url": "https://en.wikipedia.org/wiki/Arianna_in_Nasso_(Porpora)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "arion": {
-      "slug": "arion",
-      "title": "Arion",
-      "qid": "Q16833655",
-      "enwiki": "Arion (Matho)",
-      "composers": [],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Arion_(Matho)",
-        "wikidata": "https://www.wikidata.org/wiki/Q16833655"
-      },
-      "summary": {
-        "text": "Arion is an opera by the French composer Jean-Baptiste Matho, first performed at the Académie Royale de Musique (the Paris Opera) on 10 April 1714. It takes the form of a tragédie en musique in a prologue and five acts. The libretto, by Louis Fuzelier, is based on the Greek myth of the poet Arion.",
-        "source_url": "https://en.wikipedia.org/wiki/Arion_(Matho)",
+        "text": "An American Tragedy is a 1995 musical with music by Charles Strouse, lyrics by Lee Adams and Mark St. Germain, and a libretto by David Shaber and Mark St. Germain. It was based on Theodore Dreiser's 1925 novel An American Tragedy.",
+        "source_url": "https://en.wikipedia.org/wiki/An_American_Tragedy_(musical)",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -231,42 +185,6 @@
       "summary": {
         "text": "Artus - Excalibur is a musical loosely based on the legends of the 5th/6th-century British monarch King Arthur and his fabled sword, Excalibur. The score is by Frank Wildhorn, with lyrics by Robin Lerner, book by Ivan Menchell, and arrangements and orchestrations by Koen Schoots. The musical had its world premiere at the Theater St. Gallen in St. Gallen, Switzerland on March 15, 2014.",
         "source_url": "https://en.wikipedia.org/wiki/Artus-Excalibur",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "catarina-or-la-fille-du-bandit": {
-      "slug": "catarina-or-la-fille-du-bandit",
-      "title": "Catarina or La Fille du Bandit",
-      "qid": "Q2941677",
-      "enwiki": "Catarina or La Fille du Bandit",
-      "composers": [
-        {
-          "name": "Cesare Pugni",
-          "qid": "Q934369",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/493566"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Jules Perrot",
-          "qid": "Q554284",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/501218"
-        }
-      ],
-      "premiere": {
-        "date": "1846-03-03",
-        "venue": "His Majesty's Theatre"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Catarina_or_La_Fille_du_Bandit",
-        "wikidata": "https://www.wikidata.org/wiki/Q2941677"
-      },
-      "summary": {
-        "text": "Catarina ou la Fille du bandit is a ballet in three acts and four scenes, with libretto and choreography by Jules Perrot and music by Cesare Pugni. The libretto is based on an incident in the life of the Italian painter Salvator Rosa. The work was first presented by the Ballet of Her Majesty's Theatre on 3 March 1846 in London, England, with Lucile Grahn (as Catarina, leader of the bandits), Louis-François Gosselin (as Salvator Rosa), and Jules Perrot (as the Lieutenant Diavolino).",
-        "source_url": "https://en.wikipedia.org/wiki/Catarina_or_La_Fille_du_Bandit",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -314,198 +232,6 @@
         "modified": false
       }
     },
-    "congratulations": {
-      "slug": "congratulations",
-      "title": "Congratulations!",
-      "qid": "Q25203536",
-      "enwiki": "Congratulations!",
-      "composers": [
-        {
-          "name": "Mieczysław Weinberg",
-          "qid": "Q919127"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "1983-09-13",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Congratulations!",
-        "wikidata": "https://www.wikidata.org/wiki/Q25203536"
-      },
-      "summary": {
-        "text": "Congratulations! (Russian: Поздравляем!, romanized: Pozdravlyayem!, Op. 111) is a 1975 opera by Mieczysław Weinberg to his own Russian libretto after the Yiddish play Mazel Tov by Sholem Aleichem. The plot, closely following the text of Sholem Aleichem's play, emphasises the class conflict to placate Soviet censors, for whom otherwise a Jewish topic may have proved problematic. The opera premiered in Moscow in 1983. Present at the premiere was Vladimir Stoupel, who conducted the premiere outside Russia at the Konzerthaus Berlin in 2012.",
-        "source_url": "https://en.wikipedia.org/wiki/Congratulations!",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "der-zar-lasst-sich-photographieren": {
-      "slug": "der-zar-lasst-sich-photographieren",
-      "title": "Der Zar lässt sich photographieren",
-      "qid": "Q651505",
-      "enwiki": "Der Zar lässt sich photographieren",
-      "composers": [
-        {
-          "name": "Kurt Weill",
-          "qid": "Q55004",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7112"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "1928-02-18",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Der_Zar_l%C3%A4sst_sich_photographieren",
-        "wikidata": "https://www.wikidata.org/wiki/Q651505"
-      },
-      "summary": {
-        "text": "Der Zar lässt sich photographieren  (The Tsar Has his Photograph Taken.') is an opera buffa in one act by Kurt Weill, op. 21. The German libretto was written by Georg Kaiser, and Weill composed the music in 1927. It is a Zeitoper, a genre of music theatre which used contemporary settings and characters, satiric plots which often include technology and machinery. Musically the Zeitoper genre tends to be eclectic and borrow from Jazz. The genre has practically disappeared from the world's opera houses. Historically the Zeitoper came to an abrupt end with the Nazi period, and after the war the cultural institutions were perhaps hesitant to return to the lighter, often decadent and comic operas written before the holocaust changed the artistic perspective. This conjecture is supported by the statistical fact that of all of Weill's, Schönberg's, Hindemith's and Krenek's works – it is these very shorter, satirical Zeitoper works that are no longer performed.",
-        "source_url": "https://en.wikipedia.org/wiki/Der_Zar_l%C3%A4sst_sich_photographieren",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "didone-abbandonata-jommelli": {
-      "slug": "didone-abbandonata-jommelli",
-      "title": "Didone abbandonata",
-      "qid": "Q48835779",
-      "enwiki": "Didone abbandonata (Jommelli)",
-      "composers": [
-        {
-          "name": "Niccolò Jommelli",
-          "qid": "Q312891"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "1747-01-28",
-        "venue": "Teatro Argentina"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Didone_abbandonata_(Jommelli)",
-        "wikidata": "https://www.wikidata.org/wiki/Q48835779"
-      },
-      "summary": {
-        "text": "Didone abbandonata is an opera in three acts by Niccolò Jommelli of the libretto Didone abbandonata by Pietro Metastasio. It was composed just after Jommelli left Venice in 1746 and revised in 1763. It was first performed on January 28, 1747, at the Teatro Argentina in Rome.",
-        "source_url": "https://en.wikipedia.org/wiki/Didone_abbandonata_(Jommelli)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "die-opernprobe": {
-      "slug": "die-opernprobe",
-      "title": "Die Opernprobe",
-      "qid": "Q1215283",
-      "enwiki": "Die Opernprobe",
-      "composers": [
-        {
-          "name": "Albert Lortzing",
-          "qid": "Q154203"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "1851-01-20",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Die_Opernprobe",
-        "wikidata": "https://www.wikidata.org/wiki/Q1215283"
-      },
-      "summary": {
-        "text": "Die Opernprobe (The opera rehearsal), also titled Die vornehmen Dilettanten (The distinguished dilettantes), is a comic opera (Spieloper) in one act by Albert Lortzing, to a libretto which he adapted from a play by Philippe Poisson which had been translated by Johann Friedrich Jünger. The premiere was on 20 January 1851 at the Oper Frankfurt.",
-        "source_url": "https://en.wikipedia.org/wiki/Die_Opernprobe",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "dinorah": {
-      "slug": "dinorah",
-      "title": "Dinorah",
-      "qid": "Q470739",
-      "enwiki": "Dinorah",
-      "composers": [
-        {
-          "name": "Giacomo Meyerbeer",
-          "qid": "Q105237"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Jules Barbier",
-          "qid": "Q548181",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/393326"
-        },
-        {
-          "name": "Michel Carré",
-          "qid": "Q602493",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/424954"
-        }
-      ],
-      "premiere": {
-        "date": "1859-04-04",
-        "venue": "Opéra-Comique"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Dinorah",
-        "wikidata": "https://www.wikidata.org/wiki/Q470739"
-      },
-      "summary": {
-        "text": "Dinorah, originally Le pardon de Ploërmel (The Pardon of Ploërmel), is an 1859 French opéra comique in three acts with music by Giacomo Meyerbeer and a libretto by Jules Barbier and Michel Carré. The story takes place near the rural town of Ploërmel and is based on two Breton tales by Émile Souvestre, \"La Chasse aux trésors\" and \"Le Kacouss de l'Armor\", both published separately in 1850 in the Revue des deux mondes.",
-        "source_url": "https://en.wikipedia.org/wiki/Dinorah",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "einstein": {
-      "slug": "einstein",
-      "title": "Einstein",
-      "qid": "Q28739649",
-      "enwiki": "Einstein (opera)",
-      "composers": [
-        {
-          "name": "Paul Dessau",
-          "qid": "Q213613",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11591"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Karl Mickel",
-          "qid": "Q125451"
-        }
-      ],
-      "premiere": {
-        "date": "1974-02-16",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Einstein_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q28739649"
-      },
-      "summary": {
-        "text": "Einstein is a 1974 opera by Paul Dessau to a libretto by Karl Mickel. It premiered on 16 February 1974. Einstein took longer for Dessau to compose than any of his other works, including four other operas. It began with a discussion between the composer and Bertolt Brecht shortly after the mathematician's death, but Brecht's death prevented its completion as a collaboration. It explores \"the question of a scientist's responsibility to society for his inventions\".",
-        "source_url": "https://en.wikipedia.org/wiki/Einstein_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "emojiland": {
       "slug": "emojiland",
       "title": "Emojiland",
@@ -526,35 +252,6 @@
       "summary": {
         "text": "Emojiland is a pop musical written by Keith Harrison Dworkin and Laura Schein. It premiered off-Broadway on January 19, 2020, at the Duke on 42nd Street. It centers around a group of emojis living in the world of a smartphone on the eve of a software update.",
         "source_url": "https://en.wikipedia.org/wiki/Emojiland",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "falstaff-salieri": {
-      "slug": "falstaff-salieri",
-      "title": "Falstaff",
-      "qid": "Q1168413",
-      "enwiki": "Falstaff (Salieri)",
-      "composers": [
-        {
-          "name": "Antonio Salieri",
-          "qid": "Q51088"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "1799-01-03",
-        "venue": "Theater am Kärntnertor"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Falstaff_(Salieri)",
-        "wikidata": "https://www.wikidata.org/wiki/Q1168413"
-      },
-      "summary": {
-        "text": "Falstaff, ossia Le tre burle (Falstaff, or The Three Jokes) is a dramma giocoso in two acts by Antonio Salieri, set to a libretto by Carlo Prospero Defranceschi after William Shakespeare's The Merry Wives of Windsor. \nOne of the earliest operatic versions of Shakespeare's play, Salieri's Falstaff is notable for a general compression and streamlining of the original plot, note the absence of the two young lovers, Fenton and Anne, and the addition of a scene in which Mistress Ford pretends to be German to charm Falstaff (actually two such scenes exist, one in a separate score by Salieri was probably omitted from the original Viennese productions).  Defranceschi moves the plot and structure away from Elizabethan drama and closer to the standard conventions of late 18th century opera buffa.\nHighlights include the Sinfonia (overture) in the style of contra dances. The entire opera shows the influence of Mozart's Le nozze di Figaro, which was being successfully revived at the time.  Among the musical highlights, besides the sinfonia, are Falstaff's strutting Act I patter aria, the quartet in Act I, the duettino \"La stessa, La stessissima\", the technically brilliant \"laughter\" trio in the opening moments of Act II, the canonical duet of Mr. and Mrs. Ford toward the end of Act II (featuring a rare late 18th century cello solo) and the grand finale to Act II.  Throughout the score Salieri employs careful tone painting, parody of opera seria conventions, a more harmonically interesting structure for the secco recitative, and more involved counterpoint; traits that have helped return Falstaff to the playing boards.",
-        "source_url": "https://en.wikipedia.org/wiki/Falstaff_(Salieri)",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -644,79 +341,6 @@
         "modified": false
       }
     },
-    "giustino-handel": {
-      "slug": "giustino-handel",
-      "title": "Giustino",
-      "qid": "Q953502",
-      "enwiki": "Giustino (Handel)",
-      "composers": [
-        {
-          "name": "George Frideric Handel",
-          "qid": "Q7302",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/89505"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Nicolò Beregan",
-          "qid": "Q1987230"
-        },
-        {
-          "name": "Pietro Pariati",
-          "qid": "Q328190"
-        }
-      ],
-      "premiere": {
-        "date": "1737-02-16",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Giustino_(Handel)",
-        "wikidata": "https://www.wikidata.org/wiki/Q953502"
-      },
-      "summary": {
-        "text": "Giustino (\"Justin\", HWV 37) is an opera seria in three acts by George Frideric Handel. The opera was first given at the Covent Garden Theatre in London on 16 February 1737. The Italian-language libretto was adapted from Charles VI's court poet Pietro Pariati's libretto for Giustino (1711), after the much older original libretto of Nicolò Beregan (1682). The libretto had already been adapted by many composers including Vivaldi's Giustino of 1724 and Tomaso Albinoni's lost opera of 1711.",
-        "source_url": "https://en.wikipedia.org/wiki/Giustino_(Handel)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "il-templario": {
-      "slug": "il-templario",
-      "title": "Il templario",
-      "qid": "Q1960525",
-      "enwiki": "Il templario",
-      "composers": [
-        {
-          "name": "Otto Nicolai",
-          "qid": "Q154602"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Girolamo Maria Marini",
-          "qid": "Q3107687"
-        }
-      ],
-      "premiere": {
-        "date": "1840-02-11",
-        "venue": "Teatro Regio"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Il_templario",
-        "wikidata": "https://www.wikidata.org/wiki/Q1960525"
-      },
-      "summary": {
-        "text": "Il templario is an Italian-language opera by the German composer Otto Nicolai from a libretto written by Girolamo Maria Marini based on Walter Scott's 1819 novel Ivanhoe. \nIt has been noted that Nicolai's work for the opera stage, before the successful Die lustigen Weiber von Windsor (The Merry Wives of Windsor) (his only German opera), included five others, all of which were in Italian (two being Gildippe ed Odoardo and Il proscritto) and all \"are all firmly cast in the bel canto style, with gracefully flowing melodies in the manner of Bellini\". Marini was a part-time poet when not employed by the government tobacco monopoly, and is best remembered today for being called in to rewrite the third act of Donizetti's Adelia.\nAfter he studied Church music by Friedrich Zelter in Berlin he went to Rome in 1833, where the Prusian Embassy at the Vatican was looking for an organist. After visiting opera performances he became so enthusiastic that he decided to stay in Italy to build a career in opera.\nAfter „La figlia abbandonata“ (Bologna, 1837) and „Enrico II.“ (Triest, 1839), as a conductor for the Carnaval season 1839/40 in Turin he wrote for Mercadante's „I briganti“ an extra aria. This aria had such a success, that Nicolai received the offer to write an opera that had to based on Sir Walter Scott's „Ivanhoe“ (just written in 1820, and very successful). Die Premiere von „Il templario“ in Turin am 11. Februar 1840 wurde ein veritabler Triumph, und das Werk wurde noch im selben Jahr in Genua, Mailand und Triest nachgespielt, 1841 in Wien und Barcelona gegeben\nIl templario received its premiere performances at the Teatro Regio, Turin in February 11 1840, and was a huge success. \nThis had an unintended contributing indirect effect on the failure of Verdi's early attempt at the opera buffa genre, Un giorno di regno, in 1840. The Teatro alla Scala impresario Merelli insisted on using the opera seria singers previously assembled for Nicolai's opera, which had toured in Milan, thus contributing to the disaster experienced by Verdi.",
-        "source_url": "https://en.wikipedia.org/wiki/Il_templario",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "johnny-baseball": {
       "slug": "johnny-baseball",
       "title": "Johnny Baseball",
@@ -759,379 +383,6 @@
         "modified": false
       }
     },
-    "kopernikus": {
-      "slug": "kopernikus",
-      "title": "Kopernikus",
-      "qid": "Q48773857",
-      "enwiki": "Kopernikus (Vivier)",
-      "composers": [
-        {
-          "name": "Claude Vivier",
-          "qid": "Q650551"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Claude Vivier",
-          "qid": "Q650551"
-        }
-      ],
-      "premiere": {
-        "date": "1980-05-08",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Kopernikus_(Vivier)",
-        "wikidata": "https://www.wikidata.org/wiki/Q48773857"
-      },
-      "summary": {
-        "text": "Kopernikus (sub. Rituel de mort; translated as Ritual of Death) is a 1979 opera in two acts by Canadian composer Claude Vivier, inspired by the astronomer of the same name. It is the only opera of three that Vivier completed prior to his death in 1983. A typical performance lasts around seventy minutes.",
-        "source_url": "https://en.wikipedia.org/wiki/Kopernikus_(Vivier)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "l-idalma": {
-      "slug": "l-idalma",
-      "title": "L'Idalma",
-      "qid": "Q113449927",
-      "enwiki": "L'Idalma",
-      "composers": [
-        {
-          "name": "Bernardo Pasquini",
-          "qid": "Q355191"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Giuseppe Domenico de Totis",
-          "qid": "Q19365861"
-        }
-      ],
-      "premiere": {
-        "date": "1680-02-06",
-        "venue": "Palazzo Capranica"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/L'Idalma",
-        "wikidata": "https://www.wikidata.org/wiki/Q113449927"
-      },
-      "summary": {
-        "text": "L'Idalma, ovvero chi dura la vince (Idalma, or whoever perseveres wins) is an opera (commedia per musica) by Bernardo Pasquini to a libretto by Giuseppe Domenico de Totis. It premiered on 6 February 1680 at the Teatro Capranica, Rome.",
-        "source_url": "https://en.wikipedia.org/wiki/L'Idalma",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "la-grand-tante": {
-      "slug": "la-grand-tante",
-      "title": "La grand'tante",
-      "qid": "Q4156116",
-      "enwiki": "La grand'tante",
-      "composers": [
-        {
-          "name": "Jules Massenet",
-          "qid": "Q194436",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/87555"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Jules Adenis",
-          "qid": "Q531726"
-        }
-      ],
-      "premiere": {
-        "date": "1867-04-03",
-        "venue": "Opéra-Comique"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/La_grand'tante",
-        "wikidata": "https://www.wikidata.org/wiki/Q4156116"
-      },
-      "summary": {
-        "text": "La grand'tante (The great-aunt) is an opéra comique in one act by Jules Massenet to a French libretto by Jules Adenis and Charles Grandvallet. It was first performed at the Opéra-Comique in Paris on 3 April 1867. Though not the first opera composed by Massenet, it was the first of his stage works to be mounted on the stage. The work consists of an overture followed by six vocal numbers (solos, duets and a final trio) with spoken dialogue in between.",
-        "source_url": "https://en.wikipedia.org/wiki/La_grand'tante",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "la-petite-fonctionnaire": {
-      "slug": "la-petite-fonctionnaire",
-      "title": "La petite fonctionnaire",
-      "qid": "Q6466320",
-      "enwiki": "La petite fonctionnaire",
-      "composers": [
-        {
-          "name": "André Messager",
-          "qid": "Q457645",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4120"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Alfred Capus",
-          "qid": "Q198621",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4030"
-        },
-        {
-          "name": "Xavier Roux",
-          "qid": "Q94881398"
-        }
-      ],
-      "premiere": {
-        "date": "1921-05-14",
-        "venue": "Théâtre Mogador"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/La_petite_fonctionnaire",
-        "wikidata": "https://www.wikidata.org/wiki/Q6466320"
-      },
-      "summary": {
-        "text": "La petite fonctionnaire is a 1921 comédie musicale in three acts, with music by André Messager and a French libretto by Alfred Capus and Xavier Roux, based on a play by Capus.",
-        "source_url": "https://en.wikipedia.org/wiki/La_petite_fonctionnaire",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "la-pravita-castigata": {
-      "slug": "la-pravita-castigata",
-      "title": "La pravità castigata",
-      "qid": "Q6466338",
-      "enwiki": "La pravità castigata",
-      "composers": [
-        {
-          "name": "Antonio Caldara",
-          "qid": "Q311571"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/La_pravit%C3%A0_castigata",
-        "wikidata": "https://www.wikidata.org/wiki/Q6466338"
-      },
-      "summary": {
-        "text": "La pravità castigata (\"Depravity Punished\") is a 1730 pastiche with music by multiple composers and an Italian language libretto by Antonio Denzio. It is the first 18th-century opera based on the Don Juan legend. It was also the first opera ever produced that retains the original setting and at least some of the original character names derived from early 17th-century dramatic prototypes of the Don Juan legend, the most important of which is Tirso de Molina's play El burlador de Sevilla y convidado de piedra. La pravità castigata was originally performed during Lent of 1730 in the opera theater of Franz Anton von Sporck in Prague, then revived with new music by Eustachio Bambini in Brno in 1734. The Brno performance was regarded as the original production for decades, and a published transcription of the libretto (which is missing two scenes from the Prague production) identifies it incorrectly as an anonymous text first performed in Brno.",
-        "source_url": "https://en.wikipedia.org/wiki/La_pravit%C3%A0_castigata",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "le-jeune-homme-et-la-mort": {
-      "slug": "le-jeune-homme-et-la-mort",
-      "title": "Le jeune homme et la mort",
-      "qid": "Q2332959",
-      "enwiki": "Le jeune homme et la mort",
-      "composers": [
-        {
-          "name": "Johann Sebastian Bach",
-          "qid": "Q1339",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/10027"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Le_jeune_homme_et_la_mort",
-        "wikidata": "https://www.wikidata.org/wiki/Q2332959"
-      },
-      "summary": {
-        "text": "Le Jeune Homme et la Mort is a ballet by Roland Petit, choreographed in 1946 to Bach's Passacaglia and Fugue in C Minor, BWV 582, with a one-act libretto by Jean Cocteau. It tells the story of a young man driven to suicide by his faithless lover. Sets were by Georges Wakhévitch and costumes variously reported as being by Karinska or Cocteau. Petit is purported to have created Le Jeune Homme et la Mort for his wife-to-be Zizi Jeanmaire, but it was danced by Jean Babilée and Nathalie Philippart at its 25 June 1946 premiere at the Théâtre des Champs-Élysées with costumes by Tom Keogh.\nIn 1951, Petit staged the ballet at American Ballet Theatre. In 1966, he filmed the ballet in France with Rudolf Nureyev and Zizi Jeanmaire.\nLe Jeune Homme et la Mort was revived by Mikhail Baryshnikov at the American Ballet Theatre in 1975 and in the 1985 movie White Nights, in arrangements by Petit for Baryshnikov. It has been in the repertoire of the Paris Opera Ballet since 1990 and was danced at its premiere there by Kader Belarbi. It has also been danced by the Ballet National de Marseilles (1984), the Berlin Opera Ballet (1985), the Boston Ballet (1998), the Bolshoi Ballet (2009), the Mariinsky Ballet (late 1990s, revival 2012) and the English National Ballet (2018).",
-        "source_url": "https://en.wikipedia.org/wiki/Le_jeune_homme_et_la_mort",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "leben-des-orest": {
-      "slug": "leben-des-orest",
-      "title": "Leben des Orest",
-      "qid": "Q906500",
-      "enwiki": "Leben des Orest",
-      "composers": [
-        {
-          "name": "Ernst Krenek",
-          "qid": "Q158436"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Ernst Krenek",
-          "qid": "Q158436"
-        }
-      ],
-      "premiere": {
-        "date": "1930-01-19",
-        "venue": "Leipzig Opera House"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Leben_des_Orest",
-        "wikidata": "https://www.wikidata.org/wiki/Q906500"
-      },
-      "summary": {
-        "text": "Leben des Orest (The Life of Orestes) is a grand opera in five acts (eight scenes) with words and music both by Ernst Krenek. It is his Op. 60 and the first of his own libretti with an antique setting. The score is inscribed with the dates of composition, 8 August 1928 – 13 May 1929, and includes indications of recommended cuts made for the first production. It premiered at the Neues Theater in Leipzig on 19 January 1930, and opened at the Kroll Opera House in Berlin in early March of the same year (Leichtentritt 1930, 366).",
-        "source_url": "https://en.wikipedia.org/wiki/Leben_des_Orest",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "les-biches": {
-      "slug": "les-biches",
-      "title": "Les Biches",
-      "qid": "Q1773642",
-      "enwiki": "Les Biches",
-      "composers": [
-        {
-          "name": "Francis Poulenc",
-          "qid": "Q191408",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12261"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "1924-01-06",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Les_Biches",
-        "wikidata": "https://www.wikidata.org/wiki/Q1773642"
-      },
-      "summary": {
-        "text": "Les Biches (French: [le biʃ]; The Hinds or The Does, or The Darlings) is a one-act ballet to music by Francis Poulenc, choreographed by Bronislava Nijinska and premiered by the Ballets Russes on 6 January 1924 at the Salle Garnier in Monte Carlo. Nijinska danced the central role of the Hostess. The ballet has no story, and depicts the random interactions of a group of mainly young people in a house party on a summer afternoon.\nThe ballet was seen in Paris and London within a year of its premiere, and has been frequently revived there; it was not produced in New York until 1950. Nijinska directed revivals of the ballet for several companies in the four decades after its creation. Les Biches, with recreations of Marie Laurencin's original costumes and scenery, remains in the repertoire of the Paris Opera Ballet, the Royal Ballet and other companies. The music has been used for later ballets, although they have not followed Nijinska's in gaining a place in the regular repertoire.\nThe music for the original ballet contains three choral numbers. Poulenc made the choral parts optional when he revised the score in 1939–1940, and the work is usually given with wholly orchestral accompaniment. The composer extracted a five-movement suite from the score, for concert performance. The suite has been recorded for LP and CD from the 1950s onwards.",
-        "source_url": "https://en.wikipedia.org/wiki/Les_Biches",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "les-plaisirs-de-versailles": {
-      "slug": "les-plaisirs-de-versailles",
-      "title": "Les plaisirs de Versailles",
-      "qid": "Q6530187",
-      "enwiki": "Les plaisirs de Versailles",
-      "composers": [
-        {
-          "name": "Marc-Antoine Charpentier",
-          "qid": "Q55524"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "1682",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Les_plaisirs_de_Versailles",
-        "wikidata": "https://www.wikidata.org/wiki/Q6530187"
-      },
-      "summary": {
-        "text": "Les plaisirs de Versailles H.480 (English: The Pleasures of Versailles) is a short opera (or divertissement) by the French composer Marc-Antoine Charpentier. It was intended for performance at the new courtly entertainment known as les appartements du roi (\"the king's receptions\") devised by King Louis XIV and held in his own apartments at the palace of Versailles in 1682. At the time, Charpentier was composer for Louis, le Grand Dauphin, the king's son. The librettist is unknown.",
-        "source_url": "https://en.wikipedia.org/wiki/Les_plaisirs_de_Versailles",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "les-troyens": {
-      "slug": "les-troyens",
-      "title": "Les Troyens",
-      "qid": "Q472325",
-      "enwiki": "Les Troyens",
-      "composers": [
-        {
-          "name": "Hector Berlioz",
-          "qid": "Q1151",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/485477"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Hector Berlioz",
-          "qid": "Q1151",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/485477"
-        }
-      ],
-      "premiere": {
-        "date": "1863-11-04",
-        "venue": "Badisches Staatstheater Karlsruhe"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Les_Troyens",
-        "wikidata": "https://www.wikidata.org/wiki/Q472325"
-      },
-      "summary": {
-        "text": "Les Troyens (pronounced [le tʁwajɛ̃]; in English: The Trojans) is a French grand opera in five acts, running for about five hours, by Hector Berlioz. The libretto was written by Berlioz himself from Virgil's epic poem the Aeneid; the score was composed between 1856 and 1858. Les Troyens is Berlioz's most ambitious work, the summation of his entire artistic career, but he did not live to see it performed in its entirety. Under the title Les Troyens à Carthage, the last three acts were premièred with many cuts by Léon Carvalho's company, the Théâtre Lyrique, at their theatre (now the Théâtre de la Ville) on the Place du Châtelet in Paris on 4 November 1863, with 21 repeat performances. The reduced versions run for about three hours. After decades of neglect, today the opera is considered by some music critics as one of the finest ever written.",
-        "source_url": "https://en.wikipedia.org/wiki/Les_Troyens",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "lord-piccolo": {
-      "slug": "lord-piccolo",
-      "title": "Lord Piccolo",
-      "qid": "Q125217033",
-      "enwiki": "Lord Piccolo",
-      "composers": [
-        {
-          "name": "Henri Berény",
-          "qid": "Q33436811",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11372"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Karl Lindau",
-          "qid": "Q1554967",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4644"
-        },
-        {
-          "name": "Rudolf Schanzer",
-          "qid": "Q60821103",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8446"
-        }
-      ],
-      "premiere": {
-        "date": "1910-01-09",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "ibdb": "https://www.ibdb.com/broadway-show/5437",
-        "wikipedia": "https://en.wikipedia.org/wiki/Lord_Piccolo",
-        "wikidata": "https://www.wikidata.org/wiki/Q125217033"
-      },
-      "summary": {
-        "text": "Lord Piccolo is an operetta in two acts with music by Henri Berény and a German-language libretto by Rudolph Schanzer & Carl Lindau. It premiered at the Johann Strauss Theater in Vienna on 9 January 1910. When the work was later adapted into the English language for Broadway by A. E. Thomas and Edward A. Paulton, their modified version retitled the work Little Boy Blue. The operetta is about a Scottish Earl's niece who impersonates her missing brother in order to obtain his inheritance from their uncle.",
-        "source_url": "https://en.wikipedia.org/wiki/Lord_Piccolo",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "make-mine-manhattan": {
       "slug": "make-mine-manhattan",
       "title": "Make Mine Manhattan",
@@ -1153,55 +404,6 @@
       "summary": {
         "text": "Make Mine Manhattan is a 1948 Broadway revue with music by Richard Lewine, lyrics by Hassard Short, and sketches by Arnold Horwitt and produced by Joseph Hyman.",
         "source_url": "https://en.wikipedia.org/wiki/Make_Mine_Manhattan",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "montag-aus-licht": {
-      "slug": "montag-aus-licht",
-      "title": "Montag aus Licht",
-      "qid": "Q6903150",
-      "enwiki": "Montag aus Licht",
-      "composers": [],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Montag_aus_Licht",
-        "wikidata": "https://www.wikidata.org/wiki/Q6903150"
-      },
-      "summary": {
-        "text": "Montag aus Licht (Monday from Light) is an opera by Karlheinz Stockhausen in a greeting, three acts, and a farewell, and was the third of seven to be composed for the opera cycle Licht: die sieben Tage der Woche (Light: The Seven Days of the Week). The libretto was written by the composer.\nMontag is an opera for 21 solo performers (14 voices, 6 instrumentalists, and 1 actor) plus mimes, a mixed choir, children's choir, and \"modern orchestra\". It was composed between 1984 and 1988. Monday is Eve's day. Its exoteric colour is bright green; its esoteric colours are opal and silver.",
-        "source_url": "https://en.wikipedia.org/wiki/Montag_aus_Licht",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "my-lady-molly": {
-      "slug": "my-lady-molly",
-      "title": "My Lady Molly",
-      "qid": "Q6945795",
-      "enwiki": "My Lady Molly",
-      "composers": [],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "ibdb": "https://www.ibdb.com/broadway-show/6380",
-        "wikipedia": "https://en.wikipedia.org/wiki/My_Lady_Molly",
-        "wikidata": "https://www.wikidata.org/wiki/Q6945795"
-      },
-      "summary": {
-        "text": "My Lady Molly is a 'comedy opera' in two acts with music by Sidney Jones, a libretto by George H. Jessop, and additional lyrics by Percy Greenbank and Charles H. Taylor. The story centers around Lady Molly Martingale, a vivacious young woman, who disguises herself as a man to win the man she loves.\nThe piece opened at the Theatre Royal in Brighton, England, on 11 August 1902 and then at Terry's Theatre in London on 14 March 1903, under the management of Frederick Mouillot, running for 342 performances.  It starred Sybil Arundale and featured Decima Moore.  It also enjoyed tours and had a brief Broadway run.\nMy Lady Molly was the last successful English comic opera in the tradition of Alfred Cellier's Dorothy and Arthur Sullivan's Haddon Hall, as distinguished from the style of the lighter Edwardian musical comedies of the period.  A review in The Daily Mail stated:\n\nThe audience rejoiced over a departure from the stereotyped, and often vulgar, methods of so-called \"musical comedy,\" and gladly welcomed a clever and artistic comic opera ... brim full of humour and melody. ... Mr. Sidney Jones's pre-eminence among the lighter musical composers [is] amply reflected. ... My Lady Molly is very handsomely and elaborately dressed. ... Miss Sybil Arundale ... is literally as pretty as a picture, playing and singing with a modesty and refinement worthy all praise. The audience showered favours upon her, and her triumph was undoubted. [Hyde, Green and] Moore effectively assisted to procure the general success, and Mr. Bert Gilbert made a great hit as the Irish servant. ... The book ... has been neatly written. ... Great enthusiasm reigned at the fall of the curtain, and Mr. Jones had a fine reception.",
-        "source_url": "https://en.wikipedia.org/wiki/My_Lady_Molly",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -1255,229 +457,6 @@
         "modified": false
       }
     },
-    "phaedra": {
-      "slug": "phaedra",
-      "title": "Phaedra",
-      "qid": "Q2084699",
-      "enwiki": "Phaedra (opera)",
-      "composers": [
-        {
-          "name": "Hans Werner Henze",
-          "qid": "Q76915"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "2007-06-06",
-        "venue": "Berlin State Opera"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Phaedra_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q2084699"
-      },
-      "summary": {
-        "text": "Phaedra is a 'concert opera' in two acts by Hans Werner Henze. Its first performance was given at the Berlin State Opera on 6 September 2007. The work is a co-commission and co-production with the Berliner Festspiele, Théâtre de la Monnaie, Brussels, Alte Oper Frankfurt and the Vienna Festival.\nAlthough Henze announced in 2003 that L'Upupa und der Triumph der Sohnesliebe would be his last opera, it became known during 2006 that in spite of serious illness, he was preparing a new opera based on the classical myth of Phaedra.",
-        "source_url": "https://en.wikipedia.org/wiki/Phaedra_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "pompeo-magno": {
-      "slug": "pompeo-magno",
-      "title": "Pompeo Magno",
-      "qid": "Q7227467",
-      "enwiki": "Pompeo Magno",
-      "composers": [
-        {
-          "name": "Francesco Cavalli",
-          "qid": "Q108062"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Nicolò Minato",
-          "qid": "Q1987241"
-        }
-      ],
-      "premiere": {
-        "date": "1666-02-20",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Pompeo_Magno",
-        "wikidata": "https://www.wikidata.org/wiki/Q7227467"
-      },
-      "summary": {
-        "text": "Pompeo Magno ('Pompeius Magnus', 'Pompey the Great') is a dramma per musica (opera) in three acts by Francesco Cavalli. The Italian libretto is by Nicolò Minato.",
-        "source_url": "https://en.wikipedia.org/wiki/Pompeo_Magno",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "puck": {
-      "slug": "puck",
-      "title": "Puck",
-      "qid": "Q7258238",
-      "enwiki": "Puck (opera)",
-      "composers": [
-        {
-          "name": "Marcel Delannoy",
-          "qid": "Q2600898"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "1949-01-29",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Puck_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q7258238"
-      },
-      "summary": {
-        "text": "Puck is an opéra-féerique in three acts with music by Marcel Delannoy, premiered in 1949. The French libretto was adapted by André Boll from Shakespeare's A Midsummer Night's Dream.",
-        "source_url": "https://en.wikipedia.org/wiki/Puck_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "rappaccini-s-daughter-garwood-opera": {
-      "slug": "rappaccini-s-daughter-garwood-opera",
-      "title": "Rappaccini's Daughter",
-      "qid": "Q131807458",
-      "enwiki": "Rappaccini's Daughter (Garwood opera)",
-      "composers": [
-        {
-          "name": "Margaret Garwood",
-          "qid": "Q2632221"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Rappaccini's_Daughter_(Garwood_opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q131807458"
-      },
-      "summary": {
-        "text": "Rappaccini's Daughter is an English-language American opera in two acts and six scenes first presented in 1980. The composer and librettist was Margaret Garwood, who based it on Nathaniel Hawthorne's 1844 short story of the same name.\nThe Pennsylvania Opera Theater gave the world premiere in a concert version at the Philadelphia College of the Performing Arts's Theatre 313 on November 19, 1980. The same company presented the first staged version at Philadelphia's Trocadero Theatre on May 6, 1983. Both versions received favorable reviews.\nHawthorne's Gothic story about a doctor whose work with poisons has made his daughter's touch deadly has inspired several operas including The Garden of Mystery (Charles Wakefield Cadman, 1925); The Poisoned Kiss, or The Empress and the Necromancer (Ralph Vaughan Williams, 1936); and La hija de Rappaccini (Daniel Catán, 1991).",
-        "source_url": "https://en.wikipedia.org/wiki/Rappaccini's_Daughter_(Garwood_opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "rubezahl-und-der-sackpfeifer-von-neisse": {
-      "slug": "rubezahl-und-der-sackpfeifer-von-neisse",
-      "title": "Rübezahl und der Sackpfeifer von Neisse",
-      "qid": "Q28456904",
-      "enwiki": "Rübezahl und der Sackpfeifer von Neisse",
-      "composers": [
-        {
-          "name": "Hans Sommer",
-          "qid": "Q741034"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Eberhard König",
-          "qid": "Q1279170"
-        }
-      ],
-      "premiere": {
-        "date": "1904-04-15",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/R%C3%BCbezahl_und_der_Sackpfeifer_von_Neisse",
-        "wikidata": "https://www.wikidata.org/wiki/Q28456904"
-      },
-      "summary": {
-        "text": "Rübezahl und der Sackpfeifer von Neisse (Rübezahl and the Bagpiper from Neisse), Op. 36, is a 1904 opera in 4 acts by Hans Sommer to a libretto by Eberhard König based on the Rübezahl fairy tale. The opera premiered at the Hoftheater in Braunschweig on 15 April 1904.",
-        "source_url": "https://en.wikipedia.org/wiki/R%C3%BCbezahl_und_der_Sackpfeifer_von_Neisse",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "ruslan-and-lyudmila": {
-      "slug": "ruslan-and-lyudmila",
-      "title": "Ruslan and Lyudmila",
-      "qid": "Q522408",
-      "enwiki": "Ruslan and Lyudmila (opera)",
-      "composers": [
-        {
-          "name": "Michael Glinka",
-          "qid": "Q181885"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Alexander Pushkin",
-          "qid": "Q7200",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/100110"
-        },
-        {
-          "name": "Nestor Kukolnik",
-          "qid": "Q740848"
-        }
-      ],
-      "premiere": {
-        "date": "1842-12-09",
-        "venue": "Bolshoi Kamenny Theatre"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Ruslan_and_Lyudmila_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q522408"
-      },
-      "summary": {
-        "text": "Ruslan and Lyudmila (Russian: Руслан и Людмила, romanized: Ruslán i Lyudmíla ) is an opera in five acts (eight tableaux) composed by Mikhail Glinka between 1837 and 1842.\nThe libretto was written in Russian by Valerian Shirkov, with minor contributions by Mykola Markevych, Nestor Kukolnik, and the composer based on the 1820 narrative poem of the same name by Alexander Pushkin. Pushkin had planned to write the libretto himself but died in a duel before he could do so.\nToday, the best-known music from the opera is its overture.",
-        "source_url": "https://en.wikipedia.org/wiki/Ruslan_and_Lyudmila_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "sands-of-time": {
-      "slug": "sands-of-time",
-      "title": "Sands of Time",
-      "qid": "Q7416922",
-      "enwiki": "Sands of Time (opera)",
-      "composers": [
-        {
-          "name": "Peter Reynolds",
-          "qid": "Q15458784"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "1993-03-27",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Sands_of_Time_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q7416922"
-      },
-      "summary": {
-        "text": "Sands of Time is a short opera composed by the Welsh composer Peter Reynolds to a libretto by Simon Rees.  Its world premiere, at an outdoor shopping centre in Cardiff on 27 March 1993, was accompanied by a nine-piece band conducted by Carlo Rizzi, director of Welsh National Opera. The performance, sung by soprano Rhian Owen and baritone Dominic Burns, was timed at 4 minutes 9 seconds, and was certified by adjudicators from the Guinness Book of Records as the world's shortest opera, beating the previous record held by Darius Milhaud's Deliverance of Theseus (1928), which lasts just over 7 minutes.  A later performance for the BBC reduced the overall time to 3 minutes 34 seconds. In 2019, Sands of Time was performed in a triple bill (with Samuel Barber's A Hand of Bridge and Jacques Offenbach's Le 66) at the Grimeborn Festival, Dalston, London.",
-        "source_url": "https://en.wikipedia.org/wiki/Sands_of_Time_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "senor-discretion-himself": {
       "slug": "senor-discretion-himself",
       "title": "Señor Discretion Himself",
@@ -1508,36 +487,6 @@
         "modified": false
       }
     },
-    "symphony-in-c": {
-      "slug": "symphony-in-c",
-      "title": "Symphony in C",
-      "qid": "Q2288944",
-      "enwiki": "Symphony in C (ballet)",
-      "composers": [
-        {
-          "name": "Georges Bizet",
-          "qid": "Q56158",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5874"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Symphony_in_C_(ballet)",
-        "wikidata": "https://www.wikidata.org/wiki/Q2288944"
-      },
-      "summary": {
-        "text": "Symphony in C, originally titled Le Palais de Cristal, is a ballet choreographed by George Balanchine, to Georges Bizet's Symphony in C. The ballet was originally created for the Paris Opera Ballet, and premiered on July 28, 1947, at the Palais Garnier.",
-        "source_url": "https://en.wikipedia.org/wiki/Symphony_in_C_(ballet)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "the-boys-from-boise": {
       "slug": "the-boys-from-boise",
       "title": "The Boys from Boise",
@@ -1558,6 +507,30 @@
       "summary": {
         "text": "The Boys from Boise was a television special that aired on the DuMont Network on September 28, 1944, on its New York City affiliate WABD. The special, a musical written and composed by Sam Medoff, was the first such production ever commissioned for television.",
         "source_url": "https://en.wikipedia.org/wiki/The_Boys_from_Boise_(TV_program)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-canterville-ghost": {
+      "slug": "the-canterville-ghost",
+      "title": "The Canterville Ghost",
+      "qid": "Q7721224",
+      "enwiki": "The Canterville Ghost (stage musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Canterville_Ghost_(stage_musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7721224"
+      },
+      "summary": {
+        "text": "The Canterville Ghost is a stage musical by Peter Quilter and Charles Miller, adapted from the 1887 short story of the same name by Oscar Wilde.  The show premiered on the London Fringe in 1995 and was presented on a national tour of the UK in 1998 starring Ron Moody.\nIt was published by Samuel French Ltd.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Canterville_Ghost_(stage_musical)",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -1616,42 +589,6 @@
         "modified": false
       }
     },
-    "the-merry-farmer": {
-      "slug": "the-merry-farmer",
-      "title": "The Merry Farmer",
-      "qid": "Q1198590",
-      "enwiki": "The Merry Farmer (operetta)",
-      "composers": [
-        {
-          "name": "Leo Fall",
-          "qid": "Q78585",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7231"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Viktor Léon",
-          "qid": "Q112366",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8951"
-        }
-      ],
-      "premiere": {
-        "date": "1907-07-27",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/The_Merry_Farmer_(operetta)",
-        "wikidata": "https://www.wikidata.org/wiki/Q1198590"
-      },
-      "summary": {
-        "text": "The Merry Farmer (German: Der fidele Bauer) is a German-language operetta composed by Leo Fall with a libretto by Viktor Léon. It premiered at the Mannheim Hoftheater on 27 July 1907 and was Fall's first major hit. It transferred to the Theater an der Wien in June 1908, and to the Theater des Westens, Berlin, in October 1908.\nAs The Merry Peasant, the operetta was produced in London in 1909, opening at the Strand Theatre on 23 October for 69 performances, with Courtice Pounds (as Mathaeus [sic]) & Sybil Arundale (as Annamirl). The English book and lyrics were by Cosmo Hamilton, with additional songs by Theodore Holland.",
-        "source_url": "https://en.wikipedia.org/wiki/The_Merry_Farmer_(operetta)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "the-osmonds": {
       "slug": "the-osmonds",
       "title": "The Osmonds",
@@ -1672,183 +609,6 @@
       "summary": {
         "text": "The Osmonds is a musical based on the life and music of The Osmonds. The musical's story is by Jay Osmond and features a book by Julian Bigg and Shaun Kerrison.",
         "source_url": "https://en.wikipedia.org/wiki/The_Osmonds_(musical)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "the-prisoner-of-the-caucasus": {
-      "slug": "the-prisoner-of-the-caucasus",
-      "title": "The Prisoner of the Caucasus",
-      "qid": "Q2364932",
-      "enwiki": "The Prisoner of the Caucasus (opera)",
-      "composers": [
-        {
-          "name": "César Cui",
-          "qid": "Q208546"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Viktor Krylov",
-          "qid": "Q4242758"
-        }
-      ],
-      "premiere": {
-        "date": "1883-02-16",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/The_Prisoner_of_the_Caucasus_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q2364932"
-      },
-      "summary": {
-        "text": "The Prisoner of the Caucasus (Кавказский пленник in Cyrillic, Kavkazskij plennik in transliteration) is an opera in three acts, composed by César Cui.  The libretto is credited to Viktor Krylov, and is based on Alexander Pushkin's 1822 poem The Prisoner of the Caucasus.\nThe English title has been rendered also as The Prisoner in the Caucasus and The Captive in the Caucasus.\nThe opera was preceded on the Russian stage by choreographer Charles Didelot's ballet of 1825.",
-        "source_url": "https://en.wikipedia.org/wiki/The_Prisoner_of_the_Caucasus_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "the-red-shoes-musical": {
-      "slug": "the-red-shoes-musical",
-      "title": "The Red Shoes",
-      "qid": "Q7759937",
-      "enwiki": "The Red Shoes (musical)",
-      "composers": [
-        {
-          "name": "Jule Styne",
-          "qid": "Q587741",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12466"
-        }
-      ],
-      "lyricists": [
-        {
-          "name": "Marsha Norman",
-          "qid": "Q545362",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7556"
-        }
-      ],
-      "librettists": [
-        {
-          "name": "Marsha Norman",
-          "qid": "Q545362",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7556"
-        }
-      ],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "ibdb": "https://www.ibdb.com/broadway-show/7420",
-        "wikipedia": "https://en.wikipedia.org/wiki/The_Red_Shoes_(musical)",
-        "wikidata": "https://www.wikidata.org/wiki/Q7759937"
-      },
-      "summary": {
-        "text": "The Red Shoes is a musical with a book by Marsha Norman, lyrics by Norman and Bob Merrill (credited as Paul Stryker) and music by Jule Styne.  Based on Powell and Pressburger's 1948 film, it tells the tale of a young ballerina who performs in an adaptation of the 1845 Hans Christian Andersen story.",
-        "source_url": "https://en.wikipedia.org/wiki/The_Red_Shoes_(musical)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "valley-of-shadows": {
-      "slug": "valley-of-shadows",
-      "title": "Valley of Shadows",
-      "qid": "Q18210105",
-      "enwiki": "Valley of Shadows (ballet)",
-      "composers": [
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "qid": "Q7315",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12486"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Valley_of_Shadows_(ballet)",
-        "wikidata": "https://www.wikidata.org/wiki/Q18210105"
-      },
-      "summary": {
-        "text": "Valley of Shadows is a one-act ballet created by Kenneth MacMillan in 1983 for the Royal Ballet. The music is by Pyotr Ilyich Tchaikovsky (extracts from Hamlet and Souvenir de Florence) and Bohuslav Martinů (Double Concerto, 1938). The story is loosely based on the novel The Garden of the Finzi-Continis by Giorgio Bassani. The designer was Yolanda Sonnabend, who had first collaborated with him on 1963's Symphony.",
-        "source_url": "https://en.wikipedia.org/wiki/Valley_of_Shadows_(ballet)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "zemire-et-azor": {
-      "slug": "zemire-et-azor",
-      "title": "Zémire et Azor",
-      "qid": "Q684721",
-      "enwiki": "Zémire et Azor",
-      "composers": [
-        {
-          "name": "André Grétry",
-          "qid": "Q210962"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Jean-François Marmontel",
-          "qid": "Q379923"
-        }
-      ],
-      "premiere": {
-        "date": "1771-11-09",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Z%C3%A9mire_et_Azor",
-        "wikidata": "https://www.wikidata.org/wiki/Q684721"
-      },
-      "summary": {
-        "text": "Zémire et Azor (Zémire and Azor) is an opéra comique, described as a comédie-ballet mêlée de chants et de danses, in four acts by the Belgian composer André Grétry. The French text was by Jean-François Marmontel based on La Belle et la bête (Beauty and the Beast) by Jeanne-Marie Leprince de Beaumont, and Amour pour amour by Pierre-Claude Nivelle de La Chaussée. The opera includes the famous coloratura display piece La Fauvette in which the soprano imitates birdsong.",
-        "source_url": "https://en.wikipedia.org/wiki/Z%C3%A9mire_et_Azor",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "zhenitba": {
-      "slug": "zhenitba",
-      "title": "Zhenitba",
-      "qid": "Q466919",
-      "enwiki": "Zhenitba",
-      "composers": [
-        {
-          "name": "Modest Petrovich Mussorgsky",
-          "qid": "Q132682",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/480522"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Modest Petrovich Mussorgsky",
-          "qid": "Q132682",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/480522"
-        }
-      ],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Zhenitba",
-        "wikidata": "https://www.wikidata.org/wiki/Q466919"
-      },
-      "summary": {
-        "text": "Zhenitba (Russian: Женитьба, Zhenit'ba, Marriage) is an unfinished opera begun in 1868 by Modest Mussorgsky to his own libretto based on Nikolai Gogol's comedy Marriage.  This 1842 play is a satire of courtship and cowardice, which centres on a young woman, Agafya, who is wooed by four bachelors, each with his own idiosyncrasies.",
-        "source_url": "https://en.wikipedia.org/wiki/Zhenitba",
         "license": "CC BY-SA 4.0",
         "modified": false
       }

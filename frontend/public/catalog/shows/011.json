@@ -1,44 +1,6 @@
 {
+  "live": true,
   "shows": {
-    "adelia": {
-      "slug": "adelia",
-      "title": "Adelia",
-      "qid": "Q503582",
-      "enwiki": "Adelia (opera)",
-      "composers": [
-        {
-          "name": "Gaetano Donizetti",
-          "qid": "Q101698",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/82838"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Girolamo Maria Marini",
-          "qid": "Q3107687"
-        },
-        {
-          "name": "Felice Romani",
-          "qid": "Q350103"
-        }
-      ],
-      "premiere": {
-        "date": "1841-02-11",
-        "venue": "Teatro Tordinona"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Adelia_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q503582"
-      },
-      "summary": {
-        "text": "Adelia, o La figlia dell'arciere (Adelia, or The Archer's Daughter) is an opera in three acts by Gaetano Donizetti. The Italian libretto was written partly by Felice Romani (acts 1 and 2) and by Girolamo Maria Marini (act 3), a part-time poet who had achieved notability the previous year with Otto Nicolai's Il templario. The opera premiered at the Teatro Apollo, Rome on 11 February 1841.",
-        "source_url": "https://en.wikipedia.org/wiki/Adelia_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "all-the-fun-of-the-fair": {
       "slug": "all-the-fun-of-the-fair",
       "title": "All the Fun of the Fair",
@@ -107,46 +69,6 @@
         "modified": false
       }
     },
-    "atlantida": {
-      "slug": "atlantida",
-      "title": "Atlántida",
-      "qid": "Q3780725",
-      "enwiki": "Atlántida (opera)",
-      "composers": [
-        {
-          "name": "Manuel de Falla",
-          "qid": "Q193283",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11578"
-        },
-        {
-          "name": "Ernesto Halffter",
-          "qid": "Q940656"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Manuel de Falla",
-          "qid": "Q193283",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11578"
-        }
-      ],
-      "premiere": {
-        "date": "1961-11-24",
-        "venue": "Gran Teatre del Liceu"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Atl%C3%A1ntida_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q3780725"
-      },
-      "summary": {
-        "text": "Atlántida (Atlantis) is an opera (titled a 'cantata escénica') in a prologue and three parts, by Manuel de Falla, based on the Catalan poem L'Atlàntida by Jacint Verdaguer. Falla worked on the score for twenty years but had not completed it at his death in Argentina in 1946; his disciple Ernesto Halffter prepared the score for performance.",
-        "source_url": "https://en.wikipedia.org/wiki/Atl%C3%A1ntida_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "behind-the-iron-mask": {
       "slug": "behind-the-iron-mask",
       "title": "Behind the Iron Mask",
@@ -167,42 +89,6 @@
       "summary": {
         "text": "Behind the Iron Mask is a musical with a book by Colin Scott and Melinda Walker and music and lyrics by John Robinson. It played a short run at the Duchess Theatre in London after receiving unanimously unfavorable reviews. Especially unique, this show has a cast of only three actors but runs for two hours. The show draws inspiration from Alexandre Dumas' Man in the Iron Mask.",
         "source_url": "https://en.wikipedia.org/wiki/Behind_the_Iron_Mask",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "betly": {
-      "slug": "betly",
-      "title": "Betly",
-      "qid": "Q794233",
-      "enwiki": "Betly",
-      "composers": [
-        {
-          "name": "Gaetano Donizetti",
-          "qid": "Q101698",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/82838"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Gaetano Donizetti",
-          "qid": "Q101698",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/82838"
-        }
-      ],
-      "premiere": {
-        "date": "1836-08-24",
-        "venue": "Teatro Nuovo"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Betly",
-        "wikidata": "https://www.wikidata.org/wiki/Q794233"
-      },
-      "summary": {
-        "text": "Betly, ossia La capanna svizzera (\"Betly, or The Swiss Chalet\") is a dramma giocoso in two acts (originally one) by the Italian composer Gaetano Donizetti. The composer wrote the Italian libretto after Eugène Scribe and Mélésville's libretto for Adolphe Adam's opéra comique Le chalet, in its turn based on Goethe's Singspiel Jery und Bätely (1779).",
-        "source_url": "https://en.wikipedia.org/wiki/Betly",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -255,99 +141,6 @@
         "modified": false
       }
     },
-    "der-schmied-von-gent": {
-      "slug": "der-schmied-von-gent",
-      "title": "Der Schmied von Gent",
-      "qid": "Q2170843",
-      "enwiki": "Der Schmied von Gent",
-      "composers": [
-        {
-          "name": "Franz Schreker",
-          "qid": "Q78528"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Franz Schreker",
-          "qid": "Q78528"
-        }
-      ],
-      "premiere": {
-        "date": "1932-10-29",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Der_Schmied_von_Gent",
-        "wikidata": "https://www.wikidata.org/wiki/Q2170843"
-      },
-      "summary": {
-        "text": "Der Schmied von Gent is a \"Grand magical opera\" in three acts by Franz Schreker with a German-language libretto by the composer after the story Smetse Smee by the Flemish author Charles de Coster.",
-        "source_url": "https://en.wikipedia.org/wiki/Der_Schmied_von_Gent",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "die-sieger": {
-      "slug": "die-sieger",
-      "title": "Die Sieger",
-      "qid": "Q5274434",
-      "enwiki": "Die Sieger",
-      "composers": [],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Die_Sieger",
-        "wikidata": "https://www.wikidata.org/wiki/Q5274434"
-      },
-      "summary": {
-        "text": "Die Sieger (The Victors; WWV 89), is a draft sketch for an opera text by Richard Wagner.\nDie Sieger was drafted between 1856 and 1858, at a period when Wagner had become greatly interested in Buddhism. The fragmentary prose sketch which survives shows that it was based on legends which Wagner discovered in Eugène Burnouf's 1844 Introduction to the History of Buddhism. The story tells of the love of the outcast chandala Prakriti for the monk Ānanda. Although both are ostracised by the other monks, Buddha permits their chaste union, and allows Prakriti to join the monastic community.\nWriting to Marie Sayn-Wittgenstein in 1857, Wagner refers to the girl as 'Savitri' and suggests a three-act structure. He further wrote about the project to Mathilde Wesendonck from Venice in 1858, comparing himself and Mathilde to Ananda and Savitri.\nNo musical sketches for this work are known to have been undertaken. Although Wagner planned a production of Die Sieger for 1870 in his 1865 programme of proposals for King Ludwig II of Bavaria, he never took it further. However, elements of the story persist in his opera Parsifal.\nElements of Die Sieger were used by the British composer Jonathan Harvey in his own opera, Wagner Dream (2007).",
-        "source_url": "https://en.wikipedia.org/wiki/Die_Sieger",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "dinner-at-eight": {
-      "slug": "dinner-at-eight",
-      "title": "Dinner at Eight",
-      "qid": "Q65075364",
-      "enwiki": "Dinner at Eight (opera)",
-      "composers": [
-        {
-          "name": "William Bolcom",
-          "qid": "Q710714",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11340"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Mark Campbell",
-          "qid": "Q54858776"
-        }
-      ],
-      "premiere": {
-        "date": "2017-03-11",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Dinner_at_Eight_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q65075364"
-      },
-      "summary": {
-        "text": "Dinner at Eight is an opera by William Bolcom to a libretto by Mark Campbell based on the play of the same name by George S. Kaufman. It was first performed at the Minnesota Opera on 11 March 2017 in a production staged by Tomer Zvulun. The same production received its European premiere in October of 2018 in the Wexford Festival in Ireland.",
-        "source_url": "https://en.wikipedia.org/wiki/Dinner_at_Eight_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "el-jorobado-de-paris": {
       "slug": "el-jorobado-de-paris",
       "title": "El Jorobado de París",
@@ -368,44 +161,6 @@
       "summary": {
         "text": "El Jorobado de París is an Argentinian musical based on the Victor Hugo novel Notre-Dame de Paris, created by Pepe Cibrián Campoy (book and lyrics) and Ángel Mahler (original music). It premiered at Estadio Luna Park in 1993. A new version ran in 1995, also at Estadio Luna Park. It went on tour in Argentina in 1999, and was revived in 2006 at Opera Theater of Buenos Aires, at Teatro Cervantes in 2007, and in 2013, in commemoration of its 20th anniversary, at Teatro Presidente Alvear.",
         "source_url": "https://en.wikipedia.org/wiki/El_Jorobado_de_Par%C3%ADs",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "fernand-cortez": {
-      "slug": "fernand-cortez",
-      "title": "Fernand Cortez",
-      "qid": "Q1133487",
-      "enwiki": "Fernand Cortez",
-      "composers": [
-        {
-          "name": "Gaspare Spontini",
-          "qid": "Q168485"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "G.A. Esmérard",
-          "qid": "Q102283252"
-        },
-        {
-          "name": "Victor-Joseph Étienne de Jouy",
-          "qid": "Q204889"
-        }
-      ],
-      "premiere": {
-        "date": "1809-11-28",
-        "venue": "Théâtre National"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Fernand_Cortez",
-        "wikidata": "https://www.wikidata.org/wiki/Q1133487"
-      },
-      "summary": {
-        "text": "Fernand Cortez, ou La conquête du Mexique  (Hernán Cortés, or The Conquest of Mexico) is a tragédie en musique in three acts by Gaspare Spontini with a French libretto by Étienne de Jouy and Joseph-Alphonse Esménard. It was first performed on 28 November 1809 by the Académie Impériale de Musique (Paris Opera) at the Salle Montansier.",
-        "source_url": "https://en.wikipedia.org/wiki/Fernand_Cortez",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -434,207 +189,6 @@
         "modified": false
       }
     },
-    "henry-viii": {
-      "slug": "henry-viii",
-      "title": "Henry VIII",
-      "qid": "Q3133124",
-      "enwiki": "Henry VIII (opera)",
-      "composers": [
-        {
-          "name": "Camille Saint-Saëns",
-          "qid": "Q150445",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/89221"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Armand Silvestre",
-          "qid": "Q2058470"
-        }
-      ],
-      "premiere": {
-        "date": "1883-03-05",
-        "venue": "Paris Opera"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Henry_VIII_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q3133124"
-      },
-      "summary": {
-        "text": "Henry VIII is an opera in four acts by Camille Saint-Saëns, from a libretto by Léonce Détroyat and Armand Silvestre, based on El cisma en Inglaterra (The Schism in England) (1627) by Pedro Calderón de la Barca.\nThe opera covers the period in Henry VIII's life when the king was attempting to divorce Queen Catherine of Aragon in favour of marrying Anne Boleyn, a move rejected by the Church.",
-        "source_url": "https://en.wikipedia.org/wiki/Henry_VIII_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "juha-madetoja": {
-      "slug": "juha-madetoja",
-      "title": "Juha",
-      "qid": "Q18689890",
-      "enwiki": "Juha (Madetoja)",
-      "composers": [
-        {
-          "name": "Leevi Madetoja",
-          "qid": "Q713467"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Aino Ackté",
-          "qid": "Q259161"
-        }
-      ],
-      "premiere": {
-        "date": "1935-02-17",
-        "venue": "Finnish National Opera"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Juha_(Madetoja)",
-        "wikidata": "https://www.wikidata.org/wiki/Q18689890"
-      },
-      "summary": {
-        "text": "Juha, Op. 74, is a verismo opera in three acts—comprising six tableaux—written from 1931 to 1934 by the Finnish composer Leevi Madetoja. The libretto, a collaboration between Madetoja and the Finnish soprano Aino Ackté, is based on Juhani Aho's 1911 novel by the same name. The story takes place on the border between West Karelia (Finno-Swedish territory) and East Karelia (Russian territory), and features as its central conflict a love triangle between the farmer Juha, his young wife Marja, and a Karelian merchant, Shemeikka. Disillusioned with rural life and seduced by promises of material comfort and romance, Marja runs away with Shemeikka; Juha, who maintains his wife has been abducted, eventually discovers her betrayal and commits suicide by jumping into the rapids.\nOn 17 February 1935, the Helsinki Philharmonic Orchestra premiered the work at the Finnish National Opera under the baton of Armas Järnefelt. Although a success at its premiere, Juha failed to match the popularity of Madetoja's first opera, The Ostrobothnians; enthusiasm quickly faded and the inaugural production was discontinued in February 1938, after 13 performances. Despite two mini-revivals in Madetoja's lifetime, he considered it the greatest disappointment of his career. Today, the opera is rarely performed and has been supplanted in the operatic repertoire by Aarre Merikanto's modernist 1922 version (first performed in 1963), which is based upon the same libretto.",
-        "source_url": "https://en.wikipedia.org/wiki/Juha_(Madetoja)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "kain-und-abel": {
-      "slug": "kain-und-abel",
-      "title": "Kain und Abel",
-      "qid": "Q140133656",
-      "enwiki": "Kain und Abel",
-      "composers": [
-        {
-          "name": "Felix von Weingartner",
-          "qid": "Q316920"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Kain_und_Abel",
-        "wikidata": "https://www.wikidata.org/wiki/Q140133656"
-      },
-      "summary": {
-        "text": "Kain und Abel is a one-act opera by Austrian conductor and composer Felix Weingartner, who also wrote the libretto. The work was composed in the early 1910s and premiered in 1914 in Darmstadt. After initial success, it disappeared from the repertory following the outbreak of the First World War and remained neglected until it was revived in 2026 at the Staatstheater Darmstadt marking its first staged revival in over a century.",
-        "source_url": "https://en.wikipedia.org/wiki/Kain_und_Abel",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "koukourgi": {
-      "slug": "koukourgi",
-      "title": "Koukourgi",
-      "qid": "Q30589932",
-      "enwiki": "Koukourgi",
-      "composers": [
-        {
-          "name": "Luigi Cherubini",
-          "qid": "Q20721"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Honoré-Nicolas-Marie Duveyrier",
-          "qid": "Q1627269"
-        }
-      ],
-      "premiere": {
-        "date": "2010-09-16",
-        "venue": "Stadttheater Klagenfurt"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Koukourgi",
-        "wikidata": "https://www.wikidata.org/wiki/Q30589932"
-      },
-      "summary": {
-        "text": "Koukourgi is a 1792 French-language comic opera by Luigi Cherubini to a libretto by Mélesville père, which was not performed in Cherubini's lifetime. The music was laid up for nearly forty years till four numbers were re-used in Ali Baba; ou, les Quarante Voleurs of 1833, to a libretto by Mélesville fils, Eugène Scribe, and with additional new music by the then elderly Cherubini. The opera was reconstructed and premiered in celebration of the composer's 250th anniversary at the Stadttheater Klagenfurt in 2010.",
-        "source_url": "https://en.wikipedia.org/wiki/Koukourgi",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "la-capricciosa-corretta": {
-      "slug": "la-capricciosa-corretta",
-      "title": "La capricciosa corretta",
-      "qid": "Q5965996",
-      "enwiki": "La capricciosa corretta",
-      "composers": [
-        {
-          "name": "Vicente Martín y Soler",
-          "qid": "Q377409"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Lorenzo Da Ponte",
-          "qid": "Q268166",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/534105"
-        }
-      ],
-      "premiere": {
-        "date": "1795-01-27",
-        "venue": "His Majesty's Theatre"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/La_capricciosa_corretta",
-        "wikidata": "https://www.wikidata.org/wiki/Q5965996"
-      },
-      "summary": {
-        "text": "La capricciosa corretta (The capricious woman reformed) is a comic opera (commedia per musica) in two acts composed by Vicente Martín y Soler. The libretto by Lorenzo Da Ponte is based on the comedy La moglie in calzoni from 1728 by Jacopo Angelo Nelli. The story takes place over a 24-hour period and examines the marriage of an older man to his vain and capricious second wife whose antics make her husband, stepchildren, and servants miserable until she is finally brought to heel through the machinations of her husband's major domo. The opera premiered under the title La scuola dei maritati (The school for spouses) at the King's Theatre in London on 27 January 1795 to considerable success. It was later performed throughout Europe under the alternative titles Gli sposi in contrasto, La moglie corretta, and La capricciosa corretta—the title used by Da Ponte and the one by which it is known today.",
-        "source_url": "https://en.wikipedia.org/wiki/La_capricciosa_corretta",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "melidore-et-phrosine": {
-      "slug": "melidore-et-phrosine",
-      "title": "Mélidore et Phrosine",
-      "qid": "Q3332924",
-      "enwiki": "Mélidore et Phrosine",
-      "composers": [
-        {
-          "name": "Étienne Méhul",
-          "qid": "Q364020"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Antoine-Vincent Arnault",
-          "qid": "Q585558"
-        }
-      ],
-      "premiere": {
-        "date": "1794-05-06",
-        "venue": "Salle Favart I"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/M%C3%A9lidore_et_Phrosine",
-        "wikidata": "https://www.wikidata.org/wiki/Q3332924"
-      },
-      "summary": {
-        "text": "Mélidore et Phrosine is an opera by the French composer Étienne Méhul. It takes the form of a drame lyrique (a type of opéra comique) in three acts. The libretto, by Antoine Vincent Arnault, is loosely based on the myth of Hero and Leander. The work was first performed at the Théâtre Favart in Paris on 6 May 1794. It is an important example of early Romantic opera.",
-        "source_url": "https://en.wikipedia.org/wiki/M%C3%A9lidore_et_Phrosine",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "napoleon": {
       "slug": "napoleon",
       "title": "Napoleon",
@@ -659,35 +213,6 @@
         "modified": false
       }
     },
-    "oberon-seyler": {
-      "slug": "oberon-seyler",
-      "title": "Oberon",
-      "qid": "Q104814148",
-      "enwiki": "Oberon (Seyler)",
-      "composers": [],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Friederike Sophie Seyler",
-          "qid": "Q86931"
-        }
-      ],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Oberon_(Seyler)",
-        "wikidata": "https://www.wikidata.org/wiki/Q104814148"
-      },
-      "summary": {
-        "text": "Oberon, or The Elf King (German: Oberon oder König der Elfen), or simply Oberon, originally known as Huon and Amanda (German: Hüon und Amande), is a romantic Singspiel in five acts by Friederike Sophie Seyler, inspired by the poem Oberon by Christoph Martin Wieland, which itself was based on the epic romance Huon of Bordeaux, a French medieval tale. It has been named for two of its central characters, the knight Huon and the fairy king Oberon, respectively. Musicologist Thomas Bauman describes the work as \"an important impulse for the creation of a generation of popular spectacles trading in magic and the exotic. Die Zauberflöte [The Magic Flute] in particular shares many features with Oberon, musical as well as textual.\"\nThe opera was published in \"Flensburg, Schleswig and Leipzig\" in 1789, the year Seyler died. Seyler was married to the prominent theatre director Abel Seyler, the founder of the Seyler Theatre Company and a noted promoter of both German opera and William Shakespeare. The opera was dedicated to their common long-time friend and collaborator, the actor Friedrich Ludwig Schröder. Seyler's opera and a plagiarized version by Karl Ludwig Giesecke both enjoyed popularity from the late 18th century. The opera had a central role in the development of Emanuel Schikaneder's theatre and its focus on fairy tale operas which culminated in The Magic Flute, and was one of the influences that the latter's libretto built upon.",
-        "source_url": "https://en.wikipedia.org/wiki/Oberon_(Seyler)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "once-upon-a-rhyme": {
       "slug": "once-upon-a-rhyme",
       "title": "Once Upon a Rhyme",
@@ -708,95 +233,6 @@
       "summary": {
         "text": "Once Upon a Rhyme is a musical with book and lyrics by Ronvé O’Daniel, and music by O’Daniel and Jevares C. Myrick. After a developmental reading at the 2015 New York Musical Theatre Festival where it won the “Award for Excellence,” the show has been presented at the Eugene O’Neill Theater Center National Music Theater Conference, the Johnny Mercer Writers Colony at Goodspeed Musicals, and the New Works Festival at TheatreWorks Silicon Valley. The musical was formerly titled iLLA! A Hip Hop Musical.",
         "source_url": "https://en.wikipedia.org/wiki/Once_Upon_a_Rhyme_(musical)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "praeludium": {
-      "slug": "praeludium",
-      "title": "Praeludium",
-      "qid": "Q23035934",
-      "enwiki": "Praeludium (ballet)",
-      "composers": [],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Praeludium_(ballet)",
-        "wikidata": "https://www.wikidata.org/wiki/Q23035934"
-      },
-      "summary": {
-        "text": "Praeludium, also called Praeludium (No. 1), was a modern dance solo choreographed by Martha Graham to music by Paul Nordoff. The piece was sometimes subtitled Dance of Greeting. It premiered on February 10, 1935, at the Guild Theatre in New York City. Graham created the original costumes. Edythe Gilfond redesigned them in 1938. In the same year Graham made Praeludium, she choreographed another solo, Formal Dance, to music by David Diamond. It was renamed Praeludium (No. 2).\nLittle else is known about the ballet, although a San Francisco critic described the work's theme, \"Miss Graham definitely projected the American tempo and architectural spatial patterns that belong essentially to the American scene.\" She added that the dance \"most completely accomplished her oft-stated aim,\" no doubt referring to Graham's goal of creating a \"uniquely American\" dance form.\"",
-        "source_url": "https://en.wikipedia.org/wiki/Praeludium_(ballet)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "printemps": {
-      "slug": "printemps",
-      "title": "Printemps",
-      "qid": "Q7245285",
-      "enwiki": "Printemps (ballet)",
-      "composers": [
-        {
-          "name": "Claude Debussy",
-          "qid": "Q4700",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/87554"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Printemps_(ballet)",
-        "wikidata": "https://www.wikidata.org/wiki/Q7245285"
-      },
-      "summary": {
-        "text": "Printemps is a ballet made on New York City Ballet by Lorca Massine to Debussy's eponymous music from 1887. The premiere took place on January 13, 1972, at the New York State Theater, Lincoln Center.",
-        "source_url": "https://en.wikipedia.org/wiki/Printemps_(ballet)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "tancredi": {
-      "slug": "tancredi",
-      "title": "Tancredi",
-      "qid": "Q911443",
-      "enwiki": "Tancredi",
-      "composers": [
-        {
-          "name": "Gioachino Rossini",
-          "qid": "Q9726",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/82835"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Gaetano Rossi",
-          "qid": "Q1491039"
-        }
-      ],
-      "premiere": {
-        "date": "1813-02-06",
-        "venue": "Teatro La Fenice"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Tancredi",
-        "wikidata": "https://www.wikidata.org/wiki/Q911443"
-      },
-      "summary": {
-        "text": "Tancredi is a melodramma eroico (opera seria or heroic opera) in two acts by composer Gioachino Rossini and librettist Gaetano Rossi (who was also to write Semiramide ten years later), based on Voltaire's play Tancrède (1760). The opera made its first appearance at the Teatro La Fenice in Venice on 6 February 1813, less than a month after the premiere of his previous opera Il signor Bruschino. The overture, borrowed from La pietra del paragone, is a popular example of Rossini's characteristic style and is regularly performed in concert and recorded.\nConsidered by Stendhal, Rossini's earliest biographer, to be \"high amongst the composer's masterworks\", and describing it as \"a genuine thunderbolt out of a clear, blue sky for the Italian lyric theatre,\" his librettist Gaetano Rossi notes that, with it, \"Rossini rose to glory\". Richard Osborne proclaims it to be \"his fully fledged opera seria and it established him, more or less instantly, as Italy's leading composer of contemporary opera.\"\nAlthough the original version had a happy ending (as required by the opera seria tradition), soon after the Venice premiere, Rossini—who was more of a Neo-classicist than a Romantic, notes Servadio—had the poet Luigi Lechi rework the libretto to emulate the original tragic ending by Voltaire. In this new ending, presented at the Teatro Comunale in Ferrara on 21 March 1813, Tancredi wins the battle but is mortally wounded, and only then does he learn that Amenaide never betrayed him. Argirio marries the lovers in time for Tancredi to die in his wife's arms.\nAs has been stated by Philip Gossett and Patricia Brauner, it was the rediscovery of the score of this ending in 1974 (although elsewhere Gossett provides evidence that it was 1976) that resulted in the version which is usually performed today.",
-        "source_url": "https://en.wikipedia.org/wiki/Tancredi",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -876,101 +312,6 @@
         "modified": false
       }
     },
-    "the-fairy-queen": {
-      "slug": "the-fairy-queen",
-      "title": "The Fairy-Queen",
-      "qid": "Q2743188",
-      "enwiki": "The Fairy-Queen",
-      "composers": [
-        {
-          "name": "Henry Purcell",
-          "qid": "Q9695",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12267"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "1692-05-02",
-        "venue": "Dorset Garden Theatre"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/The_Fairy-Queen",
-        "wikidata": "https://www.wikidata.org/wiki/Q2743188"
-      },
-      "summary": {
-        "text": "The Fairy-Queen (1692; Purcell catalogue number Z.629) is a semi-opera by Henry Purcell; a \"Restoration spectacular\". The libretto is an anonymous adaptation of William Shakespeare's comedy A Midsummer Night's Dream. First performed in 1692, The Fairy-Queen was composed three years before Purcell's death at the age of 36. Following his death, the score was lost and only rediscovered early in the twentieth century.\nPurcell did not set any of Shakespeare's text to music; instead he composed music for short masques in every act but the first. The play itself was also slightly modernised in keeping with seventeenth-century dramatic conventions, but in the main the spoken text is as Shakespeare wrote it. The masques are related to the play metaphorically, rather than literally. Many critics have stated that they bear no relationship to the play. Recent scholarship has shown that the opera, which ends with a masque featuring Hymen, the God of Marriage, was composed for the fifteenth wedding anniversary of King William III and Queen Mary II.\nGrowing interest in Baroque music and the rise of the countertenor contributed to the work's re-entry into the repertoire. The opera received several full-length recordings in the latter part of the 20th century and several of its arias, including \"The Plaint\" (\"O let me weep\"), have become popular recital pieces.\nIn July 2009, in celebration of the 350th anniversary of Purcell's birth, The Fairy-Queen was performed by Glyndebourne Festival Opera using a new edition of the score, prepared for the Purcell Society by Bruce Wood and Andrew Pinnock.",
-        "source_url": "https://en.wikipedia.org/wiki/The_Fairy-Queen",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "the-floating-box-a-story-in-chinatown": {
-      "slug": "the-floating-box-a-story-in-chinatown",
-      "title": "The Floating Box: A Story in Chinatown",
-      "qid": "Q7734482",
-      "enwiki": "The Floating Box: A Story in Chinatown",
-      "composers": [
-        {
-          "name": "Jason Kao Hwang",
-          "qid": "Q5818393"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Catherine Filloux",
-          "qid": "Q5052678"
-        }
-      ],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/The_Floating_Box%3A_A_Story_in_Chinatown",
-        "wikidata": "https://www.wikidata.org/wiki/Q7734482"
-      },
-      "summary": {
-        "text": "The Floating Box: A Story in Chinatown is a chamber opera by Jason Kao Hwang, to a libretto by Catherine Filloux. It premiered in 2001, directed by Jean Randich and conducted by Juan Carlos Rivas. The original cast was Sandia Ang (Soprano), Ryu-Kyung Kim (Mezzo-contralto), and Zheng Zhou (Baritone).\nInstrumentation for the opera includes many traditional Chinese instruments, including the pipa, gaohu, erhu, and zhonghu, heard together with western instruments including the piccolo, flute, alto flute, B flat clarinet, bass clarinet, cello, accordion, vibraphone and other percussion instruments. \nThe opera has been recorded on New World Records, with the original cast and conductor.",
-        "source_url": "https://en.wikipedia.org/wiki/The_Floating_Box%3A_A_Story_in_Chinatown",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "the-lilac-domino": {
-      "slug": "the-lilac-domino",
-      "title": "The Lilac Domino",
-      "qid": "Q6547509",
-      "enwiki": "The Lilac Domino",
-      "composers": [
-        {
-          "name": "Charles Cuvillier",
-          "qid": "Q5076618",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4736"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "ibdb": "https://www.ibdb.com/broadway-show/5405",
-        "wikipedia": "https://en.wikipedia.org/wiki/The_Lilac_Domino",
-        "wikidata": "https://www.wikidata.org/wiki/Q6547509"
-      },
-      "summary": {
-        "text": "Der lila Domino (The Lilac Domino) is an operetta in three acts composed by Charles Cuvillier. The original German libretto is by Emmerich von Gatti and Bela Jenbach, about a gambling count who falls in love at a masquerade ball with a noblewoman wearing a lilac domino mask.\nThe operetta achieved far greater popularity in Britain and America than it did in Germany or France. Although The Lilac Domino became Cuvillier's greatest international hit, he won success in his native Paris with the operetta La reine s'amuse (1912; The Naughty Princess in London, 1920). He was popular in Germany before the First World War, and Der lila Domino was the first of two operettas that he wrote for German theatres.",
-        "source_url": "https://en.wikipedia.org/wiki/The_Lilac_Domino",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "the-mad-show": {
       "slug": "the-mad-show",
       "title": "The Mad Show",
@@ -1007,36 +348,6 @@
         "modified": false
       }
     },
-    "the-naughty-princess": {
-      "slug": "the-naughty-princess",
-      "title": "The Naughty Princess",
-      "qid": "Q7753299",
-      "enwiki": "The Naughty Princess",
-      "composers": [
-        {
-          "name": "Charles Cuvillier",
-          "qid": "Q5076618",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4736"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/The_Naughty_Princess",
-        "wikidata": "https://www.wikidata.org/wiki/Q7753299"
-      },
-      "summary": {
-        "text": "The Naughty Princess is an opéra bouffe with music by Charles Cuvillier, book by J. Hastings Turner, and lyrics by Adrian Ross. The work, adapted from La reine joyeuse by Cuvillier and Andre Barde, depicts a princess with very modern ideas, who rebels against arranged marriage and court etiquette. It was first produced in London in 1920 and 1921.",
-        "source_url": "https://en.wikipedia.org/wiki/The_Naughty_Princess",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "the-quaker-girl": {
       "slug": "the-quaker-girl",
       "title": "The Quaker Girl",
@@ -1058,36 +369,6 @@
       "summary": {
         "text": "The Quaker Girl is an Edwardian musical comedy in three acts with a book by James T. Tanner, lyrics by Adrian Ross and Percy Greenbank, and music by Lionel Monckton.  In its story, The Quaker Girl contrasts dour Quaker morality with Parisienne high fashion.  The protagonist, Prudence, is thrown out of her house by her quaker parents for drinking a glass of champagne.  Later, in Paris, her simple grey dress and bonnet become the height of fashion.\nThe musical opened at the Adelphi Theatre in London on 5 November 1910 and ran for an extremely successful 536 performances.  It starred Gertie Millar and C. Hayden Coffin.  Phyllis Dare starred in the Paris production in 1911.  It then opened at the Park Theatre on Broadway on 23 October 1911, running for a successful 240 performances.  A revised version was produced at the London Coliseum on 25 May 1944, but the run was interrupted by bombing.  The piece then toured the British provinces and soon re-opened in London at the Stoll Theatre in February, 1945, followed by extensive touring until December, 1948.  The piece was popular with amateur theatre groups, particularly in Britain, from the 1920s until 1990, receiving over 250 UK productions during that period, but it has been produced only sporadically since then.\nOf the musical numbers in the score, only \"Come to the Ball\" continues to be well known, but \"Tony from America\" and \"When a bad bad Boy\" are also key numbers.  Selections from the score were recorded in 2004 by Theatre Bel-Etage chorus and orchestra, conductor Mart Sander. The complete show, including dialog, was revived in a staged concert with piano in July 2007 by Lyric Theatre of San Jose, California.",
         "source_url": "https://en.wikipedia.org/wiki/The_Quaker_Girl",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "the-traveling-dancer": {
-      "slug": "the-traveling-dancer",
-      "title": "The Traveling Dancer",
-      "qid": "Q7770005",
-      "enwiki": "The Traveling Dancer",
-      "composers": [
-        {
-          "name": "Cesare Pugni",
-          "qid": "Q934369",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/493566"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/The_Traveling_Dancer",
-        "wikidata": "https://www.wikidata.org/wiki/Q7770005"
-      },
-      "summary": {
-        "text": "La Prima Ballerina, ou L'embuscade or The Traveling Dancer (aka La Danseuse en voyage) is a ballet (choreographic episode) in one act, with choreography by Marius Petipa, music by Cesare Pugni and libretto by Paul Taglioni. It was based on a ballet created by Paul Taglioni for the Ballet of Her Majesty's Theatre, London first presented on June 14, 1849.\nIt was first presented by the Imperial Ballet on November April 16, 1864 (Julian/Gregorian calendar dates), at the Imperial Bolshoi Kamenny Theatre, St. Petersburg, Russia. The principal Dancers were Mariia Surovshchikova-Petipa as the Prima Ballerina, and Timofei Stukolkin as Rinaldo.\nA variation from this ballet—composed by Petipa in 1905 for the Prima Ballerina Olga Preobrajenskaya—was the last choreography Petipa ever created (as noted in his Diaries).\nLev Ivanov produced a revival for the Imperial Ballet, with the composer/conductor Riccardo Drigo editing and making additions to Cesare Pugni's original score. First presented on July 26/August 7 (Julian/Gregorian calendar dates), 1893 for the Imperial court at the theatre of Krasnoe Selo. St. Petersburg, Russia.",
-        "source_url": "https://en.wikipedia.org/wiki/The_Traveling_Dancer",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -1169,65 +450,26 @@
         "modified": false
       }
     },
-    "winter-dreams": {
-      "slug": "winter-dreams",
-      "title": "Winter Dreams",
-      "qid": "Q18210208",
-      "enwiki": "Winter Dreams (ballet)",
-      "composers": [
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "qid": "Q7315",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12486"
-        }
-      ],
+    "wuthering-heights": {
+      "slug": "wuthering-heights",
+      "title": "Wuthering Heights",
+      "qid": "Q8039376",
+      "enwiki": "Wuthering Heights (musical)",
+      "composers": [],
       "lyricists": [],
       "librettists": [],
       "premiere": {
-        "date": "1991-02-07",
+        "date": null,
         "venue": null
       },
       "awards": [],
       "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Winter_Dreams_(ballet)",
-        "wikidata": "https://www.wikidata.org/wiki/Q18210208"
+        "wikipedia": "https://en.wikipedia.org/wiki/Wuthering_Heights_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q8039376"
       },
       "summary": {
-        "text": "Winter Dreams is a one-act ballet choreographed by Kenneth MacMillan to piano pieces by Pyotr Ilyich Tchaikovsky selected and arranged by Philip Gammon and traditional Russian music selected and arranged for guitar and mandolin ensemble by Thomas Hartman. With scenery and costumes designed by Peer Farmer and lighting designed by Clive Thomas, it was first presented by The Royal Ballet at the Royal Opera House, London, on 7 February 1991.",
-        "source_url": "https://en.wikipedia.org/wiki/Winter_Dreams_(ballet)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "within-the-golden-hour": {
-      "slug": "within-the-golden-hour",
-      "title": "Within the Golden Hour",
-      "qid": "Q97323449",
-      "enwiki": "Within the Golden Hour",
-      "composers": [
-        {
-          "name": "Antonio Vivaldi",
-          "qid": "Q1340"
-        },
-        {
-          "name": "Ezio Bosso",
-          "qid": "Q3736359"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "2008",
-        "venue": "War Memorial Opera House"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Within_the_Golden_Hour",
-        "wikidata": "https://www.wikidata.org/wiki/Q97323449"
-      },
-      "summary": {
-        "text": "Within the Golden Hour is a one-act contemporary ballet choreographed by Christopher Wheeldon, composed by Ezio Bosso and featured music by Antonio Vivaldi. The ballet premiered in 2008 at the War Memorial Opera House, danced by the San Francisco Ballet.",
-        "source_url": "https://en.wikipedia.org/wiki/Within_the_Golden_Hour",
+        "text": "Wuthering Heights is Bernard J. Taylor's musical/operatic version of Emily Brontë's 1847 novel of the same name. The musical first appeared in 1992 as a studio recording featuring Lesley Garrett as Cathy, Dave Willetts as Heathcliff, Bonnie Langford as Isabella Linton and other stars of Britain's West End stage. The show has since been translated into six languages from the original English and has been extensively staged in the UK,  USA, The Netherlands,  Germany, Poland, Romania, Australia and New Zealand. In 2008 a production was being planned in Budapest, Hungary, where Taylor's Much Ado received its European continental premiere in 2007. Lesley Garrett has included her recording of 'I Belong To The Earth' on two of her solo albums.\nThe adaptation had the support of the Bronte Society at Haworth in Yorkshire, whose curator at the time, Dr. Juliet Barker,  wrote: \"Various other attempts at adapting Wuthering Heights for the stage have been submitted to the Bronte Society in the past but Bernard Taylor's adaptation is the first that I have really approved of and would be prepared to support.\"\nMark Seaward, Editor of the Bronte Society's magazine, wrote: \"Wuthering Heights is an intensely dramatic work, charged with emotion; it is not surprising that many dramatists, choreographers, lyricists and composers have been drawn to recreate it for stage and screen. There have been seven major films between 1920 and 1991 and in addition there has been a ballet (1982), and opera (1967) and numerous adaptations and plays, including several for television — and not forgetting Kate Bush’s song “Wuthering Heights” which topped the charts! Bernard J. Taylor's work marks the first time that the true spirit and drama of Emily Brontë's masterpiece has been captured in a musical.\"\nThe summer, 1992 edition of Show Music Magazine, USA, reported: \"Bernard J. Taylor's big, sweepingly romantic score sustains a feeling of dark passion entirely appropriate for an adaptation of Emily Bronte's novel concerning the ill-fated love between Cathy and Heathcliff.\"",
+        "source_url": "https://en.wikipedia.org/wiki/Wuthering_Heights_(musical)",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
