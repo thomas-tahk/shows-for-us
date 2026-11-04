@@ -1,4 +1,4 @@
-import { test, expect } from '@playwright/test'
+import { test, expect } from './catalogFixture'
 
 test('footer credits Wikidata/Wikipedia and discloses Ticketmaster data', async ({ page }) => {
   await page.setViewportSize({ width: 390, height: 800 })

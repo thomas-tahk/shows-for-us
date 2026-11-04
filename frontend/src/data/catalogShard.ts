@@ -1,5 +1,6 @@
 import { useCallback, useEffect, useState } from 'react'
-import { CATALOG_INDEX_URL, shardUrl, type CatalogIndex, type CatalogShard, type CatalogShow } from './catalogShow'
+import { loadCatalogIndex } from './catalogIndexCache'
+import { shardUrl, type CatalogShard, type CatalogShow } from './catalogShow'
 
 /**
  * The record for a slug, or null when there is none. A missing shard file is null too:
@@ -18,11 +19,9 @@ export async function fetchCatalogShow(slug: string, signal?: AbortSignal): Prom
 }
 
 /** meta.live of the index; undefined when it can't be read (the sample-data note is then skipped). */
-export async function fetchCatalogLive(signal?: AbortSignal): Promise<boolean | undefined> {
+export async function fetchCatalogLive(): Promise<boolean | undefined> {
   try {
-    const res = await fetch(CATALOG_INDEX_URL, { signal })
-    if (!res.ok) return undefined
-    return ((await res.json()) as CatalogIndex).meta.live
+    return (await loadCatalogIndex()).meta.live
   } catch {
     return undefined
   }
@@ -43,9 +42,11 @@ interface Keyed {
 export function useCatalogLive(): boolean | undefined {
   const [live, setLive] = useState<boolean | undefined>(undefined)
   useEffect(() => {
-    const ctrl = new AbortController()
-    void fetchCatalogLive(ctrl.signal).then(v => !ctrl.signal.aborted && setLive(v))
-    return () => ctrl.abort()
+    let active = true
+    void fetchCatalogLive().then(v => active && setLive(v))
+    return () => {
+      active = false
+    }
   }, [])
   return live
 }

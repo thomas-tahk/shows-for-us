@@ -1,0 +1,55 @@
+{
+  "shows": {
+    "chicago": {
+      "slug": "chicago",
+      "title": "Chicago",
+      "qid": "Q1000020",
+      "enwiki": "Chicago (musical)",
+      "composers": [
+        {
+          "name": "John Kander",
+          "qid": "Q1000005"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Fred Ebb",
+          "qid": "Q1000006"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Fred Ebb",
+          "qid": "Q1000006"
+        },
+        {
+          "name": "Bob Fosse",
+          "qid": "Q1000007"
+        }
+      ],
+      "premiere": {
+        "date": "1975-06-03",
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Tony Award for Best Revival of a Musical",
+          "qid": "Q1000201"
+        }
+      ],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3",
+        "playbill": "https://playbill.com/production/chicago-placeholder-0000000003",
+        "official_site": "https://chicagothemusical.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/Chicago_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1000020"
+      },
+      "summary": {
+        "text": "Placeholder intro for Chicago (musical). Not Wikipedia text.",
+        "source_url": "https://en.wikipedia.org/wiki/Chicago_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

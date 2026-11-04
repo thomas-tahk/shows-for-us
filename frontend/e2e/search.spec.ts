@@ -1,4 +1,4 @@
-import { test, expect } from '@playwright/test'
+import { test, expect } from './catalogFixture'
 
 const links = 'main a[href^="/show/"]'
 
@@ -31,6 +31,23 @@ for (const width of [390, 1280]) {
     })
   })
 }
+
+test('with the index down, typing does not refetch; the next focus does', async ({ page }) => {
+  let requests = 0
+  await page.route('**/catalog/index.json', r => {
+    requests++
+    return r.fulfill({ status: 500, body: 'nope' })
+  })
+  await page.goto('/')
+  const box = page.getByLabel('Search shows')
+  await box.click()
+  await box.pressSequentially('chicago')
+  await expect(page.getByText(/full catalogue couldn.t load/i)).toBeVisible()
+  expect(requests).toBe(1)
+  await box.blur()
+  await box.focus()
+  await expect.poll(() => requests).toBe(2)
+})
 
 test('catalogue-only show and result count', async ({ page }) => {
   await page.goto('/')
