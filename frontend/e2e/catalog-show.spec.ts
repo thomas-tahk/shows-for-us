@@ -1,5 +1,5 @@
 import type { Page } from '@playwright/test'
-import { test, expect } from './catalogFixture'
+import { test, expect, readFixture } from './catalogFixture'
 
 // String form: the e2e tsconfig has no DOM lib.
 async function expectNoHScroll(page: Page) {
@@ -87,10 +87,9 @@ test('a catalogue show page never requests the 1 MB index', async ({ page }) => 
 
 test('a shard without `live` shows no sample-data note', async ({ page }) => {
   await page.route('**/catalog/shows/065.json', async route => {
-    const res = await route.fetch()
-    const shard = await res.json()
+    const shard = JSON.parse(readFixture('shows/065.json') ?? '{}')
     delete shard.live
-    await route.fulfill({ response: res, json: shard })
+    await route.fulfill({ json: shard })
   })
   await page.goto('/show/show-boat')
   await expect(page.getByRole('heading', { level: 1, name: 'Show Boat' })).toBeVisible()
@@ -99,10 +98,9 @@ test('a shard without `live` shows no sample-data note', async ({ page }) => {
 
 test('a summary with newlines renders as separate paragraphs', async ({ page }) => {
   await page.route('**/catalog/shows/065.json', async route => {
-    const res = await route.fetch()
-    const shard = await res.json()
+    const shard = JSON.parse(readFixture('shows/065.json') ?? '{}')
     shard.shows['show-boat'].summary.text = 'First paragraph.\nSecond paragraph.'
-    await route.fulfill({ response: res, json: shard })
+    await route.fulfill({ json: shard })
   })
   await page.goto('/show/show-boat')
   const paras = page.getByRole('region', { name: 'From Wikipedia' }).locator('p')
