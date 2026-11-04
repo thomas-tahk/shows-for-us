@@ -1,4 +1,5 @@
 {
+  "live": true,
   "shows": {
     "abyssinia-1987-musical": {
       "slug": "abyssinia-1987-musical",
@@ -21,40 +22,6 @@
       "summary": {
         "text": "Abyssinia is a musical with music by Ted Kociolek, lyrics by James Racheff, and a book by both Racheff and Kociolek, based on the novel Marked by Fire, by Joyce Carol Thomas.",
         "source_url": "https://en.wikipedia.org/wiki/Abyssinia_(1987_musical)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "almast": {
-      "slug": "almast",
-      "title": "Almast",
-      "qid": "Q4733721",
-      "enwiki": "Almast",
-      "composers": [
-        {
-          "name": "Alexander Spendiaryan",
-          "qid": "Q969702"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Sophia Parnok",
-          "qid": "Q177288"
-        }
-      ],
-      "premiere": {
-        "date": "1930-06-23",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Almast",
-        "wikidata": "https://www.wikidata.org/wiki/Q4733721"
-      },
-      "summary": {
-        "text": "Almast (Armenian: Ալմաստ meaning diamond) is the only opera of the Armenian composer Alexander Spendiaryan.",
-        "source_url": "https://en.wikipedia.org/wiki/Almast",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -102,187 +69,6 @@
         "modified": false
       }
     },
-    "atalanta": {
-      "slug": "atalanta",
-      "title": "Atalanta",
-      "qid": "Q381411",
-      "enwiki": "Atalanta (opera)",
-      "composers": [
-        {
-          "name": "George Frideric Handel",
-          "qid": "Q7302",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/89505"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "1736-05-12",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Atalanta_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q381411"
-      },
-      "summary": {
-        "text": "Atalanta (HWV 35) is a pastoral opera in three acts by George Frideric Handel composed in 1736. It is based upon the mythological female athlete, Atalanta, the libretto (which is in Italian) being derived from the book La Caccia in Etolia by Belisario Valeriani. The identity of the librettist is not known.\nHandel composed it for the London celebrations of the marriage in 1736 of Frederick, Prince of Wales, eldest son of King George II, to Princess Augusta of Saxe-Gotha. The first performance took place on 12 May 1736 in the Covent Garden Theatre. It closed with a spectacular display of fireworks, which was highly popular with the royal family and the London audience, and the opera and fireworks display were revived a number of times in the year of its first performance.\nAn arioso from the opera, \"Care selve\", is often heard in recital and on recordings.",
-        "source_url": "https://en.wikipedia.org/wiki/Atalanta_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "bajazet-gasparini-opera": {
-      "slug": "bajazet-gasparini-opera",
-      "title": "Bajazet",
-      "qid": "Q85744959",
-      "enwiki": "Bajazet (Gasparini opera)",
-      "composers": [],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Bajazet_(Gasparini_opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q85744959"
-      },
-      "summary": {
-        "text": "Bajazet (Italian pronunciation: [baʒaˈze]) is an opera by Francesco Gasparini, a revision of his 1711 work Tamerlano. It was first performed at the Teatro Pubblico in Reggio Emilia in 1719, with designs by Pietro Righini.\nThe first production included Francesco Borosini in the title role,  Antonio Bernacchi (Tamerlano), Marina Benta Bulgarelli (Asteria), Faustina Bordoni (Irene), Diana Vico (Andronico), Antonio Piasi (Clearco), Battista Roberti (Leone) and Girolamo Bartoluzzi Regiano (Zaida).\nA second production was staged in Venice in 1723. Three versions of the work are known, but it is only the 1719 one for which all the music is known to have survived.",
-        "source_url": "https://en.wikipedia.org/wiki/Bajazet_(Gasparini_opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "beatrice-et-benedict": {
-      "slug": "beatrice-et-benedict",
-      "title": "Béatrice et Bénédict",
-      "qid": "Q791661",
-      "enwiki": "Béatrice et Bénédict",
-      "composers": [
-        {
-          "name": "Hector Berlioz",
-          "qid": "Q1151",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/485477"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Hector Berlioz",
-          "qid": "Q1151",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/485477"
-        }
-      ],
-      "premiere": {
-        "date": "1862-08-09",
-        "venue": "Theater Baden-Baden"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/B%C3%A9atrice_et_B%C3%A9n%C3%A9dict",
-        "wikidata": "https://www.wikidata.org/wiki/Q791661"
-      },
-      "summary": {
-        "text": "Béatrice et Bénédict (Beatrice and Benedick) is an opéra comique in two acts by French composer Hector Berlioz. Berlioz wrote the French libretto himself, based in general outline on a subplot in Shakespeare's Much Ado About Nothing.\nBerlioz had been interested in setting Shakespeare's comedy since his return from Italy in 1833, but only composed the score of Béatrice et Bénédict following the completion of Les Troyens in 1858. It was first performed at the opening of the Theater Baden-Baden on 9 August 1862. Berlioz conducted the first two performances of a German version in Weimar in 1863, where, as he wrote in his memoirs, he was \"overwhelmed by all sorts of kind attention.\"\nIt is the first notable version of Shakespeare's play in operatic form, and was followed by works by, among others, Árpád Doppler, Paul Puget, Charles Villiers Stanford, and Reynaldo Hahn.\nBerlioz biographer David Cairns has written: \"Listening to the score's exuberant gaiety, only momentarily touched by sadness, one would never guess that its composer was in pain when he wrote it and impatient for death\".",
-        "source_url": "https://en.wikipedia.org/wiki/B%C3%A9atrice_et_B%C3%A9n%C3%A9dict",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "billboards": {
-      "slug": "billboards",
-      "title": "Billboards",
-      "qid": "Q4911771",
-      "enwiki": "Billboards (ballet)",
-      "composers": [
-        {
-          "name": "Prince",
-          "qid": "Q7542",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/90818"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Billboards_(ballet)",
-        "wikidata": "https://www.wikidata.org/wiki/Q4911771"
-      },
-      "summary": {
-        "text": "Billboards is a ballet commissioned by Gerald Arpino for the Joffrey Ballet featuring the works of Prince. The premiere was on Wednesday, January 27, 1993, at Hancher Auditorium, University of Iowa, Iowa City.\nNo new music was used, although Prince contributed a special extended ten-minute orchestrated version of \"Thunder\" from the Diamonds and Pearls album. A video of the performance was released on VHS in February 1994, and on Laserdisc format.",
-        "source_url": "https://en.wikipedia.org/wiki/Billboards_(ballet)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "blind-injustice": {
-      "slug": "blind-injustice",
-      "title": "Blind Injustice",
-      "qid": "Q65969751",
-      "enwiki": "Blind Injustice (opera)",
-      "composers": [
-        {
-          "name": "Scott Davenport Richards",
-          "qid": "Q65969840",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/94108"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "David Cote",
-          "qid": "Q5232599"
-        }
-      ],
-      "premiere": {
-        "date": "2019-07-22",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "official_site": "https://www.cincinnatiopera.org/blind-injustice",
-        "wikipedia": "https://en.wikipedia.org/wiki/Blind_Injustice_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q65969751"
-      },
-      "summary": {
-        "text": "Blind Injustice is an opera based on the stories of six people who were wrongfully convicted of crimes in Ohio, and who eventually had their convictions overturned through the work of the Ohio Innocence Project. The opera was commissioned by the Cincinnati Opera; it was written by librettist David Cote and composer Scott Davenport Richards. The libretto was based in part on the book Blind Injustice by Ohio Innocence Project co-founder Mark Godsey, and on interviews with those whose stories are portrayed. The opera opened at Cincinnati Opera on July 22, 2019.",
-        "source_url": "https://en.wikipedia.org/wiki/Blind_Injustice_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "bum-phillips": {
-      "slug": "bum-phillips",
-      "title": "Bum Phillips",
-      "qid": "Q39073235",
-      "enwiki": "Bum Phillips (opera)",
-      "composers": [],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "official_site": "http://www.bumphillipsopera.com/",
-        "wikipedia": "https://en.wikipedia.org/wiki/Bum_Phillips_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q39073235"
-      },
-      "summary": {
-        "text": "Bum Phillips is an opera in two acts by American composer Peter Stopschinski. Kirk Lynn wrote the English language libretto based on Bum Phillips' 2010 memoirs Bum Phillips: Coach, Cowboy, Christian. The opera was conceived by theater director Luke Leonard and commissioned by Monk Parrots, Inc. as described in a 2014 Sports on Earth article titled \"A Night at the Bum Phillips Opera\".",
-        "source_url": "https://en.wikipedia.org/wiki/Bum_Phillips_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "busker-alley": {
       "slug": "busker-alley",
       "title": "Busker Alley",
@@ -321,6 +107,30 @@
       "summary": {
         "text": "Busker Alley is a musical with music and lyrics by the Sherman Brothers and a book by AJ Carothers, based on the 1938 British film St. Martin's Lane.\nTommy Tune led a 1995 touring production as Charlie Baxter, a street entertainer in prewar London, in love with another busker, who follows her dream of becoming a star.",
         "source_url": "https://en.wikipedia.org/wiki/Busker_Alley",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "caligula": {
+      "slug": "caligula",
+      "title": "Caligula",
+      "qid": "Q5021345",
+      "enwiki": "Caligula (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Caligula_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5021345"
+      },
+      "summary": {
+        "text": "Caligula, subtitled \"An Ancient Glam Epic\", is a stage musical about the notorious Roman Emperor Caligula in the style of 1970s glam rock.\nThe musical's book, music, and lyrics are by Eric Svejcar. The musical was selected as a finalist for the 2003 Richard Rodgers Award. It was first presented publicly in May 2004 in a concert production at the Zipper Theatre in New York City. The first full production was presented at the 2004 New York Musical Theatre Festival (NYMF) as one of the first shows of the inaugural festival. The production received the Golden NYMF audience award and played an extended run beyond the festival at the Theatre At St. Clements in New York City. The production was directed by Michael Unger and starred Euan Morton.\nSubsequent workshop productions were presented in 2006 at the Actors Studio in New York City as well as further development in conjunction with Lafayette College in Easton, PA. The latter workshop productions starred Braden Tilghman as General Cassius Chaerea and Euan Morton as Emperor Caligula. In July 2009, a staged reading was presented (starring Morton, Anastasia Barzee, David Edwards, Autumn Hurlbert, and Matt Bogart) at New World Stages in NYC.",
+        "source_url": "https://en.wikipedia.org/wiki/Caligula_(musical)",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -367,74 +177,6 @@
         "modified": false
       }
     },
-    "destiny": {
-      "slug": "destiny",
-      "title": "Destiny",
-      "qid": "Q3133498",
-      "enwiki": "Destiny (Janáček)",
-      "composers": [
-        {
-          "name": "Leoš Janáček",
-          "qid": "Q184933"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Leoš Janáček",
-          "qid": "Q184933"
-        },
-        {
-          "name": "Fedora Bartošová",
-          "qid": "Q25423683"
-        }
-      ],
-      "premiere": {
-        "date": "1958-10-25",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Destiny_(Jan%C3%A1%C4%8Dek)",
-        "wikidata": "https://www.wikidata.org/wiki/Q3133498"
-      },
-      "summary": {
-        "text": "Destiny (also known as Fate, Czech: Osud) is an opera in three acts by Leoš Janáček to a Czech libretto by the composer and Fedora Bartošová.  Janáček began the work in 1903 and completed it in 1907.  The inspiration for the opera came from a visit by Janáček in the summer of 1903, after the death of his daughter Olga, to the spa at Luhačovice.  There, Janáček met Kamila Urválková, who had been the subject of an opera by Ludvík Čelanský, Kamila, where she felt that Čelanský had falsely depicted her personality.  After learning that Janáček was a composer, Urválková persuaded Janáček to write another opera to counteract Čelanský's portrait of her.\nJanáček submitted the opera to the Brno Theatre in 1906, and to the Vinohrady Theatre in Prague in 1907, but both theatres rejected the score.  The score stayed with the Vinohrady Theatre even after Janáček had threatened lawsuits against the theatre and after the Brno theatre made offers of a possible production.\nThe work did not receive a hearing until after Janáček's death, in 1934 on Brno Radio.",
-        "source_url": "https://en.wikipedia.org/wiki/Destiny_(Jan%C3%A1%C4%8Dek)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "don-sanche": {
-      "slug": "don-sanche",
-      "title": "Don Sanche",
-      "qid": "Q908548",
-      "enwiki": "Don Sanche",
-      "composers": [
-        {
-          "name": "Franz Liszt",
-          "qid": "Q41309",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12067"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "1825-10-17",
-        "venue": "Salle Le Peletier"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Don_Sanche",
-        "wikidata": "https://www.wikidata.org/wiki/Q908548"
-      },
-      "summary": {
-        "text": "Don Sanche, ou Le château de l'amour (English: Don Sanche, or The Castle of Love), S.1, is an opera in one act composed in 1824–25 by Franz Liszt in his early teen years, with French libretto by Théaulon and de Rancé, based on a story by Jean-Pierre Claris de Florian. For 30 years it was believed to be lost until it was rediscovered in 1903. The first modern performance took place in 1977, 74 years after its rediscovery.",
-        "source_url": "https://en.wikipedia.org/wiki/Don_Sanche",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "first-wives-club": {
       "slug": "first-wives-club",
       "title": "First Wives Club",
@@ -472,155 +214,6 @@
       "summary": {
         "text": "First Wives Club is a musical with music and lyrics by Brian Holland, Lamont Dozier, and Eddie Holland. The musical is based on the 1996 movie of the same name.\nThe musical premiered in San Diego, California, in 2009, with a book by Rupert Holmes. A reworked version was produced in Chicago in 2015, with a new book by Linda Bloodworth-Thomason. Each production ran for about a month.",
         "source_url": "https://en.wikipedia.org/wiki/First_Wives_Club_(musical)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "fleur-de-the": {
-      "slug": "fleur-de-the",
-      "title": "Fleur-de-Thé",
-      "qid": "Q1216684",
-      "enwiki": "Fleur-de-Thé",
-      "composers": [
-        {
-          "name": "Charles Lecocq",
-          "qid": "Q538894",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4773"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Alfred Duru",
-          "qid": "Q15508740",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/409329"
-        },
-        {
-          "name": "Henri Chivot",
-          "qid": "Q2370567",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/409328"
-        }
-      ],
-      "premiere": {
-        "date": "1868-04-10",
-        "venue": "Théâtre de l'Athénée (rue Scribe)"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Fleur-de-Th%C3%A9",
-        "wikidata": "https://www.wikidata.org/wiki/Q1216684"
-      },
-      "summary": {
-        "text": "Fleur-de-Thé (French pronunciation: [flœʁ də te], Teaflower) is a three-act opéra bouffe with music by Charles Lecocq and words by Alfred Duru and Henri Chivot. The story centres on a French bar-keeper, who is saved from a bigamous marriage to an aristocratic young local by the intervention of his real wife, with the aid of champagne and French sailors. It is set in China to appeal to the 1860s French fashion for Chinoiserie.\nThe opera was first produced at the Théâtre de l'Athénée, Paris, on 11 April 1868. It was Lecocq's first substantial success and ran for an entire season. It was revived several times in its first three years.",
-        "source_url": "https://en.wikipedia.org/wiki/Fleur-de-Th%C3%A9",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "francesca-da-rimini-zandonai": {
-      "slug": "francesca-da-rimini-zandonai",
-      "title": "Francesca da Rimini",
-      "qid": "Q2718706",
-      "enwiki": "Francesca da Rimini (Zandonai)",
-      "composers": [
-        {
-          "name": "Riccardo Zandonai",
-          "qid": "Q258329"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Gabriele D'Annunzio",
-          "qid": "Q193236",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5734"
-        }
-      ],
-      "premiere": {
-        "date": "1914-02-19",
-        "venue": "Teatro Regio"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Francesca_da_Rimini_(Zandonai)",
-        "wikidata": "https://www.wikidata.org/wiki/Q2718706"
-      },
-      "summary": {
-        "text": "Francesca da Rimini, Op. 4, is an opera in four acts, composed by Riccardo Zandonai, with a libretto by Tito Ricordi II, after D'Annunzio's play Francesca da Rimini. It was premiered at the Teatro Regio in Turin on 19 February 1914 and is still staged occasionally.\nThis opera is Zandonai's best-known work. In the New Grove Dictionary of Opera, Renato Chiesa calls it \"one of the most original and polished Italian melodramas of the 20th century, [which] combines a powerful gift for Italian melody ... with an exceptional command of orchestration.\" Celebrated performers of the title role have included Gilda dalla Rizza, Magda Olivero (who recorded excerpts from the opera in 1969, for Decca Records), Raina Kabaivanska and Renata Scotto.",
-        "source_url": "https://en.wikipedia.org/wiki/Francesca_da_Rimini_(Zandonai)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "fredegundis": {
-      "slug": "fredegundis",
-      "title": "Fredegundis",
-      "qid": "Q124714216",
-      "enwiki": "Fredegundis (opera)",
-      "composers": [
-        {
-          "name": "Franz Schmidt",
-          "qid": "Q434601"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Ignaz Michael Welleminsky",
-          "qid": "Q1657483"
-        },
-        {
-          "name": "Bruno Hardt-Warden",
-          "qid": "Q21934653",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4616"
-        }
-      ],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Fredegundis_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q124714216"
-      },
-      "summary": {
-        "text": "Fredegundis is a 1922 German-language opera in three acts by the Austrian composer Franz Schmidt, to a libretto by Bruno Hardt-Warden and Ignaz Michael Welleminsky after the novel with the same title by Felix Dahn. Schmidt's second and final opera, the plot concerns Fredegund, the widow of 6th century French King Chilperic I.",
-        "source_url": "https://en.wikipedia.org/wiki/Fredegundis_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "genevieve-de-brabant-satie": {
-      "slug": "genevieve-de-brabant-satie",
-      "title": "Geneviève de Brabant",
-      "qid": "Q107564676",
-      "enwiki": "Geneviève de Brabant (Satie)",
-      "composers": [
-        {
-          "name": "Erik Satie",
-          "qid": "Q187192"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Patrice Contamine de Latour",
-          "qid": "Q28006730"
-        }
-      ],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Genevi%C3%A8ve_de_Brabant_(Satie)",
-        "wikidata": "https://www.wikidata.org/wiki/Q107564676"
-      },
-      "summary": {
-        "text": "Geneviève de Brabant is a theatre piece composed around 1900 by Erik Satie. The score was intended as incidental music for a three-act comedy in verse and prose by   \nJ. P. Contamine de Latour (writing under the pseudonym \"Lord Cheminot\"), based on the medieval legend of Genevieve of Brabant. Unproduced at the time, its existence was not discovered until after Satie's death in 1925.\nNeither author left any indication of how the work should be staged. It was premiered as an \"opera for marionettes\" at the Théâtre des Champs-Élysées in Paris on May 17, 1926. The conductor was Roger Désormière, who arranged the original piano score for orchestra. As performed today, Geneviève de Brabant retains Satie's music but the narrative is a truncated hodgepodge of Latour's sung arias and spoken interpolations by others.",
-        "source_url": "https://en.wikipedia.org/wiki/Genevi%C3%A8ve_de_Brabant_(Satie)",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -666,47 +259,6 @@
         "modified": false
       }
     },
-    "hamlet-thomas": {
-      "slug": "hamlet-thomas",
-      "title": "Hamlet",
-      "qid": "Q631016",
-      "enwiki": "Hamlet (Thomas)",
-      "composers": [
-        {
-          "name": "Ambroise Thomas",
-          "qid": "Q297717",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4103"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Jules Barbier",
-          "qid": "Q548181",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/393326"
-        },
-        {
-          "name": "Michel Carré",
-          "qid": "Q602493",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/424954"
-        }
-      ],
-      "premiere": {
-        "date": "1868-03-09",
-        "venue": "Salle Le Peletier"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Hamlet_(Thomas)",
-        "wikidata": "https://www.wikidata.org/wiki/Q631016"
-      },
-      "summary": {
-        "text": "Hamlet is a grand opera in five acts of 1868 by the French composer Ambroise Thomas, with a libretto by Michel Carré and Jules Barbier based on a French adaptation by Alexandre Dumas, père, and Paul Meurice of William Shakespeare's play Hamlet.",
-        "source_url": "https://en.wikipedia.org/wiki/Hamlet_(Thomas)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "hell-hath-no-fury-like-a-woman-scorned": {
       "slug": "hell-hath-no-fury-like-a-woman-scorned",
       "title": "Hell Hath No Fury Like a Woman Scorned",
@@ -727,77 +279,6 @@
       "summary": {
         "text": "Hell Hath No Fury Like a Woman Scorned is a 2014 American stage play written, produced, and directed by Tyler Perry. It stars Cheryl Pepsii Riley as Anita and Patrice Lovely as Mama Hattie. The live performance released on DVD on November 25, 2014 was recorded live in Atlanta at the Cobb Energy Performing Arts Centre in September 2013. The DVD was released alongside A Madea Christmas.",
         "source_url": "https://en.wikipedia.org/wiki/Hell_Hath_No_Fury_Like_a_Woman_Scorned",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "i-capuleti-e-i-montecchi": {
-      "slug": "i-capuleti-e-i-montecchi",
-      "title": "I Capuleti e i Montecchi",
-      "qid": "Q1071307",
-      "enwiki": "I Capuleti e i Montecchi",
-      "composers": [
-        {
-          "name": "Vincenzo Bellini",
-          "qid": "Q170209",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/70911"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Felice Romani",
-          "qid": "Q350103"
-        }
-      ],
-      "premiere": {
-        "date": "1830-03-11",
-        "venue": "Teatro La Fenice"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/I_Capuleti_e_i_Montecchi",
-        "wikidata": "https://www.wikidata.org/wiki/Q1071307"
-      },
-      "summary": {
-        "text": "I Capuleti e i Montecchi (The Capulets and the Montagues) is an Italian opera (tragedia lirica) in two acts by Vincenzo Bellini. The libretto by Felice Romani was a reworking of the story of Romeo and Juliet for an opera by Nicola Vaccai called Giulietta e Romeo and based on the play of the same name by Luigi Scevola written in 1818, thus an Italian source rather than taken directly from Shakespeare's play.\nBellini was persuaded to write the opera for the 1830 Carnival season at the Teatro La Fenice in Venice, with only a month and a half available for composition. He succeeded by appropriating a large amount of music previously written for his unsuccessful opera Zaira.\nThe first performance of I Capuleti e i Montecchi took place on 11 March 1830.",
-        "source_url": "https://en.wikipedia.org/wiki/I_Capuleti_e_i_Montecchi",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "il-campanello": {
-      "slug": "il-campanello",
-      "title": "Il campanello",
-      "qid": "Q464664",
-      "enwiki": "Il campanello",
-      "composers": [
-        {
-          "name": "Gaetano Donizetti",
-          "qid": "Q101698",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/82838"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Gaetano Donizetti",
-          "qid": "Q101698",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/82838"
-        }
-      ],
-      "premiere": {
-        "date": "1836-06-01",
-        "venue": "Teatro Nuovo"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Il_campanello",
-        "wikidata": "https://www.wikidata.org/wiki/Q464664"
-      },
-      "summary": {
-        "text": "Il campanello or Il campanello di notte (The Night Bell) is a dramma giocoso, or opera, in one act by Gaetano Donizetti.  The composer wrote the Italian libretto after Mathieu-Barthélemy Troin Brunswick and Victor Lhérie's French vaudeville La sonnette de nuit.  The premiere took place on 1 June 1836 at the Teatro Nuovo in Naples and was \"revived every year over the next decade\".",
-        "source_url": "https://en.wikipedia.org/wiki/Il_campanello",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -838,93 +319,6 @@
         "modified": false
       }
     },
-    "jazz-calendar": {
-      "slug": "jazz-calendar",
-      "title": "Jazz Calendar",
-      "qid": "Q6168206",
-      "enwiki": "Jazz Calendar",
-      "composers": [
-        {
-          "name": "Richard Rodney Bennett",
-          "qid": "Q959863"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Jazz_Calendar",
-        "wikidata": "https://www.wikidata.org/wiki/Q6168206"
-      },
-      "summary": {
-        "text": "Jazz Calendar is a ballet created in 1968 by Frederick Ashton to the music of Richard Rodney Bennett. The ballet was first performed on 9 January 1968 by The Royal Ballet at the Royal Opera House, Covent Garden, with designs by Derek Jarman. The work was performed over 50 times up to 1979 by the Royal Ballet at Covent Garden but is not part of the current repertoire. It was also produced in October 1990 at the Birmingham Hippodrome by Birmingham Royal Ballet.",
-        "source_url": "https://en.wikipedia.org/wiki/Jazz_Calendar",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "julie-ou-le-pot-de-fleurs": {
-      "slug": "julie-ou-le-pot-de-fleurs",
-      "title": "Julie, ou Le pot de fleurs",
-      "qid": "Q1566296",
-      "enwiki": "Julie, ou Le pot de fleurs",
-      "composers": [
-        {
-          "name": "Gaspare Spontini",
-          "qid": "Q168485"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "1805-03-12",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Julie%2C_ou_Le_pot_de_fleurs",
-        "wikidata": "https://www.wikidata.org/wiki/Q1566296"
-      },
-      "summary": {
-        "text": "Julie, ou Le pot de fleurs is an 1805 comic opera in one act by Gaspare Spontini to a libretto by the metallurgist Antoine-Gabriel Jars (1774–1857).",
-        "source_url": "https://en.wikipedia.org/wiki/Julie%2C_ou_Le_pot_de_fleurs",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "klara-milich": {
-      "slug": "klara-milich",
-      "title": "Klara Milich",
-      "qid": "Q109469455",
-      "enwiki": "Klara Milich",
-      "composers": [
-        {
-          "name": "Aleksandr Kastalsky",
-          "qid": "Q2353653"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "1916-11-11",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Klara_Milich",
-        "wikidata": "https://www.wikidata.org/wiki/Q109469455"
-      },
-      "summary": {
-        "text": "Klara Milich (Russian: Клара Милич, romanized: Klara Milich) is an opera in four acts and six scenes by the Russian composer Alexander Kastalsky based on the eponymous story by Ivan Turgenev published in 1883. The piano score of the opera was published in 1908 by Jurgenson's publishing house and premiered on November 11, 1916, at the Zimin Opera House in Moscow. The story centers around the death of the main protagonist Klara Milich, and the work is characterized as being a oneiric, or an appeal to introspection and a destabilization between psychological states of awareness and dreaming.",
-        "source_url": "https://en.wikipedia.org/wiki/Klara_Milich",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "knoxville": {
       "slug": "knoxville",
       "title": "Knoxville",
@@ -945,140 +339,6 @@
       "summary": {
         "text": "Knoxville is a stage musical with a book by Frank Galati, music by Stephen Flaherty and lyrics by Lynn Ahrens. The musical is based on the novel A Death in the Family written by James Agee, which won the Pulitzer Prize for Fiction upon its release in 1957.\nThe title comes from the setting of the story in Knoxville, Tennessee, where original author Agee was from. The show is set in 1915.",
         "source_url": "https://en.wikipedia.org/wiki/Knoxville_(musical)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "la-princesse-jaune": {
-      "slug": "la-princesse-jaune",
-      "title": "La princesse jaune",
-      "qid": "Q2717528",
-      "enwiki": "La princesse jaune",
-      "composers": [
-        {
-          "name": "Camille Saint-Saëns",
-          "qid": "Q150445",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/89221"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Louis Gallet",
-          "qid": "Q1148209"
-        }
-      ],
-      "premiere": {
-        "date": "1872-06-12",
-        "venue": "Salle Favart"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/La_princesse_jaune",
-        "wikidata": "https://www.wikidata.org/wiki/Q2717528"
-      },
-      "summary": {
-        "text": "La princesse jaune (The Yellow Princess), Op. 30, is an opéra comique in one act and five scenes by composer Camille Saint-Saëns to a French libretto by Louis Gallet. The opera premiered at the Opéra-Comique (Salle Favart Theatre) in Paris on 12 June 1872.\nLike many French artists at this time, Saint-Saëns was influenced by the Japonism movement in Paris. He appealed to this public taste by choosing a story about a Japanese princess, although it is set in the Netherlands. The music is characterised by a \"light and brisk\" quality that uses pentatonic harmony to evoke an \"oriental\" sound. The story follows Kornélis, a student who is fascinated by all things Japanese, and his cousin Léna, who is in love with Kornélis. Kornélis, however, is too obsessed with his portrait of Ming, a Japanese girl, to notice his cousin's affections for him. In a fantastical dream caused by a potion, Kornélis is transported to Japan. At first enthralled, he eventually becomes disillusioned as he comes to the realisation that he is in love with Léna.",
-        "source_url": "https://en.wikipedia.org/wiki/La_princesse_jaune",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "le-magnifique": {
-      "slug": "le-magnifique",
-      "title": "Le magnifique",
-      "qid": "Q21085941",
-      "enwiki": "Le magnifique (opera)",
-      "composers": [
-        {
-          "name": "André Grétry",
-          "qid": "Q210962"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Michel-Jean Sedaine",
-          "qid": "Q367243"
-        }
-      ],
-      "premiere": {
-        "date": "1773-03-04",
-        "venue": "Comédie-Italienne"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Le_magnifique_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q21085941"
-      },
-      "summary": {
-        "text": "Le magnifique (The Magnifico) is a French-language opéra comique in three acts by André Grétry to a libretto by Michel-Jean Sedaine, after Jean de La Fontaine; it was first performed on 4 March 1773 at Comédie-Italienne, Paris.",
-        "source_url": "https://en.wikipedia.org/wiki/Le_magnifique_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "le-pauvre-matelot": {
-      "slug": "le-pauvre-matelot",
-      "title": "Le Pauvre Matelot",
-      "qid": "Q1198302",
-      "enwiki": "Le Pauvre Matelot",
-      "composers": [
-        {
-          "name": "Darius Milhaud",
-          "qid": "Q186264",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/101441"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "1927-12-12",
-        "venue": "Opéra-Comique"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Le_Pauvre_Matelot",
-        "wikidata": "https://www.wikidata.org/wiki/Q1198302"
-      },
-      "summary": {
-        "text": "Le Pauvre Matelot (The Poor Sailor) is a three-act opera (described as a 'complainte') composed by Darius Milhaud with libretto by Jean Cocteau. It was given its premiere on 16 December 1927 by the Opéra-Comique at the Salle Favart in Paris. Le pauvre matelot is short, lasting about 35 minutes when performed, and is dedicated to Henri Sauguet. The composer conducted a complete recording with forces of the Paris Opera in 1956. Although Cocteau claimed that the story was inspired by a news item in a paper, the scenario can be found in a 17th-century Franco-Canadian song 'Le Funeste Retour', and the tragedy Der vierundzwanzigste Februar by Werner of 1808.",
-        "source_url": "https://en.wikipedia.org/wiki/Le_Pauvre_Matelot",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "le-roi-de-lahore": {
-      "slug": "le-roi-de-lahore",
-      "title": "Le roi de Lahore",
-      "qid": "Q2456112",
-      "enwiki": "Le roi de Lahore",
-      "composers": [
-        {
-          "name": "Jules Massenet",
-          "qid": "Q194436",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/87555"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Louis Gallet",
-          "qid": "Q1148209"
-        }
-      ],
-      "premiere": {
-        "date": "1877-04-27",
-        "venue": "Palais Garnier"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Le_roi_de_Lahore",
-        "wikidata": "https://www.wikidata.org/wiki/Q2456112"
-      },
-      "summary": {
-        "text": "Le roi de Lahore (\"The king of Lahore\") is an opera in five acts by Jules Massenet to a French libretto by Louis Gallet.  It was first performed at the Palais Garnier in Paris on 27 April 1877 in costumes designed by Eugène Lacoste and settings designed by Jean Émile Daran (Act I, scene 1), Auguste Alfred Rubé and Philippe Chaperon (Act I, scene 2; Act V), Louis Chéret (Act II), Jean-Baptiste Lavastre (Act III), Antoine Lavastre and Eugène Louis Carpezat (Act IV).\nLe roi de Lahore is the third of Massenet's operas produced in Paris and was his first major success there, spawning performances across Europe and leading to his place as one of the most popular composers of his time.",
-        "source_url": "https://en.wikipedia.org/wiki/Le_roi_de_Lahore",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -1127,114 +387,6 @@
       "summary": {
         "text": "Maggie is a musical with book, music and lyrics by Michael Wild based on J.M. Barrie's play What Every Woman Knows.\nAfter a premiere at the Forum Theatre in Billingham, the West End production opened at the Shaftesbury Theatre on 12 October 1977 and played for 42 performances. The West End production featured Anna Neagle, Peter Gale, and Anna Sharkey as Maggie. Sharkey received an Olivier Award for Best Performance in a Musical for the title role.",
         "source_url": "https://en.wikipedia.org/wiki/Maggie_(Wild_musical)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "mam-zelle-nitouche": {
-      "slug": "mam-zelle-nitouche",
-      "title": "Mam'zelle Nitouche",
-      "qid": "Q1983117",
-      "enwiki": "Mam'zelle Nitouche",
-      "composers": [
-        {
-          "name": "Hervé",
-          "qid": "Q450797"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Ernest Blum",
-          "qid": "Q1356247",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/469562"
-        },
-        {
-          "name": "Albert Millaud",
-          "qid": "Q2638502",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/414605"
-        },
-        {
-          "name": "Henri Meilhac",
-          "qid": "Q723648",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7687"
-        }
-      ],
-      "premiere": {
-        "date": "1883-01-26",
-        "venue": "Théâtre des Variétés"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Mam'zelle_Nitouche",
-        "wikidata": "https://www.wikidata.org/wiki/Q1983117"
-      },
-      "summary": {
-        "text": "Mam'zelle Nitouche is a vaudeville-opérette in three acts by Hervé. The libretto is by Henri Meilhac and Albert Millaud. This story of a respectable musician, transforming himself into a songwriter at night, is partly inspired by the life of the composer of the piece Hervé, who as Florimond Ronger, his real name, was the organist at the important church of Saint-Eustache, Paris by day and wrote the music for and starred in satirical, irreverent operettas under a stage name at night.",
-        "source_url": "https://en.wikipedia.org/wiki/Mam'zelle_Nitouche",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "medee-cherubini": {
-      "slug": "medee-cherubini",
-      "title": "Médée",
-      "qid": "Q577758",
-      "enwiki": "Médée (Cherubini)",
-      "composers": [
-        {
-          "name": "Luigi Cherubini",
-          "qid": "Q20721"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "François-Benoît Hoffman",
-          "qid": "Q539301"
-        }
-      ],
-      "premiere": {
-        "date": "1797-03-13",
-        "venue": "Salle Feydeau"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/M%C3%A9d%C3%A9e_(Cherubini)",
-        "wikidata": "https://www.wikidata.org/wiki/Q577758"
-      },
-      "summary": {
-        "text": "Médée is a French language opéra-comique by Luigi Cherubini. The libretto by François-Benoît Hoffman (Nicolas Étienne Framéry) was based on Euripides' tragedy of Medea and Pierre Corneille's play Médée. It is set in the ancient city of Corinth.\nThe opera was premiered on 13 March 1797 at the Théâtre Feydeau, Paris. It met with a lukewarm reception and was not immediately revived.  During the twentieth century, it was usually performed in Italian translation as Medea, with the spoken dialogue replaced by recitatives not authorized by the composer.  More recently, some performances have used Cherubini's original version.\nThe long-lost final aria, which Cherubini appears to have elided from his original manuscript, was discovered by researchers from the University of Manchester and Stanford University by employing x-ray techniques to reveal the blackened out areas of Cherubini's manuscript.",
-        "source_url": "https://en.wikipedia.org/wiki/M%C3%A9d%C3%A9e_(Cherubini)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "medus": {
-      "slug": "medus",
-      "title": "Médus",
-      "qid": "Q15349294",
-      "enwiki": "Médus",
-      "composers": [
-        {
-          "name": "François Bouvard",
-          "qid": "Q3084089"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/M%C3%A9dus",
-        "wikidata": "https://www.wikidata.org/wiki/Q15349294"
-      },
-      "summary": {
-        "text": "Médus, roi des Mèdes (Medus, King of the Medes) is an opera by the French composer François Bouvard, first performed at the Académie Royale de Musique (the Paris Opera) on 23 July 1702. It takes the form of a tragédie en musique in a prologue and five acts. The libretto is by François Joseph Lagrange-Chancel.",
-        "source_url": "https://en.wikipedia.org/wiki/M%C3%A9dus",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -1354,109 +506,6 @@
         "modified": false
       }
     },
-    "pomone": {
-      "slug": "pomone",
-      "title": "Pomone",
-      "qid": "Q3294489",
-      "enwiki": "Pomone (opera)",
-      "composers": [
-        {
-          "name": "Robert Cambert",
-          "qid": "Q427701"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Pierre Perrin",
-          "qid": "Q3294482"
-        }
-      ],
-      "premiere": {
-        "date": "1671-03-03",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Pomone_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q3294489"
-      },
-      "summary": {
-        "text": "Pomone (Pomona) is a pastoral opera in a prologue and five acts by Robert Cambert with a libretto by Pierre Perrin. It has been described as \"effectively the first French opera.\" It was first performed in Paris at the Jeu de Paume de la Bouteille theatre belonging to Cambert and Perrin's Académie d'Opéra on 3 March 1671. The production had ballets choreographed by Des Brosses and sets and machinery designed by Alexandre de Rieux, marquis de Sourdéac. The novelty of the work drew large audiences and the opera enjoyed 146 performances over the eight months of its run. The score of Pomone has only partially survived.",
-        "source_url": "https://en.wikipedia.org/wiki/Pomone_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "semiramide-vivaldi": {
-      "slug": "semiramide-vivaldi",
-      "title": "Semiramide",
-      "qid": "Q3955083",
-      "enwiki": "Semiramide (Vivaldi)",
-      "composers": [
-        {
-          "name": "Antonio Vivaldi",
-          "qid": "Q1340"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Francesco Silvani",
-          "qid": "Q1441226"
-        }
-      ],
-      "premiere": {
-        "date": "1733",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Semiramide_(Vivaldi)",
-        "wikidata": "https://www.wikidata.org/wiki/Q3955083"
-      },
-      "summary": {
-        "text": "Semiramide (RV 733) is a dramma per musica in three acts by Antonio Vivaldi composed to a libretto by Francesco Silvani.\nIt was his ultimate work at the archducal theatre in Mantua, where Vivaldi was maestro di cappella from 1718 until 1720. The production started the young castrato Mariano Nicolini in the role of Oronte as well as the famous \"prima donna\" Anna Girò in the role of Semiramide, with Maria Maddalena Pieri, famous for her breeches roles, as Nino. It was first performed on 26 December 1731 for the 1732 carnival season. Only the libretto and individual arias have survived.\nThe story of Semiramis was the subject of plays by Crébillon, Voltaire and Calderon de la Barca as well as of other operas by Porpora, Gluck, Rossini and dozens of other composers.",
-        "source_url": "https://en.wikipedia.org/wiki/Semiramide_(Vivaldi)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "serse": {
-      "slug": "serse",
-      "title": "Serse",
-      "qid": "Q1069133",
-      "enwiki": "Serse",
-      "composers": [
-        {
-          "name": "George Frideric Handel",
-          "qid": "Q7302",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/89505"
-        }
-      ],
-      "lyricists": [
-        {
-          "name": "Nicolò Minato",
-          "qid": "Q1987241"
-        }
-      ],
-      "librettists": [],
-      "premiere": {
-        "date": "1738-04-15",
-        "venue": "His Majesty's Theatre"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Serse",
-        "wikidata": "https://www.wikidata.org/wiki/Q1069133"
-      },
-      "summary": {
-        "text": "Serse (Italian pronunciation: [ˈsɛrse]; English title: Xerxes; HWV 40) is an opera seria in three acts by George Frideric Handel. It was first performed in London on 15 April 1738. The Italian libretto was adapted by an unknown hand from that by Silvio Stampiglia (1664–1725) for an earlier opera of the same name by Giovanni Bononcini in 1694. Stampiglia's libretto was itself based on one by Nicolò Minato (ca.1627–1698) that was set by Francesco Cavalli in 1654. The opera is set in Persia (modern-day Iran) about 470 BC and is very loosely based upon Xerxes I of Persia. Serse, originally sung by a mezzo-soprano castrato, is now usually performed by a female mezzo-soprano or countertenor.\nThe opening aria, \"Ombra mai fu\", sung by Xerxes to a plane tree (Platanus orientalis), is set to one of Handel's best-known melodies, and is often known as Handel's \"Largo\" (despite being marked \"larghetto\" in the score).",
-        "source_url": "https://en.wikipedia.org/wiki/Serse",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "shades-of-harlem": {
       "slug": "shades-of-harlem",
       "title": "Shades of Harlem",
@@ -1477,76 +526,6 @@
       "summary": {
         "text": "Shades of Harlem: A Cotton Club Musical is an off-Broadway musical theater revue of songs from the Harlem Renaissance. The show debuted in August 1983 at the Village Gate and has gone on to play around the world. The show features jazz music and dancing that would have been popular at the Cotton Club during the Harlem Renaissance. Original performances included dancers from the era, including Ludie Jones and  Juanita Boisseau. The show received mixed reviews.",
         "source_url": "https://en.wikipedia.org/wiki/Shades_of_Harlem",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "silvano": {
-      "slug": "silvano",
-      "title": "Silvano",
-      "qid": "Q908276",
-      "enwiki": "Silvano (opera)",
-      "composers": [
-        {
-          "name": "Pietro Mascagni",
-          "qid": "Q181894",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12118"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Giovanni Targoni-Tozzetti",
-          "qid": "Q3768207",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/97272"
-        }
-      ],
-      "premiere": {
-        "date": "1895-03-25",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Silvano_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q908276"
-      },
-      "summary": {
-        "text": "Silvano is a dramma marinaresco (literally a \"seafaring drama\") or opera in two acts by Pietro Mascagni from a libretto by Giovanni Targioni-Tozzetti, based on a novel by Alphonse Karr. It received its first performance on 25 March 1895 at La Scala, Milan. Although rarely performed today, the music (if not the drama) is of some technical accomplishment, and when revived, Silvano has been favourably received. The barcarolle from Silvano features prominently in a montage during the Martin Scorsese film Raging Bull.",
-        "source_url": "https://en.wikipedia.org/wiki/Silvano_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "the-abduction-of-figaro": {
-      "slug": "the-abduction-of-figaro",
-      "title": "The Abduction of Figaro",
-      "qid": "Q7712114",
-      "enwiki": "The Abduction of Figaro",
-      "composers": [
-        {
-          "name": "P. D. Q. Bach",
-          "qid": "Q1190508"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "P. D. Q. Bach",
-          "qid": "Q1190508"
-        }
-      ],
-      "premiere": {
-        "date": "1984-04-24",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/The_Abduction_of_Figaro",
-        "wikidata": "https://www.wikidata.org/wiki/Q7712114"
-      },
-      "summary": {
-        "text": "The Abduction of Figaro is a comic opera in three acts, described as \"A Simply Grand Opera by P. D. Q. Bach\", by Peter Schickele. It is a parody of opera in general, and the title is a play on two operas by Wolfgang Amadeus Mozart: The Abduction from the Seraglio, K. 384, and The Marriage of Figaro, K. 492. Those two operas, as well as Così fan tutte and Don Giovanni, and Gilbert and Sullivan's The Pirates of Penzance are among the core inspirations for the piece. The Abduction of Figaro is numbered S. 384, 492 in Schickele's catalogue of works.\nSchickele was commissioned to \"discover\" this opera by the Minnesota Opera, where the piece premiered on April 27 and 28, 1984. In addition to parodying Mozart, the music incorporates diverse influences and musical quotes, from traditional camp songs like \"Found a Peanut\" to popular songs like \"Macho Man\" by the Village People. The opera has been released on VHS and DVD.",
-        "source_url": "https://en.wikipedia.org/wiki/The_Abduction_of_Figaro",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -1627,35 +606,6 @@
         "modified": false
       }
     },
-    "tom-jones-philidor": {
-      "slug": "tom-jones-philidor",
-      "title": "Tom Jones",
-      "qid": "Q7816366",
-      "enwiki": "Tom Jones (Philidor)",
-      "composers": [
-        {
-          "name": "François-André Danican Philidor",
-          "qid": "Q203229"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Tom_Jones_(Philidor)",
-        "wikidata": "https://www.wikidata.org/wiki/Q7816366"
-      },
-      "summary": {
-        "text": "Tom Jones is a comédie mêlée d'ariettes, a kind of opéra comique, by the French composer and chess champion François-André Danican Philidor which first appeared at the Comédie-Italienne, Paris, on 27 February 1765. Its French libretto, by Antoine-Alexandre-Henri Poisenet and Bertin Davesne, is loosely based on the 1749 novel by Henry Fielding.",
-        "source_url": "https://en.wikipedia.org/wiki/Tom_Jones_(Philidor)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "twiggy-the-musical": {
       "slug": "twiggy-the-musical",
       "title": "Twiggy The Musical",
@@ -1676,40 +626,6 @@
       "summary": {
         "text": "Twiggy The Musical is a jukebox musical with a book by Ben Elton, based on the life of British model Twiggy.",
         "source_url": "https://en.wikipedia.org/wiki/Twiggy_The_Musical",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "una-vieja": {
-      "slug": "una-vieja",
-      "title": "Una vieja",
-      "qid": "Q58822688",
-      "enwiki": "Una vieja",
-      "composers": [
-        {
-          "name": "Joaquín Gaztambide",
-          "qid": "Q3177239"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Francisco Camprodón",
-          "qid": "Q4211736"
-        }
-      ],
-      "premiere": {
-        "date": "1860-12-11",
-        "venue": "Teatro de la Zarzuela"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Una_vieja",
-        "wikidata": "https://www.wikidata.org/wiki/Q58822688"
-      },
-      "summary": {
-        "text": "Una vieja (Spanish: An Old Lady) is a one-act zarzuela by Joaquín Gaztambide for libretto (in verse) by Francisco Camprodón. It is based on a French opéra comique La vieille by Eugène Scribe and François-Joseph Fétis (1826). The zarzuela got its first performance on 11 or 14 December 1860 at the Teatro de la Zarzuela in Madrid. It was regularly staged until 1940s and has been revived occasionally in later times.",
-        "source_url": "https://en.wikipedia.org/wiki/Una_vieja",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
