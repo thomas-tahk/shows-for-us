@@ -71,6 +71,14 @@ describe('polish (#18)', () => {
     expect(classifyShow('The Opera Ghost is an opera in two acts.', false, 'The Opera Ghost')).toBe('text-drop')
     expect(classifyShow('Opera Night (opera) is a one-act opera.', false, 'Opera Night (opera)')).toBe('text-drop')
   })
+  it('title that carries the only signal: stripped window is neutral, so the unstripped one decides', () => {
+    expect(classifyShow('Ballet Comique de la Reine was an elaborate court spectacle in 1581.', false, 'Ballet Comique de la Reine')).toBe('text-drop')
+    expect(classifyShow('NHS The Musical premiered in 2019.', true, 'NHS the Musical')).toBe('text-keep')
+    expect(classifyShow('Tom Sawyer: A Ballet in Three Acts is a work after Twain.', false, 'Tom Sawyer: A Ballet in Three Acts')).toBe('text-drop')
+  })
+  it('title is matched as whole words only', () => {
+    expect(classifyShow('Operation is an opera.', false, 'Opera')).toBe('text-drop')
+  })
   it.each(['ballets', 'operettas', 'opéras', 'oratorios', 'cantatas', 'masques', 'zarzuelas', 'operas'])('plural %s is a form word', (w) => {
     expect(classifyShow(`X is among the ${w} of Y.`, false)).toBe('text-drop')
   })

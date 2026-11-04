@@ -12,20 +12,30 @@ export const MUSICAL_WORDS = /\b(musical|play with music)\b/i
 
 const escapeRegex = (s: string) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
 
-/** Removes the show's own title (minus a "(disambiguation)" suffix) so "The Threepenny Opera" doesn't read as an opera. */
+/** Removes the show's own title (minus a "(disambiguation)" suffix), whole words only, so "The Threepenny Opera" doesn't read as an opera. */
 function withoutTitle(head: string, title: string | undefined): string {
   const bare = (title ?? '').replace(/\s*\([^)]*\)\s*$/, '').trim()
-  return bare ? head.replace(new RegExp(escapeRegex(bare), 'gi'), ' ') : head
+  return bare ? head.replace(new RegExp(`(?<!\\w)${escapeRegex(bare)}(?!\\w)`, 'gi'), ' ') : head
 }
 
-/** text-keep: says "musical", names no other form. text-drop: the reverse. Otherwise the class decides. */
-export function classifyShow(summary: string | undefined, excludedByClass: boolean, title?: string): Decision {
-  const window = (summary ?? '').slice(0, TEXT_WINDOW)
-  const head = withoutTitle(window, title).replace(SOFT_OPERA, 'musical')
-  const musical = MUSICAL_WORDS.test(head)
-  const other = FORM_WORDS.test(head)
+function textDecision(window: string): 'text-keep' | 'text-drop' | undefined {
+  const text = window.replace(SOFT_OPERA, 'musical')
+  const musical = MUSICAL_WORDS.test(text)
+  const other = FORM_WORDS.test(text)
   if (musical && !other) return 'text-keep'
   if (other && !musical) return 'text-drop'
+  return undefined
+}
+
+/**
+ * text-keep: says "musical", names no other form. text-drop: the reverse. Otherwise the class decides.
+ * The window without the show's own title is tried first; if that is silent or mixed, the full window
+ * (the title may be the only signal, e.g. "NHS the Musical").
+ */
+export function classifyShow(summary: string | undefined, excludedByClass: boolean, title?: string): Decision {
+  const window = (summary ?? '').slice(0, TEXT_WINDOW)
+  const decided = textDecision(withoutTitle(window, title)) ?? textDecision(window)
+  if (decided) return decided
   return excludedByClass ? 'class-drop' : 'class-keep'
 }
 
