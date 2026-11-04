@@ -1,0 +1,33 @@
+{
+  "shows": {
+    "the-robber-bridegroom": {
+      "slug": "the-robber-bridegroom",
+      "title": "The Robber Bridegroom",
+      "qid": "Q7759878",
+      "enwiki": "The Robber Bridegroom (musical)",
+      "composers": [
+        {
+          "name": "Robert Waldman",
+          "qid": "Q1"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1975",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Robber_Bridegroom_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7759878"
+      },
+      "summary": {
+        "text": "SAMPLE: placeholder summary for The Robber Bridegroom.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Robber_Bridegroom_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "shows": {
+    "show-boat": {
+      "slug": "show-boat",
+      "title": "Show Boat",
+      "qid": "Q1050738",
+      "enwiki": "Show Boat",
+      "composers": [
+        {
+          "name": "Jerome Kern",
+          "qid": "Q1"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1927",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4367",
+        "wikipedia": "https://en.wikipedia.org/wiki/Show_Boat",
+        "wikidata": "https://www.wikidata.org/wiki/Q1050738"
+      },
+      "summary": {
+        "text": "SAMPLE: placeholder summary for Show Boat.",
+        "source_url": "https://en.wikipedia.org/wiki/Show_Boat",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

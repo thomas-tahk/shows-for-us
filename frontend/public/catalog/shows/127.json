@@ -1,0 +1,33 @@
+{
+  "shows": {
+    "chicago": {
+      "slug": "chicago",
+      "title": "Chicago",
+      "qid": "Q1056297",
+      "enwiki": "Chicago (musical)",
+      "composers": [
+        {
+          "name": "John Kander",
+          "qid": "Q1"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1975",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Chicago_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1056297"
+      },
+      "summary": {
+        "text": "SAMPLE: placeholder summary for Chicago.",
+        "source_url": "https://en.wikipedia.org/wiki/Chicago_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}
