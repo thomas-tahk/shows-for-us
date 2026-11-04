@@ -22,10 +22,14 @@ if (offline && record) throw new Error('--offline and --record are mutually excl
 const fixturesDir = join(root, 'fixtures')
 // 65s per request: slightly over the 60s SPARQL server timeout.
 const live = () => liveFetcher(1000, 5, 65_000)
+// Log-only class queries: one attempt, so a WDQS timeout (HTTP 500) is not retried 5 times.
+const liveOnce = () => liveFetcher(1000, 0, 65_000)
 const fetcher = offline ? offlineFetcher(fixturesDir) : record ? recordingFetcher(live(), fixturesDir) : live()
+const diagnosticFetcher = offline ? fetcher : record ? recordingFetcher(liveOnce(), fixturesDir) : liveOnce()
 
 process.exitCode = await runCatalog({
   fetcher,
+  diagnosticFetcher,
   flagships: JSON.parse(await readFile(join(root, 'data/flagships.json'), 'utf8')) as Flagship[],
   outDir: join(root, 'public/catalog'),
   mode: offline ? 'offline-fixtures' : record ? 'recorded-live' : 'live',

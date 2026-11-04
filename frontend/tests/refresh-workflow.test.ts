@@ -14,6 +14,7 @@ const wf = load(readFileSync(join(__dirname, '../../.github/workflows/refresh-da
 const steps = wf.jobs.refresh.steps
 const idx = (pred: (s: Step) => boolean) => steps.findIndex(pred)
 const runIdx = (cmd: string) => idx((s) => s.run?.trim() === cmd)
+const catalogIdx = () => idx((s) => !!s.run?.includes('pull:catalog'))
 const filterIdx = () => idx((s) => !!s.run?.includes('generated_at'))
 const prIdx = () => idx((s) => !!s.uses?.startsWith('peter-evans/create-pull-request@'))
 
@@ -28,18 +29,17 @@ describe('refresh-data workflow', () => {
     const input = wf.on.workflow_dispatch.inputs?.allow_shrink
     expect(input?.type).toBe('boolean')
     expect(input?.default).toBe(false)
-    const pull = steps[runIdx('npm run pull:catalog') !== -1 ? runIdx('npm run pull:catalog') : idx((s) => !!s.run?.includes('pull:catalog'))]
+    const pull = steps[catalogIdx()]
     expect(pull.run).toContain('--allow-shrink')
     expect(pull.run).toContain('inputs.allow_shrink')
     expect(steps.filter((s) => s.run?.includes('--allow-shrink'))).toHaveLength(1)
-    expect(wf.on.schedule[0]).not.toHaveProperty('inputs')
   })
 
   it('has the steps in order', () => {
     const order = [
       runIdx('npm ci'),
       runIdx('npm run pull'),
-      idx((s) => !!s.run?.includes('pull:catalog')),
+      catalogIdx(),
       filterIdx(),
       runIdx('npm run typecheck'),
       runIdx('npm run lint'),

@@ -9,6 +9,8 @@ export const SHRINK_FLOOR = 0.9
 
 export interface RunOptions {
   fetcher: Fetcher
+  /** Single-attempt fetcher for the log-only class queries. Defaults to `fetcher`. */
+  diagnosticFetcher?: Fetcher
   flagships: Flagship[]
   outDir: string
   mode: CatalogIndex['meta']['mode']
@@ -69,7 +71,7 @@ export async function runCatalog(o: RunOptions): Promise<number> {
   }
   let shows: CatalogShow[]
   try {
-    shows = await pullCatalog(o.flagships, o.fetcher, { log: o.log })
+    shows = await pullCatalog(o.flagships, o.fetcher, { log: o.log, diagnosticFetcher: o.diagnosticFetcher })
   } catch (e) {
     o.log(`FAILED: ${(e as Error).message}; nothing written`)
     return 1

@@ -6,7 +6,7 @@ import type { Flagship } from '../src/data/show.ts'
 import { shardOf, type CatalogIndex, type CatalogShard, type CatalogShow } from '../src/data/catalogShow.ts'
 import { offlineFetcher } from '../scripts/fetchers.ts'
 import { itemsQuery, type Fetcher, type PullRequest } from '../scripts/pull-lib.ts'
-import { assignSlugs, buildIndex, extractsRequest, groupShards, listingQuery, pullCatalog, slugify } from '../scripts/catalog-lib.ts'
+import { EXCLUDED_CLASSES, assignSlugs, buildIndex, classBreakdownQuery, excludedClassBreakdownQuery, extractsRequest, groupShards, listingQuery, pullCatalog, slugify } from '../scripts/catalog-lib.ts'
 import { runCatalog } from '../scripts/catalog-run.ts'
 
 const flagships = JSON.parse(readFileSync('data/flagships.json', 'utf8')) as Flagship[]
@@ -207,43 +207,63 @@ describe('query batching', () => {
     expect(q).not.toMatch(/LIMIT|OFFSET/)
   })
 
-  it('listing excludes opera (incl. operetta), oratorio, ballet, cantata via the subclass path', () => {
+  it('listing excludes opera, operetta, oratorio, ballet, cantata via the subclass path', () => {
     const q = listingQuery()
-    expect(q).toContain('FILTER NOT EXISTS')
-    for (const id of ['Q1344', 'Q182832', 'Q2742', 'Q169034']) expect(q).toContain(`wdt:P31/wdt:P279* wd:${id}`)
+    const ids = [
+      ['Q1344', 'opera'],
+      ['Q170384', 'operetta'],
+      ['Q85477', 'oratorio'],
+      ['Q41425', 'ballet'],
+      ['Q174873', 'cantata'],
+    ]
+    expect(EXCLUDED_CLASSES).toEqual(ids.map(([id]) => id))
+    for (const [id] of ids) expect(q).toContain(`FILTER NOT EXISTS { ?item wdt:P31/wdt:P279* wd:${id} }`)
     expect(q.indexOf('FILTER NOT EXISTS')).toBeGreaterThan(q.indexOf('Q58483083'))
+    for (const wrong of ['Q182832', 'Q2742', 'Q169034']) expect(q).not.toContain(wrong)
   })
 
-  it('logs excluded count and kept-class breakdown from small extra queries', async () => {
+  it('class queries: kept uses a grouping subquery with labels outside; excluded mirrors it', () => {
+    const kept = classBreakdownQuery()
+    expect(kept).toContain('FILTER NOT EXISTS')
+    expect(kept.indexOf('SERVICE wikibase:label')).toBeGreaterThan(kept.lastIndexOf('GROUP BY'))
+    expect(kept).toContain('LIMIT 40')
+    const out = excludedClassBreakdownQuery()
+    expect(out).not.toContain('FILTER NOT EXISTS')
+    expect(out).toContain('LIMIT 20')
+    expect(out.indexOf('SERVICE wikibase:label')).toBeGreaterThan(out.lastIndexOf('GROUP BY'))
+  })
+
+  it('logs excluded count and both class breakdowns, after details and extracts, via the diagnostic fetcher', async () => {
     const logs: string[] = []
-    const fetcher: Fetcher = async (req) => {
+    const row = (q: string, l: string, n: number) => ({
+      cls: { type: 'uri', value: `http://www.wikidata.org/entity/${q}` },
+      clsLabel: { type: 'literal', value: l },
+      n: { type: 'literal', value: String(n) },
+    })
+    const main = stub(1)
+    const diagPaths: string[] = []
+    const diagnostic: Fetcher = async (req) => {
+      diagPaths.push(req.path)
       if (req.path === 'catalog/excluded.json') return { results: { bindings: [{ n: { type: 'literal', value: '4321' } }] } }
-      if (req.path === 'catalog/classes.json') {
-        const row = (q: string, l: string, n: number) => ({
-          cls: { type: 'uri', value: `http://www.wikidata.org/entity/${q}` },
-          clsLabel: { type: 'literal', value: l },
-          n: { type: 'literal', value: String(n) },
-        })
-        return { results: { bindings: [row('Q2743', 'musical theatre', 900), row('Q58483083', 'dramatico-musical work', 12)] } }
-      }
-      return stub(1).fetcher(req)
+      if (req.path === 'catalog/classes.json') return { results: { bindings: [row('Q2743', 'musical theatre', 900)] } }
+      return { results: { bindings: [row('Q1344', 'opera', 3000)] } }
     }
-    await pullCatalog([], fetcher, { log: (m) => logs.push(m) })
+    await pullCatalog([], main.fetcher, { log: (m) => logs.push(m), diagnosticFetcher: diagnostic })
     const text = logs.join('\n')
     expect(text).toMatch(/excluded.*4321|4321.*excluded/i)
-    expect(text).toContain('Q2743')
-    expect(text).toContain('musical theatre')
-    expect(text).toMatch(/900/)
+    expect(text).toMatch(/Q2743\s+musical theatre\s+900/)
+    expect(text).toMatch(/Q1344\s+opera\s+3000/)
+    expect(diagPaths).toHaveLength(3)
+    expect(main.reqs.some((r) => r.path.startsWith('catalog/classes') || r.path.startsWith('catalog/excluded'))).toBe(false)
+    expect(logs.findIndex((m) => /^extracts:/.test(m))).toBeLessThan(logs.findIndex((m) => /excluded/i.test(m)))
   })
 
   it('a failing diagnostic query does not fail the pull', async () => {
     const logs: string[] = []
-    const base = stub(3).fetcher
-    const fetcher: Fetcher = async (req) => {
-      if (req.path === 'catalog/classes.json' || req.path === 'catalog/excluded.json') throw new Error('boom')
-      return base(req)
+    const diagnostic: Fetcher = async () => {
+      throw new Error('boom')
     }
-    expect(await pullCatalog([], fetcher, { log: (m) => logs.push(m) })).toHaveLength(3)
+    expect(await pullCatalog([], stub(3).fetcher, { log: (m) => logs.push(m), diagnosticFetcher: diagnostic })).toHaveLength(3)
     expect(logs.join('\n')).toMatch(/breakdown.*unavailable|unavailable.*breakdown/i)
   })
 
@@ -286,7 +306,7 @@ describe('query batching', () => {
     }
     const out = await pullCatalog([], fetcher)
     expect(out[0].summary?.text).toBe('Second pass.')
-    expect(calls.at(-1)).toContain('excontinue=1')
+    expect(calls.filter((c) => c.includes('api.php')).at(-1)).toContain('excontinue=1')
   })
 })
 

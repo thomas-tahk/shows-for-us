@@ -34,6 +34,8 @@ export interface ListEntry {
 }
 interface PullOptions {
   log?: (msg: string) => void
+  /** For the log-only class queries: should make one attempt, so a WDQS timeout is not retried. Defaults to the main fetcher. */
+  diagnosticFetcher?: Fetcher
 }
 
 // ---- Slugs -------------------------------------------------------------------
@@ -80,14 +82,15 @@ const pad = (n: number) => String(n).padStart(3, '0')
 
 /**
  * Wikidata classes that are not musicals but sit under Q58483083 (dramatico-musical work).
- * Each is excluded together with all its subclasses. Operetta (Q187931) is a subclass of opera,
- * so it goes out with opera. Q-ids typed from memory; the log's class breakdown is the check.
+ * Each is excluded together with all its subclasses. Operetta is listed on its own: its
+ * superclasses are musical drama and opéra comique, not opera. Ids checked against item pages.
  */
 export const EXCLUDED_CLASSES = [
-  'Q1344', // opera (and operetta)
-  'Q182832', // oratorio
-  'Q2742', // ballet
-  'Q169034', // cantata
+  'Q1344', // opera
+  'Q170384', // operetta
+  'Q85477', // oratorio
+  'Q41425', // ballet
+  'Q174873', // cantata
 ]
 
 const reaches = (cls: string) => `?item wdt:P31/wdt:P279* wd:${cls}`
@@ -96,6 +99,7 @@ const musicalsWithArticle = `${reaches(MUSICAL_CLASS)} .
            schema:isPartOf <https://en.wikipedia.org/> ;
            schema:name ?enwiki .`
 const notExcluded = EXCLUDED_CLASSES.map((c) => `FILTER NOT EXISTS { ${reaches(c)} }`).join('\n  ')
+const isExcluded = EXCLUDED_CLASSES.map((c) => `{ ${reaches(c)} }`).join(' UNION ')
 
 /** One query for the whole class (~4k rows): no paging, so the result is one consistent snapshot. */
 export function listingQuery(): string {
@@ -107,27 +111,32 @@ export function listingQuery(): string {
 
 /** How many items the exclusions remove. */
 export function excludedCountQuery(): string {
-  const excluded = EXCLUDED_CLASSES.map((c) => `{ ${reaches(c)} }`).join(' UNION ')
   return `SELECT (COUNT(DISTINCT ?item) AS ?n) WHERE {
   ${musicalsWithArticle}
-  ${excluded}
+  ${isExcluded}
 }`
 }
 
 export const CLASS_BREAKDOWN_SIZE = 40
+export const EXCLUDED_BREAKDOWN_SIZE = 20
 
-/** Top P31 classes of the items the listing keeps. */
-export function classBreakdownQuery(): string {
-  return `SELECT ?cls ?clsLabel (COUNT(DISTINCT ?item) AS ?n) WHERE {
-  ${musicalsWithArticle}
-  ${notExcluded}
-  ?item wdt:P31 ?cls .
+/** Top P31 classes of the items matching `itemPattern`. Grouping happens in a subquery; labels are added outside it. */
+function topClassesQuery(itemPattern: string, limit: number): string {
+  return `SELECT ?cls ?clsLabel ?n WHERE {
+  { SELECT ?cls (COUNT(DISTINCT ?item) AS ?n) WHERE {
+    ${itemPattern}
+    ?item wdt:P31 ?cls .
+  } GROUP BY ?cls ORDER BY DESC(?n) LIMIT ${limit} }
   SERVICE wikibase:label { bd:serviceParam wikibase:language "en,mul". }
 }
-GROUP BY ?cls ?clsLabel
-ORDER BY DESC(?n)
-LIMIT ${CLASS_BREAKDOWN_SIZE}`
+ORDER BY DESC(?n)`
 }
+
+/** Top P31 classes of the items the listing keeps. */
+export const classBreakdownQuery = () => topClassesQuery(`${musicalsWithArticle}\n    ${notExcluded}`, CLASS_BREAKDOWN_SIZE)
+
+/** Top P31 classes of the items the listing drops: a wrongly excluded musical class shows up here. */
+export const excludedClassBreakdownQuery = () => topClassesQuery(`${musicalsWithArticle}\n    ${isExcluded}`, EXCLUDED_BREAKDOWN_SIZE)
 
 export interface ExtractsCall {
   titles: string[]
@@ -169,14 +178,19 @@ export async function fetchListing(fetcher: Fetcher): Promise<ListEntry[]> {
   return [...byQid.values()].sort((a, b) => Number(a.qid.slice(1)) - Number(b.qid.slice(1)))
 }
 
+async function logClassTable(fetcher: Fetcher, path: string, query: string, title: string, log: (msg: string) => void) {
+  const res = (await fetcher(sparqlRequest(path, query))) as Bindings
+  log(title)
+  for (const b of res.results.bindings) log(`  ${qidOf(b.cls?.value ?? '')}\t${b.clsLabel?.value ?? ''}\t${b.n?.value ?? ''}`)
+}
+
 /** Log-only check that the exclusions worked. A failure here is logged, never fatal. */
 export async function logClassBreakdown(fetcher: Fetcher, log: (msg: string) => void): Promise<void> {
   try {
     const excluded = (await fetcher(sparqlRequest('catalog/excluded.json', excludedCountQuery()))) as Bindings
-    log(`excluded by class (opera/operetta, oratorio, ballet, cantata): ${excluded.results.bindings[0]?.n?.value ?? '?'}`)
-    const classes = (await fetcher(sparqlRequest('catalog/classes.json', classBreakdownQuery()))) as Bindings
-    log('top P31 classes of kept items (Q-id, label, count):')
-    for (const b of classes.results.bindings) log(`  ${qidOf(b.cls?.value ?? '')}\t${b.clsLabel?.value ?? ''}\t${b.n?.value ?? ''}`)
+    log(`excluded by class (opera, operetta, oratorio, ballet, cantata): ${excluded.results.bindings[0]?.n?.value ?? '?'}`)
+    await logClassTable(fetcher, 'catalog/classes.json', classBreakdownQuery(), 'top P31 classes of KEPT items (Q-id, label, count):', log)
+    await logClassTable(fetcher, 'catalog/excluded-classes.json', excludedClassBreakdownQuery(), 'top P31 classes of EXCLUDED items (Q-id, label, count):', log)
   } catch (e) {
     log(`class breakdown unavailable: ${(e as Error).message}`)
   }
@@ -305,12 +319,12 @@ export async function pullCatalog(flagships: Flagship[], fetcher: Fetcher, opts:
   const listed = await fetchListing(fetcher)
   const entries = withoutFlagships(listed, flagships)
   log(`listing: ${listed.length} musicals with an enwiki article, ${entries.length} after excluding flagships`)
-  await logClassBreakdown(fetcher, log)
   const slugs = assignSlugs(entries, new Set(flagships.map((f) => f.slug)))
   const rows = await fetchRows(fetcher, entries)
   log(`details: ${rows.size} items with data`)
   const extracts = await fetchExtracts(fetcher, entries)
   log(`extracts: ${extracts.size} summaries`)
+  await logClassBreakdown(opts.diagnosticFetcher ?? fetcher, log)
   return entries
     .map((e) => buildCatalogShow({ entry: e, slug: slugs.get(e.qid) as string, rows: rows.get(e.qid) ?? [], extract: extracts.get(e.enwiki) }))
     .sort((a, b) => cmp(a.slug, b.slug))
