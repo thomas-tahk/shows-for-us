@@ -50,16 +50,15 @@ export default function HomePage() {
         />
       </div>
 
-      {isEmptyQuery ? (
-        <h2 className="mt-6 text-lg font-semibold text-white">Featured shows</h2>
-      ) : (
-        <p className="mt-4 text-sm text-neutral-300" role="status" aria-live="polite">
-          {total > results.length
+      {isEmptyQuery && <h2 className="mt-6 text-lg font-semibold text-white">Featured shows</h2>}
+      <p className="mt-4 text-sm text-neutral-300" role="status" aria-live="polite">
+        {isEmptyQuery
+          ? `${total} featured shows`
+          : total > results.length
             ? `${total} shows found — showing the first ${results.length}`
             : `${total} ${total === 1 ? 'show' : 'shows'} found`}
-          {catalog.state === 'loading' && ' (full catalogue still loading)'}
-        </p>
-      )}
+        {!isEmptyQuery && catalog.state === 'loading' && ' (full catalogue still loading)'}
+      </p>
       {catalog.state === 'failed' && (
         <p className="mt-2 text-sm text-amber-300" role="status">
           The full catalogue couldn&apos;t load, so only the featured shows are searchable.

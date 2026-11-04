@@ -10,7 +10,7 @@ export function useCatalogIndex() {
   const [entries, setEntries] = useState<SearchableEntry[]>([])
 
   const load = useCallback(() => {
-    if (state !== 'idle') return
+    if (state !== 'idle' && state !== 'failed') return
     setState('loading')
     fetch(CATALOG_INDEX_URL)
       .then(res => {

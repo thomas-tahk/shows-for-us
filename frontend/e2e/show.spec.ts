@@ -30,7 +30,7 @@ for (const width of [390, 1280]) {
     await expectNoHScroll(page)
 
     await page.getByLabel('Search shows').fill('hamil')
-    await expect(page.locator('main a[href^="/show/"]')).toHaveCount(1)
+    await expect(page.locator('main a[href^="/show/"]').first()).toHaveAttribute('href', '/show/hamilton')
     await expectNoHScroll(page)
     await page.screenshot({ path: test.info().outputPath(`home-results-${width}.png`), fullPage: true })
 

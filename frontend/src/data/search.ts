@@ -19,12 +19,20 @@ interface Prepared {
   entry: SearchableEntry
   sortKey: string
   titleTokens: string[]
-  allTokens: string[]
+  /** Title tokens plus adjacent joins. */
+  titleWords: string[]
+  allWords: string[]
 }
 
 const TYPO_MIN_LENGTH = 5
 const LEADING_ARTICLES = new Set(['the', 'a', 'an'])
-const tokenize = (s: string) => normalize(s).split(' ').filter(Boolean)
+const tokenize = (s: string) => normalize(s.replace(/['\u2019]/g, '')).split(' ').filter(Boolean)
+
+/** Tokens plus each adjacent pair joined, so "spiderman" finds "Spider-Man". */
+function withJoins(tokens: string[]): string[] {
+  const joined = tokens.slice(1).map((t, i) => tokens[i] + t)
+  return [...tokens, ...joined]
+}
 
 /** True when a and b differ by at most one insertion, deletion, substitution or adjacent swap. */
 function withinOneEdit(a: string, b: string): boolean {
@@ -41,21 +49,30 @@ function withinOneEdit(a: string, b: string): boolean {
 }
 
 /** A query word matches a token as a prefix; words of 5+ letters also tolerate one typo. */
-function wordMatchesToken(word: string, token: string): boolean {
+function wordMatchesToken(word: string, token: string, typo: boolean): boolean {
   if (token.startsWith(word)) return true
-  if (word.length < TYPO_MIN_LENGTH) return false
+  if (!typo || word.length < TYPO_MIN_LENGTH || word[0] !== token[0]) return false
   for (let k = word.length - 1; k <= word.length + 1; k++) {
     if (withinOneEdit(word, token.slice(0, k))) return true
   }
   return false
 }
 
-const wordMatchesAny = (word: string, tokens: string[]) => tokens.some(t => wordMatchesToken(word, t))
+const wordMatchesAny = (word: string, tokens: string[], typo: boolean) =>
+  tokens.some(t => wordMatchesToken(word, t, typo))
 
 function prepare(entry: SearchableEntry): Prepared {
   const titleTokens = tokenize(entry.title)
-  const rest = [...entry.creators.flatMap(tokenize), ...(entry.year ? tokenize(entry.year) : [])]
-  return { entry, sortKey: normalize(entry.title), titleTokens, allTokens: [...titleTokens, ...rest] }
+  const titleWords = withJoins(titleTokens)
+  const creatorWords = entry.creators.flatMap(c => withJoins(tokenize(c)))
+  const yearWords = entry.year ? tokenize(entry.year) : []
+  return {
+    entry,
+    sortKey: normalize(entry.title),
+    titleTokens,
+    titleWords,
+    allWords: [...titleWords, ...creatorWords, ...yearWords],
+  }
 }
 
 const prepared = new WeakMap<SearchableEntry[], Prepared[]>()
@@ -68,16 +85,25 @@ function preparedFor(entries: SearchableEntry[]): Prepared[] {
   return p
 }
 
-function isTitlePrefix(words: string[], titleTokens: string[]): boolean {
+function isTitlePrefix(words: string[], titleTokens: string[], typo: boolean): boolean {
   const starts = LEADING_ARTICLES.has(titleTokens[0]) ? [0, 1] : [0]
-  return starts.some(s => words.every((w, i) => titleTokens[s + i] !== undefined && wordMatchesToken(w, titleTokens[s + i])))
+  return starts.some(s =>
+    words.every((w, i) => titleTokens[s + i] !== undefined && wordMatchesToken(w, titleTokens[s + i], typo)),
+  )
 }
 
-/** 0 title prefix, 1 other title match, 2 creator/year match, -1 no match. */
+/** 0 title prefix, 1 title word, 2 creator/year; all-exact before typo (+3). -1 no match. */
+function tierWith(words: string[], p: Prepared, typo: boolean): number {
+  if (!words.every(w => wordMatchesAny(w, p.allWords, typo))) return -1
+  if (!words.every(w => wordMatchesAny(w, p.titleWords, typo))) return 2
+  return isTitlePrefix(words, p.titleTokens, typo) ? 0 : 1
+}
+
 function tierOf(words: string[], p: Prepared): number {
-  if (!words.every(w => wordMatchesAny(w, p.allTokens))) return -1
-  if (!words.every(w => wordMatchesAny(w, p.titleTokens))) return 2
-  return isTitlePrefix(words, p.titleTokens) ? 0 : 1
+  const exact = tierWith(words, p, false)
+  if (exact >= 0) return exact
+  const typo = tierWith(words, p, true)
+  return typo >= 0 ? typo + 3 : -1
 }
 
 interface Ranked {
@@ -101,7 +127,7 @@ export function search(entries: SearchableEntry[], query: string, limit: number)
   const ranked: Ranked[] = []
   for (const p of preparedFor(entries)) {
     const tier = tierOf(words, p)
-    if (tier >= 0) ranked.push({ p, rank: (p.entry.flagship ? 0 : 3) + tier })
+    if (tier >= 0) ranked.push({ p, rank: tier * 2 + (p.entry.flagship ? 0 : 1) })
   }
   ranked.sort(byRank)
   return { results: ranked.slice(0, limit).map(r => r.p.entry), total: ranked.length }
