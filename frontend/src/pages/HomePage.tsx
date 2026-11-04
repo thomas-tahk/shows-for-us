@@ -1,10 +1,28 @@
-import { useState } from 'react'
+import { useMemo, useState } from 'react'
 import { Link } from 'react-router-dom'
-import { filterIndex, searchIndex } from '../data/catalog'
+import { searchIndex } from '../data/catalog'
+import { search, type SearchableEntry } from '../data/search'
+import { useCatalogIndex } from '../data/useCatalogIndex'
+
+const RESULT_LIMIT = 50
+
+const flagshipEntries: SearchableEntry[] = searchIndex.map(f => ({
+  slug: f.slug,
+  title: f.title,
+  year: null,
+  creators: f.creators,
+  flagship: true,
+}))
 
 export default function HomePage() {
   const [query, setQuery] = useState('')
-  const results = filterIndex(searchIndex, query)
+  const catalog = useCatalogIndex()
+  const entries = useMemo(() => {
+    const flagshipSlugs = new Set(flagshipEntries.map(f => f.slug))
+    return [...flagshipEntries, ...catalog.entries.filter(c => !flagshipSlugs.has(c.slug))]
+  }, [catalog.entries])
+  const { results, total } = search(entries, query, RESULT_LIMIT)
+  const isEmptyQuery = query.trim() === ''
 
   return (
     <main className="mx-auto max-w-3xl px-4 py-8 sm:py-12">
@@ -22,17 +40,30 @@ export default function HomePage() {
           type="search"
           autoComplete="off"
           value={query}
-          onChange={e => setQuery(e.target.value)}
+          onFocus={catalog.load}
+          onChange={e => {
+            catalog.load()
+            setQuery(e.target.value)
+          }}
           placeholder="e.g. Hamilton"
           className="mt-1 w-full min-h-11 bg-neutral-900 border border-neutral-600 text-white placeholder-neutral-400 rounded-lg px-4 py-2 focus:outline-none focus:border-amber-400 focus:ring-2 focus:ring-amber-400/40"
         />
       </div>
 
-      <p className="mt-4 text-sm text-neutral-400" role="status" aria-live="polite">
-        {query.trim() === ''
-          ? `All ${results.length} shows`
-          : `${results.length} ${results.length === 1 ? 'show' : 'shows'} found`}
+      {isEmptyQuery && <h2 className="mt-6 text-lg font-semibold text-white">Featured shows</h2>}
+      <p className="mt-4 text-sm text-neutral-300" role="status" aria-live="polite">
+        {isEmptyQuery
+          ? `${total} featured shows`
+          : total > results.length
+            ? `${total} shows found — showing the first ${results.length}`
+            : `${total} ${total === 1 ? 'show' : 'shows'} found`}
+        {!isEmptyQuery && catalog.state === 'loading' && ' (full catalogue still loading)'}
       </p>
+      {catalog.state === 'failed' && (
+        <p className="mt-2 text-sm text-amber-300" role="status">
+          The full catalogue couldn&apos;t load, so only the featured shows are searchable.
+        </p>
+      )}
 
       {results.length === 0 ? (
         <p className="mt-2 text-neutral-300">
@@ -47,9 +78,9 @@ export default function HomePage() {
                 className="block min-h-11 py-3 px-1 hover:bg-neutral-900 focus-visible:outline-2 focus-visible:outline-amber-400"
               >
                 <span className="block font-semibold text-amber-400 break-words">{r.title}</span>
-                {r.creators.length > 0 && (
+                {(r.year || r.creators.length > 0) && (
                   <span className="block text-sm text-neutral-400 break-words">
-                    {r.creators.join(', ')}
+                    {[r.year, r.creators.join(', ')].filter(Boolean).join(' · ')}
                   </span>
                 )}
               </Link>
