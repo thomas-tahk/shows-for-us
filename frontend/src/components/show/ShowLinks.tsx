@@ -2,10 +2,11 @@ import Section from './Section'
 
 const link = 'inline-flex min-h-11 items-center text-amber-400 underline hover:no-underline'
 
-export default function ShowLinks(props: { ibdb?: string; playbill?: string }) {
+export default function ShowLinks(props: { ibdb?: string; playbill?: string; extra?: { href: string; label: string }[] }) {
   const items = [
     props.ibdb && { href: props.ibdb, label: 'IBDB' },
     props.playbill && { href: props.playbill, label: 'Playbill' },
+    ...(props.extra ?? []),
   ].filter((x): x is { href: string; label: string } => Boolean(x))
   if (items.length === 0) return null
   return (

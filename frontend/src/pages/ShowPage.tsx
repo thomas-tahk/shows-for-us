@@ -1,7 +1,7 @@
 import { useParams } from 'react-router-dom'
 import { dataIsLive, getFlagship, getShowData } from '../data/catalog'
 import { getWriteup } from '../data/loadWriteups'
-import NotFoundPage from './NotFoundPage'
+import CatalogShowPage from './CatalogShowPage'
 import ShowImage from '../components/show/ShowImage'
 import Creators from '../components/show/Creators'
 import History from '../components/show/History'
@@ -20,9 +20,13 @@ function isDraft(w: { sources_opened: boolean; status: string }): boolean {
 
 export default function ShowPage() {
   const { slug = '' } = useParams()
-  const events = useShowEvents(slug)
   const flagship = getFlagship(slug)
-  if (!flagship) return <NotFoundPage what="show" />
+  if (!flagship) return <CatalogShowPage slug={slug} />
+  return <FlagshipShowPage slug={slug} flagship={flagship} />
+}
+
+function FlagshipShowPage({ slug, flagship }: { slug: string; flagship: NonNullable<ReturnType<typeof getFlagship>> }) {
+  const events = useShowEvents(slug)
 
   const writeup = getWriteup(slug)
   const data = getShowData(slug)
