@@ -10,7 +10,7 @@
 //   5. diagnostics (log only, single attempt, each query on its own): class and genre breakdowns
 import type { CatalogIndexEntry, CatalogShard, CatalogShow } from '../src/data/catalogShow.ts'
 import { shardOf } from '../src/data/catalogShow.ts'
-import { classifyEntries, logDecisions } from './catalog-classify.ts'
+import { classifyEntries, FORM_WORDS, logDecisions, MUSICAL_WORDS } from './catalog-classify.ts'
 import type { Flagship, ShowAward, ShowSummary } from '../src/data/show.ts'
 import {
   MUSICAL_CLASS,
@@ -246,7 +246,6 @@ export async function logClassBreakdown(fetcher: Fetcher, log: Log): Promise<voi
   }
 }
 
-const OPERA_WORDS = /\b(opera|operetta|ballet|oratorio|cantata|masque|zarzuela|singspiel)\b/i
 const SUMMARY_EXAMPLES = 10
 
 const firstSentence = (text: string) => text.match(/^.*?[.!?](?=\s|$)/s)?.[0] ?? text
@@ -254,11 +253,11 @@ const firstSentence = (text: string) => text.match(/^.*?[.!?](?=\s|$)/s)?.[0] ??
 /** Local check on the extracts: kept shows whose first sentence names a non-musical form but not "musical". */
 export function summarySanity(shows: Pick<CatalogShow, 'title' | 'summary'>[]): { suspect: number; examples: string[]; musical: number } {
   const first = shows.flatMap((s) => (s.summary ? [{ title: s.title, sentence: firstSentence(s.summary.text) }] : []))
-  const suspect = first.filter((f) => OPERA_WORDS.test(f.sentence) && !/musical/i.test(f.sentence))
+  const suspect = first.filter((f) => FORM_WORDS.test(f.sentence) && !MUSICAL_WORDS.test(f.sentence))
   return {
     suspect: suspect.length,
     examples: suspect.slice(0, SUMMARY_EXAMPLES).map((f) => f.title),
-    musical: first.filter((f) => /musical/i.test(f.sentence)).length,
+    musical: first.filter((f) => MUSICAL_WORDS.test(f.sentence)).length,
   }
 }
 
