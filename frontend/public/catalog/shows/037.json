@@ -1,4 +1,5 @@
 {
+  "live": true,
   "shows": {
     "an-officer-and-a-gentleman": {
       "slug": "an-officer-and-a-gentleman",
@@ -196,59 +197,6 @@
         "modified": false
       }
     },
-    "chunhyang-jeon": {
-      "slug": "chunhyang-jeon",
-      "title": "Chunhyang-jeon",
-      "qid": "Q5116410",
-      "enwiki": "Chunhyang-jeon (opera)",
-      "composers": [
-        {
-          "name": "Hyun Jae-myung",
-          "qid": "Q195795"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Chunhyang-jeon_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q5116410"
-      },
-      "summary": {
-        "text": "Chunhyang-jeon (Korean: 춘향전; Hanja: 春香傳; lit. 'The Story of Chunhyang') is a 1950 Korean-language opera by South Korean composer Hyun Jae-Myung. This is generally regarded as the first western-style Korean opera. During the Japanese colonial period, he, like most Koreans, was given a Japanese name based on his Korean one (玄山濟明 Kuroyama Sumiaki). The plot concerns a girl Sun Chunhyang, and is based on the original Chunhyangjeon, a 17th-century novel telling one of the best known traditional love stories of Korea, based on the pansori Chunhyangga.",
-        "source_url": "https://en.wikipedia.org/wiki/Chunhyang-jeon_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "corroboree": {
-      "slug": "corroboree",
-      "title": "Corroboree",
-      "qid": "Q5173020",
-      "enwiki": "Corroboree (ballet)",
-      "composers": [],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Corroboree_(ballet)",
-        "wikidata": "https://www.wikidata.org/wiki/Q5173020"
-      },
-      "summary": {
-        "text": "Corroboree is a ballet written by Australian composer John Antill in the early 1940s. The first full version of the score was completed in 1944 and it was first performed as a concert suite in 1946. On 3 July 1950 it was performed as a ballet, at the Empire Theatre in Sydney, choreographed by Rex Reid, with dancers of the Melbourne-based National Theatre Ballet.\nWildly successful and seen as a national \"coming-of-age\", the ballet was performed again with new choreography by American-born dancer, choreographer and writer Beth Dean in 1954. Notably, Dean and her Australian husband, Victor Carell, had spent several months in remote outback Australia researching Aboriginal ceremonies, costumes and dance, upon which Dean's version was based. In this first production, Dean danced the role of the Initiate herself.\nMany of the costumes and props for this version of the ballet are held by the National Museum of Australia. The music manuscript is held by the State Library of New South Wales.",
-        "source_url": "https://en.wikipedia.org/wiki/Corroboree_(ballet)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "das-kleine-hofkonzert": {
       "slug": "das-kleine-hofkonzert",
       "title": "Das kleine Hofkonzert",
@@ -278,184 +226,6 @@
         "modified": false
       }
     },
-    "der-goldene-pierrot": {
-      "slug": "der-goldene-pierrot",
-      "title": "Der goldene Pierrot",
-      "qid": "Q914501",
-      "enwiki": "Der goldene Pierrot",
-      "composers": [
-        {
-          "name": "Walter Goetze",
-          "qid": "Q2546790"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "1934-03-31",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Der_goldene_Pierrot",
-        "wikidata": "https://www.wikidata.org/wiki/Q914501"
-      },
-      "summary": {
-        "text": "Der goldene Pierrot (The Golden Pierrot) is a German-language operetta in eight scenes by Walter Goetze to a libretto by Oskar Felix and Otto Kleinert. It premiered on 31 March 1934 at the Theater des Westens in Berlin.",
-        "source_url": "https://en.wikipedia.org/wiki/Der_goldene_Pierrot",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "det-sjungande-tradet": {
-      "slug": "det-sjungande-tradet",
-      "title": "Det sjungande trädet",
-      "qid": "Q11856032",
-      "enwiki": "Det sjungande trädet (opera)",
-      "composers": [
-        {
-          "name": "Erik Bergman",
-          "qid": "Q939990"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Bo Carpelan",
-          "qid": "Q318198"
-        }
-      ],
-      "premiere": {
-        "date": null,
-        "venue": "Finnish National Opera"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Det_sjungande_tr%C3%A4det_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q11856032"
-      },
-      "summary": {
-        "text": "Det sjungande trädet (The Singing Tree), Op. 110, is an opera in two acts by the Finnish composer Erik Bergman. The Swedish-language libretto, based on a Swedish fairy tale, was written by Bo Carpelan. The opera premiered on 3 September 1995 at the Helsinki Opera House.",
-        "source_url": "https://en.wikipedia.org/wiki/Det_sjungande_tr%C3%A4det_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "die-abreise": {
-      "slug": "die-abreise",
-      "title": "Die Abreise",
-      "qid": "Q1210895",
-      "enwiki": "Die Abreise",
-      "composers": [
-        {
-          "name": "Eugen d'Albert",
-          "qid": "Q57178"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "1898-10-20",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Die_Abreise",
-        "wikidata": "https://www.wikidata.org/wiki/Q1210895"
-      },
-      "summary": {
-        "text": "Die Abreise (The Departure) is a comic opera in one act by composer Eugen d'Albert. The libretto was written by Ferdinand Sporck, a friend of the composer, after a play by August Ernst Steigentesch.",
-        "source_url": "https://en.wikipedia.org/wiki/Die_Abreise",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "dust": {
-      "slug": "dust",
-      "title": "Dust",
-      "qid": "Q97628004",
-      "enwiki": "Dust (ballet)",
-      "composers": [],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Dust_(ballet)",
-        "wikidata": "https://www.wikidata.org/wiki/Q97628004"
-      },
-      "summary": {
-        "text": "Dust is a one-act contemporary ballet about World War I, choreographed by Akram Khan, music by Jocelyn Pook and created for the English National Ballet. It marked the first time Khan worked with a ballet company, and premiered on 2 April 2014 at the Barbican Centre, London.",
-        "source_url": "https://en.wikipedia.org/wiki/Dust_(ballet)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "ein-wahrer-held": {
-      "slug": "ein-wahrer-held",
-      "title": "Ein wahrer Held",
-      "qid": "Q5349604",
-      "enwiki": "Ein wahrer Held",
-      "composers": [
-        {
-          "name": "Giselher Klebe",
-          "qid": "Q690846"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Lore Klebe",
-          "qid": "Q114891526"
-        },
-        {
-          "name": "Giselher Klebe",
-          "qid": "Q690846"
-        }
-      ],
-      "premiere": {
-        "date": "1975-01-18",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Ein_wahrer_Held",
-        "wikidata": "https://www.wikidata.org/wiki/Q5349604"
-      },
-      "summary": {
-        "text": "Ein wahrer Held (A True Hero), Op. 69, is an opera in three acts by Giselher Klebe who with his wife, Lore Klebe, also wrote the libretto based on the 1907 play The Playboy of the Western World by John Millington Synge.\nThe opera premiered during the Zurich June Festival on 18 January 1975 at the Zurich Opera House, conducted by Ferdinand Leitner and directed by Imo Moszkowicz.",
-        "source_url": "https://en.wikipedia.org/wiki/Ein_wahrer_Held",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "hansel-and-gretel-1958-tv-special": {
-      "slug": "hansel-and-gretel-1958-tv-special",
-      "title": "Hansel and Gretel",
-      "qid": "Q5651013",
-      "enwiki": "Hansel and Gretel (1958 TV special)",
-      "composers": [],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Hansel_and_Gretel_(1958_TV_special)",
-        "wikidata": "https://www.wikidata.org/wiki/Q5651013"
-      },
-      "summary": {
-        "text": "Hansel and Gretel is a musical adaptation of the Brothers Grimm story. It was directed by Paul Bogart and broadcast as a live television special on NBC on April 27, 1958. It is one of a long series of fantasies presented on television as musical specials after the enormously successful first two telecasts of the Mary Martin Peter Pan. But Hansel and Gretel did not repeat the success of Peter Pan or several of the other specials. It was shown only once, then lapsed into obscurity, although a cast album was issued. The album, also long forgotten, has recently been issued on compact disc.\nThe adaptation, like the telecast 1957 musical adaptation of Pinocchio with Mickey Rooney, features songs by Alec Wilder and William Engvick. It introduces many characters not in the original story including a quartet of characters named, respectively, Eenie, Meanie, Miney and Moe. Moe is portrayed by Sondra Lee, who played Tiger Lily in Peter Pan. Rather incongruously, thirty-nine-year-old comedian Red Buttons appears as Hansel, and then-new Broadway star Barbara Cook is Gretel. Other cast members include Hans Conried, Stubby Kaye, and Risë Stevens. The production's original sponsor was Rexall. Samuel Leve designed the sets for the production.",
-        "source_url": "https://en.wikipedia.org/wiki/Hansel_and_Gretel_(1958_TV_special)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "horrible-histories-the-mad-millennium": {
       "slug": "horrible-histories-the-mad-millennium",
       "title": "Horrible Histories: The Mad Millennium",
@@ -476,41 +246,6 @@
       "summary": {
         "text": "The Mad Millennium is a Horrible Histories musical play written by Terry Deary and first performed in 1999. The play is about 7 kids in a history lesson with a new history teacher and their only hope is to race through the centuries. It is the only HH play written into a published book - The Mad Millennium: A Play by Terry Deary.",
         "source_url": "https://en.wikipedia.org/wiki/Horrible_Histories%3A_The_Mad_Millennium",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "il-filosofo-di-campagna": {
-      "slug": "il-filosofo-di-campagna",
-      "title": "Il filosofo di campagna",
-      "qid": "Q3780461",
-      "enwiki": "Il filosofo di campagna",
-      "composers": [
-        {
-          "name": "Baldassare Galuppi",
-          "qid": "Q208338"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Carlo Goldoni",
-          "qid": "Q165534",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4684"
-        }
-      ],
-      "premiere": {
-        "date": "1754-10-26",
-        "venue": "Teatro San Samuele"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Il_filosofo_di_campagna",
-        "wikidata": "https://www.wikidata.org/wiki/Q3780461"
-      },
-      "summary": {
-        "text": "Il filosofo di campagna (The Country Philosopher) is a dramma giocoso per musica in 3 acts by composer Baldassare Galuppi. The opera uses an Italian language libretto by Carlo Goldoni. The work premiered at the Teatro San Samuele in Venice on 26 October 1754.\nIl filosofo di campagna, which has been defined a \"masterly opera\", obtained a great success, with many performances throughout Europe.",
-        "source_url": "https://en.wikipedia.org/wiki/Il_filosofo_di_campagna",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -558,140 +293,6 @@
         "modified": false
       }
     },
-    "l-homme-et-son-desir": {
-      "slug": "l-homme-et-son-desir",
-      "title": "L'Homme et son désir",
-      "qid": "Q3203694",
-      "enwiki": "L'Homme et son désir",
-      "composers": [
-        {
-          "name": "Darius Milhaud",
-          "qid": "Q186264",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/101441"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/L'Homme_et_son_d%C3%A9sir",
-        "wikidata": "https://www.wikidata.org/wiki/Q3203694"
-      },
-      "summary": {
-        "text": "L'Homme et son désir, Op. 48, is a ballet composed by Darius Milhaud from 1917–18, based on a scenario of Paul Claudel. It was written in Brazil, where Milhaud had accompanied Claudel as a secretary when the latter was appointed ambassador to Rio de Janeiro.\nIt was the passage of the Ballets Russes with Vaslav Nijinsky in Rio de Janeiro that triggered it. This was Claudel's first musical collaboration and he then repeated the experience several times with some major works (including Honegger's Jeanne d'Arc au bûcher). The work is also one of Milhaud's first ballets.\nThe score is written for four voices (wordless) and a small orchestra and a large number of percussion instruments (including a whip and a whistle).\nThe Premiere took place on 6 June 1921, with a choreography by the Ballets suédois under the orchestral direction of Désiré-Émile Inghelbrecht.",
-        "source_url": "https://en.wikipedia.org/wiki/L'Homme_et_son_d%C3%A9sir",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "la-fin-du-jour": {
-      "slug": "la-fin-du-jour",
-      "title": "La Fin du jour",
-      "qid": "Q18209065",
-      "enwiki": "La Fin du jour (ballet)",
-      "composers": [
-        {
-          "name": "Maurice Ravel",
-          "qid": "Q1178",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/107172"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/La_Fin_du_jour_(ballet)",
-        "wikidata": "https://www.wikidata.org/wiki/Q18209065"
-      },
-      "summary": {
-        "text": "La Fin du jour is a one-act ballet created by Kenneth MacMillan in 1979 for the Royal Ballet, London. The music is Maurice Ravel's Piano Concerto in G (1931).\nIn MacMillan's words, \"La Fin du jour draws its inspiration from the style of the 'thirties'; the designs and choreography are inspired by the fashion plates of an era and a way of life shattered forever by the Second World War.\"\nThe first performance was at the Royal Opera House, Covent Garden on 15 March 1979. The leading roles were danced by Merle Park, Jennifer Penney, Julian Hosking and Wayne Eagling. The solo pianist was Philip Gammon, the conductor was Ashley Lawrence, and the designs were by Ian Spurling.",
-        "source_url": "https://en.wikipedia.org/wiki/La_Fin_du_jour_(ballet)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "la-lodoiska": {
-      "slug": "la-lodoiska",
-      "title": "La Lodoiska",
-      "qid": "Q52657320",
-      "enwiki": "La Lodoiska",
-      "composers": [
-        {
-          "name": "Johann Simon Mayr",
-          "qid": "Q373770"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Francesco Gonella",
-          "qid": "Q102280670"
-        }
-      ],
-      "premiere": {
-        "date": "1796-01-26",
-        "venue": "Teatro La Fenice"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/La_Lodoiska",
-        "wikidata": "https://www.wikidata.org/wiki/Q52657320"
-      },
-      "summary": {
-        "text": "La Lodoiska is an opera in three acts by Simon Mayr to an Italian libretto by Francesco Gonella De Ferrari. It was Mayr's second opera and premiered at La Fenice in Venice on 26 January 1796.",
-        "source_url": "https://en.wikipedia.org/wiki/La_Lodoiska",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "la-nonne-sanglante": {
-      "slug": "la-nonne-sanglante",
-      "title": "La nonne sanglante",
-      "qid": "Q3211103",
-      "enwiki": "La nonne sanglante",
-      "composers": [
-        {
-          "name": "Charles Gounod",
-          "qid": "Q180278",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11773"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Germain Delavigne",
-          "qid": "Q1513808"
-        },
-        {
-          "name": "Eugène Scribe",
-          "qid": "Q319261",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5467"
-        }
-      ],
-      "premiere": {
-        "date": "1854-10-18",
-        "venue": "Salle Le Peletier"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/La_nonne_sanglante",
-        "wikidata": "https://www.wikidata.org/wiki/Q3211103"
-      },
-      "summary": {
-        "text": "La nonne sanglante (The Bloody Nun) is a five-act opera by Charles Gounod to a libretto by Eugène Scribe and Germain Delavigne, after an episode in The Monk, a 1796 gothic novel by Matthew Gregory Lewis.\nThe opera was written between 1852 and 1854 and was first produced on 18 October 1854 at the Salle Le Peletier by the Paris Opera.\nIt received 11 performances between October and November 1854. Its poor reception, in the midst of various crises, contributed to the overthrow of the Opéra director Nestor Roqueplan, who was replaced by his adversary François-Louis Crosnier. Crosnier immediately cancelled the run, saying that 'such filth' (pareilles ordures) would no longer be tolerated.",
-        "source_url": "https://en.wikipedia.org/wiki/La_nonne_sanglante",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "ladies-in-black": {
       "slug": "ladies-in-black",
       "title": "Ladies in Black",
@@ -717,116 +318,6 @@
       "summary": {
         "text": "Ladies in Black is an Australian musical with music and lyrics by Tim Finn and book by Carolyn Burns, based on the 1993 novel The Women in Black by Madeleine St John.",
         "source_url": "https://en.wikipedia.org/wiki/Ladies_in_Black",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "le-testament-de-la-tante-caroline": {
-      "slug": "le-testament-de-la-tante-caroline",
-      "title": "Le testament de la tante Caroline",
-      "qid": "Q3064060",
-      "enwiki": "Le testament de la tante Caroline",
-      "composers": [
-        {
-          "name": "Albert Roussel",
-          "qid": "Q313376"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Michel Veber",
-          "qid": "Q53857959"
-        }
-      ],
-      "premiere": {
-        "date": "1936-11-14",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Le_testament_de_la_tante_Caroline",
-        "wikidata": "https://www.wikidata.org/wiki/Q3064060"
-      },
-      "summary": {
-        "text": "Le testament de la tante Caroline (Aunt Caroline's Will) is an opéra bouffe or operetta by composer Albert Roussel and librettist Nino (pseudonym of Michel Veber). The original production was in Czech (prepared by Julie Reisserová) and in three acts, but the work was later revised into a one act operetta in 1964. The operetta tells the story of a family who is caught in a difficult set of circumstances surrounding the contents of a will and the dispersal of a vast fortune. The work premiered in Olomouc on 14 November 1936.",
-        "source_url": "https://en.wikipedia.org/wiki/Le_testament_de_la_tante_Caroline",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "le-toreador": {
-      "slug": "le-toreador",
-      "title": "Le toréador",
-      "qid": "Q472315",
-      "enwiki": "Le toréador",
-      "composers": [
-        {
-          "name": "Adolphe Adam",
-          "qid": "Q189544",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/111079"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Thomas Sauvage",
-          "qid": "Q3525549"
-        }
-      ],
-      "premiere": {
-        "date": "1849-05-18",
-        "venue": "Opéra-Comique"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Le_tor%C3%A9ador",
-        "wikidata": "https://www.wikidata.org/wiki/Q472315"
-      },
-      "summary": {
-        "text": "Le toréador, ou L'accord parfait (The Toreador, or The Perfect Agreement)  is an opéra bouffon in two acts by Adolphe Adam with a libretto by Thomas Sauvage. It was first performed at the Opéra-Comique, Paris on 18 May 1849.",
-        "source_url": "https://en.wikipedia.org/wiki/Le_tor%C3%A9ador",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "les-aventures-de-pelee": {
-      "slug": "les-aventures-de-pelee",
-      "title": "Les Aventures de Pélée",
-      "qid": "Q16058138",
-      "enwiki": "Les Aventures de Pélée",
-      "composers": [
-        {
-          "name": "Léo Delibes",
-          "qid": "Q207951",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/413269"
-        },
-        {
-          "name": "Ludwig Minkus",
-          "qid": "Q434821",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/501215"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Marius Petipa",
-          "qid": "Q312320",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/1379"
-        }
-      ],
-      "premiere": {
-        "date": "1876-01-20",
-        "venue": "Bolshoi Kamenny Theatre"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Les_Aventures_de_P%C3%A9l%C3%A9e",
-        "wikidata": "https://www.wikidata.org/wiki/Q16058138"
-      },
-      "summary": {
-        "text": "Les Aventures de Pélée (The Adventures of Peleus; Russian: Приключения Пелея) is a ballet in three acts and five scenes with choreography by Marius Petipa and music by Ludwig Minkus, with additional music adapted from works by Léo Delibes. The libretto by Marius Petipa is derived from the Greek Myth concerning the Goddess Thetis and the circumstances surrounding her marriage, arranged by Jupiter (or Zeus), to the mortal Peleus.\nIt was first presented by the Imperial Ballet on 30 January [O.S. 18 January] 1876 at the Imperial Bolshoi Kammeny Theatre in St. Petersburg, Russia, with Eugeniia Sokolova (as the Goddess Thetis), Pavel Gerdt (as Peleus), Lyubov Savitskaya (as Cupid), Mariia Gorshenkova (as Venus), Christian Johansson (as Jupiter), Lev Ivanov (as Adonis), and Platon Karsavin (as Triton).",
-        "source_url": "https://en.wikipedia.org/wiki/Les_Aventures_de_P%C3%A9l%C3%A9e",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -941,59 +432,6 @@
         "modified": false
       }
     },
-    "moves": {
-      "slug": "moves",
-      "title": "Moves",
-      "qid": "Q12412133",
-      "enwiki": "Moves (ballet)",
-      "composers": [],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "1959",
-        "venue": "Spoleto"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Moves_(ballet)",
-        "wikidata": "https://www.wikidata.org/wiki/Q12412133"
-      },
-      "summary": {
-        "text": "Moves is a ballet choreographed by Jerome Robbins. The ballet was made for Robbins's troupe Ballet: USA's 1959 tour, with Aaron Copland brought in to write the music. However, he struggled with the score, and Robbins ultimately decided to have the ballet performed in silence instead. The ballet premiered at the Festival of Two Worlds held in Spoleto, Italy, on July 3, 1959. It has since been revived by other dance companies, including the New York City Ballet. Copland's score was later published as Dance Panels.",
-        "source_url": "https://en.wikipedia.org/wiki/Moves_(ballet)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "mutio-scevola": {
-      "slug": "mutio-scevola",
-      "title": "Mutio Scevola",
-      "qid": "Q6943962",
-      "enwiki": "Mutio Scevola",
-      "composers": [
-        {
-          "name": "Francesco Cavalli",
-          "qid": "Q108062"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Mutio_Scevola",
-        "wikidata": "https://www.wikidata.org/wiki/Q6943962"
-      },
-      "summary": {
-        "text": "Mutio Scevola or Muzio Scevola (Mucius Scaevola) is an opera (drama per musica) in three acts by the Italian composer Francesco Cavalli, with a libretto by Nicolò Minato.  It was based on the story of the Roman hero, Gaius Mucius Scaevola.  The opera was first performed at the Teatro San Salvatore, Venice on 26 January 1665 and revived in Bologna in 1667. The libretto is dedicated to Philippe Jules Mancini, Duke of Nevers, the nephew of Cardinal Mazarin.",
-        "source_url": "https://en.wikipedia.org/wiki/Mutio_Scevola",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "never-say-goodbye": {
       "slug": "never-say-goodbye",
       "title": "Never Say Goodbye",
@@ -1020,42 +458,6 @@
       "summary": {
         "text": "Never Say Goodbye is a musical with a book and lyrics by Shûichirô Koike and music by Frank Wildhorn. It was written specifically for Takarazuka Revue, the all-female Japanese theatre company. Wildhorn was the first non-Japanese to write an original musical for the company.\nSet against the background of the Spanish Civil War, the plot centers on socialist playwright Katherine McGregor and renowned photographer Georges Malraux, a Polish Jew who fled his homeland for Paris. The two first meet in Hollywood at a party announcing the film adaptation of Katherine's play Tempest in Spain, based on the opera Carmen. The two are reunited in Barcelona, where they unexpectedly find themselves falling in love as they become embroiled in a battle against fascism.\nDirected by Koike, the production was staged in 2006 at the Takarazuka Grand Theater in Takarazuka, Hyōgo from March 24 through May 8, and at the Tokyo Takarazuka Theater in Tokyo, Japan from May 26 through July 2. The cast included Mari Hanafusa as Katherine and Yōka Wao as Georges. Never Say Goodbye marked the final performance of both stars before their retirement from the troupe.\nA full-length cast recording, a folio of sheet music, and a video and DVD of the show have been released.",
         "source_url": "https://en.wikipedia.org/wiki/Never_Say_Goodbye_(musical)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "new-year": {
-      "slug": "new-year",
-      "title": "New Year",
-      "qid": "Q3339029",
-      "enwiki": "New Year (opera)",
-      "composers": [
-        {
-          "name": "Michael Tippett",
-          "qid": "Q356499",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/83770"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Michael Tippett",
-          "qid": "Q356499",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/83770"
-        }
-      ],
-      "premiere": {
-        "date": "1989-10-27",
-        "venue": "Houston Grand Opera"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/New_Year_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q3339029"
-      },
-      "summary": {
-        "text": "New Year is a British opera in three acts with music and libretto by Sir Michael Tippett.  As with Tippett's other operas, the text and music encompass a widely eclectic range of cultural references.  Tippett has noted that the \"primary metaphor\" of the opera is dance. The choreographer of the original production was the noted American dancer Bill T. Jones.",
-        "source_url": "https://en.wikipedia.org/wiki/New_Year_(opera)",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -1132,41 +534,6 @@
         "modified": false
       }
     },
-    "paradise-lost": {
-      "slug": "paradise-lost",
-      "title": "Paradise Lost",
-      "qid": "Q781830",
-      "enwiki": "Paradise Lost (Penderecki)",
-      "composers": [
-        {
-          "name": "Krzysztof Penderecki",
-          "qid": "Q153469"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Christopher Fry",
-          "qid": "Q543468",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4833"
-        }
-      ],
-      "premiere": {
-        "date": "1978-11-29",
-        "venue": "Lyric Opera of Chicago"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Paradise_Lost_(Penderecki)",
-        "wikidata": "https://www.wikidata.org/wiki/Q781830"
-      },
-      "summary": {
-        "text": "Paradise Lost is an opera in two acts with music by Krzysztof Penderecki and an English libretto by Christopher Fry.  The opera is based on the 1667 epic poem of the same name by Milton.  Penderecki himself characterized the work as a Sacra Rappresentazione (sacred representation) rather than an opera.  He wrote the opera on commission for the 1976 US Bicentennial celebrations.  The first performance took place on 29 November 1978, at the Lyric Opera of Chicago.  The same production was presented at La Scala, Milan, on 31 January 1979.\nThe opera is set in heaven, hell, and on earth at the dawn of creation, and is divided into 42 scenes.",
-        "source_url": "https://en.wikipedia.org/wiki/Paradise_Lost_(Penderecki)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "peggy-ann": {
       "slug": "peggy-ann",
       "title": "Peggy-Ann",
@@ -1210,40 +577,6 @@
         "modified": false
       }
     },
-    "sarka-janacek": {
-      "slug": "sarka-janacek",
-      "title": "Šárka",
-      "qid": "Q3069266",
-      "enwiki": "Šárka (Janáček)",
-      "composers": [
-        {
-          "name": "Leoš Janáček",
-          "qid": "Q184933"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Julius Zeyer",
-          "qid": "Q942980"
-        }
-      ],
-      "premiere": {
-        "date": "1925-11-11",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/%C5%A0%C3%A1rka_(Jan%C3%A1%C4%8Dek)",
-        "wikidata": "https://www.wikidata.org/wiki/Q3069266"
-      },
-      "summary": {
-        "text": "Šárka is an opera in three acts by Leoš Janáček to a Czech libretto by Julius Zeyer, based on Bohemian legends of Šárka in Dalimil's Chronicle. Written in 1887, the opera lay unproduced for many years and was first performed at the Divadlo na Hradbách (today's Mahen Theatre) in Brno on 11 November 1925 in honour of Janáček's 71st  birthday.",
-        "source_url": "https://en.wikipedia.org/wiki/%C5%A0%C3%A1rka_(Jan%C3%A1%C4%8Dek)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "tenderloin": {
       "slug": "tenderloin",
       "title": "Tenderloin",
@@ -1283,70 +616,6 @@
       "summary": {
         "text": "Tenderloin is a musical with a book by George Abbott and Jerome Weidman, lyrics by Sheldon Harnick, and music by Jerry Bock, their follow-up to the highly successful Pulitzer Prize-winning Fiorello! a year earlier.  The musical is based on a 1959 novel by Samuel Hopkins Adams.  Set in the Tenderloin, a red-light district in 1890s Manhattan, the show's story focuses on Reverend Brock, a character loosely based on American clergyman and social reformer Charles Henry Parkhurst.",
         "source_url": "https://en.wikipedia.org/wiki/Tenderloin_(musical)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "the-children-of-rosenthal": {
-      "slug": "the-children-of-rosenthal",
-      "title": "The Children of Rosenthal",
-      "qid": "Q25840430",
-      "enwiki": "The Children of Rosenthal",
-      "composers": [
-        {
-          "name": "Leonid Desyatnikov",
-          "qid": "Q1986248"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Vladimir Sorokin",
-          "qid": "Q319839"
-        }
-      ],
-      "premiere": {
-        "date": "2005-03-23",
-        "venue": "Bolshoi Theatre"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/The_Children_of_Rosenthal",
-        "wikidata": "https://www.wikidata.org/wiki/Q25840430"
-      },
-      "summary": {
-        "text": "The Children of Rosenthal (Russian: Дети Розенталя, romanized: D'eti Rozental'a) is a 2005 postmodern opera in two acts by Leonid Desyatnikov to a Russian libretto by Vladimir Sorokin.\nSet in USSR during the post-World War II era, the opera tells the story of clones of great composers: Wagner, Tchaikovsky, Mussorgsky, Verdi, and Mozart. They were cloned by Alex Rosenthal, a scientist who escaped from Nazi Germany to the USSR. The premiere took place at the Bolshoi Theatre in Moscow on 23 March 2005.",
-        "source_url": "https://en.wikipedia.org/wiki/The_Children_of_Rosenthal",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "the-cooper": {
-      "slug": "the-cooper",
-      "title": "The Cooper",
-      "qid": "Q7727566",
-      "enwiki": "The Cooper",
-      "composers": [
-        {
-          "name": "Thomas Arne",
-          "qid": "Q309709",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/88200"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/The_Cooper",
-        "wikidata": "https://www.wikidata.org/wiki/Q7727566"
-      },
-      "summary": {
-        "text": "The Cooper is a comic opera in two acts by Thomas Arne. The English libretto by Arne is based on Nicolas-Médard Audinot and Antoine François Quétant’s Le tonnelier. The opera premiered in London at the Theatre Royal in the Haymarket on 10 June 1772.",
-        "source_url": "https://en.wikipedia.org/wiki/The_Cooper",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -1409,84 +678,6 @@
         "modified": false
       }
     },
-    "the-knot-garden": {
-      "slug": "the-knot-garden",
-      "title": "The Knot Garden",
-      "qid": "Q3521497",
-      "enwiki": "The Knot Garden",
-      "composers": [
-        {
-          "name": "Michael Tippett",
-          "qid": "Q356499",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/83770"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "1970-12-02",
-        "venue": "Royal Opera House"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/The_Knot_Garden",
-        "wikidata": "https://www.wikidata.org/wiki/Q3521497"
-      },
-      "summary": {
-        "text": "The Knot Garden is the third opera by composer Michael Tippett for which he wrote the original English libretto. The work had its first performance at the Royal Opera House, Covent Garden, on 2 December 1970 conducted by Sir Colin Davis and produced by Sir Peter Hall. There is a recording with the original cast.",
-        "source_url": "https://en.wikipedia.org/wiki/The_Knot_Garden",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "the-little-prince-opera": {
-      "slug": "the-little-prince-opera",
-      "title": "The Little Prince",
-      "qid": "Q7747693",
-      "enwiki": "The Little Prince (opera)",
-      "composers": [],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": "Houston Grand Opera"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/The_Little_Prince_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q7747693"
-      },
-      "summary": {
-        "text": "The Little Prince, subtitled A Magical Opera, is a children's opera in two acts by Rachel Portman to an English libretto by Nicholas Wright, based on the 1943 book of the same name by Antoine de Saint-Exupéry. It was first performed at Houston Grand Opera on 31 May 2003.",
-        "source_url": "https://en.wikipedia.org/wiki/The_Little_Prince_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "the-rake-s-progress-ballet": {
-      "slug": "the-rake-s-progress-ballet",
-      "title": "The Rake's Progress",
-      "qid": "Q7759363",
-      "enwiki": "The Rake's Progress (ballet)",
-      "composers": [],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/The_Rake's_Progress_(ballet)",
-        "wikidata": "https://www.wikidata.org/wiki/Q7759363"
-      },
-      "summary": {
-        "text": "The Rake's Progress is a short 1935 ballet based on the drawings of William Hogarth, with music by Gavin Gordon (1901-1970), choreography by Ninette de Valois, and set design by Rex Whistler. \nGavin Gordon had written some earlier ballets that were not successful. By contrast, The Rake's Progress was an instant hit and has remained in the repertoires of a number of ballet companies. It is the only work of Gavin Gordon's that is remembered today.",
-        "source_url": "https://en.wikipedia.org/wiki/The_Rake's_Progress_(ballet)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "the-sleeping-beauty-and-the-beast": {
       "slug": "the-sleeping-beauty-and-the-beast",
       "title": "The Sleeping Beauty and the Beast",
@@ -1507,36 +698,6 @@
       "summary": {
         "text": "The Sleeping Beauty and the Beast is a musical in three acts with music by J. M. Glover and Frederick Solomon and lyrics by J. Cheever Goodwin. Its book by John J. McNally and Goodwin was adapted from the Theatre Royal, Drury Lane's 1900 pantomime of the same name by J. Hickory Wood and Arthur Collins. The musical also included additional music and lyrics by the songwriting team of Jean Schwartz and William Jerome, and by the African-American creative team of Bob Cole, James Weldon Johnson, and J. Rosamond Johnson.",
         "source_url": "https://en.wikipedia.org/wiki/The_Sleeping_Beauty_and_the_Beast",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "the-tender-land": {
-      "slug": "the-tender-land",
-      "title": "The Tender Land",
-      "qid": "Q4353383",
-      "enwiki": "The Tender Land",
-      "composers": [
-        {
-          "name": "Aaron Copland",
-          "qid": "Q192185",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11542"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/The_Tender_Land",
-        "wikidata": "https://www.wikidata.org/wiki/Q4353383"
-      },
-      "summary": {
-        "text": "The Tender Land is an opera with music by Aaron Copland and libretto by Horace Everett, a pseudonym used by Erik Johns, a dancer and Copland's former lover.",
-        "source_url": "https://en.wikipedia.org/wiki/The_Tender_Land",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -1585,30 +746,6 @@
       "summary": {
         "text": "We Are Sthlm is an annual youth music festival, intended for youths in the ages 13 until 19, in the Swedish capital Stockholm. \nIt was first established as a summer music festival for youth in 2001 under the name \"Ung08\" with free yearly public concerts and events in central Stockholm. The venture was successful and received support from Stockholm Municipality in 2003. In 2013, the festival was attended by 160,000 people and changed its name to \"We Are Sthlm\".\nIn 2015, there were reports that multiple sexual harassment incidents had been reported at the festival over the course of several years.",
         "source_url": "https://en.wikipedia.org/wiki/We_Are_Sthlm",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "you-and-me": {
-      "slug": "you-and-me",
-      "title": "You and Me",
-      "qid": "Q39078992",
-      "enwiki": "You and Me (Peking opera)",
-      "composers": [],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/You_and_Me_(Peking_opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q39078992"
-      },
-      "summary": {
-        "text": "You and Me (simplified Chinese: 天下归心; traditional Chinese: 天下歸心; pinyin: Tiānxià guīxīn; lit. 'Receiving the Support of the World') is a modern Peking opera by composer Zhu Shaoyu. Staged by Zhang Yimou, directing his first Peking opera, the show premiered at the National Centre for the Performing Arts, China (NCPA) in 2013. A 2014 performance of the opera was released on DVD by NCPA Classics in China, and Accentus overseas.",
-        "source_url": "https://en.wikipedia.org/wiki/You_and_Me_(Peking_opera)",
         "license": "CC BY-SA 4.0",
         "modified": false
       }

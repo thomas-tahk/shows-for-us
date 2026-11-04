@@ -1,70 +1,6 @@
 {
+  "live": true,
   "shows": {
-    "a-feast-in-time-of-plague": {
-      "slug": "a-feast-in-time-of-plague",
-      "title": "A Feast in Time of Plague",
-      "qid": "Q5439533",
-      "enwiki": "A Feast in Time of Plague (Cui opera)",
-      "composers": [
-        {
-          "name": "César Cui",
-          "qid": "Q208546"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Alexander Pushkin",
-          "qid": "Q7200",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/100110"
-        }
-      ],
-      "premiere": {
-        "date": "1901-11-11",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/A_Feast_in_Time_of_Plague_(Cui_opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q5439533"
-      },
-      "summary": {
-        "text": "A Feast in Time of Plague (Пир во время чумы in Cyrillic, Pir vo vremya chumy in English transliteration) is an opera (literally labeled \"dramatic scenes\") in one act by César Cui, composed in 1900.  The libretto was taken verbatim from the 1830 play A Feast in Time of Plague, one of the four Little Tragedies by Aleksandr Pushkin.  The title has been translated also as Feast in the Time of the Plague and Feast during the Plague.\nCui composed and published the two songs in the play (i.e., \"Mary's Song\" and \"Walsingham's Hymn\") separately in the decade before the opera was formally composed.",
-        "source_url": "https://en.wikipedia.org/wiki/A_Feast_in_Time_of_Plague_(Cui_opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "alexander-balus": {
-      "slug": "alexander-balus",
-      "title": "Alexander Balus",
-      "qid": "Q2641788",
-      "enwiki": "Alexander Balus",
-      "composers": [
-        {
-          "name": "George Frideric Handel",
-          "qid": "Q7302",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/89505"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "1748-03-23",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Alexander_Balus",
-        "wikidata": "https://www.wikidata.org/wiki/Q2641788"
-      },
-      "summary": {
-        "text": "Alexander Balus (HWV 65) is an oratorio by George Frideric Handel, named after its title character, the Seleucid king Alexander Balas. The work has three acts and was written in English. The period of the story is from 150 B.C to 145 B.C. The libretto is by Thomas Morell after the biblical book of 1 Maccabees.\nFourth in a series of English military oratorios, following Joshua and the success of Judas Maccabaeus, celebrating the victories of the Hanoverian monarchy over the Jacobite uprisings, the work moves from celebrations of military success in the first act to personal tragedies in the last. Alexander Balus was composed in the summer of 1747 and premiered on 23 March 1748 at Covent Garden Theatre, London, with Caterina Galli singing the title role, Thomas Lowe as Jonathan, and Thomas Reinhold as Ptolemee. In 1754 Handel made a revision to his work and changed the leading role, the king Alexander, to a soprano instead of an alto.",
-        "source_url": "https://en.wikipedia.org/wiki/Alexander_Balus",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "all-about-us": {
       "slug": "all-about-us",
       "title": "All About Us",
@@ -155,71 +91,45 @@
         "modified": false
       }
     },
-    "beatrice-cenci": {
-      "slug": "beatrice-cenci",
-      "title": "Beatrice Cenci",
-      "qid": "Q65922755",
-      "enwiki": "Beatrice Cenci (opera)",
+    "cyrano": {
+      "slug": "cyrano",
+      "title": "Cyrano",
+      "qid": "Q5200575",
+      "enwiki": "Cyrano (musical)",
       "composers": [
         {
-          "name": "Berthold Goldschmidt",
-          "qid": "Q213910"
+          "name": "Michael J. Lewis",
+          "qid": "Q29545039",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12060"
         }
       ],
-      "lyricists": [],
+      "lyricists": [
+        {
+          "name": "Anthony Burgess",
+          "qid": "Q217619",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4193"
+        }
+      ],
       "librettists": [
         {
-          "name": "Martin Esslin",
-          "qid": "Q1903753"
+          "name": "Anthony Burgess",
+          "qid": "Q217619",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4193"
         }
       ],
       "premiere": {
-        "date": "1988-04-16",
+        "date": null,
         "venue": null
       },
       "awards": [],
       "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Beatrice_Cenci_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q65922755"
+        "ibdb": "https://www.ibdb.com/broadway-show/2870",
+        "wikipedia": "https://en.wikipedia.org/wiki/Cyrano_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5200575"
       },
       "summary": {
-        "text": "Beatrice Cenci is an opera in three acts by German composer Berthold Goldschmidt based on the Shelley play The Cenci. Composed in 1949 to an English libretto by Martin Esslin. Goldschmidt’s second opera was one of four prize-winning works in the British Arts Council’s ‘Festival of Britain’ competition in 1949, but it never received the promised performance in the 1951 Festival. Its concert premiere was in Queen Elizabeth Hall, London in 1988, and its staged premiere in Magdeburg in 1994.",
-        "source_url": "https://en.wikipedia.org/wiki/Beatrice_Cenci_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "chiara-e-serafina": {
-      "slug": "chiara-e-serafina",
-      "title": "Chiara e Serafina",
-      "qid": "Q753250",
-      "enwiki": "Chiara e Serafina",
-      "composers": [
-        {
-          "name": "Gaetano Donizetti",
-          "qid": "Q101698",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/82838"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Felice Romani",
-          "qid": "Q350103"
-        }
-      ],
-      "premiere": {
-        "date": "1822-10-26",
-        "venue": "La Scala"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Chiara_e_Serafina",
-        "wikidata": "https://www.wikidata.org/wiki/Q753250"
-      },
-      "summary": {
-        "text": "Chiara e Serafina, o I pirati (Chiara and Serafina, or The Pirates) is an opera semiseria in two acts by Gaetano Donizetti to a libretto by Felice Romani, based on the melodrama La cisterne by René Charles Guilbert de Pixérécourt. Donizetti's first opera for La Scala, it was premiered on October 26, 1822, but was not a success. Donizetti was not given the opportunity to compose again for La Scala until writing Ugo, conte di Parigi nearly a decade later.",
-        "source_url": "https://en.wikipedia.org/wiki/Chiara_e_Serafina",
+        "text": "Cyrano is a musical with a book and lyrics by Anthony Burgess and music by Michael J. Lewis.\nBased on Edmond Rostand's classic 1897 play of the same name, it focuses on a love triangle involving the large-nosed poetic Cyrano de Bergerac, his beautiful cousin Roxana, and his classically handsome but inarticulate friend Christian de Neuvillette who, unaware of Cyrano's unrequited passion for Roxana, imposes upon him to provide the romantic words he can use to woo her successfully in mid-17th century Paris.\nIn the early 1960s, David Merrick had announced plans to produce a musical entitled Cyrano with a score by Leslie Bricusse and Anthony Newley, but nothing came of the project. Burgess had translated the Rostand play for the Guthrie in Minneapolis, and director Michael Langham suggested he adapt it for a musical version. Burgess joined forces with film composer Lewis, replacing dialogue in his play with musical numbers, and the completed work was staged at the Guthrie, again with Langham at the helm.\nFollowing a 6 week tryout in Boston's Colonial Theatre and five previews, the Broadway production, directed and choreographed by Michael Kidd, opened on May 13, 1973 at the Palace Theatre, where it ran for 49 performances. The cast included Christopher Plummer as Cyrano, Leigh Beery as Roxana, and Mark Lamos as Christian, with Tovah Feldshuh making her Broadway debut in two small supporting roles.\nPlummer won the Tony for Best Actor in a Musical and Drama Desk Award for Outstanding Performance, and Beery was Tony-nominated for Best Featured Actress in a Musical.\nAn original cast recording LP was released by A&M Records in 1973. An original cast recording CD was released by Decca Records in 2005.\nIn September 1994, an abridged version of the musical was staged at The Newport Arts Center in  Orange County, California. Directed by Kent Johnson, and starring John Huntington as Cyrano and Deirdre McGill as Roxanne.  One song, \"You Have Made Me Love\", released on a Broadway standards album sung by McGill.",
+        "source_url": "https://en.wikipedia.org/wiki/Cyrano_(musical)",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -244,64 +154,6 @@
       "summary": {
         "text": "Dear Worthy Editor: Letters to The Daily Forward (originally called A Bintel Brief) is a 1960s or c. 1974 musical and one of the early works by Alan Menken. He collaborated with his mother to develop the musical, adapted from the Bintel Brief letters-to-the-editor published by the Yiddish-language newspaper Jewish Daily Forward. While Menken had written musicals prior to this, it became his first work to achieve a level of success, being performed many times in the Jewish-American circuit.",
         "source_url": "https://en.wikipedia.org/wiki/Dear_Worthy_Editor",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "demophon": {
-      "slug": "demophon",
-      "title": "Démophon",
-      "qid": "Q5802342",
-      "enwiki": "Démophon",
-      "composers": [
-        {
-          "name": "Johann Vogel",
-          "qid": "Q551526"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "1789-09-22",
-        "venue": "Paris Opera"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/D%C3%A9mophon",
-        "wikidata": "https://www.wikidata.org/wiki/Q5802342"
-      },
-      "summary": {
-        "text": "Démophon is a French-language opera by the composer Johann Christoph Vogel, first performed at the Académie Royale de Musique (the Paris Opera) on 15 September 1789. The libretto is by Philippe Desriaux. The second and last of Vogel's operas to be staged, it was premiered after the composer's death at the age of 32 the previous year.",
-        "source_url": "https://en.wikipedia.org/wiki/D%C3%A9mophon",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "die-ersten-menschen": {
-      "slug": "die-ersten-menschen",
-      "title": "Die ersten Menschen",
-      "qid": "Q1218195",
-      "enwiki": "Die ersten Menschen",
-      "composers": [
-        {
-          "name": "Rudi Stephan",
-          "qid": "Q261836"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "1920-07-01",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Die_ersten_Menschen",
-        "wikidata": "https://www.wikidata.org/wiki/Q1218195"
-      },
-      "summary": {
-        "text": "Die ersten Menschen (The first humans) is an opera in two acts by Rudi Stephan. For the libretto the composer chose a drama of the same name by Otto Borngräber. The opera was premiered at the Oper Frankfurt on 1 July 1920.",
-        "source_url": "https://en.wikipedia.org/wiki/Die_ersten_Menschen",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -375,135 +227,6 @@
       "summary": {
         "text": "Evangeline; or, The Belle of Acadia is a musical Extravaganza, with music by Edward E. Rice (arranged and orchestrated by John J. Braham) and lyrics and book by J. Cheever Goodwin. It was a comedy loosely based on Henry Wadsworth Longfellow's 1847 serious epic poem Evangeline. The title character is a young American maiden of French Acadian stock, who is forced to leave her home and is separated from her beloved. A notary stalks her, holding a secret will that may prevent her from gaining her inheritance.\nThe extravaganza debuted at Niblo's Garden in New York City on July 27, 1874, and received many revivals throughout the late 19th century.",
         "source_url": "https://en.wikipedia.org/wiki/Evangeline_(1874_musical)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "fantasio-offenbach": {
-      "slug": "fantasio-offenbach",
-      "title": "Fantasio",
-      "qid": "Q624420",
-      "enwiki": "Fantasio (Offenbach)",
-      "composers": [
-        {
-          "name": "Jacques Offenbach",
-          "qid": "Q41555",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7941"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Paul de Musset",
-          "qid": "Q350179"
-        }
-      ],
-      "premiere": {
-        "date": "1872-01-18",
-        "venue": "Opéra-Comique"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Fantasio_(Offenbach)",
-        "wikidata": "https://www.wikidata.org/wiki/Q624420"
-      },
-      "summary": {
-        "text": "Fantasio is an 1872 opéra comique in 3 acts, 4 tableaux, with music by Jacques Offenbach. The French libretto by Paul de Musset was closely based on the 1834 play of the same name by his brother Alfred de Musset. The opera found little success in Offenbach's lifetime, was occasionally revived until the preparation of a critical edition in the 2000s.",
-        "source_url": "https://en.wikipedia.org/wiki/Fantasio_(Offenbach)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "farinelli": {
-      "slug": "farinelli",
-      "title": "Farinelli",
-      "qid": "Q5435320",
-      "enwiki": "Farinelli (opera)",
-      "composers": [],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "1839-02-08",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Farinelli_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q5435320"
-      },
-      "summary": {
-        "text": "Farinelli is an opera in two acts, described as 'serio-comic', by John Barnett, to a libretto by his brother Charles Zachary Barnett. Produced in 1839, it is the third of the composer's large-scale operas, and was the last to reach the stage. The hero is the castrato singer Farinelli, although the storyline of the opera is fictional.",
-        "source_url": "https://en.wikipedia.org/wiki/Farinelli_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "flavius-bertaridus": {
-      "slug": "flavius-bertaridus",
-      "title": "Flavius Bertaridus",
-      "qid": "Q224571",
-      "enwiki": "Flavius Bertaridus",
-      "composers": [
-        {
-          "name": "Georg Philipp Telemann",
-          "qid": "Q75854"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Christoph Gottlieb Wend",
-          "qid": "Q1085003"
-        }
-      ],
-      "premiere": {
-        "date": "1729-10-05",
-        "venue": "Oper am Gänsemarkt"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Flavius_Bertaridus",
-        "wikidata": "https://www.wikidata.org/wiki/Q224571"
-      },
-      "summary": {
-        "text": "Flavius Bertaridus, König der Langobarden (TVWV 21:27) is an opera by Georg Philipp Telemann performed in Hamburg at the Oper am Gänsemarkt in 1729. It is Telemann's only surviving opera in the German equivalent of the opera seria genre.\nThe opera is based on the libretto Flavio Bertarido, Ré de Longobardi by Stefano Ghisi Nobil Veneto, which was originally set by Carlo Francesco Pollarolo at the Teatro San Giovanni Grisostomo in 1706. Christoph Gottlieb Wend and Telemann himself worked on rewriting the recitatives, and several of the arias and adding German chorus sections, but preserved some Italian aria texts which, according to the fashion as seen in Telemann's Orpheus, was normal at the cosmopolitan Hamburg Opera. However Wend and Telemann departed from Hamburg custom by avoiding all comic parts in the opera, following the agenda of Johann Mattheson, rather than the preferences of the largely middle class audience.",
-        "source_url": "https://en.wikipedia.org/wiki/Flavius_Bertaridus",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "four-saints-in-three-acts": {
-      "slug": "four-saints-in-three-acts",
-      "title": "Four Saints in Three Acts",
-      "qid": "Q5475468",
-      "enwiki": "Four Saints in Three Acts",
-      "composers": [
-        {
-          "name": "Virgil Thomson",
-          "qid": "Q544485",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8972"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Gertrude Stein",
-          "qid": "Q188385"
-        }
-      ],
-      "premiere": {
-        "date": "1934-02-07",
-        "venue": "Wadsworth Atheneum Museum of Art"
-      },
-      "awards": [],
-      "links": {
-        "ibdb": "https://www.ibdb.com/broadway-show/3693",
-        "wikipedia": "https://en.wikipedia.org/wiki/Four_Saints_in_Three_Acts",
-        "wikidata": "https://www.wikidata.org/wiki/Q5475468"
-      },
-      "summary": {
-        "text": "Four Saints in Three Acts is an opera composed in 1928 by Virgil Thomson, setting a libretto written in 1927 by Gertrude Stein. It contains about 20 saints and is in at least four acts. It was groundbreaking in form, content, and for its all-black cast, with singers directed by Eva Jessye, a prominent black choral director, and supported by her choir.\nThomson suggested the topic, and the libretto as delivered can be read in Stein's collected works. The opera features two 16th-century Spanish saints—the former mercenary Ignatius of Loyola and the mystic Teresa of Ávila—as well as their colleagues, real and imagined: St. Plan, St. Settlement, St. Plot, St. Chavez, etc. Thomson decided to divide St. Teresa's role between two singers, \"St. Teresa I\" and \"St. Teresa II\", and added the master and mistress of ceremonies (Compère and Commère—literally, the \"godparents\") to sing Stein's stage directions.",
-        "source_url": "https://en.wikipedia.org/wiki/Four_Saints_in_Three_Acts",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -622,176 +345,6 @@
         "modified": false
       }
     },
-    "iolanthe": {
-      "slug": "iolanthe",
-      "title": "Iolanthe",
-      "qid": "Q3154075",
-      "enwiki": "Iolanthe",
-      "composers": [
-        {
-          "name": "Arthur Sullivan",
-          "qid": "Q212692",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8692"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "W. S. Gilbert",
-          "qid": "Q348513",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5905"
-        }
-      ],
-      "premiere": {
-        "date": "1882-11-25",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "ibdb": "https://www.ibdb.com/broadway-show/4759",
-        "wikipedia": "https://en.wikipedia.org/wiki/Iolanthe",
-        "wikidata": "https://www.wikidata.org/wiki/Q3154075"
-      },
-      "summary": {
-        "text": "Iolanthe; or, The Peer and the Peri () is a comic opera with music by Arthur Sullivan and libretto by W. S. Gilbert, first performed in 1882. It is one of the Savoy operas and is the seventh of fourteen operatic collaborations by Gilbert and Sullivan. In the opera, the fairy Iolanthe has been banished from fairyland because she married a mortal; this is forbidden by fairy law. Her son, Strephon, is an Arcadian shepherd who wants to marry Phyllis, a Ward of Chancery. All the members of the House of Peers also want to marry Phyllis. When Phyllis sees Strephon hugging a young woman (not knowing that it is his mother – immortal fairies all appear young), she assumes the worst and sets off a climactic confrontation between the peers and the fairies. The opera satirises many aspects of British government, law and society. The confrontation between the fairies and the peers is a version of one of Gilbert's favourite themes: a tranquil civilisation of women is disrupted by a male-dominated world through the discovery of mortal love.\nIolanthe opened in London on 25 November 1882, at the Savoy Theatre to a warm reception, and ran for 398 performances, the fourth consecutive hit by Gilbert and Sullivan. It was the first work to premiere at the Savoy (although Patience had transferred to the theatre in 1881) and was the first new theatre production in the world to be illuminated entirely with electric lights, permitting some special effects that had not been possible in the era of gas lighting. The opera opened simultaneously in New York, and touring companies were sent around the UK and US to play the piece. The first Australasian touring production followed in 1885, and the opera was revived in London beginning in 1901. The D'Oyly Carte Opera Company toured the opera nearly continuously in repertory from 1891 until 1982, and made several recordings of the opera over that period. Numerous other professional and amateur productions have been given of this enduring work, and various other recordings have been issued.",
-        "source_url": "https://en.wikipedia.org/wiki/Iolanthe",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "la-fille-mal-gardee-ashton": {
-      "slug": "la-fille-mal-gardee-ashton",
-      "title": "La fille mal gardée",
-      "qid": "Q16836751",
-      "enwiki": "La fille mal gardée (Ashton)",
-      "composers": [
-        {
-          "name": "Ferdinand Hérold",
-          "qid": "Q362639"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "1960-01-28",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/La_fille_mal_gard%C3%A9e_(Ashton)",
-        "wikidata": "https://www.wikidata.org/wiki/Q16836751"
-      },
-      "summary": {
-        "text": "La fille mal gardée (English: The Wayward Daughter, literal translation: \"The Poorly Guarded Girl\"), Frederick Ashton's Royal Ballet production, began in 1959 when British choreographer Frederick Ashton created a new version of La fille mal gardée for the Royal Ballet of London. This production premiered on 28 January 1960, with Nadia Nerina as Lise, David Blair as Colas, Stanley Holden as the Widow Simone, and Alexander Grant as Alain. Since its inception Ashton's staging has become a celebrated classic of the ballet repertory.",
-        "source_url": "https://en.wikipedia.org/wiki/La_fille_mal_gard%C3%A9e_(Ashton)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "la-sorciere": {
-      "slug": "la-sorciere",
-      "title": "La Sorcière",
-      "qid": "Q130386268",
-      "enwiki": "La Sorcière (opera)",
-      "composers": [
-        {
-          "name": "Camille Erlanger",
-          "qid": "Q936002"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "André Sardou",
-          "qid": "Q108664655"
-        }
-      ],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/La_Sorci%C3%A8re_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q130386268"
-      },
-      "summary": {
-        "text": "La Sorcière is a 1912 opera by Camille Erlanger on a libretto by André Sardou after the play of the same name by Victorien Sardou.",
-        "source_url": "https://en.wikipedia.org/wiki/La_Sorci%C3%A8re_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "les-animaux-modeles": {
-      "slug": "les-animaux-modeles",
-      "title": "Les Animaux modèles",
-      "qid": "Q3230579",
-      "enwiki": "Les Animaux modèles",
-      "composers": [
-        {
-          "name": "Francis Poulenc",
-          "qid": "Q191408",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12261"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "1942-08-08",
-        "venue": "Palais Garnier"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Les_Animaux_mod%C3%A8les",
-        "wikidata": "https://www.wikidata.org/wiki/Q3230579"
-      },
-      "summary": {
-        "text": "Les Animaux modèles, FP 111, is a ballet dating from 1940 to 1942 with music by Francis Poulenc. It was the third and final ballet that he composed and was staged at the Paris Opéra in 1942, with choreography by Serge Lifar, who also danced in the 1942 premiere. The themes of the ballet are drawn from the Fables of Jean de La Fontaine.",
-        "source_url": "https://en.wikipedia.org/wiki/Les_Animaux_mod%C3%A8les",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "liebe-und-eifersucht": {
-      "slug": "liebe-und-eifersucht",
-      "title": "Liebe und Eifersucht",
-      "qid": "Q56063780",
-      "enwiki": "Liebe und Eifersucht",
-      "composers": [
-        {
-          "name": "E. T. A. Hoffmann",
-          "qid": "Q150471",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/79587"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "E. T. A. Hoffmann",
-          "qid": "Q150471",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/79587"
-        },
-        {
-          "name": "August Wilhelm von Schlegel",
-          "qid": "Q57281"
-        }
-      ],
-      "premiere": {
-        "date": "2008-11-27",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Liebe_und_Eifersucht",
-        "wikidata": "https://www.wikidata.org/wiki/Q56063780"
-      },
-      "summary": {
-        "text": "Liebe und Eifersucht (Love and Jealousy) is a Singspiel, an opera with spoken dialogue, in three acts by the German composer and author E. T. A. Hoffmann, composed in 1807 on his own libretto based on the translation by August Wilhelm Schlegel of a play by Calderón. The opera was first published by Schott in 1999, and premiered at the 2008 Ludwigsburger Schlossfestspiele.",
-        "source_url": "https://en.wikipedia.org/wiki/Liebe_und_Eifersucht",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "lone-star-love": {
       "slug": "lone-star-love",
       "title": "Lone Star Love",
@@ -821,201 +374,6 @@
         "modified": false
       }
     },
-    "luna": {
-      "slug": "luna",
-      "title": "Luna",
-      "qid": "Q5984815",
-      "enwiki": "Luna (opera)",
-      "composers": [
-        {
-          "name": "José María Cano",
-          "qid": "Q593851"
-        }
-      ],
-      "lyricists": [
-        {
-          "name": "José María Cano",
-          "qid": "Q593851"
-        }
-      ],
-      "librettists": [],
-      "premiere": {
-        "date": "1998",
-        "venue": "Palau de la Música de València"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Luna_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q5984815"
-      },
-      "summary": {
-        "text": "Luna a 1998 opera by the pop musician José María Cano, a former member of the pop music group Mecano. It was performed in concert version in 1998 at the Palau de la Música de València in Valencia.",
-        "source_url": "https://en.wikipedia.org/wiki/Luna_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "medonte-sarti": {
-      "slug": "medonte-sarti",
-      "title": "Medonte",
-      "qid": "Q6807260",
-      "enwiki": "Medonte (Sarti)",
-      "composers": [
-        {
-          "name": "Giuseppe Sarti",
-          "qid": "Q455199"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Giovanni de Gamerra",
-          "qid": "Q1117471"
-        }
-      ],
-      "premiere": {
-        "date": "1777-09-08",
-        "venue": "Teatro della Pergola"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Medonte_(Sarti)",
-        "wikidata": "https://www.wikidata.org/wiki/Q6807260"
-      },
-      "summary": {
-        "text": "Medonte, re di Epiro (\"Medonte, King of Epirus\") is an opera seria in three acts by Giuseppe Sarti. The libretto was by Giovanni de Gamerra for Felice Alessandri's opera Medonte, re d'Epiro (1774) and was later set by several other composers.",
-        "source_url": "https://en.wikipedia.org/wiki/Medonte_(Sarti)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "missing": {
-      "slug": "missing",
-      "title": "Missing",
-      "qid": "Q85785903",
-      "enwiki": "Missing (opera)",
-      "composers": [
-        {
-          "name": "Brian Current",
-          "qid": "Q15080514"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Marie Clements",
-          "qid": "Q6762801"
-        }
-      ],
-      "premiere": {
-        "date": "2017-11",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Missing_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q85785903"
-      },
-      "summary": {
-        "text": "Missing is a 2017 chamber opera with a libretto by Marie Clements and music by Brian Current. Co-commissioned by Pacific Opera Victoria and City Opera Vancouver, its topic is missing and murdered Indigenous women.",
-        "source_url": "https://en.wikipedia.org/wiki/Missing_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "notorious": {
-      "slug": "notorious",
-      "title": "Notorious",
-      "qid": "Q21534109",
-      "enwiki": "Notorious (opera)",
-      "composers": [
-        {
-          "name": "Hans Gefors",
-          "qid": "Q5650053"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Kerstin Perski",
-          "qid": "Q23915533"
-        }
-      ],
-      "premiere": {
-        "date": "2015-09-19",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Notorious_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q21534109"
-      },
-      "summary": {
-        "text": "Notorious is an opera in five acts and 22 scenes by Hans Gefors based on a Swedish-language libretto from Kerstin Perski after Alfred Hitchcock's 1946 film Notorious. The opera premiered at Göteborg Opera in September 2015 with Nina Stemme in the leading role which had been played in the film by fellow Swede Ingrid Bergman. Gefors had previously composed full-length stage works for the Royal Swedish Opera (Christina, 1986), for Wiesbaden Opera (Der Park, 1992), and for the centenary of the Opéra-Comique at the Salle Favart in Paris (Clara,  1998).",
-        "source_url": "https://en.wikipedia.org/wiki/Notorious_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "orphee-et-euridice": {
-      "slug": "orphee-et-euridice",
-      "title": "Orphée et Euridice",
-      "qid": "Q48651132",
-      "enwiki": "Orphée et Euridice",
-      "composers": [
-        {
-          "name": "Christoph Willibald von Gluck",
-          "qid": "Q130759",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/480523"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Pierre-Louis Moline",
-          "qid": "Q374622"
-        }
-      ],
-      "premiere": {
-        "date": "1776-08-02",
-        "venue": "Paris Opera"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Orph%C3%A9e_et_Euridice",
-        "wikidata": "https://www.wikidata.org/wiki/Q48651132"
-      },
-      "summary": {
-        "text": "Orfeo ed Euridice (Italian: [orˈfɛːo ed euriˈdiːtʃe]; French: Orphée et Eurydice; English: Orpheus and Eurydice) is an opera composed by Christoph Willibald Gluck, based on the myth of Orpheus and set to a libretto by Ranieri de' Calzabigi. It belongs to the genre of the azione teatrale, meaning an opera on a mythological subject with choruses and dancing. The piece was first performed at the Burgtheater in Vienna on 5 October 1762, in the presence of Empress Maria Theresa. Orfeo ed Euridice is the first of Gluck's \"reform\" operas, in which he attempted to replace the abstruse plots and overly complex music of opera seria with a \"noble simplicity\" in both the music and the drama.\nThe opera is the most popular of Gluck's works, and was one of the most influential on subsequent German operas. Though originally set to an Italian libretto, Orfeo ed Euridice owes much to the genre of French opera, particularly in its use of accompanied recitative and a general absence of vocal virtuosity. Indeed, twelve years after the 1762 premiere, Gluck re-adapted the opera to suit the tastes of a Parisian audience at the Académie Royale de Musique with a libretto by Pierre-Louis Moline. This reworking was given the title Orphée et Eurydice, and several alterations were made in vocal casting and orchestration to suit French tastes.",
-        "source_url": "https://en.wikipedia.org/wiki/Orph%C3%A9e_et_Euridice",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "red-guards-on-honghu-lake": {
-      "slug": "red-guards-on-honghu-lake",
-      "title": "Red Guards on Honghu Lake",
-      "qid": "Q7304207",
-      "enwiki": "Red Guards on Honghu Lake",
-      "composers": [],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Red_Guards_on_Honghu_Lake",
-        "wikidata": "https://www.wikidata.org/wiki/Q7304207"
-      },
-      "summary": {
-        "text": "Red Guards on Honghu Lake (Chinese: 洪湖赤卫队) is a Chinese modern opera in six acts. It was first performed in October 1956 in Wuhan, Hubei by the Hubei Experimental Theater Society (湖北省实验歌剧团). It is set in Honghu, Hubei. Its music was composed by Zhu Benhe, Zhang Jing'an, and Ouyang Qianshu. It was adapted to the cinema in 1961.",
-        "source_url": "https://en.wikipedia.org/wiki/Red_Guards_on_Honghu_Lake",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "rockquiem": {
       "slug": "rockquiem",
       "title": "Rockquiem",
@@ -1040,36 +398,6 @@
         "modified": false
       }
     },
-    "rococo-variations": {
-      "slug": "rococo-variations",
-      "title": "Rococo Variations",
-      "qid": "Q7356063",
-      "enwiki": "Rococo Variations (ballet)",
-      "composers": [
-        {
-          "name": "Pyotr Ilyich Tchaikovsky",
-          "qid": "Q7315",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12486"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "2008-02-07",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Rococo_Variations_(ballet)",
-        "wikidata": "https://www.wikidata.org/wiki/Q7356063"
-      },
-      "summary": {
-        "text": "Rococo Variations is the last ballet made by Christopher Wheeldon during his tenure as New York City Ballet's first resident choreographer; it was made to Tschaikovsky's Variations on a Rococo Theme for violoncello and orchestra in A major Op. 33 (1876–77). The premiere took place on Thursday, 7 February 2008 at the New York State Theater, Lincoln Center, with costumes by Holly Hynes.",
-        "source_url": "https://en.wikipedia.org/wiki/Rococo_Variations_(ballet)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "sunfish": {
       "slug": "sunfish",
       "title": "Sunfish",
@@ -1090,40 +418,6 @@
       "summary": {
         "text": "Sunfish is a musical with book and lyrics by Michael Cooper and book and music by Hyeyoung Kim, based upon the Korean folktale Sim-Chung. The musical received its world premiere production at the Stoneham Theater in Boston, Massachusetts from February 10 to February 27, 2011 and went on to international acclaim, opening at the Daegu International Music Theater Festival in South Korea on June 17 to June 23, 2013 where it was awarded Top Jury Honor.",
         "source_url": "https://en.wikipedia.org/wiki/Sunfish_(musical)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "teneke": {
-      "slug": "teneke",
-      "title": "Teneke",
-      "qid": "Q934138",
-      "enwiki": "Teneke (opera)",
-      "composers": [
-        {
-          "name": "Fabio Vacchi",
-          "qid": "Q1356952"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Franco Marcoaldi",
-          "qid": "Q3751410"
-        }
-      ],
-      "premiere": {
-        "date": "2007-09-22",
-        "venue": "La Scala"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Teneke_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q934138"
-      },
-      "summary": {
-        "text": "Teneke is an opera in three acts by Italian composer Fabio Vacchi.\nFranco Marcoaldi adapted the Italian libretto from the eponymous novel by the Turkish author Yaşar Kemal published in 1955. The opera was premiered on September 22, 2007, at the Teatro alla Scala of Milan, conducted by Roberto Abbado. Set designs and costumes were by Arnaldo Pomodoro, and Ermanno Olmi was the stage director. It was staged until October 4, 2007, seven times only. Running time is approximately 2 hours and 45 minutes.",
-        "source_url": "https://en.wikipedia.org/wiki/Teneke_(opera)",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -1166,89 +460,6 @@
       "summary": {
         "text": "The Color Purple is a musical with music and lyrics by Brenda Russell, Allee Willis, and Stephen Bray, and book by Marsha Norman. Based on the 1982 novel The Color Purple by Alice Walker and its 1985 film adaptation, the musical follows the journey of Celie, an African American woman in the American South from the early to mid-20th century.\nThe original Broadway production ran from 2005 to 2008, earning eleven Tony Award nominations in 2006. An enthusiastically acclaimed Broadway revival opened in late 2015 and ran through early 2017, winning two 2016 Tony Awards—including Best Revival of a Musical.\nA film adaptation of the musical was released on December 25, 2023.",
         "source_url": "https://en.wikipedia.org/wiki/The_Color_Purple_(musical)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "the-concert": {
-      "slug": "the-concert",
-      "title": "The Concert",
-      "qid": "Q7727279",
-      "enwiki": "The Concert (ballet)",
-      "composers": [
-        {
-          "name": "Frédéric Chopin",
-          "qid": "Q1268",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11521"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "1956-03-06",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/The_Concert_(ballet)",
-        "wikidata": "https://www.wikidata.org/wiki/Q7727279"
-      },
-      "summary": {
-        "text": "The Concert (or The Perils of Everybody) is a ballet by Jerome Robbins, created for New York City Ballet, set to Chopin's:\n\nThe premiere took place at City Center of Music and Drama, New York, on 6 March 1956, with décor by Saul Steinberg, costumes by Irene Sharaff and lighting by Ronald Bates. Robbins choreographed three subsequent ballets to Chopin's music: Dances at a Gathering (1969), In the Night (1970), and Other Dances (1976).\nIn 2008 in The New York Times, Alastair Macaulay called The Concert \"the most sheerly funny of all ballets.... a true classic, full of jokes that you find yourself quoting in everyday life.\"",
-        "source_url": "https://en.wikipedia.org/wiki/The_Concert_(ballet)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "the-four-temperaments": {
-      "slug": "the-four-temperaments",
-      "title": "The Four Temperaments",
-      "qid": "Q7735046",
-      "enwiki": "The Four Temperaments",
-      "composers": [],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/The_Four_Temperaments",
-        "wikidata": "https://www.wikidata.org/wiki/Q7735046"
-      },
-      "summary": {
-        "text": "The Four Temperaments or Theme and Four Variations (The Four Temperaments) is an orchestral work and ballet by Paul Hindemith. Although it was originally conceived as a ballet for Léonide Massine, the score was ultimately completed as a commission for George Balanchine, who subsequently choreographed it as a neoclassical ballet based on the theory of the four temperaments.\nThe music was premiered in Switzerland by the Stadtorchester Winterthur under the direction of Hermann Scherchen on March 10, 1943. However, Balanchine created the choreography a few years later. The ballet, The Four Temperaments was the first work Balanchine made for the Ballet Society, the forerunner of the New York City Ballet, and premiered on November 20, 1946, at the Central High School of Needle Trades, New York, during the Ballet Society's first performance. Though critics at the premiere did not receive the ballet well, it was later acknowledged as a \"masterpiece,\" and was revived by ballet companies worldwide.",
-        "source_url": "https://en.wikipedia.org/wiki/The_Four_Temperaments",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "the-left-hander": {
-      "slug": "the-left-hander",
-      "title": "The Left-Hander",
-      "qid": "Q20926200",
-      "enwiki": "The Left-Hander (opera)",
-      "composers": [
-        {
-          "name": "Rodion Shchedrin",
-          "qid": "Q165706"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "2013",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/The_Left-Hander_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q20926200"
-      },
-      "summary": {
-        "text": "The Left-Hander or Levsha (ru:Левша; The Left-Hander) is an opera in 2 acts by Rodion Shchedrin. The work uses a Russian language libretto by the composer after Nikolai Leskov's The Tale of Cross-eyed Lefty from Tula and the Steel Flea (Russian: Сказ о тульском косом Левше).  The work had its world premiere in a concert performance on 26 June 2013, followed by the world stage premiere on 27 July 2013 at the Mariinsky II in St Petersburg. Conductor Valery Gergiev led both performances.",
-        "source_url": "https://en.wikipedia.org/wiki/The_Left-Hander_(opera)",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -1328,84 +539,6 @@
       "summary": {
         "text": "The Mystery of Edwin Drood is a mystery musical comedy written by Rupert Holmes based on the unfinished Charles Dickens novel of the same name. The show was the first Broadway musical with multiple endings (determined by audience vote). The show won five Tony Awards, including Best Musical, with Holmes awarded for Best Book of a Musical and Best Original Score.\nThe musical debuted at the New York Shakespeare Festival in August 1985 before transferring to Broadway, where it ran until May 1987, sometimes billed as Drood: The Music Hall Musical, followed by two national tours and a West End production. The Roundabout Theatre Company revived the musical in 2012.",
         "source_url": "https://en.wikipedia.org/wiki/The_Mystery_of_Edwin_Drood_(musical)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "the-revolt-of-the-harem": {
-      "slug": "the-revolt-of-the-harem",
-      "title": "The Revolt of the Harem",
-      "qid": "Q130752386",
-      "enwiki": "The Revolt of the Harem",
-      "composers": [],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/The_Revolt_of_the_Harem",
-        "wikidata": "https://www.wikidata.org/wiki/Q130752386"
-      },
-      "summary": {
-        "text": "The Revolt of the Harem is a ballet created and performed in the 1830s.",
-        "source_url": "https://en.wikipedia.org/wiki/The_Revolt_of_the_Harem",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "through-a-glass-darkly": {
-      "slug": "through-a-glass-darkly",
-      "title": "Through a Glass, Darkly",
-      "qid": "Q7798421",
-      "enwiki": "Through a Glass, Darkly (musical)",
-      "composers": [],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Through_a_Glass%2C_Darkly_(musical)",
-        "wikidata": "https://www.wikidata.org/wiki/Q7798421"
-      },
-      "summary": {
-        "text": "Through A Glass, Darkly is an oratorio for men's chorus and three soloists composed by Michael Shaieb, commissioned by the Twin Cities Gay Men's Chorus. The story concerns the problem of methamphetamine abuse in the gay community. It premiered on March 29, 2008 at the Ted Mann Concert Hall in Minneapolis, and was videotaped for subsequent broadcast on PBS and a DVD released in June 2008.",
-        "source_url": "https://en.wikipedia.org/wiki/Through_a_Glass%2C_Darkly_(musical)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "twinkliana": {
-      "slug": "twinkliana",
-      "title": "Twinkliana",
-      "qid": "Q7858392",
-      "enwiki": "Twinkliana",
-      "composers": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "qid": "Q254",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/485475"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Twinkliana",
-        "wikidata": "https://www.wikidata.org/wiki/Q7858392"
-      },
-      "summary": {
-        "text": "Twinkliana is a ballet made by Sean Lavery, assistant to the ballet master in chief at New York City Ballet, for students of the Barnard College Dance Department, to Mozart's Variations on \"Ah vous dirai-je, Maman\" (or \"Twinkle, Twinkle, Little Star\"). The premiere took place Thursday, 11 October 1990 at Barnard's Minor Latham Playhouse. It represents an homage to George Balanchine, whose works include Ivesiana, Mozartiana and Glinkaiana (who was, in turn, paying tribute to Fokine's Chopiniana).  \nThe ballet begins with a series of solos, followed by a pas de deux and a finale. It was revived at the School of American Ballet (SAB) Workshop in June, 2007.",
-        "source_url": "https://en.wikipedia.org/wiki/Twinkliana",
         "license": "CC BY-SA 4.0",
         "modified": false
       }

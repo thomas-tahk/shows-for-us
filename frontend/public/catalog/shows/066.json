@@ -1,34 +1,6 @@
 {
+  "live": true,
   "shows": {
-    "a-woman-in-morocco": {
-      "slug": "a-woman-in-morocco",
-      "title": "A Woman in Morocco",
-      "qid": "Q60776223",
-      "enwiki": "A Woman in Morocco",
-      "composers": [
-        {
-          "name": "Daron Hagen",
-          "qid": "Q2061310"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/A_Woman_in_Morocco",
-        "wikidata": "https://www.wikidata.org/wiki/Q60776223"
-      },
-      "summary": {
-        "text": "A Woman in Morocco is an English language opera in two acts composed by Daron Hagen and based on an unperformed play by Barbara Grecki. It was premiered by Kentucky Opera in Louisville, Kentucky, June 23, 2015, in a production directed by the composer. The libretto is by Hagen and Grecki, who also co-wrote the treatment. The story, set in Tangier in October 1958, concerns the disappearance of an American investigative journalist named Lizzy Holmes working on an exposé of sex trafficking. The work received a complete workshop staging at the Butler Opera Center of the Sarah and Ernest Butler School of Music at the University of Texas-Austin October 25, 2013.\n\"Anywhere humans interact one can find people capable of exploiting the weak, the powerless, and the vulnerable,\" explained the composer in a 2015 interview. \"The scourge of human trafficking manifests in even more forms than immediately come to mind: any time someone is coerced or manipulated into doing something that they know is wrong out of fear for their own safety, or that of their loved ones, trafficking is occurring. I wrote this opera to raise peoples’ awareness of that face, to fight, in the way that I know best, for trafficking victims.\"",
-        "source_url": "https://en.wikipedia.org/wiki/A_Woman_in_Morocco",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "abyssinia-1906-musical": {
       "slug": "abyssinia-1906-musical",
       "title": "Abyssinia",
@@ -49,30 +21,6 @@
       "summary": {
         "text": "Abyssinia is a musical in one act with music by Will Marion Cook and Bert Williams, and both book and lyrics by Jesse A. Shipp and Alex Rogers. Created by African Americans and featuring African-American entertainers, the work is set in Abyssinia (now referred to as the Ethiopian Empire) and was inspired by the events of the First Italo-Ethiopian War in 1896-1897 and the sustained sovereignty Ethiopia maintained through the leadership of Menelik II at that point in history. The plot of the musical follows two African-American from Kansas who win the lottery and then use their winnings to travel to Europe and Abyssinia. Misadventures ensue when one of them falsely accused of being a thief, and they are brought before King Menelik.  \nAbyssinia is considered an important historical black musical. It is an early work that consciously departed from the racial stereotypes typically found in other musicals of that period, and emphasized themes of social justice, \"black self determination\" and \"African resistance\" while still at its core being a tremendously funny comedy.",
         "source_url": "https://en.wikipedia.org/wiki/Abyssinia_(1906_musical)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "achilles": {
-      "slug": "achilles",
-      "title": "Achilles",
-      "qid": "Q47004985",
-      "enwiki": "Achilles (opera)",
-      "composers": [],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Achilles_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q47004985"
-      },
-      "summary": {
-        "text": "Achilles is a ballad opera by John Gay, first performed at the Theatre Royal, Covent Garden in 1733, a year after Gay's death, with Gay's associate John Rich as producer.",
-        "source_url": "https://en.wikipedia.org/wiki/Achilles_(opera)",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -125,122 +73,6 @@
         "modified": false
       }
     },
-    "babek": {
-      "slug": "babek",
-      "title": "Babek",
-      "qid": "Q11366943",
-      "enwiki": "Babek (ballet)",
-      "composers": [
-        {
-          "name": "Agshin Alizadeh",
-          "qid": "Q4062338"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "1986-05-20",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Babek_(ballet)",
-        "wikidata": "https://www.wikidata.org/wiki/Q11366943"
-      },
-      "summary": {
-        "text": "Babek (Azerbaijani: Babək) is a heroic Spartacus-like ballet in two acts, based on the story of the people’s liberation struggle against Abbasid Caliphate under the leadership of Babak Khorramdin. Akshin Alizadeh composed the music and the prominent Azeri choreographers of the Soviet era Rafiga Akhundova and Maksud Mamedov choreographed the ballet for Azerbaijan State Academic Opera and Ballet Theater (National Ballet of Azerbaijan) in 1986.",
-        "source_url": "https://en.wikipedia.org/wiki/Babek_(ballet)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "bettina": {
-      "slug": "bettina",
-      "title": "Bettina",
-      "qid": "Q104860422",
-      "enwiki": "Bettina (opera)",
-      "composers": [
-        {
-          "name": "Friedrich Schenker",
-          "qid": "Q1461916"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Karl Mickel",
-          "qid": "Q125451"
-        }
-      ],
-      "premiere": {
-        "date": "1987-09-02",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Bettina_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q104860422"
-      },
-      "summary": {
-        "text": "Bettina is a chamber opera with music by Friedrich Schenker to a libretto by Karl Mickel. The topic is the writer Bettina von Arnim and her relationship with Karoline von Günderrode. The work is described as an \"opera for one actress (mezzo-soprano), children's choir, tape and ensemble\". Written in 1982, it premiered at the Theater im Palais in Berlin in 1987, and was published by Breitkopf & Härtel.",
-        "source_url": "https://en.wikipedia.org/wiki/Bettina_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "birute": {
-      "slug": "birute",
-      "title": "Birutė",
-      "qid": "Q116170136",
-      "enwiki": "Birutė (opera)",
-      "composers": [
-        {
-          "name": "Mikas Petrauskas",
-          "qid": "Q2336680"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "1906-11-06",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Birut%C4%97_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q116170136"
-      },
-      "summary": {
-        "text": "Birutė is a two-act opera composed by Mikas Petrauskas based on the play by Gabrielius Landsbergis-Žemkalnis. It was first performed on 6 November 1906 in Vilnius and became the first Lithuanian national opera. The plot is based on the medieval legend about the love between Birutė and Grand Duke of Lithuania Kęstutis recorded in the Lithuanian Chronicles. The opera was written for the amateur Lithuanian performers and thus is mostly valued for its historical significance.",
-        "source_url": "https://en.wikipedia.org/wiki/Birut%C4%97_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "broken-wings-musical": {
-      "slug": "broken-wings-musical",
-      "title": "Broken Wings",
-      "qid": "Q134984685",
-      "enwiki": "Broken Wings (musical)",
-      "composers": [],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Broken_Wings_(musical)",
-        "wikidata": "https://www.wikidata.org/wiki/Q134984685"
-      },
-      "summary": {
-        "text": "Broken Wings is a musical based on Kahlil Gibran's 1912 novella of the same title, adapted by Nadim Naaman and Dana Al Fardan. Directed by Bronagh Lagan, the musical premiered at the Theatre Royal Haymarket on the West End in August 2018.",
-        "source_url": "https://en.wikipedia.org/wiki/Broken_Wings_(musical)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "can-i-get-a-witness-the-gospel-of-james-baldwin": {
       "slug": "can-i-get-a-witness-the-gospel-of-james-baldwin",
       "title": "Can I Get a Witness? The Gospel of James Baldwin",
@@ -261,133 +93,6 @@
       "summary": {
         "text": "Can I Get a Witness? The Gospel of James Baldwin is a 2016 musical theatrical tribute to writer James Baldwin created by musician Meshell Ndegeocello, it debuted in December 2016 at the Harlem Stage in Harlem, New York.\nThe 2016 world premiere of the show was directed by Charlotte Brathwaite.",
         "source_url": "https://en.wikipedia.org/wiki/Can_I_Get_a_Witness%3F_The_Gospel_of_James_Baldwin",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "daphne-handel": {
-      "slug": "daphne-handel",
-      "title": "Daphne",
-      "qid": "Q1165483",
-      "enwiki": "Daphne (Handel)",
-      "composers": [
-        {
-          "name": "George Frideric Handel",
-          "qid": "Q7302",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/89505"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Heinrich Hinsch",
-          "qid": "Q1597615"
-        }
-      ],
-      "premiere": {
-        "date": "1708-01",
-        "venue": "Oper am Gänsemarkt"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Daphne_(Handel)",
-        "wikidata": "https://www.wikidata.org/wiki/Q1165483"
-      },
-      "summary": {
-        "text": "Daphne or Die Verwandelte Daphne (Daphne Metamorphosed), HWV 4, is an opera composed by Handel for the Oper am Gänsemarkt in Hamburg in 1706, to a libretto by Hinrich Hinsch. The opera, based on the Daphne myth, was the second part of a double opera. Both works were first performed in Hamburg in January 1708. While the music is lost, the libretto survived, and two suites were reconstructed.",
-        "source_url": "https://en.wikipedia.org/wiki/Daphne_(Handel)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "das-wunder-der-heliane": {
-      "slug": "das-wunder-der-heliane",
-      "title": "Das Wunder der Heliane",
-      "qid": "Q2659428",
-      "enwiki": "Das Wunder der Heliane",
-      "composers": [
-        {
-          "name": "Erich Wolfgang Korngold",
-          "qid": "Q313371"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "1927-10-07",
-        "venue": "Hamburg State Opera"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Das_Wunder_der_Heliane",
-        "wikidata": "https://www.wikidata.org/wiki/Q2659428"
-      },
-      "summary": {
-        "text": "Das Wunder der Heliane (German for The Miracle of Heliane), Op. 20 is an opera in three acts by Erich Wolfgang Korngold, about \"the redemptive power of love over injustice and adversity\". The libretto was by Hans Müller-Einigen, after Hans Kaltneker. It was first performed at the Hamburg State Opera on 7 October 1927. A suite for violin and piano based on the music from its famous aria \"Ich ging zu ihm\" was published by Schott.\nAfter many successful premieres of other works across Germany, Korngold composed this new opera beginning in 1924. Before its premiere in 1927 Korngold claimed that it would be his masterwork.",
-        "source_url": "https://en.wikipedia.org/wiki/Das_Wunder_der_Heliane",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "der-barenhauter": {
-      "slug": "der-barenhauter",
-      "title": "Der Bärenhäuter",
-      "qid": "Q17539078",
-      "enwiki": "Der Bärenhäuter (opera)",
-      "composers": [
-        {
-          "name": "Siegfried Wagner",
-          "qid": "Q143867"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "1899-01-22",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Der_B%C3%A4renh%C3%A4uter_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q17539078"
-      },
-      "summary": {
-        "text": "Der Bärenhäuter is an 1899 German-language opera in three acts by Siegfried Wagner based on the German folk tale \"Der Bärenhäuter\" (\"Bearskin\"). As with most of Siegfried Wagner's operas it is more influenced by his teacher Humperdinck than his father Richard Wagner's operas. Siegfried Wagner composed the music and wrote the libretto for his opera which takes place during the Thirty Years' War near Bayreuth.\nBased on the Brothers Grimm fairy tale of the same name and the first of his 17 operas, Der Bärenhäuter received its premiere on 22 January 1899 at the National Theatre Munich.",
-        "source_url": "https://en.wikipedia.org/wiki/Der_B%C3%A4renh%C3%A4uter_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "die-jagd": {
-      "slug": "die-jagd",
-      "title": "Die Jagd",
-      "qid": "Q5274380",
-      "enwiki": "Die Jagd",
-      "composers": [
-        {
-          "name": "Johann Adam Hiller",
-          "qid": "Q432299"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Christian Felix Weiße",
-          "qid": "Q68815"
-        }
-      ],
-      "premiere": {
-        "date": "1770-01-29",
-        "venue": "Nationaltheater Weimar"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Die_Jagd",
-        "wikidata": "https://www.wikidata.org/wiki/Q5274380"
-      },
-      "summary": {
-        "text": "Die Jagd (The Hunt) is an opera by the German composer Johann Adam Hiller. It takes the form of a Singspiel in three acts. The libretto by Christian Felix Weiße is based on the plays La partie de chasse de Henri IV by Charles Collé, The King and the Miller of Mansfield by Robert Dodsley, and the opéra comique by Michel-Jean Sedaine (originally set by Monsigny). The opera was first performed at the Schlosstheater, Weimar on 29 January 1770. Die Jagd is considered one of the most important early Singspiele. It was admired by Goethe and Wagner.",
-        "source_url": "https://en.wikipedia.org/wiki/Die_Jagd",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -418,69 +123,6 @@
       "summary": {
         "text": "Eureka (also called Eureka!) is an Australian musical with music by Michael Maurice Harvey, book and lyrics by Gale Edwards and John Senczuk and original book and lyrics by Maggie May Gordon. The musical is set in Victoria during the Eureka Rebellion of 1854, covering the tensions between immigrant gold miners from many cultures and the British colonial authorities. The original Australian production played in Melbourne in 2004 at Her Majesty's Theatre. It was nominated for the Helpmann Award for Best Musical in 2005.",
         "source_url": "https://en.wikipedia.org/wiki/Eureka_(musical)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "facing-goya": {
-      "slug": "facing-goya",
-      "title": "Facing Goya",
-      "qid": "Q5428616",
-      "enwiki": "Facing Goya",
-      "composers": [
-        {
-          "name": "Michael Nyman",
-          "qid": "Q313639"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Facing_Goya",
-        "wikidata": "https://www.wikidata.org/wiki/Q5428616"
-      },
-      "summary": {
-        "text": "Facing Goya (2000) is an opera in four acts by Michael Nyman on a libretto by Victoria Hardie.  It is an expansion of their one-act opera called Vital Statistics from 1987, dealing with such subjects as physiognomy, eugenics, and its practitioners, and also incorporates a musical motif from Nyman's art song, \"The Kiss\", inspired by a Paul Richards painting.  Nyman also considers the work thematically tied to his other works, The Man Who Mistook His Wife for a Hat, The Ogre, and Gattaca, though he does not quote any of these musically, save a very brief passage of the latter.  It was premièred at the Auditorio de Galicia, Santiago de Compostela, Spain on 3 August 2000.  The revision with the cast heard on the album premiered at the Badisches Staatstheater Karlsruhe, Germany, on October 19, 2002.  Vital Statistics has been withdrawn.  The Santiago version included more material from Vital Statistics. The opera was most recently performed at the 2014 Spoleto Festival USA, located in Charleston, South Carolina.\nThe expanded opera deals with the elitism and prejudice of various movements in pseudosciences and art criticism, wrapped around a thread of a desire to make a clone of Francisco Goya through use of his long-lost skull, which he hid from the likes of Paul Broca, and which the Art Banker finds under a floorboard in a \"degenerate art\" gallery in Act II.    This skull is the object of numerous fights in the second and third acts, often with one character snatching it from another.  The opera is non-realistic in its presentation, with only one through-character, the Art Banker.  Indeed, when Goya does appear, it is not the result of cloning, but a purely fantastical device.  Four other performers play different roles in each section who are thematically connected.  In addition, two actors are called for in non-speaking roles.  The Art Banker also speaks narration into a dictaphone, but this was omitted from the studio recording, though the lines are reprinted in the booklet.",
-        "source_url": "https://en.wikipedia.org/wiki/Facing_Goya",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "gayane": {
-      "slug": "gayane",
-      "title": "Gayane",
-      "qid": "Q539437",
-      "enwiki": "Gayane (ballet)",
-      "composers": [
-        {
-          "name": "Aram Khachaturian",
-          "qid": "Q152293"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Konstantin Derzhavin",
-          "qid": "Q4158901"
-        }
-      ],
-      "premiere": {
-        "date": "1942-12-09",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Gayane_(ballet)",
-        "wikidata": "https://www.wikidata.org/wiki/Q539437"
-      },
-      "summary": {
-        "text": "Gayane (Gayaneh or Gayne, the e is pronounced; Armenian: Գայանե; Russian: Гаянэ) is a four-act ballet with music by Aram Khachaturian. Originally composed in or before 1939, when it was first produced (in Yerevan) as Happiness. Revised in 1941–42 to a libretto by Konstantin Derzhavin and with choreography by Nina Aleksandrovna Anisimova (Derzhavin's wife), the score was revised in 1952 and in 1957, with a new plot. The stage design was by Nathan Altman (scenery) and Tatyana Bruni (costumes).\nThe first performance took place on 9 December 1942, staged by the Kirov Ballet while in Perm, Russia, during the Second World War evacuation, and was broadcast on the radio.  The principal dancers were: Natalia Dudinskaya (Gayane), Nikolai Zubkovsky (Karen), Konstantin Sergeyev (Armen), Tatanya Vecheslova (Nune), and Boris Shavrov (Giko). The conductor was Pavel Feldt. The most famous parts of the ballet are the \"Sabre Dance\", which has been performed by many (including pop artists).\nKhachaturian's original Gayane was the story of a young Armenian woman whose patriotic convictions conflict with her personal feelings on discovering her husband's treason. In later years the plot was modified several times, the resultant story emphasizing romance over nationalistic zeal.",
-        "source_url": "https://en.wikipedia.org/wiki/Gayane_(ballet)",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -570,60 +212,6 @@
         "modified": false
       }
     },
-    "hydaspes": {
-      "slug": "hydaspes",
-      "title": "Hydaspes",
-      "qid": "Q85767830",
-      "enwiki": "Hydaspes (Mancini)",
-      "composers": [],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Hydaspes_(Mancini)",
-        "wikidata": "https://www.wikidata.org/wiki/Q85767830"
-      },
-      "summary": {
-        "text": "Hydaspes (also L'Idaspe fedele) is an opera by Francesco Mancini with a libretto by Giovanni Pietro Candi. It was first performed at the King's Theater in the Haymarket, London, on 23 March 1710. It was the second opera in England to be sung entirely in Italian, after Almahide, and was an early London success for the famous castrato Nicolò Grimaldi in the title role.",
-        "source_url": "https://en.wikipedia.org/wiki/Hydaspes_(Mancini)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "ipermestra-gluck": {
-      "slug": "ipermestra-gluck",
-      "title": "Ipermestra",
-      "qid": "Q60793890",
-      "enwiki": "Ipermestra (Gluck)",
-      "composers": [
-        {
-          "name": "Christoph Willibald von Gluck",
-          "qid": "Q130759",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/480523"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "1744-11-21",
-        "venue": "Teatro Malibran"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Ipermestra_(Gluck)",
-        "wikidata": "https://www.wikidata.org/wiki/Q60793890"
-      },
-      "summary": {
-        "text": "Ipermestra (Hypermnestra) is an opera by the composer Christoph Willibald Gluck. It takes the form of an opera seria in three acts. The Italian-language libretto is by Pietro Metastasio. The opera premiered on 21 November 1744 at the Teatro San Giovanni Grisostomo in Venice. Ipermestra is the first of Gluck's operas to survive complete.",
-        "source_url": "https://en.wikipedia.org/wiki/Ipermestra_(Gluck)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "johnny-guitar": {
       "slug": "johnny-guitar",
       "title": "Johnny Guitar",
@@ -650,123 +238,6 @@
       "summary": {
         "text": "Johnny Guitar is a 2004 stage musical with music by Martin Silvestri, lyrics by Joel Higgins, and a book by Nicholas van Hoogstraten. The musical is based on the 1953 novel by Roy Chanslor, that also inspired the 1954 film of the same name which starred Joan Crawford in the lead role.",
         "source_url": "https://en.wikipedia.org/wiki/Johnny_Guitar_(musical)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "l-equivoco-stravagante": {
-      "slug": "l-equivoco-stravagante",
-      "title": "L'equivoco stravagante",
-      "qid": "Q936667",
-      "enwiki": "L'equivoco stravagante",
-      "composers": [
-        {
-          "name": "Gioachino Rossini",
-          "qid": "Q9726",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/82835"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Gaetano Gasbarri",
-          "qid": "Q21001234"
-        }
-      ],
-      "premiere": {
-        "date": "1811-10-26",
-        "venue": "Teatro del Corso"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/L'equivoco_stravagante",
-        "wikidata": "https://www.wikidata.org/wiki/Q936667"
-      },
-      "summary": {
-        "text": "L'equivoco stravagante (Italian pronunciation: [leˈkwiːvoko stravaˈɡante]; The Curious Misunderstanding) is an operatic dramma giocoso in two acts by Gioachino Rossini to an Italian libretto by Gaetano Gasbarri. It was Rossini's first attempt at writing a full two-act opera.",
-        "source_url": "https://en.wikipedia.org/wiki/L'equivoco_stravagante",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "la-boheme-leoncavallo": {
-      "slug": "la-boheme-leoncavallo",
-      "title": "La bohème",
-      "qid": "Q984983",
-      "enwiki": "La bohème (Leoncavallo)",
-      "composers": [
-        {
-          "name": "Ruggero Leoncavallo",
-          "qid": "Q189015",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12047"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Ruggero Leoncavallo",
-          "qid": "Q189015",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12047"
-        }
-      ],
-      "premiere": {
-        "date": "1897-05-06",
-        "venue": "Teatro La Fenice"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/La_boh%C3%A8me_(Leoncavallo)",
-        "wikidata": "https://www.wikidata.org/wiki/Q984983"
-      },
-      "summary": {
-        "text": "La bohème is an Italian opera in four acts, with music and libretto by Ruggero Leoncavallo, based on Scènes de la vie de bohème (1851) by Henri Murger. The opera received a successful premiere at the Teatro la Fenice, Venice, on 6 May 1897.\nLeoncavallo wrote his opera La bohème contemporaneously with Giacomo Puccini's own treatment of the same story. Leoncavallo later revised the work, titling it Mimì Pinson, but despite initial respect, it did not survive. Puccini's version has become a standard in the operatic repertoire, whereas Leoncavallo's opera is rarely performed. Leoncavallo's version did not receive its UK premiere until May 1970.\nAllan Atlas has analysed in detail the different treatments of the death of the Mimì character in both Leoncavallo's and Puccini's versions of La bohème, contrasting the historical success of Puccini's opera and the relative failure of Leoncavallo's.",
-        "source_url": "https://en.wikipedia.org/wiki/La_boh%C3%A8me_(Leoncavallo)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "la-rosiere-de-salency": {
-      "slug": "la-rosiere-de-salency",
-      "title": "La Rosière de Salency",
-      "qid": "Q3212445",
-      "enwiki": "La Rosière de Salency",
-      "composers": [
-        {
-          "name": "François-André Danican Philidor",
-          "qid": "Q203229"
-        },
-        {
-          "name": "Adolphe Blaise",
-          "qid": "Q2824775"
-        },
-        {
-          "name": "Pierre-Alexandre Monsigny",
-          "qid": "Q705124"
-        },
-        {
-          "name": "Egidio Duni",
-          "qid": "Q953519"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Charles Simon Favart",
-          "qid": "Q981902"
-        }
-      ],
-      "premiere": {
-        "date": "1769-12-14",
-        "venue": "Salle Favart I"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/La_Rosi%C3%A8re_de_Salency",
-        "wikidata": "https://www.wikidata.org/wiki/Q3212445"
-      },
-      "summary": {
-        "text": "La Rosière de Salency is a three-act comedy, mingled with arriettes, by Charles-Simon Favart, music by Blaise, Philidor, Monsigny and Duni. It was presented at Château de Fontainebleau 25 October 1769 and at Comédie-Italienne 14 December.\nThe story draws inspiration from the feast of rosière, a tradition born in the French village of Salency (Oise).\nOn 18 January 1774, André Grétry had a new version of La Rosière presented at Fontainebleau, with a libretto reworked by marquis de Pezay.",
-        "source_url": "https://en.wikipedia.org/wiki/La_Rosi%C3%A8re_de_Salency",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -801,36 +272,45 @@
         "modified": false
       }
     },
-    "les-mariages-samnites": {
-      "slug": "les-mariages-samnites",
-      "title": "Les mariages samnites",
-      "qid": "Q6530174",
-      "enwiki": "Les mariages samnites",
+    "little-women": {
+      "slug": "little-women",
+      "title": "Little Women",
+      "qid": "Q2662350",
+      "enwiki": "Little Women (musical)",
       "composers": [
         {
-          "name": "André Grétry",
-          "qid": "Q210962"
+          "name": "Jason Howland",
+          "qid": "Q6162736",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/22488"
         }
       ],
-      "lyricists": [],
+      "lyricists": [
+        {
+          "name": "Mindi Dickstein",
+          "qid": "Q16079665",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/386280"
+        }
+      ],
       "librettists": [
         {
-          "name": "Barnabé Farmian Durosoy",
-          "qid": "Q2884658"
+          "name": "Allan Knee",
+          "qid": "Q4730754",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4078"
         }
       ],
       "premiere": {
-        "date": "1776-06-12",
+        "date": null,
         "venue": null
       },
       "awards": [],
       "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Les_mariages_samnites",
-        "wikidata": "https://www.wikidata.org/wiki/Q6530174"
+        "ibdb": "https://www.ibdb.com/broadway-show/386277",
+        "wikipedia": "https://en.wikipedia.org/wiki/Little_Women_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q2662350"
       },
       "summary": {
-        "text": "Les Mariages samnites (The Samnite Marriages) is an opéra comique, described as a drame lyrique, in three acts by André Grétry, The French text was by Barnabé Farmian Durosoy based on a work by Jean François Marmontel.",
-        "source_url": "https://en.wikipedia.org/wiki/Les_mariages_samnites",
+        "text": "Little Women is a musical with a book by Allan Knee, lyrics by Mindi Dickstein, and music by Jason Howland.\nBased on Louisa May Alcott's 1868–69 semi-autobiographical two-volume novel, it focuses on the four March sisters— traditional Meg, wild, aspiring writer Jo, timid Beth and romantic Amy,— and their beloved Marmee, at home in Concord, Massachusetts, while their father is away serving as a Union Army chaplain during the Civil War. Intercut with the vignettes in which their lives unfold are several recreations of the melodramatic short stories Jo writes in her attic studio.",
+        "source_url": "https://en.wikipedia.org/wiki/Little_Women_(musical)",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -859,69 +339,6 @@
         "modified": false
       }
     },
-    "metastaseis-and-pithoprakta": {
-      "slug": "metastaseis-and-pithoprakta",
-      "title": "Metastaseis and Pithoprakta",
-      "qid": "Q6823241",
-      "enwiki": "Metastaseis and Pithoprakta",
-      "composers": [
-        {
-          "name": "Iannis Xenakis",
-          "qid": "Q152880"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Metastaseis_and_Pithoprakta",
-        "wikidata": "https://www.wikidata.org/wiki/Q6823241"
-      },
-      "summary": {
-        "text": "Metastaseis and Pithoprakta is a ballet by New York City Ballet co-founder and ballet master George Balanchine to two orchestral works by Iannis Xenakis: Metastaseis, written 1953–54, and Pithoprakta, written 1955–56. The premiere took place 18 January 1968, at the New York State Theater, Lincoln Center with lighting designed by Ronald Bates.",
-        "source_url": "https://en.wikipedia.org/wiki/Metastaseis_and_Pithoprakta",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "miriways": {
-      "slug": "miriways",
-      "title": "Miriways",
-      "qid": "Q911424",
-      "enwiki": "Miriways",
-      "composers": [
-        {
-          "name": "Georg Philipp Telemann",
-          "qid": "Q75854"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Johann Samuel Müller",
-          "qid": "Q1696082"
-        }
-      ],
-      "premiere": {
-        "date": "1728-05-26",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Miriways",
-        "wikidata": "https://www.wikidata.org/wiki/Q911424"
-      },
-      "summary": {
-        "text": "Miriways (TWV 21:24) is an opera in three acts by Telemann given on 26 May 1728 at the Oper am Gänsemarkt in Hamburg. The libretto is by Johann Samuel Müller. The opera is set in Persia.\nMüller took his plot from then current news from the Islamic world – in the form of an inaccurate account of \"Miri-Ways\", the Pashtun emir Mirwais (1673–1715), published anonymously in German in 1722. The account attributed to Mirwais events, such as the conquering of Isfahan, which were actually the work of his son. Nevertheless, Mir Wais became Miriways, titular king of the opera.",
-        "source_url": "https://en.wikipedia.org/wiki/Miriways",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "miss-nightingale": {
       "slug": "miss-nightingale",
       "title": "Miss Nightingale",
@@ -943,183 +360,6 @@
       "summary": {
         "text": "Miss Nightingale - The Musical is a British cabaret musical, telling the story of a love triangle between singing star Maggie, her composer George, and their producer Frank. Set in a London nightclub during the Second World War, the show contains elements of bawdy comedy alongside the central romantic drama, and explores both the female and homosexual experience against the backdrop of fascism.\nMiss Nightingale was conceived and produced by Matthew Bugg, who wrote the libretto and the score. The piece was first presented at The Lowry, Greater Manchester and the King's Head Theatre, London in 2011. The West End premiere took place at the Hippodrome Theatre in 2018.",
         "source_url": "https://en.wikipedia.org/wiki/Miss_Nightingale",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "mrs-jarramie-s-genie": {
-      "slug": "mrs-jarramie-s-genie",
-      "title": "Mrs. Jarramie's Genie",
-      "qid": "Q6929785",
-      "enwiki": "Mrs. Jarramie's Genie",
-      "composers": [
-        {
-          "name": "François Cellier",
-          "qid": "Q15487488"
-        },
-        {
-          "name": "Alfred Cellier",
-          "qid": "Q2603318",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/422328"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Frank Desprez",
-          "qid": "Q5486216"
-        }
-      ],
-      "premiere": {
-        "date": "1888-02-14",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Mrs._Jarramie's_Genie",
-        "wikidata": "https://www.wikidata.org/wiki/Q6929785"
-      },
-      "summary": {
-        "text": "Mrs. Jarramie's Genie is a one-act comic opera with a libretto by Frank Desprez and music by Alfred Cellier and François Cellier.  The piece was first presented at the Savoy Theatre on 14 February 1888, as a curtain raiser to the revival of H.M.S. Pinafore (November 1887 – March 1888).  It was subsequently presented as a curtain raiser to revivals of The Pirates of Penzance (March – June 1888) and The Mikado (June – September 1888), and then with The Yeomen of the Guard (October 1888 – November 1889).\nNo printed libretto or vocal score is found in the British Library, and no libretto is filed in the Lord Chamberlain's collection.  The score and orchestra parts were apparently lost at sea in a shipwreck off the west coast of South America in 1892, and in 1910, Helen Carte, the widow of the work's producer, Richard D'Oyly Carte, gave the libretto to Desprez.\nThe fashion in the late Victorian era was to present long evenings in the theatre, and so producer Richard D'Oyly Carte preceded his Savoy operas with curtain raisers.  W. J. MacQueen-Pope commented, concerning such curtain raisers:\n\nThis was a one-act play, seen only by the early comers.  It would play to empty boxes, half-empty upper circle, to a gradually filling stalls and dress circle, but to an attentive, grateful and appreciative pit and gallery.  Often these plays were little gems.  They deserved much better treatment than they got, but those who saw them delighted in them. ...  [They] served to give young actors and actresses a chance to win their spurs ... the stalls and the boxes lost much by missing the curtain-raiser, but to them dinner was more important.",
-        "source_url": "https://en.wikipedia.org/wiki/Mrs._Jarramie's_Genie",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "ondine": {
-      "slug": "ondine",
-      "title": "Ondine",
-      "qid": "Q7092197",
-      "enwiki": "Ondine (ballet)",
-      "composers": [
-        {
-          "name": "Hans Werner Henze",
-          "qid": "Q76915"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "1958-10-27",
-        "venue": "Royal Opera House"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Ondine_(ballet)",
-        "wikidata": "https://www.wikidata.org/wiki/Q7092197"
-      },
-      "summary": {
-        "text": "Ondine is a ballet in three acts created by the choreographer Sir Frederick Ashton and composer Hans Werner Henze. Ashton originally produced Ondine for the Royal Ballet in 1958, with Henze commissioned to produce the original score, published as Undine, which has since been restaged by other choreographers. The ballet was adapted from a novella titled Undine by Friedrich de la Motte Fouqué and it tells the tale of a water nymph who is the object of desire of a young prince named Palemon. The première of the ballet took place at the Royal Opera House, London, on 27 October 1958, with the composer as guest conductor. The first major revival of this Ashton/Henze production took place in 1988.",
-        "source_url": "https://en.wikipedia.org/wiki/Ondine_(ballet)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "partenope-morricone": {
-      "slug": "partenope-morricone",
-      "title": "Partenope",
-      "qid": "Q137639588",
-      "enwiki": "Partenope (Morricone)",
-      "composers": [
-        {
-          "name": "Ennio Morricone",
-          "qid": "Q23848"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Sandro Cappelletto",
-          "qid": "Q3948201"
-        }
-      ],
-      "premiere": {
-        "date": "1998",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Partenope_(Morricone)",
-        "wikidata": "https://www.wikidata.org/wiki/Q137639588"
-      },
-      "summary": {
-        "text": "Partenope is an opera in one act with music by Ennio Morricone to a libretto by Guido Barbieri and Sandro Cappelletto. Its subject is the legend from Greek Mythology of the siren Parthenope. After failing to lure Odysseus to his death, Parthenope drowned herself. Her body washed ashore in Southern Italy, where Greek colonists founded a city named in her honor. That city would eventually become Naples. The opera was written and composed in 1995, but was first premiered on December 12, 2025, five years after Morricone's death. The libretto utilizes three languages: Italian for the named roles, Neapolitan for the narrator, and Ancient Greek for the chorus.",
-        "source_url": "https://en.wikipedia.org/wiki/Partenope_(Morricone)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "peter-ibbetson": {
-      "slug": "peter-ibbetson",
-      "title": "Peter Ibbetson",
-      "qid": "Q761886",
-      "enwiki": "Peter Ibbetson (opera)",
-      "composers": [
-        {
-          "name": "Deems Taylor",
-          "qid": "Q284386",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12483"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Deems Taylor",
-          "qid": "Q284386",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12483"
-        },
-        {
-          "name": "Constance Collier",
-          "qid": "Q443743",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4904"
-        }
-      ],
-      "premiere": {
-        "date": "1931-02-07",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Peter_Ibbetson_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q761886"
-      },
-      "summary": {
-        "text": "Peter Ibbetson is an opera in three acts by American composer Deems Taylor from a libretto by the composer and Constance Collier, based on the 1891 novel by George du Maurier.",
-        "source_url": "https://en.wikipedia.org/wiki/Peter_Ibbetson_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "prima-la-musica-e-poi-le-parole": {
-      "slug": "prima-la-musica-e-poi-le-parole",
-      "title": "Prima la musica e poi le parole",
-      "qid": "Q370008",
-      "enwiki": "Prima la musica e poi le parole",
-      "composers": [
-        {
-          "name": "Antonio Salieri",
-          "qid": "Q51088"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Giovanni Battista Casti",
-          "qid": "Q251926"
-        }
-      ],
-      "premiere": {
-        "date": "1786-02-07",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Prima_la_musica_e_poi_le_parole",
-        "wikidata": "https://www.wikidata.org/wiki/Q370008"
-      },
-      "summary": {
-        "text": "Prima la musica e poi le parole (First the music and then the words) is an opera in one act by Antonio Salieri to a libretto by Giovanni Battista Casti. The work was first performed on 7 February 1786 in Vienna, following a commission by the Emperor Joseph II. The opera (more specifically, a divertimento teatrale) was first performed at one end of the orangery of the Schönbrunn Palace in Vienna by an Italian troupe; on the same occasion, Mozart's Der Schauspieldirektor was staged at the other end.\nThe title of the opera is the theme of Richard Strauss's opera Capriccio which debates the relative importance of music and drama in opera.\nThe autograph manuscript of the opera is preserved in the Austrian National Library.",
-        "source_url": "https://en.wikipedia.org/wiki/Prima_la_musica_e_poi_le_parole",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -1151,35 +391,6 @@
       "summary": {
         "text": "Purlie is a musical with a book by Ossie Davis, Philip Rose, and Peter Udell, lyrics by Udell and music by Gary Geld. It is based on Davis's 1961 play Purlie Victorious.",
         "source_url": "https://en.wikipedia.org/wiki/Purlie",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "schwergewicht": {
-      "slug": "schwergewicht",
-      "title": "Schwergewicht",
-      "qid": "Q7433280",
-      "enwiki": "Schwergewicht",
-      "composers": [
-        {
-          "name": "Ernst Krenek",
-          "qid": "Q158436"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "1928-05-06",
-        "venue": "Hessisches Staatstheater Wiesbaden"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Schwergewicht",
-        "wikidata": "https://www.wikidata.org/wiki/Q7433280"
-      },
-      "summary": {
-        "text": "Schwergewicht, oder Die Ehre der Nation (Heavyweight or The Glory of The Nation) is a burleske Operette with text and music by Ernst Krenek, his Op. 55 and (with Der Diktator and Das geheime Königreich) the third of his 1928 one-acters. This satirical skit (as the composer was to call it in Horizons Circled) was provoked by the German ambassador's comment that sports heroes – and not artists – were the true ambassadors of nations, and the title character Ochsenschwanz (\"oxtail\") is a reference to the boxer Max Schmeling.\nLike Jonny spielt auf, it makes frequent allusions to jazz, both in its use of percussion and banjo and in its \"Tempo di Blues\". There is even a nod to Mendelssohn's Wedding March (see example).",
-        "source_url": "https://en.wikipedia.org/wiki/Schwergewicht",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -1253,30 +464,6 @@
       "summary": {
         "text": "The Slipper and the Rose – The Story of Cinderella is a musical composed and with lyrics by Richard M. Sherman and Robert B. Sherman and a book by Bryan Forbes, Robert B. Sherman and Richard M. Sherman. It is based on the classic Charles Perrault version of the fairy tale Cinderella. Originally made as a musical film in 1976, it was adapted for the stage in 1984 by Philip Burley.",
         "source_url": "https://en.wikipedia.org/wiki/The_Slipper_and_the_Rose_(musical)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "transit-of-venus": {
-      "slug": "transit-of-venus",
-      "title": "Transit of Venus",
-      "qid": "Q7834372",
-      "enwiki": "Transit of Venus (opera)",
-      "composers": [],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Transit_of_Venus_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q7834372"
-      },
-      "summary": {
-        "text": "Transit of Venus is an opera in three acts by Victor Davies. The English libretto is by Canadian playwright Maureen Hunter based on her play of the same name first produced at the Manitoba Theatre Centre in November 1992.",
-        "source_url": "https://en.wikipedia.org/wiki/Transit_of_Venus_(opera)",
         "license": "CC BY-SA 4.0",
         "modified": false
       }

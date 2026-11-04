@@ -1,59 +1,6 @@
 {
+  "live": true,
   "shows": {
-    "almahide": {
-      "slug": "almahide",
-      "title": "Almahide",
-      "qid": "Q85740974",
-      "enwiki": "Almahide",
-      "composers": [],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Almahide",
-        "wikidata": "https://www.wikidata.org/wiki/Q85740974"
-      },
-      "summary": {
-        "text": "Almahide is a pasticcio opera arranged by John James Heidegger. Musically the work was based on Ariosti’s Amor tra nemici (1708), but most of the arias were replaced by the work of other composers, including six arias from Giovanni Bononcini‘s Turno Aricino.\nIt is generally described as the first opera in London sung entirely in Italian, by Italian singers, although there were intermezzi in English between the acts of the main opera.",
-        "source_url": "https://en.wikipedia.org/wiki/Almahide",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "amadigi-di-gaula": {
-      "slug": "amadigi-di-gaula",
-      "title": "Amadigi di Gaula",
-      "qid": "Q452022",
-      "enwiki": "Amadigi di Gaula",
-      "composers": [
-        {
-          "name": "George Frideric Handel",
-          "qid": "Q7302",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/89505"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "1715-05-25",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Amadigi_di_Gaula",
-        "wikidata": "https://www.wikidata.org/wiki/Q452022"
-      },
-      "summary": {
-        "text": "Amadigi di Gaula (HWV 11) is a \"magic\" opera in three acts, with music by George Frideric Handel. It was the fifth Italian opera that Handel wrote for an English theatre and the second he wrote for Richard Boyle, 3rd Earl of Burlington in 1715. The opera about a damsel in distress is based on Amadis de Grèce, a French tragédie-lyrique by André Cardinal Destouches and Antoine Houdar de la Motte. Amadigi was written for a small cast, employing four high voices. Handel made prominent use of wind instruments, so the score is unusually colorful, comparable to his Water Music.\nThe opera received its first performance in London at the King's Theatre in the Haymarket on 25 May 1715, in a lavish successful production. Charles Burney maintained near the end of the eighteenth century: Amadigi contained \"...more invention, variety and good composition, than in any one of the musical dramas of Handel which I have yet carefully and critically examined\".",
-        "source_url": "https://en.wikipedia.org/wiki/Amadigi_di_Gaula",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "annie": {
       "slug": "annie",
       "title": "Annie",
@@ -93,40 +40,6 @@
       "summary": {
         "text": "Annie is a musical with music by Charles Strouse, lyrics by Martin Charnin, and a book by Thomas Meehan. It is based on the 1924 comic strip Little Orphan Annie by Harold Gray (which in turn was inspired from the poem Little Orphant Annie by James Whitcomb Riley). The original Broadway production opened in 1977 and ran for nearly six years, setting a record for the Alvin Theatre (now the Neil Simon Theatre). It spawned numerous productions in many countries, as well as national tours, and won seven Tony Awards, including for Best Musical. The musical's songs \"Tomorrow\" and \"It's the Hard Knock Life\" are among its most popular musical numbers.",
         "source_url": "https://en.wikipedia.org/wiki/Annie_(musical)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "arshak-ii": {
-      "slug": "arshak-ii",
-      "title": "Arshak II",
-      "qid": "Q4070994",
-      "enwiki": "Arshak II (opera)",
-      "composers": [
-        {
-          "name": "Tigran Chukhajian",
-          "qid": "Q1382028"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Tovmas Terzian",
-          "qid": "Q4455826"
-        }
-      ],
-      "premiere": {
-        "date": "1945-11-29",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Arshak_II_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q4070994"
-      },
-      "summary": {
-        "text": "Arshak II (Armenian: Արշակ Բ; Italian: Arsace II) is the first Armenian classical opera, composed by Tigran Chukhajian to a libretto by Tovmas Terzian, written first in Italian and then translated into Armenian by the librettist. It was completed in 1868, and parts of it were performed in the following years. It was staged in full for the first time in 1945 at the Yerevan Opera Theater, albeit with a new libretto written by Armen Gulakian, rearrangement of parts of the score, and changes to the instrumentation; correspondingly, music historian Nikoghos Tahmizian calls this version a new edition of the opera. Both librettos are based on the historical accounts (which are mixed with epical elements) of the fourth-century Armenian king Arshak II, written by the classical Armenian historians Movses Khorenatsi and Pavstos Buzand.\nArshak II was Chukhajian's debut work and the first Armenian grand opera, which used a large performing ensemble, a symphony orchestra, a chorus, soloists and a brass band. Performers of Arshak's role include Pavel Lisitsian, Mihran Yerkat, and Tigran Levonyan. Participants in the 1945 staging, conductor Mikayel Tavrizyan, director Armen Gulakian, and Shara Talian (Arshak), received the USSR State Prize in 1946. In 1988, Tigran Levonyan directed an opera film of Arshak II, also portraying the lead role. In 2001, it was staged at the San Francisco Opera (SFO), using an Armenian translation of Terzian's Italian libretto and Chukhajian's original score, prepared by Haig Avakian and Gerald Papasian. The SFO production used light designs by Mark McCullough and was directed by Francesca Zambello.  The opera was performed with Terzian's original Italian libretto for the first time at the Yerevan Opera Theater in March 2024.",
-        "source_url": "https://en.wikipedia.org/wiki/Arshak_II_(opera)",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -260,98 +173,6 @@
         "modified": false
       }
     },
-    "chout": {
-      "slug": "chout",
-      "title": "Chout",
-      "qid": "Q2964614",
-      "enwiki": "Chout",
-      "composers": [
-        {
-          "name": "Sergei Prokofiev",
-          "qid": "Q49481",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/118533"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "1921-05-17",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Chout",
-        "wikidata": "https://www.wikidata.org/wiki/Q2964614"
-      },
-      "summary": {
-        "text": "Chout, Op. 21, is a ballet by Sergei Prokofiev. It was originally composed in 1915, then extensively revised at the request of Serge Diaghilev in 1921. The composer extracted an orchestral suite from it, Op. 21 bis. The ballet's full title is Tale of the Jester Who Outwits Seven Other Jesters (Russian: Сказка про шута, семерых шутов перешутившего, romanized: Skazka pro shuta, semerykh shutov pereshutivshego). The most commonly used title for the work is based on the French transliteration of the Russian word for \"jester\", shut.",
-        "source_url": "https://en.wikipedia.org/wiki/Chout",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "ciro": {
-      "slug": "ciro",
-      "title": "Ciro",
-      "qid": "Q5121936",
-      "enwiki": "Ciro (opera)",
-      "composers": [
-        {
-          "name": "Francesco Cavalli",
-          "qid": "Q108062"
-        },
-        {
-          "name": "Francesco Provenzale",
-          "qid": "Q934164"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Ciro_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q5121936"
-      },
-      "summary": {
-        "text": "Ciro (Cyrus), also written Il Ciro, is a 1653 Italian drama per musica (opera) in a prologue and three acts with music by Francesco Provenzale and a libretto by Giulio Cesare Sorrentino. The story concerns the Persian king Cyrus the Great. The opera was probably first performed during Carnival of that year at the Teatro San Bartolomeo in Naples, in a production by Giovan Battista Balbi (fl 1636–1657).\nThe opera was performed again in a revised version at the Teatro San Giovanni e San Paolo in Venice, beginning on 30 January 1654 or 4 February 1654. The libretto credits Sorrentino as the librettist, Francesco Cavalli with revising and adding music and Balbi for the scenery, machines, and dances. Balbi also signed the libretto's introduction. The Venetian poet who, with Sorrentino's permission, revised the text to make it more suitable for presentation in that city is not named, but may have been Aurelio Aureli or Balbi. The opera was revived again in 1665 in Venice with additional music by Andrea Mattioli. Manuscript scores of the 1654 and 1665 versions survive.\nThe new prologue of the 1654 version in Venice included spectacular scenic effects and must have been regarded as successful, since it was used for other works by Cavalli, including Erismena in 1655 and a revival of Giasone in 1666. In modern times, René Jacobs used it for his 1985 recording of Cavalli's Xerse (for which the music of the original prologue has not been found).",
-        "source_url": "https://en.wikipedia.org/wiki/Ciro_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "colas-breugnon": {
-      "slug": "colas-breugnon",
-      "title": "Colas Breugnon",
-      "qid": "Q4227544",
-      "enwiki": "Colas Breugnon (opera)",
-      "composers": [
-        {
-          "name": "Dmitry Borisovich Kabalevsky",
-          "qid": "Q153776"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "1938-02-22",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Colas_Breugnon_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q4227544"
-      },
-      "summary": {
-        "text": "Colas Breugnon (Russian: Кола́ Брюньо́н, Kola Bryun'on), Op. 24, also known as The Master-Craftsman of Clamecy (Мастер из Кламси́, Master iz Klamsi), is a Russian-language opera in three acts with prologue by Dmitry Kabalevsky. The libretto by Vladimir Bragin is based on Romain Rolland's novel about a fictional Burgundian optimist named Colas Breugnon set in 16th-century Clamecy, Nièvre. The opera premiered at the Leningrad State Academic Maly Opera Theatre under the direction of Samuil Samosud on February 22, 1938. In 1968, the composer prepared a second version of the opera, Op. 90, which premiered on April 16, 1970. The opera is best known for its \"rollicking\" overture.",
-        "source_url": "https://en.wikipedia.org/wiki/Colas_Breugnon_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "come-fly-away": {
       "slug": "come-fly-away",
       "title": "Come Fly Away",
@@ -409,59 +230,11 @@
         "modified": false
       }
     },
-    "das-dreimaderlhaus": {
-      "slug": "das-dreimaderlhaus",
-      "title": "Das Dreimäderlhaus",
-      "qid": "Q832620",
-      "enwiki": "Das Dreimäderlhaus",
-      "composers": [
-        {
-          "name": "Franz Schubert",
-          "qid": "Q7312",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12366"
-        }
-      ],
-      "lyricists": [
-        {
-          "name": "Alfred Maria Willner",
-          "qid": "Q85482",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9206"
-        }
-      ],
-      "librettists": [
-        {
-          "name": "Heinz Reichert",
-          "qid": "Q1345667",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13672"
-        },
-        {
-          "name": "Alfred Maria Willner",
-          "qid": "Q85482",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9206"
-        }
-      ],
-      "premiere": {
-        "date": "1916-01-15",
-        "venue": "Raimund Theater"
-      },
-      "awards": [],
-      "links": {
-        "ibdb": "https://www.ibdb.com/broadway-show/2098",
-        "wikipedia": "https://en.wikipedia.org/wiki/Das_Dreim%C3%A4derlhaus",
-        "wikidata": "https://www.wikidata.org/wiki/Q832620"
-      },
-      "summary": {
-        "text": "Das Dreimäderlhaus (House of the Three Girls), adapted into English-language versions as Blossom Time and Lilac Time, is a Viennese pastiche operetta with music by Franz Schubert, rearranged by Heinrich Berté (1857–1924), and a libretto by Alfred Maria Willner and Heinz Reichert.  The work gives a fictionalized account of Schubert's romantic life, and the story was adapted from the 1912 novel Schwammerl by Rudolf Hans Bartsch (1873–1952).  Originally the score was mostly Berté, with just one piece of Schubert's (\"Ungeduld\" from Die schöne Müllerin), but the producers required Berté to discard his score and create a pasticcio of Schubert music.\nThe original production opened at the Raimundtheater in Vienna on 15 January 1916 and ran for over 650 performances in its original run in Austria and for hundreds more in Germany, followed by many successful revivals.  It starred Fritz Schrödter as Schubert and Anny Rainer as Hannerl.  Schrödter was already 60 in 1916. In 1886, he had sung the part of the \"Prince of Song\" (i.e. Schubert) in Franz von Suppé's operetta about Schubert.  The operetta spawned a sequel entitled Hannerl.  Debuting during World War I, the operetta's popularity was fueled by the public's taste for nostalgia, harnessing an old-fashioned, sentimental story and Schubert's familiar music.  Schubert worked hard to become a successful opera composer but found little success in this genre of music.  With Das Dreimäderlhaus, ironically, his music finally became famous in a stage work.\nDas Dreimäderlhaus then premiered in Paris on May 7, 1921, in a French adaptation by Hugues Delorme and Léon Abric called Chanson d'amour (Song of Love). The operetta was a success in France, and soon an English language adaption opened on Broadway as Blossom Time, with a new arrangement of Schubert's music by Sigmund Romberg and an adapted libretto by Dorothy Donnelly.  This debuted at the Ambassador Theatre on September 29, 1921, where it ran for 592 performances; it was revived several times on Broadway over the next two decades.  In London, the operetta was called Lilac Time, with an adapted libretto by Adrian Ross and music arranged by George H. Clutsam, using some of Berté's work.  Lilac Time opened at the Lyric Theatre on December 22, 1922, and ran for 626 performances.  Both the Broadway and West End versions toured extensively in subsequent decades and were frequently revived until the 1950s.\nThe operetta received productions in over 60 countries and was translated into numerous languages.  By 1961, the piece was estimated to have played over 85,000 performances worldwide.  It still receives occasional productions.",
-        "source_url": "https://en.wikipedia.org/wiki/Das_Dreim%C3%A4derlhaus",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "der-rattenfanger-von-hameln": {
-      "slug": "der-rattenfanger-von-hameln",
-      "title": "Der Rattenfänger von Hameln",
-      "qid": "Q5261197",
-      "enwiki": "Der Rattenfänger von Hameln",
+    "fantastic-mr-fox": {
+      "slug": "fantastic-mr-fox",
+      "title": "Fantastic Mr Fox",
+      "qid": "Q28452408",
+      "enwiki": "Fantastic Mr Fox (musical)",
       "composers": [],
       "lyricists": [],
       "librettists": [],
@@ -471,117 +244,12 @@
       },
       "awards": [],
       "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Der_Rattenf%C3%A4nger_von_Hameln",
-        "wikidata": "https://www.wikidata.org/wiki/Q5261197"
+        "wikipedia": "https://en.wikipedia.org/wiki/Fantastic_Mr_Fox_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q28452408"
       },
       "summary": {
-        "text": "Der Rattenfänger von Hameln (The Rat-Catcher of Hamelin or The Piper of Hamelin) is a grand opera (Große Oper) in five acts by Viktor Nessler. The German libretto by Friedrich Hofmann is based on a 1875 romantic poem by Julius Wolff about the Pied Piper of Hamelin.",
-        "source_url": "https://en.wikipedia.org/wiki/Der_Rattenf%C3%A4nger_von_Hameln",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "diana-von-solange": {
-      "slug": "diana-von-solange",
-      "title": "Diana von Solange",
-      "qid": "Q5271365",
-      "enwiki": "Diana von Solange",
-      "composers": [],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Diana_von_Solange",
-        "wikidata": "https://www.wikidata.org/wiki/Q5271365"
-      },
-      "summary": {
-        "text": "Diana von Solange is an opera by the German prince Ernst II of Saxe-Coburg-Gotha, an amateur composer. It was premiered in 1858. In 1859, Franz Liszt wrote an orchestral Festmarsch nach Motiven von E. H. z. S-C-G, S.116, based on themes from Diana von Solange (E. H. z. S-C-G was short for Ernst Herzog zu Sachsen-Coburg-Gotha).\nIt received a brief appearance at the Metropolitan Opera (the 'Old Met') in New York City in 1891. The opera was one of three novelties introduced for the 1890–91 season by the Metropolitan's general manager, Edmund C. Stanton; the others were Asrael by Alberto Franchetti, which opened the season on November 26, and Antonio Smareglia's Il vassallo di Szigeth. Both were poorly received. Diana von Solange, the last of the three, was first shown on January 9, 1891; the performance marked its American premiere. Pauline Schöller-Haag sang the title role to the Armand of Andreas Dippel. Marie Jahn, Conrad Behrens, Juan Luria, Edmund Müller, and Bruno Lurgenstein rounded out the cast, under the direction of Anton Seidl. The opera also contained a ballet, which was singled out for praise by the New York World. The ballet was led by prima ballerina Martha Irmler.\nReviews of the opera were almost all negative; one writer described the piece as \"simply rubbish\", while others derisively referred to it as \"Diana von So-Langweilig\" (so boring). Another critic predicted that the work would not last three performances in the house; in the event, it lasted two. When it was discovered that a third outing was intended on January 12, a petition, bearing three hundred signatures and demanding that the opera be removed from the repertory, was delivered to the management, who hastily replaced it with Fidelio. Diana von Solange marked the final blow against Stanton; two days after the cancelled third performance, on January 14, it was announced that he was to be replaced by Henry Eugene Abbey for the following season.\nMany critics wondered why, given its pedigree, its age, and its relative obscurity, Diana von Solange was even considered for performance by the Metropolitan. Although it was never proven, many critics suspected that Stanton and others in the company were motivated by the Duke's known \"lavishness ... in the distribution of orders, especially among musicians\". The general manager and other executives were believed to have in fact received such decorations, but were reportedly too ashamed of the whole debacle to be seen in public wearing them. However, Louis Auchincloss, Stanton's grand-nephew, suggests Stanton wanted to honor the Duke as a fellow admirer of Richard Wagner, to whom Ernest II had considered dedicating the opera.\nDespite the opera's poor reception, Andreas Dippel was singled out for praise by numerous critics; this, coupled with his other successes during the season, led to his being retained on the company's roster for the following year.",
-        "source_url": "https://en.wikipedia.org/wiki/Diana_von_Solange",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "eva-operetta": {
-      "slug": "eva-operetta",
-      "title": "Eva",
-      "qid": "Q1379094",
-      "enwiki": "Eva (operetta)",
-      "composers": [
-        {
-          "name": "Franz Lehár",
-          "qid": "Q191917",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5647"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Alfred Maria Willner",
-          "qid": "Q85482",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9206"
-        }
-      ],
-      "premiere": {
-        "date": "1911-11-24",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Eva_(operetta)",
-        "wikidata": "https://www.wikidata.org/wiki/Q1379094"
-      },
-      "summary": {
-        "text": "Eva, alternatively entitled Das Fabriksmädel (from German: The Factory Girl), is an operetta in three acts by Austro-Hungarian composer Franz Lehár with a German-language libretto by Alfred Maria Willner and Robert Bodanzky. Premiered in 1911, it tells the story of a young working-class woman who falls in love with an aristocratic officer, but their romance is in jeopardy because of rigid social conventions and class barriers.",
-        "source_url": "https://en.wikipedia.org/wiki/Eva_(operetta)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "faust-opera": {
-      "slug": "faust-opera",
-      "title": "Faust",
-      "qid": "Q745951",
-      "enwiki": "Faust (opera)",
-      "composers": [
-        {
-          "name": "Charles Gounod",
-          "qid": "Q180278",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11773"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Marguerite Carré",
-          "qid": "Q15429916"
-        },
-        {
-          "name": "Jules Barbier",
-          "qid": "Q548181",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/393326"
-        },
-        {
-          "name": "Michel Carré",
-          "qid": "Q602493",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/424954"
-        }
-      ],
-      "premiere": {
-        "date": "1859-03-19",
-        "venue": "Theatre Lyrique"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Faust_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q745951"
-      },
-      "summary": {
-        "text": "Faust is a grand opera in five acts by Charles Gounod to a French libretto by Jules Barbier and Michel Carré from Carré's play Faust et Marguerite, in turn loosely based on Johann Wolfgang von Goethe's Faust, Part One. It debuted at the Théâtre Lyrique on the Boulevard du Temple in Paris on 19 March 1859, with influential sets designed by Charles-Antoine Cambon and Joseph Thierry, Jean Émile Daran, Édouard Desplechin, and Philippe Chaperon.",
-        "source_url": "https://en.wikipedia.org/wiki/Faust_(opera)",
+        "text": "Fantastic Mr Fox is a musical stage adaptation of the children's novel of the same name by Roald Dahl, adapted by Sam Holcroft with music by Arthur Darvill and lyrics by Holcroft, Darvill, Darren Clark and Al Muriel. The story follows Mr Fox who hatches a plan to outsmart his three farmer neighbours in order to feed his family and friends.",
+        "source_url": "https://en.wikipedia.org/wiki/Fantastic_Mr_Fox_(musical)",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -667,35 +335,6 @@
       "summary": {
         "text": "Giuditta is an operatic musikalische Komödie (German for musical comedy) in five scenes, with music by Franz Lehár and a German libretto, by Paul Knepler and Fritz Löhner-Beda. Scored for a large orchestra, it was Lehár's last and most ambitious work, written on a larger scale than his previous operettas. Of all his works it is the one which most approaches true opera, the resemblances between the story and that of Bizet's Carmen and its unhappy ending heightening the resonances. Perhaps the best known song in the work is the soprano aria \"Meine Lippen, sie küssen so heiß\", sung by Giuditta in the fourth scene. Another strong influence, especially for the North African setting, was the 1930 movie Morocco, starring Marlene Dietrich and Gary Cooper in very similar central roles, she being a singer-dancer, he being a soldier.",
         "source_url": "https://en.wikipedia.org/wiki/Giuditta",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "griselda-antonio-maria-bononcini": {
-      "slug": "griselda-antonio-maria-bononcini",
-      "title": "Griselda",
-      "qid": "Q5609623",
-      "enwiki": "Griselda (Antonio Maria Bononcini)",
-      "composers": [
-        {
-          "name": "Antonio Maria Bononcini",
-          "qid": "Q2359145"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": "Teatro Regio Ducal"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Griselda_(Antonio_Maria_Bononcini)",
-        "wikidata": "https://www.wikidata.org/wiki/Q5609623"
-      },
-      "summary": {
-        "text": "Griselda is an opera (dramma per musica) in three acts composed by Antonio Maria Bononcini. The opera uses a slightly revised version of the 1701 Italian libretto by Apostolo Zeno that was based on Giovanni Boccaccio's The Decameron (X, 10, \"The Patient Griselda\"). The opera was dedicated to Prince Maximilian Karl von Löwenstein, the Austrian governor of Milan, who died during the opera's world première on 26 December 1718 at the Teatro Regio Ducale in Milan. Nevertheless, Bononcini's opera was well received and enjoyed several revivals during the eighteenth century.\nHis brother, Giovanni Bononcini, wrote an even more popular version of his own to Zeno's libretto in 1722.",
-        "source_url": "https://en.wikipedia.org/wiki/Griselda_(Antonio_Maria_Bononcini)",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -818,188 +457,6 @@
         "modified": false
       }
     },
-    "kleopatra": {
-      "slug": "kleopatra",
-      "title": "Kleopatra",
-      "qid": "Q106432255",
-      "enwiki": "Kleopatra (opera)",
-      "composers": [
-        {
-          "name": "August Enna",
-          "qid": "Q152479"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Einar Christiansen",
-          "qid": "Q4241284"
-        }
-      ],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Kleopatra_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q106432255"
-      },
-      "summary": {
-        "text": "Kleopatra is a Danish-language opera by August Enna to a libretto by Einar Christiansen based on the 1889 novel by H. Rider Haggard. The opera premiered in the Royal Theatre in 1895 and was performed around 20 times. In German translation, the opera was performed in Berlin, Hamburg, Cologne, Wroclaw, Riga, Zurich, Antwerp, Rotterdam and The Hague; In 1897, the opera ran for 50 performances in the opera house in Amsterdam.",
-        "source_url": "https://en.wikipedia.org/wiki/Kleopatra_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "l-elisir-d-amore": {
-      "slug": "l-elisir-d-amore",
-      "title": "L'elisir d'amore",
-      "qid": "Q332536",
-      "enwiki": "L'elisir d'amore",
-      "composers": [
-        {
-          "name": "Gaetano Donizetti",
-          "qid": "Q101698",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/82838"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Felice Romani",
-          "qid": "Q350103"
-        }
-      ],
-      "premiere": {
-        "date": "1832-05-12",
-        "venue": "Teatro Lirico"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/L'elisir_d'amore",
-        "wikidata": "https://www.wikidata.org/wiki/Q332536"
-      },
-      "summary": {
-        "text": "L'elisir d'amore (pronounced [leliˈzir daˈmoːre]; The Elixir of Love) is a melodramma giocoso (comic melodrama, opera buffa) in two acts by the Italian composer Gaetano Donizetti. Felice Romani wrote the Italian libretto, after Eugène Scribe's libretto for Daniel Auber's Le philtre (1831). The opera premiered on 12 May 1832 at the Teatro della Canobbiana in Milan and has remained continually in the international opera repertory.",
-        "source_url": "https://en.wikipedia.org/wiki/L'elisir_d'amore",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "la-grande-duchesse-de-gerolstein": {
-      "slug": "la-grande-duchesse-de-gerolstein",
-      "title": "La Grande-Duchesse de Gérolstein",
-      "qid": "Q1213194",
-      "enwiki": "La Grande-Duchesse de Gérolstein",
-      "composers": [
-        {
-          "name": "Jacques Offenbach",
-          "qid": "Q41555",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7941"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Ludovic Halévy",
-          "qid": "Q723585",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6036"
-        },
-        {
-          "name": "Henri Meilhac",
-          "qid": "Q723648",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7687"
-        }
-      ],
-      "premiere": {
-        "date": "1867-04-12",
-        "venue": "Théâtre des Variétés"
-      },
-      "awards": [],
-      "links": {
-        "ibdb": "https://www.ibdb.com/broadway-show/423886",
-        "wikipedia": "https://en.wikipedia.org/wiki/La_Grande-Duchesse_de_G%C3%A9rolstein",
-        "wikidata": "https://www.wikidata.org/wiki/Q1213194"
-      },
-      "summary": {
-        "text": "La Grande-Duchesse de Gérolstein (The Grand Duchess of Gerolstein) is an opéra bouffe (a form of operetta), in three acts and four tableaux by Jacques Offenbach to an original French libretto by Henri Meilhac and Ludovic Halévy. The story is a satirical critique of unthinking militarism and concerns a spoiled and tyrannical young Grand Duchess who learns that she cannot always get her way.\nThe opera premiered in Paris in 1867 and starred Hortense Schneider in the title role. Thereafter, it was heard in New York, London and elsewhere, and it is still performed and recorded.",
-        "source_url": "https://en.wikipedia.org/wiki/La_Grande-Duchesse_de_G%C3%A9rolstein",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "le-roi-l-a-dit": {
-      "slug": "le-roi-l-a-dit",
-      "title": "Le roi l'a dit",
-      "qid": "Q1810357",
-      "enwiki": "Le roi l'a dit",
-      "composers": [
-        {
-          "name": "Léo Delibes",
-          "qid": "Q207951",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/413269"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Edmond Gondinet",
-          "qid": "Q719997",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5929"
-        }
-      ],
-      "premiere": {
-        "date": "1873-05-24",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Le_roi_l'a_dit",
-        "wikidata": "https://www.wikidata.org/wiki/Q1810357"
-      },
-      "summary": {
-        "text": "Le roi l'a dit (The King Has Spoken) is an opéra comique in three acts by Léo Delibes to a French libretto by Edmond Gondinet. It is a lively comedy, remarkably requiring 14 singers – six men and eight women. The libretto had first been offered in 1871 to Offenbach. The title also went through various permutations (Le Talon rouge, Si le Roi le savait, Le Roi le sait) before settling on its final name. The 1885 revival brought further modifications to the libretto.",
-        "source_url": "https://en.wikipedia.org/wiki/Le_roi_l'a_dit",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "les-aventures-du-roi-pausole": {
-      "slug": "les-aventures-du-roi-pausole",
-      "title": "Les aventures du roi Pausole",
-      "qid": "Q742234",
-      "enwiki": "Les aventures du roi Pausole",
-      "composers": [
-        {
-          "name": "Arthur Honegger",
-          "qid": "Q123164"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Albert Willemetz",
-          "qid": "Q2831645",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3985"
-        }
-      ],
-      "premiere": {
-        "date": "1930-12-12",
-        "venue": "Théâtre des Bouffes-Parisiens"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Les_aventures_du_roi_Pausole",
-        "wikidata": "https://www.wikidata.org/wiki/Q742234"
-      },
-      "summary": {
-        "text": "Les aventures du roi Pausole (The adventures of King Pausole) is an opérette in three acts with music by Arthur Honegger and a French libretto by Albert Willemetz, based on the 1901 novel by Pierre Louÿs. It was Honegger's third operatic work, but his first in lighter vein, composed between May and November 1930, and dedicated to Fernand Ochsé. Excluding dialogue, there is around 75 minutes of music, making it longer than many of his more serious works. While showing the influence of Mozart, Chabrier and Messager, it contains a wide range of orchestral colours with occasional glances at jazz of the 1930s.",
-        "source_url": "https://en.wikipedia.org/wiki/Les_aventures_du_roi_Pausole",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "mozart": {
       "slug": "mozart",
       "title": "Mozart!",
@@ -1077,101 +534,6 @@
         "modified": false
       }
     },
-    "orion": {
-      "slug": "orion",
-      "title": "Orion",
-      "qid": "Q16941208",
-      "enwiki": "Orion (Lacoste)",
-      "composers": [],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Orion_(Lacoste)",
-        "wikidata": "https://www.wikidata.org/wiki/Q16941208"
-      },
-      "summary": {
-        "text": "Orion is an opera by the French composer Louis Lacoste on a libretto by Joseph de Lafont and Simon-Joseph Pellegrin. It was first performed at the Paris Opera (at the time known as \"Académie royale de Musique\") on 19 February 1728 and was performed for the last time on 12 March 1728. The reduced score was printed in quarto by Christophe Ballard. Orion only received a modest success and was never staged nor performed again for another season. However, extracts have already been played by the ensemble Fuoco e Cenere in 2019.\nA libretto by La Font, Hypermnestre, won considerable success in 1716 with the music of Charles-Hubert Gervais. Pellegrin has made himself known in 1713 with the tragédie lyrique Médée & Jason (music by François-Joseph Salomon) but his most brilliant success would be Jephté in 1732 (music by Michel Pignolet de Montéclair), followed by Hippolyte & Aricie in 1733 (music by Jean-Philippe Rameau). La Font died in 1725 before the completion of Orion's libretto, which Pellegrin took care of. It was the second and final collaboration between Lacoste and Pellegrin, the first was Télégone (1725).",
-        "source_url": "https://en.wikipedia.org/wiki/Orion_(Lacoste)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "pickwick": {
-      "slug": "pickwick",
-      "title": "Pickwick",
-      "qid": "Q105658355",
-      "enwiki": "Pickwick (operetta)",
-      "composers": [
-        {
-          "name": "Edward Solomon",
-          "qid": "Q1293695"
-        }
-      ],
-      "lyricists": [
-        {
-          "name": "F. C. Burnand",
-          "qid": "Q5217819",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5489"
-        }
-      ],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Pickwick_(operetta)",
-        "wikidata": "https://www.wikidata.org/wiki/Q105658355"
-      },
-      "summary": {
-        "text": "Pickwick is an 1889 operetta in one act based on an episode in the 1836 novel The Pickwick Papers by Charles Dickens. The score was by Edward Solomon to lyrics by F. C. Burnand. It was one of three works written by the duo in collaboration, the others being Domestic Economy and The Tiger, both in 1890.",
-        "source_url": "https://en.wikipedia.org/wiki/Pickwick_(operetta)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "seance-on-a-wet-afternoon": {
-      "slug": "seance-on-a-wet-afternoon",
-      "title": "Séance on a Wet Afternoon",
-      "qid": "Q3979272",
-      "enwiki": "Séance on a Wet Afternoon (opera)",
-      "composers": [
-        {
-          "name": "Stephen Schwartz",
-          "qid": "Q542484",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/108290"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Stephen Schwartz",
-          "qid": "Q542484",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/108290"
-        }
-      ],
-      "premiere": {
-        "date": "2009-09-26",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/S%C3%A9ance_on_a_Wet_Afternoon_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q3979272"
-      },
-      "summary": {
-        "text": "Séance on a Wet Afternoon is an opera in two acts by Stephen Schwartz to his own libretto, based on the novel by Mark McShane and the screenplay by Bryan Forbes to the 1964 film of the same name. The work, Schwartz's first opera after a string of Broadway musicals (Godspell, Pippin, Wicked), premiered on 26 September 2009 at the Granada Theatre of Opera Santa Barbara which commissioned the work. The work lasts for about 2 hours 50 minutes.",
-        "source_url": "https://en.wikipedia.org/wiki/S%C3%A9ance_on_a_Wet_Afternoon_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "sherwoodstock": {
       "slug": "sherwoodstock",
       "title": "SherWoodstock",
@@ -1227,107 +589,6 @@
         "modified": false
       }
     },
-    "szenen-aus-dem-leben-der-heiligen-johanna": {
-      "slug": "szenen-aus-dem-leben-der-heiligen-johanna",
-      "title": "Szenen aus dem Leben der Heiligen Johanna",
-      "qid": "Q7664576",
-      "enwiki": "Szenen aus dem Leben der Heiligen Johanna",
-      "composers": [
-        {
-          "name": "Walter Braunfels",
-          "qid": "Q703469"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Walter Braunfels",
-          "qid": "Q703469"
-        }
-      ],
-      "premiere": {
-        "date": "2001-08-31",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Szenen_aus_dem_Leben_der_Heiligen_Johanna",
-        "wikidata": "https://www.wikidata.org/wiki/Q7664576"
-      },
-      "summary": {
-        "text": "Szenen aus dem Leben der Heiligen Johanna (Jeanne D'Arc) is an opera in three acts by Walter Braunfels to a libretto by the composer.",
-        "source_url": "https://en.wikipedia.org/wiki/Szenen_aus_dem_Leben_der_Heiligen_Johanna",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "tale-of-the-moon-cuckoo": {
-      "slug": "tale-of-the-moon-cuckoo",
-      "title": "Tale of the Moon Cuckoo",
-      "qid": "Q123399351",
-      "enwiki": "Tale of the Moon Cuckoo",
-      "composers": [
-        {
-          "name": "Dulduityn Danzanravjaa",
-          "qid": "Q1264761"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Tale_of_the_Moon_Cuckoo",
-        "wikidata": "https://www.wikidata.org/wiki/Q123399351"
-      },
-      "summary": {
-        "text": "The Tale of the Moon Cuckoo (Mongolian: Saran kökögen-ü namtar) is a traditional Mongolian opera by the composer, writer, and incarnate lama Dulduityn Danzanravjaa, composed between 1831 and 1832 and first performed in 1833. It tells the story of a prince who is tricked into being a cuckoo by a manipulative companion, who then impersonates the prince and causes the decline of their kingdom. \nA significant work of Mongolian theatre, the Tale of the Moon Cuckoo is unrelated to Western opera and was significantly influenced by the Tibetan tradition of lhamo. Danzanravjaa based the opera's story on a 1737 Tibetan work of the same name, and combined Tibetan elements with Chinese costuming and Buddhist philosophical concepts. Performed by at least eighty-seven actors in a specially designed theatre, the  Tale of the Moon Cuckoo lasted for a month and was interspersed with unrelated comedic or educational  pieces. It was performed for many years after Danzanravjaa's death in 1856 until the Communist purges in the 1930s.",
-        "source_url": "https://en.wikipedia.org/wiki/Tale_of_the_Moon_Cuckoo",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "temistocle-j-c-bach": {
-      "slug": "temistocle-j-c-bach",
-      "title": "Temistocle",
-      "qid": "Q1618696",
-      "enwiki": "Temistocle (J.C. Bach)",
-      "composers": [
-        {
-          "name": "Johann Christian Bach",
-          "qid": "Q106641"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Mattia Verazi",
-          "qid": "Q27978776"
-        },
-        {
-          "name": "Pietro Metastasio",
-          "qid": "Q29473"
-        }
-      ],
-      "premiere": {
-        "date": "1772-11-05",
-        "venue": "Mannheim"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Temistocle_(J.C._Bach)",
-        "wikidata": "https://www.wikidata.org/wiki/Q1618696"
-      },
-      "summary": {
-        "text": "Temistocle (Themistocles) is an opera seria in three acts by the German composer Johann Christian Bach. The Italian text is an extensive revision of the libretto by Metastasio first set by Antonio Caldara in 1736, by Mattia Verazi, court poet and private secretary to the Elector Palatine Carl Theodor. The opera was the first of two which J. C. Bach set for the Elector Palatine. Some of the music was reused from earlier works, including part of the overture from Carattaco (composed in London in 1767).",
-        "source_url": "https://en.wikipedia.org/wiki/Temistocle_(J.C._Bach)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "that-ll-be-the-day": {
       "slug": "that-ll-be-the-day",
       "title": "That'll Be the Day",
@@ -1348,76 +609,6 @@
       "summary": {
         "text": "That'll Be the Day (abbreviated as TBTD) is a touring rock 'n' roll variety show playing theatres and concert halls throughout the United Kingdom. That'll Be the Day was first performed in 1986 and spuriously claims to be the longest running rock 'n' roll show in the UK. Since its creation, That'll Be the Day has been written, directed and produced by Trevor Payne, who also performs in the show.",
         "source_url": "https://en.wikipedia.org/wiki/That'll_Be_the_Day_(musical)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "the-consolations-of-scholarship": {
-      "slug": "the-consolations-of-scholarship",
-      "title": "The Consolations of Scholarship",
-      "qid": "Q20874766",
-      "enwiki": "The Consolations of Scholarship",
-      "composers": [
-        {
-          "name": "Judith Weir",
-          "qid": "Q2411818"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "1985",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/The_Consolations_of_Scholarship",
-        "wikidata": "https://www.wikidata.org/wiki/Q20874766"
-      },
-      "summary": {
-        "text": "The Consolations of Scholarship is an opera by Judith Weir with a libretto by the composer.\nThe Consolations of Scholarship is based closely on the Yuan dramas The Orphan of Chao (by Chi Chun-hsiang) and the anonymous A Stratagem of Interlocking Rings.\nDescribed as a 'music drama' for soprano and nine instruments, \"a Yuan dynasty tale unfolds (this piece is the embryo for A Night at the Chinese Opera with which it shares both narrative and musical material) through plain narration and philosophical discourse\".\nThe work was composed for the Lontano Ensemble; the premiere took place at University of Durham in 1985 with Linda Hirst, mezzo-soprano, and Lontano directed by Odaline de la Martinez.",
-        "source_url": "https://en.wikipedia.org/wiki/The_Consolations_of_Scholarship",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "the-land-of-smiles": {
-      "slug": "the-land-of-smiles",
-      "title": "The Land of Smiles",
-      "qid": "Q53712",
-      "enwiki": "The Land of Smiles",
-      "composers": [
-        {
-          "name": "Franz Lehár",
-          "qid": "Q191917",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5647"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Fritz Löhner-Beda",
-          "qid": "Q114336",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/118569"
-        },
-        {
-          "name": "Ludwig Herzer",
-          "qid": "Q88934",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7435"
-        }
-      ],
-      "premiere": {
-        "date": "1929-10-10",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/The_Land_of_Smiles",
-        "wikidata": "https://www.wikidata.org/wiki/Q53712"
-      },
-      "summary": {
-        "text": "The Land of Smiles (German: Das Land des Lächelns) is a 1929 romantic operetta in three acts by Franz Lehár. The German language libretto was by Ludwig Herzer and Fritz Löhner-Beda. The performance duration is about 100 minutes.\nThis was one of Lehár's later works, and has a bittersweet ending which the Viennese loved. The title refers to the supposed Chinese custom of smiling, whatever happens in life. The leading character, Prince Sou-Chong, has a song early in the show, \"Immer nur lächeln\" (\"Always smiling\") which describes this.",
-        "source_url": "https://en.wikipedia.org/wiki/The_Land_of_Smiles",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -1512,35 +703,6 @@
         "modified": false
       }
     },
-    "the-peasant-girl": {
-      "slug": "the-peasant-girl",
-      "title": "The Peasant Girl",
-      "qid": "Q137421822",
-      "enwiki": "The Peasant Girl",
-      "composers": [
-        {
-          "name": "Oskar Nedbal",
-          "qid": "Q920997"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/The_Peasant_Girl",
-        "wikidata": "https://www.wikidata.org/wiki/Q137421822"
-      },
-      "summary": {
-        "text": "The Peasant Girl is an operetta in three acts with music by Oskar Nedbal. The work is an English-language adaptation of Nedbal's German-language operetta Polenblut which was in turn adapted from Alexander Pushkin's short story \"Mistress into Maid\" (also known as \"The Squire's Daughter) from The Belkin Tales by librettist Leo Stein. Edgar Smith wrote the book to this adaptation and new lyrics were co-written by Herbert Reynolds and Harold Atteridge. Some new music was also included by composers Rudolf Friml and Clifton Crawford. Crawford also provided some additional lyrics in addition to starring in the show as Bronio Von Popiel opposite soprano Emma Trentini in the title role. The operetta was originally titled The Ballet Girl, but at the request of Trentini, it was renamed The Peasant Girl shortly before its premiere in 1914. \nBecause of World War I, Smith purposefully removed the original setting of Polenblut and positioned the work in an unnamed country in Europe sometime during the 19th century so as to remove the audience from associations with the ongoing conflict overseas. The story was also largely changed in order to feature Trentini's gift for comedy.",
-        "source_url": "https://en.wikipedia.org/wiki/The_Peasant_Girl",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "the-young-messiah": {
       "slug": "the-young-messiah",
       "title": "The Young Messiah",
@@ -1595,60 +757,6 @@
         "modified": false
       }
     },
-    "triptych": {
-      "slug": "triptych",
-      "title": "Triptych",
-      "qid": "Q16958200",
-      "enwiki": "Triptych (ballet)",
-      "composers": [
-        {
-          "name": "Béla Bartók",
-          "qid": "Q83326",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11353"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Triptych_(ballet)",
-        "wikidata": "https://www.wikidata.org/wiki/Q16958200"
-      },
-      "summary": {
-        "text": "Triptych (Strings Percussion Celesta) is a ballet made by Christopher d'Amboise to Bartók's Music for Strings, Percussion and Celesta, as part of New York City Ballet's Diamond Project. The premiere took place on Wednesday, 7 June 2000 at the New York State Theater, Lincoln Center.",
-        "source_url": "https://en.wikipedia.org/wiki/Triptych_(ballet)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "troubled-island": {
-      "slug": "troubled-island",
-      "title": "Troubled Island",
-      "qid": "Q7846484",
-      "enwiki": "Troubled Island",
-      "composers": [],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": "New York City Opera"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Troubled_Island",
-        "wikidata": "https://www.wikidata.org/wiki/Q7846484"
-      },
-      "summary": {
-        "text": "Troubled Island is an American opera in three acts composed by William Grant Still, with a libretto begun by poet Langston Hughes and completed by Verna Arvey. She married the composer following their collaboration.\nSet in Haiti in 1791, Troubled Island portrays Jean Jacques Dessalines (1758–1806) and the Haitian Revolution.  He declared himself as emperor of an independent Haiti but was assassinated by opponents. The opera premiered at the New York City Opera on March 31, 1949, notably making it the first grand opera composed by an African American to be produced by a major company. It was also the first time the New York City Opera produced an American opera.",
-        "source_url": "https://en.wikipedia.org/wiki/Troubled_Island",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "victory-canteen": {
       "slug": "victory-canteen",
       "title": "Victory Canteen",
@@ -1690,15 +798,16 @@
         "modified": false
       }
     },
-    "wild-swans": {
-      "slug": "wild-swans",
-      "title": "Wild Swans",
-      "qid": "Q8000817",
-      "enwiki": "Wild Swans (ballet)",
+    "violet": {
+      "slug": "violet",
+      "title": "Violet",
+      "qid": "Q7933209",
+      "enwiki": "Violet (musical)",
       "composers": [
         {
-          "name": "Elena Kats-Chernin",
-          "qid": "Q273213"
+          "name": "Jeanine Tesori",
+          "qid": "Q16194364",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12488"
         }
       ],
       "lyricists": [],
@@ -1709,41 +818,13 @@
       },
       "awards": [],
       "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Wild_Swans_(ballet)",
-        "wikidata": "https://www.wikidata.org/wiki/Q8000817"
+        "ibdb": "https://www.ibdb.com/broadway-show/495829",
+        "wikipedia": "https://en.wikipedia.org/wiki/Violet_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7933209"
       },
       "summary": {
-        "text": "Wild Swans is a 2003 ballet by Meryl Tankard with score by Australian composer Elena Kats-Chernin.",
-        "source_url": "https://en.wikipedia.org/wiki/Wild_Swans_(ballet)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "x-ray": {
-      "slug": "x-ray",
-      "title": "X-Ray",
-      "qid": "Q8041512",
-      "enwiki": "X-Ray (ballet)",
-      "composers": [
-        {
-          "name": "John Adams",
-          "qid": "Q84114"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "1994-11-22",
-        "venue": "David H. Koch Theater"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/X-Ray_(ballet)",
-        "wikidata": "https://www.wikidata.org/wiki/Q8041512"
-      },
-      "summary": {
-        "text": "X–Ray is a ballet made by New York City Ballet balletmaster in chief Peter Martins to John Adams' 1994 Violin Concerto, commissioned jointly by the Minnesota Orchestra and City Ballet. The ballet premiere took place Tuesday, November 22, 1994, at the New York State Theater, Lincoln Center; since June 1995 it has been performed as the third movement of Martins' Adams Violin Concerto ballet.",
-        "source_url": "https://en.wikipedia.org/wiki/X-Ray_(ballet)",
+        "text": "Violet is a musical with music by Jeanine Tesori and libretto by Brian Crawley based on the short story \"The Ugliest Pilgrim\" by Doris Betts. It tells the story of a young disfigured woman who embarks on a journey by bus from her farm in Spruce Pine, North Carolina, all the way to Tulsa, Oklahoma in order to be healed.  The musical premiered Off-Broadway in 1997 and won the Drama Critics' Circle Award and Lucille Lortel Award as Best Musical.",
+        "source_url": "https://en.wikipedia.org/wiki/Violet_(musical)",
         "license": "CC BY-SA 4.0",
         "modified": false
       }

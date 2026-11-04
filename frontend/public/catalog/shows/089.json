@@ -1,4 +1,5 @@
 {
+  "live": true,
   "shows": {
     "a-joyful-noise": {
       "slug": "a-joyful-noise",
@@ -49,111 +50,6 @@
       "summary": {
         "text": "A Joyful Noise is a musical with a script by Edward Padula and music and lyrics by Oscar Brand and Paul Nassau.  The 1966 Broadway production was a flop but introduced choreographer Michael Bennett in his Broadway debut.\nBased on Mississippi author Borden Deal's 1959 novel The Insolent Breed, the story centers on Shade Motley, a fiddler who arrives in a small Southern town and shocks the stern community with his exuberant love of hillbilly music and life in general.",
         "source_url": "https://en.wikipedia.org/wiki/A_Joyful_Noise",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "alessandro": {
-      "slug": "alessandro",
-      "title": "Alessandro",
-      "qid": "Q2143584",
-      "enwiki": "Alessandro (opera)",
-      "composers": [
-        {
-          "name": "George Frideric Handel",
-          "qid": "Q7302",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/89505"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Paolo Antonio Rolli",
-          "qid": "Q726893"
-        }
-      ],
-      "premiere": {
-        "date": "1726-05-05",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Alessandro_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q2143584"
-      },
-      "summary": {
-        "text": "Alessandro (HWV 21) is an opera composed by George Frideric Handel in 1726 for the Royal Academy of Music. Paolo Rolli's libretto is based on the story of Ortensio Mauro's La superbia d'Alessandro. This was the first time the famous singers Faustina Bordoni and Francesca Cuzzoni appeared together in one of Handel's operas. The original cast also included Francesco Bernardi who was known as Senesino.\nHandel had originally planned Alessandro to be his first contribution to the 1725/1726 season of the Royal Academy. Bordoni did not arrive in London in time to stage it, so Handel substituted his own Scipione in March and April 1726 until her arrival. The opera received its first performance on 5 May 1726 at the King's Theatre, London, and was received \"with great applause\".\nThe story recounts Alexander the Great's journey to India and depicts him less in a heroic vein than as vainglorious as well as indecisive in matters of the heart. The work's charm and lightness of touch make it at times almost a comic work. Handel would later revisit the subject of Alexander in his 1736 English-language ode, Alexander's Feast.",
-        "source_url": "https://en.wikipedia.org/wiki/Alessandro_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "ariane-et-bacchus": {
-      "slug": "ariane-et-bacchus",
-      "title": "Ariane et Bacchus",
-      "qid": "Q16833642",
-      "enwiki": "Ariane et Bacchus",
-      "composers": [
-        {
-          "name": "Marin Marais",
-          "qid": "Q213519"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Ariane_et_Bacchus",
-        "wikidata": "https://www.wikidata.org/wiki/Q16833642"
-      },
-      "summary": {
-        "text": "Ariane et Bacchus (Ariadne and Bacchus) is an opera by Marin Marais first performed at the Académie Royale de Musique (the Paris Opera) on 8 March 1696. It takes the form of a tragédie en musique in five acts and a prologue. The libretto by Saint-Jean is based on Ovid's Metamorphoses and deals with the legend of Ariadne.",
-        "source_url": "https://en.wikipedia.org/wiki/Ariane_et_Bacchus",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "baron-trenck": {
-      "slug": "baron-trenck",
-      "title": "Baron Trenck",
-      "qid": "Q96373169",
-      "enwiki": "Baron Trenck",
-      "composers": [
-        {
-          "name": "Srećko Albini",
-          "qid": "Q12642613",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11298"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Robert Bodanzky",
-          "qid": "Q326252",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4573"
-        },
-        {
-          "name": "Alfred Maria Willner",
-          "qid": "Q85482",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9206"
-        }
-      ],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Baron_Trenck",
-        "wikidata": "https://www.wikidata.org/wiki/Q96373169"
-      },
-      "summary": {
-        "text": "Baron Trenck is a comic opera in three acts loosely based on the life of Baron Franz von der Trenck. The original German-language work was composed by Felix Albini to a libretto by Alfred Maria Willner and Robert Bodanzky and premiered at the  Stadttheater in Leipzig in 1908. The English version, adapted by Frederick Franklin Schrader and Henry Blossom, ran for just 43 performances at the Strand Theatre in London in 1911. It starred Walter Passmore, Walter Hyde and Caroline Hatchard.",
-        "source_url": "https://en.wikipedia.org/wiki/Baron_Trenck",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -254,84 +150,6 @@
         "modified": false
       }
     },
-    "boccaccio": {
-      "slug": "boccaccio",
-      "title": "Boccaccio",
-      "qid": "Q888981",
-      "enwiki": "Boccaccio (operetta)",
-      "composers": [
-        {
-          "name": "Franz von Suppè",
-          "qid": "Q310431",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5649"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Camillo Walzel",
-          "qid": "Q326540",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/409638"
-        },
-        {
-          "name": "Richard Genée",
-          "qid": "Q694654",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/409639"
-        }
-      ],
-      "premiere": {
-        "date": "1879-02-01",
-        "venue": "Carltheater"
-      },
-      "awards": [],
-      "links": {
-        "ibdb": "https://www.ibdb.com/broadway-show/2130",
-        "wikipedia": "https://en.wikipedia.org/wiki/Boccaccio_(operetta)",
-        "wikidata": "https://www.wikidata.org/wiki/Q888981"
-      },
-      "summary": {
-        "text": "Boccaccio, oder Der Prinz von Palermo (Boccaccio, or the Prince of Palermo) is an operetta in three acts by Franz von Suppé to a German libretto by Camillo Walzel and Richard Genée, based on the play by Jean-François Bayard, Adolphe de Leuven, Léon Lévy Brunswick and Arthur de Beauplan, based in turn on The Decameron by Giovanni Boccaccio. Despite the opera's clear links to the Viennese opera tradition, Suppé's opera takes most of its style from Italian opera.\nThe opera was begun somewhere around the fall of 1878 and first published in 1879 by the August Cranz company and performed at the Carltheater, Vienna, on 1 February 1879. An English translation and adaptation was completed in 1880 by Dexter Smith and later by Oscar Weil and Gustav Hinrichs around 1883. The first contemporary edit of the work occurred in 1950 for the premiere of the work at the Metropolitan Opera in New York City, with several more iterations occurring through the 20th century.\nIn 1940, Boccaccio was made into a film by American-born Italian film director Marcello Albani.",
-        "source_url": "https://en.wikipedia.org/wiki/Boccaccio_(operetta)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "boris-godunov": {
-      "slug": "boris-godunov",
-      "title": "Boris Godunov",
-      "qid": "Q386846",
-      "enwiki": "Boris Godunov (opera)",
-      "composers": [
-        {
-          "name": "Modest Petrovich Mussorgsky",
-          "qid": "Q132682",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/480522"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Modest Petrovich Mussorgsky",
-          "qid": "Q132682",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/480522"
-        }
-      ],
-      "premiere": {
-        "date": "1874-02-08",
-        "venue": "Mariinsky Theatre"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Boris_Godunov_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q386846"
-      },
-      "summary": {
-        "text": "Boris Godunov (Russian: Борис Годунов, romanized: Borís Godunóv ) is an opera by Modest Mussorgsky (1839–1881). The work was composed between 1868 and 1873 in Saint Petersburg, Russia. It is Mussorgsky's only completed opera and is considered his masterpiece. Its subjects are the Russian ruler Boris Godunov, who reigned as Tsar (1598 to 1605) during the Time of Troubles, and his nemesis, the False Dmitriy (reigned 1605 to 1606). The Russian-language libretto was written by the composer, and is based on the 1825 drama Boris Godunov by Aleksandr Pushkin, and, in the Revised Version of 1872, on Nikolay Karamzin's History of the Russian State.\nAmong major operas, Boris Godunov shares with Giuseppe Verdi's Don Carlos (1867) the distinction of having an extremely complex creative history, as well as a great wealth of alternative material. The composer created two versions—the Original Version of 1869, which was rejected for production by the Imperial Theatres, and the Revised Version of 1872, which received its first performance in 1874 in Saint Petersburg.\nBoris Godunov has often been subjected to cuts, recomposition, re-orchestration, transposition of scenes, or conflation of the original and revised versions.\nSeveral composers, chief among them Nikolay Rimsky-Korsakov and Dmitri Shostakovich, have created new editions of the opera to \"correct\" perceived technical weaknesses in the composer's original scores. Although these versions held the stage for decades, Mussorgsky's individual harmonic style and orchestration are now valued for their originality, and revisions by other hands have fallen out of fashion.\nIn the 1980s, Boris Godunov was closer to the status of a repertory piece than any other Russian opera, even Tchaikovsky's Eugene Onegin, and is the most recorded Russian opera.",
-        "source_url": "https://en.wikipedia.org/wiki/Boris_Godunov_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "bugs-bunny-on-broadway": {
       "slug": "bugs-bunny-on-broadway",
       "title": "Bugs Bunny on Broadway",
@@ -424,66 +242,44 @@
         "modified": false
       }
     },
-    "cephale-et-procris-jacquet-de-la-guerre": {
-      "slug": "cephale-et-procris-jacquet-de-la-guerre",
-      "title": "Céphale et Procris",
-      "qid": "Q5202485",
-      "enwiki": "Céphale et Procris (Jacquet de La Guerre)",
+    "cyrano-de-bergerac": {
+      "slug": "cyrano-de-bergerac",
+      "title": "Cyrano de Bergerac",
+      "qid": "Q5200580",
+      "enwiki": "Cyrano de Bergerac (musical)",
       "composers": [
         {
-          "name": "Élisabeth Jacquet de La Guerre",
-          "qid": "Q57704"
+          "name": "Frank Wildhorn",
+          "qid": "Q1444457",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5638"
         }
       ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "1694-03-15",
-        "venue": "Paris Opera"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/C%C3%A9phale_et_Procris_(Jacquet_de_La_Guerre)",
-        "wikidata": "https://www.wikidata.org/wiki/Q5202485"
-      },
-      "summary": {
-        "text": "Céphale et Procris (Cephalus and Procris) is an opera by the French composer Élisabeth Jacquet de La Guerre. It takes the form of a tragédie en musique in five acts with an allegorical prologue. The libretto, by Joseph-François Duché de Vancy, is loosely based on the myth of Cephalus and Procris as told in Ovid's Metamorphoses. The opera was first performed by the Paris Opera at the Théâtre du Palais-Royal on 17 March 1694.\nUnsurprisingly, the music shows the influence of Jean-Baptiste Lully, the founder of the French genre of tragédie en musique, who had died less than a decade before. But Jacquet de La Guerre added original touches of her own to the Lullian formula, such as a quiet conclusion in place of the expected final chorus.",
-        "source_url": "https://en.wikipedia.org/wiki/C%C3%A9phale_et_Procris_(Jacquet_de_La_Guerre)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "dimitrij": {
-      "slug": "dimitrij",
-      "title": "Dimitrij",
-      "qid": "Q5277544",
-      "enwiki": "Dimitrij (opera)",
-      "composers": [
+      "lyricists": [
         {
-          "name": "Antonín Dvořák",
-          "qid": "Q7298",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/447817"
+          "name": "Leslie Bricusse",
+          "qid": "Q1305608",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11429"
         }
       ],
-      "lyricists": [],
       "librettists": [
         {
-          "name": "Marie Červinková-Riegrová",
-          "qid": "Q7940790"
+          "name": "Leslie Bricusse",
+          "qid": "Q1305608",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11429"
         }
       ],
       "premiere": {
-        "date": "1882",
+        "date": null,
         "venue": null
       },
       "awards": [],
       "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Dimitrij_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q5277544"
+        "wikipedia": "https://en.wikipedia.org/wiki/Cyrano_de_Bergerac_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5200580"
       },
       "summary": {
-        "text": "Dimitrij is a Czech-language grand opera in four acts by Antonín Dvořák (Op. 64, B. 127), set to a libretto by Marie Červinková-Riegrová, with a plot derived from Ferdinand Mikovec's Dimitr Ivanovič, itself based upon Friedrich Schiller's incomplete Demetrius. The work was first performed in Prague in 1882.",
-        "source_url": "https://en.wikipedia.org/wiki/Dimitrij_(opera)",
+        "text": "Cyrano de Bergerac is a musical with a book and lyrics by Leslie Bricusse and music by Frank Wildhorn. It is based on the 1897 play of the same title by Edmond Rostand.",
+        "source_url": "https://en.wikipedia.org/wiki/Cyrano_de_Bergerac_(musical)",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -796,107 +592,6 @@
         "modified": false
       }
     },
-    "graf-cagliostro": {
-      "slug": "graf-cagliostro",
-      "title": "Graf Cagliostro",
-      "qid": "Q5592435",
-      "enwiki": "Graf Cagliostro",
-      "composers": [
-        {
-          "name": "Mikael Tariverdiev",
-          "qid": "Q724254"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Nikolai Kemarski",
-          "qid": "Q95897300"
-        }
-      ],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Graf_Cagliostro",
-        "wikidata": "https://www.wikidata.org/wiki/Q5592435"
-      },
-      "summary": {
-        "text": "Graf Cagliostro ('Count Cagliostro') is a comic opera in two acts by Mikael Tariverdiev, written in 1981 to a libretto by Nikolai Kemarsky, after the tale of the same name by Alexei Nikolayevich Tolstoy.\nTolstoy's novella, based on the quack Cagliostro, was updated by composer and librettist so that it impinges on the modern world, (and uses modern musical style). Tariverdiev wrote:\n\nIn writing 'Graf Cagliostro' I wanted to create a brand new genre of comic opera. I decided to return to the standard voices and traditional forms of opera buffa, with arias, secco recitative, developed in lively acts - but, of course, in a contemporary way.",
-        "source_url": "https://en.wikipedia.org/wiki/Graf_Cagliostro",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "gunther-von-schwarzburg": {
-      "slug": "gunther-von-schwarzburg",
-      "title": "Günther von Schwarzburg",
-      "qid": "Q5627098",
-      "enwiki": "Günther von Schwarzburg (opera)",
-      "composers": [
-        {
-          "name": "Ignaz Holzbauer",
-          "qid": "Q697238"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "1777-01-05",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/G%C3%BCnther_von_Schwarzburg_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q5627098"
-      },
-      "summary": {
-        "text": "Günther von Schwarzburg is a Singspiel in three acts by Ignaz Holzbauer set to a German libretto by Anton Klein. Loosely based on events in the life of the 14th-century German king, Günther von Schwarzburg, the opera premiered on 5 January 1777 at the Hoftheater in the Mannheim Palace.",
-        "source_url": "https://en.wikipedia.org/wiki/G%C3%BCnther_von_Schwarzburg_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "hary-janos": {
-      "slug": "hary-janos",
-      "title": "Háry János",
-      "qid": "Q277044",
-      "enwiki": "Háry János",
-      "composers": [
-        {
-          "name": "Zoltán Kodály",
-          "qid": "Q153008"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Béla Paulini",
-          "qid": "Q1231495"
-        },
-        {
-          "name": "Zsolt Harsányi",
-          "qid": "Q227349"
-        }
-      ],
-      "premiere": {
-        "date": "1926-10-16",
-        "venue": "Hungarian State Opera House"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/H%C3%A1ry_J%C3%A1nos",
-        "wikidata": "https://www.wikidata.org/wiki/Q277044"
-      },
-      "summary": {
-        "text": "Háry János is a Hungarian folk opera in four acts by Zoltán Kodály with a libretto by Béla Paulini and Zsolt Harsányi. The opera is in the Singspiel style. The libretto is based on János Garay's comic poem \"The Veteran\" (Az obsitos) about a drunkard named Háry János. The subtitle of the piece is Háry János Kalandozásai Nagyabonytul a Burgváráig – Háry János: his Adventures from Nagyabony (Great Abony) to the Vienna Burg.\nThe première was at the Royal Hungarian Opera House in Budapest on 16 October 1926, conducted by Nándor Rékai. The UK stage première was at the Buxton Festival in 1982 conducted by Anthony Hose, with Alan Opie in the title role.",
-        "source_url": "https://en.wikipedia.org/wiki/H%C3%A1ry_J%C3%A1nos",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "hero": {
       "slug": "hero",
       "title": "Hero",
@@ -936,51 +631,6 @@
         "modified": false
       }
     },
-    "his-majesty": {
-      "slug": "his-majesty",
-      "title": "His Majesty",
-      "qid": "Q5772108",
-      "enwiki": "His Majesty (opera)",
-      "composers": [
-        {
-          "name": "Alexander Mackenzie",
-          "qid": "Q674739"
-        }
-      ],
-      "lyricists": [
-        {
-          "name": "Adrian Ross",
-          "qid": "Q3605637",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13251"
-        },
-        {
-          "name": "R. C. Lehmann",
-          "qid": "Q7273520"
-        }
-      ],
-      "librettists": [
-        {
-          "name": "F. C. Burnand",
-          "qid": "Q5217819",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5489"
-        }
-      ],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/His_Majesty_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q5772108"
-      },
-      "summary": {
-        "text": "His Majesty, or, The Court of Vingolia is an English comic opera in two acts with dialogue by F. C. Burnand, lyrics by R. C. Lehmann, additional lyrics by Adrian Ross and music by Alexander Mackenzie.  \nThe work premiered at the Savoy Theatre in London on 20 February 1897, running for only 61 performances until 24 April 1897, despite a strong cast including George Grossmith, Ilka Pálmay, Scott Russell, Fred Billington, Florence Perry and Walter Passmore.  The D'Oyly Carte Opera Company then toured the opera throughout 1897 alongside more familiar Gilbert and Sullivan works.",
-        "source_url": "https://en.wikipedia.org/wiki/His_Majesty_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "in-dreams": {
       "slug": "in-dreams",
       "title": "In Dreams",
@@ -1001,35 +651,6 @@
       "summary": {
         "text": "In Dreams is a jukebox musical with a book by David West Read and featuring the songs of Roy Orbison. The musical uses the songs of Orbison to tell a modern-day story about Kenna, the former lead singer of a country rock band, who reconnects with her old friends at a family-run Mexican restaurant.",
         "source_url": "https://en.wikipedia.org/wiki/In_Dreams_(musical)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "ives-songs": {
-      "slug": "ives-songs",
-      "title": "Ives, Songs",
-      "qid": "Q6098760",
-      "enwiki": "Ives, Songs",
-      "composers": [
-        {
-          "name": "Charles Ives",
-          "qid": "Q309648"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Ives%2C_Songs",
-        "wikidata": "https://www.wikidata.org/wiki/Q6098760"
-      },
-      "summary": {
-        "text": "Ives, Songs is a ballet made by New York City Ballet ballet master Jerome Robbins to songs of Charles Ives:\n\nThe premiere took place on February 4, 1988 at the New York State Theater, Lincoln Center, with scenery by David Mitchell, costumes by Florence Klotz and lighting by Jennifer Tipton. The singer was Timothy Nolen and the pianist Gordon Boelzner. Other works to the music of Ives in the City Ballet  repertory include Peter Martins' Calcium Light Night, George Balanchine's Ivesiana and Eliot Feld's The Unanswered Question.",
-        "source_url": "https://en.wikipedia.org/wiki/Ives%2C_Songs",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -1056,163 +677,6 @@
       "summary": {
         "text": "KPOP is a Broadway musical with a book by Jason Kim and music and lyrics by Helen Park and Max Vernon. The musical originally premiered off-Broadway at Ars Nova in Manhattan in September 2017. The Broadway production premiered on November 20, 2022, and featured several K-pop idols in the cast, including Luna, Kevin Woo, Kim Bo-hyung, and Min. Despite the show's early closure in December 2022, the production received three nominations at the 76th Tony Awards.",
         "source_url": "https://en.wikipedia.org/wiki/KPOP_(musical)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "la-caverne-mehul": {
-      "slug": "la-caverne-mehul",
-      "title": "La caverne",
-      "qid": "Q23405626",
-      "enwiki": "La caverne (Méhul)",
-      "composers": [
-        {
-          "name": "Étienne Méhul",
-          "qid": "Q364020"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Nicolas-Julien Forgeot",
-          "qid": "Q3339980"
-        }
-      ],
-      "premiere": {
-        "date": "1795-12-05",
-        "venue": "Salle Favart I"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/La_caverne_(M%C3%A9hul)",
-        "wikidata": "https://www.wikidata.org/wiki/Q23405626"
-      },
-      "summary": {
-        "text": "La caverne (The Cavern) is an opera by the French composer Étienne Méhul. It takes the form of a comédie en prose in three acts. It premiered at the Opéra-Comique, Paris on 5 December 1795. The libretto, by Nicolas-Julien Forgeot, is based on incidents from the novel Gil Blas by Alain-René Lesage.\nMéhul's opera enjoyed only limited success, with 22 performances. Arthur Pougin ascribes this to the competition from Le Sueur's opera of the same title, based on the same events from Gil Blas, first staged at the Théâtre Feydeau in February 1793. Le Sueur's La caverne was one of the most popular works of the 1790s. With such a rival, Pougin writes, \"failure was almost certain\" for Méhul's work, despite the excellence of the cast.",
-        "source_url": "https://en.wikipedia.org/wiki/La_caverne_(M%C3%A9hul)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "la-maison-du-docteur": {
-      "slug": "la-maison-du-docteur",
-      "title": "La maison du docteur",
-      "qid": "Q6466230",
-      "enwiki": "La maison du docteur",
-      "composers": [
-        {
-          "name": "Georges Bizet",
-          "qid": "Q56158",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5874"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": "1855",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/La_maison_du_docteur",
-        "wikidata": "https://www.wikidata.org/wiki/Q6466230"
-      },
-      "summary": {
-        "text": "La maison du docteur is an opéra comique in one act by Georges Bizet with a French libretto by Henry Boisseaux. Some music scholars assert that the opera was composed in 1852 while others believe that it was written in 1855. Either way the composition is the first opera written by Bizet. La maison du docteur has never been performed and while the music does survive in piano score only, the work has never been published.\nAn orchestration of the piano score was performed on 9 February 2012 by the Orchestre de la Bastille at the Auditorium St. Germain in Paris.",
-        "source_url": "https://en.wikipedia.org/wiki/La_maison_du_docteur",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "la-poupee-de-nuremberg": {
-      "slug": "la-poupee-de-nuremberg",
-      "title": "La poupée de Nuremberg",
-      "qid": "Q470612",
-      "enwiki": "La poupée de Nuremberg",
-      "composers": [
-        {
-          "name": "Adolphe Adam",
-          "qid": "Q189544",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/111079"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Adolphe de Leuven",
-          "qid": "Q2087458"
-        }
-      ],
-      "premiere": {
-        "date": "1852-03-19",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/La_poup%C3%A9e_de_Nuremberg",
-        "wikidata": "https://www.wikidata.org/wiki/Q470612"
-      },
-      "summary": {
-        "text": "La poupée de Nuremberg (English: The Nuremberg Doll) is a one-act opéra comique by Adolphe Adam to a libretto by Adolphe de Leuven and Arthur de Beauplan. The story is based on E. T. A. Hoffmann’s short story Der Sandmann. The work predates other stage adaptations of Hoffmann's tale, Coppélia and The Tales of Hoffmann.\nIt was first performed in Paris at the Théâtre Lyrique on 21 February 1852. Berlioz described it as \"a whole emporium of waltzes, galops, potpourris… worthy of the Nuremberg fair.\" It was performed nearly one hundred times at the Théâtre Lyrique  over the following 18 years.",
-        "source_url": "https://en.wikipedia.org/wiki/La_poup%C3%A9e_de_Nuremberg",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "lear": {
-      "slug": "lear",
-      "title": "Lear",
-      "qid": "Q948566",
-      "enwiki": "Lear (opera)",
-      "composers": [
-        {
-          "name": "Aribert Reimann",
-          "qid": "Q246758"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Claus H. Henneberg",
-          "qid": "Q1098547"
-        }
-      ],
-      "premiere": {
-        "date": "1978-07-09",
-        "venue": "National Theatre Munich"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Lear_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q948566"
-      },
-      "summary": {
-        "text": "Lear is an opera in two parts with music by the German composer Aribert Reimann, and a libretto by Claus H. Henneberg, based on Shakespeare's tragedy King Lear.",
-        "source_url": "https://en.wikipedia.org/wiki/Lear_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "li-puntigli-delle-donne": {
-      "slug": "li-puntigli-delle-donne",
-      "title": "Li puntigli delle donne",
-      "qid": "Q65084677",
-      "enwiki": "Li puntigli delle donne",
-      "composers": [],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Li_puntigli_delle_donne",
-        "wikidata": "https://www.wikidata.org/wiki/Q65084677"
-      },
-      "summary": {
-        "text": "Li puntigli delle donne is a 1796 opera, a farsetta for six voices, by Gaspare Spontini first performed at Teatro della Pallacorda of the Accademia degli Intrepidi, Florence.",
-        "source_url": "https://en.wikipedia.org/wiki/Li_puntigli_delle_donne",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -1417,93 +881,6 @@
         "modified": false
       }
     },
-    "ritter-blaubart": {
-      "slug": "ritter-blaubart",
-      "title": "Ritter Blaubart",
-      "qid": "Q7336812",
-      "enwiki": "Ritter Blaubart",
-      "composers": [
-        {
-          "name": "Emil von Reznicek",
-          "qid": "Q550639"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": "Darmstadt State Theater"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Ritter_Blaubart",
-        "wikidata": "https://www.wikidata.org/wiki/Q7336812"
-      },
-      "summary": {
-        "text": "Ritter Blaubart (Knight Bluebeard) is a fairy-tale opera (German: Märchenoper) in three acts by the Austrian composer Emil Nikolaus von Reznicek. Herbert Eulenberg wrote the German libretto, based on his own five-act play with the same title, which had been first performed unsuccessfully at the Lessing Theater in Berlin in 1906.",
-        "source_url": "https://en.wikipedia.org/wiki/Ritter_Blaubart",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "salem-shore": {
-      "slug": "salem-shore",
-      "title": "Salem Shore",
-      "qid": "Q23020878",
-      "enwiki": "Salem Shore",
-      "composers": [],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Salem_Shore",
-        "wikidata": "https://www.wikidata.org/wiki/Q23020878"
-      },
-      "summary": {
-        "text": "Salem Shore is a solo modern dance work choreographed by Martha Graham to original music by Paul Nordoff. The piece premiered on December 26, 1943 at the 46th Street Theater in New York City. The ballet featured costumes by Edythe Gilfond and a set by Arch Lauterer. Program notes accompanying the first performance described the dance as \"a ballad of a woman's longing for her beloved's return from the sea.\"",
-        "source_url": "https://en.wikipedia.org/wiki/Salem_Shore",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "satyricon": {
-      "slug": "satyricon",
-      "title": "Satyricon",
-      "qid": "Q3474084",
-      "enwiki": "Satyricon (opera)",
-      "composers": [
-        {
-          "name": "Bruno Maderna",
-          "qid": "Q351383"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Ian Strasfogel",
-          "qid": "Q16514673"
-        }
-      ],
-      "premiere": {
-        "date": "1973-03-16",
-        "venue": "Holland Festival"
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Satyricon_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q3474084"
-      },
-      "summary": {
-        "text": "Satyricon is a chamber opera by Bruno Maderna with a libretto adapted by Ian Strasfogel and the composer from Petronius's Satyricon. It was written during Maderna's last illness in 1973 and premièred as part of the Holland Festival on 16 March 1973, in Scheveningen, Netherlands.\nThe work consists of 16 unordered numbers (with the option of placing taped numbers between them) and the collage effect extends to the music, which relies heavily on pastiche. It is uncertain to what extent this \"open\" form was a product of the composer's inclination to semi-improvisational music theatre, or to the urgency of composition at a time when Maderna's terminal illness was increasingly becoming evident. There are four singers, employing respectively English and German, French, wordless vocalise, and Latin: the host Trimalchio (tenor, doubling as the merchant Habinnas), his wife Fortunata (mezzo-soprano), Criside (soprano), and Eumolpus (bass). At its premiere, the role of Fortunata was created by Débria Brown. It is suggested that tape music may be used between scenes; the 2004 production in Darmstadt included dialogue and a number of additional spoken roles.(",
-        "source_url": "https://en.wikipedia.org/wiki/Satyricon_(opera)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "school-of-rock": {
       "slug": "school-of-rock",
       "title": "School of Rock",
@@ -1549,54 +926,6 @@
         "modified": false
       }
     },
-    "shanewis": {
-      "slug": "shanewis",
-      "title": "Shanewis",
-      "qid": "Q7488346",
-      "enwiki": "Shanewis",
-      "composers": [],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Shanewis",
-        "wikidata": "https://www.wikidata.org/wiki/Q7488346"
-      },
-      "summary": {
-        "text": "Shanewis (or The Robin Woman) (1918) is an opera in one act and two scenes by American composer Charles Wakefield Cadman with an English-language libretto by Nelle Richmond Eberhart. Cadman called the work an \"American opera.\"\nThey collaborated with Tsianina Redfeather Blackstone, a Cherokee/Creek singer, who contributed elements from her life for the contemporary plot related to Native American issues. Blackstone sang the lead role in her opera debut when it was performed in Denver in 1924, and also performed in Los Angeles in 1926.",
-        "source_url": "https://en.wikipedia.org/wiki/Shanewis",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "taking-tiger-mountain-by-strategy": {
-      "slug": "taking-tiger-mountain-by-strategy",
-      "title": "Taking Tiger Mountain by Strategy",
-      "qid": "Q856013",
-      "enwiki": "Taking Tiger Mountain by Strategy",
-      "composers": [],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Taking_Tiger_Mountain_by_Strategy",
-        "wikidata": "https://www.wikidata.org/wiki/Q856013"
-      },
-      "summary": {
-        "text": "Taking Tiger Mountain by Strategy (Chinese: 智取威虎山; pinyin: Zhì Qǔ Wēi Hǔ Shān) is a Beijing opera play and one of the eight model plays allowed during the Chinese Cultural Revolution.  The plot is based on parts of the popular novel Tracks in the Snowy Forest (Chinese: 林海雪原; pinyin: Lín Hǎi Xuě Yuán) by Qu Bo, which in turn, is based on the real-life story of an incident in 1946 during the communist campaign to suppress bandits in northeast China in the Chinese Civil War, involving a PLA reconnaissance soldier Yang Zirong (杨子荣) who disguised himself as a bandit to infiltrate a local gang of bandits, eventually helping the main communist force destroy the bandits. Unlike other characters depicted in the opera and novel, most of the names of both the protagonists and the bandits are real.\nA booklet of Taking Tiger Mountain by Strategy was published in English by the Foreign Languages Press in 1971. Described as \"revised collectively by the Taking Tiger Mountain by Strategy group of the Peking Opera Troupe of Shanghai (1970 script)\", it contains 16 colour photo reproductions, a list of persons in the cast, the script of the ten scenes, and the words and vocal music of nine selected songs. Explanatory notes and sketches about the Chinese percussion instruments played in the orchestra are also included.",
-        "source_url": "https://en.wikipedia.org/wiki/Taking_Tiger_Mountain_by_Strategy",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "the-bing-boys-are-here": {
       "slug": "the-bing-boys-are-here",
       "title": "The Bing Boys Are Here",
@@ -1634,41 +963,6 @@
       "summary": {
         "text": "The Bing Boys Are Here, styled \"A Picture of London Life, in a Prologue and Six Panels,\" is the first of a series of revues which played at the Alhambra Theatre, London during the last two years of World War I. The series included The Bing Boys on Broadway and The Bing Girls Are There. The music for them was written by Nat D. Ayer with lyrics by Clifford Grey, and the text was by George Grossmith, Jr. and Fred Thompson based on Rip and Bousquet's Le Fils Touffe.  Other material was contributed by Eustace Ponsonby, Philip Braham and Ivor Novello.\nThe Bing Boys Are Here opened in 1916 in the West End and ran for 378 performances. It was one of the three most important musical hits of the London stage during World War I (the other two being The Maid of the Mountains and Chu Chin Chow); music or scenes from all of these have been included as background in many films set in this period, and they remain intensely evocative of the \"Great War\" years.  Other hit shows of the period were Theodore & Co (1916), The Happy Day (1916), The Boy (1917), and Yes, Uncle! (1917, also with music and lyrics by Ayer and Grey). Audiences, which included soldiers on leave, wanted light and uplifting entertainment during the war, and these shows delivered it.",
         "source_url": "https://en.wikipedia.org/wiki/The_Bing_Boys_Are_Here",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "the-carp": {
-      "slug": "the-carp",
-      "title": "The Carp",
-      "qid": "Q7721419",
-      "enwiki": "The Carp (opera)",
-      "composers": [
-        {
-          "name": "Alfred Cellier",
-          "qid": "Q2603318",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/422328"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Frank Desprez",
-          "qid": "Q5486216"
-        }
-      ],
-      "premiere": {
-        "date": "1886-02-13",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/The_Carp_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q7721419"
-      },
-      "summary": {
-        "text": "The Carp is a one-act comic opera (styled \"a whimsicality\") with a libretto by Frank Desprez and music by Alfred Cellier.  It was first produced at the Savoy Theatre from 13 February 1886 to 19 January 1887, as a companion piece to The Mikado.  It was then revived as companion to Ruddigore from 21 February 1887 to 5 November 1887.  The piece also toured throughout 1888.\nNo printed libretto or vocal score is found in British Library.  A copy of the libretto is in the Lord Chamberlain's collection.  As the score is lost, modern amateur productions have played the piece with original music.  One such score, composed by Quade Winter, was originally requested in 1998 by the Gilbert and Sullivan Archive for their Web Opera series, and later orchestrated for production by the Ohio Light Opera in 1999.  It was revived in 2011 by Concert Operetta Theater of Philadelphia, Pennsylvania.\nThe fashion in the late Victorian era was to present long evenings in the theatre, and so producer Richard D'Oyly Carte preceded his Savoy operas with curtain raisers such as The Carp.  W. J. MacQueen-Pope commented, concerning such curtain raisers:\n\nThis was a one-act play, seen only by the early comers.  It would play to empty boxes, half-empty upper circle, to a gradually filling stalls and dress circle, but to an attentive, grateful and appreciative pit and gallery.  Often these plays were little gems.  They deserved much better treatment than they got, but those who saw them delighted in them. ...  [They] served to give young actors and actresses a chance to win their spurs ... the stalls and the boxes lost much by missing the curtain-raiser, but to them dinner was more important.",
-        "source_url": "https://en.wikipedia.org/wiki/The_Carp_(opera)",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
@@ -1733,64 +1027,6 @@
         "modified": false
       }
     },
-    "the-lady-in-the-ice": {
-      "slug": "the-lady-in-the-ice",
-      "title": "The Lady in the Ice",
-      "qid": "Q7745179",
-      "enwiki": "The Lady in the Ice",
-      "composers": [],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/The_Lady_in_the_Ice",
-        "wikidata": "https://www.wikidata.org/wiki/Q7745179"
-      },
-      "summary": {
-        "text": "The Lady in the Ice is a 1953 ballet composed by Jean-Michel Damase, choreographed by Roland Petit, and directed by Orson Welles, based on an idea by Welles. Welles also wrote the libretto and was the ballet's costume and set designer. Richard Negri was the assistant designer. It was Welles's only attempt at a ballet.\nThe ballet was staged by the Ballet de Paris, premiering on 7 September 1953 at the Stoll Theatre in London. The cast included Colette Marchand, Georges Reich, and Joe Milan. Later in 1953 the ballet was produced by Petit in Paris, as Une femme dans la glace. Welles discussed the production with Peter Bogdanovich in the book This Is Orson Welles:\n\nIt was very successful in London, and only moderately so in Paris, where it was very badly lit — as everything always is in Paris. The plot is: a girl's been found, like dinosaurs have been found, in a block of ice. And she's on display in a sort of carnival. A young man falls in love with her, and his love melts the ice. And when she kisses him, he turns to ice. A little parable for our times.",
-        "source_url": "https://en.wikipedia.org/wiki/The_Lady_in_the_Ice",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "the-life-and-death-of-alexander-litvinenko": {
-      "slug": "the-life-and-death-of-alexander-litvinenko",
-      "title": "The Life and Death of Alexander Litvinenko",
-      "qid": "Q107740020",
-      "enwiki": "The Life and Death of Alexander Litvinenko",
-      "composers": [
-        {
-          "name": "Anthony Bolton",
-          "qid": "Q4772134"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Kit Hesketh-Harvey",
-          "qid": "Q6417436"
-        }
-      ],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/The_Life_and_Death_of_Alexander_Litvinenko",
-        "wikidata": "https://www.wikidata.org/wiki/Q107740020"
-      },
-      "summary": {
-        "text": "The Life and Death of Alexander Litvinenko is an opera with music by Anthony Bolton to a libretto by Kit Hesketh-Harvey. Written between 2012 and 2020, and based on the experiences and murder of the former FSB officer and political activist Alexander Litvinenko, it was intended for a premiere at Grange Park Opera in 2020, but this was delayed by the COVID-19 epidemic until 2021.",
-        "source_url": "https://en.wikipedia.org/wiki/The_Life_and_Death_of_Alexander_Litvinenko",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "the-little-mermaid": {
       "slug": "the-little-mermaid",
       "title": "The Little Mermaid",
@@ -1834,41 +1070,6 @@
         "modified": false
       }
     },
-    "the-stone-guest": {
-      "slug": "the-stone-guest",
-      "title": "The Stone Guest",
-      "qid": "Q468343",
-      "enwiki": "The Stone Guest (Dargomyzhsky)",
-      "composers": [
-        {
-          "name": "Alexander Dargomyzhsky",
-          "qid": "Q311384"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [
-        {
-          "name": "Alexander Pushkin",
-          "qid": "Q7200",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/100110"
-        }
-      ],
-      "premiere": {
-        "date": "1872-02-16",
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/The_Stone_Guest_(Dargomyzhsky)",
-        "wikidata": "https://www.wikidata.org/wiki/Q468343"
-      },
-      "summary": {
-        "text": "The Stone Guest (Каменный гость in Cyrillic, Kamennyj gost'  in transliteration) is an opera in three acts by Alexander Dargomyzhsky. In what was considered a bold innovation at the time, Dargomyzhsky himself extracted the libretto directly from Alexander Pushkin's 1830 play of the same name, written in blank verse as part of Pushkin's collection Little Tragedies, using the text in its entirety and unchanged.\nIt was first performed at the Mariinsky Theatre, Saint Petersburg, 16 February 1872 (Old Style).\nAccording to the composer's wishes, the last few lines of tableau 1 were composed by César Cui, and the whole was orchestrated by Nikolai Rimsky-Korsakov. Many years later, Rimsky-Korsakov revised his own orchestration of the opera, rewrote a few of Dargomyzhsky's own original passages, and added an orchestral prelude. This version, completed in 1903 and first performed in 1907 at the Bolshoi Theatre, is now considered the standard version.",
-        "source_url": "https://en.wikipedia.org/wiki/The_Stone_Guest_(Dargomyzhsky)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "the-sunshine-club": {
       "slug": "the-sunshine-club",
       "title": "The Sunshine Club",
@@ -1908,30 +1109,6 @@
         "modified": false
       }
     },
-    "the-witches-musical": {
-      "slug": "the-witches-musical",
-      "title": "The Witches",
-      "qid": "Q123291929",
-      "enwiki": "The Witches (musical)",
-      "composers": [],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/The_Witches_(musical)",
-        "wikidata": "https://www.wikidata.org/wiki/Q123291929"
-      },
-      "summary": {
-        "text": "The Witches (or Roald Dahl's The Witches) is a stage musical with book and lyrics by Lucy Kirkwood and music and lyrics by Dave Malloy, based on Roald Dahl's 1983 children's novel of the same name.",
-        "source_url": "https://en.wikipedia.org/wiki/The_Witches_(musical)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
     "this-beautiful-city": {
       "slug": "this-beautiful-city",
       "title": "This Beautiful City",
@@ -1958,60 +1135,6 @@
       "summary": {
         "text": "This Beautiful City is a play with music by the investigative theatre company The Civilians. The play engages with \"the expansion of the Evangelical movement in Colorado Springs\" and the gulf between the Evangelical and secular communities in the region, against the background of the Ted Haggard sex scandal. It was written by Steve Cosson and Jim Lewis from interviews conducted by Associate Artists Emily Ackerman, Marsha Stephanie Blake, Brad Heberlee, Brandon Miller, Stephen Plunkett, and Alison Weller, with music and lyrics by Michael Friedman, and directed by Steve Cosson. The play first opened in March 2008 at the Actors Theatre of Louisville Humana Festival of New American Plays, followed by successful runs at Studio Theatre in Washington, D.C., and the Center Theatre Group in Los Angeles, California. The piece premiered in New York City in the winter of 2009 at the Vineyard Theatre. This Beautiful City was nominated for Drama Desk, Drama League, and Lucille Lortel Awards",
         "source_url": "https://en.wikipedia.org/wiki/This_Beautiful_City_(play)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "three-s-company": {
-      "slug": "three-s-company",
-      "title": "Three's Company",
-      "qid": "Q25208547",
-      "enwiki": "Three's Company (film)",
-      "composers": [],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Three's_Company_(film)",
-        "wikidata": "https://www.wikidata.org/wiki/Q25208547"
-      },
-      "summary": {
-        "text": "Three's Company is a 1958 comic opera by Antony Hopkins broadcast by the Australian Broadcasting Corporation in 1958.  It aired in Sydney on August 13, 1958.",
-        "source_url": "https://en.wikipedia.org/wiki/Three's_Company_(film)",
-        "license": "CC BY-SA 4.0",
-        "modified": false
-      }
-    },
-    "transatlantic": {
-      "slug": "transatlantic",
-      "title": "Transatlantic",
-      "qid": "Q3537386",
-      "enwiki": "Transatlantic (opera)",
-      "composers": [
-        {
-          "name": "George Antheil",
-          "qid": "Q137739",
-          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11315"
-        }
-      ],
-      "lyricists": [],
-      "librettists": [],
-      "premiere": {
-        "date": null,
-        "venue": null
-      },
-      "awards": [],
-      "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/Transatlantic_(opera)",
-        "wikidata": "https://www.wikidata.org/wiki/Q3537386"
-      },
-      "summary": {
-        "text": "Transatlantic (aka The People's Choice) is a Grand Opera in 3 acts by George Antheil written in 1928 to a libretto by the composer. It was premiered in Frankfurt on May 25, 1930. Though a critical success the work ran for only 6 performances and was not performed again during Antheil's lifetime. \nIt has been subsequently revived in 1998 by the Minnesota Opera, and 2002 by the Schleswig-Holstein Landestheater of Flensburg, Germany.\nThe work is scored for a large orchestra with soloists and chorus.",
-        "source_url": "https://en.wikipedia.org/wiki/Transatlantic_(opera)",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
