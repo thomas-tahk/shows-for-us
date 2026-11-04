@@ -81,9 +81,11 @@ export function assignSlugs(entries: ListEntry[], flagshipSlugs: Set<string>): M
 const pad = (n: number) => String(n).padStart(3, '0')
 
 /**
- * Wikidata classes that are not musicals but sit under Q58483083 (dramatico-musical work).
- * Each is excluded together with all its subclasses. Operetta is listed on its own: its
- * superclasses are musical drama and opéra comique, not opera. Ids checked against item pages.
+ * Wikidata classes that are not musicals. The first live run showed operas, ballets and masques
+ * are typed directly as dramatico-musical work (Q58483083), so an item is excluded when any of
+ * its P31 (instance of), P136 (genre) or P7937 (form of creative work) reaches one of these via
+ * P279* (subclass of). Operetta is listed on its own: its superclasses are musical drama and
+ * opéra comique, not opera. Ids verified against the run log's Wikidata labels.
  */
 export const EXCLUDED_CLASSES = [
   'Q1344', // opera
@@ -91,15 +93,18 @@ export const EXCLUDED_CLASSES = [
   'Q85477', // oratorio
   'Q41425', // ballet
   'Q174873', // cantata
+  'Q15079786', // ballet (the work class)
+  'Q2207959', // masque
+  'Q1907293', // Masque
 ]
 
-const reaches = (cls: string) => `?item wdt:P31/wdt:P279* wd:${cls}`
-const musicalsWithArticle = `${reaches(MUSICAL_CLASS)} .
+const badClasses = `?item (wdt:P31|wdt:P136|wdt:P7937)/wdt:P279* ?bad . VALUES ?bad { ${EXCLUDED_CLASSES.map((c) => `wd:${c}`).join(' ')} }`
+const musicalsWithArticle = `?item wdt:P31/wdt:P279* wd:${MUSICAL_CLASS} .
   ?article schema:about ?item ;
            schema:isPartOf <https://en.wikipedia.org/> ;
            schema:name ?enwiki .`
-const notExcluded = EXCLUDED_CLASSES.map((c) => `FILTER NOT EXISTS { ${reaches(c)} }`).join('\n  ')
-const isExcluded = EXCLUDED_CLASSES.map((c) => `{ ${reaches(c)} }`).join(' UNION ')
+const notExcluded = `FILTER NOT EXISTS { ${badClasses} }`
+const isExcluded = badClasses
 
 /** One query for the whole class (~4k rows): no paging, so the result is one consistent snapshot. */
 export function listingQuery(): string {
@@ -119,13 +124,14 @@ export function excludedCountQuery(): string {
 
 export const CLASS_BREAKDOWN_SIZE = 40
 export const EXCLUDED_BREAKDOWN_SIZE = 20
+export const PROPERTY_BREAKDOWN_SIZE = 30
 
 /** Top P31 classes of the items matching `itemPattern`. Grouping happens in a subquery; labels are added outside it. */
-function topClassesQuery(itemPattern: string, limit: number): string {
+function topClassesQuery(itemPattern: string, limit: number, prop = 'P31'): string {
   return `SELECT ?cls ?clsLabel ?n WHERE {
   { SELECT ?cls (COUNT(DISTINCT ?item) AS ?n) WHERE {
     ${itemPattern}
-    ?item wdt:P31 ?cls .
+    ?item wdt:${prop} ?cls .
   } GROUP BY ?cls ORDER BY DESC(?n) LIMIT ${limit} }
   SERVICE wikibase:label { bd:serviceParam wikibase:language "en,mul". }
 }
@@ -137,6 +143,10 @@ export const classBreakdownQuery = () => topClassesQuery(`${musicalsWithArticle}
 
 /** Top P31 classes of the items the listing drops: a wrongly excluded musical class shows up here. */
 export const excludedClassBreakdownQuery = () => topClassesQuery(`${musicalsWithArticle}\n    ${isExcluded}`, EXCLUDED_BREAKDOWN_SIZE)
+
+/** Top values of a property (P136 genre, P7937 form) among kept (or, with `excluded`, dropped) items. */
+export const propertyBreakdownQuery = (prop: string, excluded: boolean) =>
+  topClassesQuery(`${musicalsWithArticle}\n    ${excluded ? isExcluded : notExcluded}`, PROPERTY_BREAKDOWN_SIZE, prop)
 
 export interface ExtractsCall {
   titles: string[]
@@ -184,16 +194,53 @@ async function logClassTable(fetcher: Fetcher, path: string, query: string, titl
   for (const b of res.results.bindings) log(`  ${qidOf(b.cls?.value ?? '')}\t${b.clsLabel?.value ?? ''}\t${b.n?.value ?? ''}`)
 }
 
+const SIDES = [
+  { name: 'KEPT', excluded: false },
+  { name: 'EXCLUDED', excluded: true },
+]
+const PROPERTIES = [
+  { prop: 'P136', what: 'genre' },
+  { prop: 'P7937', what: 'form of creative work' },
+]
+
 /** Log-only check that the exclusions worked. A failure here is logged, never fatal. */
 export async function logClassBreakdown(fetcher: Fetcher, log: (msg: string) => void): Promise<void> {
   try {
     const excluded = (await fetcher(sparqlRequest('catalog/excluded.json', excludedCountQuery()))) as Bindings
-    log(`excluded by class (opera, operetta, oratorio, ballet, cantata): ${excluded.results.bindings[0]?.n?.value ?? '?'}`)
+    log(`excluded by class (P31/P136/P7937 reaching opera, operetta, oratorio, ballet, cantata, masque): ${excluded.results.bindings[0]?.n?.value ?? '?'}`)
     await logClassTable(fetcher, 'catalog/classes.json', classBreakdownQuery(), 'top P31 classes of KEPT items (Q-id, label, count):', log)
     await logClassTable(fetcher, 'catalog/excluded-classes.json', excludedClassBreakdownQuery(), 'top P31 classes of EXCLUDED items (Q-id, label, count):', log)
+    for (const { prop, what } of PROPERTIES) {
+      for (const { name, excluded: isOut } of SIDES) {
+        const path = `catalog/${isOut ? 'excluded' : 'kept'}-${prop}.json`
+        await logClassTable(fetcher, path, propertyBreakdownQuery(prop, isOut), `top ${prop} (${what}) values of ${name} items (Q-id, label, count):`, log)
+      }
+    }
   } catch (e) {
     log(`class breakdown unavailable: ${(e as Error).message}`)
   }
+}
+
+const OPERA_WORDS = /\b(opera|operetta|ballet|oratorio|cantata|masque|zarzuela|singspiel)\b/i
+const SUMMARY_EXAMPLES = 10
+
+const firstSentence = (text: string) => text.match(/^.*?[.!?](?=\s|$)/s)?.[0] ?? text
+
+/** Local check on the extracts: kept shows whose first sentence names a non-musical form but not "musical". */
+export function summarySanity(shows: Pick<CatalogShow, 'title' | 'summary'>[]): { suspect: number; examples: string[]; musical: number } {
+  const first = shows.flatMap((s) => (s.summary ? [{ title: s.title, sentence: firstSentence(s.summary.text) }] : []))
+  const suspect = first.filter((f) => OPERA_WORDS.test(f.sentence) && !/musical/i.test(f.sentence))
+  return {
+    suspect: suspect.length,
+    examples: suspect.slice(0, SUMMARY_EXAMPLES).map((f) => f.title),
+    musical: first.filter((f) => /musical/i.test(f.sentence)).length,
+  }
+}
+
+export function logSummarySanity(shows: Pick<CatalogShow, 'title' | 'summary'>[], log: (msg: string) => void): void {
+  const r = summarySanity(shows)
+  log(`summary first sentence: ${r.suspect} name opera/operetta/ballet/oratorio/cantata/masque/zarzuela/singspiel without "musical"; ${r.musical} contain "musical"`)
+  if (r.examples.length) log(`  examples: ${r.examples.join('; ')}`)
 }
 
 export function withoutFlagships(entries: ListEntry[], flagships: Flagship[]): ListEntry[] {
@@ -324,10 +371,12 @@ export async function pullCatalog(flagships: Flagship[], fetcher: Fetcher, opts:
   log(`details: ${rows.size} items with data`)
   const extracts = await fetchExtracts(fetcher, entries)
   log(`extracts: ${extracts.size} summaries`)
-  await logClassBreakdown(opts.diagnosticFetcher ?? fetcher, log)
-  return entries
+  const shows = entries
     .map((e) => buildCatalogShow({ entry: e, slug: slugs.get(e.qid) as string, rows: rows.get(e.qid) ?? [], extract: extracts.get(e.enwiki) }))
     .sort((a, b) => cmp(a.slug, b.slug))
+  logSummarySanity(shows, log)
+  await logClassBreakdown(opts.diagnosticFetcher ?? fetcher, log)
+  return shows
 }
 
 // ---- Output shapes -----------------------------------------------------------

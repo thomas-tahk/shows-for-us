@@ -6,7 +6,7 @@ import type { Flagship } from '../src/data/show.ts'
 import { shardOf, type CatalogIndex, type CatalogShard, type CatalogShow } from '../src/data/catalogShow.ts'
 import { offlineFetcher } from '../scripts/fetchers.ts'
 import { itemsQuery, type Fetcher, type PullRequest } from '../scripts/pull-lib.ts'
-import { EXCLUDED_CLASSES, assignSlugs, buildIndex, classBreakdownQuery, excludedClassBreakdownQuery, extractsRequest, groupShards, listingQuery, pullCatalog, slugify } from '../scripts/catalog-lib.ts'
+import { EXCLUDED_CLASSES, assignSlugs, buildIndex, classBreakdownQuery, excludedClassBreakdownQuery, extractsRequest, groupShards, listingQuery, propertyBreakdownQuery, pullCatalog, slugify, summarySanity } from '../scripts/catalog-lib.ts'
 import { runCatalog } from '../scripts/catalog-run.ts'
 
 const flagships = JSON.parse(readFileSync('data/flagships.json', 'utf8')) as Flagship[]
@@ -207,7 +207,7 @@ describe('query batching', () => {
     expect(q).not.toMatch(/LIMIT|OFFSET/)
   })
 
-  it('listing excludes opera, operetta, oratorio, ballet, cantata via the subclass path', () => {
+  it('listing excludes opera, operetta, oratorio, ballet, cantata, ballet (work), masques via P31|P136|P7937 + subclasses', () => {
     const q = listingQuery()
     const ids = [
       ['Q1344', 'opera'],
@@ -215,9 +215,13 @@ describe('query batching', () => {
       ['Q85477', 'oratorio'],
       ['Q41425', 'ballet'],
       ['Q174873', 'cantata'],
+      ['Q15079786', 'ballet (work)'],
+      ['Q2207959', 'masque'],
+      ['Q1907293', 'Masque'],
     ]
     expect(EXCLUDED_CLASSES).toEqual(ids.map(([id]) => id))
-    for (const [id] of ids) expect(q).toContain(`FILTER NOT EXISTS { ?item wdt:P31/wdt:P279* wd:${id} }`)
+    expect(q).toContain('FILTER NOT EXISTS { ?item (wdt:P31|wdt:P136|wdt:P7937)/wdt:P279* ?bad . VALUES ?bad { ')
+    for (const [id] of ids) expect(q).toContain(`wd:${id}`)
     expect(q.indexOf('FILTER NOT EXISTS')).toBeGreaterThan(q.indexOf('Q58483083'))
     for (const wrong of ['Q182832', 'Q2742', 'Q169034']) expect(q).not.toContain(wrong)
   })
@@ -231,6 +235,34 @@ describe('query batching', () => {
     expect(out).not.toContain('FILTER NOT EXISTS')
     expect(out).toContain('LIMIT 20')
     expect(out.indexOf('SERVICE wikibase:label')).toBeGreaterThan(out.lastIndexOf('GROUP BY'))
+  })
+
+  it.each(['P136', 'P7937'])('%s value breakdown: top 30, kept and excluded, labels outside the grouping', (prop) => {
+    const kept = propertyBreakdownQuery(prop, false)
+    const out = propertyBreakdownQuery(prop, true)
+    for (const q of [kept, out]) {
+      expect(q).toContain(`?item wdt:${prop} ?cls`)
+      expect(q).toContain('LIMIT 30')
+      expect(q.indexOf('SERVICE wikibase:label')).toBeGreaterThan(q.lastIndexOf('GROUP BY'))
+    }
+    expect(kept).toContain('FILTER NOT EXISTS')
+    expect(out).not.toContain('FILTER NOT EXISTS')
+    expect(out).toContain('VALUES ?bad')
+  })
+
+  it('summary sanity: opera-ish first sentence without "musical" is counted; examples capped at 10', () => {
+    const show = (title: string, text: string | null) => ({ title, summary: text ? { text } : null })
+    const shows = [
+      ...Array.from({ length: 12 }, (_, i) => show(`Op ${i}`, 'Op is a comic opera in two acts. It is a musical favourite.')),
+      show('Both', 'Both is an opera and a musical.'),
+      show('Later', 'Later is a work. It was once an opera.'),
+      show('Plain', 'Plain is a musical.'),
+      show('None', null),
+    ]
+    const r = summarySanity(shows as Parameters<typeof summarySanity>[0])
+    expect(r.suspect).toBe(12)
+    expect(r.examples).toHaveLength(10)
+    expect(r.musical).toBe(2)
   })
 
   it('logs excluded count and both class breakdowns, after details and extracts, via the diagnostic fetcher', async () => {
@@ -253,7 +285,10 @@ describe('query batching', () => {
     expect(text).toMatch(/excluded.*4321|4321.*excluded/i)
     expect(text).toMatch(/Q2743\s+musical theatre\s+900/)
     expect(text).toMatch(/Q1344\s+opera\s+3000/)
-    expect(diagPaths).toHaveLength(3)
+    expect(text).toMatch(/P136/)
+    expect(text).toMatch(/P7937/)
+    expect(text).toMatch(/first sentence/i)
+    expect(diagPaths).toHaveLength(7)
     expect(main.reqs.some((r) => r.path.startsWith('catalog/classes') || r.path.startsWith('catalog/excluded'))).toBe(false)
     expect(logs.findIndex((m) => /^extracts:/.test(m))).toBeLessThan(logs.findIndex((m) => /excluded/i.test(m)))
   })
