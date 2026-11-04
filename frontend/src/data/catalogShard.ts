@@ -3,20 +3,18 @@ import { CATALOG_INDEX_URL, shardUrl, type CatalogIndex, type CatalogShard, type
 
 /**
  * The record for a slug, or null when there is none. A missing shard file is null too:
- * the host's SPA fallback answers it with index.html (200, not JSON), or a plain 404.
- * Network failures and other non-2xx responses throw.
+ * the host's SPA fallback answers it with index.html (200, text/html), or a plain 404.
+ * Network failures, other non-2xx responses and malformed JSON throw.
  */
 export async function fetchCatalogShow(slug: string, signal?: AbortSignal): Promise<CatalogShow | null> {
   const res = await fetch(shardUrl(slug), { signal })
   if (res.status === 404) return null
   if (!res.ok) throw new Error(`shard ${res.status}`)
-  let shard: CatalogShard
-  try {
-    shard = (await res.json()) as CatalogShard
-  } catch {
-    return null
-  }
-  return shard.shows?.[slug] ?? null
+  // A missing shard file is answered by the SPA fallback (index.html).
+  if (res.headers.get('content-type')?.includes('text/html')) return null
+  const shard = (await res.json()) as CatalogShard
+  const shows = shard.shows ?? {}
+  return Object.hasOwn(shows, slug) ? shows[slug] : null
 }
 
 /** meta.live of the index; undefined when it can't be read (the sample-data note is then skipped). */
@@ -34,11 +32,22 @@ export type CatalogShowState =
   | { status: 'loading' }
   | { status: 'error' }
   | { status: 'missing' }
-  | { status: 'ok'; show: CatalogShow; live: boolean | undefined }
+  | { status: 'ok'; show: CatalogShow }
 
 interface Keyed {
   key: string
   state: CatalogShowState
+}
+
+/** meta.live of the index, fetched in the background: undefined until it resolves (or if it can't be read). */
+export function useCatalogLive(): boolean | undefined {
+  const [live, setLive] = useState<boolean | undefined>(undefined)
+  useEffect(() => {
+    const ctrl = new AbortController()
+    void fetchCatalogLive(ctrl.signal).then(v => !ctrl.signal.aborted && setLive(v))
+    return () => ctrl.abort()
+  }, [])
+  return live
 }
 
 export function useCatalogShow(slug: string): { state: CatalogShowState; retry: () => void } {
@@ -48,8 +57,8 @@ export function useCatalogShow(slug: string): { state: CatalogShowState; retry: 
 
   useEffect(() => {
     const ctrl = new AbortController()
-    Promise.all([fetchCatalogShow(slug, ctrl.signal), fetchCatalogLive(ctrl.signal)])
-      .then(([show, live]) => setResult({ key, state: show ? { status: 'ok', show, live } : { status: 'missing' } }))
+    fetchCatalogShow(slug, ctrl.signal)
+      .then(show => setResult({ key, state: show ? { status: 'ok', show } : { status: 'missing' } }))
       .catch(() => {
         if (!ctrl.signal.aborted) setResult({ key, state: { status: 'error' } })
       })

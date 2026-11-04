@@ -1,7 +1,5 @@
 import { test, expect, type Page } from '@playwright/test'
 
-const SHOTS = '/tmp/claude-0/-home-user/40cfe36c-5740-5522-bec1-8866835c023f/scratchpad'
-
 // String form: the e2e tsconfig has no DOM lib.
 async function expectNoHScroll(page: Page) {
   const ok = await page.evaluate(`document.scrollingElement.scrollWidth <= document.scrollingElement.clientWidth`)
@@ -30,7 +28,7 @@ for (const [width, height] of [[390, 844], [1280, 800]]) {
       await expect(ibdb).toHaveAttribute('rel', 'noopener noreferrer')
       await expect(page.getByText('Playing next')).toHaveCount(0)
       await expectNoHScroll(page)
-      await page.screenshot({ path: `${SHOTS}/catalog-show-boat-${width}.png`, fullPage: true })
+      await page.screenshot({ path: test.info().outputPath(`catalog-show-boat-${width}.png`), fullPage: true })
       expect(errors).toEqual([])
     })
 
@@ -43,6 +41,17 @@ for (const [width, height] of [[390, 844], [1280, 800]]) {
 
     test('unknown slug is not found', async ({ page }) => {
       await page.goto('/show/no-such-show')
+      await expect(page.getByRole('heading', { name: 'Show not found' })).toBeVisible()
+    })
+
+    test('prototype-named slug is not found, app survives', async ({ page }) => {
+      await page.goto('/show/constructor')
+      await expect(page.getByRole('heading', { name: 'Show not found' })).toBeVisible()
+    })
+
+    test('slug absent from an existing shard is not found', async ({ page }) => {
+      // zz194 hashes to shard 065, the shard that holds show-boat.
+      await page.goto('/show/zz194')
       await expect(page.getByRole('heading', { name: 'Show not found' })).toBeVisible()
     })
 
