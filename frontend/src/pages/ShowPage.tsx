@@ -11,6 +11,7 @@ import Awards from '../components/show/Awards'
 import ShowLinks from '../components/show/ShowLinks'
 import PlayingNext from '../components/show/PlayingNext'
 import { useShowEvents } from '../data/useShowEvents'
+import SummaryText from '../components/show/SummaryText'
 import WikipediaAttribution from '../components/show/WikipediaAttribution'
 
 /** A write-up is a draft until the owner has opened the sources and signed it off. */
@@ -57,7 +58,7 @@ function FlagshipShowPage({ slug, flagship }: { slug: string; flagship: NonNulla
       {live && data.summary && (
         <section aria-labelledby="summary-h">
           <h2 id="summary-h" className="text-xl font-semibold text-white">From Wikipedia</h2>
-          <p className="mt-2 text-neutral-200 leading-relaxed">{data.summary.text}</p>
+          <SummaryText text={data.summary.text} />
           <p className="mt-1 text-xs text-neutral-400">
             Text from{' '}
             <a className="text-amber-400 underline" href={data.summary.source_url}>this Wikipedia article</a>,{' '}

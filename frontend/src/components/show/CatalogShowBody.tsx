@@ -3,6 +3,7 @@ import { formatPremiereDate } from '../../data/catalogShard'
 import type { PersonCredit } from '../../data/show'
 import Section from './Section'
 import ShowLinks from './ShowLinks'
+import SummaryText from './SummaryText'
 
 const link = 'text-amber-400 underline hover:no-underline'
 
@@ -66,7 +67,7 @@ export default function CatalogShowBody({ show, live }: { show: CatalogShow; liv
       {summary && (
         <section aria-labelledby="summary-h">
           <h2 id="summary-h" className="text-xl font-semibold text-white">From Wikipedia</h2>
-          <p className="mt-2 text-neutral-200 leading-relaxed">{summary.text}</p>
+          <SummaryText text={summary.text} />
           <p className="mt-1 text-xs text-neutral-400">
             Text from{' '}
             <a className={link} href={summary.source_url}>this Wikipedia article</a>,{' '}

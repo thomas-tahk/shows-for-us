@@ -36,6 +36,13 @@ describe('CatalogShowBody', () => {
     expect(screen.queryByRole('note')).toBeNull()
   })
 
+  it('renders a summary with newlines as separate paragraphs', () => {
+    const two = { ...show, summary: { ...show.summary!, text: 'One.\nTwo.' } }
+    render(<CatalogShowBody show={two} />)
+    expect(screen.getByText('One.').tagName).toBe('P')
+    expect(screen.getByText('Two.').tagName).toBe('P')
+  })
+
   it('shows the sample-data note only when live is false', () => {
     render(<CatalogShowBody show={show} live={false} />)
     expect(screen.getByRole('note').textContent).toContain('Sample data: this page was built from test fixtures')

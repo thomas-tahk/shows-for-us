@@ -17,10 +17,8 @@ const flagshipEntries: SearchableEntry[] = searchIndex.map(f => ({
 export default function HomePage() {
   const [query, setQuery] = useState('')
   const catalog = useCatalogIndex()
-  const entries = useMemo(() => {
-    const flagshipSlugs = new Set(flagshipEntries.map(f => f.slug))
-    return [...flagshipEntries, ...catalog.entries.filter(c => !flagshipSlugs.has(c.slug))]
-  }, [catalog.entries])
+  // The catalogue never holds a flagship slug (assignSlugs avoids them), so no de-duplication.
+  const entries = useMemo(() => [...flagshipEntries, ...catalog.entries], [catalog.entries])
   const { results, total } = search(entries, query, RESULT_LIMIT)
   const isEmptyQuery = query.trim() === ''
 

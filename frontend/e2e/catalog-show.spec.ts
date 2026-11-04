@@ -75,3 +75,37 @@ test('fetch error shows a retry button that recovers', async ({ page }) => {
   await page.getByRole('button', { name: 'Try again' }).click()
   await expect(page.getByRole('heading', { level: 1, name: 'Show Boat' })).toBeVisible()
 })
+
+test('a catalogue show page never requests the 1 MB index', async ({ page }) => {
+  const indexRequests: string[] = []
+  page.on('request', r => /\/catalog\/index\.json/.test(r.url()) && indexRequests.push(r.url()))
+  await page.goto('/show/show-boat')
+  await expect(page.getByRole('heading', { level: 1, name: 'Show Boat' })).toBeVisible()
+  await expect(page.getByRole('note')).toContainText('Sample data')
+  expect(indexRequests).toEqual([])
+})
+
+test('a shard without `live` shows no sample-data note', async ({ page }) => {
+  await page.route('**/catalog/shows/065.json', async route => {
+    const res = await route.fetch()
+    const shard = await res.json()
+    delete shard.live
+    await route.fulfill({ response: res, json: shard })
+  })
+  await page.goto('/show/show-boat')
+  await expect(page.getByRole('heading', { level: 1, name: 'Show Boat' })).toBeVisible()
+  await expect(page.getByRole('note')).toHaveCount(0)
+})
+
+test('a summary with newlines renders as separate paragraphs', async ({ page }) => {
+  await page.route('**/catalog/shows/065.json', async route => {
+    const res = await route.fetch()
+    const shard = await res.json()
+    shard.shows['show-boat'].summary.text = 'First paragraph.\nSecond paragraph.'
+    await route.fulfill({ response: res, json: shard })
+  })
+  await page.goto('/show/show-boat')
+  const paras = page.getByRole('region', { name: 'From Wikipedia' }).locator('p')
+  await expect(paras.nth(0)).toHaveText('First paragraph.')
+  await expect(paras.nth(1)).toHaveText('Second paragraph.')
+})

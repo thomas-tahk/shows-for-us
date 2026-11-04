@@ -1,5 +1,4 @@
 import { useCallback, useEffect, useState } from 'react'
-import { loadCatalogIndex } from './catalogIndexCache'
 import { shardUrl, type CatalogShard, type CatalogShow } from './catalogShow'
 
 /**
@@ -7,48 +6,33 @@ import { shardUrl, type CatalogShard, type CatalogShow } from './catalogShow'
  * the host's SPA fallback answers it with index.html (200, text/html), or a plain 404.
  * Network failures, other non-2xx responses and malformed JSON throw.
  */
-export async function fetchCatalogShow(slug: string, signal?: AbortSignal): Promise<CatalogShow | null> {
+export async function fetchCatalogShow(slug: string, signal?: AbortSignal): Promise<CatalogShowResult | null> {
   const res = await fetch(shardUrl(slug), { signal })
   if (res.status === 404) return null
   if (!res.ok) throw new Error(`shard ${res.status}`)
-  // A missing shard file is answered by the SPA fallback (index.html).
   if (res.headers.get('content-type')?.includes('text/html')) return null
-  const shard = (await res.json()) as CatalogShard
+  const shard = (await res.json()) as Partial<CatalogShard>
   const shows = shard.shows ?? {}
-  return Object.hasOwn(shows, slug) ? shows[slug] : null
+  if (!Object.hasOwn(shows, slug)) return null
+  // Shards written before `live` existed are live data.
+  return { show: shows[slug], live: shard.live !== false }
 }
 
-/** meta.live of the index; undefined when it can't be read (the sample-data note is then skipped). */
-export async function fetchCatalogLive(): Promise<boolean | undefined> {
-  try {
-    return (await loadCatalogIndex()).meta.live
-  } catch {
-    return undefined
-  }
+export interface CatalogShowResult {
+  show: CatalogShow
+  /** false = built from test fixtures (show the sample-data note). */
+  live: boolean
 }
 
 export type CatalogShowState =
   | { status: 'loading' }
   | { status: 'error' }
   | { status: 'missing' }
-  | { status: 'ok'; show: CatalogShow }
+  | { status: 'ok'; show: CatalogShow; live: boolean }
 
 interface Keyed {
   key: string
   state: CatalogShowState
-}
-
-/** meta.live of the index, fetched in the background: undefined until it resolves (or if it can't be read). */
-export function useCatalogLive(): boolean | undefined {
-  const [live, setLive] = useState<boolean | undefined>(undefined)
-  useEffect(() => {
-    let active = true
-    void fetchCatalogLive().then(v => active && setLive(v))
-    return () => {
-      active = false
-    }
-  }, [])
-  return live
 }
 
 export function useCatalogShow(slug: string): { state: CatalogShowState; retry: () => void } {
@@ -59,7 +43,7 @@ export function useCatalogShow(slug: string): { state: CatalogShowState; retry: 
   useEffect(() => {
     const ctrl = new AbortController()
     fetchCatalogShow(slug, ctrl.signal)
-      .then(show => setResult({ key, state: show ? { status: 'ok', show } : { status: 'missing' } }))
+      .then(found => setResult({ key, state: found ? { status: 'ok', ...found } : { status: 'missing' } }))
       .catch(() => {
         if (!ctrl.signal.aborted) setResult({ key, state: { status: 'error' } })
       })
