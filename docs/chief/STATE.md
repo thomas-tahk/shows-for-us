@@ -1,9 +1,10 @@
 # Chief state
 Vision: docs/chief/vision.md
-Plan: docs/chief/plan.html (approved 2026-10-26); M2 issues #12-#15 on GitHub milestone "M2 · Every musical"
-Phase: Build — M2 "Every musical" (branch m2-every-musical)
-Next action: review + merge workers #12 catalogue pull, #13 catalogue page, #14 search, #15 weekly refresh; then run "Refresh data" on the branch for real data
-Waiting on him: M1's 6 decisions (docs/milestones/M1.md); first "Refresh data" run on main (closes #3)
-Open questions: docs/questions/M2.md (defaults picked, no stop)
-Cloud limits seen: no Wikidata/Wikipedia/Commons/Ticketmaster/WebFetch access; Vercel preview behind login (proxy 403)
+Plan: docs/chief/plan.html (approved 2026-10-26); M2 issues on GitHub milestone "M2 · Every musical"
+Phase: Review — M2 "Every musical" on branch m2-every-musical; PR to main open (needs-you)
+Next action: he opens the preview, runs the gate (search "red hot and blu" → IBDB), replies `merge` or lists fixes on the M2 PR; fixes → Build
+Waiting on him: M2 PR merge + the 7 decisions in docs/milestones/M2.md (incl. M1's 6)
+Open questions: docs/questions/M2.md
+Data: catalogue refreshed by the "Refresh data" Action (cloud can't reach Wikidata/Wikipedia); last live run 41840143245, 2,396 musicals
+Cloud limits seen: no Wikidata/Wikipedia/Commons/IBDB/Ticketmaster access; Vercel preview behind login (proxy 403); Actions can fetch
 Updated: 2026-11-04
