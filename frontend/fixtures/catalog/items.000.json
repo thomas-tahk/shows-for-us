@@ -1,0 +1,738 @@
+{
+  "head": {
+    "vars": [
+      "item",
+      "kind",
+      "v",
+      "vLabel",
+      "extra"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1050738"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "composer"
+        },
+        "v": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000001"
+        },
+        "vLabel": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Jerome Kern"
+        },
+        "extra": {
+          "type": "literal",
+          "value": "9999901"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1050738"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "lyricist"
+        },
+        "v": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000002"
+        },
+        "vLabel": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Oscar Hammerstein II"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1050738"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "librettist"
+        },
+        "v": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000002"
+        },
+        "vLabel": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Oscar Hammerstein II"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1050738"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "premiere_date"
+        },
+        "v": {
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "value": "1927-12-27T00:00:00Z"
+        },
+        "extra": {
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "value": "11"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1050738"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "premiere_venue"
+        },
+        "v": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000101"
+        },
+        "vLabel": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Ziegfeld Theatre"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1050738"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "ibdb"
+        },
+        "v": {
+          "type": "literal",
+          "value": "4367"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000010"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "composer"
+        },
+        "v": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000003"
+        },
+        "vLabel": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Robert Waldman"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000010"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "lyricist"
+        },
+        "v": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000004"
+        },
+        "vLabel": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Alfred Uhry"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000010"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "librettist"
+        },
+        "v": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000004"
+        },
+        "vLabel": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Alfred Uhry"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000010"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "premiere_date"
+        },
+        "v": {
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "value": "1975-10-09T00:00:00Z"
+        },
+        "extra": {
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "value": "11"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000020"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "composer"
+        },
+        "v": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000005"
+        },
+        "vLabel": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "John Kander"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000020"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "lyricist"
+        },
+        "v": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000006"
+        },
+        "vLabel": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Fred Ebb"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000020"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "librettist"
+        },
+        "v": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000006"
+        },
+        "vLabel": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Fred Ebb"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000020"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "librettist"
+        },
+        "v": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000007"
+        },
+        "vLabel": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Bob Fosse"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000020"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "premiere_date"
+        },
+        "v": {
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "value": "1975-06-03T00:00:00Z"
+        },
+        "extra": {
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "value": "11"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000020"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "ibdb"
+        },
+        "v": {
+          "type": "literal",
+          "value": "3"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000020"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "playbill"
+        },
+        "v": {
+          "type": "literal",
+          "value": "chicago-placeholder-0000000003"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000020"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "website"
+        },
+        "v": {
+          "type": "literal",
+          "value": "https://chicagothemusical.com"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000020"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "award"
+        },
+        "v": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000201"
+        },
+        "vLabel": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Tony Award for Best Revival of a Musical"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000030"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "composer"
+        },
+        "v": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000008"
+        },
+        "vLabel": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Leonard Bernstein"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000030"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "lyricist"
+        },
+        "v": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000009"
+        },
+        "vLabel": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Richard Wilbur"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000030"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "lyricist"
+        },
+        "v": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000111"
+        },
+        "vLabel": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "John Latouche"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000030"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "lyricist"
+        },
+        "v": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000112"
+        },
+        "vLabel": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Dorothy Parker"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000030"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "lyricist"
+        },
+        "v": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000113"
+        },
+        "vLabel": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Stephen Sondheim"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000030"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "librettist"
+        },
+        "v": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000114"
+        },
+        "vLabel": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Hugh Wheeler"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000030"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "premiere_date"
+        },
+        "v": {
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "value": "1973-12-20T00:00:00Z"
+        },
+        "extra": {
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "value": "11"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000030"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "premiere_date"
+        },
+        "v": {
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "value": "1956-10-29T00:00:00Z"
+        },
+        "extra": {
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "value": "11"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000040"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "composer"
+        },
+        "v": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000005"
+        },
+        "vLabel": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "John Kander"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000040"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "premiere_date"
+        },
+        "v": {
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "value": "2011-07-12T00:00:00Z"
+        },
+        "extra": {
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "value": "11"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000041"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "librettist"
+        },
+        "v": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000114"
+        },
+        "vLabel": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Hugh Wheeler"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000041"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "premiere_date"
+        },
+        "v": {
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "value": "1788-01-01T00:00:00Z"
+        },
+        "extra": {
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "value": "9"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000050"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "composer"
+        },
+        "v": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000115"
+        },
+        "vLabel": {
+          "type": "literal",
+          "value": "Q1000115"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000050"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "lyricist"
+        },
+        "v": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000116"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000050"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "librettist"
+        },
+        "v": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000006"
+        },
+        "vLabel": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Fred Ebb"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000050"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "premiere_venue"
+        },
+        "v": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000102"
+        },
+        "vLabel": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Q1000102"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000050"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "website"
+        },
+        "v": {
+          "type": "literal",
+          "value": "https://example.org/unlabelled"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000050"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "premiere_date"
+        },
+        "v": {
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "value": "1999-03-01T00:00:00Z"
+        },
+        "extra": {
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "value": "10"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000060"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "composer"
+        },
+        "v": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000113"
+        },
+        "vLabel": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Stephen Sondheim"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000060"
+        },
+        "kind": {
+          "type": "literal",
+          "value": "premiere_date"
+        },
+        "v": {
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+          "value": "1962-01-01T00:00:00Z"
+        },
+        "extra": {
+          "type": "literal",
+          "datatype": "http://www.w3.org/2001/XMLSchema#integer",
+          "value": "9"
+        }
+      }
+    ]
+  }
+}

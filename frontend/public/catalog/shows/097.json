@@ -1,0 +1,55 @@
+{
+  "shows": {
+    "candide": {
+      "slug": "candide",
+      "title": "Candide",
+      "qid": "Q1000030",
+      "enwiki": "Candide (operetta)",
+      "composers": [
+        {
+          "name": "Leonard Bernstein",
+          "qid": "Q1000008"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Richard Wilbur",
+          "qid": "Q1000009"
+        },
+        {
+          "name": "John Latouche",
+          "qid": "Q1000111"
+        },
+        {
+          "name": "Dorothy Parker",
+          "qid": "Q1000112"
+        },
+        {
+          "name": "Stephen Sondheim",
+          "qid": "Q1000113"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Hugh Wheeler",
+          "qid": "Q1000114"
+        }
+      ],
+      "premiere": {
+        "date": "1956-10-29",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Candide_(operetta)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1000030"
+      },
+      "summary": {
+        "text": "Placeholder intro for Candide (operetta). Not Wikipedia text.",
+        "source_url": "https://en.wikipedia.org/wiki/Candide_(operetta)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

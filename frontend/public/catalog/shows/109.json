@@ -1,0 +1,33 @@
+{
+  "shows": {
+    "old-title": {
+      "slug": "old-title",
+      "title": "Old Title",
+      "qid": "Q1000060",
+      "enwiki": "Old Title (musical)",
+      "composers": [
+        {
+          "name": "Stephen Sondheim",
+          "qid": "Q1000113"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1962",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Old_Title_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1000060"
+      },
+      "summary": {
+        "text": "Placeholder intro for New Title (musical). Not Wikipedia text.",
+        "source_url": "https://en.wikipedia.org/wiki/Old_Title_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

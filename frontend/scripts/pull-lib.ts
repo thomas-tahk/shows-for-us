@@ -59,7 +59,7 @@ export function resolveQuery(enwiki: string, anyClass = false): string {
 }`
 }
 
-export function itemsQuery(qids: string[]): string {
+export function itemsQuery(qids: string[], withImage = true): string {
   const values = qids.map((q) => `wd:${q}`).join(' ')
   const person = (prop: string, kind: string) =>
     `{ ?item wdt:${prop} ?v . BIND("${kind}" AS ?kind) OPTIONAL { ?v wdt:P1220 ?extra } }`
@@ -72,7 +72,7 @@ export function itemsQuery(qids: string[]): string {
   UNION { ?item p:P1191 ?st . ?st psv:P1191 ?tv . FILTER NOT EXISTS { ?st wikibase:rank wikibase:DeprecatedRank } ?tv wikibase:timeValue ?v ; wikibase:timePrecision ?extra . BIND("premiere_date" AS ?kind) }
   UNION ${plain('P4647', 'premiere_venue')}
   UNION ${plain('P166', 'award')}
-  UNION ${plain('P18', 'image')}
+  ${withImage ? `UNION ${plain('P18', 'image')}` : ''}
   UNION ${plain('P1219', 'ibdb')}
   UNION ${plain('P5833', 'playbill')}
   UNION ${plain('P856', 'website')}
@@ -83,14 +83,14 @@ ORDER BY ?item ?kind ?v`
 
 // ---- Pure transforms --------------------------------------------------------
 
-const qidOf = (uri: string) => uri.slice(uri.lastIndexOf('/') + 1)
+export const qidOf = (uri: string) => uri.slice(uri.lastIndexOf('/') + 1)
 
 export function parseResolve(res: unknown): string[] {
   const rows = (res as SparqlResult).results.bindings
   return [...new Set(rows.flatMap((b) => (b.item ? [qidOf(b.item.value)] : [])))]
 }
 
-interface Row {
+export interface Row {
   item: string
   kind: string
   v: Term
@@ -98,10 +98,10 @@ interface Row {
   extra: string | undefined
 }
 
-const cmp = (a: string, b: string) => (a < b ? -1 : a > b ? 1 : 0)
+export const cmp = (a: string, b: string) => (a < b ? -1 : a > b ? 1 : 0)
 
 /** Rows sorted by item, kind, value so every pick is deterministic whatever order the endpoint returns. */
-function parseRows(res: unknown): Row[] {
+export function parseRows(res: unknown): Row[] {
   return (res as SparqlResult).results.bindings
     .flatMap((b) =>
       b.item && b.kind && b.v
@@ -120,7 +120,7 @@ export function formatDate(value: string, precision?: string | number): string {
   return ymd
 }
 
-function dedupe(rows: Row[]): Row[] {
+export function dedupe(rows: Row[]): Row[] {
   const seen = new Set<string>()
   return rows.filter((r) => {
     if (seen.has(r.v.value)) return false
@@ -143,7 +143,7 @@ function pick(rows: Row[], kind: string, qids: string[], prefer: string | undefi
   return []
 }
 
-function people(rows: Row[]): PersonCredit[] {
+export function people(rows: Row[]): PersonCredit[] {
   return rows.map((r) => ({
     name: r.label ?? qidOf(r.v.value),
     qid: qidOf(r.v.value),

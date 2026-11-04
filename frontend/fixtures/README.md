@@ -17,3 +17,7 @@ npm run pull
 ```
 
 That writes `data/shows.json` from live responses and leaves these fixtures alone. (`--record` exists only for deliberately re-recording fixtures, after which expected values in `tests/pull.test.ts` need updating.)
+
+## fixtures/catalog
+
+Hand-built for `npm run pull:catalog` (same caveats: placeholder Q-ids, ids and `extract` text, shapes follow the real SPARQL / MediaWiki action API responses). `list.NNN.json` = listing page, `items.NNN.json` = detail batch, `extracts.NNN.P.json` = extracts batch NNN, continuation part P. They deliberately include a flagship by Q-id, a flagship by title only, a slug collision (Aladdin), a Q-id-as-label credit, a redirect, a `missing` page and an `extracts` continuation. `npm run pull:catalog -- --offline` writes `public/catalog/` from them (`live: false`).

@@ -3,28 +3,38 @@
     "the-robber-bridegroom": {
       "slug": "the-robber-bridegroom",
       "title": "The Robber Bridegroom",
-      "qid": "Q7759878",
-      "enwiki": "The Robber Bridegroom (musical)",
+      "qid": "Q1000010",
+      "enwiki": "The Robber Bridegroom",
       "composers": [
         {
           "name": "Robert Waldman",
-          "qid": "Q1"
+          "qid": "Q1000003"
         }
       ],
-      "lyricists": [],
-      "librettists": [],
+      "lyricists": [
+        {
+          "name": "Alfred Uhry",
+          "qid": "Q1000004"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Alfred Uhry",
+          "qid": "Q1000004"
+        }
+      ],
       "premiere": {
-        "date": "1975",
+        "date": "1975-10-09",
         "venue": null
       },
       "awards": [],
       "links": {
-        "wikipedia": "https://en.wikipedia.org/wiki/The_Robber_Bridegroom_(musical)",
-        "wikidata": "https://www.wikidata.org/wiki/Q7759878"
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Robber_Bridegroom",
+        "wikidata": "https://www.wikidata.org/wiki/Q1000010"
       },
       "summary": {
-        "text": "SAMPLE: placeholder summary for The Robber Bridegroom.",
-        "source_url": "https://en.wikipedia.org/wiki/The_Robber_Bridegroom_(musical)",
+        "text": "Placeholder intro for The Robber Bridegroom. Not Wikipedia text.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Robber_Bridegroom",
         "license": "CC BY-SA 4.0",
         "modified": false
       }
