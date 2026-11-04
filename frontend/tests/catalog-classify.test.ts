@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest'
-import { classifyShow } from '../scripts/catalog-classify.ts'
-import { fetchListing, pullCatalog } from '../scripts/catalog-lib.ts'
+import { classifyShow, FORM_WORDS } from '../scripts/catalog-classify.ts'
+import { fetchListing, pullCatalog, summarySanity } from '../scripts/catalog-lib.ts'
 import type { Fetcher } from '../scripts/pull-lib.ts'
 
 // Intros below are paraphrased stand-ins for the real articles, not quoted Wikipedia text.
@@ -55,6 +55,33 @@ describe('classifyShow: text first, class as fallback', () => {
   it('whole words only: "musicals"/"operations" do not match', () => {
     expect(classifyShow('X deals with operations.', true)).toBe('class-drop')
     expect(classifyShow('X is about musicals.', false)).toBe('class-keep')
+  })
+})
+
+describe('polish (#18)', () => {
+  const THREEPENNY = 'The Threepenny Opera is a play with music by Kurt Weill, adapted from John Gay\'s ballad opera, The Beggar\'s Opera.'
+  it('"play with music" counts as musical', () => {
+    expect(classifyShow('X is a play with music by Y.', true)).toBe('text-keep')
+  })
+  it('Threepenny is not text-drop (own title stripped; the Beggar\'s Opera mention makes it mixed)', () => {
+    expect(classifyShow(THREEPENNY, false, 'The Threepenny Opera')).not.toBe('text-drop')
+    expect(classifyShow('The Threepenny Opera is a play with music by Kurt Weill.', true, 'The Threepenny Opera')).toBe('text-keep')
+  })
+  it('an opera whose title contains "Opera" is still text-drop; title stripped ignores "(disambiguation)"', () => {
+    expect(classifyShow('The Opera Ghost is an opera in two acts.', false, 'The Opera Ghost')).toBe('text-drop')
+    expect(classifyShow('Opera Night (opera) is a one-act opera.', false, 'Opera Night (opera)')).toBe('text-drop')
+  })
+  it.each(['ballets', 'operettas', 'opéras', 'oratorios', 'cantatas', 'masques', 'zarzuelas', 'operas'])('plural %s is a form word', (w) => {
+    expect(classifyShow(`X is among the ${w} of Y.`, false)).toBe('text-drop')
+  })
+  it.each(['rock opera', 'rock-opera', 'folk operas', 'pop-opera', 'Rock Operas'])('%s counts as musical', (w) => {
+    expect(classifyShow(`X is a ${w} by Y.`, true)).toBe('text-keep')
+  })
+  it('one shared form-word regex serves the summary sanity metric', () => {
+    expect(FORM_WORDS.test('ballets')).toBe(true)
+    const shows = [{ title: 'A', summary: { text: 'A is among the zarzuelas.' } }, { title: 'B', summary: { text: 'B is a play with music.' } }] as never
+    expect(summarySanity(shows).suspect).toBe(1)
+    expect(summarySanity(shows).musical).toBe(1)
   })
 })
 

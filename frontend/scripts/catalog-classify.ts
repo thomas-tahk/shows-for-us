@@ -4,15 +4,26 @@
 export type Decision = 'text-keep' | 'text-drop' | 'class-keep' | 'class-drop'
 
 const TEXT_WINDOW = 250
-const SOFT_OPERA = /\b(rock|folk|pop) opera\b/g
-const MUSICAL = /\bmusical\b/
-const NOT_MUSICAL = /\b(operas?|opéra|operetta|opérette|ballet|oratorio|cantata|masque|zarzuela|singspiel)\b/
+const SOFT_OPERA = /\b(rock|folk|pop)[ -]operas?\b/gi
+/** Non-musical stage forms, optional plural. Shared with the summary-sanity metric in catalog-lib.ts. */
+export const FORM_WORDS = /\b(opera|opéra|operetta|opérette|ballet|oratorio|cantata|masque|zarzuela|singspiel)s?\b/i
+/** "musical", or "play with music" (e.g. The Threepenny Opera). Shared likewise. */
+export const MUSICAL_WORDS = /\b(musical|play with music)\b/i
+
+const escapeRegex = (s: string) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
+
+/** Removes the show's own title (minus a "(disambiguation)" suffix) so "The Threepenny Opera" doesn't read as an opera. */
+function withoutTitle(head: string, title: string | undefined): string {
+  const bare = (title ?? '').replace(/\s*\([^)]*\)\s*$/, '').trim()
+  return bare ? head.replace(new RegExp(escapeRegex(bare), 'gi'), ' ') : head
+}
 
 /** text-keep: says "musical", names no other form. text-drop: the reverse. Otherwise the class decides. */
-export function classifyShow(summary: string | undefined, excludedByClass: boolean): Decision {
-  const head = (summary ?? '').slice(0, TEXT_WINDOW).toLowerCase().replace(SOFT_OPERA, 'musical')
-  const musical = MUSICAL.test(head)
-  const other = NOT_MUSICAL.test(head)
+export function classifyShow(summary: string | undefined, excludedByClass: boolean, title?: string): Decision {
+  const window = (summary ?? '').slice(0, TEXT_WINDOW)
+  const head = withoutTitle(window, title).replace(SOFT_OPERA, 'musical')
+  const musical = MUSICAL_WORDS.test(head)
+  const other = FORM_WORDS.test(head)
   if (musical && !other) return 'text-keep'
   if (other && !musical) return 'text-drop'
   return excludedByClass ? 'class-drop' : 'class-keep'
@@ -35,7 +46,7 @@ export function classifyEntries<T extends Candidate>(entries: T[], extracts: Map
   const out: Classified<T> = { kept: [], counts: { 'text-keep': 0, 'text-drop': 0, 'class-keep': 0, 'class-drop': 0 }, keptOverClass: [], droppedOverClass: [] }
   for (const e of entries) {
     const excluded = e.excludedByClass ?? false
-    const d = classifyShow(extracts.get(e.enwiki), excluded)
+    const d = classifyShow(extracts.get(e.enwiki), excluded, e.enwiki)
     out.counts[d]++
     if (d.endsWith('keep')) out.kept.push(e)
     if (d === 'text-keep' && excluded) out.keptOverClass.push(e.enwiki)
