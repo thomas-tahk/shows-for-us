@@ -2,6 +2,7 @@ import { mkdir, readFile, writeFile } from 'node:fs/promises'
 import { dirname, join } from 'node:path'
 import { FixtureMissing, USER_AGENT, type Fetcher } from './pull-lib.ts'
 
+const TRANSIENT = new Set([500, 502, 504])
 const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms))
 
 /** Live fetcher: descriptive UA, sequential (>= 1s apart), 30s timeout, honours 429 + Retry-After. */
@@ -30,6 +31,11 @@ export function liveFetcher(minGapMs = 1000, maxRetries = 5, timeoutMs = 30_000)
         const ra = Number(res.headers.get('retry-after'))
         lastError = `HTTP ${res.status}`
         await sleep((Number.isFinite(ra) && ra > 0 ? ra : 60) * 1000)
+        continue
+      }
+      if (TRANSIENT.has(res.status)) {
+        lastError = `HTTP ${res.status}`
+        await sleep(Math.min(60_000, 2000 * 2 ** attempt))
         continue
       }
       if (!res.ok) throw new Error(`HTTP ${res.status} for ${req.url.slice(0, 120)}`)

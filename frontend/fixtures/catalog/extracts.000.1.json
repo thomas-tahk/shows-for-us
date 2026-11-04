@@ -1,0 +1,31 @@
+{
+  "batchcomplete": true,
+  "query": {
+    "redirects": [
+      {
+        "from": "Old Title (musical)",
+        "to": "New Title (musical)"
+      }
+    ],
+    "pages": [
+      {
+        "pageid": 1005,
+        "ns": 0,
+        "title": "New Title (musical)",
+        "extract": "Placeholder intro for New Title (musical). Not Wikipedia text."
+      },
+      {
+        "pageid": 1006,
+        "ns": 0,
+        "title": "Show Boat",
+        "extract": "Placeholder intro for Show Boat. Not Wikipedia text."
+      },
+      {
+        "pageid": 1007,
+        "ns": 0,
+        "title": "The Robber Bridegroom",
+        "extract": "Placeholder intro for The Robber Bridegroom. Not Wikipedia text."
+      }
+    ]
+  }
+}

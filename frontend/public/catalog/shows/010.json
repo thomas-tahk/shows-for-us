@@ -1,0 +1,29 @@
+{
+  "shows": {
+    "unlabelled-credits": {
+      "slug": "unlabelled-credits",
+      "title": "Unlabelled Credits",
+      "qid": "Q1000050",
+      "enwiki": "Unlabelled Credits (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Fred Ebb",
+          "qid": "Q1000006"
+        }
+      ],
+      "premiere": {
+        "date": "1999-03",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "https://example.org/unlabelled",
+        "wikipedia": "https://en.wikipedia.org/wiki/Unlabelled_Credits_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1000050"
+      },
+      "summary": null
+    }
+  }
+}

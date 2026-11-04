@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vite",
     "pull": "tsx scripts/pull.ts",
+    "pull:catalog": "tsx scripts/pull-catalog.ts",
     "build": "tsc -b && vite build",
     "lint": "eslint .",
     "preview": "vite preview",

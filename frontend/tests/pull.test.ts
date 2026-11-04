@@ -86,6 +86,8 @@ describe('formatDate', () => {
     expect(formatDate('1980-09-01T00:00:00Z', 10)).toBe('1980-09')
     expect(formatDate('1980-09-17T00:00:00Z', '11')).toBe('1980-09-17')
     expect(formatDate('1980-09-17T00:00:00Z')).toBe('1980-09-17')
+    expect(formatDate('1980-01-01T00:00:00Z', 8)).toBe('1980') // decade
+    expect(formatDate('1900-01-01T00:00:00Z', 7)).toBe('1900') // century
   })
 })
 

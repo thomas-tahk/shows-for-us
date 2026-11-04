@@ -1,25 +1,35 @@
 {
   "meta": {
-    "generated_at": "2026-11-04T00:00:00Z",
+    "generated_at": "2026-11-04T12:21:33.555Z",
     "mode": "offline-fixtures",
     "live": false,
-    "count": 3
+    "count": 9
   },
   "shows": [
     {
-      "slug": "show-boat",
-      "title": "Show Boat",
-      "year": "1927",
+      "slug": "aladdin-musical",
+      "title": "Aladdin",
+      "year": "2011",
       "creators": [
-        "Jerome Kern"
+        "John Kander"
       ]
     },
     {
-      "slug": "the-robber-bridegroom",
-      "title": "The Robber Bridegroom",
-      "year": "1975",
+      "slug": "aladdin-pantomime",
+      "title": "Aladdin",
+      "year": "1788",
       "creators": [
-        "Robert Waldman"
+        "Hugh Wheeler"
+      ]
+    },
+    {
+      "slug": "candide",
+      "title": "Candide",
+      "year": "1956",
+      "creators": [
+        "Leonard Bernstein",
+        "Richard Wilbur",
+        "John Latouche"
       ]
     },
     {
@@ -27,7 +37,49 @@
       "title": "Chicago",
       "year": "1975",
       "creators": [
-        "John Kander"
+        "John Kander",
+        "Fred Ebb",
+        "Bob Fosse"
+      ]
+    },
+    {
+      "slug": "hair",
+      "title": "Hair",
+      "year": null,
+      "creators": []
+    },
+    {
+      "slug": "old-title",
+      "title": "Old Title",
+      "year": "1962",
+      "creators": [
+        "Stephen Sondheim"
+      ]
+    },
+    {
+      "slug": "show-boat",
+      "title": "Show Boat",
+      "year": "1927",
+      "creators": [
+        "Jerome Kern",
+        "Oscar Hammerstein II"
+      ]
+    },
+    {
+      "slug": "the-robber-bridegroom",
+      "title": "The Robber Bridegroom",
+      "year": "1975",
+      "creators": [
+        "Robert Waldman",
+        "Alfred Uhry"
+      ]
+    },
+    {
+      "slug": "unlabelled-credits",
+      "title": "Unlabelled Credits",
+      "year": "1999",
+      "creators": [
+        "Fred Ebb"
       ]
     }
   ]
