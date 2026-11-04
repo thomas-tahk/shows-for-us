@@ -7,7 +7,7 @@ import { load } from 'js-yaml'
 
 type Step = { uses?: string; run?: string; with?: Record<string, string> }
 type Workflow = {
-  on: { schedule: { cron: string }[]; workflow_dispatch: unknown }
+  on: { schedule: { cron: string }[]; workflow_dispatch: { inputs?: Record<string, { type?: string; default?: unknown }> } }
   jobs: { refresh: { 'timeout-minutes'?: number; defaults: { run: { 'working-directory': string } }; steps: Step[] } }
 }
 const wf = load(readFileSync(join(__dirname, '../../.github/workflows/refresh-data.yml'), 'utf8')) as Workflow
@@ -24,11 +24,22 @@ describe('refresh-data workflow', () => {
     expect(wf.on).toHaveProperty('workflow_dispatch')
   })
 
+  it('offers a boolean allow_shrink input, default false, used only by the catalogue pull', () => {
+    const input = wf.on.workflow_dispatch.inputs?.allow_shrink
+    expect(input?.type).toBe('boolean')
+    expect(input?.default).toBe(false)
+    const pull = steps[runIdx('npm run pull:catalog') !== -1 ? runIdx('npm run pull:catalog') : idx((s) => !!s.run?.includes('pull:catalog'))]
+    expect(pull.run).toContain('--allow-shrink')
+    expect(pull.run).toContain('inputs.allow_shrink')
+    expect(steps.filter((s) => s.run?.includes('--allow-shrink'))).toHaveLength(1)
+    expect(wf.on.schedule[0]).not.toHaveProperty('inputs')
+  })
+
   it('has the steps in order', () => {
     const order = [
       runIdx('npm ci'),
       runIdx('npm run pull'),
-      runIdx('npm run pull:catalog'),
+      idx((s) => !!s.run?.includes('pull:catalog')),
       filterIdx(),
       runIdx('npm run typecheck'),
       runIdx('npm run lint'),

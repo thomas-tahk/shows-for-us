@@ -30,7 +30,7 @@ interface SparqlResult {
   results: { bindings: Binding[] }
 }
 
-export const SPARQL = 'https://query.wikidata.org/sparql'
+const SPARQL = 'https://query.wikidata.org/sparql'
 
 export function sparqlRequest(path: string, query: string): PullRequest {
   return {

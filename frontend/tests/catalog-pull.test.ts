@@ -6,7 +6,7 @@ import type { Flagship } from '../src/data/show.ts'
 import { shardOf, type CatalogIndex, type CatalogShard, type CatalogShow } from '../src/data/catalogShow.ts'
 import { offlineFetcher } from '../scripts/fetchers.ts'
 import { itemsQuery, type Fetcher, type PullRequest } from '../scripts/pull-lib.ts'
-import { assignSlugs, buildIndex, extractsRequest, groupShards, pullCatalog, slugify } from '../scripts/catalog-lib.ts'
+import { assignSlugs, buildIndex, extractsRequest, groupShards, listingQuery, pullCatalog, slugify } from '../scripts/catalog-lib.ts'
 import { runCatalog } from '../scripts/catalog-run.ts'
 
 const flagships = JSON.parse(readFileSync('data/flagships.json', 'utf8')) as Flagship[]
@@ -144,7 +144,7 @@ describe('offline catalogue from fixtures', () => {
   })
 
   it('shards: grouped by shardOf, records sorted by slug', () => {
-    const grouped = groupShards(shows)
+    const grouped = groupShards(shows, false)
     expect([...grouped.keys()].every((k) => /^\d{3}$/.test(k))).toBe(true)
     let n = 0
     for (const [shard, rec] of grouped) {
@@ -205,6 +205,46 @@ describe('query batching', () => {
     const q = decodeURIComponent(lists[0].url)
     expect(q).toContain('SELECT DISTINCT')
     expect(q).not.toMatch(/LIMIT|OFFSET/)
+  })
+
+  it('listing excludes opera (incl. operetta), oratorio, ballet, cantata via the subclass path', () => {
+    const q = listingQuery()
+    expect(q).toContain('FILTER NOT EXISTS')
+    for (const id of ['Q1344', 'Q182832', 'Q2742', 'Q169034']) expect(q).toContain(`wdt:P31/wdt:P279* wd:${id}`)
+    expect(q.indexOf('FILTER NOT EXISTS')).toBeGreaterThan(q.indexOf('Q58483083'))
+  })
+
+  it('logs excluded count and kept-class breakdown from small extra queries', async () => {
+    const logs: string[] = []
+    const fetcher: Fetcher = async (req) => {
+      if (req.path === 'catalog/excluded.json') return { results: { bindings: [{ n: { type: 'literal', value: '4321' } }] } }
+      if (req.path === 'catalog/classes.json') {
+        const row = (q: string, l: string, n: number) => ({
+          cls: { type: 'uri', value: `http://www.wikidata.org/entity/${q}` },
+          clsLabel: { type: 'literal', value: l },
+          n: { type: 'literal', value: String(n) },
+        })
+        return { results: { bindings: [row('Q2743', 'musical theatre', 900), row('Q58483083', 'dramatico-musical work', 12)] } }
+      }
+      return stub(1).fetcher(req)
+    }
+    await pullCatalog([], fetcher, { log: (m) => logs.push(m) })
+    const text = logs.join('\n')
+    expect(text).toMatch(/excluded.*4321|4321.*excluded/i)
+    expect(text).toContain('Q2743')
+    expect(text).toContain('musical theatre')
+    expect(text).toMatch(/900/)
+  })
+
+  it('a failing diagnostic query does not fail the pull', async () => {
+    const logs: string[] = []
+    const base = stub(3).fetcher
+    const fetcher: Fetcher = async (req) => {
+      if (req.path === 'catalog/classes.json' || req.path === 'catalog/excluded.json') throw new Error('boom')
+      return base(req)
+    }
+    expect(await pullCatalog([], fetcher, { log: (m) => logs.push(m) })).toHaveLength(3)
+    expect(logs.join('\n')).toMatch(/breakdown.*unavailable|unavailable.*breakdown/i)
   })
 
   it('asks the label service for en then mul', () => {
@@ -335,6 +375,31 @@ describe('runCatalog', () => {
     const dir = tmp()
     writeFileSync(join(dir, 'index.json'), JSON.stringify({ meta: { count: shows.length + 1 }, shows: [] }))
     expect(await runCatalog(opts(dir, { mode: 'live' }))).toBe(0)
+  })
+
+  it('allowShrink bypasses the guard, writes, and logs that it did', async () => {
+    const dir = tmp()
+    writeFileSync(join(dir, 'index.json'), JSON.stringify({ meta: { generated_at: 'x', mode: 'live', live: true, count: 100000 }, shows: [] }))
+    const logs: string[] = []
+    expect(await runCatalog(opts(dir, { mode: 'live', allowShrink: true, log: (m) => logs.push(m) }))).toBe(0)
+    expect(logs.join('\n')).toMatch(/allow-shrink/)
+    expect(read<CatalogIndex>(join(dir, 'index.json')).meta.count).toBe(shows.length)
+  })
+
+  it('without allowShrink the same shrink is refused', async () => {
+    const dir = tmp()
+    writeFileSync(join(dir, 'index.json'), JSON.stringify({ meta: { count: 100000 }, shows: [] }))
+    expect(await runCatalog(opts(dir, { mode: 'live' }))).toBe(1)
+  })
+
+  it.each(['live', 'offline-fixtures'] as const)('every shard carries live matching the index (%s)', async (mode) => {
+    const dir = tmp()
+    expect(await runCatalog(opts(dir, { mode }))).toBe(0)
+    const idx = read<CatalogIndex>(join(dir, 'index.json'))
+    const files = readdirSync(join(dir, 'shows'))
+    expect(files.length).toBeGreaterThan(0)
+    for (const f of files) expect(read<CatalogShard>(join(dir, 'shows', f)).live).toBe(idx.meta.live)
+    expect(idx.meta.live).toBe(mode === 'live')
   })
 
   it('a failed request writes no files and exits 1', async () => {
