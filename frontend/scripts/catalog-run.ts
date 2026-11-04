@@ -9,11 +9,15 @@ export const SHRINK_FLOOR = 0.9
 
 export interface RunOptions {
   fetcher: Fetcher
+  /** Single-attempt fetcher for the log-only class queries. Defaults to `fetcher`. */
+  diagnosticFetcher?: Fetcher
   flagships: Flagship[]
   outDir: string
   mode: CatalogIndex['meta']['mode']
   now: () => string
   log: (msg: string) => void
+  /** Skip the 90% shrink guard (one-off, e.g. after narrowing the listing query). */
+  allowShrink?: boolean
 }
 
 async function committedMeta(outDir: string): Promise<Partial<CatalogIndex['meta']> | null> {
@@ -34,6 +38,10 @@ async function offlineProblem(o: RunOptions): Promise<string | null> {
 /** Message if this run must not overwrite the committed catalogue, else null. Offline runs are exempt. */
 async function shrinkProblem(o: RunOptions, count: number): Promise<string | null> {
   if (o.mode === 'offline-fixtures') return null
+  if (o.allowShrink) {
+    o.log('--allow-shrink: shrink guard skipped')
+    return null
+  }
   const before = (await committedMeta(o.outDir))?.count
   if (typeof before !== 'number' || count >= before * SHRINK_FLOOR) return null
   return `shrink guard: this run found ${count} shows, under 90% of the ${before} in ${o.outDir}/index.json; nothing written`
@@ -44,12 +52,13 @@ const json = (v: unknown) => JSON.stringify(v, null, 2) + '\n'
 async function writeCatalog(o: RunOptions, shows: CatalogShow[]): Promise<void> {
   const shardDir = join(o.outDir, 'shows')
   await mkdir(shardDir, { recursive: true })
-  const shards = groupShards(shows)
+  const live = o.mode !== 'offline-fixtures'
+  const shards = groupShards(shows, live)
   for (const [key, shard] of shards) await writeFile(join(shardDir, `${key}.json`), json(shard))
   for (const f of await readdir(shardDir)) {
     if (/^\d{3}\.json$/.test(f) && !shards.has(f.slice(0, 3))) await rm(join(shardDir, f))
   }
-  const meta = { generated_at: o.now(), mode: o.mode, live: o.mode !== 'offline-fixtures', count: shows.length }
+  const meta = { generated_at: o.now(), mode: o.mode, live, count: shows.length }
   await writeFile(join(o.outDir, 'index.json'), json({ meta, shows: buildIndex(shows) }))
 }
 
@@ -62,7 +71,7 @@ export async function runCatalog(o: RunOptions): Promise<number> {
   }
   let shows: CatalogShow[]
   try {
-    shows = await pullCatalog(o.flagships, o.fetcher, { log: o.log })
+    shows = await pullCatalog(o.flagships, o.fetcher, { log: o.log, diagnosticFetcher: o.diagnosticFetcher })
   } catch (e) {
     o.log(`FAILED: ${(e as Error).message}; nothing written`)
     return 1

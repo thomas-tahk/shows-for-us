@@ -4,7 +4,8 @@ name: Refresh data
 #   1. `npm run pull` re-fetches the 15 flagship shows (frontend/data/).
 #   2. `npm run pull:catalog` re-fetches the whole catalogue (frontend/public/catalog/:
 #      one index plus one file per show). It takes ~30 minutes and fails the run if
-#      anything fails or the catalogue shrank by more than 10%.
+#      anything fails or the catalogue shrank by more than 10% (unless the manual
+#      run ticked allow_shrink).
 #   3. Files whose only change is the generated_at timestamp are put back, so a
 #      week with no real change opens no PR.
 #   4. The same checks as CI run (PRs made with GITHUB_TOKEN trigger no CI).
@@ -14,6 +15,11 @@ on:
   schedule:
     - cron: '17 6 * * 1' # Mondays 06:17 UTC
   workflow_dispatch:
+    inputs:
+      allow_shrink:
+        description: 'One-off: skip the 90% shrink guard (use after narrowing the catalogue query). Scheduled runs never set it.'
+        type: boolean
+        default: false
 
 # NOTE: the repo setting "Settings > Actions > General > Allow GitHub Actions to
 # create and approve pull requests" must be ON, or the PR step fails.
@@ -40,7 +46,7 @@ jobs:
       - run: npm run pull
       # Writes frontend/public/catalog/index.json and shows/*.json; exits 1 on any
       # failure or if the catalogue shrank by more than 10%.
-      - run: npm run pull:catalog
+      - run: npm run pull:catalog${{ inputs.allow_shrink && ' -- --allow-shrink' || '' }}
       # Both pulls always rewrite generated_at. Put back every file whose only change
       # is that timestamp, so no PR opens for nothing. `git add -N` first so new
       # (untracked) files show up in the diff and are kept; deleted files already do.
