@@ -1,4 +1,5 @@
 import { Link } from 'react-router-dom'
+import ThemeToggle from './ThemeToggle'
 
 export default function Navbar() {
   return (
@@ -6,6 +7,7 @@ export default function Navbar() {
       <Link to="/" className="inline-flex min-h-11 items-center text-amber-400 font-bold text-xl tracking-wide">
         Shows For Us
       </Link>
+      <ThemeToggle />
     </nav>
   )
 }

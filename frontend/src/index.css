@@ -1,1 +1,28 @@
 @import "tailwindcss";
+
+/* Light theme: remaps the palette tokens the components already use, so no component needs a second set of classes. */
+:root[data-theme='light'] {
+  color-scheme: light;
+  --color-white: #0a0a0a;
+  --color-neutral-50: #0a0a0a;
+  --color-neutral-100: #171717;
+  --color-neutral-200: #262626;
+  --color-neutral-300: #404040;
+  --color-neutral-400: #525252;
+  --color-neutral-500: #737373;
+  --color-neutral-600: #a3a3a3;
+  --color-neutral-700: #d4d4d4;
+  --color-neutral-800: #e5e2db;
+  --color-neutral-900: #ffffff;
+  --color-neutral-950: #f6f5f2;
+  --color-amber-50: #451a03;
+  --color-amber-100: #451a03;
+  --color-amber-200: #78350f;
+  --color-amber-300: #92400e;
+  --color-amber-400: #b45309;
+  --color-amber-500: #b45309;
+  --color-amber-950: #fde68a;
+}
+:root[data-theme='dark'] {
+  color-scheme: dark;
+}

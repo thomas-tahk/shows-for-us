@@ -27,3 +27,10 @@ I search a musical I love, read its history and who wrote it and starred in it, 
 - **Assumption (VERIFIED for show/people data; REFUTED for ticketing data):** static build works for Wikidata/Wikipedia/curated data. Ticketmaster event data must be fetched live (short-TTL), not baked into the build. Evidence: docs/chief/research/data-sources.md sections 2.1 and 3.
 - **Assumption (VERIFIED, low risk):** start with musicals, widen later. Wikidata class dramatico-musical work (Q58483083) is queryable and broader theatre classes exist in the same graph; not studied beyond musicals. Evidence: docs/chief/research/data-sources.md section 1.1.
 - **Assumption (STILL OPEN, leaning refuted for the backend):** v1 pipeline needs no Express/Postgres; React pages and the Ticketmaster client may be mined for the live-fetch piece. Not assessed against code this round. See docs/chief/research/data-sources.md section 3.
+
+## Owner direction, 2026-11-06 (PR #21 feedback) — for later milestones, not M2
+- **Presentation:** richer palette and visual design; this is a showcase for an art form, so go further than a utility look. Light/dark themes shipped in M2 (toggle in the navbar, default dark); the palette rework is its own milestone.
+- **Photos:** person and show hero cards should carry photos wherever a source has one; stitching from several sources is fine. Hover cards already show the Wikipedia thumbnail when it exists.
+- **Curated hover/summary text** instead of raw Wikipedia excerpts, with a deeper per-person and per-musical page to read more.
+- **Narrative layer (the differentiator):** a very short, true story of who made each musical and how their careers connect. Never fabricated: every claim traceable to a source. Needs Shape (what a "narrative" is on this site) before Plan.
+- **Open question:** why Wikipedia/Wikidata/IBDB as the main sources (he asked). Answer: free, structured, linkable and licence-clear; IBDB is the Broadway authority. Revisit in Research for richer narrative sources.
