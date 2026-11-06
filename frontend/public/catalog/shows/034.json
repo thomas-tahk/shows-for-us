@@ -1,0 +1,584 @@
+{
+  "live": true,
+  "shows": {
+    "a-kurt-weill-cabaret": {
+      "slug": "a-kurt-weill-cabaret",
+      "title": "A Kurt Weill Cabaret",
+      "qid": "Q4657604",
+      "enwiki": "A Kurt Weill Cabaret",
+      "composers": [
+        {
+          "name": "Kurt Weill",
+          "qid": "Q55004",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7112"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Bertolt Brecht",
+          "qid": "Q38757",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4511"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1141",
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Kurt_Weill_Cabaret",
+        "wikidata": "https://www.wikidata.org/wiki/Q4657604"
+      },
+      "summary": {
+        "text": "A Kurt Weill Cabaret was a Broadway and off-Broadway production featuring the music of Kurt Weill. A precursor, The World of Kurt Weill in Song, opened off-Broadway at One Sheridan Square in the West Village on June 6, 1963, starring Will Holt and Martha Schlamme. In 1979, it was revised as A Kurt Weill Cabaret and opened at the Bijou Theater on Broadway, with Alvin Epstein and Martha Schlamme and ran for 72 performances. The Harold Clurman Theatre (now Theatre Five in the Theatre Row Building) showed it in 1984.\nA recording of the original production was released by MGM Records (E/SE 4180 OC) in 1963.",
+        "source_url": "https://en.wikipedia.org/wiki/A_Kurt_Weill_Cabaret",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "boogie-nights": {
+      "slug": "boogie-nights",
+      "title": "Boogie Nights",
+      "qid": "Q116169870",
+      "enwiki": "Boogie Nights (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Boogie_Nights_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q116169870"
+      },
+      "summary": {
+        "text": "Boogie Nights is a British musical play, based upon the pop music of the 1970s, written by Jon Conway with Shane Richie and Terry Morrison. Its 2013 production starred Jimmy Osmond, Jay Osmond, Merrill Osmond and Gareth Gates.",
+        "source_url": "https://en.wikipedia.org/wiki/Boogie_Nights_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "bumbug-the-musical": {
+      "slug": "bumbug-the-musical",
+      "title": "Bumbug the Musical",
+      "qid": "Q138748573",
+      "enwiki": "Bumbug the Musical",
+      "composers": [
+        {
+          "name": "Samrat Chakrabarti",
+          "qid": "Q7410287"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Samrat Chakrabarti",
+          "qid": "Q7410287"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Bumbug_the_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q138748573"
+      },
+      "summary": {
+        "text": "Bumbug the Musical is a 2012 rock musical and contemporary update of Charles Dickens' A Christmas Carol.\nThe show’s book and lyrics were by creators Samrat Chakrabarti and Sanjiv Jhaveri with music by Chakrabarti.",
+        "source_url": "https://en.wikipedia.org/wiki/Bumbug_the_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "but-never-jam-today": {
+      "slug": "but-never-jam-today",
+      "title": "But Never Jam Today",
+      "qid": "Q5002317",
+      "enwiki": "But Never Jam Today",
+      "composers": [
+        {
+          "name": "Bert Keyes",
+          "qid": "Q61812707"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Vinnette Justine Carroll",
+          "qid": "Q7932632",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8968"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2311",
+        "playbill": "https://playbill.com/production/but-never-jam-today-longacre-theatre-vault-0000006884",
+        "wikipedia": "https://en.wikipedia.org/wiki/But_Never_Jam_Today",
+        "wikidata": "https://www.wikidata.org/wiki/Q5002317"
+      },
+      "summary": {
+        "text": "But Never Jam Today is a 1979 musical with music by Bert Keyes and Bob Larimer, lyrics by Larimer, and a book by both Larimer and Vinnette Carroll. The musical is based on the works of Lewis Carroll, and takes its title from the \"jam tomorrow\" discussion in Carroll's 1871 novel Through the Looking-Glass.",
+        "source_url": "https://en.wikipedia.org/wiki/But_Never_Jam_Today",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "crest-of-the-wave": {
+      "slug": "crest-of-the-wave",
+      "title": "Crest of the Wave",
+      "qid": "Q5184559",
+      "enwiki": "Crest of the Wave (musical)",
+      "composers": [
+        {
+          "name": "Ivor Novello",
+          "qid": "Q436693",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6484"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Crest_of_the_Wave_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5184559"
+      },
+      "summary": {
+        "text": "Crest of the Wave is a musical with book and music by Ivor Novello and lyrics by Christopher Hassall.\nIt premiered at the Theatre Royal, Drury Lane in London, on 1 September 1937, starring Novello as both hero and villain, Dorothy Dickson, Olive Gilbert, Walter Crisham and Edgar Elmes. Directed by Novello's frequent collaborator Leontine Sagan, it ran for 203 performances.\nThe best-known songs from the musical are \"Rose of England\", \"Why isn't it you?\", \"Haven of your heart\" and \"If you only knew\".  The story concerns an impoverished nobleman, The Duke of Cheviot, who is shot by a lover and pursued by the villainous Otto Fresch. The staging featured a spectacular train crash, one of several Novello musicals featuring a spectacular disaster: Glamorous Night has a shipwreck and Careless Rapture depicts an earthquake.",
+        "source_url": "https://en.wikipedia.org/wiki/Crest_of_the_Wave_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "elisabeth": {
+      "slug": "elisabeth",
+      "title": "Elisabeth",
+      "qid": "Q701443",
+      "enwiki": "Elisabeth (musical)",
+      "composers": [
+        {
+          "name": "Sylvester Levay",
+          "qid": "Q694658"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Michael Kunze",
+          "qid": "Q69773",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/87962"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Michael Kunze",
+          "qid": "Q69773",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/87962"
+        }
+      ],
+      "premiere": {
+        "date": "1992-09-03",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Elisabeth_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q701443"
+      },
+      "summary": {
+        "text": "Elisabeth is a Viennese musical commissioned by the Vereinigte Bühnen Wien and originally produced in German, with a book and lyrics by Michael Kunze and music by Sylvester Levay. It portrays the life and death of Empress Elisabeth of Austria, also known as \"Sisi\", the wife of Emperor Franz Joseph I, from her engagement and marriage in 1854 to her murder in 1898 at the hands of the Italian anarchist Luigi Lucheni; it focuses on her growing obsession with death, as her marriage and the empire crumble around her just before the turn of the 20th century. \nAccording to Vereinigte Bühnen Wien, it has been translated into ten languages and seen by over 12 million spectators in 14 countries, making it the most successful German-language musical of all time.",
+        "source_url": "https://en.wikipedia.org/wiki/Elisabeth_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "first-impressions": {
+      "slug": "first-impressions",
+      "title": "First Impressions",
+      "qid": "Q3072938",
+      "enwiki": "First Impressions (musical)",
+      "composers": [
+        {
+          "name": "George David Weiss",
+          "qid": "Q1507215",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12561"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "George David Weiss",
+          "qid": "Q1507215",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12561"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Abe Burrows",
+          "qid": "Q318138",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3875"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3560",
+        "wikipedia": "https://en.wikipedia.org/wiki/First_Impressions_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q3072938"
+      },
+      "summary": {
+        "text": "First Impressions is a Broadway musical with music and lyrics by George Weiss, Bo Goldman, and Glenn Paxton, and book by Abe Burrows, who also directed the musical. It is based on Helen Jerome's 1935 stage adaptation of Jane Austen's 1813 novel Pride and Prejudice.",
+        "source_url": "https://en.wikipedia.org/wiki/First_Impressions_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "golden-boy-of-the-blue-ridge": {
+      "slug": "golden-boy-of-the-blue-ridge",
+      "title": "Golden Boy of the Blue Ridge",
+      "qid": "Q5579233",
+      "enwiki": "Golden Boy of the Blue Ridge",
+      "composers": [
+        {
+          "name": "Peter Mills",
+          "qid": "Q60734059"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2009-04-11",
+        "venue": "59E59 Theaters"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Golden_Boy_of_the_Blue_Ridge",
+        "wikidata": "https://www.wikidata.org/wiki/Q5579233"
+      },
+      "summary": {
+        "text": "Golden Boy of the Blue Ridge is a musical based on the Irish classic Playboy of the Western World by John Millington Synge. The music was written by Peter Mills  with a book by Peter Mills and Cara Reichel. The story has been transplanted from rural Ireland to 1930s Appalachia and set to a bluegrass-flavored score. It was first presented by Prospect Theater Company at the 59E59 Theaters in New York City April 11 - May 3, 2009.",
+        "source_url": "https://en.wikipedia.org/wiki/Golden_Boy_of_the_Blue_Ridge",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "moby-dick-2019-musical": {
+      "slug": "moby-dick-2019-musical",
+      "title": "Moby-Dick",
+      "qid": "Q85785998",
+      "enwiki": "Moby-Dick (2019 musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Moby-Dick_(2019_musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q85785998"
+      },
+      "summary": {
+        "text": "Moby-Dick is a musical in four parts with lyrics, music and book by Dave Malloy. An adaptation of the classic 1851 novel by Herman Melville, the musical made its world premiere in December 2019 at the American Repertory Theater in Cambridge, Massachusetts, directed by Rachel Chavkin.",
+        "source_url": "https://en.wikipedia.org/wiki/Moby-Dick_(2019_musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "phantom": {
+      "slug": "phantom",
+      "title": "Phantom",
+      "qid": "Q2291188",
+      "enwiki": "Phantom (musical)",
+      "composers": [
+        {
+          "name": "Maury Yeston",
+          "qid": "Q203977",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12605"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Maury Yeston",
+          "qid": "Q203977",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12605"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Arthur Kopit",
+          "qid": "Q770566",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4304"
+        }
+      ],
+      "premiere": {
+        "date": "1991-01",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Phantom_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q2291188"
+      },
+      "summary": {
+        "text": "Phantom is a musical with music and lyrics by Maury Yeston and a book by Arthur Kopit. Based on Gaston Leroux's 1910 novel The Phantom of the Opera, the musical was first presented in Houston, Texas in 1991.\nAlthough it has never appeared on Broadway and has been overshadowed by the success of the 1986 Andrew Lloyd Webber musical, Yeston and Kopit's Phantom has received over 1,000 productions.",
+        "source_url": "https://en.wikipedia.org/wiki/Phantom_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "rugantino": {
+      "slug": "rugantino",
+      "title": "Rugantino",
+      "qid": "Q3942366",
+      "enwiki": "Rugantino (musical)",
+      "composers": [
+        {
+          "name": "Armando Trovajoli",
+          "qid": "Q678840",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12507"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Pietro Garinei",
+          "qid": "Q1072865",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8183"
+        },
+        {
+          "name": "Sandro Giovannini",
+          "qid": "Q3948236",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8607"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Pietro Garinei",
+          "qid": "Q1072865",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8183"
+        },
+        {
+          "name": "Sandro Giovannini",
+          "qid": "Q3948236",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8607"
+        },
+        {
+          "name": "Massimo Franciosa",
+          "qid": "Q525427",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11251"
+        }
+      ],
+      "premiere": {
+        "date": "1962-12-15",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7667",
+        "wikipedia": "https://en.wikipedia.org/wiki/Rugantino_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q3942366"
+      },
+      "summary": {
+        "text": "Rugantino is a musical comedy by Pietro Garinei and Sandro Giovannini, which debuted at the Teatro Sistina in Rome, Italy, on 15 December 1962. Music was written by Armando Trovaioli.\nIt is a comedy set in the papal Rome of the 19th century. Actors who played in the first edition included Nino Manfredi (Rugantino, a traditional stock character from commedia dell'arte), Aldo Fabrizi (as Mastro Titta, a historical executioner), Lea Massari (Rosetta, later replaced by Ornella Vanoni) and Bice Valori (Eusebia). In the second Italian edition Rugantino was played by Enrico Montesano, and Rosetta by Alida Chelli. \nThe comedy was also performed in Toronto and New York City (opening at the Mark Hellinger Theatre in February 1964), in an English version translated by Alfred Drake with lyric translation by Edward Eager. The English translation was projected using surtitles on a screen above the stage. The New York Times reported the show’s losses as $300,000.",
+        "source_url": "https://en.wikipedia.org/wiki/Rugantino_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "save-the-last-dance-for-me": {
+      "slug": "save-the-last-dance-for-me",
+      "title": "Save the Last Dance for Me",
+      "qid": "Q21160932",
+      "enwiki": "Save the Last Dance for Me (musical)",
+      "composers": [
+        {
+          "name": "Mort Shuman",
+          "qid": "Q1353559",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13302"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Doc Pomus",
+          "qid": "Q704718",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/74090"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Laurence Marks",
+          "qid": "Q6500718"
+        }
+      ],
+      "premiere": {
+        "date": "2012-01-09",
+        "venue": "Churchill Theatre"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Save_the_Last_Dance_for_Me_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q21160932"
+      },
+      "summary": {
+        "text": "Save the Last Dance for Me is a jukebox musical written by Laurence Marks and Maurice Gran. It primarily uses songs from the 1960s written by Doc Pomus and Mort Shuman such as A Teenager in Love, Sweets For My Sweet, Little Sister, Viva Las Vegas, Can't Get Used to Losing You and the title song Save the Last Dance for Me. It opened at the Churchill Theatre Bromley on 9 January 2012 before embarking on a nationwide tour.  A spin-off production from Dreamboats and Petticoats, it reunited the writing team with producer Bill Kenwright and director Keith Strachan. The choreography was by Olivier Award winner, Bill Deamer. As was the case in Dreamboats and Petticoats, all of the music was played live by the actors on stage. A new production has been announced, due to open April 2016 at Windsor Theatre Royal, before touring the UK again.",
+        "source_url": "https://en.wikipedia.org/wiki/Save_the_Last_Dance_for_Me_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "sideways": {
+      "slug": "sideways",
+      "title": "Sideways",
+      "qid": "Q125924324",
+      "enwiki": "Sideways (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Sideways_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q125924324"
+      },
+      "summary": {
+        "text": "Sideways is a stage musical with a book by Rex Pickett and music by Anthony Leigh Adams with a lyrics by Pickett and Adams. The show is based on the novel of the same name by Pickett, which he also adapted as a straight play. The novel was the basis of a 2004 film of the same name by Alexander Payne and Jim Taylor.\nThe show is set in California wine country in Santa Ynez Valley and follows Miles Raymond, a down on his luck writer that lives in Santa Monica. Raymond and a friend, Jack, head off on a road trip to the countryside that turns into a journey of self discovery.",
+        "source_url": "https://en.wikipedia.org/wiki/Sideways_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "song-of-the-flame": {
+      "slug": "song-of-the-flame",
+      "title": "Song of the Flame",
+      "qid": "Q106446813",
+      "enwiki": "Song of the Flame",
+      "composers": [
+        {
+          "name": "Oscar Hammerstein II",
+          "qid": "Q319693",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7965"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Song_of_the_Flame",
+        "wikidata": "https://www.wikidata.org/wiki/Q106446813"
+      },
+      "summary": {
+        "text": "Song of the Flame is an operetta with music by Herbert Stothart and George Gershwin, and a musical book and lyrics co-written by \nOscar Hammerstein II and Otto A. Harbach. Organized into a prologue, two acts, and an epilogue, the operetta is set in Moscow, Russia and Paris, France in the Spring of 1917. \nSong of the Flame premiered on Broadway at the 44th Street Theatre on December 30, 1925. It ran for a total of 219 performances; closing on July 10, 1926 after 219 performances. Directed by Frank Reicher and choreographed by Jack Haskell, the production used sets created by the Australian designer Joseph Urban and costumes designed by Mark Mooring. The cast included Phoebe Brune as Natasha, Greek Evans as Konstantin, Tessa Kosta as Aniuta (\"The Flame\"), Guy Robertson as Prince Volodya, and the 52-member Russian Art Choir. The performance of the songs \"Song of the Flame\" and \"Cossack Love Song\" by Tessa Kosta and the Russian Art Choir were recorded onto Columbia records in 1926. The Russian Art Choir was directed by Alexander U. Fine",
+        "source_url": "https://en.wikipedia.org/wiki/Song_of_the_Flame",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-ham-tree": {
+      "slug": "the-ham-tree",
+      "title": "The Ham Tree",
+      "qid": "Q66238374",
+      "enwiki": "The Ham Tree",
+      "composers": [
+        {
+          "name": "Jean Schwartz",
+          "qid": "Q6171492",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12374"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "William Jerome",
+          "qid": "Q8013564",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11936"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": "1905-08-28",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4170",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Ham_Tree",
+        "wikidata": "https://www.wikidata.org/wiki/Q66238374"
+      },
+      "summary": {
+        "text": "The Ham Tree is a \"musical vaudeville\" in three acts with music by Jean Schwartz, lyrics by William Jerome, and a book by George V. Hobart.  A popular success from its debut in 1905, the work toured for several years; including three separate runs on Broadway. The work was created as a starring vehicle for vaudeville and minstrel show stars James McIntyre and Thomas Heath who were known for their work as blackface performers. The work incorporated several of their prior popular routines and sketches from their work on the vaudeville stage in order to appeal to their fan base. The concept of a \"ham tree\", along with other humorous trees like an \"egg tree\", was a repeating gag in their works dating back to their performances in The Georgia Minstrels in the 1890s and early 1900s. Following its initial tour, the work was revived by McIntyre and Heath several times, and was later heavily revised and retitled Hello, Alexander for a Broadway staging in 1919.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Ham_Tree",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-other-josh-cohen": {
+      "slug": "the-other-josh-cohen",
+      "title": "The Other Josh Cohen",
+      "qid": "Q106855936",
+      "enwiki": "The Other Josh Cohen",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Other_Josh_Cohen",
+        "wikidata": "https://www.wikidata.org/wiki/Q106855936"
+      },
+      "summary": {
+        "text": "The Other Josh Cohen is a 2012 musical comedy with book, music, and lyrics by Steve Rosen and David Rossmer.  The musical was nominated for six Drama Desk Awards in 2013 and the Lucille Lortel Award for Outstanding Musical.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Other_Josh_Cohen",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "zuleika": {
+      "slug": "zuleika",
+      "title": "Zuleika",
+      "qid": "Q8075112",
+      "enwiki": "Zuleika (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Zuleika_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q8075112"
+      },
+      "summary": {
+        "text": "Zuleika is a musical with music by Peter Tranchell and book and lyrics by James Ferman.  The musical is based on the 1911 novel, Zuleika Dobson, by Max Beerbohm.",
+        "source_url": "https://en.wikipedia.org/wiki/Zuleika_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

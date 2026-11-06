@@ -1,0 +1,547 @@
+{
+  "live": true,
+  "shows": {
+    "abbacadabra": {
+      "slug": "abbacadabra",
+      "title": "Abbacadabra",
+      "qid": "Q2820226",
+      "enwiki": "Abbacadabra",
+      "composers": [
+        {
+          "name": "Benny Andersson",
+          "qid": "Q214582",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11314"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Alain Boublil",
+          "qid": "Q284540",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3932"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Alain Boublil",
+          "qid": "Q284540",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3932"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Abbacadabra",
+        "wikidata": "https://www.wikidata.org/wiki/Q2820226"
+      },
+      "summary": {
+        "text": "ABBAcadabra is a French children's musical based on songs from the pop group ABBA. It was originally produced for French television in 1983 by Alain Boublil and Daniel Boublil, which was later also transferred to an English stage version and two other television programs. The story was not always the same as the selection of the chosen songs varied by productions.",
+        "source_url": "https://en.wikipedia.org/wiki/Abbacadabra",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "bar-mitzvah-boy": {
+      "slug": "bar-mitzvah-boy",
+      "title": "Bar Mitzvah Boy",
+      "qid": "Q4279588",
+      "enwiki": "Bar Mitzvah Boy (musical)",
+      "composers": [
+        {
+          "name": "Jule Styne",
+          "qid": "Q587741",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12466"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Don Black",
+          "qid": "Q1238931",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5065"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Jack Rosenthal",
+          "qid": "Q1677193"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Bar_Mitzvah_Boy_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4279588"
+      },
+      "summary": {
+        "text": "Bar Mitzvah Boy is a musical with a book by Jack Rosenthal, lyrics by Don Black, and music by Jule Styne.\nBased on Rosenthal's award-winning 1976 BBC1 teleplay of the same name, it focuses on young Eliot Green who, filled with apprehension, escapes from the synagogue where he is about to make his bar mitzvah, much to the dismay of his middle class parents, who have invested their savings in a lavish party to celebrate their son's coming of age.\nThe West End production opened on 31 October 1978 at Her Majesty's Theatre, where it ran for 78 performances. The cast included Barry Angel, Joyce Blair, Zelah Clarke, Leonie Cosman, Ray C. Davis, Gordon Faith, Ashley Knight, Benny Lee, Barry Martin, Vivienne Martin, Harry Towb, Kerry Shale and Peter Whitman. CBS released an original cast recording.  It was choreographed by Peter Gennaro and directed by Martin Charnin.\nThe Americanized adaptation by Martin Gottfried changed the setting from 1970s Britain to 1946 Brooklyn, but its central story remained the same. \nThe off-Broadway production, directed by Robert Kalfin, opened on June 10, 1987 at the American Jewish Theater of the 92nd Street Y. The cast included Peter Smith as Eliot, with Larry Keith, Mary Gutzi, Mary Stout, Michael Cone, Michael Callan, Eleanor Reissa, Daniel Marcus, Kimberly Stern, and Reuben Schafer.\nA reading was held on January 26, 2007 at the Chelsea Studios, New York City, directed by Stafford Arima and featuring Faith Prince, Daniel Reichard and Peter Friedman.\nIn March 2016, a revival of the musical was staged Upstairs at the Gatehouse in Highgate, London.",
+        "source_url": "https://en.wikipedia.org/wiki/Bar_Mitzvah_Boy_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "disney-s-my-son-pinocchio-geppetto-s-musical-tale": {
+      "slug": "disney-s-my-son-pinocchio-geppetto-s-musical-tale",
+      "title": "Disney's My Son Pinocchio: Geppetto's Musical Tale",
+      "qid": "Q5282394",
+      "enwiki": "Disney's My Son Pinocchio: Geppetto's Musical Tale",
+      "composers": [
+        {
+          "name": "Stephen Schwartz",
+          "qid": "Q542484",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/108290"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Stephen Schwartz",
+          "qid": "Q542484",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/108290"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "David Stern",
+          "qid": "Q347958"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Disney's_My_Son_Pinocchio%3A_Geppetto's_Musical_Tale",
+        "wikidata": "https://www.wikidata.org/wiki/Q5282394"
+      },
+      "summary": {
+        "text": "Disney's My Son Pinocchio: Geppetto's Musical Tale is a musical based on Disney's 2000 made-for-television movie Geppetto. Gepetto was written by David Stern, and Stern also wrote the book for the musical, with music and lyrics by Stephen Schwartz.  As in the TV film, when Pinocchio runs away to become a star in Stromboli's puppet show, Geppetto must negotiate through a maze of adventures and comic encounters to find him.\nThe musical premiered under its former name, Disney's Geppetto & Son, at The Coterie Theatre, Kansas City, Missouri in 2006.",
+        "source_url": "https://en.wikipedia.org/wiki/Disney's_My_Son_Pinocchio%3A_Geppetto's_Musical_Tale",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "from-here-to-eternity": {
+      "slug": "from-here-to-eternity",
+      "title": "From Here to Eternity",
+      "qid": "Q16981485",
+      "enwiki": "From Here to Eternity (musical)",
+      "composers": [],
+      "lyricists": [
+        {
+          "name": "Tim Rice",
+          "qid": "Q298295",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8890"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": "Shaftesbury Theatre"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/From_Here_to_Eternity_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q16981485"
+      },
+      "summary": {
+        "text": "From Here to Eternity is a musical with music and lyrics by Stuart Brayson and Tim Rice and a book by Bill Oakes. Based on the 1951 novel of the same name by James Jones, the musical made its West End and world premiere in 2013, at the Shaftesbury Theatre, London.\nJones's novel From Here to Eternity was a best-seller and well known for its successful movie adaptation.  Jones's manuscript was heavily censored by his publisher to remove profanity and references to gay prostitution; the unexpurgated version was not published until 2011.  Once it was, the composer Stuart Brayson thought it might be adapted as a musical, and proposed the project to Tim Rice, who acquired the stage rights and wrote the lyrics.\nThe musical was announced in May 2011 and opened on 23 October 2013, a year later than originally planned.  The West End production stars Darius Campbell as Warden, Robert Lonsdale as Private Prewitt, and Ryan Sampson as Maggio.  The work received mixed reviews, though Brayson was praised for an imaginative score. The production closed on 29 March 2014, after a run of six and a half months. It later transferred to the United States, in 2016.",
+        "source_url": "https://en.wikipedia.org/wiki/From_Here_to_Eternity_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "frozen": {
+      "slug": "frozen",
+      "title": "Frozen",
+      "qid": "Q30597506",
+      "enwiki": "Frozen (musical)",
+      "composers": [
+        {
+          "name": "Robert Lopez",
+          "qid": "Q3435778",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/109408"
+        },
+        {
+          "name": "Kristen Anderson-Lopez",
+          "qid": "Q6437747",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/490352"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Robert Lopez",
+          "qid": "Q3435778",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/109408"
+        },
+        {
+          "name": "Kristen Anderson-Lopez",
+          "qid": "Q6437747",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/490352"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Jennifer Lee",
+          "qid": "Q5929198",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/515658"
+        }
+      ],
+      "premiere": {
+        "date": "2017-08-17",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/515643",
+        "official_site": "https://frozenthemusical.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Frozen_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q30597506"
+      },
+      "summary": {
+        "text": "Frozen is a musical with music and lyrics by Kristen Anderson-Lopez and Robert Lopez, and book by Jennifer Lee, based on Walt Disney Animation Studios' 2013 animated film Frozen. The story centers on the relationship between two sisters who are princesses, Elsa and Anna. Elsa has magical powers to create snow and ice, which she does not know how to control. After inheriting the throne, Elsa flees, inadvertently causes the kingdom to become frozen in an eternal winter, and nearly kills her sister. She must sacrifice and show true love to save the day.\nProduced by Disney Theatrical Productions, the musical had a tryout at the Buell Theatre in Denver, Colorado in August 2017 and premiered on Broadway in March 2018 at the St. James Theatre to mixed reviews. Due to the COVID-19 pandemic, the Broadway production closed on March 11, 2020, after 26 previews and 825 regular performances. A North American tour began in 2019 and closed in 2024. International productions followed, including a West End production that opened in September 2021 and closed in September 2024.",
+        "source_url": "https://en.wikipedia.org/wiki/Frozen_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "le-piege-de-meduse": {
+      "slug": "le-piege-de-meduse",
+      "title": "Le Piège de Méduse",
+      "qid": "Q6508083",
+      "enwiki": "Le Piège de Méduse",
+      "composers": [
+        {
+          "name": "Erik Satie",
+          "qid": "Q187192"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Le_Pi%C3%A8ge_de_M%C3%A9duse",
+        "wikidata": "https://www.wikidata.org/wiki/Q6508083"
+      },
+      "summary": {
+        "text": "Le Piège de Méduse (\"The Ruse of Medusa\") is a short play of which Erik Satie wrote both the text and the incidental music.\nThe text of the play was written as a comédie lyrique in one act, February–March 1913. In June of the same year Satie added the music, a set of seven little dances, originally composed for piano.\nThe first printed edition of the text of the play in 1921 contained 3 cubist woodcut engravings by Georges Braque. The piano version of the music was first published in 1929, a few years after the composer's death. The orchestral score was not published until 40 years later.",
+        "source_url": "https://en.wikipedia.org/wiki/Le_Pi%C3%A8ge_de_M%C3%A9duse",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "peter-pan-a-musical-adventure": {
+      "slug": "peter-pan-a-musical-adventure",
+      "title": "Peter Pan: A Musical Adventure",
+      "qid": "Q7176279",
+      "enwiki": "Peter Pan: A Musical Adventure",
+      "composers": [
+        {
+          "name": "George Stiles",
+          "qid": "Q5544860",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/434332"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Anthony Drewe",
+          "qid": "Q4772423",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/434333"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Peter_Pan%3A_A_Musical_Adventure",
+        "wikidata": "https://www.wikidata.org/wiki/Q7176279"
+      },
+      "summary": {
+        "text": "Peter Pan: A Musical Adventure is a musical based on J. M. Barrie's 1904 play Peter Pan, or the Boy Who Wouldn't Grow Up, with a book by Willis Hall and music and lyrics by George Stiles and Anthony Drewe.",
+        "source_url": "https://en.wikipedia.org/wiki/Peter_Pan%3A_A_Musical_Adventure",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "play-on": {
+      "slug": "play-on",
+      "title": "Play On!",
+      "qid": "Q7203057",
+      "enwiki": "Play On!",
+      "composers": [
+        {
+          "name": "Duke Ellington",
+          "qid": "Q4030",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11631"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Cheryl West",
+          "qid": "Q5092791",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4825"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7127",
+        "wikipedia": "https://en.wikipedia.org/wiki/Play_On!",
+        "wikidata": "https://www.wikidata.org/wiki/Q7203057"
+      },
+      "summary": {
+        "text": "Play On! is a musical adaptation of Shakespeare's Twelfth Night, featuring the music of Duke Ellington, conceived by Sheldon Epps, with a book by Cheryl L. West. The musical relocates the story from Illyria to 1940s Swing-era Harlem.\nPremiering at the Old Globe Theatre in San Diego, the production moved to Broadway at the Brooks Atkinson Theatre in 1997. The New York production received three nominations at the 51st Tony Awards, including for performances by Tonya Pinkins and André De Shields.",
+        "source_url": "https://en.wikipedia.org/wiki/Play_On!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "reedy-river": {
+      "slug": "reedy-river",
+      "title": "Reedy River",
+      "qid": "Q7306781",
+      "enwiki": "Reedy River (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Reedy_River_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7306781"
+      },
+      "summary": {
+        "text": "Reedy River is a 1953 Australian folk musical about the 1891 Australian shearers' strike. The libretto was written by Dick Diamond with songs chosen by John Gray. Two new songs were written for the musical by Diamond with music by Miles Maxwell.",
+        "source_url": "https://en.wikipedia.org/wiki/Reedy_River_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-boys-from-syracuse": {
+      "slug": "the-boys-from-syracuse",
+      "title": "The Boys from Syracuse",
+      "qid": "Q163844",
+      "enwiki": "The Boys from Syracuse",
+      "composers": [
+        {
+          "name": "Richard Rodgers",
+          "qid": "Q269094",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12311"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Lorenz Hart",
+          "qid": "Q725828",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11244"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "George Abbott",
+          "qid": "Q1506831",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5770"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2177",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Boys_from_Syracuse",
+        "wikidata": "https://www.wikidata.org/wiki/Q163844"
+      },
+      "summary": {
+        "text": "The Boys from Syracuse is a musical by Richard Rodgers and lyrics by Lorenz Hart, based on William Shakespeare's play The Comedy of Errors, as adapted by librettist George Abbott.  The score includes swing and other contemporary rhythms of the 1930s.  The show was the first musical based on a Shakespeare play. The Comedy of Errors was itself loosely based on a Roman play, The Menaechmi, or the Twin Brothers, by Plautus.\nThe show premiered on Broadway in 1938 and Off-Broadway in 1963, with later productions including a West End run in 1963 and in a Broadway revival in 2002.  A film adaptation was released in 1940.  Well-known songs from the score include \"Falling in Love with Love\", \"This Can't Be Love\" and \"Sing for Your Supper\".",
+        "source_url": "https://en.wikipedia.org/wiki/The_Boys_from_Syracuse",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-girl-behind-the-counter": {
+      "slug": "the-girl-behind-the-counter",
+      "title": "The Girl Behind the Counter",
+      "qid": "Q7736489",
+      "enwiki": "The Girl Behind the Counter",
+      "composers": [
+        {
+          "name": "Howard Talbot",
+          "qid": "Q5921014",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12481"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Arthur Anderson",
+          "qid": "Q4797816",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4262"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3871",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Girl_Behind_the_Counter",
+        "wikidata": "https://www.wikidata.org/wiki/Q7736489"
+      },
+      "summary": {
+        "text": "The Girl Behind the Counter is an Edwardian musical comedy with a book by Arthur Anderson and Leedham Bantock, music by Howard Talbot and lyrics by Arthur Anderson (and additional lyrics by Percy Greenbank).\nIt opened at Wyndham's Theatre on 21 April 1906, produced by Frank Curzon and directed by Austen Hurgon. The farcical musical starred Isabel Jay, C. Hayden Coffin and Lawrence Grossmith.  It ran for 141 performances in the original London production, and an adaptation ran for twice that long in 1907–08 on Broadway. The Broadway production was \"freely adapted and reconstructed by Edgar Smith\" and starred Lew Fields and Connie Ediss.\nIt toured successfully thereafter in the British provinces, the U.S., Australia and elsewhere and enjoyed several revivals.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Girl_Behind_the_Counter",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-maid-of-arran": {
+      "slug": "the-maid-of-arran",
+      "title": "The Maid of Arran",
+      "qid": "Q7749622",
+      "enwiki": "The Maid of Arran",
+      "composers": [
+        {
+          "name": "L. Frank Baum",
+          "qid": "Q207544",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7118"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "L. Frank Baum",
+          "qid": "Q207544",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7118"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "L. Frank Baum",
+          "qid": "Q207544",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7118"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Maid_of_Arran",
+        "wikidata": "https://www.wikidata.org/wiki/Q7749622"
+      },
+      "summary": {
+        "text": "The Maid of Arran, An Idyllic Irish Drama Written for the People, Irrespective of Caste or Nationality is an 1882 musical play by L. Frank Baum, writing and performing under the pseudonym, \"Louis F. Baum\", based on the novel A Princess of Thule by William Black.  It was described as \"A Play to Ensnare All Hearts and Leave an Impress of Beauty and Nobility Within the Sordid Mind of Man.\"  The play resets the novel from Scotland's Outer Hebrides to Ireland (although Arran is actually in Scotland—Baum probably meant Aran, but never changed it).  This was a well-received melodrama with elaborate stage effects, including a storm upon a ship, and an original score by Baum himself. Only the song-book for the windows use survives, which omits two of the songs referenced in the script (the manuscript did not include the lyrics).  Baum played the main character, Hugh Holcomb, originally called Frank Lavender in the novel, in its initial tour (including two stints on Broadway), and later played Con. O'Mara, the heroine's father, in a community theatre revival.\nThe plot centers around Hugh who falls deeply in love with Sheila and convinces her to marry him. Reluctantly leaving her heartbroken father and her tight-knit island home behind, Sheila moves with Hugh back to the high-society world of London. However, the couple quickly encounters a severe cultural clash. Sheila struggles to adapt to the materialistic, rigid expectations of urban society, while Hugh grows increasingly distant, influenced by the shallow distractions of his wealthy peers.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Maid_of_Arran",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "tina": {
+      "slug": "tina",
+      "title": "Tina",
+      "qid": "Q51846038",
+      "enwiki": "Tina (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2018-04-17",
+        "venue": "Aldwych Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/522229",
+        "playbill": "https://playbill.com/production/tina-the-tina-turner-musical-aldwych-theatre-2017-2018",
+        "official_site": "https://tinathemusical.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/Tina_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q51846038"
+      },
+      "summary": {
+        "text": "Tina: The Tina Turner Musical is a jukebox musical featuring the music of Tina Turner and depicting her life from her humble beginnings in Nutbush, Tennessee, to her transformation into a rock 'n roll superstar. Directed by Phyllida Lloyd with a book by Katori Hall, Frank Ketelaar, and Kees Prins, the musical had its world premiere on 17 April 2018 at the Aldwych Theatre in London. The Broadway production opened on 7 November 2019.",
+        "source_url": "https://en.wikipedia.org/wiki/Tina_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "tomfoolery": {
+      "slug": "tomfoolery",
+      "title": "Tomfoolery",
+      "qid": "Q7815828",
+      "enwiki": "Tomfoolery (musical)",
+      "composers": [
+        {
+          "name": "Tom Lehrer",
+          "qid": "Q369724"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Cameron Mackintosh",
+          "qid": "Q712928",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/21395"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Tomfoolery_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7815828"
+      },
+      "summary": {
+        "text": "Tomfoolery (or Tom Foolery) is a musical revue based on the songs of American satirist Tom Lehrer.\nDevised and produced by Cameron Mackintosh, it premiered in London at the Criterion Theatre, directed by Gillian Lynne, on 5 June 1980, where it had a successful run. It subsequently opened on December 14, 1981 Off-Broadway at the Top of the Gate in Greenwich Village, New York, where it ran for 120 performances. The cast included Jonathan Hadary.  Lehrer himself was brought in as a consultant.\nThe revue features 28 of Lehrer's satirical songs that were written in the 1950s and 1960s, known for their \"witty naughtiness\".  Stage directions suggest each actor use their own name and wait onstage in a bar area while the others perform.\nTwo cast recordings have been released, one by the original London cast (Robin Ray, Jonathan Adams, Martin Connor and Tricia George), the other much rarer one by the Canadian cast.",
+        "source_url": "https://en.wikipedia.org/wiki/Tomfoolery_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "ushers-the-front-of-house-musical": {
+      "slug": "ushers-the-front-of-house-musical",
+      "title": "USHERS: The Front of House Musical",
+      "qid": "Q119084386",
+      "enwiki": "USHERS: The Front of House Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/USHERS%3A_The_Front_of_House_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q119084386"
+      },
+      "summary": {
+        "text": "USHERS: The Front of House Musical is a British musical comedy with music by Yiannis Koutsakos, lyrics by James Oban and Yiannis Koutsakos, and a book by James Rottger. The show focuses on a team of theatre front of house staff navigating career ambition, relationships, and industry politics, told with irreverent humour and catchy contemporary songs.\nThe musical premiered at the Hope Theatre  (London) in December 2013  and transferred to the  Charing Cross Theatre (London) in 2014. After a run at the Edinburgh Festival Fringe in August 2015, it moved back to London’s  Arts Theatre  for a limited run from September to October 2015. A 10th anniversary production followed in 2024.",
+        "source_url": "https://en.wikipedia.org/wiki/USHERS%3A_The_Front_of_House_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

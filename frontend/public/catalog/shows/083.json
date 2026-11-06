@@ -1,0 +1,602 @@
+{
+  "live": true,
+  "shows": {
+    "a-dangerous-maid": {
+      "slug": "a-dangerous-maid",
+      "title": "A Dangerous Maid",
+      "qid": "Q4656239",
+      "enwiki": "A Dangerous Maid",
+      "composers": [
+        {
+          "name": "George Gershwin",
+          "qid": "Q123829",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5813"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Ira Gershwin",
+          "qid": "Q61059",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12885"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Charles W. Bell",
+          "qid": "Q1066329"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Dangerous_Maid",
+        "wikidata": "https://www.wikidata.org/wiki/Q4656239"
+      },
+      "summary": {
+        "text": "A Dangerous Maid is a musical with a book by Charles William Bell, music by George Gershwin and lyrics by Ira Gershwin (writing under the pseudonym \"Arthur Francis\"). The script is based on Bell's 1918 play A Dislocated Honeymoon.  The story concerns an ex-showgirl who elopes with a society boy, but his family tries to break up the marriage.  The Gershwins wrote ten songs for the musical, eight of which were used in the production, which premiered in Atlantic City, New Jersey, on March 21, 1921. It toured through several cities and ended in Pittsburgh, Pennsylvania, where it closed on April 16, 1921.\nThe show was George Gershwin's second book musical and his first full score written with his brother Ira.  The book is believed to be lost.  The show is one of the few Gershwin musicals that never made it to Broadway.  The book was revised and retitled Elsie and, later, entirely new music was written for it by Eubie Blake and others.  This version was produced on Broadway in April 1923.   Even though Elsie ran for only 40 performances, it made history as a rare early example of black songwriters writing for white performers.  No one knows why director Edgar MacGregor abandoned the Gershwin score.  Several of the songs were later reused, and Ella Fitzgerald had a success in 1959 with her recording of \"Boy Wanted\".",
+        "source_url": "https://en.wikipedia.org/wiki/A_Dangerous_Maid",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "a-family-affair": {
+      "slug": "a-family-affair",
+      "title": "A Family Affair",
+      "qid": "Q4656656",
+      "enwiki": "A Family Affair (musical)",
+      "composers": [
+        {
+          "name": "John Kander",
+          "qid": "Q1685876",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6837"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "James Goldman",
+          "qid": "Q541868",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6594"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "James Goldman",
+          "qid": "Q541868",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6594"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/9908",
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Family_Affair_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4656656"
+      },
+      "summary": {
+        "text": "A Family Affair is a musical with a book by James Goldman and William Goldman, lyrics by James Goldman and John Kander, and music by Kander.  This was Kander's first show and his only one written without Fred Ebb in Ebb's lifetime.",
+        "source_url": "https://en.wikipedia.org/wiki/A_Family_Affair_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "betty": {
+      "slug": "betty",
+      "title": "Betty",
+      "qid": "Q4898694",
+      "enwiki": "Betty (musical)",
+      "composers": [
+        {
+          "name": "Ernst Steffan",
+          "qid": "Q1360278"
+        },
+        {
+          "name": "Paul Rubens",
+          "qid": "Q2402383",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8062"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Paul Rubens",
+          "qid": "Q2402383",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8062"
+        },
+        {
+          "name": "Adrian Ross",
+          "qid": "Q3605637",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13251"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Gladys Buchanan Unger",
+          "qid": "Q3108454",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5920"
+        },
+        {
+          "name": "Frederick Lonsdale",
+          "qid": "Q630412",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5689"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Betty_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4898694"
+      },
+      "summary": {
+        "text": "Betty is an Edwardian musical comedy in three acts, with a book by Frederick Lonsdale and Gladys Unger, music by Paul Rubens and Ernest Steffan, and lyrics by Adrian Ross and Rubens. It was first produced at the Prince's Theatre in Manchester, opening on December 24, 1914, then at Daly's Theatre in London, managed by George Edwardes, opening on April 24, 1915 and running for 391 performances. It also played at the Globe Theater in New York, opening on October 3, 1916. The show then enjoyed various tours and revivals. Gabrielle Ray joined the cast in 1915 as Estelle.",
+        "source_url": "https://en.wikipedia.org/wiki/Betty_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "brooklyn": {
+      "slug": "brooklyn",
+      "title": "Brooklyn",
+      "qid": "Q4974738",
+      "enwiki": "Brooklyn (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/383056",
+        "wikipedia": "https://en.wikipedia.org/wiki/Brooklyn_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4974738"
+      },
+      "summary": {
+        "text": "Brooklyn the Musical is a musical with a book, lyrics, and music by Mark Schoenfeld and Barri McPherson. It was acquired for licensing by Broadway Licensing.",
+        "source_url": "https://en.wikipedia.org/wiki/Brooklyn_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "call-me-madam": {
+      "slug": "call-me-madam",
+      "title": "Call Me Madam",
+      "qid": "Q1027101",
+      "enwiki": "Call Me Madam",
+      "composers": [
+        {
+          "name": "Irving Berlin",
+          "qid": "Q128746",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6452"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Howard Lindsay",
+          "qid": "Q1374517",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6373"
+        },
+        {
+          "name": "Russel Crouse",
+          "qid": "Q1382872",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8531"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2358",
+        "wikipedia": "https://en.wikipedia.org/wiki/Call_Me_Madam",
+        "wikidata": "https://www.wikidata.org/wiki/Q1027101"
+      },
+      "summary": {
+        "text": "Call Me Madam is a Broadway musical written by Howard Lindsay and Russel Crouse, with music and lyrics by Irving Berlin.\nThe musical is a satire on politics and foreign policy that spoofs postwar America's penchant for lending billions of dollars to needy countries. It centers on Sally Adams, a well-meaning but ill-informed socialite widow who is appointed ambassador to the fictional European country of Lichtenburg, where she charms the local gentry, especially Cosmo Constantine, while her press attaché Kenneth Gibson falls in love with Princess Maria.",
+        "source_url": "https://en.wikipedia.org/wiki/Call_Me_Madam",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "carnival": {
+      "slug": "carnival",
+      "title": "Carnival!",
+      "qid": "Q1403697",
+      "enwiki": "Carnival!",
+      "composers": [
+        {
+          "name": "Bob Merrill",
+          "qid": "Q3641319",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12139"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Bob Merrill",
+          "qid": "Q3641319",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12139"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Michael Stewart",
+          "qid": "Q6834631",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7748"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2415",
+        "wikipedia": "https://en.wikipedia.org/wiki/Carnival!",
+        "wikidata": "https://www.wikidata.org/wiki/Q1403697"
+      },
+      "summary": {
+        "text": "Carnival  is a musical, originally produced by David Merrick on Broadway in 1961, with the book by Michael Stewart and music and lyrics by Bob Merrill. The musical is based on the 1953 film Lili, which again was based on the short story and treatment titled \"The Seven Souls of Clement O'Reilly\" by Paul Gallico. The show's title originally used an exclamation point (as Carnival!); it was eventually dropped during the show's run, as director Gower Champion felt it gave the wrong impression, saying, \"It's not a blockbuster. It's a gentle show.\"",
+        "source_url": "https://en.wikipedia.org/wiki/Carnival!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "curvy-widow": {
+      "slug": "curvy-widow",
+      "title": "Curvy Widow",
+      "qid": "Q42530140",
+      "enwiki": "Curvy Widow",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Curvy_Widow",
+        "wikidata": "https://www.wikidata.org/wiki/Q42530140"
+      },
+      "summary": {
+        "text": "Curvy Widow is a 2016 musical comedy based on a true story with music and lyrics by Drew Brody and a book by Bobby Goldman.",
+        "source_url": "https://en.wikipedia.org/wiki/Curvy_Widow",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "for-the-love-of-a-glove": {
+      "slug": "for-the-love-of-a-glove",
+      "title": "For the Love of a Glove",
+      "qid": "Q96378165",
+      "enwiki": "For the Love of a Glove",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "https://www.fortheloveofaglove.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/For_the_Love_of_a_Glove",
+        "wikidata": "https://www.wikidata.org/wiki/Q96378165"
+      },
+      "summary": {
+        "text": "For the Love of a Glove: An Unauthorized Musical Fable About the Life of Michael Jackson as Told By His Glove is a musical about the life of Michael Jackson that premiered in 2020 in Los Angeles, California. The book and lyrics were written by Julien Nitzberg. The music was by Drew Erickson, Nicole Morier and Max Townsley.",
+        "source_url": "https://en.wikipedia.org/wiki/For_the_Love_of_a_Glove",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "hello-muddah-hello-faddah": {
+      "slug": "hello-muddah-hello-faddah",
+      "title": "Hello Muddah, Hello Faddah!",
+      "qid": "Q5708822",
+      "enwiki": "Hello Muddah, Hello Faddah! (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Hello_Muddah%2C_Hello_Faddah!_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5708822"
+      },
+      "summary": {
+        "text": "Hello Muddah, Hello Fadduh! is a musical revue based on the song \"Hello Muddah, Hello Fadduh\" by Allan Sherman and Lou Busch. It is the life story of Barry Brockman (Darrin Barker) and his lifelong sweetheart Sarah Jackman (Eliza Jane Scott) from birth to early education, summer camp to marriage, and parenthood in suburban New York to Florida retirement.  Songs include the title song, \"Harvey and Sheila\" (to the tune of \"Hava Nagila\"), and \"Glory, Glory Harry Lewis\" (\"Battle Hymn of the Republic\").",
+        "source_url": "https://en.wikipedia.org/wiki/Hello_Muddah%2C_Hello_Faddah!_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "into-the-hoods": {
+      "slug": "into-the-hoods",
+      "title": "Into the Hoods",
+      "qid": "Q6058028",
+      "enwiki": "Into the Hoods",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Into_the_Hoods",
+        "wikidata": "https://www.wikidata.org/wiki/Q6058028"
+      },
+      "summary": {
+        "text": "Into the Hoods -- \"An Urban Fairy Tale\" is a hip hop/musical created by London-based hip hop dance troupe ZooNation, and conceived and directed by the choreographer Kate Prince. The basic premise of the show is a hip-hop take on the Stephen Sondheim musical Into the Woods. The plot follows four children as they get lost in the hood and try to retrieve an iPod, a weave, a pair of trainers, and a hoodie, in exchange for a way home. On their travels, they meet a variety of characters, each with their own story.\nThe show features a wide range of dance, but has almost non-stop hip hop dancing. Into the Hoods took place at the Novello Theatre in London and featured music from Gorillaz,<taylor swift> Massive Attack, Basement Jaxxx, Run-DMC and other hip hop artists. Into the Hoods had a large cast of break and hip hop dancers including Britain's Got Talent 2008 winner George Sampson, Got to Dance winner Akai Osei and Mr Gee, the resident poet on Russell Brand's BBC Radio 2 show.",
+        "source_url": "https://en.wikipedia.org/wiki/Into_the_Hoods",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "madea-gets-a-job": {
+      "slug": "madea-gets-a-job",
+      "title": "Madea Gets a Job",
+      "qid": "Q16386835",
+      "enwiki": "Madea Gets a Job",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": "Orpheum Theatre"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Madea_Gets_a_Job",
+        "wikidata": "https://www.wikidata.org/wiki/Q16386835"
+      },
+      "summary": {
+        "text": "Madea Gets a Job is a 2012 American stage play created, written, produced, and directed by Tyler Perry. It stars Tyler Perry as Madea \"Mabel\" Simmons and Patrice Lovely as Hattie. The live performance released on DVD on February 5, 2013 was recorded live in Atlanta at the Cobb Energy Performing Arts Centre in June 2012.",
+        "source_url": "https://en.wikipedia.org/wiki/Madea_Gets_a_Job",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "marilyn-an-american-fable": {
+      "slug": "marilyn-an-american-fable",
+      "title": "Marilyn: An American Fable",
+      "qid": "Q6763484",
+      "enwiki": "Marilyn: An American Fable",
+      "composers": [
+        {
+          "name": "Jeanne Napoli",
+          "qid": "Q6172167",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/86440"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Jeanne Napoli",
+          "qid": "Q6172167",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/86440"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5870",
+        "wikipedia": "https://en.wikipedia.org/wiki/Marilyn%3A_An_American_Fable",
+        "wikidata": "https://www.wikidata.org/wiki/Q6763484"
+      },
+      "summary": {
+        "text": "Marilyn: An American Fable is a musical based on a book by Patricia Michaels with music and lyrics by Jeanne Napoli, Doug Frank, Gary Portnoy, Beth Lawrence, and Norman Thalheimer.",
+        "source_url": "https://en.wikipedia.org/wiki/Marilyn%3A_An_American_Fable",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "panawathi-girl": {
+      "slug": "panawathi-girl",
+      "title": "Panawathi Girl",
+      "qid": "Q111169320",
+      "enwiki": "Panawathi Girl",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Panawathi_Girl",
+        "wikidata": "https://www.wikidata.org/wiki/Q111169320"
+      },
+      "summary": {
+        "text": "Panawathi Girl is an Australian musical by David Milroy. Set in 1969, the musical concerns a young Aboriginal woman Molly Chubb returning from university studies in Perth to Chubb Springs, her small country hometown in the northwest of Western Australia, to connect with her family and culture.",
+        "source_url": "https://en.wikipedia.org/wiki/Panawathi_Girl",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "strike-up-the-band": {
+      "slug": "strike-up-the-band",
+      "title": "Strike Up the Band",
+      "qid": "Q7623800",
+      "enwiki": "Strike Up the Band (musical)",
+      "composers": [
+        {
+          "name": "George Gershwin",
+          "qid": "Q123829",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5813"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Morrie Ryskind",
+          "qid": "Q323516",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7807"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8362",
+        "wikipedia": "https://en.wikipedia.org/wiki/Strike_Up_the_Band_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7623800"
+      },
+      "summary": {
+        "text": "Strike Up the Band is a 1927 musical with a book by Morrie Ryskind, lyrics by Ira Gershwin and music by George Gershwin. It first ran as a satirical show in Philadelphia that year, unsuccessfully, and on Broadway in 1930 after the original book by George S. Kaufman was revised by Ryskind. The show concerned a cheese manufacturer who sponsors a war against Switzerland because it will be named after him. Much of the satire of the 1927 version was replaced in the new version by silliness, leading Ryskind to recall, \"What I had to do, in a sense, was to rewrite War and Peace for the Three Stooges.\" In the 1930 version the opening of Act I of the musical was reset from a cheese factory to a chocolate factory, and much of the work was re-imagined as occurring during a dream sequence.\nAside from the title tune, the 1940 Judy Garland-Mickey Rooney musical film Strike Up the Band had no relation to the stage production.\nThe overture is often performed as a stand-alone concert work.",
+        "source_url": "https://en.wikipedia.org/wiki/Strike_Up_the_Band_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "sweet-smell-of-success": {
+      "slug": "sweet-smell-of-success",
+      "title": "Sweet Smell of Success",
+      "qid": "Q7655496",
+      "enwiki": "Sweet Smell of Success (musical)",
+      "composers": [
+        {
+          "name": "Marvin Hamlisch",
+          "qid": "Q337206",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11816"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Craig Carnelia",
+          "qid": "Q5180808",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11491"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "John Guare",
+          "qid": "Q320556",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6822"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/10949",
+        "wikipedia": "https://en.wikipedia.org/wiki/Sweet_Smell_of_Success_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7655496"
+      },
+      "summary": {
+        "text": "Sweet Smell of Success is a musical created by Marvin Hamlisch (music), Craig Carnelia (lyrics), and John Guare (book).  The show is based on the 1957 movie of the same name, which in turn was based on the 1955 novelette of the same name by Ernest Lehman. The show tells the story of a powerful newspaper columnist named J. J. Hunsecker (based on famed New York columnist Walter Winchell) who uses his connections to ruin his sister's relationship with a man he deems inappropriate.\nIt was a critical and commercial failure.",
+        "source_url": "https://en.wikipedia.org/wiki/Sweet_Smell_of_Success_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-royal-family-of-broadway": {
+      "slug": "the-royal-family-of-broadway",
+      "title": "The Royal Family of Broadway",
+      "qid": "Q55635524",
+      "enwiki": "The Royal Family of Broadway (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Royal_Family_of_Broadway_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q55635524"
+      },
+      "summary": {
+        "text": "The Royal Family of Broadway is a musical by William Finn and Rachel Sheinkin based on the 1927 play The Royal Family by George S. Kaufman and Edna Ferber. It premiered at the Barrington Stage Company in June 2018.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Royal_Family_of_Broadway_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "we-live-in-cairo": {
+      "slug": "we-live-in-cairo",
+      "title": "We Live in Cairo",
+      "qid": "Q116636574",
+      "enwiki": "We Live in Cairo",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/We_Live_in_Cairo",
+        "wikidata": "https://www.wikidata.org/wiki/Q116636574"
+      },
+      "summary": {
+        "text": "We Live in Cairo is a musical following the 2011 Egyptian revolution (part of the wider Arab Spring) and its aftermath. The show's book, music, and lyrics were written by Lebanese-American brothers Daniel and Patrick Lazour.",
+        "source_url": "https://en.wikipedia.org/wiki/We_Live_in_Cairo",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "where-s-charley": {
+      "slug": "where-s-charley",
+      "title": "Where's Charley?",
+      "qid": "Q7993096",
+      "enwiki": "Where's Charley?",
+      "composers": [
+        {
+          "name": "Frank Loesser",
+          "qid": "Q966018",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5613"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "George Abbott",
+          "qid": "Q1506831",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5770"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/9292",
+        "wikipedia": "https://en.wikipedia.org/wiki/Where's_Charley%3F",
+        "wikidata": "https://www.wikidata.org/wiki/Q7993096"
+      },
+      "summary": {
+        "text": "Where's Charley? is a musical with music and lyrics by Frank Loesser and book by George Abbott. The story was based on the 1892 play Charley's Aunt by Brandon Thomas. The musical debuted on Broadway in 1948 and was revived on Broadway and in the West End. Ray Bolger starred, and sang the popular song \"Once in Love with Amy\".",
+        "source_url": "https://en.wikipedia.org/wiki/Where's_Charley%3F",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

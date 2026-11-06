@@ -1,0 +1,676 @@
+{
+  "live": true,
+  "shows": {
+    "annie-get-your-gun": {
+      "slug": "annie-get-your-gun",
+      "title": "Annie Get Your Gun",
+      "qid": "Q566949",
+      "enwiki": "Annie Get Your Gun (musical)",
+      "composers": [
+        {
+          "name": "Irving Berlin",
+          "qid": "Q128746",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6452"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Irving Berlin",
+          "qid": "Q128746",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6452"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Herbert Fields",
+          "qid": "Q1608254",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11265"
+        },
+        {
+          "name": "Dorothy Fields",
+          "qid": "Q435241",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5113"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1615",
+        "wikipedia": "https://en.wikipedia.org/wiki/Annie_Get_Your_Gun_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q566949"
+      },
+      "summary": {
+        "text": "Annie Get Your Gun is a 1946 musical with lyrics and music by Irving Berlin and a book by Dorothy Fields and her brother Herbert Fields. The story is a fictionalized version of the life of Annie Oakley (1860–1926), a sharpshooter who starred in Buffalo Bill's Wild West, and her romance with fellow sharpshooter Frank E. Butler (1847–1926).\nThe 1946 Broadway production was a hit, and the musical had long runs in both New York (1,147 performances) and London, spawning revivals, a 1950 film version and television versions. Songs that became hits include \"There's No Business Like Show Business\", \"Doin' What Comes Natur'lly\", \"You Can't Get a Man with a Gun\", \"They Say It's Wonderful\", and \"Anything You Can Do (I Can Do Better)\".",
+        "source_url": "https://en.wikipedia.org/wiki/Annie_Get_Your_Gun_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "babes-in-the-wood": {
+      "slug": "babes-in-the-wood",
+      "title": "Babes in the Wood",
+      "qid": "Q116846075",
+      "enwiki": "Babes in the Wood (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Babes_in_the_Wood_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q116846075"
+      },
+      "summary": {
+        "text": "Babes in the Wood is a 1964 Off-Broadway musical adaptation of A Midsummer Night's Dream. The show's book and lyrics are by Rick Besoyan. It opened on December 28, 1964, at the Orpheum Theatre and closed on February 7, 1965.",
+        "source_url": "https://en.wikipedia.org/wiki/Babes_in_the_Wood_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "big-fish": {
+      "slug": "big-fish",
+      "title": "Big Fish",
+      "qid": "Q15978534",
+      "enwiki": "Big Fish (musical)",
+      "composers": [
+        {
+          "name": "Andrew Lippa",
+          "qid": "Q4757771",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13451"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Andrew Lippa",
+          "qid": "Q4757771",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13451"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "John August",
+          "qid": "Q543697",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/493996"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/493987",
+        "wikipedia": "https://en.wikipedia.org/wiki/Big_Fish_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q15978534"
+      },
+      "summary": {
+        "text": "Big Fish is a musical with music and lyrics by Andrew Lippa and book by John August. It is based on Daniel Wallace's 1998 novel, Big Fish: A Novel of Mythic Proportions, and the 2003 film Big Fish written by John August and directed by Tim Burton.\nBig Fish revolves around the relationship between Edward Bloom, a traveling salesman, and his adult son Will. The story shifts between two timelines. In the present-day real world, sixty-year-old Edward Bloom faces his mortality while his son, Will, prepares to become a father himself. In the storybook past, Edward ages from a teenager, encountering a Witch, a Giant, a Mermaid, and the love of his life, Sandra. The stories meet as Will discovers the secret his father never revealed.",
+        "source_url": "https://en.wikipedia.org/wiki/Big_Fish_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "buyuk-kabare": {
+      "slug": "buyuk-kabare",
+      "title": "Büyük Kabare",
+      "qid": "Q85969269",
+      "enwiki": "Büyük Kabare",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/B%C3%BCy%C3%BCk_Kabare",
+        "wikidata": "https://www.wikidata.org/wiki/Q85969269"
+      },
+      "summary": {
+        "text": "Büyük Kabare (Grand Cabaret) is a two-part musical performed by Turkish singer Ajda Pekkan and Turkish actors Metin Akpınar and Zeki Alasya for the first time in 1982. Beş Yıl Önce, On Yıl Sonra, Istanbul Developmental Orchestra, Asuman Arsan, Devekuşu Cabaret and USG Dance Group accompanied them on stage. The show went on stage for the first time at the Open-Air Theatre in Istanbul on 6 August 1982 and was held in different cities in the following periods.",
+        "source_url": "https://en.wikipedia.org/wiki/B%C3%BCy%C3%BCk_Kabare",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "camelot": {
+      "slug": "camelot",
+      "title": "Camelot",
+      "qid": "Q1028491",
+      "enwiki": "Camelot (musical)",
+      "composers": [
+        {
+          "name": "Frederick Loewe",
+          "qid": "Q551678",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5688"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Alan Jay Lerner",
+          "qid": "Q961893",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3945"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Alan Jay Lerner",
+          "qid": "Q961893",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3945"
+        }
+      ],
+      "premiere": {
+        "date": "1960",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2369",
+        "wikipedia": "https://en.wikipedia.org/wiki/Camelot_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1028491"
+      },
+      "summary": {
+        "text": "Camelot is a musical with music by Frederick Loewe and lyrics and a book by Alan Jay Lerner. It is based on the legend of King Arthur as adapted from the 1958 novel The Once and Future King by T. H. White.\nThe original 1960 production, directed by Moss Hart with orchestrations by Robert Russell Bennett and Philip J. Lang, ran on Broadway for 873 performances, winning four Tony Awards. It starred Richard Burton as Arthur, Julie Andrews as Guenevere, and Robert Goulet as Lancelot. \nIt spawned several notable productions including four Broadway revivals and a 1967 film adaptation. The 2023 Broadway revival featured a revised book by Aaron Sorkin.\nThe musical has become associated with the Presidency of John F. Kennedy, which is sometimes called the \"Camelot Era\", because of an interview with Jackie Kennedy in which she compared her husband's presidency to King Arthur's reign, specifically mentioning his fondness for the musical and particularly the closing lyrics of the eponymous final song.",
+        "source_url": "https://en.wikipedia.org/wiki/Camelot_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "charlie-girl": {
+      "slug": "charlie-girl",
+      "title": "Charlie Girl",
+      "qid": "Q5084919",
+      "enwiki": "Charlie Girl",
+      "composers": [
+        {
+          "name": "David Heneker",
+          "qid": "Q5234905",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9851"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "David Heneker",
+          "qid": "Q5234905",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9851"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Hugh Williams",
+          "qid": "Q5933059",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/65058"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Charlie_Girl",
+        "wikidata": "https://www.wikidata.org/wiki/Q5084919"
+      },
+      "summary": {
+        "text": "Charlie Girl is a musical comedy which premiered at the Golder's Green Hippodrome on 25 November 1965 then transferred to London's West End at the Adelphi Theatre on December 15, 1965; it became one of the more successful theatre shows of the day, running for 2,202 performances. It closed on 27 March 1971.",
+        "source_url": "https://en.wikipedia.org/wiki/Charlie_Girl",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "cruel-intentions-the-90s-musical": {
+      "slug": "cruel-intentions-the-90s-musical",
+      "title": "Cruel Intentions: The '90s Musical",
+      "qid": "Q30672083",
+      "enwiki": "Cruel Intentions: The '90s Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Cruel_Intentions%3A_The_'90s_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q30672083"
+      },
+      "summary": {
+        "text": "Cruel Intentions: The '90s Musical, known during its Californian performances as Cruel Intentions: The Completely Unauthorized Musical Parody, and during its off-Broadway run as Cruel Intentions: The Musical, is a 2015 American jukebox musical based on the 1999 film Cruel Intentions, with a score made up of hit songs from the 1990s. The musical's book is by Roger Kumble, Lindsey Rosin and Jordan Ross Schindler; Kumble was the writer and director of the original film. The film Cruel Intentions is itself a modern-day telling of the 1782 French novel Les Liaisons dangereuses by Pierre Choderlos de Laclos. \nAfter successful performances in Los Angeles and New York, the show made its Off-Broadway debut at Greenwich Village nightclub Le Poisson Rouge in November 2017. The show was the first theater production ever staged there, which offered bar and table service. Originally scheduled for a ten-week engagement, the show was extended three times, through April 2018.\nThe show had its UK debut in August 2019 at the Palais du Variété Spiegeltent at Assembly George Square Gardens, part of the Edinburgh Fringe festival, starring Dominic Andersen as Sebastian and Rebecca Gilhooley as Kathryn Merteuil, produced by Bill Kenwright. The show opened at The Other Palace in London in January 2024, where it was scheduled to run until May, starring Daniel Bravo as Sebastian and Rhianne-Louise McCaulsky as Kathryn. As with the 2017 Off-Broadway run, Sarah Michelle Gellar reprises her role as the original Kathryn to ask patrons to turn off their phones before the show starts.",
+        "source_url": "https://en.wikipedia.org/wiki/Cruel_Intentions%3A_The_'90s_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "curtains": {
+      "slug": "curtains",
+      "title": "Curtains",
+      "qid": "Q5195606",
+      "enwiki": "Curtains (musical)",
+      "composers": [
+        {
+          "name": "John Kander",
+          "qid": "Q1685876",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6837"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Fred Ebb",
+          "qid": "Q1274807",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5654"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Rupert Holmes",
+          "qid": "Q1383270",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6325"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/453331",
+        "wikipedia": "https://en.wikipedia.org/wiki/Curtains_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5195606"
+      },
+      "summary": {
+        "text": "Curtains is a musical mystery comedy with a book by Rupert Holmes, lyrics by Fred Ebb, and music by John Kander, with additional lyrics by Kander and Holmes.\nBased on the original book and concept of the same name by Peter Stone, the musical is a send-up of backstage murder mystery plots. Set in 1959 Boston, Massachusetts, it follows the fallout when Jessica Cranshaw, the supremely untalented star of Robbin' Hood of the Old West is murdered during her opening night curtain call.  It is up to Lt. Frank Cioffi, a police detective who moonlights as a musical theatre fan, to save the show, solve the case, and maybe even find love before the show reopens, without getting killed himself. Cioffi also dreams of being in musical theatre. The show opened on Broadway to mixed reviews, though several critics praised the libretto and the character of Lieutenant Cioffi, who critic Ben Brantley called \"the best damn musical theatre character since Mama Rose in Gypsy, and the best role of David Hyde Pierce's career.\"",
+        "source_url": "https://en.wikipedia.org/wiki/Curtains_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "dearest-enemy": {
+      "slug": "dearest-enemy",
+      "title": "Dearest Enemy",
+      "qid": "Q5246982",
+      "enwiki": "Dearest Enemy",
+      "composers": [
+        {
+          "name": "Richard Rodgers",
+          "qid": "Q269094",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12311"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Lorenz Hart",
+          "qid": "Q725828",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11244"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Herbert Fields",
+          "qid": "Q1608254",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11265"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2992",
+        "wikipedia": "https://en.wikipedia.org/wiki/Dearest_Enemy",
+        "wikidata": "https://www.wikidata.org/wiki/Q5246982"
+      },
+      "summary": {
+        "text": "Dearest Enemy is a musical with a book by Herbert Fields, lyrics by Lorenz Hart, and music by Richard Rodgers. This was the first of eight book musicals written by the songwriting team of Rodgers and Hart and writer Herbert Fields, and the first of more than two dozen Rodgers and Hart Broadway musicals. The musical takes place in 1776, during the American Revolutionary War, when Mary Lindley Murray detained British troops long enough in Manhattan to give George Washington time to move his vulnerable troops.",
+        "source_url": "https://en.wikipedia.org/wiki/Dearest_Enemy",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "george-m": {
+      "slug": "george-m",
+      "title": "George M!",
+      "qid": "Q5541913",
+      "enwiki": "George M!",
+      "composers": [
+        {
+          "name": "George M. Cohan",
+          "qid": "Q563017",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5829"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Michael Stewart",
+          "qid": "Q6834631",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7748"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3817",
+        "playbill": "https://playbill.com/production/george-m-palace-theatre-vault-0000009179",
+        "wikipedia": "https://en.wikipedia.org/wiki/George_M!",
+        "wikidata": "https://www.wikidata.org/wiki/Q5541913"
+      },
+      "summary": {
+        "text": "George M! is a Broadway musical based on the life of George M. Cohan, the biggest Broadway star of his day who was known as \"The Man Who Owned Broadway.\"  The book for the musical was written by Michael Stewart, John Pascal, and Francine Pascal. Music and lyrics were by George M. Cohan himself, with revisions for the musical by Cohan's daughter, Mary Cohan.\nThe story covers the period from the late 1880s until 1937 and focuses on Cohan's life and show business career from his early days in vaudeville with his parents and sister to his later success as a Broadway singer, dancer, composer, lyricist, theatre director and producer.  The show includes such Cohan hit songs as \"Give My Regards To Broadway\", \"You're a Grand Old Flag\", and \"Yankee Doodle Dandy.\"",
+        "source_url": "https://en.wikipedia.org/wiki/George_M!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "goodtime-charley": {
+      "slug": "goodtime-charley",
+      "title": "Goodtime Charley",
+      "qid": "Q5583632",
+      "enwiki": "Goodtime Charley",
+      "composers": [
+        {
+          "name": "Larry Grossman",
+          "qid": "Q6490433",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11797"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Hal Hackady",
+          "qid": "Q5640788",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6032"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Sidney Michaels",
+          "qid": "Q16019153",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8674"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4021",
+        "wikipedia": "https://en.wikipedia.org/wiki/Goodtime_Charley",
+        "wikidata": "https://www.wikidata.org/wiki/Q5583632"
+      },
+      "summary": {
+        "text": "Goodtime Charley is a musical with a book by Sidney Michaels, music by Larry Grossman, and lyrics by Hal Hackady.\nA humorous take on actual historical events, it focuses on the Dauphin of France, who evolves from a hedonistic young man enamored of women in general (and Joan of Arc in particular) into a regal king while Joan follows her voices to her tragic fate.",
+        "source_url": "https://en.wikipedia.org/wiki/Goodtime_Charley",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "head-over-heels": {
+      "slug": "head-over-heels",
+      "title": "Head over Heels",
+      "qid": "Q55613528",
+      "enwiki": "Head over Heels (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Jeff Whitty",
+          "qid": "Q6175265",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/109407"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "http://headoverheelsthemusical.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/Head_over_Heels_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q55613528"
+      },
+      "summary": {
+        "text": "Head Over Heels is a jukebox musical comedy with music and lyrics from the catalog of The Go-Go's and its lead singer and most successful solo artist, Belinda Carlisle. Jeff Whitty conceived the show and wrote the original book, which was then adapted by James Magruder after Whitty left the show due to conflict with incoming director Michael Mayer. The plot of the show is adapted from The Countess of Pembroke's Arcadia written by Sir Philip Sidney in the 16th century. Head Over Heels opened at the Oregon Shakespeare Festival in June 2015, running for five months in their outdoor theater. Three years later, after Whitty's departure, Head Over Heels opened on Broadway on July 26, 2018, at the Hudson Theatre; its final Broadway performance was January 6, 2019. Licensing rights for future productions were acquired by Broadway Licensing in 2018. A cast album was released on October 12, 2018.",
+        "source_url": "https://en.wikipedia.org/wiki/Head_over_Heels_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "j-p-morgan-saves-the-nation": {
+      "slug": "j-p-morgan-saves-the-nation",
+      "title": "J.P. Morgan Saves the Nation",
+      "qid": "Q111937087",
+      "enwiki": "J.P. Morgan Saves the Nation",
+      "composers": [
+        {
+          "name": "Jonathan Larson",
+          "qid": "Q449002",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6927"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1995",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/J.P._Morgan_Saves_the_Nation",
+        "wikidata": "https://www.wikidata.org/wiki/Q111937087"
+      },
+      "summary": {
+        "text": "J.P. Morgan Saves the Nation is a 1995 musical with book and lyrics by Jeffrey M. Jones and music by Jonathan Larson.\nJonathan Larson was invited to compose music for En Garde Arts‘s production of Jeffrey M. Jones’ J.P. Morgan Saves the Nation, a postmodern work detailing the life of financier J. P. Morgan. Larson was called in as a replacement as Jones' long-time collaborator, Dan Moses Schreier, dropped out, suggested by artistic director Annie Hamburger after hearing a recording of the workshop production of Rent at New York Theatre Workshop.",
+        "source_url": "https://en.wikipedia.org/wiki/J.P._Morgan_Saves_the_Nation",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "knappupp": {
+      "slug": "knappupp",
+      "title": "Knäppupp",
+      "qid": "Q6424086",
+      "enwiki": "Knäppupp",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Kn%C3%A4ppupp",
+        "wikidata": "https://www.wikidata.org/wiki/Q6424086"
+      },
+      "summary": {
+        "text": "Knäppupp (Swedish: \"unbutton\") was the collective name of a popular revue series produced by Swedish musician and entertainer Povel Ramel. It was associated with Knäppupp AB, the production company that was set up specifically for the purpose of managing and financing the theatrical performances. The company was active from 1952 to 1968. Ramel was the driving force behind the revues and wrote and performed most of the material himself. Among the more prolific co-actors were Martin Ljung and Brita Borg.",
+        "source_url": "https://en.wikipedia.org/wiki/Kn%C3%A4ppupp",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "little-miss-sunshine": {
+      "slug": "little-miss-sunshine",
+      "title": "Little Miss Sunshine",
+      "qid": "Q17146498",
+      "enwiki": "Little Miss Sunshine (musical)",
+      "composers": [
+        {
+          "name": "William Finn",
+          "qid": "Q8009056",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9128"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "William Finn",
+          "qid": "Q8009056",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9128"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "James Lapine",
+          "qid": "Q6137781",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6607"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Little_Miss_Sunshine_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q17146498"
+      },
+      "summary": {
+        "text": "Little Miss Sunshine is a musical adapted from the 2006 film of the same name, with music and lyrics by William Finn and book and direction by James Lapine. The musical premiered in San Diego, California, at the Mandell Weiss Theater, La Jolla Playhouse on February 15, 2011  and began performances Off-Broadway at the Second Stage Theatre in October 2013. The musical opened Off West End at the Arcola Theatre in 2019.",
+        "source_url": "https://en.wikipedia.org/wiki/Little_Miss_Sunshine_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "love-life": {
+      "slug": "love-life",
+      "title": "Love Life",
+      "qid": "Q6690960",
+      "enwiki": "Love Life (musical)",
+      "composers": [
+        {
+          "name": "Kurt Weill",
+          "qid": "Q55004",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7112"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Alan Jay Lerner",
+          "qid": "Q961893",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3945"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Alan Jay Lerner",
+          "qid": "Q961893",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3945"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5591",
+        "wikipedia": "https://en.wikipedia.org/wiki/Love_Life_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6690960"
+      },
+      "summary": {
+        "text": "Love Life is a musical written by Kurt Weill (music) and Alan Jay Lerner (book and lyrics). \nThe musical opened at the 46th Street Theatre on Broadway (now the Richard Rodgers) on October 7, 1948, and closed on May 14, 1949, after having played 252 performances. The original production starred Ray Middleton and Nanette Fabray, was directed by Elia Kazan, and choreographed by Michael Kidd. Fabray won the Tony Award for Best Leading Actress in a Musical for her performance.",
+        "source_url": "https://en.wikipedia.org/wiki/Love_Life_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "paradise-island": {
+      "slug": "paradise-island",
+      "title": "Paradise Island",
+      "qid": "Q30602673",
+      "enwiki": "Paradise Island (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Paradise_Island_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q30602673"
+      },
+      "summary": {
+        "text": "The Legend of  Paradise Island  is a Hawaiian Musical Fantasy in two acts, with book, music, and lyrics by Carmen Lombardo and John Jacob Loeb.  The book was adapted by Francis Swann. The show was produced by Guy Lombardo at the Jones Beach Marine Theater.  The show opened on June 22, 1961.\nThe book was directed by Francis Swann, and choreographed and staged by June Taylor, scenery designed by George Jenkins. Costumes by Winiford Morton. Lighting by Peggy Clark.  The musical direction and vocal arrangements were by Pembroke Davenport.  The orchestrations were by Joe Glover and the dance arrangements were by Milt Sherman.  The entire production was under the supervision of Arnold Spector.  It ran for 75 performances.\nThe cast starred Elaine Malbin, Arthur Treacher, and William Gaxton and included Jack Washburn, Norman Atkins, Honey Sanders, Ralph Purdum, Harold Gary, Robert Penn, The Toy Boys, Tom Noel, Little Joe, Elsa Raven, and The John Piilani Watkins Group, Kathy Gore, according to the program.\nAccording to Louis Calta's review in the New York Times, the story revolves around an American industrialist (William Gaxton), his son (Jack Washburn), and his butler (Arthur Treacher), who find themselves shipwrecked on a tiny Hawaiian island.  Mr. Lombardo brought 32 performers from Hawaii, ages 6 to 21, for the outdoor venture, dancing the hula, sword dances, fire dances, torchlight processions, and a luau.\nThe show was revived by Guy Lombardo the next season, starting June 27, 1962, for 68 performances. \n,",
+        "source_url": "https://en.wikipedia.org/wiki/Paradise_Island_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "sing": {
+      "slug": "sing",
+      "title": "Sing!",
+      "qid": "Q7390424",
+      "enwiki": "Sing! (competition)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Sing!_(competition)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7390424"
+      },
+      "summary": {
+        "text": "Sing!, often stylized SING!, is an annual student-run musical production put on by some high schools in New York City. It is a theater competition between the various grades, with the setup between grades differing from school to school (such as sophomore-freshman vs. seniors vs. juniors, senior-sophomore vs. junior-freshman or freshman-senior vs. sophomore-junior).\nSing! was conceived by Bella Tillis (1913–2013), a music teacher at Midwood High School in Brooklyn, New York in 1947.\nA Library of Congress archive of the papers of entertainer Danny Kaye, who went to high school with Tillis, contains playbills of Sing! performances at Midwood High School from the years 1953–1957.\nThe 1989 film Sing is based on a fictional Sing! production. According to The New York Times review of the movie, the film's production notes say that Paul Simon, Neil Diamond, Barbra Streisand, Carole King and Neil Sedaka, who attended various Brooklyn and Queens high schools in the mid to late 1950s, took part in Sing! productions. Other Sing! celebrities include Stuyvesant High School's Tim Robbins and Paul Reiser,\nand James Madison High School's Janis Siegel.",
+        "source_url": "https://en.wikipedia.org/wiki/Sing!_(competition)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "song-and-dance": {
+      "slug": "song-and-dance",
+      "title": "Song and Dance",
+      "qid": "Q2301371",
+      "enwiki": "Song and Dance",
+      "composers": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "qid": "Q180975",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12073"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Don Black",
+          "qid": "Q1238931",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5065"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8176",
+        "official_site": "http://www.reallyuseful.com/shows/song-dance",
+        "wikipedia": "https://en.wikipedia.org/wiki/Song_and_Dance",
+        "wikidata": "https://www.wikidata.org/wiki/Q2301371"
+      },
+      "summary": {
+        "text": "Song and Dance is a musical comprising two acts, one told entirely in \"Song\" and one entirely in \"Dance\", tied together by a unifying love story.\nThe \"Song\" act is Tell Me on a Sunday, with lyrics by Don Black and music by Andrew Lloyd Webber, about a young British woman's romantic misadventures in New York City and Hollywood. The \"Dance\" act is a ballet choreographed to Variations, composed by Andrew Lloyd Webber for his cellist brother Julian, which is based on the A Minor Caprice No. 24 by Paganini.",
+        "source_url": "https://en.wikipedia.org/wiki/Song_and_Dance",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

@@ -1,0 +1,473 @@
+{
+  "live": true,
+  "shows": {
+    "beggar-s-holiday": {
+      "slug": "beggar-s-holiday",
+      "title": "Beggar's Holiday",
+      "qid": "Q2893804",
+      "enwiki": "Beggar's Holiday",
+      "composers": [
+        {
+          "name": "Duke Ellington",
+          "qid": "Q4030",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11631"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "John La Touche",
+          "qid": "Q466539",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6847"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1915",
+        "wikipedia": "https://en.wikipedia.org/wiki/Beggar's_Holiday",
+        "wikidata": "https://www.wikidata.org/wiki/Q2893804"
+      },
+      "summary": {
+        "text": "Beggar's Holiday is a musical with a book and lyrics by John La Touche and music by Duke Ellington.",
+        "source_url": "https://en.wikipedia.org/wiki/Beggar's_Holiday",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "ben-franklin-in-paris": {
+      "slug": "ben-franklin-in-paris",
+      "title": "Ben Franklin in Paris",
+      "qid": "Q4885676",
+      "enwiki": "Ben Franklin in Paris",
+      "composers": [],
+      "lyricists": [
+        {
+          "name": "Sidney Michaels",
+          "qid": "Q16019153",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8674"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Sidney Michaels",
+          "qid": "Q16019153",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8674"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1941",
+        "wikipedia": "https://en.wikipedia.org/wiki/Ben_Franklin_in_Paris",
+        "wikidata": "https://www.wikidata.org/wiki/Q4885676"
+      },
+      "summary": {
+        "text": "Ben Franklin in Paris is a work of musical theatre, with a book and lyrics by Sidney Michaels, and music by Mark Sandrich, Jr. with two songs contributed by Jerry Herman.",
+        "source_url": "https://en.wikipedia.org/wiki/Ben_Franklin_in_Paris",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "diana": {
+      "slug": "diana",
+      "title": "Diana",
+      "qid": "Q65073099",
+      "enwiki": "Diana (musical)",
+      "composers": [
+        {
+          "name": "David Bryan",
+          "qid": "Q310098",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/484159"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/523674",
+        "wikipedia": "https://en.wikipedia.org/wiki/Diana_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q65073099"
+      },
+      "summary": {
+        "text": "Diana is a musical with music and lyrics by David Bryan and Joe DiPietro, and a book by DiPietro, based on the life of Diana, Princess of Wales. A filmed performance was released on Netflix on 1 October 2021, to negative reviews.",
+        "source_url": "https://en.wikipedia.org/wiki/Diana_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "el-medico": {
+      "slug": "el-medico",
+      "title": "El médico",
+      "qid": "Q56508893",
+      "enwiki": "El médico",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "https://elmedicomusical.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/El_m%C3%A9dico",
+        "wikidata": "https://www.wikidata.org/wiki/Q56508893"
+      },
+      "summary": {
+        "text": "El Médico is a Spanish musical based on the 1986 English-language novel The Physician by Noah Gordon, with book and lyrics by Félix Amador, and music by Iván Macías. The story follows Rob J. Cole, a young orphan in 11th-century England, who has the ability to sense death with his hands. Taken in as an apprentice by a traveling barber-surgeon, he journeys across the country, learning the trade and its secrets. At 19, he hears about Avicenna and his renowned medical school in distant Persia. Determined to become a doctor, Rob embarks on an epic journey into the unknown, traveling halfway across the world in pursuit of his dream.\nThe show officially premiered on October 17, 2018, at the Teatro Nuevo Apolo in Madrid, where it ran for two seasons. Since then, it has toured across Spain and has also been performed in countries including the Czech Republic and Germany.",
+        "source_url": "https://en.wikipedia.org/wiki/El_m%C3%A9dico",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "holidays": {
+      "slug": "holidays",
+      "title": "Holidays",
+      "qid": "Q123784790",
+      "enwiki": "Holidays (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Holidays_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q123784790"
+      },
+      "summary": {
+        "text": "Holidays (billed as Holidays le Musical) is a jukebox musical, with a book in French by Gaétan Borg, based on the songs recorded by American singer Madonna in the 1980s and 1990s. The title of the musical is taken from the singer's 1983 song \"Holiday\". The story focuses on a group of four childhood friends who reunite as adults when invited by one of them for a special night before her upcoming wedding.\nThe original French production, directed by Nathan Guichet (who also conceived the musical and selected the Madonna songs) with choreography by Cécile Chaduteau and musical arrangements by Éric Melville, premiered on 22 September 2023 at L'Odyssée in Balma for three preview performances, and played at the Alhambra in Paris from September 2023 to January 2024 at the Alhambra. It then toured in France in 2024.",
+        "source_url": "https://en.wikipedia.org/wiki/Holidays_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "jack-o-diamonds": {
+      "slug": "jack-o-diamonds",
+      "title": "Jack O'Diamonds",
+      "qid": "Q24039531",
+      "enwiki": "Jack O'Diamonds",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Jack_O'Diamonds",
+        "wikidata": "https://www.wikidata.org/wiki/Q24039531"
+      },
+      "summary": {
+        "text": "Jack O'Diamonds is a musical play with music by Noel Gay and book and lyrics by Clifford Grey and H.F. Maltby. It opened at London's Gaiety Theatre on 25 February 1935.\nThe New York Times reported that it opened to good notices and that its American star, Zelma O'Neal \"scored a triumph\". One critic said of her pairing with co-star Reginald Purdell: \"The spirit with which these two combine lends life and a touch of originality to the whole production\".",
+        "source_url": "https://en.wikipedia.org/wiki/Jack_O'Diamonds",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "joh-for-pm": {
+      "slug": "joh-for-pm",
+      "title": "Joh for PM",
+      "qid": "Q48783294",
+      "enwiki": "Joh for PM (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Joh_for_PM_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q48783294"
+      },
+      "summary": {
+        "text": "Joh for PM is an Australian musical comedy written by Stephen Carleton with music and lyrics by Paul Hodge.",
+        "source_url": "https://en.wikipedia.org/wiki/Joh_for_PM_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "king-kong-1959-musical": {
+      "slug": "king-kong-1959-musical",
+      "title": "King Kong",
+      "qid": "Q1742049",
+      "enwiki": "King Kong (1959 musical)",
+      "composers": [
+        {
+          "name": "Todd Matshikiza",
+          "qid": "Q2438475"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Todd Matshikiza",
+          "qid": "Q2438475"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Harry Bloom",
+          "qid": "Q2271322"
+        }
+      ],
+      "premiere": {
+        "date": "1959-02-02",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/King_Kong_(1959_musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1742049"
+      },
+      "summary": {
+        "text": "King Kong (1959) was a landmark South African jazz-influenced musical, billed at the time as an \"all-African jazz opera\".\nIt has been called \"an extraordinary musical collaboration that took place in apartheid-torn South Africa.... a model of fruitful co-operation between black and white South Africans in the international entertainment field, and a direct challenge to apartheid.\" Opening in Johannesburg on 2 February 1959 at Witwatersrand University Great Hall, the musical, based on the life of Ezekiel Dhlamini was an immediate success, with The Star newspaper calling it \"the greatest thrill in 20 years of South African theatre-going\".\nIt \"swept South Africa like a storm\" according to one report, touring the country for two years and playing to record-breaking multi-racial audiences, before being booked for a London production in 1961, by which time it had been seen by some 200,000 South Africans.",
+        "source_url": "https://en.wikipedia.org/wiki/King_Kong_(1959_musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "malinche": {
+      "slug": "malinche",
+      "title": "Malinche",
+      "qid": "Q122942107",
+      "enwiki": "Malinche (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2022",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "https://malinchethemusical.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/Malinche_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q122942107"
+      },
+      "summary": {
+        "text": "Malinche, un musical de Nacho Cano (or Malinche) is a Spanish-language stage musical, based on the life of the Nahuan slave known as La Malinche. It premiered at the IFEMA Fairground in Madrid in 2022, and will be produced in Mexico featuring a Mexican cast. An English-language production has also been performed by the Madrid cast.",
+        "source_url": "https://en.wikipedia.org/wiki/Malinche_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "malory-towers": {
+      "slug": "malory-towers",
+      "title": "Malory Towers",
+      "qid": "Q85851374",
+      "enwiki": "Malory Towers (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2019-07-19",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Malory_Towers_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q85851374"
+      },
+      "summary": {
+        "text": "Malory Towers is a musical based on the series of books of the same name by Enid Blyton. It is adapted by Emma Rice and composed by Ian Ross.",
+        "source_url": "https://en.wikipedia.org/wiki/Malory_Towers_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "mary-poppins": {
+      "slug": "mary-poppins",
+      "title": "Mary Poppins",
+      "qid": "Q2210892",
+      "enwiki": "Mary Poppins (musical)",
+      "composers": [
+        {
+          "name": "Robert B. Sherman",
+          "qid": "Q2419093",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12397"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Robert B. Sherman",
+          "qid": "Q2419093",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12397"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Julian Fellowes",
+          "qid": "Q336018",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/408507"
+        }
+      ],
+      "premiere": {
+        "date": "2004",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/408493",
+        "playbill": "https://playbill.com/production/mary-poppins-new-amsterdam-theatre-vault-0000008728",
+        "official_site": "http://www.disney.com.au/marypoppins/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Mary_Poppins_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q2210892"
+      },
+      "summary": {
+        "text": "Mary Poppins is a musical with music and lyrics by the Sherman Brothers and additional music and lyrics by George Stiles and Anthony Drewe, and a book by Julian Fellowes. The musical is based on the similarly titled Mary Poppins children's books by P. L. Travers and the 1964 Disney film starring Julie Andrews, Dick Van Dyke, David Tomlinson and Glynis Johns and is a fusion of various elements from the two, including songs from the film.\nProduced by Cameron Mackintosh and Disney Theatrical Productions and directed by Richard Eyre with co-direction from Matthew Bourne who also acted as co-choreographer with Stephen Mear, the original West End production opened in December 2004 and won two Olivier Awards, one for Best Actress in a Musical and the other for Best Theatre Choreographer. A Broadway production with a near-identical creative team opened in November 2006, with only minor changes from the West End version. It received seven Tony nominations, including Best Musical, and won for Best Scenic Design in a Musical. The original Broadway production closed in March 2013, after 2,619 performances. Touring and international productions followed.\nThe musical has become a popular choice for schools and community theatres to produce.",
+        "source_url": "https://en.wikipedia.org/wiki/Mary_Poppins_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "minsky-s": {
+      "slug": "minsky-s",
+      "title": "Minsky's",
+      "qid": "Q6869468",
+      "enwiki": "Minsky's",
+      "composers": [
+        {
+          "name": "Charles Strouse",
+          "qid": "Q2960275",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12463"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Susan Birkenhead",
+          "qid": "Q7647576",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12753"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Bob Martin",
+          "qid": "Q4933272",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/412778"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Minsky's",
+        "wikidata": "https://www.wikidata.org/wiki/Q6869468"
+      },
+      "summary": {
+        "text": "Minsky's is a musical by Bob Martin (book), Charles Strouse (music), and Susan Birkenhead (lyrics), and is loosely based on the 1968 movie The Night They Raided Minsky's.\nSet during the Great Depression era in Manhattan, the story centers around a jaded burlesque producer (Billy Minsky), a politician trying to shut him down (Randolph Sumner), and an innocent young girl who gets caught between them (Sumner's daughter, Mary).",
+        "source_url": "https://en.wikipedia.org/wiki/Minsky's",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-squab-farm": {
+      "slug": "the-squab-farm",
+      "title": "The Squab Farm",
+      "qid": "Q61757628",
+      "enwiki": "The Squab Farm",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8255",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Squab_Farm",
+        "wikidata": "https://www.wikidata.org/wiki/Q61757628"
+      },
+      "summary": {
+        "text": "The Squab Farm was a comedic play about the film industry staged on Broadway in 1918. It was written by Fanny Hatton and Frederic Hatton, and staged at the Bijou Theatre on Broadway. It starred several former film directors as well as actress Alma Tell and a 16-year-old Tallulah Bankhead in her first stage role. She was reportedly chastised for whistling in the communal dressing room, unknowingly breaking one of the theater's oldest superstitions and fellow actress Julia Bruns took pity on her and invited to share her dressing room. George Foster Platt directed.\nHelen Barnes also had a role in the show and  a New York Times reviewer wrote in a May 14, 1918, that Barnes appeared to be the audience's favorite squab. The play was a satire that compared a motion picture set to a barnyard. Barnes played the role of Hortense Hogan. The Squab Farm closed after a four-week run.\nThe show was presented by Lee Shubert and J. J. Shubert.\nThe Squab Farm featured in The Passing Show of 1918, a revue that included a young Fred Astaire as well as his sister Adele Astaire.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Squab_Farm",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "vigil": {
+      "slug": "vigil",
+      "title": "Vigil",
+      "qid": "Q39070611",
+      "enwiki": "Vigil (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Vigil_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q39070611"
+      },
+      "summary": {
+        "text": "Vigil is a one-woman Australian musical with book and lyrics by Steve Vizard and music by Joe Chindamo.",
+        "source_url": "https://en.wikipedia.org/wiki/Vigil_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "words-and-music": {
+      "slug": "words-and-music",
+      "title": "Words and Music",
+      "qid": "Q8034451",
+      "enwiki": "Words and Music (Noël Coward)",
+      "composers": [
+        {
+          "name": "Noël Coward",
+          "qid": "Q298388",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/36502"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Noël Coward",
+          "qid": "Q298388",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/36502"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Noël Coward",
+          "qid": "Q298388",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/36502"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Words_and_Music_(No%C3%ABl_Coward)",
+        "wikidata": "https://www.wikidata.org/wiki/Q8034451"
+      },
+      "summary": {
+        "text": "Words and Music is a musical revue with sketches, music, lyrics and direction by Noël Coward.  The revue introduced the song \"Mad About the Boy\", which, according to The Noël Coward Society's website, is Coward's most popular song.  The critics praised the show's sharp satire and verbal cleverness.",
+        "source_url": "https://en.wikipedia.org/wiki/Words_and_Music_(No%C3%ABl_Coward)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

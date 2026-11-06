@@ -1,0 +1,684 @@
+{
+  "live": true,
+  "shows": {
+    "9-to-5": {
+      "slug": "9-to-5",
+      "title": "9 to 5",
+      "qid": "Q4646461",
+      "enwiki": "9 to 5 (musical)",
+      "composers": [
+        {
+          "name": "Dolly Parton",
+          "qid": "Q180453",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/480323"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Dolly Parton",
+          "qid": "Q180453",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/480323"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": "2008",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/480315",
+        "official_site": "http://www.9to5themusical.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/9_to_5_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4646461"
+      },
+      "summary": {
+        "text": "9 to 5: The Musical is a musical based on the 1980 film of the same name, with music and lyrics by Dolly Parton. It features a book by Patricia Resnick, based on the screenplay by Resnick and Colin Higgins. The musical premiered in Los Angeles in September 2008, and opened on Broadway in April 2009. It received 15 Drama Desk Award nominations, the most received by a production in a single year, as well as four Tony Awards nominations. The Broadway production however was short-lived, closing in September 2009. A national tour of the US was launched in 2010, followed by a UK premiere in 2012. It opened in the West End in February 2019 and then launched a UK Tour in 2021.",
+        "source_url": "https://en.wikipedia.org/wiki/9_to_5_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "adele": {
+      "slug": "adele",
+      "title": "Adele",
+      "qid": "Q4681864",
+      "enwiki": "Adele (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1386",
+        "wikipedia": "https://en.wikipedia.org/wiki/Adele_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4681864"
+      },
+      "summary": {
+        "text": "Adele is a musical in three acts with book, music and lyrics by Adolf Philipp. The musical was coyly marketed and published as an English adaptation by Adolf Philipp and Edward A. Paulton with the claim that the original French book and lyrics were by Paul Hervé, and the music by Jean Briquet. However, both Paul Hervé and Jean Briquet were pseudonyms of Adolf Philipp and the work had never been written or performed in French prior to the original English language production. This was done to make the work seem like an authentic French stage work rather than the original creation of Adolf Philipp, an American.\nThe musical is set in France in the cities of Paris and Trouville, Normandy. The plot concerns a French girl who falls in love with the son of her father's business rival.",
+        "source_url": "https://en.wikipedia.org/wiki/Adele_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "anne-de-bretagne": {
+      "slug": "anne-de-bretagne",
+      "title": "Anne de Bretagne",
+      "qid": "Q2851339",
+      "enwiki": "Anne de Bretagne (rock opera)",
+      "composers": [
+        {
+          "name": "Alan Simon",
+          "qid": "Q2830587"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2009-06-29",
+        "venue": "Château des ducs de Bretagne"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Anne_de_Bretagne_(rock_opera)",
+        "wikidata": "https://www.wikidata.org/wiki/Q2851339"
+      },
+      "summary": {
+        "text": "Anne de Bretagne is a rock opera by Alan Simon, based on the life of Anne of Brittany. The story follows the historical events that made her the last Duchess of independent Brittany and twice-crowned queen of France.",
+        "source_url": "https://en.wikipedia.org/wiki/Anne_de_Bretagne_(rock_opera)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "enter-the-guardsman": {
+      "slug": "enter-the-guardsman",
+      "title": "Enter the Guardsman",
+      "qid": "Q43079445",
+      "enwiki": "Enter the Guardsman",
+      "composers": [
+        {
+          "name": "Craig Bohmler",
+          "qid": "Q58193113"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Enter_the_Guardsman",
+        "wikidata": "https://www.wikidata.org/wiki/Q43079445"
+      },
+      "summary": {
+        "text": "Enter the Guardsman is a musical based on Ferenc Molnár's play The Guardsman, with music by Craig Bohmler, lyrics by Marion Adler, and a book by Scott Wentworth.\nThe story concerns an actor who tests his actress wife's love by sending her roses as a secret admirer and disguising himself as a guardsman to seduce her.\nEnter the Guardsman won the first Musical of the Year competition in Aarhus, Denmark in 1996. The musical was then presented in 1997 at London's Donmar Warehouse, under a sponsorship between Donmar and the Useful Group. It was nominated for the Olivier Award for Best New Musical in 1998. In 1999, Enter the Guardsman premiered in the U.S. at the New Jersey Shakespeare Festival. A limited engagement of fifteen performances subsequently took place at the Dimson Theater in New York City in 2000.",
+        "source_url": "https://en.wikipedia.org/wiki/Enter_the_Guardsman",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "forbidden-city-portrait-of-an-empress": {
+      "slug": "forbidden-city-portrait-of-an-empress",
+      "title": "Forbidden City: Portrait of an Empress",
+      "qid": "Q5467318",
+      "enwiki": "Forbidden City: Portrait of an Empress",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Forbidden_City%3A_Portrait_of_an_Empress",
+        "wikidata": "https://www.wikidata.org/wiki/Q5467318"
+      },
+      "summary": {
+        "text": "Forbidden City: Portrait of an Empress is a Singapore musical that tells the story of Empress Dowager Cixi of the Qing dynasty of China. It was staged by the Singapore Repertory Theatre originally on 17–19 October 2002 at the Esplanade - Theatres on the Bay, as part of its opening festival, and back again in 2003 by popular demand and in 2006 as part of the IMF meetings in Singapore. Forbidden City was developed by Stephen Clark, Dick Lee and Steven Dexter. It was staged once again in August 2017 at the Esplanade - Theatres on the Bay.",
+        "source_url": "https://en.wikipedia.org/wiki/Forbidden_City%3A_Portrait_of_an_Empress",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "giulietta-e-romeo": {
+      "slug": "giulietta-e-romeo",
+      "title": "Giulietta e Romeo",
+      "qid": "Q3107914",
+      "enwiki": "Giulietta e Romeo (musical)",
+      "composers": [
+        {
+          "name": "Riccardo Cocciante",
+          "qid": "Q471344"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Pasquale Panella",
+          "qid": "Q3897104"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Giulietta_e_Romeo_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q3107914"
+      },
+      "summary": {
+        "text": "Giulietta e Romeo is an Italian-language musical with music by Riccardo Cocciante and lyrics by Pasquale Panella, based on William Shakespeare's play Romeo and Juliet.  Since its world premiere in Verona on June 1, 2007, directed by Sergio Carrubba, the musical has toured throughout Italy, playing in various Italian cities, including Rome, Milan, Naples and others.  There are plans to stage it in other European nations in the Italian language.\nThe cast is composed mostly of boys and girls between the ages of 15 and 18.  Each actor has at least two roles.",
+        "source_url": "https://en.wikipedia.org/wiki/Giulietta_e_Romeo_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "katharina-knie": {
+      "slug": "katharina-knie",
+      "title": "Katharina Knie",
+      "qid": "Q1735931",
+      "enwiki": "Katharina Knie (musical)",
+      "composers": [
+        {
+          "name": "Mischa Spoliansky",
+          "qid": "Q706508",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/70085"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Katharina_Knie_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1735931"
+      },
+      "summary": {
+        "text": "Katharina Knie is a German musical composed by Mischa Spoliansky with a libretto by Robert Gilbert. It is based on the 1928 play Katharina Knie by Carl Zuckmayer. It was first performed on 20 January 1957 at the Staatstheater am Gärtnerplatz in Munich. Hans Albers appeared in the original production, his final stage role.",
+        "source_url": "https://en.wikipedia.org/wiki/Katharina_Knie_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "marty": {
+      "slug": "marty",
+      "title": "Marty",
+      "qid": "Q6777347",
+      "enwiki": "Marty (musical)",
+      "composers": [
+        {
+          "name": "Charles Strouse",
+          "qid": "Q2960275",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12463"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Marty_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6777347"
+      },
+      "summary": {
+        "text": "Marty is a stage musical version of the 1955 film of the same name written by Paddy Chayefsky. The musical has music by Charles Strouse and Lee Adams.",
+        "source_url": "https://en.wikipedia.org/wiki/Marty_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "naked-boys-singing": {
+      "slug": "naked-boys-singing",
+      "title": "Naked Boys Singing!",
+      "qid": "Q20972265",
+      "enwiki": "Naked Boys Singing!",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1999",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Naked_Boys_Singing!",
+        "wikidata": "https://www.wikidata.org/wiki/Q20972265"
+      },
+      "summary": {
+        "text": "Naked Boys Singing! is a musical revue that features traditional American vaudeville-style music performed by eight actors who sing and dance naked. The campy musical comedy premiered at the Celebration Theatre in West Hollywood, California, on March 28, 1998. The show opened off-Broadway in July 1999, and was subsequently transferred numerous times across New York City. A Las Vegas production at the Erotic Heritage Museum opened in September 2021.",
+        "source_url": "https://en.wikipedia.org/wiki/Naked_Boys_Singing!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "on-second-avenue": {
+      "slug": "on-second-avenue",
+      "title": "On Second Avenue",
+      "qid": "Q7091124",
+      "enwiki": "On Second Avenue",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/On_Second_Avenue",
+        "wikidata": "https://www.wikidata.org/wiki/Q7091124"
+      },
+      "summary": {
+        "text": "On Second Avenue is a Yiddish American musical theatre production which looks back at the heyday of Yiddish Theater, especially in the Yiddish Theater District in Manhattan's East Village on Second Avenue. \nThe original 1987 production opened at the Norman Thomas Theater on the Lower East Side, and a revival produced in 2005 by the Folksbiene opened on the Upper West Side. Both productions were off-Broadway. The revue was put together by Zalmen Mlotek and Moishe Rosenfeld as a sequence of skits, and songs with dialogue in English and songs in Yiddish. The revue features songs from Yiddish theatre greats like Abraham Goldfaden. The original cast was led by Mary Soreanu and the revival cast by Mike Burstyn to critical acclaim. The revival was nominated for two Drama Desk Awards for 2005 - Best Revival for Folksbiene, and Outstanding Actor for Mike Burstyn.\nTwo Yiddish music albums by the same name were released by Jan Peerce in 1964 (the album is actually called On 2nd Avenue), and by the Hester Street Troupe - but they have no relation to the show.",
+        "source_url": "https://en.wikipedia.org/wiki/On_Second_Avenue",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "orange-blossoms": {
+      "slug": "orange-blossoms",
+      "title": "Orange Blossoms",
+      "qid": "Q96397633",
+      "enwiki": "Orange Blossoms (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Orange_Blossoms_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q96397633"
+      },
+      "summary": {
+        "text": "Orange Blossoms is a 1922 musical comedy with music by Victor Herbert, lyrics by Buddy DeSylva, and a book by Fred de Gresac, based on her own 1902 French play La Passerelle which had also been translated and staged on Broadway in 1903 as The Marriage of Kitty.\nIt ran for 95 performances at the Fulton Theatre on Broadway between September 19 and December 9, 1922. Produced and directed by Edward Royce, the cast included Alta King, Pat Somerset, Queenie Smith, Edith Day, Hal Skelly, Nancy Welford, and Jack Whiting. The setting is contemporary France with the action taking place in Paris and Cannes.",
+        "source_url": "https://en.wikipedia.org/wiki/Orange_Blossoms_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "other-world": {
+      "slug": "other-world",
+      "title": "Other World",
+      "qid": "Q116470818",
+      "enwiki": "Other World (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Other_World_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q116470818"
+      },
+      "summary": {
+        "text": "Other World is an original American musical theatre production based on an imagined MMORPG video game, with the book by Hunter Bell and music and lyrics by Jeff Bowen and Ann McNamee respectively. In addition to a plot that centers around video games, the show  explores the connections made on- and off-line, including family both biological and chosen, with the help of live special effects including puppetry.",
+        "source_url": "https://en.wikipedia.org/wiki/Other_World_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "paris-jon-english-musical": {
+      "slug": "paris-jon-english-musical",
+      "title": "Paris",
+      "qid": "Q7137185",
+      "enwiki": "Paris (Jon English musical)",
+      "composers": [
+        {
+          "name": "Jon English",
+          "qid": "Q4357464"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Jon English",
+          "qid": "Q4357464"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Jon English",
+          "qid": "Q4357464"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Paris_(Jon_English_musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7137185"
+      },
+      "summary": {
+        "text": "Paris is a rock musical written by Australian rock musician Jon English and David Mackay between 1987 and 1990, based on the myth of the Trojan War. Mostly on the story of the Iliad\nA concept album was released in Australia in 1990 with the first stage production taking place in Sydney in 2003.\nAccording to English, the concept for the musical began in a 1982 prank: he wrote a song called \"Oh Paris\", about the mythic hero rather than the French capital, just to see how many people actually listened to the words. The musical focuses on the love story between Helen and Paris as it follows his participation in the Trojan War. Paris is about the struggle to maintain some balance between passion and order, law and chaos, head and heart.",
+        "source_url": "https://en.wikipedia.org/wiki/Paris_(Jon_English_musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "rutka": {
+      "slug": "rutka",
+      "title": "Rutka",
+      "qid": "Q130660216",
+      "enwiki": "Rutka (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2024-10-13",
+        "venue": "Cincinnati Playhouse in the Park"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Rutka_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q130660216"
+      },
+      "summary": {
+        "text": "Rutka is an indie rock musical with a book by Neena Beber and music and lyrics by Jocelyn Mackenzie and Jeremy Lloyd Styles. It is based on the diary of Rutka Laskier.",
+        "source_url": "https://en.wikipedia.org/wiki/Rutka_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "shout-the-legend-of-the-wild-one": {
+      "slug": "shout-the-legend-of-the-wild-one",
+      "title": "Shout! The Legend of The Wild One",
+      "qid": "Q7502760",
+      "enwiki": "Shout! The Legend of The Wild One",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "John-Michael Howson",
+          "qid": "Q6217351"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Shout!_The_Legend_of_The_Wild_One",
+        "wikidata": "https://www.wikidata.org/wiki/Q7502760"
+      },
+      "summary": {
+        "text": "Shout! The Legend of the Wild One is an Australian musical based on the life of Johnny O'Keefe. As a jukebox musical, it features songs recorded by O'Keefe and other popular songs from the 1950s and 1960s. It was first staged in Melbourne at the State Theatre in December 2000.",
+        "source_url": "https://en.wikipedia.org/wiki/Shout!_The_Legend_of_The_Wild_One",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "stephen-sondheim-s-old-friends": {
+      "slug": "stephen-sondheim-s-old-friends",
+      "title": "Stephen Sondheim's Old Friends",
+      "qid": "Q119805468",
+      "enwiki": "Stephen Sondheim's Old Friends",
+      "composers": [
+        {
+          "name": "Stephen Sondheim",
+          "qid": "Q153579",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12430"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Stephen Sondheim",
+          "qid": "Q153579",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12430"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": "2022-05-03",
+        "venue": "Sondheim Theatre"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Stephen_Sondheim's_Old_Friends",
+        "wikidata": "https://www.wikidata.org/wiki/Q119805468"
+      },
+      "summary": {
+        "text": "Stephen Sondheim's Old Friends is a tribute revue honoring musical theatre composer and lyricist Stephen Sondheim devised and produced by Cameron Mackintosh.\nOriginally designed as a one-night performance, the revue premiered at the Sondheim Theatre in London on 3 May 2022. Over a year later, Mackintosh began producing a limited West End run. This run began previews on 21 September 2023 and opened on 3 October at the Gielgud Theatre.",
+        "source_url": "https://en.wikipedia.org/wiki/Stephen_Sondheim's_Old_Friends",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "stepping-stones": {
+      "slug": "stepping-stones",
+      "title": "Stepping Stones",
+      "qid": "Q19878090",
+      "enwiki": "Stepping Stones (musical)",
+      "composers": [
+        {
+          "name": "Jerome Kern",
+          "qid": "Q313270",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6711"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8304",
+        "wikipedia": "https://en.wikipedia.org/wiki/Stepping_Stones_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q19878090"
+      },
+      "summary": {
+        "text": "Stepping Stones is a \"fantastical musical play\" (musical comedy) in two acts with book by Anne Caldwell and R. H. Burnside, lyrics by Anne Caldwell, and music by Jerome Kern. The show was produced by Charles Dillingham at the Globe Theater, and opened November 6, 1923.  \nThe musical director was Victor Baravalle and the music was orchestrated by Robert Russell Bennett. The show was staged by R. H. Burnside and choreographed by Mary Read and John Tiller. Scenic design by Wilhelm, Robert McQuinn, and P. Dodd Ackerman. Costume design by Robert McQuinn, Wilhelm, Cora MacGeachy, Will R. Barnes, and Brooks-Mahieu Company. It ran for 281 performances, closing on October 4, 1924. The show was closed as a result of an actor's strike and then had touring performances on the road until 1926.\n  \nThe cast headlined Fred Stone (Peter Plug), Dorothy Stone (Roughette Hood), Oscar Ragland (Otto DeWolfe), Evelyn Herbert (Lupina), and Jack Whiting (Captain Paul). \nThe plot is basically a musical comedy version of the adventures of Roughette Hood (i.e. Little Red Riding Hood) (Dorothy Stone) with Otto DeWolfe (Oscar Ragland), a villain. She is rescued from the villain in song, dance, and acrobatic comedy by Peter Plug (Fred Stone), an errand boy and wild plumber from the Pampas.\nGerald Boardman points out that, \"Most critics devoted their opening paragraphs to extolling the seventeen-year-old Dorothy Stone. . . . [Fred] Stone's clowning and acrobatics were applauded (he parachuted down for his first entrance), and Dillingham's lavish, tasteful hand was complimented as well. . . . In the Herald Alexander Woollcott reported that the evening was 'abrim with sweet melodies by Jerome Kern...'\"\n\nIn 1948, Helen Carroll and the Satisfiers released a new recording of \"Raggedy Ann\", one of the songs from the musical.",
+        "source_url": "https://en.wikipedia.org/wiki/Stepping_Stones_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "swan-esther": {
+      "slug": "swan-esther",
+      "title": "Swan Esther",
+      "qid": "Q7653439",
+      "enwiki": "Swan Esther",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Swan_Esther",
+        "wikidata": "https://www.wikidata.org/wiki/Q7653439"
+      },
+      "summary": {
+        "text": "Swan Esther is a musical based on the Book of Esther.\nIt was written in 1982 by Jack Edward Oliver (words) and Nick Munns (music).\nA professional production was staged by the Young Vic in January 1984. Swan Esther has also been performed by a number of amateur companies.\nThe original soundtrack was published on CD in May 2014 on the Stage Door record label.",
+        "source_url": "https://en.wikipedia.org/wiki/Swan_Esther",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "sweet-and-low": {
+      "slug": "sweet-and-low",
+      "title": "Sweet and Low",
+      "qid": "Q7655601",
+      "enwiki": "Sweet and Low (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "David Freedman",
+          "qid": "Q4492744",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4983"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8471",
+        "wikipedia": "https://en.wikipedia.org/wiki/Sweet_and_Low_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7655601"
+      },
+      "summary": {
+        "text": "Sweet and Low is a musical revue produced by Billy Rose and starring James Barton, Fanny Brice, George Jessel, and Arthur Treacher.  It features sketches by David Freedman and songs by various composers and lyricists.\nThe 1930 Broadway production was directed by Alexander Leftwich and choreographed by Danny Dare, with additional dances staged by Busby Berkeley. Scenic design was by Jo Mielziner. It ran for a week at the Majestic Theatre in Brooklyn before opening on November 17, 1930, at Chanin's 46th Street Theatre, where it ran for 184 performances. Although it rarely sold out, Rose transferred it to the 44th Street Theatre, where it was more successful at the box office.",
+        "source_url": "https://en.wikipedia.org/wiki/Sweet_and_Low_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-addams-family": {
+      "slug": "the-addams-family",
+      "title": "The Addams Family",
+      "qid": "Q2253601",
+      "enwiki": "The Addams Family (musical)",
+      "composers": [
+        {
+          "name": "Andrew Lippa",
+          "qid": "Q4757771",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13451"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Marshall Brickman",
+          "qid": "Q459814",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/394782"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/484631",
+        "official_site": "http://www.theaddamsfamilymusical.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Addams_Family_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q2253601"
+      },
+      "summary": {
+        "text": "The Addams Family is a musical comedy with music and lyrics by Andrew Lippa and book by Marshall Brickman and Rick Elice. The show is based upon The Addams Family characters created by Charles Addams in his single-panel gag cartoons, which depict a ghoulish American family with an affinity for all things macabre. Although numerous film and television adaptations of Addams' cartoons exist, the musical is the first stage show based on the characters. The Addams Family is also the first show produced by Elephant Eye Theatricals.\nAfter a tryout in Chicago in 2009, the musical opened on Broadway in April 2010. The original cast featured Nathan Lane as Gomez and Bebe Neuwirth as Morticia. The production closed on December 31, 2011, and a revised national tour of North America began in September 2011.\nThe Addams Family won several awards during its Broadway run including a Drama Desk Award for Outstanding Set Design, an Outer Critics Circle Award for Outstanding Set Design, and the 2010 Drama League Award for Distinguished Achievement in Musical Theatre Award (presented to Nathan Lane). The show was nominated for two Tony Awards, among other nominations.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Addams_Family_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-grand-tour": {
+      "slug": "the-grand-tour",
+      "title": "The Grand Tour",
+      "qid": "Q7737502",
+      "enwiki": "The Grand Tour (musical)",
+      "composers": [
+        {
+          "name": "Jerry Herman",
+          "qid": "Q1363692",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6278"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Jerry Herman",
+          "qid": "Q1363692",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6278"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Michael Stewart",
+          "qid": "Q6834631",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7748"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": "Curran Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/10183",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Grand_Tour_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7737502"
+      },
+      "summary": {
+        "text": "The Grand Tour is a musical with a book by Michael Stewart and Mark Bramble and music and lyrics by Jerry Herman.\nBased on S. N. Behrman's adaptation of the 1944 play Jakobowsky und der Oberst (Jacobowsky and the Colonel) by Franz Werfel, the story concerns an unlikely pair. S.L. Jacobowsky, a Polish-Jewish intellectual, has purchased a car he cannot drive. Stjerbinsky, an aristocratic, antisemitic colonel, knows how to drive but has no car. When the two men meet at a Paris hotel, they agree to join forces in order to escape the approaching Nazis. Together with the Colonel's girlfriend, Marianne, they experience many adventures while on the road, but trouble ensues when Jacobowsky falls in love with the young girl.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Grand_Tour_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-merchants-of-bollywood": {
+      "slug": "the-merchants-of-bollywood",
+      "title": "The Merchants of Bollywood",
+      "qid": "Q7751048",
+      "enwiki": "The Merchants of Bollywood",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Merchants_of_Bollywood",
+        "wikidata": "https://www.wikidata.org/wiki/Q7751048"
+      },
+      "summary": {
+        "text": "The Merchants of Bollywood is an Australian musical written and directed by Toby Gough.  The show is about the history of the Bollywood film industry, and it is named after Hiralalji Merchant and his grand daughter Vaibhavi Merchant, two notable Indian choreographers. The set and lighting design was by Liz Berry and the costumes were designed by Falguni Thakore and Bipin. The musical has been described as \"an Indian version of the Billy Elliot story\" and is choreographed by Vaibhavi Merchant. It was the first ever Bollywood production to tour straight from Film City in Mumbai.  When the show reached Australia in February 2008, there had been 400 performances seen by 500,000 patrons. The show toured the United Kingdom, various parts of Europe, the United States, Australia, Canada and various parts of Asia.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Merchants_of_Bollywood",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-passing-show": {
+      "slug": "the-passing-show",
+      "title": "The Passing Show",
+      "qid": "Q7756248",
+      "enwiki": "The Passing Show",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1894",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/10751",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Passing_Show",
+        "wikidata": "https://www.wikidata.org/wiki/Q7756248"
+      },
+      "summary": {
+        "text": "The Passing Show was a musical revue in three acts, billed as a \"topical extravaganza\", with a book and lyrics by Sydney Rosenfeld and music by Ludwig Engländer and various other composers.  It featured spoofs of theatrical productions of the past season.  The show was presented in 1894 by George Lederer at the Casino Theatre. It was one of the first musical revues on Broadway and led the fashion for such productions.  The Casino Theatre produced a revue each summer thereafter for several seasons.\nIn 1912, Lee and Jacob J. Shubert began an annual series of elaborate Broadway revues using the name The Passing Show of 19XX, designed to compete with the popular Ziegfeld Follies.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Passing_Show",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

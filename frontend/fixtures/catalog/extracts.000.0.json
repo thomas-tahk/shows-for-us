@@ -1,0 +1,66 @@
+{
+  "batchcomplete": false,
+  "continue": {
+    "excontinue": 5,
+    "continue": "||"
+  },
+  "query": {
+    "redirects": [
+      {
+        "from": "Old Title (musical)",
+        "to": "New Title (musical)"
+      }
+    ],
+    "pages": [
+      {
+        "pageid": 1000,
+        "ns": 0,
+        "title": "Aladdin (musical)",
+        "extract": "Placeholder intro for Aladdin (musical). Not Wikipedia text."
+      },
+      {
+        "pageid": 1001,
+        "ns": 0,
+        "title": "Aladdin (pantomime)",
+        "extract": "Placeholder intro for Aladdin (pantomime). Not Wikipedia text."
+      },
+      {
+        "pageid": 1002,
+        "ns": 0,
+        "title": "Candide (operetta)",
+        "extract": "Placeholder intro for Candide. Not Wikipedia text."
+      },
+      {
+        "pageid": 1003,
+        "ns": 0,
+        "title": "Chicago (musical)",
+        "extract": "Placeholder intro for Chicago (musical). Not Wikipedia text."
+      },
+      {
+        "pageid": 1004,
+        "ns": 0,
+        "title": "Hair (musical)",
+        "extract": "Placeholder intro for Hair (musical). Not Wikipedia text."
+      },
+      {
+        "pageid": 1005,
+        "ns": 0,
+        "title": "New Title (musical)"
+      },
+      {
+        "pageid": 1006,
+        "ns": 0,
+        "title": "Show Boat"
+      },
+      {
+        "pageid": 1007,
+        "ns": 0,
+        "title": "The Robber Bridegroom"
+      },
+      {
+        "title": "Unlabelled Credits (musical)",
+        "missing": true
+      }
+    ]
+  }
+}

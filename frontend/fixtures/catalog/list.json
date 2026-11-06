@@ -1,0 +1,133 @@
+{
+  "head": {
+    "vars": [
+      "item",
+      "enwiki"
+    ]
+  },
+  "results": {
+    "bindings": [
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000010"
+        },
+        "enwiki": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The Robber Bridegroom"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000020"
+        },
+        "enwiki": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Chicago (musical)"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000030"
+        },
+        "enwiki": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Candide (operetta)"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000040"
+        },
+        "enwiki": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Aladdin (musical)"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000041"
+        },
+        "enwiki": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Aladdin (pantomime)"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000050"
+        },
+        "enwiki": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Unlabelled Credits (musical)"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000060"
+        },
+        "enwiki": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Old Title (musical)"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000070"
+        },
+        "enwiki": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Hair (musical)"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1000099"
+        },
+        "enwiki": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "The Lion King (musical)"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q1050738"
+        },
+        "enwiki": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Show Boat"
+        }
+      },
+      {
+        "item": {
+          "type": "uri",
+          "value": "http://www.wikidata.org/entity/Q19320959"
+        },
+        "enwiki": {
+          "type": "literal",
+          "xml:lang": "en",
+          "value": "Hamilton (musical)"
+        }
+      }
+    ]
+  }
+}

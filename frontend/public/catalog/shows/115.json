@@ -1,0 +1,547 @@
+{
+  "live": true,
+  "shows": {
+    "an-evening-with-jerry-herman": {
+      "slug": "an-evening-with-jerry-herman",
+      "title": "An Evening with Jerry Herman",
+      "qid": "Q4749964",
+      "enwiki": "An Evening with Jerry Herman",
+      "composers": [
+        {
+          "name": "Jerry Herman",
+          "qid": "Q1363692",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6278"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1560",
+        "wikipedia": "https://en.wikipedia.org/wiki/An_Evening_with_Jerry_Herman",
+        "wikidata": "https://www.wikidata.org/wiki/Q4749964"
+      },
+      "summary": {
+        "text": "An Evening with Jerry Herman is a musical revue of Jerry Herman's work and consists of songs written by him for several of his musicals and anecdotes about Herman's career.",
+        "source_url": "https://en.wikipedia.org/wiki/An_Evening_with_Jerry_Herman",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "church-basement-ladies": {
+      "slug": "church-basement-ladies",
+      "title": "Church Basement Ladies",
+      "qid": "Q5116555",
+      "enwiki": "Church Basement Ladies",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Church_Basement_Ladies",
+        "wikidata": "https://www.wikidata.org/wiki/Q5116555"
+      },
+      "summary": {
+        "text": "Church Basement Ladies is a musical theatre series, based on a musical with book by Jim Stowell and Jessica Zuehlke, music and lyrics by Drew Jansen. The series surrounds a group of women that work in their local church basement cooking meals for religious events and functions.\nThe original production and subsequent entries in the series are based on the book Growing Up Lutheran by Janet Letnes Martin and Suzann Nelson, published in 1997. In addition to Growing Up Lutheran, Martin and Nelson, under the name of \"Those Lutheran Ladies\",  have written other works, including Growing Up Rural, published in 2017.\nA revival of the original musical premiered at The Plymouth Playhouse in Plymouth, Minnesota on July 10, 2025.",
+        "source_url": "https://en.wikipedia.org/wiki/Church_Basement_Ladies",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "don-juan": {
+      "slug": "don-juan",
+      "title": "Don Juan",
+      "qid": "Q3035808",
+      "enwiki": "Don Juan (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Don_Juan_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q3035808"
+      },
+      "summary": {
+        "text": "Don Juan is a musical written by Félix Gray in 2003. It is loosely based on Dom Juan by Molière and The Trickster of Seville and the Stone Guest by Tirso de Molina. Don Juan was directed by Gilles Maheu and presented in Canada (mainly Quebec and Ottawa) in 2004 and in France in 2005 with a total of 600,000 viewers worldwide. The soundtrack of the musical saw sales of more than 300,000 copies. The cast also went to South Korea. The show had a run until 2006. In 2024, on the 20th anniversary of the original production, the cast went on the national tour. They also went to China (Guangzhou) and Taiwan (Taipei). The musical was also staged in Japan under the direction of Hirokazu Ikuta.\nThe original cast included Jean-François Breau in the role of Don Juan and Marie-Ève Janvier in the role of Maria, as well as the 2012 revival. In 2024, Gianmarco Schiaretti played the role of Don Juan and Cindy Daniel (who previously portrayed Elvira) played the role of Maria.",
+        "source_url": "https://en.wikipedia.org/wiki/Don_Juan_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "far-from-heaven": {
+      "slug": "far-from-heaven",
+      "title": "Far from Heaven",
+      "qid": "Q20649143",
+      "enwiki": "Far from Heaven (musical)",
+      "composers": [
+        {
+          "name": "Scott Frankel",
+          "qid": "Q7436354",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/73309"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Michael Korie",
+          "qid": "Q16730993",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/423818"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Richard Greenberg",
+          "qid": "Q2149632",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8306"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Far_from_Heaven_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q20649143"
+      },
+      "summary": {
+        "text": "Far From Heaven is a 2013 musical with a book by Richard Greenberg, music by Scott Frankel, and lyrics by Michael Korie. The musical is adapted from Todd Haynes's 2002 film of the same name. The  musical tells the story of Cathy Whitaker, a 1950s housewife, living in wealthy suburban Connecticut as she sees her seemingly perfect life begin to fall apart. The musical deals with complex contemporary issues such as race, gender roles, sexual orientation and class.",
+        "source_url": "https://en.wikipedia.org/wiki/Far_from_Heaven_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "fings-ain-t-wot-they-used-t-be": {
+      "slug": "fings-ain-t-wot-they-used-t-be",
+      "title": "Fings Ain't Wot They Used T'Be",
+      "qid": "Q5450316",
+      "enwiki": "Fings Ain't Wot They Used T'Be",
+      "composers": [
+        {
+          "name": "Lionel Bart",
+          "qid": "Q326299",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7347"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Frank Norman",
+          "qid": "Q5488698"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Fings_Ain't_Wot_They_Used_T'Be",
+        "wikidata": "https://www.wikidata.org/wiki/Q5450316"
+      },
+      "summary": {
+        "text": "Fings Ain't Wot They Used T'be is a 1960 West End musical comedy about Cockney low-life characters in the 1950s, including spivs, prostitutes, teddy-boys and corrupt policemen. The work is  more of a play with music than a conventional musical. The original play, by Frank Norman, who though born in Bristol lived his adult life in London, was intended to be a straight theatrical piece, but was supplemented with music and lyrics by Lionel Bart, who also grew up in London's East End.",
+        "source_url": "https://en.wikipedia.org/wiki/Fings_Ain't_Wot_They_Used_T'Be",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "forbidden-broadway-rude-awakening": {
+      "slug": "forbidden-broadway-rude-awakening",
+      "title": "Forbidden Broadway: Rude Awakening",
+      "qid": "Q5467306",
+      "enwiki": "Forbidden Broadway: Rude Awakening",
+      "composers": [
+        {
+          "name": "various artists",
+          "qid": "Q3108914"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Gerard Alessandrini",
+          "qid": "Q5549903",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/406896"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Gerard Alessandrini",
+          "qid": "Q5549903",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/406896"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Forbidden_Broadway%3A_Rude_Awakening",
+        "wikidata": "https://www.wikidata.org/wiki/Q5467306"
+      },
+      "summary": {
+        "text": "Forbidden Broadway: Rude Awakening is the 2007 incarnation of Gerard Alessandrini's long-running hit Off-Broadway musical revue Forbidden Broadway, which parodies notable current Broadway and Off-Broadway musicals.\nRude Awakening opened on October 2, 2007, at New York's 47th Street Theatre and closed on March 24, 2008. The show was conceived, created and written by Alessandrini and was directed by Alessandrini and Phillip George.\nThe musicals parodied in Rude Awakening include Wicked, A Chorus Line, Les Misérables, The Little Mermaid, Grey Gardens, Chicago, Spring Awakening, Jersey Boys, Spamalot and Mary Poppins.",
+        "source_url": "https://en.wikipedia.org/wiki/Forbidden_Broadway%3A_Rude_Awakening",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "he-wanted-adventure": {
+      "slug": "he-wanted-adventure",
+      "title": "He Wanted Adventure",
+      "qid": "Q104792068",
+      "enwiki": "He Wanted Adventure",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/He_Wanted_Adventure",
+        "wikidata": "https://www.wikidata.org/wiki/Q104792068"
+      },
+      "summary": {
+        "text": "He Wanted Adventure is a 1933 musical by R. P. Weston and Bert Lee. Music was written by Jack Waller and Joseph Tunbridge, with additional lyrics provided by Clifford Grey. It is based on Walter Hackett's 1921 hit play Ambrose Applejohn's Adventure.\nPremiering at the Palace Theatre, Manchester it transferred to the West End for a 152 performances at the Saville Theatre which lasted between 28 March and 19 August 1933. The original London cast included Bobby Howes, Wylie Watson, Abraham Sofaer, Judy Gunn, Lena Halliday and Marie Burke.",
+        "source_url": "https://en.wikipedia.org/wiki/He_Wanted_Adventure",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "i-d-rather-be-right": {
+      "slug": "i-d-rather-be-right",
+      "title": "I'd Rather Be Right",
+      "qid": "Q5965546",
+      "enwiki": "I'd Rather Be Right",
+      "composers": [
+        {
+          "name": "Richard Rodgers",
+          "qid": "Q269094",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12311"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Lorenz Hart",
+          "qid": "Q725828",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11244"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "George S. Kaufman",
+          "qid": "Q163662",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5827"
+        },
+        {
+          "name": "Moss Hart",
+          "qid": "Q728876",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6153"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4619",
+        "wikipedia": "https://en.wikipedia.org/wiki/I'd_Rather_Be_Right",
+        "wikidata": "https://www.wikidata.org/wiki/Q5965546"
+      },
+      "summary": {
+        "text": "I'd Rather Be Right is a 1937 musical with a book by Moss Hart and George S. Kaufman, lyrics by Lorenz Hart, and music by Richard Rodgers.  The story is a Depression-era political satire set in New York City about Washington politics and political figures such as President Franklin D. Roosevelt. The plot centers on Peggy Jones (Joy Hodges) and her boyfriend Phil (Austin Marshall), who needs a raise in order for them to get married. The President steps in and solves their dilemma.",
+        "source_url": "https://en.wikipedia.org/wiki/I'd_Rather_Be_Right",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "oh-captain": {
+      "slug": "oh-captain",
+      "title": "Oh, Captain!",
+      "qid": "Q7080365",
+      "enwiki": "Oh, Captain!",
+      "composers": [
+        {
+          "name": "Jay Livingston",
+          "qid": "Q947044",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12069"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Jay Livingston",
+          "qid": "Q947044",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12069"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Al Morgan",
+          "qid": "Q4704469",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3929"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6673",
+        "wikipedia": "https://en.wikipedia.org/wiki/Oh%2C_Captain!",
+        "wikidata": "https://www.wikidata.org/wiki/Q7080365"
+      },
+      "summary": {
+        "text": "Oh, Captain! is a musical comedy based on the 1953 film The Captain's Paradise with music and lyrics by Jay Livingston and Ray Evans and the book by Al Morgan and José Ferrer. The basis of the musical was the 1953 film The Captain's Paradise, which had been written by Alec Coppel and Nicholas Phipps.\nThe musical updated the film's Gibraltar and Algiers setting to London and Paris. The production was dismissed by the critics as a \"tired businessman's show\", but the cast and choreography were much praised.\nA 5-minute dance sequence between Tony Randall (in the title role) and prima ballerina Alexandra Danilova is called \"the best five minutes in the show\" by Ken Mandelbaum.",
+        "source_url": "https://en.wikipedia.org/wiki/Oh%2C_Captain!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "retrograde-the-musical": {
+      "slug": "retrograde-the-musical",
+      "title": "Retrograde The Musical",
+      "qid": "Q136373299",
+      "enwiki": "Retrograde The Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Retrograde_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q136373299"
+      },
+      "summary": {
+        "text": "Retrograde The Musical is an astrology-based musical with the book by Nick Laughlin and Richard C. Walter, and music and lyrics by Laughlin, Walter, Jesse Saint John, and Drew Louis.",
+        "source_url": "https://en.wikipedia.org/wiki/Retrograde_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "sunday-in-the-park-with-george": {
+      "slug": "sunday-in-the-park-with-george",
+      "title": "Sunday in the Park with George",
+      "qid": "Q3435285",
+      "enwiki": "Sunday in the Park with George",
+      "composers": [
+        {
+          "name": "Stephen Sondheim",
+          "qid": "Q153579",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12430"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Stephen Sondheim",
+          "qid": "Q153579",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12430"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "James Lapine",
+          "qid": "Q6137781",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6607"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Laurence Olivier Awards",
+          "qid": "Q28470"
+        },
+        {
+          "name": "Pulitzer Prize for Drama",
+          "qid": "Q289214"
+        }
+      ],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8418",
+        "wikipedia": "https://en.wikipedia.org/wiki/Sunday_in_the_Park_with_George",
+        "wikidata": "https://www.wikidata.org/wiki/Q3435285"
+      },
+      "summary": {
+        "text": "Sunday in the Park with George is a 1984 musical with music and lyrics by Stephen Sondheim and book by James Lapine. It was inspired by the French pointillist painter Georges Seurat's painting A Sunday Afternoon on the Island of La Grande Jatte (painted 1884–1886). The plot revolves around George, a fictionalized version of Seurat, who immerses himself deeply in painting his masterpiece, and his great-grandson (also named George), a conflicted and cynical contemporary artist. The Broadway production opened in 1984.\nThe musical won the 1985 Pulitzer Prize for Drama, two Tony Awards for design (and a nomination for Best Musical), numerous Drama Desk Awards, the 1991 Olivier Award for Best Musical, and the 2007 Olivier Award for Outstanding Musical Production. It has enjoyed several major revivals, including the 2005–2006 UK production first presented at the Menier Chocolate Factory, its subsequent 2008 Broadway transfer, and a 2017 Broadway revival.",
+        "source_url": "https://en.wikipedia.org/wiki/Sunday_in_the_Park_with_George",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-girl-from-utah": {
+      "slug": "the-girl-from-utah",
+      "title": "The Girl from Utah",
+      "qid": "Q7736567",
+      "enwiki": "The Girl from Utah",
+      "composers": [
+        {
+          "name": "Sidney Jones",
+          "qid": "Q926850",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11958"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3897",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Girl_from_Utah",
+        "wikidata": "https://www.wikidata.org/wiki/Q7736567"
+      },
+      "summary": {
+        "text": "The Girl from Utah is an Edwardian musical comedy in two acts with music by Paul Rubens, and Sidney Jones, a book by James T. Tanner, and lyrics by Adrian Ross, Percy Greenbank and Rubens.  The story concerns an American girl who runs away to London to avoid becoming a wealthy Mormon's newest wife.  The Mormon follows her to England, but she is rescued from a bigamous marriage by a handsome actor.\nThe piece opened at the Adelphi Theatre in London on 18 October 1913 and had an initial run of 195 performances.   An American version was produced by Charles Frohman that had a successful run of 140 performances at the Knickerbocker Theatre, opening on August 24, 1914.  Frohman hired the young Jerome Kern to write five new songs for the score together with lyricist Herbert Reynolds to strengthen what he felt was a weak first act.  Julia Sanderson and Donald Brian starred in the production.  Their song \"They Didn't Believe Me\" became a hit.  The musical also toured in other countries, including South Africa, Australia and New Zealand.\n\"They Didn't Believe Me\", with its conversational style and modern 44 time signature instead of the older waltz style, put Kern in great demand on Broadway and established a pattern for musical comedy love songs that lasted through the 1960s.  It became a standard and has been recorded by many artists. A recording of a concert performance of the show is available from the Comic Opera Guild.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Girl_from_Utah",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-happy-time": {
+      "slug": "the-happy-time",
+      "title": "The Happy Time",
+      "qid": "Q7738829",
+      "enwiki": "The Happy Time (musical)",
+      "composers": [
+        {
+          "name": "John Kander",
+          "qid": "Q1685876",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6837"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Fred Ebb",
+          "qid": "Q1274807",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5654"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "N. Richard Nash",
+          "qid": "Q446404",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6893"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4209",
+        "playbill": "https://playbill.com/production/the-happy-time-broadway-theatre-vault-0000012274",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Happy_Time_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7738829"
+      },
+      "summary": {
+        "text": "The Happy Time is a musical with music by John Kander, lyrics by Fred Ebb, and a book by N. Richard Nash loosely based on a 1950 hit Broadway play, The Happy Time by Samuel A. Taylor, which was in turn based on stories by Robert Fontaine.  The story had also been made into a 1952 film version.\nThe original 1967 Los Angeles and 1968 Broadway productions were directed and choreographed by Gower Champion, who won Tony Awards in each category.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Happy_Time_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-man-from-cook-s": {
+      "slug": "the-man-from-cook-s",
+      "title": "The Man from Cook's",
+      "qid": "Q119605400",
+      "enwiki": "The Man from Cook's",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Man_from_Cook's",
+        "wikidata": "https://www.wikidata.org/wiki/Q119605400"
+      },
+      "summary": {
+        "text": "The Man from Cook's is a musical with music by Raymond Hubbell and a book and lyrics by Henry Blossom. Based on a story by Maurice Ordonneau, it is set in the cities of Paris and Naples. The work premiered on Broadway on March 25, 1912, at the New Amsterdam Theatre. It closed April 20, 1912 after 32 performances.\nThe original cast included Walter Percival as Prince Victor de Champagnax, Eleanor Pendleton as Estelle Dubois, Flavia Arcaro as Madame Leontine, Fred Walton as Toto Soulard, Leslie Kenyon as Lord Fitz-Bertie Baffingfone, John Daly Murphy as Zachary Benton, Stella Hoban as Marjorie Benton, Marion Murray as Mrs. Benton, William Pinkham as both Leonard de Biron and Pietro, John J. Dempsey as T. Laurence O'Donnell,  Frances Rubens as Mariette, Bessie Durant as Louise, Josephine Harriman as Paula, Daisy Rudd as Marie, Rene Thornton as Floria, J.T. Chaillee as Chauffeur Giacommetti, W. Hobart as Wilhelm, Adele Kornau as Jeanne, and Fred A. Bishop as Johnson.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Man_from_Cook's",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-mouth-of-the-nile": {
+      "slug": "the-mouth-of-the-nile",
+      "title": "The Mouth of the Nile",
+      "qid": "Q124607344",
+      "enwiki": "The Mouth of the Nile",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Mouth_of_the_Nile",
+        "wikidata": "https://www.wikidata.org/wiki/Q124607344"
+      },
+      "summary": {
+        "text": "The Mouth of the Nile; Or, The Glorious First of August is a 1798 patriotic musical written by the British author Thomas John Dibdin with music composed by Thomas Attwood. It celebrated the recent naval victory of Horatio Nelson over the French at the Battle of the Nile. It premiered at the Theatre Royal, Covent Garden on 25 October 1798 as an afterpiece. The original cast included Edward Townsend as Jack Junk, John Fawcett as William, Dibdin as Pat, Charles Incledon as Michael and Sarah Sims as Susan. The prologue was written by Richard Cumberland. The Irish premiere took place at the Crow Street Theatre in Dublin on 18 December 1799.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Mouth_of_the_Nile",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "wonderland": {
+      "slug": "wonderland",
+      "title": "Wonderland",
+      "qid": "Q8031888",
+      "enwiki": "Wonderland (musical)",
+      "composers": [
+        {
+          "name": "Frank Wildhorn",
+          "qid": "Q1444457",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5638"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/488709",
+        "wikipedia": "https://en.wikipedia.org/wiki/Wonderland_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q8031888"
+      },
+      "summary": {
+        "text": "Wonderland, formerly called Wonderland: Alice's New Musical Adventure or Wonderland: A New Alice, is a musical play with a book by Jack Murphy and Gregory Boyd, lyrics by Murphy, and music by Frank Wildhorn. The story, a contemporary version of the novels Alice's Adventures in Wonderland (1865) and Through the Looking-Glass (1871) by Lewis Carroll, is set in New York City and focuses on writer Alice Cornwinkle and her 10-year-old daughter Chloe.\nAfter various workshops and productions of the musical in Tampa, Florida and Houston, Texas, the show premiered on Broadway on April 17, 2011, closing a month later, on May 15, 2011.",
+        "source_url": "https://en.wikipedia.org/wiki/Wonderland_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

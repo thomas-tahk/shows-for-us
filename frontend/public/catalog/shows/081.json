@@ -1,0 +1,656 @@
+{
+  "live": true,
+  "shows": {
+    "daddy-cool": {
+      "slug": "daddy-cool",
+      "title": "Daddy Cool",
+      "qid": "Q5208001",
+      "enwiki": "Daddy Cool (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "http://www.daddycoolmusical.nl",
+        "wikipedia": "https://en.wikipedia.org/wiki/Daddy_Cool_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5208001"
+      },
+      "summary": {
+        "text": "Daddy Cool is a musical based upon the works of Boney M. and other Frank Farian-produced artists. It premiered in the West End in 2006, followed by UK and international tours. \nThe musical tells the story of Sunny, a young man who lives for his music. Caught up in local rivalry between East and West London crews, he meets and falls in love with Rose, daughter of the East End's notorious club owner Ma Baker. Echoing Romeo and Juliet, the lovers' relationship fuels the hostility between the two gangs, leaving their families face to face past secrets and forcing them to confront their future.",
+        "source_url": "https://en.wikipedia.org/wiki/Daddy_Cool_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "fisherman-s-friends-the-musical": {
+      "slug": "fisherman-s-friends-the-musical",
+      "title": "Fisherman's Friends: The Musical",
+      "qid": "Q109000671",
+      "enwiki": "Fisherman's Friends: The Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Fisherman's_Friends%3A_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q109000671"
+      },
+      "summary": {
+        "text": "Fisherman's Friends: The Musical is a stage musical with a book by Amanda Whittington based on the true story and music of the folk-music group Fisherman's Friends and the 2019 film Fisherman's Friends.",
+        "source_url": "https://en.wikipedia.org/wiki/Fisherman's_Friends%3A_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "grimm": {
+      "slug": "grimm",
+      "title": "Grimm",
+      "qid": "Q19648427",
+      "enwiki": "Grimm (musical)",
+      "composers": [
+        {
+          "name": "Thomas Zaufke",
+          "qid": "Q1671519"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Peter Lund",
+          "qid": "Q107208"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Peter Lund",
+          "qid": "Q107208"
+        }
+      ],
+      "premiere": {
+        "date": "2014-12-07",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Grimm_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q19648427"
+      },
+      "summary": {
+        "text": "Grimm! Die wirklich Wahre Geschichte von Rotkäppchen und Ihrem Wolf (The True Story of Little Red Riding Hood and Her Wolf) is a German musical, with lyrics written by Peter Lund, music by Thomas Zaufke, and choreography by Neva Howard. The musical premiered on December 7, 2014, in Graz, Austria, at the Next Liberty Youth Theater.\nThe German premiere took place as a co-production with the Berlin University of the Arts at the Neuköllner Oper in Berlin, Germany, on March 19, 2015.",
+        "source_url": "https://en.wikipedia.org/wiki/Grimm_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "instant-marriage": {
+      "slug": "instant-marriage",
+      "title": "Instant Marriage",
+      "qid": "Q85769534",
+      "enwiki": "Instant Marriage",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Instant_Marriage",
+        "wikidata": "https://www.wikidata.org/wiki/Q85769534"
+      },
+      "summary": {
+        "text": "Instant Marriage is a musical with music by Laurie Holloway and words by Bob Grant.\nIt premiered at the Piccadilly Theatre in London on 1 August 1964, playing for 366 performances. The cast featured Joan Sims, Paul Whitsun-Jones, Bob Grant, Stephanie Voss, Rex Garner, Harold Goodwin and Wallas Eaton.\nThere was an Australian production in 1965, playing at the Tivoli Theatre in each of Melbourne and Sydney.",
+        "source_url": "https://en.wikipedia.org/wiki/Instant_Marriage",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "juan-darien-a-carnival-mass": {
+      "slug": "juan-darien-a-carnival-mass",
+      "title": "Juan Darién: A Carnival Mass",
+      "qid": "Q6299585",
+      "enwiki": "Juan Darién: A Carnival Mass",
+      "composers": [
+        {
+          "name": "Elliot Goldenthal",
+          "qid": "Q264565",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5362"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1998",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4954",
+        "wikipedia": "https://en.wikipedia.org/wiki/Juan_Dari%C3%A9n%3A_A_Carnival_Mass",
+        "wikidata": "https://www.wikidata.org/wiki/Q6299585"
+      },
+      "summary": {
+        "text": "Juan Darién: A Carnival Mass is a musical with music and lyrics by Elliot Goldenthal and a book by Goldenthal and Julie Taymor. The musical premiered Off-Broadway in 1988 in the former St. Clement's Church. It was subsequently reworked and refined before playing on Broadway in 1996 at the Vivian Beaumont Theatre, directed by Taymor.",
+        "source_url": "https://en.wikipedia.org/wiki/Juan_Dari%C3%A9n%3A_A_Carnival_Mass",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "la-legende-du-roi-arthur": {
+      "slug": "la-legende-du-roi-arthur",
+      "title": "La Légende du roi Arthur",
+      "qid": "Q18745285",
+      "enwiki": "La Légende du roi Arthur",
+      "composers": [
+        {
+          "name": "Zaho",
+          "qid": "Q144166"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Dove Attia",
+          "qid": "Q3038273"
+        }
+      ],
+      "premiere": {
+        "date": "2015-09-17",
+        "venue": "Palais des congrès de Paris"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/La_L%C3%A9gende_du_roi_Arthur",
+        "wikidata": "https://www.wikidata.org/wiki/Q18745285"
+      },
+      "summary": {
+        "text": "La Légende du roi Arthur is a French-language musical comedy written by Dove Attia that premiered in Paris in September 2015. The show then toured through France, Belgium, and Switzerland.",
+        "source_url": "https://en.wikipedia.org/wiki/La_L%C3%A9gende_du_roi_Arthur",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "lend-an-ear": {
+      "slug": "lend-an-ear",
+      "title": "Lend an Ear",
+      "qid": "Q16981171",
+      "enwiki": "Lend an Ear",
+      "composers": [
+        {
+          "name": "Charles Gaynor",
+          "qid": "Q20707413",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4749"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5332",
+        "wikipedia": "https://en.wikipedia.org/wiki/Lend_an_Ear",
+        "wikidata": "https://www.wikidata.org/wiki/Q16981171"
+      },
+      "summary": {
+        "text": "Lend an Ear is a musical revue with a book, music, and lyrics by Charles Gaynor and additional sketches by Joseph Stein and Will Glickman.",
+        "source_url": "https://en.wikipedia.org/wiki/Lend_an_Ear",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "look-ma-i-m-dancin": {
+      "slug": "look-ma-i-m-dancin",
+      "title": "Look, Ma, I'm Dancin'!",
+      "qid": "Q118898057",
+      "enwiki": "Look, Ma, I'm Dancin'!",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Look%2C_Ma%2C_I'm_Dancin'!",
+        "wikidata": "https://www.wikidata.org/wiki/Q118898057"
+      },
+      "summary": {
+        "text": "Look, Ma, I'm Dancin’! is a musical comedy in two acts with a book by Jerome Lawrence and Robert E. Lee, and music and lyrics by Hugh Martin. It was produced on Broadway in 1948.",
+        "source_url": "https://en.wikipedia.org/wiki/Look%2C_Ma%2C_I'm_Dancin'!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "lorelei": {
+      "slug": "lorelei",
+      "title": "Lorelei",
+      "qid": "Q6680327",
+      "enwiki": "Lorelei (musical)",
+      "composers": [
+        {
+          "name": "Jule Styne",
+          "qid": "Q587741",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12466"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Adolph Green",
+          "qid": "Q329849",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3911"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5549",
+        "wikipedia": "https://en.wikipedia.org/wiki/Lorelei_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6680327"
+      },
+      "summary": {
+        "text": "Lorelei is a musical with a book by Kenny Solms and Gail Parent, lyrics by Betty Comden and Adolph Green, and music by Jule Styne. It is a revision of the Joseph Fields-Anita Loos book for the 1949 production Gentlemen Prefer Blondes and includes many of the Jule Styne-Leo Robin songs written for the original.\nThe 1974 Broadway production of Lorelei, directed by Robert Moore and starring Carol Channing, ran for 320 performances.",
+        "source_url": "https://en.wikipedia.org/wiki/Lorelei_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "noli-me-tangere": {
+      "slug": "noli-me-tangere",
+      "title": "Noli Me Tángere",
+      "qid": "Q106670669",
+      "enwiki": "Noli Me Tángere (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Noli_Me_T%C3%A1ngere_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q106670669"
+      },
+      "summary": {
+        "text": "Noli Me Tángere, also known as Noli Me Tángere: The Musical, is a Filipino musical based on José Rizal's novel of the same name, with music by Ryan Cayabyab and libretto by Bienvenido Lumbera. Directed by Nonon Padilla, the musical premiered in 1995 at the Cultural Center of the Philippines (CCP) in Manila.",
+        "source_url": "https://en.wikipedia.org/wiki/Noli_Me_T%C3%A1ngere_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "oedipus-der-tyrann": {
+      "slug": "oedipus-der-tyrann",
+      "title": "Oedipus der Tyrann",
+      "qid": "Q5818526",
+      "enwiki": "Oedipus der Tyrann",
+      "composers": [
+        {
+          "name": "Carl Orff",
+          "qid": "Q44086"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Oedipus_der_Tyrann",
+        "wikidata": "https://www.wikidata.org/wiki/Q5818526"
+      },
+      "summary": {
+        "text": "Oedipus der Tyrann (Oedipus the Tyrant ) is Carl Orff's musical setting of the drama Oedipus Tyrannos (Ancient Greek: Οἰδίπους Τύραννος) in a prologue and five acts by Sophocles in the German translation by Friedrich Hölderlin (1804). As a direct musical setting of the complete dramatic text in Hölderlin's translation, Orff's score is a prime example of a Literaturoper (\"literary opera\"). It premiered on 11 December 1959 at the Stuttgart Opera House, conducted by Ferdinand Leitner and directed by Günther Rennert, with set and costume design by Caspar Neher.",
+        "source_url": "https://en.wikipedia.org/wiki/Oedipus_der_Tyrann",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "poor-little-ritz-girl": {
+      "slug": "poor-little-ritz-girl",
+      "title": "Poor Little Ritz Girl",
+      "qid": "Q23035202",
+      "enwiki": "Poor Little Ritz Girl",
+      "composers": [
+        {
+          "name": "Richard Rodgers",
+          "qid": "Q269094",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12311"
+        },
+        {
+          "name": "Sigmund Romberg",
+          "qid": "Q742945",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8686"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Lorenz Hart",
+          "qid": "Q725828",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11244"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Lew Fields",
+          "qid": "Q6535975",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/70127"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7177",
+        "wikipedia": "https://en.wikipedia.org/wiki/Poor_Little_Ritz_Girl",
+        "wikidata": "https://www.wikidata.org/wiki/Q23035202"
+      },
+      "summary": {
+        "text": "Poor Little Ritz Girl  is a musical comedy in two acts, with book by George Campbell and Lew Fields.  The show had some songs with lyrics by Alex Gerber and music by Sigmund Romberg and other songs with lyrics by Lorenz Hart and music by Richard Rodgers. The show was produced by Lew Fields at the Central Theatre.  It opened on July 28, 1920.\nThe production was staged by Ned Wayburn, who also did the lighting design.  It was choreographed by David Bennett, scenic design by H. Robert Law, and costume design by Cora MacGeachy, Anna Spencer and Marie Cook. The musical director was Pierce de Reeder. It ran for 93 performances, closing on October 16, 1920.  The cast headlined Charles Purcell and Andrew Tombes, and included Eugenie Blair, Ruth Hale, Eleanor Griffith, Lulu McConnell, Aileen Poe, and Florence Webber. Several songs in Poor Little Ritz Girl were recycled from Fly With Me, which Rodgers and Hart had written for the Varsity Show earlier that year, including \"You Can't Fool Your Dreams\", \"Love's Intense in the Tents\", and \"Mary Queen of Scots\".\nSet in New York City, the plot revolves around Annie “Sweetie” Farrell (Florence Webber), an honest but poor chorus girl who rented a furnished apartment on Riverside Drive during the run of a musical in which she was appearing. Late one night she learns that the apartment belongs to a rich young bachelor named William Pembroke (Charles Purcell), who had not given anyone permission to rent it.  He comes home to live in his apartment to find that she's occupying his own bedroom.  Annie is so perturbed that she can hardly sing, but she convinces Bill, who is a baritone, that she meant no harm.  He decides to let her stay there while he puts himself up at his club.  Two acts later they are married.\nThe New York Times sub-headline reported that the musical \"Shows Clever Transformation from Flat to Theatre Stage\" and the review said the show \"contains much that is above the average of musical comedy, as well as a good deal that is just average.\"",
+        "source_url": "https://en.wikipedia.org/wiki/Poor_Little_Ritz_Girl",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "salut-les-copains": {
+      "slug": "salut-les-copains",
+      "title": "Salut les copains",
+      "qid": "Q3470301",
+      "enwiki": "Salut les copains (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "http://www.salutlescopains.fr",
+        "wikipedia": "https://en.wikipedia.org/wiki/Salut_les_copains_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q3470301"
+      },
+      "summary": {
+        "text": "Salut les copains, full title Salut les copains: Le Spectacle Musicale is a 2012 French musical comedy written by Pascal Forneri and directed and choreographed by Stéphane Jarny based on the yé-yé generation of music of the period exemplified by the French renowned radio program Salut les copains and the ensuing music magazine of the same title.",
+        "source_url": "https://en.wikipedia.org/wiki/Salut_les_copains_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "something-for-the-boys": {
+      "slug": "something-for-the-boys",
+      "title": "Something for the Boys",
+      "qid": "Q7560206",
+      "enwiki": "Something for the Boys",
+      "composers": [
+        {
+          "name": "Cole Porter",
+          "qid": "Q215120",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12257"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Cole Porter",
+          "qid": "Q215120",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12257"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Herbert Fields",
+          "qid": "Q1608254",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11265"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8169",
+        "wikipedia": "https://en.wikipedia.org/wiki/Something_for_the_Boys",
+        "wikidata": "https://www.wikidata.org/wiki/Q7560206"
+      },
+      "summary": {
+        "text": "Something for the Boys is a musical with music and lyrics by Cole Porter and a book by Herbert Fields and Dorothy Fields. Produced by Mike Todd, the show opened on Broadway in 1943 and starred Ethel Merman in her fifth Cole Porter musical.",
+        "source_url": "https://en.wikipedia.org/wiki/Something_for_the_Boys",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "teddy": {
+      "slug": "teddy",
+      "title": "Teddy",
+      "qid": "Q60768052",
+      "enwiki": "Teddy (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Teddy_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q60768052"
+      },
+      "summary": {
+        "text": "Teddy is a Snapdragon Productions and Theatre Bench musical with music by Dougal Irvine and book by Tristan Bernays, set in the Elephant and Castle in London in 1956.",
+        "source_url": "https://en.wikipedia.org/wiki/Teddy_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-mousme": {
+      "slug": "the-mousme",
+      "title": "The Mousmé",
+      "qid": "Q131717214",
+      "enwiki": "The Mousmé",
+      "composers": [
+        {
+          "name": "Lionel Monckton",
+          "qid": "Q2290123",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12155"
+        },
+        {
+          "name": "Howard Talbot",
+          "qid": "Q5921014",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12481"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Mousm%C3%A9",
+        "wikidata": "https://www.wikidata.org/wiki/Q131717214"
+      },
+      "summary": {
+        "text": "The Mousmé; or The Maids of Japan is an Edwardian musical comedy in three acts with a book by Alexander M. Thompson and Robert Courtneidge, lyrics by Arthur Wimperis and Percy Greenbank and music by Lionel Monckton and Howard Talbot, premiered in 1911 at the Shaftesbury Theatre, London. The musical was next staged in Tokyo (at the Tokyo Imperial Theater), and in Yokohama and Osaka, Japan, in 1912.\nIt is an example of Japonisme, during a time of high popularity of everything Japanese in Europe. In the development and production of the musical, efforts were made to create an authentic depiction of Japanese culture through stage and costume design and plot elements. The music, however, was almost completely Western, with a few allusions to Asian musical styles.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Mousm%C3%A9",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-scottsboro-boys": {
+      "slug": "the-scottsboro-boys",
+      "title": "The Scottsboro Boys",
+      "qid": "Q7762649",
+      "enwiki": "The Scottsboro Boys (musical)",
+      "composers": [
+        {
+          "name": "John Kander",
+          "qid": "Q1685876",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6837"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Fred Ebb",
+          "qid": "Q1274807",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5654"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "David Thompson",
+          "qid": "Q5240383",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5013"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/488109",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Scottsboro_Boys_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7762649"
+      },
+      "summary": {
+        "text": "The Scottsboro Boys is a musical with a book by David Thompson, music by John Kander and lyrics by Fred Ebb. Based on the Scottsboro Boys trial, the musical is one of the last collaborations between Kander and Ebb prior to the latter's death. The musical has the framework of a minstrel show, altered to \"create a musical social critique\" with a company that, except for one, consists \"entirely of African-American performers\".\nThe musical debuted Off-Broadway and then moved to Broadway in 2010 for a run of only two months. It received twelve Tony Award nominations, but failed to win any. The previous record for nominations without a win was eleven, held by Steel Pier and the original production of Chicago, both also by Kander and Ebb. The musical's twelve nominations were second only to The Book of Mormon, which garnered fourteen nominations that year. Nevertheless, The Scottsboro Boys played in US regional theatres in 2012 and moved to London in 2013, where, after a sell-out production at the Young Vic, it moved to the West End in 2014.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Scottsboro_Boys_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "thomas-and-the-king": {
+      "slug": "thomas-and-the-king",
+      "title": "Thomas and the King",
+      "qid": "Q17021800",
+      "enwiki": "Thomas and the King",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Thomas_and_the_King",
+        "wikidata": "https://www.wikidata.org/wiki/Q17021800"
+      },
+      "summary": {
+        "text": "Thomas and the King is a stage musical with music by John Williams, lyrics by James Harbert, and a book by Edward Anhalt. It is based on the story of Thomas Becket and Henry II of England, and set in 12th century England. It opened at Her Majesty's Theatre London, 16 October 1975 to poor reviews and failed to make it to Broadway. The set was designed by Tim Goodchild. The musical was directed and choreographed by Norman Maen. The cast included James Smilie, Richard Johnson, Caroline Villiers, Martin McEvoy, and Dilys Hamlett.",
+        "source_url": "https://en.wikipedia.org/wiki/Thomas_and_the_King",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "willy-wonka": {
+      "slug": "willy-wonka",
+      "title": "Willy Wonka",
+      "qid": "Q7339709",
+      "enwiki": "Willy Wonka (musical)",
+      "composers": [
+        {
+          "name": "Leslie Bricusse",
+          "qid": "Q1305608",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11429"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Leslie Bricusse",
+          "qid": "Q1305608",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11429"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "https://www.mtishows.com/roald-dahls-willy-wonka",
+        "wikipedia": "https://en.wikipedia.org/wiki/Willy_Wonka_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7339709"
+      },
+      "summary": {
+        "text": "Roald Dahl's Willy Wonka, also known simply as Willy Wonka, is a musical with music and lyrics by Leslie Bricusse and Anthony Newley and a book by Bricusse and Timothy Allen McDonald. It is based on the 1964 novel Charlie and the Chocolate Factory by Roald Dahl. The musical was commissioned by Music Theatre International and is licensed for performance by amateur theatre groups.",
+        "source_url": "https://en.wikipedia.org/wiki/Willy_Wonka_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "woyzeck": {
+      "slug": "woyzeck",
+      "title": "Woyzeck",
+      "qid": "Q60774305",
+      "enwiki": "Woyzeck (musical)",
+      "composers": [
+        {
+          "name": "Tom Waits",
+          "qid": "Q184805",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/89787"
+        },
+        {
+          "name": "Kathleen Brennan",
+          "qid": "Q434943"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Tom Waits",
+          "qid": "Q184805",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/89787"
+        },
+        {
+          "name": "Kathleen Brennan",
+          "qid": "Q434943"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Robert Wilson",
+          "qid": "Q541526",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8430"
+        }
+      ],
+      "premiere": {
+        "date": "2000-11",
+        "venue": "Betty Nansen Teatret"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Woyzeck_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q60774305"
+      },
+      "summary": {
+        "text": "Woyzeck is a 2000 musical with music and lyrics by Tom Waits and Kathleen Brennan, and a concept by Robert Wilson, based on the unfinished play Woyzeck by German playwright Georg Büchner. It is Waits, Brennan and Wilson's third collaboration, after the 1990 musical The Black Rider and the 1992 musical Alice. Waits recorded many of the songs from Woyzeck for his 2002 album Blood Money, which was released alongside Alice, his recording of songs from the musical Alice.\nWoyzeck premiered in November 2000 in a Danish production at the Betty Nansen Teatret in Copenhagen, with dialogue in Danish and songs sung in English; Jens Jørn Spottag played the title role. The Danish production played at the Dublin Theatre Festival in October 2001, then (with the dialogue changed to English) ran at the Barbican Centre in September and October 2002, followed by a run at the Brooklyn Academy of Music in October and November 2002. A 2010 production, which placed all the action on a net suspended over the stage, ran at the Thalia Theater in Hamburg, Germany, then played at Carriageworks in Sydney, Australia. This production added Waits' 1992 song \"Dirt in the Ground\" to the score. The musical was performed by Shotgun Players in Berkeley, California in 2012.",
+        "source_url": "https://en.wikipedia.org/wiki/Woyzeck_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

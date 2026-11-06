@@ -1,0 +1,405 @@
+{
+  "live": true,
+  "shows": {
+    "1491": {
+      "slug": "1491",
+      "title": "1491",
+      "qid": "Q4549880",
+      "enwiki": "1491 (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/1491_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4549880"
+      },
+      "summary": {
+        "text": "1491 is a musical centered around Christopher Columbus before his voyage to discover the New World. Music and lyrics are by American composer and playwright Meredith Willson. It was Willson's final musical. The book was by Willson and Richard Morris with additional material by Ira Barmak, and was based on an idea by Ed Ainsworth, a columnist for the Los Angeles Times.",
+        "source_url": "https://en.wikipedia.org/wiki/1491_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "aunt-bam-s-place": {
+      "slug": "aunt-bam-s-place",
+      "title": "Aunt Bam's Place",
+      "qid": "Q4821943",
+      "enwiki": "Aunt Bam's Place",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Aunt_Bam's_Place",
+        "wikidata": "https://www.wikidata.org/wiki/Q4821943"
+      },
+      "summary": {
+        "text": "Aunt Bam's Place is a 2011 American stage play created, produced, written, and directed by Tyler Perry. It stars Cassi Davis as Aunt Bam and Melonie Daniels as Gloria. The live performance released on DVD on June 12, 2012 was recorded live in Atlanta at the Cobb Energy Performing Arts Centre in August 2011. This production wasn't available on tour and had only 2 premiere performances.",
+        "source_url": "https://en.wikipedia.org/wiki/Aunt_Bam's_Place",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "banjo-eyes": {
+      "slug": "banjo-eyes",
+      "title": "Banjo Eyes",
+      "qid": "Q4855849",
+      "enwiki": "Banjo Eyes",
+      "composers": [
+        {
+          "name": "Vernon Duke",
+          "qid": "Q519693",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11610"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "John La Touche",
+          "qid": "Q466539",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6847"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1829",
+        "wikipedia": "https://en.wikipedia.org/wiki/Banjo_Eyes",
+        "wikidata": "https://www.wikidata.org/wiki/Q4855849"
+      },
+      "summary": {
+        "text": "Banjo Eyes is a musical based on the play Three Men on a Horse by John Cecil Holm and George Abbott. It has a book by Joseph Quinlan and Izzy Ellinson, music by Vernon Duke, and lyrics by John La Touche and Harold Adamson. \nProduced by Albert Lewis and staged by Hassard Short, the Broadway production opened on December 25, 1941, at the Hollywood Theatre, where it ran for 126 performances. The cast included Eddie Cantor, Lionel Stander, William Johnson, and, in a small role, future novelist Jacqueline Susann (Valley of the Dolls).\nAlthough Cantor was known as \"Banjo Eyes,\" the title referred not to his character but to a talking race horse, played in costume by the vaudeville team of Morton and Mayo. In dream sequences, Banjo Eyes would give Cantor's character tips on which horses were going to win different races, but warned him his supposed talent for picking the winners would vanish if he ever placed a bet himself. The book was a very loose adaptation of its source, and the World War II anthem \"We Did It Before (And We Can Do It Again)\" by Charles Tobias and Cliff Friend was interpolated into the score for no apparent reason other than to stir up patriotism among audience members. Cantor closed the show by singing a medley of his hits in his customary blackface. The show closed when its star suffered a medical emergency.",
+        "source_url": "https://en.wikipedia.org/wiki/Banjo_Eyes",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "forbidden-broadway-goes-to-rehab": {
+      "slug": "forbidden-broadway-goes-to-rehab",
+      "title": "Forbidden Broadway Goes to Rehab",
+      "qid": "Q5467310",
+      "enwiki": "Forbidden Broadway Goes to Rehab",
+      "composers": [],
+      "lyricists": [
+        {
+          "name": "Gerard Alessandrini",
+          "qid": "Q5549903",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/406896"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Gerard Alessandrini",
+          "qid": "Q5549903",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/406896"
+        }
+      ],
+      "premiere": {
+        "date": "2008-09-17",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Forbidden_Broadway_Goes_to_Rehab",
+        "wikidata": "https://www.wikidata.org/wiki/Q5467310"
+      },
+      "summary": {
+        "text": "Forbidden Broadway Goes to Rehab is the 2008 incarnation of Gerard Alessandrini's long-running hit Off-Broadway musical revue Forbidden Broadway, which parodies notable current Broadway and Off-Broadway musicals. It was initially announced that this would be the final version of the show, until the franchise was revived with Forbidden Broadway: Alive & Kicking! in 2012 and Forbidden Broadway Comes Out Swinging! in 2014.",
+        "source_url": "https://en.wikipedia.org/wiki/Forbidden_Broadway_Goes_to_Rehab",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "high-fidelity": {
+      "slug": "high-fidelity",
+      "title": "High Fidelity",
+      "qid": "Q9290552",
+      "enwiki": "High Fidelity (musical)",
+      "composers": [
+        {
+          "name": "Tom Kitt",
+          "qid": "Q7816484",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/100673"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Amanda Green",
+          "qid": "Q4739639",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/447001"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "David Lindsay-Abaire",
+          "qid": "Q532488",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/389683"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/446877",
+        "wikipedia": "https://en.wikipedia.org/wiki/High_Fidelity_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q9290552"
+      },
+      "summary": {
+        "text": "High Fidelity is a musical with music by Tom Kitt, lyrics by Amanda Green, and a book by David Lindsay-Abaire.\nBased primarily on the 1995 Nick Hornby novel of the same name, the plot focuses on Rob Gordon, a Brooklyn record shop owner in his thirties obsessed with making top five lists for everything, always observing rather than participating in life. When his girlfriend Laura leaves him, he goes through a painful re-evaluation of his life and lost loves (with a little help from his music) and he slowly learns that he has to grow up and let go of his self-centered view of the world before he can find real happiness.\nPremiering in Boston in 2006, the musical eventually moved to Broadway, opening on December 7, 2006, at the Imperial Theatre. The show received mixed reviews, and closed on December 17, 2006, after 18 previews and 13 performances.\nUpon closing, Broadway Licensing acquired the rights for stock and amateur performance rights.",
+        "source_url": "https://en.wikipedia.org/wiki/High_Fidelity_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "hope-das-obama-musical": {
+      "slug": "hope-das-obama-musical",
+      "title": "Hope! – Das Obama Musical",
+      "qid": "Q5898999",
+      "enwiki": "Hope! – Das Obama Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "http://hope-musical.com/english/index_en.htm",
+        "wikipedia": "https://en.wikipedia.org/wiki/Hope!_%E2%80%93_Das_Obama_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q5898999"
+      },
+      "summary": {
+        "text": "Hope! – Das Obama Musical (English: Hope! - The Obama Musical) is a German musical inspired by the personal life and career of U.S. President Barack Obama, from his time in Chicago, Illinois, until the 2008 U.S. presidential election.  The show premiered on January 17, 2010, at Frankfurt's Jahrhunderthalle, a 2,000-seat venue.  It is believed to be the first stage production portraying the life of a U.S. president while he is still serving in office.",
+        "source_url": "https://en.wikipedia.org/wiki/Hope!_%E2%80%93_Das_Obama_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "little-fish": {
+      "slug": "little-fish",
+      "title": "Little Fish",
+      "qid": "Q6650018",
+      "enwiki": "Little Fish (musical)",
+      "composers": [
+        {
+          "name": "Michael John LaChiusa",
+          "qid": "Q3308276",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13016"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Michael John LaChiusa",
+          "qid": "Q3308276",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13016"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Little_Fish_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6650018"
+      },
+      "summary": {
+        "text": "Little Fish is a musical with music, lyrics, and book by Michael John LaChiusa. The musical is suggested by two short stories by Deborah Eisenberg, Days and Flotsam. It concerns a group of friends living in New York City, one of whom, Charlotte, decides to stop smoking and then swims to compensate for the lack of nicotine.  LaChiusa has said that he sees Little Fish as a \"parable of sorts\" for New York after the September 11 attacks.",
+        "source_url": "https://en.wikipedia.org/wiki/Little_Fish_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "matador-danish-musical": {
+      "slug": "matador-danish-musical",
+      "title": "Matador",
+      "qid": "Q6785948",
+      "enwiki": "Matador (Danish musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Matador_(Danish_musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6785948"
+      },
+      "summary": {
+        "text": "Matador is a 2007 Danish musical based on the 1978-82 television series of the same name. It was first performed on 10 June 2007 at the Copenhagen Opera House. The production was created by Peter Langdale (producer), Bent Fabricius-Bjerre (composer) with lyrics by Clemens Telling. The story is based on Lise Nørgaard's popular TV series first broadcast in 1978. The production was closely associated with the Danish National Chamber Orchestra. \nFabricius-Bjerre had 30 years earlier written the catchy theme tune for the TV series.\nThe musical tells the story of a number of families in a small town in Zealand before and during the Second World War and the German occupation of Denmark.",
+        "source_url": "https://en.wikipedia.org/wiki/Matador_(Danish_musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "rocky-the-musical": {
+      "slug": "rocky-the-musical",
+      "title": "Rocky the Musical",
+      "qid": "Q15505318",
+      "enwiki": "Rocky the Musical",
+      "composers": [
+        {
+          "name": "Stephen Flaherty",
+          "qid": "Q3973178",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11668"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Lynn Ahrens",
+          "qid": "Q293323",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7450"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Sylvester Stallone",
+          "qid": "Q40026",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/495221"
+        },
+        {
+          "name": "Thomas Meehan",
+          "qid": "Q7792371",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8874"
+        }
+      ],
+      "premiere": {
+        "date": "2012-11-18",
+        "venue": "Operettenhaus"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/495232",
+        "wikipedia": "https://en.wikipedia.org/wiki/Rocky_the_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q15505318"
+      },
+      "summary": {
+        "text": "Rocky the Musical (originally Rocky: Das Musical)  is a 2012 musical with music by Stephen Flaherty, lyrics by Lynn Ahrens, and a book by Thomas Meehan and Sylvester Stallone, based on the 1976 film of the same name written by Stallone. The show held its world premiere in Hamburg in 2012 and opened on Broadway in 2014 at the Winter Garden Theatre.",
+        "source_url": "https://en.wikipedia.org/wiki/Rocky_the_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "shucked": {
+      "slug": "shucked",
+      "title": "Shucked",
+      "qid": "Q117661779",
+      "enwiki": "Shucked",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Robert Horn",
+          "qid": "Q22101589",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/391751"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/535820",
+        "wikipedia": "https://en.wikipedia.org/wiki/Shucked",
+        "wikidata": "https://www.wikidata.org/wiki/Q117661779"
+      },
+      "summary": {
+        "text": "Shucked is a 2022 musical with music and lyrics by Brandy Clark and Shane McAnally, and a book by Robert Horn. The Broadway production began previews at the Nederlander Theatre on March 8, 2023, before opening on April 4. The show played its final performance on January 14, 2024.  It received positive reviews and went on to receive nine nominations at the 76th Tony Awards, including Best Musical. Cast member Alex Newell became one of the first two openly non-binary performers to be nominated for and win a Tony Award, with their win for Best Featured Actor in a Musical.\nA feature film adaptation is currently planned.",
+        "source_url": "https://en.wikipedia.org/wiki/Shucked",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-curious-case-of-benjamin-button": {
+      "slug": "the-curious-case-of-benjamin-button",
+      "title": "The Curious Case of Benjamin Button",
+      "qid": "Q85847682",
+      "enwiki": "The Curious Case of Benjamin Button (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Curious_Case_of_Benjamin_Button_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q85847682"
+      },
+      "summary": {
+        "text": "The Curious Case of Benjamin Button is a musical with book and lyrics by Jethro Compton, music and lyrics by Darren Clark, and based on the 1922 short story of the same name by F. Scott Fitzgerald.\nThe musical begins at the end of World War I in a small Cornish fishing village and follows Benjamin's life as he ages in reverse through the twentieth century. As in the original short story, Benjamin Button is born as an old man and ages backwards. The relationship between Benjamin and Elowen progresses as she ages and he grows younger.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Curious_Case_of_Benjamin_Button_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-honeymoon-express": {
+      "slug": "the-honeymoon-express",
+      "title": "The Honeymoon Express",
+      "qid": "Q124759134",
+      "enwiki": "The Honeymoon Express (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1913-02-06",
+        "venue": "Winter Garden Theatre"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Honeymoon_Express_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q124759134"
+      },
+      "summary": {
+        "text": "The Honeymoon Express is a musical in two acts and six scenes with music by Jean Schwartz, lyrics by Harold Atteridge, and a book by Joseph W. Herbert. Frank Saddler orchestrated the score. Essentially a musical revue, the work had a loose plot which was crafted around the talents of its star-studded cast, among them Al Jolson, Fanny Brice, Gaby Deslys, and Jenny Dolly. The show was notable for its elaborate costumes and sets and for its groundbreaking special effects for that time period; including possibly the first use of film footage on the stage of a Broadway musical.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Honeymoon_Express_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "whoop-dee-doo-q7997615": {
+      "slug": "whoop-dee-doo-q7997615",
+      "title": "Whoop-Dee-Doo!",
+      "qid": "Q7997615",
+      "enwiki": "Whoop-Dee-Doo!",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Whoop-Dee-Doo!",
+        "wikidata": "https://www.wikidata.org/wiki/Q7997615"
+      },
+      "summary": {
+        "text": "Whoop-Dee-Doo! is a deliberately ramshackle musical revue subtitled \"a postage stamp extravaganza\". It is named after the 1903 Broadway revue Whoop-Dee-Doo.  It was conceived, created and developed by Charles Catanese, Howard Crabtree, Dick Gallagher, Phillip George, Peter Morris and Mark Waldrop. Songs and sketches by Dick Gallagher, Peter Morris and Mark Waldrop. Additional material by Brad Ellis, Jack Feldman, David Rambo, Bruce Sussman and Eric Schorr.\nA co-production of The Glines and Postage Stamp Xtravaganzas, it opened at Actors Playhouse, 100 Seventh Avenue South, New York City, June 16, 1993, and closed February 20, 1994, after a run of 271 performances. Director: Phillip George. Musical Director: Fred Barton. Set Design: Bill Wood, Costume Design: Howard Crabtree, Lighting Design: Tracy Dedtrickson. Choreographer: David Lowenstein Cast: Howard Crabtree, Keith Cromwell, Tommy Femia, David Lowenstein, Peter Morris, Jay Rogers, Ron Skobel, Richard Stegman and Alan Tulin. Executive Producers: Charles Catanese, John Glines, Michael Wantuck.\nThe songs and sketches are written to showcase extravagant costumes designed by Howard Crabtree.  Despite the exuberantly camp style, the songs belie their surface silliness and the show's apparent amateurishness, and often have a serious point:  \"Born This Way\" is a rousing song about the nature vs. nurture debate of the origins of homosexuality, \"Last One Picked\" looks at gay schooldays, and \"A Soldier's Musical\" makes points about gays in the military.\nWhoop-Dee-Doo! won 1994 Drama Desk Awards in two categories: Best Musical Revue and Outstanding Costume Design (Howard Crabtree). In 1995 RCA Victor made a \"Nearly Original Cast Recording\".\nIn 1994 the Kings Head Theatre in London staged a production of the show, with Christopher Biggins taking Jay Rogers' role as the lead cast member always complaining about the quality of the production, and drag performer Earl Grey taking Tommy Femia's role as Judy Garland and other gay icons in the number You Are My Idol.  Other cast members included Ashley Knight, Ray C. Davis, Michael Gyngell and Jon Peterson.",
+        "source_url": "https://en.wikipedia.org/wiki/Whoop-Dee-Doo!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

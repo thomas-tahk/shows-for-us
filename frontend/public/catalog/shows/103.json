@@ -1,0 +1,651 @@
+{
+  "live": true,
+  "shows": {
+    "as-thousands-cheer": {
+      "slug": "as-thousands-cheer",
+      "title": "As Thousands Cheer",
+      "qid": "Q4803025",
+      "enwiki": "As Thousands Cheer",
+      "composers": [
+        {
+          "name": "Irving Berlin",
+          "qid": "Q128746",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6452"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Moss Hart",
+          "qid": "Q728876",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6153"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1705",
+        "wikipedia": "https://en.wikipedia.org/wiki/As_Thousands_Cheer",
+        "wikidata": "https://www.wikidata.org/wiki/Q4803025"
+      },
+      "summary": {
+        "text": "As Thousands Cheer is a revue with a book by Moss Hart and music and lyrics by Irving Berlin, first performed in 1933. The revue contained satirical sketches and witty or poignant musical numbers, several of which became standards, including \"Heat Wave\", \"Easter Parade\" and \"Harlem on my Mind\". The sketches were loosely based on the news and the lives and affairs of the rich and famous, as well as other prominent personalities of the day, such as Joan Crawford, John D. Rockefeller Jr., Noël Coward, Josephine Baker, and Aimee Semple McPherson.",
+        "source_url": "https://en.wikipedia.org/wiki/As_Thousands_Cheer",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "boys-own-mcbeth": {
+      "slug": "boys-own-mcbeth",
+      "title": "Boys Own McBeth",
+      "qid": "Q29026817",
+      "enwiki": "Boys Own McBeth",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1979",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Boys_Own_McBeth",
+        "wikidata": "https://www.wikidata.org/wiki/Q29026817"
+      },
+      "summary": {
+        "text": "Boy's Own McBeth is a musical comedy by Grahame Bond and Jim Burnett.\nSet in Australia, it concerns Terry Shakespeare, a 42-year-old man who has been a student at the fictional Dunsinane Boys School for 36 years, deliberately failing rather than facing the outside world.\nAfter a season at The Kirk Gallery in Sydney from July 1979, Boy's Own McBeth opened in a bigger production at the Paris Theatre in November 1979. It toured widely across Australia for two years.\nA cast recording was released in 1979.\nThe production also played at the Westwood Playhouse in Los Angeles.",
+        "source_url": "https://en.wikipedia.org/wiki/Boys_Own_McBeth",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "coraline-2025-musical": {
+      "slug": "coraline-2025-musical",
+      "title": "Coraline",
+      "qid": "Q126489184",
+      "enwiki": "Coraline (2025 musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Coraline_(2025_musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q126489184"
+      },
+      "summary": {
+        "text": "Coraline () is a 2002 British fantasy horror children's novella by author Neil Gaiman. Gaiman started writing Coraline in 1990, and it was published in 2002 by Bloomsbury and HarperCollins. It was awarded the 2003 Hugo Award for Best Novella, the 2003 Nebula Award for Best Novella, and the 2002 Bram Stoker Award for Best Work for Young Readers. The Guardian ranked Coraline #82 in its list of 100 Best Books of the 21st Century. It was adapted as a 2009 stop-motion animated film, directed by Henry Selick under the same name.",
+        "source_url": "https://en.wikipedia.org/wiki/Coraline_(2025_musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "exactly-like-you": {
+      "slug": "exactly-like-you",
+      "title": "Exactly Like You",
+      "qid": "Q5419230",
+      "enwiki": "Exactly Like You (musical)",
+      "composers": [
+        {
+          "name": "Cy Coleman",
+          "qid": "Q1146861",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4929"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Exactly_Like_You_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5419230"
+      },
+      "summary": {
+        "text": "Exactly Like You is a 1999 musical with a score by composer Cy Coleman and a book by A. E. Hotchner.\nThe musical premiered at the Goodspeed Opera House's Norma Terris Theatre in Chester, Connecticut in May 1998. The musical was directed and choreographed by Patricia Birch and featured Barbara Walsh and Michael McGrath,\nThe musical was next produced Off-Broadway at the York Theatre at St. Peter's running from April 14, 1999 to May 9, 1999. The musical was directed and choreographed by Patricia Birch, the associate director and choreographer was Jonathan Cerullo with sets by James Morgan and costumes by Richard Schurkamp. The cast featured Lauren Ward as Arlene Murphy, Susan Mansur as Priscilla Vanerhosen and Michael McGrath as Martin Murphy.",
+        "source_url": "https://en.wikipedia.org/wiki/Exactly_Like_You_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "florodora": {
+      "slug": "florodora",
+      "title": "Florodora",
+      "qid": "Q3066270",
+      "enwiki": "Florodora",
+      "composers": [
+        {
+          "name": "Leslie Stuart",
+          "qid": "Q2065986",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12465"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Paul Rubens",
+          "qid": "Q2402383",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8062"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Owen Hall",
+          "qid": "Q7114495",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7982"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3612",
+        "wikipedia": "https://en.wikipedia.org/wiki/Florodora",
+        "wikidata": "https://www.wikidata.org/wiki/Q3066270"
+      },
+      "summary": {
+        "text": "Florodora is an Edwardian musical comedy. After its long run in London, it became one of the first successful Broadway musicals of the 20th century. The book was written by Jimmy Davis under the pseudonym Owen Hall, the music was by Leslie Stuart with additional songs by Paul Rubens, and the lyrics were by Ernest Boyd-Jones, George Arthurs and Rubens.\nThe original London production opened in 1899 where it ran for a very successful 455 performances. The New York production, which opened the following year, was even more popular, running for 552 performances. After this, the piece was produced throughout the English-speaking world and beyond. The musical  was famous for its double sextet and its chorus line of \"Florodora Girls\".\nThe piece was popular with amateur theatre groups, particularly in Britain, into the 1950s.",
+        "source_url": "https://en.wikipedia.org/wiki/Florodora",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "lady-behave": {
+      "slug": "lady-behave",
+      "title": "Lady Behave",
+      "qid": "Q21998588",
+      "enwiki": "Lady Behave (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Lady_Behave_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q21998588"
+      },
+      "summary": {
+        "text": "Lady Behave is a 1941 British stage musical written by Stanley Lupino with music by Edward Horan. In the original West End production at His Majesty's Theatre, Lupino starred alongside Sally Gray who had appeared with him in a number of films. Pat Kirkwood, Judy Kelly, Hartley Power and Judy Campbell also featured in other roles during its run. It is set in Hollywood where a stuntman can't get his girlfriend to marry him until she has made a success in films.\nBy some accounts it was the first new musical staged in London since the outbreak of the Second World War. It was a popular success. As he grew increasingly ill, Lupino had to step down from his role and was replaced by Bobby Howes.\nIn 1947 it was adapted for the 1947 Swedish musical film Don't Give Up.",
+        "source_url": "https://en.wikipedia.org/wiki/Lady_Behave_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "letter-to-harvey-milk": {
+      "slug": "letter-to-harvey-milk",
+      "title": "Letter to Harvey Milk",
+      "qid": "Q6533599",
+      "enwiki": "Letter to Harvey Milk",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Letter_to_Harvey_Milk",
+        "wikidata": "https://www.wikidata.org/wiki/Q6533599"
+      },
+      "summary": {
+        "text": "Letter to Harvey Milk is a musical composed by Laura l. Kramer, lyrics by Ellen M. Schwartz, book by Jerry James; it is based on Lesléa Newman's short story of the same name. It won the Richard Rodgers Award in 2012.",
+        "source_url": "https://en.wikipedia.org/wiki/Letter_to_Harvey_Milk",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "lust-n-rust": {
+      "slug": "lust-n-rust",
+      "title": "Lust 'n Rust",
+      "qid": "Q6705244",
+      "enwiki": "Lust 'n Rust",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Lust_'n_Rust",
+        "wikidata": "https://www.wikidata.org/wiki/Q6705244"
+      },
+      "summary": {
+        "text": "Lust 'n Rust: the trailer park musical is a play written by Frank Haney, Carol Kimball and Dave Stratton.",
+        "source_url": "https://en.wikipedia.org/wiki/Lust_'n_Rust",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "magyar-melody": {
+      "slug": "magyar-melody",
+      "title": "Magyar Melody",
+      "qid": "Q117481149",
+      "enwiki": "Magyar Melody",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Magyar_Melody",
+        "wikidata": "https://www.wikidata.org/wiki/Q117481149"
+      },
+      "summary": {
+        "text": "Magyar Melody is a 1938 musical written by Eric Maschwitz and George Posford with music by Posford and Bernard Grun. The musical was adapted from a play by Maschwitz, Fred Thompson and Guy Bolton.\nMagyar Melody (revised from an earlier production named Paprika) premiered at the Manchester Opera House on 29 November 1938, before moving His Majesty's Theatre, London, in January 1939, where it ran for 105 nights.\nMagyar Melody is notable as the first full-length musical to be shown on British television, on 27 March 1939.",
+        "source_url": "https://en.wikipedia.org/wiki/Magyar_Melody",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "mj-the-musical": {
+      "slug": "mj-the-musical",
+      "title": "MJ the Musical",
+      "qid": "Q65117979",
+      "enwiki": "MJ the Musical",
+      "composers": [
+        {
+          "name": "Michael Jackson",
+          "qid": "Q2831",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/533502"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/524798",
+        "wikipedia": "https://en.wikipedia.org/wiki/MJ_the_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q65117979"
+      },
+      "summary": {
+        "text": "MJ the Musical is a jukebox musical based on the life of the American entertainer Michael Jackson, focusing on his preparations for the 1992 Dangerous World Tour. It features Jackson's music, a book by Lynn Nottage, and direction and choreography by Christopher Wheeldon.\nMJ the Musical was originally scheduled to premiere on Broadway, Manhattan, on August 13, 2020, but was postponed due to the COVID-19 pandemic in New York City. In November 2019, Ephraim Sykes was cast as Jackson, but in June 2021 it was announced that he had been replaced by Myles Frost. MJ began previews at the Neil Simon Theatre on December 6, 2021, and opened on February 1, 2022. It opened in the London West End on March 27, 2024 and closed on February 28, 2026.\nMJ the Musical received mixed reviews. It was nominated for 10 Tony Awards, including Best Musical, and won Best Actor in a Musical for Frost, Best Choreography, Best Lighting Design and Best Sound Design. The cast recording was nominated for the Grammy Award for Best Musical Theater Album. By March 2026, the Broadway production had grossed over $319 million and sold more than seven million tickets worldwide.",
+        "source_url": "https://en.wikipedia.org/wiki/MJ_the_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "nevermore-the-imaginary-life-and-mysterious-death-of-edgar-allan-poe": {
+      "slug": "nevermore-the-imaginary-life-and-mysterious-death-of-edgar-allan-poe",
+      "title": "Nevermore: The Imaginary Life and Mysterious Death of Edgar Allan Poe",
+      "qid": "Q7004422",
+      "enwiki": "Nevermore: The Imaginary Life and Mysterious Death of Edgar Allan Poe",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Nevermore%3A_The_Imaginary_Life_and_Mysterious_Death_of_Edgar_Allan_Poe",
+        "wikidata": "https://www.wikidata.org/wiki/Q7004422"
+      },
+      "summary": {
+        "text": "Nevermore: The Imaginary Life and Mysterious Death of Edgar Allan Poe is a musical that was written, composed, and directed by Jonathan Christenson and designed by Bretta Gerecke. It follows the life of Edgar Allan Poe and the internal and external struggles he faced which are depicted as inspiring his writings. In the play, Poe struggles with tragedies such as death, abandonment, addiction, poverty, and loss. The script contains many references to Poe's poems and short stories. The script fictionalizes true events that took place in his life while also incorporating his creative works and poems. It was originally produced at the Catalyst Theater in Edmonton, Alberta, for an 11-week production that then went on to be performed at theater festivals, theaters across Canada, to the Barbican Theater in London, and the New Victory Theater in New York City.",
+        "source_url": "https://en.wikipedia.org/wiki/Nevermore%3A_The_Imaginary_Life_and_Mysterious_Death_of_Edgar_Allan_Poe",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "pipe-dream": {
+      "slug": "pipe-dream",
+      "title": "Pipe Dream",
+      "qid": "Q7197217",
+      "enwiki": "Pipe Dream (musical)",
+      "composers": [
+        {
+          "name": "Richard Rodgers",
+          "qid": "Q269094",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12311"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Oscar Hammerstein II",
+          "qid": "Q319693",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7965"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Oscar Hammerstein II",
+          "qid": "Q319693",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7965"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7106",
+        "wikipedia": "https://en.wikipedia.org/wiki/Pipe_Dream_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7197217"
+      },
+      "summary": {
+        "text": "Pipe Dream is the seventh musical by the team of Richard Rodgers and Oscar Hammerstein II; it premiered on Broadway on November 30, 1955. The work is based on John Steinbeck's novel Sweet Thursday—Steinbeck wrote the novel, a sequel to Cannery Row, in the hope of having it adapted into a musical. Set in Monterey, California, the musical tells the story of the romance between Doc, a marine biologist, and Suzy, who in the novel is a prostitute; her profession is only alluded to in the stage work. Pipe Dream was not an outright flop but was a financial disaster for Rodgers and Hammerstein.\nBroadway producers Cy Feuer and Ernie Martin held the rights to Sweet Thursday and wanted Frank Loesser to compose a musical based on it.  When Loesser proved unavailable, Feuer and Martin succeeded in interesting Rodgers and Hammerstein in the project. As Hammerstein adapted Sweet Thursday, he and Rodgers had concerns about featuring a prostitute as female lead and setting part of the musical in a bordello. They signed operatic diva Helen Traubel to play Fauna, the house madam.\nAs the show progressed through tryouts, Hammerstein repeatedly revised it, obscuring Suzy's profession and the nature of Fauna's house. Pipe Dream met with negative reviews and rapidly closed once it had exhausted its advance sale. It had no national tour or London production and has rarely been presented since. No movie version of the show was made; the Rodgers & Hammerstein Organization (which licenses their works) once hoped for a film version featuring the Muppets, with Fauna played by Miss Piggy.",
+        "source_url": "https://en.wikipedia.org/wiki/Pipe_Dream_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "summer-stock": {
+      "slug": "summer-stock",
+      "title": "Summer Stock",
+      "qid": "Q125470323",
+      "enwiki": "Summer Stock (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Summer_Stock_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q125470323"
+      },
+      "summary": {
+        "text": "Summer Stock is a musical with a book by Cheri Steinkellner. The show includes many of the songs from the original 1950 film of the same name that starred Judy Garland and Gene Kelly, including Get Happy.\nThe musical is set in the 1950s in New England, where Jane Falbury runs her family farm. Her sister Gloria returns home with her touring vaudeville troupe, offering to let them use their barn as a theatre to rehearse a new show. Trouble ensues when Jane falls for Joe, the group's stage director. Meanwhile, wealthy socialite Margaret Wingate is trying to purchase the Falbury Farm to use the land for commercial purposes.",
+        "source_url": "https://en.wikipedia.org/wiki/Summer_Stock_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "take-a-chance": {
+      "slug": "take-a-chance",
+      "title": "Take a Chance",
+      "qid": "Q16985283",
+      "enwiki": "Take a Chance (musical)",
+      "composers": [
+        {
+          "name": "Richard A. Whiting",
+          "qid": "Q1261038",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12570"
+        },
+        {
+          "name": "Nacio Herb Brown",
+          "qid": "Q1282487",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11440"
+        },
+        {
+          "name": "Vincent Youmans",
+          "qid": "Q746951",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12607"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Buddy DeSylva",
+          "qid": "Q80760",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4394"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8499",
+        "wikipedia": "https://en.wikipedia.org/wiki/Take_a_Chance_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q16985283"
+      },
+      "summary": {
+        "text": "Take a Chance (1932) is a musical with lyrics by B. G. De Sylva and music by Nacio Herb Brown and Richard A. Whiting, with additional songs by Vincent Youmans, and book by De Sylva and Laurence Schwab.",
+        "source_url": "https://en.wikipedia.org/wiki/Take_a_Chance_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "tell-me-more": {
+      "slug": "tell-me-more",
+      "title": "Tell Me More",
+      "qid": "Q106413042",
+      "enwiki": "Tell Me More (musical)",
+      "composers": [
+        {
+          "name": "George Gershwin",
+          "qid": "Q123829",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5813"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Ira Gershwin",
+          "qid": "Q61059",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12885"
+        },
+        {
+          "name": "Buddy DeSylva",
+          "qid": "Q80760",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4394"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": "1925",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Tell_Me_More_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q106413042"
+      },
+      "summary": {
+        "text": "Tell Me More is a musical written by Fred Thompson and William K. Wells, with music by George Gershwin and lyrics by B. G. DeSylva and Ira Gershwin. It opened on Broadway at the Gaiety Theatre in April 1925 and in London in the same year at the Winter Garden Theatre. Directed by Clifford Whitley from The Co-Optimists and starring Elsa Macfarlane, also from The Co-Optimists.",
+        "source_url": "https://en.wikipedia.org/wiki/Tell_Me_More_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-century-revue": {
+      "slug": "the-century-revue",
+      "title": "The Century Revue",
+      "qid": "Q124795528",
+      "enwiki": "The Century Revue",
+      "composers": [
+        {
+          "name": "Jean Schwartz",
+          "qid": "Q6171492",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12374"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Alfred Bryan",
+          "qid": "Q1273339",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12786"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2474",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Century_Revue",
+        "wikidata": "https://www.wikidata.org/wiki/Q124795528"
+      },
+      "summary": {
+        "text": "The Century Revue is a musical revue in two acts with music by Jean Schwartz, lyrics by Alfred Bryan, and a book by Howard Emmett Rogers. The revue was directed by J. J. Shubert and produced on Broadway by the Shubert brothers. It premiered at the Century Grove Theatre (located on the roof of the Century Theatre ) on July 12, 1920; closing after 150 performances on January 1, 1921.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Century_Revue",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-immigrant": {
+      "slug": "the-immigrant",
+      "title": "The Immigrant",
+      "qid": "Q7741476",
+      "enwiki": "The Immigrant (musical)",
+      "composers": [
+        {
+          "name": "Steven M. Alper",
+          "qid": "Q15487119",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/116745"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Sarah Knapp",
+          "qid": "Q7422494",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/70700"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Mark Harelik",
+          "qid": "Q2447922",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/393581"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Immigrant_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7741476"
+      },
+      "summary": {
+        "text": "The Immigrant is a four-person chamber musical with music by Steven M. Alper and lyrics by Sarah Knapp, with a book by Mark Harelik. The show is based on Harelik's 1985 play of the same name.\nA Jewish immigrant and his wife enter into the life of an American couple in Texas. In the end, there is a signal of a new start of friendship between the two families and the hope for future.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Immigrant_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-last-empress": {
+      "slug": "the-last-empress",
+      "title": "The Last Empress",
+      "qid": "Q7745739",
+      "enwiki": "The Last Empress (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Last_Empress_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7745739"
+      },
+      "summary": {
+        "text": "The Last Empress (Korean: 뮤지컬 명성황후) is a Korean musical about the Empress Myeongseong of Korea, based on the play The Fox Hunt by author Yi Mun-yol. It debuted on December 30, 1995 at the Seoul Arts Center.\nThe musical was created by musical director Yoon Ho-jin, who came up with the idea after watching a production of Cats in London. Yoon urged author Yi Mun-yol to write a play about Empress Myeongseong, leading him to write The Fox Hunt in 1994. The play was adapted into a musical by playwright Kwang Lim-kim.  \nThe musical's songs were composed by Kim Hee-gap, with lyrics by Yang In-ja (translated by Georgina St. George). The musical was produced by the Seoul-based company Arts Communication (A-Com). \nThe original production at the Seoul Performing Arts Center reached one million ticket sales by March 1, 2007. The musical was performed several times in South Korea, including a production in 2021. In 2025, to celebrate the musical's 30th anniversary, The Last Empress reopened at the Sejong Center in South Korea, playing from January to March.\nThe musical also played overseas at the New York State Theater, Lincoln Center, in 1997 and 1998, to favorable reviews. It also played in London's West End in 2002, the Kodak Theatre in Los Angeles in 2003, and at Toronto's Hummingbird Centre in 2004. The Last Empress was the first Korean musical to be played at Western venues.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Last_Empress_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "treason": {
+      "slug": "treason",
+      "title": "Treason",
+      "qid": "Q121356759",
+      "enwiki": "Treason (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Treason_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q121356759"
+      },
+      "summary": {
+        "text": "Treason is a musical with music and lyrics by Ricky Allan with a book by Allan and Kieran Lynn based on the 1605 Gunpowder Plot.",
+        "source_url": "https://en.wikipedia.org/wiki/Treason_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "tv-land": {
+      "slug": "tv-land",
+      "title": "TV Land",
+      "qid": "Q140196840",
+      "enwiki": "TV Land (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/TV_Land_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q140196840"
+      },
+      "summary": {
+        "text": "TV Land, officially known as TV Land: The Musical is a Singaporean musical directed and composed by Dick Lee, who had also been appointed as SPH MediaWorks' creative director. The musical was the central point of the opening night of Channel i on 20 May 2001; it was staged at the Singapore Expo and also served as a preview of the channel's launch slate of programming. It featured four core characters, three of which were the presenters of The Big Buffet, which was set to be the channel's core programme, and the lead actress from Ah Girl.\nThe musical cost S$1.3 million, had an attendance of 2,500 guests and took three weeks to prepare, but its television ratings were very low.",
+        "source_url": "https://en.wikipedia.org/wiki/TV_Land_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "wake-up-and-dream": {
+      "slug": "wake-up-and-dream",
+      "title": "Wake Up and Dream",
+      "qid": "Q7960987",
+      "enwiki": "Wake Up and Dream (musical)",
+      "composers": [
+        {
+          "name": "Cole Porter",
+          "qid": "Q215120",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12257"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/9135",
+        "wikipedia": "https://en.wikipedia.org/wiki/Wake_Up_and_Dream_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7960987"
+      },
+      "summary": {
+        "text": "Wake Up and Dream is a musical revue with a book by John Hastings Turner and music and lyrics by Cole Porter and others. The most famous song from the revue is the Porter standard \"What Is This Thing Called Love?\"\nThe revue opened in London while Porter's Paris was still running on Broadway. Producer Charles B. Cochran asked Porter to write the score, even though in their previous dealings Porter had treated him with some discourtesy. Opening on December 30, 1929, the production was the last to open on Broadway in the 1920s.\nThe title later would be used for unrelated films in 1934, 1942 and 1946.",
+        "source_url": "https://en.wikipedia.org/wiki/Wake_Up_and_Dream_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "live": false,
+  "shows": {
+    "aladdin-pantomime": {
+      "slug": "aladdin-pantomime",
+      "title": "Aladdin",
+      "qid": "Q1000041",
+      "enwiki": "Aladdin (pantomime)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Hugh Wheeler",
+          "qid": "Q1000114"
+        }
+      ],
+      "premiere": {
+        "date": "1788",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Aladdin_(pantomime)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1000041"
+      },
+      "summary": {
+        "text": "Placeholder intro for Aladdin (pantomime). Not Wikipedia text.",
+        "source_url": "https://en.wikipedia.org/wiki/Aladdin_(pantomime)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

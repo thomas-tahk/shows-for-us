@@ -1,0 +1,679 @@
+{
+  "live": true,
+  "shows": {
+    "a-wonderful-life": {
+      "slug": "a-wonderful-life",
+      "title": "A Wonderful Life",
+      "qid": "Q4660775",
+      "enwiki": "A Wonderful Life (musical)",
+      "composers": [
+        {
+          "name": "Joe Raposo",
+          "qid": "Q3180167",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12273"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Sheldon Harnick",
+          "qid": "Q2354471",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8645"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Sheldon Harnick",
+          "qid": "Q2354471",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8645"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/415073",
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Wonderful_Life_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4660775"
+      },
+      "summary": {
+        "text": "A Wonderful Life is a 1986 musical with a book and lyrics by Sheldon Harnick and music by Joe Raposo.\nBased on the 1946 Frank Capra film It's a Wonderful Life starring James Stewart, the story closely follows the original plot, set in 1945, telling the story of a suicidal man whose guardian angel reveals to him how different the world and everyone whose life he has touched would be if he'd never been born.  The film was based on the 1943 short booklet by Philip Van Doren Stern, The Greatest Gift.",
+        "source_url": "https://en.wikipedia.org/wiki/A_Wonderful_Life_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "charlie-and-algernon": {
+      "slug": "charlie-and-algernon",
+      "title": "Charlie and Algernon",
+      "qid": "Q5085742",
+      "enwiki": "Charlie and Algernon",
+      "composers": [
+        {
+          "name": "Charles Strouse",
+          "qid": "Q2960275",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12463"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2505",
+        "wikipedia": "https://en.wikipedia.org/wiki/Charlie_and_Algernon",
+        "wikidata": "https://www.wikidata.org/wiki/Q5085742"
+      },
+      "summary": {
+        "text": "Charlie and Algernon is a musical with a book and lyrics by David Rogers and music by Charles Strouse. It is based on the 1966 novel Flowers for Algernon by Daniel Keyes. It received its premiere on December 21, 1978, at The Citadel Theater, in Edmonton, Canada.",
+        "source_url": "https://en.wikipedia.org/wiki/Charlie_and_Algernon",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "doctor-jazz": {
+      "slug": "doctor-jazz",
+      "title": "Doctor Jazz",
+      "qid": "Q125523275",
+      "enwiki": "Doctor Jazz (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3107",
+        "wikipedia": "https://en.wikipedia.org/wiki/Doctor_Jazz_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q125523275"
+      },
+      "summary": {
+        "text": "Doctor Jazz is a 1975 musical with music by Luther Henderson and Buster Davis, with a book and lyrics by Davis. The musical premiered on Broadway in 1975 and was nominated for three Tony Awards for Best Choreography (Donald McKayle), Best Actress in a Musical (Lola Falana) and Best Costume Design (Raoul Pene Du Bois). The plot follows Edna Mae Sheridan and her mother, who owns a brothel in the Storyville district of New Orleans, while the show takes its name from the 1920s jazz standard \"Doctor Jazz\".",
+        "source_url": "https://en.wikipedia.org/wiki/Doctor_Jazz_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "here-lies-love": {
+      "slug": "here-lies-love",
+      "title": "Here Lies Love",
+      "qid": "Q30668301",
+      "enwiki": "Here Lies Love (musical)",
+      "composers": [
+        {
+          "name": "David Byrne",
+          "qid": "Q336640",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11469"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/536096",
+        "wikipedia": "https://en.wikipedia.org/wiki/Here_Lies_Love_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q30668301"
+      },
+      "summary": {
+        "text": "Here Lies Love is a musical with music by David Byrne and Fatboy Slim, and lyrics by Byrne.\nThe biographical musical is based on Byrne's and Slim's concept music album based, in turn, on Byrne's research on the life of former Philippine first lady Imelda Marcos. The musical's score is described as \"disco-pop.\"",
+        "source_url": "https://en.wikipedia.org/wiki/Here_Lies_Love_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "hoy-no-me-puedo-levantar": {
+      "slug": "hoy-no-me-puedo-levantar",
+      "title": "Hoy no me puedo levantar",
+      "qid": "Q1632077",
+      "enwiki": "Hoy no me puedo levantar",
+      "composers": [
+        {
+          "name": "Nacho Cano",
+          "qid": "Q632678"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Nacho Cano",
+          "qid": "Q632678"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Hoy_no_me_puedo_levantar",
+        "wikidata": "https://www.wikidata.org/wiki/Q1632077"
+      },
+      "summary": {
+        "text": "Hoy no me puedo levantar (Today I Can't Get up) is a Spanish jukebox musical, with music and lyrics by José María Cano and Nacho Cano, former members of the band Mecano. Based on 32 of the band's greatest hits and named after their first single, the musical centers on a pair of impoverished musicians trying to be part of La Movida Madrileña, after the fall of Francisco Franco's dictatorship. Through an analysis of the 1980s, the musical portrays the condition of these boys trying to survive in Madrid, under the shadow of drugs and AIDS. The musical ran for four seasons in Madrid's Rialto Theatre (former Movistar Theatre) and for three seasons in Mexico City's Centro Cultural Telmex and Teatro Aldama. It was produced by Drive in Spain and OCESA Teatro in Mexico.",
+        "source_url": "https://en.wikipedia.org/wiki/Hoy_no_me_puedo_levantar",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "in-transit": {
+      "slug": "in-transit",
+      "title": "In Transit",
+      "qid": "Q28229349",
+      "enwiki": "In Transit (musical)",
+      "composers": [
+        {
+          "name": "Kristen Anderson-Lopez",
+          "qid": "Q6437747",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/490352"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Kristen Anderson-Lopez",
+          "qid": "Q6437747",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/490352"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Kristen Anderson-Lopez",
+          "qid": "Q6437747",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/490352"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/509158",
+        "wikipedia": "https://en.wikipedia.org/wiki/In_Transit_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q28229349"
+      },
+      "summary": {
+        "text": "In Transit is a one-act musical with book, music and lyrics by Kristen Anderson-Lopez, James-Allen Ford, Russ Kaplan and Sara Wordsworth. The musical, performed entirely a cappella, ran Off-Broadway in 2010, and on Broadway in 2016.",
+        "source_url": "https://en.wikipedia.org/wiki/In_Transit_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "jihad-the-musical": {
+      "slug": "jihad-the-musical",
+      "title": "Jihad! The Musical",
+      "qid": "Q1262087",
+      "enwiki": "Jihad! The Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Jihad!_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q1262087"
+      },
+      "summary": {
+        "text": "Jihad! The Musical is a musical comedy and jihad satire.\nThe show was written by Benjamin Scheuer (music/lyrics) and Zoe Samuel (book/lyrics). Jihad! The Musical premiered at the 2007 Edinburgh Festival Fringe and had a London run at the Jermyn Street Theatre in January 2010.\nThe plot centers on an ambitious Afghan peasant, Sayid al Boom, recruited by a \"smooth-talking Islamic fundamentalist in a pinstripe suit\" named Hussein Al Mansour.\nThe show features a number in which a high-kicking chorus line of dancers swathed head to toe in hot-pink burqas back al Mansour up as he sings, \"I wanna be like Osama, I wanna bomb a path to fame across the Earth. People may abhor me but by God, they won't ignore me, When the CIA determines what I'm worth.\"",
+        "source_url": "https://en.wikipedia.org/wiki/Jihad!_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "keating": {
+      "slug": "keating",
+      "title": "Keating!",
+      "qid": "Q6382311",
+      "enwiki": "Keating!",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Keating!",
+        "wikidata": "https://www.wikidata.org/wiki/Q6382311"
+      },
+      "summary": {
+        "text": "Keating! is a sung-through musical which portrays the political career of former Australian Prime Minister Paul Keating.  Keating was Prime Minister between 1991 and 1996; the musical follows him from his ascent to the leadership through to his eventual electoral defeat by John Howard. It was written by Casey Bennetto, who was inspired to write the show by his disappointment at the results of the 2004 federal election, which saw Howard's Coalition government returned for a fourth term.  The musical takes a humorous, satirical tone and presents a positive image of Keating while frequently criticising the Howard government. Bennetto describes the show as \"ridiculously pro-Paul Keating\".\nOriginally performed by musical group the Drowsy Drivers, the show achieved rapid success from its low-budget premiere at the 2005 Melbourne International Comedy Festival where it enjoyed a sold-out run and won an unprecedented three festival awards. In 2006, Neil Armfield directed an extended Company B production of Keating!, now with two acts and six new songs written by Bennetto. The Company B production toured Australia, receiving favourable reviews and winning Helpmann Awards for Best Musical and Best Regional Touring Production. In 2008 a live recording of the show was broadcast nationally on ABC2; it was released on DVD in November 2008, through Madman Entertainment.",
+        "source_url": "https://en.wikipedia.org/wiki/Keating!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "little-by-little": {
+      "slug": "little-by-little",
+      "title": "Little by Little",
+      "qid": "Q6652684",
+      "enwiki": "Little by Little (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Little_by_Little_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6652684"
+      },
+      "summary": {
+        "text": "Little by Little: A Musical About Friendship, Hormones ...and Popcorn is a 1999 off-Broadway musical produced by The York Theater Company. The book was written by Annette Jolles and Ellen Greenfield, the music by Brad Ross with lyrics by Ellen Greenfield and Hal Hackady. The cast recording was released on the Varèse Sarabande label. The show is licensed by Samuel French.",
+        "source_url": "https://en.wikipedia.org/wiki/Little_by_Little_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "little-jessie-james": {
+      "slug": "little-jessie-james",
+      "title": "Little Jessie James",
+      "qid": "Q16981422",
+      "enwiki": "Little Jessie James",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": "Longacre Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5455",
+        "wikipedia": "https://en.wikipedia.org/wiki/Little_Jessie_James",
+        "wikidata": "https://www.wikidata.org/wiki/Q16981422"
+      },
+      "summary": {
+        "text": "Little Jessie James was a musical farce that was the biggest hit of the 1923-24 Broadway season.",
+        "source_url": "https://en.wikipedia.org/wiki/Little_Jessie_James",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "make-me-a-song": {
+      "slug": "make-me-a-song",
+      "title": "Make Me a Song",
+      "qid": "Q48739424",
+      "enwiki": "Make Me a Song (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Make_Me_a_Song_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q48739424"
+      },
+      "summary": {
+        "text": "Make Me a Song is a musical revue, with lyrics and music by William Finn, which was conceived by Rob Ruggiero in 2006.\nThe revue includes songs from Finn's musicals In Trousers, Falsettos, A New Brain, Elegies: A Song Cycle and Romance in Hard Times, songs written for The Royal Family of Broadway and Songs of Innocence and Experience, musicals that were never professionally produced, and other unpublished songs, notably the title song. There is no dialogue or plot connecting the songs.",
+        "source_url": "https://en.wikipedia.org/wiki/Make_Me_a_Song_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "may-wine": {
+      "slug": "may-wine",
+      "title": "May Wine",
+      "qid": "Q6796613",
+      "enwiki": "May Wine",
+      "composers": [
+        {
+          "name": "Sigmund Romberg",
+          "qid": "Q742945",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8686"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Oscar Hammerstein II",
+          "qid": "Q319693",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7965"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5967",
+        "wikipedia": "https://en.wikipedia.org/wiki/May_Wine",
+        "wikidata": "https://www.wikidata.org/wiki/Q6796613"
+      },
+      "summary": {
+        "text": "May Wine is a musical with a book by Frank Mandel, lyrics by Oscar Hammerstein II, and music by Sigmund Romberg. The show was adapted from the novel The Happy Alienist by Eric von Stroheim and Wallace Smith.  The story concerns the rich and absent-minded psychology professor, Johann Volk, who falls in love with Marie (Baroness von Schlewitz). The malevolent Baron Kuno Adelhorst, who also loves Marie, tries to get the professor's money by having Marie marry him, but after they are married she comes to love the professor and does not want to blackmail him. However, the Professor thinks he has been deceived and tries to shoot Marie. He does not hurt her, and all ends well. The subplot involves an artist's model, Friedl, who wants a man's attention and gets it from the Baron.\nThe Broadway production opened on December 5, 1935 at the St. James Theatre, where it ran for a modestly successful 213 performances despite the reservations of reviewers about the book.  Romberg's Viennese-style score was praised.  The cast included Walter Slezak as Johann, Nancy McCord as Marie, Betty Allen as Friedl and Walter Woolf King as Kuno.  The orchestrations were by Don Walker, who later worked with Romberg several times.\nRomberg and Hammerstein had worked together on the hit operetta The New Moon in 1928.",
+        "source_url": "https://en.wikipedia.org/wiki/May_Wine",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "mother-goose": {
+      "slug": "mother-goose",
+      "title": "Mother Goose",
+      "qid": "Q124811616",
+      "enwiki": "Mother Goose (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Mother_Goose_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q124811616"
+      },
+      "summary": {
+        "text": "Mother Goose is a musical in three acts with music by Frederick Solomon, lyrics by George V. Hobart, and a book by John J. McNally that was adapted from  Arthur Collins and J. Hickory Wood's libretto for the 1902 pantomime of the same name. The work's plot pulled loosely from several fairy tales and nursery rhymes, including Mother Goose and Jack and Jill. The work also contained many songs interpolated into the production by other writers, including two songs by George M. Cohan: \"Rube\" and \"Always Leave Them Laughing When You Say Goodbye\".",
+        "source_url": "https://en.wikipedia.org/wiki/Mother_Goose_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "over-here": {
+      "slug": "over-here",
+      "title": "Over Here!",
+      "qid": "Q7113399",
+      "enwiki": "Over Here!",
+      "composers": [
+        {
+          "name": "Richard M. Sherman",
+          "qid": "Q2318968",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12396"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Robert B. Sherman",
+          "qid": "Q2419093",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12397"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Will Holt",
+          "qid": "Q8002873",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6327"
+        }
+      ],
+      "premiere": {
+        "date": "1974-03-06",
+        "venue": "Shubert Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6870",
+        "wikipedia": "https://en.wikipedia.org/wiki/Over_Here!",
+        "wikidata": "https://www.wikidata.org/wiki/Q7113399"
+      },
+      "summary": {
+        "text": "Over Here! is a musical with a score by Richard M. Sherman and Robert B. Sherman and book by Will Holt. The original Broadway production was directed by Tom Moore and choreographed by Patricia Birch, with scenic design by Douglas W. Schmidt and costumes by Carrie F. Robbins.\nOver Here! was a follow-up to the Sherman brothers' World War II musical Victory Canteen, an off-Broadway production that featured 1940s icon Patty Andrews. The setting is a cross-country train trip in the United States during World War II (hence the name of the play, in contrast to the popular patriotic war anthem entitled Over There). The show begins as a nostalgic look at 1940s America (where fashion, music, big bands and swing dance dominates) but,  quickly evolves into a social commentary about the fear of dying in battle, prejudice, and discrimination.",
+        "source_url": "https://en.wikipedia.org/wiki/Over_Here!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "promises-promises": {
+      "slug": "promises-promises",
+      "title": "Promises, Promises",
+      "qid": "Q625282",
+      "enwiki": "Promises, Promises (musical)",
+      "composers": [
+        {
+          "name": "Burt Bacharach",
+          "qid": "Q212762",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11332"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Hal David",
+          "qid": "Q449030",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12841"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Neil Simon",
+          "qid": "Q315808",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7879"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7283",
+        "wikipedia": "https://en.wikipedia.org/wiki/Promises%2C_Promises_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q625282"
+      },
+      "summary": {
+        "text": "Promises, Promises is a musical with music by Burt Bacharach, lyrics by Hal David and a book by Neil Simon. It is based on the 1960 film The Apartment, written by Billy Wilder and I. A. L. Diamond. The story concerns a junior executive at an insurance company who seeks to climb the corporate ladder by allowing his apartment to be used by his married superiors for trysts.\nThe musical premiered in 1968 on Broadway with choreography by Michael Bennett and direction by Robert Moore. It starred Jerry Orbach as Chuck Baxter and Jill O'Hara as Fran Kubelik. It closed after 1,281 performances. A West End production opened in 1969 featuring Tony Roberts and Betty Buckley. The cast album was nominated for the Grammy Award for Best Musical Theater Album, and two songs from the show (the title tune and \"I'll Never Fall in Love Again\") became hit singles for Dionne Warwick.",
+        "source_url": "https://en.wikipedia.org/wiki/Promises%2C_Promises_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "raiding-the-rock-vault": {
+      "slug": "raiding-the-rock-vault",
+      "title": "Raiding the Rock Vault",
+      "qid": "Q60749239",
+      "enwiki": "Raiding the Rock Vault",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Raiding_the_Rock_Vault",
+        "wikidata": "https://www.wikidata.org/wiki/Q60749239"
+      },
+      "summary": {
+        "text": "Raiding the Rock Vault is a jukebox musical based on classic rock songs, featuring a cast of musicians from well-known rock bands. Since its debut in 2012, the show has appeared mainly at casinos in the Las Vegas area.",
+        "source_url": "https://en.wikipedia.org/wiki/Raiding_the_Rock_Vault",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "san-toy": {
+      "slug": "san-toy",
+      "title": "San Toy",
+      "qid": "Q7415350",
+      "enwiki": "San Toy",
+      "composers": [
+        {
+          "name": "Sidney Jones",
+          "qid": "Q926850",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11958"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7736",
+        "wikipedia": "https://en.wikipedia.org/wiki/San_Toy",
+        "wikidata": "https://www.wikidata.org/wiki/Q7415350"
+      },
+      "summary": {
+        "text": "San Toy, or The Emperor's Own is a \"Chinese\" musical comedy in two acts with a book by Edward Morton, music by Sidney Jones and lyrics by Harry Greenbank and Adrian Ross. Additional songs were written by Lionel Monckton. The plot centers around a love triangle involving the daughter of a mandarin, who disguises herself as a boy to avoid marriage to a man she does not love and manages, through maneuvering and good luck to reunite with the man she loves, while all ends happily for her father and her father's private secretary.\nThe musical was first performed at Daly's Theatre, London, on 21 October 1899, and ran for 768 performances (edging out the same composer's The Geisha as the second longest run for any musical up to that time). The cast starred Marie Tempest in the title role, Hayden Coffin, Rutland Barrington, Huntley Wright and Scott Russell. The piece enjoyed international success. In America, San Toy opened at Daly's Theatre on Broadway on 10 October 1900.  It was revived at the same theatre in 1901, 1902 and 1905, playing for a total of more than 200 performances in these productions. Marie Celeste played the title role in the original Broadway cast. The piece was regularly performed by amateur theatre groups, particularly in Britain, from 1910 through the 1930s, but it has been produced only rarely since then.\nSome of the language and stereotyping in the show reflect the period in which it was written and would not now be considered politically correct, though the lyrics display a gentle mocking of the pretension of Western superiority.",
+        "source_url": "https://en.wikipedia.org/wiki/San_Toy",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "south-pacific": {
+      "slug": "south-pacific",
+      "title": "South Pacific",
+      "qid": "Q1535240",
+      "enwiki": "South Pacific (musical)",
+      "composers": [
+        {
+          "name": "Richard Rodgers",
+          "qid": "Q269094",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12311"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Oscar Hammerstein II",
+          "qid": "Q319693",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7965"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Oscar Hammerstein II",
+          "qid": "Q319693",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7965"
+        },
+        {
+          "name": "Joshua Logan",
+          "qid": "Q505141",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6987"
+        }
+      ],
+      "premiere": {
+        "date": "1949-04-07",
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Pulitzer Prize for Drama",
+          "qid": "Q289214"
+        }
+      ],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8197",
+        "wikipedia": "https://en.wikipedia.org/wiki/South_Pacific_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1535240"
+      },
+      "summary": {
+        "text": "South Pacific is a musical composed by Richard Rodgers, with lyrics by Oscar Hammerstein II and book by Hammerstein and Joshua Logan. The work premiered in 1949 on Broadway and was an immediate hit, running for 1,925 performances. The plot is based on James A. Michener's Pulitzer Prize–winning 1947 book Tales of the South Pacific and combines elements of several of those stories. Rodgers and Hammerstein believed they could write a musical based on Michener's work that would be financially successful and, at the same time, send a strong progressive message on racism.\nThe plot centers on an American nurse stationed on a South Pacific island during World War II, who falls in love with a middle-aged expatriate French plantation owner but struggles to accept his mixed-race children. A secondary romance, between a U.S. Marine lieutenant and a young Tonkinese woman, explores his fears of the social consequences should he marry his Asian sweetheart. The issue of racial prejudice is candidly explored throughout the musical, most controversially in the lieutenant's song, \"You've Got to Be Carefully Taught\".  Supporting characters, including a comic petty officer and the Tonkinese girl's mother, help to tie the stories together.  Because he lacked military knowledge, Hammerstein had difficulty writing that part of the script. The director of the original production, Logan, assisted him and received credit as co-writer of the book.\nThe original Broadway production enjoyed immense critical and box-office success, became the second-longest running Broadway musical to that point (behind Rodgers and Hammerstein's earlier Oklahoma! (1943)), and has remained popular ever since. After they signed Ezio Pinza and Mary Martin as the leads, Rodgers and Hammerstein wrote several of the songs with the particular talents of their stars in mind.  The piece won the Pulitzer Prize for Drama in 1950.  Especially in the Southern U.S., its racial theme provoked controversy, for which its authors were unapologetic. Several of its songs, including \"Bali Ha'i\", \"I'm Gonna Wash That Man Right Outa My Hair\", \"Some Enchanted Evening\", \"There Is Nothing Like a Dame\", \"Happy Talk\", \"Younger Than Springtime\", and \"I'm in Love with a Wonderful Guy\", have become popular standards.\nThe production won ten Tony Awards, including Best Musical, Best Score, and Best Libretto, and it is the only musical production to win Tony Awards in all four acting categories. Its original cast album was the bestselling record of the 1940s, and other recordings of the show have also been popular. The show has enjoyed many successful revivals and tours, spawning a 1958 film and television adaptations. The 2008 Broadway revival, a critical success, ran for 996 performances and won seven Tonys, including Best Musical Revival.",
+        "source_url": "https://en.wikipedia.org/wiki/South_Pacific_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-cat-and-the-fiddle": {
+      "slug": "the-cat-and-the-fiddle",
+      "title": "The Cat and the Fiddle",
+      "qid": "Q7721672",
+      "enwiki": "The Cat and the Fiddle (musical)",
+      "composers": [
+        {
+          "name": "Jerome Kern",
+          "qid": "Q313270",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6711"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Otto Harbach",
+          "qid": "Q1231720",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6056"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Otto Harbach",
+          "qid": "Q1231720",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6056"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2441",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Cat_and_the_Fiddle_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7721672"
+      },
+      "summary": {
+        "text": "The Cat and the Fiddle is a musical with music by Jerome Kern and book and lyrics by Otto Harbach. The story is about love and conflict between an American popular music composer and a European classical composer. Hit numbers from the show included \"Try to Forget\", \"She Didn't Say Yes\", \"The Breeze Kissed Your Hair\" and \"The Night Was Made for Love.\"\nThe original Broadway production opened on October 15, 1931, and ran for 395 performances, a long run for the time period. A 1932 London production followed at the Palace Theatre. A 1934 film adaptation with a substantially altered storyline starred Jeanette MacDonald and Ramon Novarro.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Cat_and_the_Fiddle_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "theme-park-live-adaptations-of-the-lion-king": {
+      "slug": "theme-park-live-adaptations-of-the-lion-king",
+      "title": "Theme park live adaptations of The Lion King",
+      "qid": "Q860474",
+      "enwiki": "Theme park live adaptations of The Lion King",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Theme_park_live_adaptations_of_The_Lion_King",
+        "wikidata": "https://www.wikidata.org/wiki/Q860474"
+      },
+      "summary": {
+        "text": "There have been seven theme park live adaptations of The Lion King at Disney Parks since the Disney animated feature film The Lion King was released by Walt Disney Animation Studios in 1994. These have included a parade, two theater-in-the-round shows (both of which are versions of Festival of the Lion King), and four stage shows (three of which are live musical stage show retellings of the story with costumed performers).",
+        "source_url": "https://en.wikipedia.org/wiki/Theme_park_live_adaptations_of_The_Lion_King",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "why-am-i-so-single": {
+      "slug": "why-am-i-so-single",
+      "title": "Why Am I So Single?",
+      "qid": "Q130306492",
+      "enwiki": "Why Am I So Single?",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Why_Am_I_So_Single%3F",
+        "wikidata": "https://www.wikidata.org/wiki/Q130306492"
+      },
+      "summary": {
+        "text": "Why Am I So Single? is a musical with a book, music, and lyrics by Toby Marlow and Lucy Moss. Loosely based on their own lives, Why Am I So Single? follows two musical theatre writers and best friends who are struggling to navigate the frustrations of being constantly single while also trying to write a musical.\nThe show received a Laurence Olivier Award nomination for Best New Musical & four WhatsOnStage Award nominations (including Best New Musical) and won for Best Casting Direction.",
+        "source_url": "https://en.wikipedia.org/wiki/Why_Am_I_So_Single%3F",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

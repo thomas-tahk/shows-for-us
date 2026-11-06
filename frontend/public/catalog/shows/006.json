@@ -1,0 +1,417 @@
+{
+  "live": true,
+  "shows": {
+    "catch-me-if-you-can": {
+      "slug": "catch-me-if-you-can",
+      "title": "Catch Me If You Can",
+      "qid": "Q3891962",
+      "enwiki": "Catch Me If You Can (musical)",
+      "composers": [
+        {
+          "name": "Marc Shaiman",
+          "qid": "Q979312",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/75368"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Marc Shaiman",
+          "qid": "Q979312",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/75368"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Terrence McNally",
+          "qid": "Q1566335",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8828"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": "Neil Simon Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/488875",
+        "official_site": "http://www.catchmethemusical.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/Catch_Me_If_You_Can_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q3891962"
+      },
+      "summary": {
+        "text": "Catch Me If You Can is a musical drama with a libretto by Terrence McNally and a theatrical score by Marc Shaiman and Scott Wittman. It follows the story of a con artist named Frank Abagnale. A majority of the plot is borrowed from the 2002 film of the same name, which in turn was based on the 1980 autobiography of the same name by Abagnale and Stan Redding.\nAfter a tryout musical performance in Seattle in 2009, Catch Me If You Can opened at Broadway's Neil Simon Theatre in April 2011. The production received four Tony Awards nominations, including one for Best Musical, winning Best Actor in a Musical for Norbert Leo Butz.",
+        "source_url": "https://en.wikipedia.org/wiki/Catch_Me_If_You_Can_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "chee-chee": {
+      "slug": "chee-chee",
+      "title": "Chee-Chee",
+      "qid": "Q65118677",
+      "enwiki": "Chee-Chee (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2523",
+        "wikipedia": "https://en.wikipedia.org/wiki/Chee-Chee_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q65118677"
+      },
+      "summary": {
+        "text": "Chee-Chee is a musical by Richard Rodgers and Lorenz Hart based on the 1927 book, The Son of the Grand Eunuch, by Charles Pettit. Chee-Chee opened on Broadway September 25, 1928, and the show closed after 31 performances.\nIn 1963 vocalist Betty Comden released an album that included some of the songs from the musical.",
+        "source_url": "https://en.wikipedia.org/wiki/Chee-Chee_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "forever-dusty": {
+      "slug": "forever-dusty",
+      "title": "Forever Dusty",
+      "qid": "Q5469383",
+      "enwiki": "Forever Dusty",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Kirsten Holly Smith",
+          "qid": "Q6416086"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Forever_Dusty",
+        "wikidata": "https://www.wikidata.org/wiki/Q5469383"
+      },
+      "summary": {
+        "text": "Forever Dusty is a stage musical based on the life of British pop star Dusty Springfield. The musical numbers are all songs performed by Springfield during her career. The book of the musical was written by Kirsten Holly Smith, who also plays the lead role of Dusty Springfield in the originating production, and Jonathan Vankin. Forever Dusty opened on 18 November 2012 at New World Stages, an Off-Broadway venue in New York City. The UK Premiere opened on 3 May 2017 at Brookside Theatre, a London Fringe theatre as the start of a UK theatre tour.",
+        "source_url": "https://en.wikipedia.org/wiki/Forever_Dusty",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "golden-lotus": {
+      "slug": "golden-lotus",
+      "title": "Golden Lotus",
+      "qid": "Q55612775",
+      "enwiki": "Golden Lotus (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "http://www.goldenlotusthemusical.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/Golden_Lotus_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q55612775"
+      },
+      "summary": {
+        "text": "Golden Lotus is a musical written and composed by George Chiang. The musical is based on the classic 17th-century Chinese novel Jin Ping Mei (The Golden Lotus). Set amidst the dying, war-torn years of Song dynasty China, the musical tells the story of the Golden Lotus (Pan Jinlian), whose desire for true love leads her into a web of deception and desperation with the valiant tiger slayer Wu Sung, the rich and powerful Xi Men (Ximen Qing), and the humble peddler Wu Da (Wu Dalang).",
+        "source_url": "https://en.wikipedia.org/wiki/Golden_Lotus_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "house-of-flowers": {
+      "slug": "house-of-flowers",
+      "title": "House of Flowers",
+      "qid": "Q16386117",
+      "enwiki": "House of Flowers (musical)",
+      "composers": [
+        {
+          "name": "Harold Arlen",
+          "qid": "Q448644",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11319"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Truman Capote",
+          "qid": "Q134180",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8925"
+        },
+        {
+          "name": "Harold Arlen",
+          "qid": "Q448644",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11319"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Truman Capote",
+          "qid": "Q134180",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8925"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4531",
+        "wikipedia": "https://en.wikipedia.org/wiki/House_of_Flowers_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q16386117"
+      },
+      "summary": {
+        "text": "House of Flowers is a musical by Harold Arlen (music and lyrics) and Truman Capote (lyrics and book). A short story of the same name was published in Breakfast at Tiffany's (1958).",
+        "source_url": "https://en.wikipedia.org/wiki/House_of_Flowers_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "joyride-the-musical": {
+      "slug": "joyride-the-musical",
+      "title": "Joyride the Musical",
+      "qid": "Q130248869",
+      "enwiki": "Joyride the Musical",
+      "composers": [
+        {
+          "name": "Per Gessle",
+          "qid": "Q312801"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2024-09-07",
+        "venue": "Malmö Opera"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Joyride_the_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q130248869"
+      },
+      "summary": {
+        "text": "Joyride the Musical is a jukebox musical based on the songs by Swedish pop duo Roxette and the novel Got You Back by Jane Fallon. It premiered in 2024 at Malmö Opera.",
+        "source_url": "https://en.wikipedia.org/wiki/Joyride_the_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "london-calling": {
+      "slug": "london-calling",
+      "title": "London Calling!",
+      "qid": "Q6670191",
+      "enwiki": "London Calling! (musical)",
+      "composers": [
+        {
+          "name": "Noël Coward",
+          "qid": "Q298388",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/36502"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/London_Calling!_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6670191"
+      },
+      "summary": {
+        "text": "London Calling! was a musical revue, produced by André Charlot with music and lyrics by Noël Coward, which opened at the Duke of York's Theatre, London on 4 September 1923. It was Noël Coward's first publicly produced musical work. The song \"Parisian Pierrot\", sung by Gertrude Lawrence, was his first big hit and became one of his signature tunes.",
+        "source_url": "https://en.wikipedia.org/wiki/London_Calling!_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "me-and-my-dick": {
+      "slug": "me-and-my-dick",
+      "title": "Me and My Dick",
+      "qid": "Q6803048",
+      "enwiki": "Me and My Dick",
+      "composers": [
+        {
+          "name": "Carlos Valdez",
+          "qid": "Q18665695"
+        },
+        {
+          "name": "A.J. Holmes",
+          "qid": "Q19281532",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/496075"
+        },
+        {
+          "name": "Darren Criss",
+          "qid": "Q295502",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/490612"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Carlos Valdez",
+          "qid": "Q18665695"
+        },
+        {
+          "name": "A.J. Holmes",
+          "qid": "Q19281532",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/496075"
+        },
+        {
+          "name": "Darren Criss",
+          "qid": "Q295502",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/490612"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": "2009-10-29",
+        "venue": "University of Michigan"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Me_and_My_Dick",
+        "wikidata": "https://www.wikidata.org/wiki/Q6803048"
+      },
+      "summary": {
+        "text": "Me and My Dick is a musical with music and lyrics by A.J. Holmes, Carlos Valdes, and Darren Criss, and a book by Matt Lang, Nick Lang, Brian Holden and Eric Kahn Gale.\nMe and My Dick is a coming of age tale about a \"boy with a very special relationship with his very best friend ... his Dick! Together they face the trials of growing up, love, sex and high school, but these two best pals are in for the adventure of a lifetime.\"\nThe musical was performed October 29–31, 2009, on the University of Michigan campus. It was produced by StarKid Productions and the University of Michigan's Basement Arts, and was directed by Matt Lang. The musical stars an ensemble cast featuring Joey Richter as a fictionalized version of himself, Joe Walker as his dick named Dick, Jaime Lyn Beatty as Sally, and Devin Lytle as Sally's vagina, Miss Cooter. The group put the entire musical up on YouTube November 13, 2009.\nThe musical's cast recording became the first ever student musical to place on the Billboard 200 charts, peaking at No. 11 for Billboard's Top Cast Albums.",
+        "source_url": "https://en.wikipedia.org/wiki/Me_and_My_Dick",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "mesa-arizona-easter-pageant": {
+      "slug": "mesa-arizona-easter-pageant",
+      "title": "Mesa Arizona Easter Pageant",
+      "qid": "Q6821050",
+      "enwiki": "Mesa Arizona Easter Pageant",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1928",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "http://www.easterpageant.org/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Mesa_Arizona_Easter_Pageant",
+        "wikidata": "https://www.wikidata.org/wiki/Q6821050"
+      },
+      "summary": {
+        "text": "The Mesa Arizona Easter Pageant (Mesa Pageant) is an annual production of the Church of Jesus Christ of Latter-day Saints (LDS Church) entitled Jesus the Christ and staged on the grounds of the Mesa Arizona Temple. This Latter-day Saint pageant is now the largest annual outdoor Easter pageant in the world.\nWith a 450-member cast, the 65-minute pageant depicts the birth, life, death, and resurrection of Jesus Christ using song and dance.",
+        "source_url": "https://en.wikipedia.org/wiki/Mesa_Arizona_Easter_Pageant",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-wild-party-lippa-musical": {
+      "slug": "the-wild-party-lippa-musical",
+      "title": "The Wild Party",
+      "qid": "Q2567859",
+      "enwiki": "The Wild Party (Lippa musical)",
+      "composers": [
+        {
+          "name": "Andrew Lippa",
+          "qid": "Q4757771",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13451"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Andrew Lippa",
+          "qid": "Q4757771",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13451"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Wild_Party_(Lippa_musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q2567859"
+      },
+      "summary": {
+        "text": "The Wild Party is a musical with book, lyrics, and music by Andrew Lippa.\nBased on Joseph Moncure March's 1928 narrative poem of the same name, it coincidentally made its debut off-Broadway during the same theatre season (1999–2000) as a Broadway production with the same name and source material.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Wild_Party_(Lippa_musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "thelma-louise": {
+      "slug": "thelma-louise",
+      "title": "Thelma & Louise",
+      "qid": "Q141657947",
+      "enwiki": "Thelma & Louise (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Thelma_%26_Louise_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q141657947"
+      },
+      "summary": {
+        "text": "Thelma & Louise is a musical with music and lyrics by Neko Case and a book by Callie Khouri, based on her own screenplay for the 1991 film of the same name.\nDirected by Trip Cullman, it premiered at the Young Vic in London in September 2026 with Amy Lennox as Thelma and Rachel Tucker as Louise.",
+        "source_url": "https://en.wikipedia.org/wiki/Thelma_%26_Louise_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "two-by-two": {
+      "slug": "two-by-two",
+      "title": "Two by Two",
+      "qid": "Q7859366",
+      "enwiki": "Two by Two (musical)",
+      "composers": [
+        {
+          "name": "Richard Rodgers",
+          "qid": "Q269094",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12311"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Martin Charnin",
+          "qid": "Q3295377",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7570"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Peter Stone",
+          "qid": "Q1718449",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8128"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/10313",
+        "wikipedia": "https://en.wikipedia.org/wiki/Two_by_Two_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7859366"
+      },
+      "summary": {
+        "text": "Two By Two is a Broadway musical with a book by Peter Stone, lyrics by Martin Charnin, and music by Richard Rodgers.\nBased on Clifford Odets' play The Flowering Peach, it tells the story of Noah's preparations for the Great Flood and its aftermath.\nDirected by Joe Layton, the production opened on November 10, 1970 at the Imperial Theatre, where it ran for ten months. The opening night cast included Danny Kaye, Marilyn Cooper, Joan Copeland, Harry Goz, Madeline Kahn, \nMichael Karm, Tricia O'Neil, and Walter Willison.",
+        "source_url": "https://en.wikipedia.org/wiki/Two_by_Two_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

@@ -1,0 +1,444 @@
+{
+  "live": true,
+  "shows": {
+    "bhangra-nation": {
+      "slug": "bhangra-nation",
+      "title": "Bhangra Nation",
+      "qid": "Q124968297",
+      "enwiki": "Bhangra Nation",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Bhangra_Nation",
+        "wikidata": "https://www.wikidata.org/wiki/Q124968297"
+      },
+      "summary": {
+        "text": "Bhangra Nation is a musical with a book by Mike Lew and Rehana Lew Mirza, music and lyrics by Sam Willmott.",
+        "source_url": "https://en.wikipedia.org/wiki/Bhangra_Nation",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "bubble-boy": {
+      "slug": "bubble-boy",
+      "title": "Bubble Boy",
+      "qid": "Q18796706",
+      "enwiki": "Bubble Boy (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2013-11-06",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Bubble_Boy_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q18796706"
+      },
+      "summary": {
+        "text": "Bubble Boy is a musical with music and lyrics by Cinco Paul and book by Cinco Paul and Ken Daurio, based on the 2001 Touchstone Pictures' film Bubble Boy. Like the movie, it tells the story of Jimmy Livingston, a boy born without immunities who is forced to live in a plastic bubble room. Thematically, the musical explores the idea that we all have our \"bubbles\" which prevent us from being all we can be, and that we need to break out of them.\nThe musical's first professional production opened November 6, 2013 at Hamilton Stage in Rahway, New Jersey. An original cast recording was released by Ghostlight Records on July 14, 2017, and the show was subsequently published by Dramatists Play Service and became available for professional and nonprofessional licensed productions.",
+        "source_url": "https://en.wikipedia.org/wiki/Bubble_Boy_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "desperate-measures": {
+      "slug": "desperate-measures",
+      "title": "Desperate Measures",
+      "qid": "Q5264943",
+      "enwiki": "Desperate Measures (musical)",
+      "composers": [
+        {
+          "name": "David Friedman",
+          "qid": "Q5233862",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/73275"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Peter Kellogg",
+          "qid": "Q7175134",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8119"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": "2004-05-01",
+        "venue": "Irving"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Desperate_Measures_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5264943"
+      },
+      "summary": {
+        "text": "Desperate Measures  is an American musical comedy with music by David Friedman and book and lyrics by Peter Kellogg. The show won acclaim with Drama Desk Awards for Best Music and Best Lyrics, and Outer Critics Circle and Off-Broadway Alliance Awards for Best Musical from its run at the York Theatre in New York City in 2017.",
+        "source_url": "https://en.wikipedia.org/wiki/Desperate_Measures_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "flashdance": {
+      "slug": "flashdance",
+      "title": "Flashdance",
+      "qid": "Q5457609",
+      "enwiki": "Flashdance (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Thomas Hedley",
+          "qid": "Q3990637"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/505116",
+        "wikipedia": "https://en.wikipedia.org/wiki/Flashdance_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5457609"
+      },
+      "summary": {
+        "text": "Flashdance is a stage musical based on the 1983 film of the same name with a book by Tom Hedley and Robert Cary, music by Robbie Roth and lyrics by Roth and Cary. The show had its world premiere in 2008 at the Theatre Royal in Plymouth, as part of a ten-month UK tour, followed by a London West End run at the Shaftesbury Theatre.\nThe musical had a US tour in 2012–2014, but an expected Broadway run was postponed.",
+        "source_url": "https://en.wikipedia.org/wiki/Flashdance_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "hot-gay-time-machine": {
+      "slug": "hot-gay-time-machine",
+      "title": "Hot Gay Time Machine",
+      "qid": "Q117464882",
+      "enwiki": "Hot Gay Time Machine",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Hot_Gay_Time_Machine",
+        "wikidata": "https://www.wikidata.org/wiki/Q117464882"
+      },
+      "summary": {
+        "text": "Hot Gay Time Machine is a British musical comedy cabaret show created by Zak Ghazi-Torbati and Toby Marlow, and co-authored and directed by Lucy Moss.",
+        "source_url": "https://en.wikipedia.org/wiki/Hot_Gay_Time_Machine",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "hot-shoe-shuffle": {
+      "slug": "hot-shoe-shuffle",
+      "title": "Hot Shoe Shuffle",
+      "qid": "Q5910353",
+      "enwiki": "Hot Shoe Shuffle",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Larry Buttrose",
+          "qid": "Q6490033"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Hot_Shoe_Shuffle",
+        "wikidata": "https://www.wikidata.org/wiki/Q5910353"
+      },
+      "summary": {
+        "text": "Hot Shoe Shuffle is a 1992 Australian musical produced by David Atkins. A jukebox musical, the score mostly includes American big band and popular songs of the 1920s to 1940s. While set in the United States, the show has a decidedly Australian sense of humor.\nThe musical concerns seven Tap Brothers, Spring, Slap, Buck, Wing, Tip, Tap and Slide, who learn of the death of their long-absent father. Their father has left them a large inheritance, however to receive it they must rehearse and perform his legendary ‘Act’ – the Hot Shoe Shuffle. They must also include their long-lost sister, April, in the act. The original cast included David Atkins, Rhonda Burchmore, Christopher Horsey and Jack Webster.\nIt is one of the most popular Australian musicals of all time, being the first one to have a successful run on the West End. The West End production at the Queen's Theatre was nominated in 1995 for the Olivier Award for Best New Musical, and choreographers Atkins and Dein Perry won for Best Theatre Choreographer.\n\nAt the ARIA Music Awards of 1994, the cast recording won ARIA Award for Best Original Soundtrack, Cast or Show Album.\nThe show was partially rewritten for a revival in Houston in 1998.",
+        "source_url": "https://en.wikipedia.org/wiki/Hot_Shoe_Shuffle",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "la-finta-savia": {
+      "slug": "la-finta-savia",
+      "title": "La finta savia",
+      "qid": "Q60792706",
+      "enwiki": "La finta savia",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/La_finta_savia",
+        "wikidata": "https://www.wikidata.org/wiki/Q60792706"
+      },
+      "summary": {
+        "text": "La finta savia is a 1643 drama by Giulio Strozzi written for the Teatro Santi Giovanni e Paolo with music by Filiberto Laurenzi. It is a sequel to Strozzi's La finta pazza (1641) whi was set to music by Francesco Sacrati. The music was mainly by Laurenzi but was supplemented in act 1 with scenes 3 to 5, 10 and 12 by Tarquinio Merula, in scene 6 mainly by Arcangelo Crivelli except for a canzonetta by Laurenzi. In act 1, scenes 2 and 3 were by Crivelli and in act 3 scenes 1 and 7 to 9 by Benedetto Ferrari.",
+        "source_url": "https://en.wikipedia.org/wiki/La_finta_savia",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "legally-blonde": {
+      "slug": "legally-blonde",
+      "title": "Legally Blonde",
+      "qid": "Q2200020",
+      "enwiki": "Legally Blonde (musical)",
+      "composers": [
+        {
+          "name": "Laurence O'Keefe",
+          "qid": "Q6500750",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/405999"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Heather Hach",
+          "qid": "Q5693854",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/423554"
+        }
+      ],
+      "premiere": {
+        "date": "2007-01-23",
+        "venue": "Golden Gate Theatre"
+      },
+      "awards": [
+        {
+          "name": "Laurence Olivier Awards",
+          "qid": "Q28470"
+        }
+      ],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/423551",
+        "wikipedia": "https://en.wikipedia.org/wiki/Legally_Blonde_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q2200020"
+      },
+      "summary": {
+        "text": "Legally Blonde is a 2007 musical with music and lyrics by Laurence O'Keefe and Nell Benjamin and a book by Heather Hach. It is based on the novel Legally Blonde by Amanda Brown and the 2001 film of the same name.\nThe show tells the story of Elle Woods, a sorority girl who enrolls at Harvard Law School to win back her ex-boyfriend Warner. She discovers how her knowledge of the law can help others, and she successfully defends exercise queen Brooke Wyndham in a murder trial. Throughout the show, very few characters have faith in Elle, with the exception of her aesthetician Paulette, but she manages to surprise them when she defies expectations while staying true to herself.\nLegally Blonde premiered in pre-Broadway tryouts in San Francisco, California. In April 2007 the show moved to Broadway, opening to mixed reviews and disappointing sales. Jerry Mitchell directed and choreographed. The original cast starred Laura Bell Bundy as Elle, Christian Borle as Emmett, and Richard H. Blake as Warner. It received seven Tony nominations and ten Drama Desk nominations but did not win any. The West End production opened in January 2010 at the Savoy Theatre. The West End production was nominated for five Laurence Olivier Awards and won three, including the Best New Musical award.\nThe musical was recorded in September 2007 and aired on MTV in October 2007. Following this, a reality television program aired showing the audition process for the next person to play Elle Woods on Broadway. The winner was Bailey Hanks, who played the role from July 23, 2008, until the production closed on October 19, 2008.",
+        "source_url": "https://en.wikipedia.org/wiki/Legally_Blonde_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "sadie-thompson": {
+      "slug": "sadie-thompson",
+      "title": "Sadie Thompson",
+      "qid": "Q106739976",
+      "enwiki": "Sadie Thompson (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Sadie_Thompson_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q106739976"
+      },
+      "summary": {
+        "text": "Sadie Thompson is a 1944 musical in two acts and three scenes by composer Vernon Duke and lyricist Howard Dietz. The musical book, written by Dietz and Rouben Mamoulian, is based on the short story \"Rain\" by W. Somerset Maugham, published in the literary magazine The Smart Set in 1921. Originally written as a vehicle for Ethel Merman, the actress withdrew from production on September 29, 1944 after just a week and a half of rehearsals, and the lead part went to June Havoc. The work premiered at the Sam S. Shubert Theatre in Philadelphia on October 26, 1944 where it ran for two weeks of tryout performances, then moved to New York. The original production was produced by A.P. Waxman, directed by Mamoulian, and choreographed by Edward Caton. Boris Aronson designed the sets, and the Motley Theatre Design Group designed the costumes.\nSadie Thompson debuted on Broadway at the Alvin Theatre on November 16, 1944, with a cast led by June Havoc as Sadie Thompson, Lansing Hatfield as Reverend Alfred Davidson, James Newill as Sergeant Tim O'Hara, Ralph Dumke as Joe Horn, Grazia Narciso as Ameena, Zolya Talma as Mrs. Alfred Davidson, Walter Burke as Quartermaster Bates, Daniel Cobb as Corporal Hodgson, Norman Lawrence as Private Griggs, and Doris Patston as Cicely St. Clair. The production closed after 60 performances on January 6, 1945.",
+        "source_url": "https://en.wikipedia.org/wiki/Sadie_Thompson_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "stop-the-world-i-want-to-get-off": {
+      "slug": "stop-the-world-i-want-to-get-off",
+      "title": "Stop the World – I Want to Get Off",
+      "qid": "Q432351",
+      "enwiki": "Stop the World – I Want to Get Off",
+      "composers": [
+        {
+          "name": "Leslie Bricusse",
+          "qid": "Q1305608",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11429"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Leslie Bricusse",
+          "qid": "Q1305608",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11429"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Leslie Bricusse",
+          "qid": "Q1305608",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11429"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8319",
+        "wikipedia": "https://en.wikipedia.org/wiki/Stop_the_World_%E2%80%93_I_Want_to_Get_Off",
+        "wikidata": "https://www.wikidata.org/wiki/Q432351"
+      },
+      "summary": {
+        "text": "Stop the World – I Want to Get Off is a 1961 musical with a book, music, and lyrics by Leslie Bricusse and Anthony Newley. In 1966 Warner Bros. released a film adaptation of the play. In 1996, a film version was produced for TV, made for the A&E Network.\nAccording to Oscar Levant, the play's title was derived from a graffito.",
+        "source_url": "https://en.wikipedia.org/wiki/Stop_the_World_%E2%80%93_I_Want_to_Get_Off",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "svea-hund": {
+      "slug": "svea-hund",
+      "title": "Svea hund",
+      "qid": "Q7651798",
+      "enwiki": "Svea hund",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Svea_hund",
+        "wikidata": "https://www.wikidata.org/wiki/Q7651798"
+      },
+      "summary": {
+        "text": "Svea hund, complete title Svea Hund på Göta Lejon (Svea Dog at Göta Lejon), was a Swedish variety show produced by AB Svenska Ord.  It was written by Hans Alfredsson and Tage Danielsson, commonly known as Hasseåtage and directed by Tage.\nThe show premièred on 15 February (although it had a sneak première on 9 February) 1976 on the theater Göta Lejon in Stockholm.\nIt was the last of the three \"Dog-revues\"; the first was Gröna hund (Green Dog) the second being Gula Hund (Yellow Dog).\nBoth Hasse and Tage starred in various roles.  Other cast members were Gösta Ekman, Monica Zetterlund, Lena Nyman, and Tommy Körberg.  The song quartet EBBA (Lena Eriksson, Lars Bagge, Kerstin Bagge and Bo Andersson) and Gunnar Svenssons Bandhundband.",
+        "source_url": "https://en.wikipedia.org/wiki/Svea_hund",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-secret-diary-of-adrian-mole-aged-133-4": {
+      "slug": "the-secret-diary-of-adrian-mole-aged-133-4",
+      "title": "The Secret Diary of Adrian Mole Aged 13¾",
+      "qid": "Q30668268",
+      "enwiki": "The Secret Diary of Adrian Mole Aged 13¾ (musical)",
+      "composers": [
+        {
+          "name": "Jake Brunger and Pippa Cleary",
+          "qid": "Q6124589"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2015-03-17",
+        "venue": "Curve"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Secret_Diary_of_Adrian_Mole_Aged_13%C2%BE_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q30668268"
+      },
+      "summary": {
+        "text": "The Secret Diary of Adrian Mole Aged 13¾ is a stage musical based on the young-adult novel of the same name by Sue Townsend. It features book and lyrics by Jake Brunger and music and lyrics by Pippa Cleary.\nThe musical made its world première at the Curve in Leicester in March 2015, followed by a London production at the Menier Chocolate Factory in summer 2017 and a West End run at the Ambassadors Theatre from June to September 2019.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Secret_Diary_of_Adrian_Mole_Aged_13%C2%BE_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "three-wishes-for-jamie": {
+      "slug": "three-wishes-for-jamie",
+      "title": "Three Wishes for Jamie",
+      "qid": "Q7797920",
+      "enwiki": "Three Wishes for Jamie",
+      "composers": [
+        {
+          "name": "Ralph Blane",
+          "qid": "Q7287254",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11399"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Ralph Blane",
+          "qid": "Q7287254",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11399"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Charles O'Neal",
+          "qid": "Q5081315",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4788"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8686",
+        "wikipedia": "https://en.wikipedia.org/wiki/Three_Wishes_for_Jamie",
+        "wikidata": "https://www.wikidata.org/wiki/Q7797920"
+      },
+      "summary": {
+        "text": "Three Wishes for Jamie is a musical with a book by Charles O'Neal and Abe Burrows and music and lyrics by Ralph Blane. \nBased on O'Neal's 1949 novel The Three Wishes of Jamie McRuin, the fantasy focuses on the title character, a young Irishman who, when offered three wishes by the Queen of the Fairies, chooses travel, a bride, and a son who can speak Gaelic. The granting of the first brings him to Atlanta, Georgia, where the second is fulfilled in the form of Maeve Harrigan. But the third will prove to be more difficult to enjoy when it is discovered his new wife is unable to conceive and the couple adopts a mute boy.",
+        "source_url": "https://en.wikipedia.org/wiki/Three_Wishes_for_Jamie",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "urinetown": {
+      "slug": "urinetown",
+      "title": "Urinetown",
+      "qid": "Q2001586",
+      "enwiki": "Urinetown",
+      "composers": [
+        {
+          "name": "Mark Hollmann",
+          "qid": "Q6768079",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/84814"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Mark Hollmann",
+          "qid": "Q6768079",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/84814"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Greg Kotis",
+          "qid": "Q5605843",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/84815"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/10611",
+        "wikipedia": "https://en.wikipedia.org/wiki/Urinetown",
+        "wikidata": "https://www.wikidata.org/wiki/Q2001586"
+      },
+      "summary": {
+        "text": "Urinetown: The Musical is a satirical comedy musical that premiered in 2001, with music by Mark Hollmann, lyrics by Hollmann and Greg Kotis, and book by Kotis. It satirizes the legal system, capitalism, social irresponsibility, populism, bureaucracy, corporate mismanagement, and municipal politics. The show also parodies musicals such as The Threepenny Opera, Fiddler on the Roof, The Cradle Will Rock and Les Misérables, and the Broadway musical itself as a form.",
+        "source_url": "https://en.wikipedia.org/wiki/Urinetown",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

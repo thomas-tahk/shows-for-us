@@ -1,0 +1,568 @@
+{
+  "live": true,
+  "shows": {
+    "by-jeeves": {
+      "slug": "by-jeeves",
+      "title": "By Jeeves",
+      "qid": "Q1018439",
+      "enwiki": "By Jeeves",
+      "composers": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "qid": "Q180975",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12073"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Alan Ayckbourn",
+          "qid": "Q712848",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3933"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Alan Ayckbourn",
+          "qid": "Q712848",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3933"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/10770",
+        "wikipedia": "https://en.wikipedia.org/wiki/By_Jeeves",
+        "wikidata": "https://www.wikidata.org/wiki/Q1018439"
+      },
+      "summary": {
+        "text": "By Jeeves, originally Jeeves, is a musical with music by Andrew Lloyd Webber, and lyrics and book by Alan Ayckbourn. It is based on the series of novels and short stories by P. G. Wodehouse that centre around the character of Bertie Wooster and his loyal valet, Jeeves.\nPremiering on April 22, 1975, at Her Majesty's Theatre in London, the show flopped initially, running for only a month. After an extensive rewrite, the show was produced in 1996 in both London and America, and premiered on Broadway in 2001.",
+        "source_url": "https://en.wikipedia.org/wiki/By_Jeeves",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "by-the-hand-of-the-father": {
+      "slug": "by-the-hand-of-the-father",
+      "title": "By the Hand of the Father",
+      "qid": "Q5003861",
+      "enwiki": "By the Hand of the Father",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/By_the_Hand_of_the_Father",
+        "wikidata": "https://www.wikidata.org/wiki/Q5003861"
+      },
+      "summary": {
+        "text": "By The Hand of the Father is an original theatrical work that combines spoken word, music, and video to dramatize the unique 20th century journey of the Mexican-American father.\nThe productions original music by singer/songwriter Alejandro Escovedo, is interwoven with stories written by Theresa Chavez, Oscar Garza, Eric Gutierrez and Rose Portillo; and video by Janice Tanaka. It is directed by Theresa Chavez, Artistic Director of About...Productions; and produced by About...Productions, a Los Angeles-based theater company; and Paula Batson Productions, an independent production company focusing on music projects.\nPremiering in June, 2000, at Plaza de la Raza's Margo Albert Theatre in Los Angeles, it has played numerous venues throughout the U.S., and in Canada. It was featured in the 2002–03 season of Austin City Limits—the first time the long-running PBS music show has presented a theatrical work.\nPerformances of By The Hand of the Father have been presented at The Getty Center, Los Angeles (March 2001); the Autry National Center, Los Angeles (2001); 24th Street Theatre, Los Angeles (April 2001); Mexican Fine Arts Center Museum, Chicago (May 2001); Seattle Experience Music Project, Seattle, WA (July, 2001); the High Performance Rodeo in Calgary, Alberta (Jan, 2002); the Banff Centre for the Arts in Alberta, Canada (Jan, 2002); Texas Union Theatre, Austin (June, 2002); Luckman Center for the Arts, Los Angeles (July 2002); and Gammage Auditorium at  Arizona State University (April, 2003).\nDuring Escovedo's battle with Hepatitis C, the production was fronted by either Rosie Flores or Rick Treviño at the following venues: International Hispanic Theatre Festival, Miami/Ft. Lauderdale (June, 2003); John Anson Ford Amphitheatre, Los Angeles (June, 2003); Merced Playhouse (October, 2003); George Mason University, Wash., D.C./Fairfax (Oct 2004); Mondavi Center @ UC Davis, (Oct 2004); Luther Burbank Center, Santa Rosa (Nov 2004); University of Arizona (Nov 2004); and the National Ensemble Theatre Festival (June, 2005).\nEscovedo returned to the production in 2006 for performances at University of Texas, Brownsville (April, 2006), and University of Texas, Austin (April, 2006).\nIn 2002, the CD of songs and stories from the original theaterwork was released and included guest artists Pete Escovedo, Rosie Flores, Ruben Ramos and Cesar Rosas (of Los Lobos).\nThe characters were performed by Rose Portillo and Kevin Sifuentes on both the tour and album. \nBy the Hand of the Father (album)",
+        "source_url": "https://en.wikipedia.org/wiki/By_the_Hand_of_the_Father",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "dude": {
+      "slug": "dude",
+      "title": "Dude",
+      "qid": "Q5311690",
+      "enwiki": "Dude (musical)",
+      "composers": [
+        {
+          "name": "Galt MacDermot",
+          "qid": "Q1346345",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12086"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Gerome Ragni",
+          "qid": "Q329904",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5895"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Gerome Ragni",
+          "qid": "Q329904",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5895"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3216",
+        "wikipedia": "https://en.wikipedia.org/wiki/Dude_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5311690"
+      },
+      "summary": {
+        "text": "Dude (The Highway Life) is a rock musical with a book and lyrics by Gerome Ragni and music by Galt MacDermot.  It is an allegory about good and evil, the conflict between mankind's creative and destructive urges, the power of love, and the joy to be found in simple pleasures.  Dude is an everyman who loses his innocence and fights to regain it.",
+        "source_url": "https://en.wikipedia.org/wiki/Dude_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "first-lady-suite": {
+      "slug": "first-lady-suite",
+      "title": "First Lady Suite",
+      "qid": "Q5453150",
+      "enwiki": "First Lady Suite",
+      "composers": [
+        {
+          "name": "Michael John LaChiusa",
+          "qid": "Q3308276",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13016"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Michael John LaChiusa",
+          "qid": "Q3308276",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13016"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/First_Lady_Suite",
+        "wikidata": "https://www.wikidata.org/wiki/Q5453150"
+      },
+      "summary": {
+        "text": "First Lady Suite is a chamber musical by Michael John LaChiusa which premiered Off-Broadway in 1993. It consists primarily of four segments capturing moments in the lives of certain First Ladies of the United States of America. They are: Eleanor Roosevelt, Mamie Eisenhower, Bess Truman, and Jacqueline Bouvier Kennedy. Other First Ladies are also featured in smaller vignettes.",
+        "source_url": "https://en.wikipedia.org/wiki/First_Lady_Suite",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "flower-drum-song": {
+      "slug": "flower-drum-song",
+      "title": "Flower Drum Song",
+      "qid": "Q2169548",
+      "enwiki": "Flower Drum Song",
+      "composers": [
+        {
+          "name": "Richard Rodgers",
+          "qid": "Q269094",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12311"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Oscar Hammerstein II",
+          "qid": "Q319693",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7965"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3614",
+        "wikipedia": "https://en.wikipedia.org/wiki/Flower_Drum_Song",
+        "wikidata": "https://www.wikidata.org/wiki/Q2169548"
+      },
+      "summary": {
+        "text": "Flower Drum Song was the eighth musical by the team of Rodgers and Hammerstein. It is based on the 1957 novel, The Flower Drum Song, by Chinese-American author C. Y. Lee. It premiered on Broadway in 1958 and was then performed in the West End and on tour. It was adapted for a 1961 musical film.\nAfter their extraordinary early successes, beginning with Oklahoma! in 1943, Richard Rodgers and Oscar Hammerstein II had written two musicals in the 1950s that did not do well and sought a new hit to revive their fortunes. Lee's novel focuses on a father, Wang Chi-yang, a wealthy refugee from China, who clings to traditional values in San Francisco's Chinatown. Rodgers and Hammerstein shifted the focus of the musical to his son, Wang Ta, who is torn between his Chinese roots and assimilation into American culture. The team hired Gene Kelly to make his debut as a stage director with the musical and scoured the country for a suitable Asian – or at least, plausibly Asian-looking – cast. The musical, more light-hearted than Lee's novel, was profitable on Broadway and was followed by a national tour.\nAfter the release of the 1961 film version, the musical was rarely produced, as it presented casting issues and fears that Asian-Americans would take offense at how they are portrayed. When it was put on the stage, lines and songs that might be offensive were often cut. The piece did not return to Broadway until 2002, after a successful run in Los Angeles, in a new version that includes most of the original songs, with a book by playwright David Henry Hwang. Hwang's story differs greatly from the original book but retains the Chinatown setting and the inter-generational and immigrant themes, while emphasizing the romantic relationships. It received mostly poor reviews in New York and closed after six months but had a short tour and has since been produced regionally.",
+        "source_url": "https://en.wikipedia.org/wiki/Flower_Drum_Song",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "gigi": {
+      "slug": "gigi",
+      "title": "Gigi",
+      "qid": "Q1523674",
+      "enwiki": "Gigi (musical)",
+      "composers": [
+        {
+          "name": "Frederick Loewe",
+          "qid": "Q551678",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5688"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Alan Jay Lerner",
+          "qid": "Q961893",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3945"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Alan Jay Lerner",
+          "qid": "Q961893",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3945"
+        }
+      ],
+      "premiere": {
+        "date": "1973-05-15",
+        "venue": "Curran Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/9620",
+        "wikipedia": "https://en.wikipedia.org/wiki/Gigi_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1523674"
+      },
+      "summary": {
+        "text": "Gigi is a musical with a book and lyrics by Alan Jay Lerner and music by Frederick Loewe. It is based on the 1944 novella Gigi by Colette and 1958 hit musical film of the same name.  The story concerns Gigi, a free-spirited teenaged girl living in Paris at the turn of the 20th century.  She is being groomed as a courtesan in her family's tradition. Before she is deemed ready for her social debut, she encounters the bon vivant bachelor Gaston Lachaille, whom she captivates as she is transformed into a charmingly poised young lady.\nThe original Broadway production, produced by Edwin Lester in 1973, ran for a disappointing 103 performances but won the Tony Award for Best Score.  A West End production played in 1985.\nA new production of the musical starring Vanessa Hudgens, adapted by Heidi Thomas and directed by Eric D. Schaeffer, premiered at the Kennedy Center (Washington, DC) in January 2015, and ran on Broadway from April 8 to June 21, 2015 at the Neil Simon Theatre.",
+        "source_url": "https://en.wikipedia.org/wiki/Gigi_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "kwamina": {
+      "slug": "kwamina",
+      "title": "Kwamina",
+      "qid": "Q6450114",
+      "enwiki": "Kwamina",
+      "composers": [
+        {
+          "name": "Richard Adler",
+          "qid": "Q1399392",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11290"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Richard Adler",
+          "qid": "Q1399392",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11290"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Robert Alan Aurthur",
+          "qid": "Q1519933",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8347"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5110",
+        "wikipedia": "https://en.wikipedia.org/wiki/Kwamina",
+        "wikidata": "https://www.wikidata.org/wiki/Q6450114"
+      },
+      "summary": {
+        "text": "Kwamina is a musical with the libretto by Robert Alan Aurthur and music and lyrics by Richard Adler.",
+        "source_url": "https://en.wikipedia.org/wiki/Kwamina",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "mr-gum-and-the-dancing-bear-the-musical": {
+      "slug": "mr-gum-and-the-dancing-bear-the-musical",
+      "title": "Mr Gum and the Dancing Bear - the Musical!",
+      "qid": "Q85846718",
+      "enwiki": "Mr Gum and the Dancing Bear - the Musical!",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Mr_Gum_and_the_Dancing_Bear_-_the_Musical!",
+        "wikidata": "https://www.wikidata.org/wiki/Q85846718"
+      },
+      "summary": {
+        "text": "Mr Gum and the Dancing Bear - the Musical! is a children's musical with book and lyrics by Andy Stanton and music by Jim Fortune, based on Stanton's children's book of the same name (as part of the Mr Gum series).",
+        "source_url": "https://en.wikipedia.org/wiki/Mr_Gum_and_the_Dancing_Bear_-_the_Musical!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "netru-indru-naalai": {
+      "slug": "netru-indru-naalai",
+      "title": "Netru Indru Naalai",
+      "qid": "Q12436062",
+      "enwiki": "Netru Indru Naalai (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Netru_Indru_Naalai_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q12436062"
+      },
+      "summary": {
+        "text": "Netru, Indru, Naalai (transl. Yesterday, Today, Tomorrow) was a series of musical theatre performances that were held in Chennai, India, by Indian film director Mani Ratnam. Choreography for the show was provided by Kala and Brinda. There were unconfirmed reports of close to 12,000 people attending the show.",
+        "source_url": "https://en.wikipedia.org/wiki/Netru_Indru_Naalai_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "nightingale": {
+      "slug": "nightingale",
+      "title": "Nightingale",
+      "qid": "Q960611",
+      "enwiki": "Nightingale (children's opera)",
+      "composers": [
+        {
+          "name": "Charles Strouse",
+          "qid": "Q2960275",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12463"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Charles Strouse",
+          "qid": "Q2960275",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12463"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Charles Strouse",
+          "qid": "Q2960275",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12463"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Nightingale_(children's_opera)",
+        "wikidata": "https://www.wikidata.org/wiki/Q960611"
+      },
+      "summary": {
+        "text": "Nightingale: A New Musical is a children's opera in one act, with book, music and lyrics by Charles Strouse. It is based on Hans Christian Andersen's 1843 fairy tale, \"The Nightingale\", and tells the story of a Chinese emperor who learns, nearly too late, that wealth cannot buy happiness.",
+        "source_url": "https://en.wikipedia.org/wiki/Nightingale_(children's_opera)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "ruthless": {
+      "slug": "ruthless",
+      "title": "Ruthless!",
+      "qid": "Q7383398",
+      "enwiki": "Ruthless!",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1992",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Ruthless!",
+        "wikidata": "https://www.wikidata.org/wiki/Q7383398"
+      },
+      "summary": {
+        "text": "Ruthless! The Musical is an all-female musical with music by Marvin Laird and book and lyrics by Joel Paley that spoofs Broadway musicals, like Gypsy and Mame, and movies such as The Bad Seed and All About Eve. The musical premiered Off-Broadway in 1992.",
+        "source_url": "https://en.wikipedia.org/wiki/Ruthless!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "slam-frank": {
+      "slug": "slam-frank",
+      "title": "Slam Frank",
+      "qid": "Q136312837",
+      "enwiki": "Slam Frank",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2025",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "https://www.slamfrankmusical.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Slam_Frank",
+        "wikidata": "https://www.wikidata.org/wiki/Q136312837"
+      },
+      "summary": {
+        "text": "Slam Frank is a 2025 off-Broadway satirical hip-hop musical loosely based on the story of Anne Frank. It was created by Andrew Fox and Joel Sinensky after a Twitter thread about Anne Frank's \"white privilege\" went viral in 2022. The show is a show within a show of an ultra-progressive theatre troupe that reimagines Frank as a pansexual Latina named Anita Franco, along with Peter van Daan as a non-binary dancer. While the show itself is purportedly satirical, its viral social media promotion, with snippets of the show and tongue-in-cheek commentary, never acknowledges the satire.\nSome editorials or op-eds from Jewish newspapers, written before the show's debut, criticized the show's \"disrespectful\" treatment of Anne Frank, and the show provoked a petition to stop its opening entirely.\nIn May 2026, a Slam Frank cast album became available on Bandcamp to those who had donated to the musical's official Kickstarter page, featuring vocals from the original 2025 Off-Broadway cast. \nIn June 2026, the producers announced that Slam Frank would return Off-Broadway at the Orpheum Theatre, with an opening night scheduled for September 11, 2026. Producers also stated that they hoped the engagement would lead to a future Broadway transfer.",
+        "source_url": "https://en.wikipedia.org/wiki/Slam_Frank",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-five-o-clock-girl": {
+      "slug": "the-five-o-clock-girl",
+      "title": "The Five O'Clock Girl",
+      "qid": "Q7734289",
+      "enwiki": "The Five O'Clock Girl",
+      "composers": [
+        {
+          "name": "Harry Ruby",
+          "qid": "Q507947",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6141"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Bert Kalmar",
+          "qid": "Q655221",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4504"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Guy Bolton",
+          "qid": "Q924974",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4575"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3586",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Five_O'Clock_Girl",
+        "wikidata": "https://www.wikidata.org/wiki/Q7734289"
+      },
+      "summary": {
+        "text": "The Five O'Clock Girl is a musical with a book by Guy Bolton and Fred Thompson, music by Harry Ruby, and lyrics by Bert Kalmar. Set in New York City and South Hampton, Long Island, it focuses on wealthy Beekman Place playboy Gerald Brooks and impoverished shopgirl Patricia Brown, who become acquainted with each other via a series of anonymous five o'clock phone conversations.\nThe original Broadway production opened at the 44th Street Theatre on October 10, 1927. On April 16, 1928, it transferred to the Shubert Theatre, where it completed its total run of 280 performances on June 2. Directed by John Harwood and choreographed by Jack Haskell, it starred Oscar Shaw as Gerald Brooks, Mary Eaton as Patricia Brown, Pert Kelton as Susan Snow, and Danny Dare as Ronnie Webb. Costume design was by Charles LeMaire, and Norman Bel Geddes was the scenic designer.\nA West End production opened at the London Hippodrome on March 21, 1929.\nThe musical was staged at the Goodspeed Opera House in East Haddam, Connecticut and the Walnut Street Theatre in Philadelphia before returning to Broadway, where it ran for six previews and 14 performances at the Helen Hayes Theatre between January 22 and February 8, 1981. Directed by Sue Lawless and choreographed by Dan Siretta, the cast included Lisby Larson, Richard Ruth, Roger Rathburn, Dee Hoty, and Pat Stanley. In his review in The New York Times, Frank Rich called it \"amiably silly\" and said it \"is not without passing interest as an arcane footnote to theatrical history, but as entertainment in 1981 it's a pretty slim affair.\" He added, \"The show's book is tiresomely long, and its gags are unshucked corn. Pretty soon we're living just for the songs, and very few of them prove to be worth living for.\"",
+        "source_url": "https://en.wikipedia.org/wiki/The_Five_O'Clock_Girl",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-irish-and-how-they-got-that-way": {
+      "slug": "the-irish-and-how-they-got-that-way",
+      "title": "The Irish... and How They Got That Way",
+      "qid": "Q17151390",
+      "enwiki": "The Irish... and How They Got That Way",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Frank McCourt",
+          "qid": "Q208869"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": "Irish Repertory Theatre"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Irish..._and_How_They_Got_That_Way",
+        "wikidata": "https://www.wikidata.org/wiki/Q17151390"
+      },
+      "summary": {
+        "text": "The Irish… and How They Got That Way is an American Off-Broadway musical first performed in 1997 at the Irish Repertory Theatre. Based on a book by Frank McCourt, the play featured an eclectic mix of Irish music ranging from the traditional \"Danny Boy\" to U2's \"I Still Haven't Found What I'm Looking For.\"",
+        "source_url": "https://en.wikipedia.org/wiki/The_Irish..._and_How_They_Got_That_Way",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-kid": {
+      "slug": "the-kid",
+      "title": "The Kid",
+      "qid": "Q7744220",
+      "enwiki": "The Kid (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "http://thekidthemusical.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Kid_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7744220"
+      },
+      "summary": {
+        "text": "The Kid is a musical with a book by Michael Zam, music composed by Andy Monroe and lyrics by Jack Lechner.  The comic story concerns an open adoption process by a same-sex couple. It is based on the 1999 non-fiction book by Dan Savage, The Kid: What Happened After My Boyfriend and I Decided to Go Get Pregnant.  The protagonist, Dan, is a sex advice columnist who decides to adopt a child with his partner Terry. Throughout the musical the couple encounter difficulties including making the decision to adopt, finding a birth mother, and overcoming apprehension about the adoption process.\nThe musical premiered on May 10, 2010 Off-Broadway, starring Christopher Sieber as Dan.  It received a generally favorable reception and received five Drama Desk Award nominations in 2011, including Outstanding Musical, Outstanding Lyrics and Outstanding Book of a Musical.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Kid_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-mountains-of-madness": {
+      "slug": "the-mountains-of-madness",
+      "title": "The Mountains of Madness",
+      "qid": "Q16387128",
+      "enwiki": "The Mountains of Madness",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2005",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Mountains_of_Madness",
+        "wikidata": "https://www.wikidata.org/wiki/Q16387128"
+      },
+      "summary": {
+        "text": "The Mountains of Madness is an audiovisual musical adaptation of the works of H. P. Lovecraft by Tiger Lillies, Danielle de Picciotto and Alexander Hacke. It was conceived by Hacke in 2005. Tiger Lillies performs the music with narration by Hacke from selections of Lovecraft's stories.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Mountains_of_Madness",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "viet-rock": {
+      "slug": "viet-rock",
+      "title": "Viet Rock",
+      "qid": "Q7928446",
+      "enwiki": "Viet Rock",
+      "composers": [
+        {
+          "name": "Marianne de Pury",
+          "qid": "Q6762292"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Megan Terry",
+          "qid": "Q15485881"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Viet_Rock",
+        "wikidata": "https://www.wikidata.org/wiki/Q7928446"
+      },
+      "summary": {
+        "text": "Viet Rock is a rock musical by Megan Terry that served as inspiration to the musical Hair. A violent denunciation of the American involvement in the Vietnam War, the play was described by its author as a \"folk war movie\" comprising scenes of disillusionment and protest to the American military presence in Southeast Asia. Viet Rock is widely considered to be the first rock musical written and performed in the United States, as well as the first protest play about Vietnam. Its premiere also marks the first major theatre production in the United States in which actors left the stage to interact directly with the audience.\nThe play was initially developed in 1965 and 1966 during collaborative workshops at New York City's The Open Theater under the leadership of Joseph Chaikin and Peter Feldman. The company performed improvisations based on accounts of the Vietnam War, and Terry wrote and directed a full-length show based on these improvisations. The music was composed by Marianne de Pury, who developed the songs during the  workshops. It opened at La MaMa Experimental Theatre Club on May 18, 1966.\nThe play then had a two-week run at the Yale Repertory Theatre before its off-Broadway premiere at the Martinique Theatre on November 10, 1966. It closed at the Martinique on December 31 after 62 performances.\nThe play was also performed at the University of Arkansas, Fayetteville, directed by R. J Quinn in 1973. It was a bold move by Quinn to state his objection to the war at the time as it had no foreseen end and the University had a ROTC program fully supported by the University administration.   \nOne of the leading cast members was Gerome Ragni, who would go on to create the musical Hair with fellow actor James Rado. In developing Hair, Ragni borrowed the anti-war theme, as well as the experimental technique of improvisational exercises, from the production of Viet Rock.",
+        "source_url": "https://en.wikipedia.org/wiki/Viet_Rock",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

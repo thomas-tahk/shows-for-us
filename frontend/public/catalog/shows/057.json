@@ -1,0 +1,900 @@
+{
+  "live": true,
+  "shows": {
+    "ages-ago": {
+      "slug": "ages-ago",
+      "title": "Ages Ago",
+      "qid": "Q4692141",
+      "enwiki": "Ages Ago",
+      "composers": [
+        {
+          "name": "Frederic Clay",
+          "qid": "Q5497008"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "W. S. Gilbert",
+          "qid": "Q348513",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5905"
+        }
+      ],
+      "premiere": {
+        "date": "1869-11-22",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Ages_Ago",
+        "wikidata": "https://www.wikidata.org/wiki/Q4692141"
+      },
+      "summary": {
+        "text": "Ages Ago, sometimes stylised as Ages Ago! or Ages Ago!!, is a musical entertainment with a libretto by W. S. Gilbert and music by Frederic Clay that premiered on 22 November 1869 at the Royal Gallery of Illustration. It marked the beginning of a seven-year collaboration between Gilbert and Clay. The piece was a critical and popular success and was revived many times, including at St. George's Hall, London in 1870 and 1874, and in New York in 1880.",
+        "source_url": "https://en.wikipedia.org/wiki/Ages_Ago",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "angel-in-the-wings": {
+      "slug": "angel-in-the-wings",
+      "title": "Angel in the Wings",
+      "qid": "Q48977927",
+      "enwiki": "Angel in the Wings",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1590",
+        "wikipedia": "https://en.wikipedia.org/wiki/Angel_in_the_Wings",
+        "wikidata": "https://www.wikidata.org/wiki/Q48977927"
+      },
+      "summary": {
+        "text": "Angel in the Wings is a 1947 musical revue with songs by Bob Hilliard and Carl Sigman and sketches by Hank Ladd, Ted Luce, Paul Hartman, and Grace Hartman.",
+        "source_url": "https://en.wikipedia.org/wiki/Angel_in_the_Wings",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "big": {
+      "slug": "big",
+      "title": "Big",
+      "qid": "Q4904852",
+      "enwiki": "Big (musical)",
+      "composers": [
+        {
+          "name": "David Shire",
+          "qid": "Q719035",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12400"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Richard Maltby, Jr.",
+          "qid": "Q7327614",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11088"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "John Weidman",
+          "qid": "Q6263373",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6914"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2001",
+        "wikipedia": "https://en.wikipedia.org/wiki/Big_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4904852"
+      },
+      "summary": {
+        "text": "Big The Musical is a 1996 musical adaptation of the 1988 film starring Tom Hanks. It was directed by Mike Ockrent and featured music by David Shire and lyrics by Richard Maltby, Jr., with choreography by Susan Stroman. It involves Josh Baskin, a 12-year-old boy who grows up overnight after being granted a wish by a Zoltar Speaks machine at a carnival. With the aid of his best friend, Billy, he must cope with his new adulthood while finding the machine so that he can wish himself back and more.",
+        "source_url": "https://en.wikipedia.org/wiki/Big_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "blast": {
+      "slug": "blast",
+      "title": "Blast!",
+      "qid": "Q1976086",
+      "enwiki": "Blast! (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/10513",
+        "wikipedia": "https://en.wikipedia.org/wiki/Blast!_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1976086"
+      },
+      "summary": {
+        "text": "Blast! is a Broadway production created by James Mason for Cook Group Incorporated, the director and organization formerly operating the Star of Indiana Drum and Bugle Corps. \nIt was the 2001 winner of the Tony Award for Best Special Theatrical Event, and simultaneously received an Emmy Award nomination for and won the 2001 Primetime Emmy Award for Outstanding Choreography.\nBlast!'s instrumentation is exclusively brass and percussion, a nod to the show's roots in the drum and bugle corps activity. Blast!'s performers use trumpets, flugelhorns, mellophones, baritone horns, tubas, and a full complement of percussion instruments including snare drums, tenor drums, bass drums, xylophones, vibraphones, marimbas, timpani, and other standard percussion equipment. In addition, Blast! adds instruments not normally found in drum corps, such as French horns, concert euphoniums, trombones (including one on a unicycle during \"Gee, Officer Krupke\") and bass trombones, didgeridoos and synthesizers. \nBlast! II Shockwave was written to include woodwind instruments, such as flute and saxophone. Accompanying the wind and percussion is the Visual Ensemble (or VE), a group of dancers who manipulate a variety of props, similar to a color guard.",
+        "source_url": "https://en.wikipedia.org/wiki/Blast!_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "coco": {
+      "slug": "coco",
+      "title": "Coco",
+      "qid": "Q2981318",
+      "enwiki": "Coco (musical)",
+      "composers": [
+        {
+          "name": "André Previn",
+          "qid": "Q155712",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12263"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Alan Jay Lerner",
+          "qid": "Q961893",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3945"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Alan Jay Lerner",
+          "qid": "Q961893",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3945"
+        }
+      ],
+      "premiere": {
+        "date": "1969-12-18",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2652",
+        "wikipedia": "https://en.wikipedia.org/wiki/Coco_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q2981318"
+      },
+      "summary": {
+        "text": "Coco is a 1969 Broadway musical with a book and lyrics by Alan Jay Lerner and music by André Previn, inspired by the life of Coco Chanel. Katharine Hepburn starred in the title role, her first and only in a stage musical.",
+        "source_url": "https://en.wikipedia.org/wiki/Coco_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "come-summer": {
+      "slug": "come-summer",
+      "title": "Come Summer",
+      "qid": "Q5151280",
+      "enwiki": "Come Summer",
+      "composers": [],
+      "lyricists": [
+        {
+          "name": "Will Holt",
+          "qid": "Q8002873",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6327"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Will Holt",
+          "qid": "Q8002873",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6327"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2682",
+        "wikipedia": "https://en.wikipedia.org/wiki/Come_Summer",
+        "wikidata": "https://www.wikidata.org/wiki/Q5151280"
+      },
+      "summary": {
+        "text": "Come Summer is a Broadway musical with a book and lyrics by Will Holt and music by David Baker, based on Rainbow on the Road by Esther Forbes and vocal arrangements by Trude Rittmann. The original Broadway production opened on March 18, 1969 at the Lunt-Fontanne Theatre starring, Ray Bolger, Leonard John Crofoot, David Cryer, Cathryn Damon, Margaret Hamilton, and Barbara Sharma. Directed by Agnes de Mille it closed after 7 performances on March 22, 1969. Despite its short run, David Cryer won the 1969 Theatre World Award.\nThe story tells of an itinerant peddlar in 19th century New England, and the people whose lives he affects.\nBehind the scenes, the musical was a disaster.  Ray Bolger demanded that the producers expand his role; several rewrites later, de Mille herself was fired and replaced by Burt Shevelove.  Only a few days after that, Shevelove exited, and \"the producers asked Agnes to come back, but only to choreograph.\"  De Mille's assistant director, James Mitchell, turned down the director's chair, but became the de facto director anyway.  As a result, \"neither she [de Mille] nor anyone else could say who directed the show.\"  Come Summer turned out to be de Mille's final Broadway production.",
+        "source_url": "https://en.wikipedia.org/wiki/Come_Summer",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "gettin-the-band-back-together": {
+      "slug": "gettin-the-band-back-together",
+      "title": "Gettin' the Band Back Together",
+      "qid": "Q24910808",
+      "enwiki": "Gettin' the Band Back Together",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "http://www.gettinthebandbacktogether.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/Gettin'_the_Band_Back_Together",
+        "wikidata": "https://www.wikidata.org/wiki/Q24910808"
+      },
+      "summary": {
+        "text": "Gettin' the Band Back Together is a musical with music and lyrics by Mark Allen and a book by Ken Davenport and the Grundleshotz, a group of performers and writers including Sebastian Arcelus, Fred Berman, Michael Hirstreet, Jenna Coker Jones, Craig Jorczak, Nathan Kaufman, Jay Klaitz, Emily McNamara, Jennifer Miller, Bhavesh Patel, Sarah Saltzberg and Fletcher Young.",
+        "source_url": "https://en.wikipedia.org/wiki/Gettin'_the_Band_Back_Together",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "hair": {
+      "slug": "hair",
+      "title": "Hair",
+      "qid": "Q1165499",
+      "enwiki": "Hair (musical)",
+      "composers": [
+        {
+          "name": "Galt MacDermot",
+          "qid": "Q1346345",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12086"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Gerome Ragni",
+          "qid": "Q329904",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5895"
+        },
+        {
+          "name": "James Rado",
+          "qid": "Q330447",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6628"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Gerome Ragni",
+          "qid": "Q329904",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5895"
+        },
+        {
+          "name": "James Rado",
+          "qid": "Q330447",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6628"
+        }
+      ],
+      "premiere": {
+        "date": "1969",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4153",
+        "playbill": "https://playbill.com/production/hair-biltmore-theatre-vault-0000001544",
+        "official_site": "http://www.hairthemusical.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/Hair_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1165499"
+      },
+      "summary": {
+        "text": "Hair: The American Tribal Love-Rock Musical is a rock musical with a book and lyrics by Gerome Ragni and James Rado and music by Galt MacDermot. The work reflects the creators' observations of the hippie counterculture and sexual revolution of the late 1960s, and several of its songs became anthems of the anti-Vietnam War movement. The musical's profanity, its depiction of the use of illegal drugs, its treatment of sexuality, its irreverence for the American flag, and its nude scene caused controversy. The work broke new ground in musical theatre by defining the genre of \"rock musical\", using a racially integrated cast, and inviting the audience onstage for a \"Be-In\" finale.\nHair tells the story of the \"tribe\", a group of politically active, long-haired hippies of the \"Age of Aquarius\" living a bohemian life in New York City and fighting against conscription into the Vietnam War. Claude, his friend Berger, their roommate Sheila and their friends struggle to balance their young lives, loves and the sexual revolution with their rebellion against the war and their conservative parents and society. Ultimately, Claude must decide whether to resist the draft, as his friends have done, or serve in Vietnam, compromising his pacifist principles and risking his life.\nAfter an off-Broadway debut on October 17, 1967, at Joseph Papp's Public Theater, and a run at the Cheetah nightclub from December 1967 through January 1968, the show opened on Broadway in April 1968 and ran for 1,750 performances. Simultaneous productions in cities across the United States and Europe followed shortly thereafter, including a London production that ran for 1,997 performances. Since then, productions have been staged around the world, spawning dozens of recordings, including the 3 million-selling original Broadway cast recording. Some of the songs became Top 10 hits, and a feature film adaptation was released in 1979. A Broadway revival opened in 2009, earning strong reviews and winning the Tony Award and Drama Desk Award for Best Revival of a Musical. In 2008, Richard Zoglin wrote in Time that \"Today Hair seems, if anything, more daring than ever.\"",
+        "source_url": "https://en.wikipedia.org/wiki/Hair_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "how-now-dow-jones": {
+      "slug": "how-now-dow-jones",
+      "title": "How Now, Dow Jones",
+      "qid": "Q5918043",
+      "enwiki": "How Now, Dow Jones",
+      "composers": [
+        {
+          "name": "Elmer Bernstein",
+          "qid": "Q111436",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11383"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Carolyn Leigh",
+          "qid": "Q4257369",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13033"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Max Shulman",
+          "qid": "Q6795240",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7662"
+        }
+      ],
+      "premiere": {
+        "date": "1967-12",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4550",
+        "wikipedia": "https://en.wikipedia.org/wiki/How_Now%2C_Dow_Jones",
+        "wikidata": "https://www.wikidata.org/wiki/Q5918043"
+      },
+      "summary": {
+        "text": "How Now, Dow Jones is a musical comedy by Academy Award winner Elmer Bernstein, Tony Award nominee Carolyn Leigh and Max Shulman. The original Broadway production opened in December 1967. A critically acclaimed revised version premiered off-Broadway in August 2009.\nHow Now, Dow Jones, set in Wall Street, follows Kate who announces the Dow Jones numbers. Her fiancé will not marry her until the Dow Jones Industrial Average hits 1,000.",
+        "source_url": "https://en.wikipedia.org/wiki/How_Now%2C_Dow_Jones",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "jonah": {
+      "slug": "jonah",
+      "title": "Jonah",
+      "qid": "Q20874823",
+      "enwiki": "Jonah (Romeril musical)",
+      "composers": [
+        {
+          "name": "Alan John",
+          "qid": "Q4706975"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "John Romeril",
+          "qid": "Q6255535"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "John Romeril",
+          "qid": "Q6255535"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Jonah_(Romeril_musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q20874823"
+      },
+      "summary": {
+        "text": "Jonah (originally titled Jonah Jones) is an Australian musical with book and lyrics by John Romeril and music by Alan John. It is based on the 1911 novel Jonah by Australian writer Louis Stone. Set in the inner suburbs of Sydney in the thirty years prior to World War I, the musical is an ironic story of the capitalist rise of a hunchback shoe repairer from a leader of a local Push to an industrial magnate.\nThe musical was commissioned by the Sydney Theatre Company and first produced in 1985 after having been in development for six years.",
+        "source_url": "https://en.wikipedia.org/wiki/Jonah_(Romeril_musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "mack-and-mabel": {
+      "slug": "mack-and-mabel",
+      "title": "Mack and Mabel",
+      "qid": "Q13645734",
+      "enwiki": "Mack and Mabel",
+      "composers": [
+        {
+          "name": "Jerry Herman",
+          "qid": "Q1363692",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6278"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Jerry Herman",
+          "qid": "Q1363692",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6278"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Michael Stewart",
+          "qid": "Q6834631",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7748"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5683",
+        "wikipedia": "https://en.wikipedia.org/wiki/Mack_and_Mabel",
+        "wikidata": "https://www.wikidata.org/wiki/Q13645734"
+      },
+      "summary": {
+        "text": "Mack & Mabel is a musical with a book by Michael Stewart and music and lyrics by Jerry Herman.  The plot involves the tumultuous romantic relationship between Hollywood director Mack Sennett and Mabel Normand (transformed from an artist's model to a waitress from Flatbush, Brooklyn, for the musical), who became one of his biggest stars.  In a series of flashbacks, Sennett relates the glory days of Keystone Studios from 1911, when he discovered Normand and cast her in dozens of his early \"two-reelers\", through his creation of Sennett's Bathing Beauties and the Keystone Cops to Mabel's death from tuberculosis in 1930.\nThe original 1974 Broadway production produced by David Merrick starred Robert Preston and Bernadette Peters.  It received eight Tony Award nominations, including Best Musical, but did not win any.  There was no nomination for Jerry Herman's score.  Although the original production closed after only eight weeks, the songs were praised, and subsequent productions, especially in Britain, have had success.",
+        "source_url": "https://en.wikipedia.org/wiki/Mack_and_Mabel",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "marriage-a-la-carte": {
+      "slug": "marriage-a-la-carte",
+      "title": "Marriage a la Carte",
+      "qid": "Q6772858",
+      "enwiki": "Marriage a la Carte",
+      "composers": [
+        {
+          "name": "Ivan Caryll",
+          "qid": "Q3156080",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11499"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "C. M. S. McLellan",
+          "qid": "Q5006692",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6397"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5888",
+        "wikipedia": "https://en.wikipedia.org/wiki/Marriage_a_la_Carte",
+        "wikidata": "https://www.wikidata.org/wiki/Q6772858"
+      },
+      "summary": {
+        "text": "Marriage a la Carte is a three-act Broadway musical comedy composed and written by C. M. S. McLellan and scored by Ivan Caryll. The play was staged by Austen Hurgon with musical direction provided by J. Sebastian Hiller and Carl H. Engel. Marriage a la Carte opened on January 2, 1911 at the Casino Theatre and had a run of 64 performances.",
+        "source_url": "https://en.wikipedia.org/wiki/Marriage_a_la_Carte",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "mozart-l-opera-rock": {
+      "slug": "mozart-l-opera-rock",
+      "title": "Mozart, l'opéra rock",
+      "qid": "Q1321558",
+      "enwiki": "Mozart, l'opéra rock",
+      "composers": [
+        {
+          "name": "Dove Attia",
+          "qid": "Q3038273"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Dove Attia",
+          "qid": "Q3038273"
+        }
+      ],
+      "premiere": {
+        "date": "2009-09-22",
+        "venue": "Palais des Sports"
+      },
+      "awards": [
+        {
+          "name": "NRJ Music Award de la chanson francophone de l'année",
+          "qid": "Q3334528"
+        },
+        {
+          "name": "NRJ Music Award du groupe/duo/troupe francophone de l'année",
+          "qid": "Q3334536"
+        }
+      ],
+      "links": {
+        "official_site": "http://www.mozartloperarock.fr/prehome.html",
+        "wikipedia": "https://en.wikipedia.org/wiki/Mozart%2C_l'op%C3%A9ra_rock",
+        "wikidata": "https://www.wikidata.org/wiki/Q1321558"
+      },
+      "summary": {
+        "text": "Mozart, l'opéra rock (\"Mozart, the rock opera\") is a French musical with music by Dove Attia, Jean-Pierre Pilot, Olivier Schultheis, William Rousseau, Nicolas Luciani, Rodrigue Janois and François Castello, lyrics by Vincent Baguian and Patrice Guirao and a book by Attia and François Chouquet. The show is a dramatization of the life of Wolfgang Amadeus Mozart (portrayed by Mikelangelo Loconte), beginning from the age of 17 and culminating with his death in 1791 at the age of 35. It uses both original pop-rock compositions as well as pre-existing music composed by Mozart and other composers, including Antonio Salieri.",
+        "source_url": "https://en.wikipedia.org/wiki/Mozart%2C_l'op%C3%A9ra_rock",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "mr-wonderful": {
+      "slug": "mr-wonderful",
+      "title": "Mr. Wonderful",
+      "qid": "Q6929302",
+      "enwiki": "Mr. Wonderful (musical)",
+      "composers": [
+        {
+          "name": "Jerry Bock",
+          "qid": "Q725042",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/69330"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Jerry Bock",
+          "qid": "Q725042",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/69330"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Joseph Stein",
+          "qid": "Q1361175",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6978"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6298",
+        "wikipedia": "https://en.wikipedia.org/wiki/Mr._Wonderful_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6929302"
+      },
+      "summary": {
+        "text": "Mr. Wonderful is a musical with a book by Joseph Stein and Will Glickman, and music and lyrics by Jerry Bock, Larry Holofcener, and George David Weiss.\nWritten specifically to showcase the talents of Sammy Davis Jr., the thin plot, focusing on entertainer Charlie Welch's show business struggles, primarily served as a springboard for an extended version of Davis's Las Vegas nightclub act.\nThe Broadway production, staged by Jack Donohue, opened on March 22, 1956, at The Broadway Theatre, following a tryout in Philadelphia on February 20, 1956. In addition to Davis, the cast included his father Sammy Sr. and uncle Will (who together with Davis had performed as the Will Mastin Trio), Olga James, Jack Carter, Chita Rivera, Malcolm Lee Beggs, Marilyn Cooper and Patricia Marshall. \nThe Broadway production was panned by critics but surprised everyone, including the producers, to go on to be a commercial success, recouping its $225,000 investment. Davis had initially signed a contract for one year but, with the poor critical reception, made other commitments for the following year and, as he was considered irreplaceable, the play closed on February 23, 1957, after 383 performances.",
+        "source_url": "https://en.wikipedia.org/wiki/Mr._Wonderful_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "runaways": {
+      "slug": "runaways",
+      "title": "Runaways",
+      "qid": "Q7379684",
+      "enwiki": "Runaways (musical)",
+      "composers": [
+        {
+          "name": "Elizabeth Swados",
+          "qid": "Q5363595",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5358"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Elizabeth Swados",
+          "qid": "Q5363595",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5358"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Elizabeth Swados",
+          "qid": "Q5363595",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5358"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7681",
+        "wikipedia": "https://en.wikipedia.org/wiki/Runaways_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7379684"
+      },
+      "summary": {
+        "text": "Runaways is a musical which was written, composed, choreographed and directed by Elizabeth Swados, about the lives of children who run away from home and live on the city streets.  The characters were taken from workshops conducted by Swados with real-life runaways in the late 1970s.",
+        "source_url": "https://en.wikipedia.org/wiki/Runaways_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "sancho-panza-the-musical": {
+      "slug": "sancho-panza-the-musical",
+      "title": "Sancho Panza the Musical",
+      "qid": "Q18164356",
+      "enwiki": "Sancho Panza the Musical",
+      "composers": [
+        {
+          "name": "José Luis Narom",
+          "qid": "Q28853755"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Sancho_Panza_the_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q18164356"
+      },
+      "summary": {
+        "text": "Sancho Panza the Musical (originally titled Sancho Panza el Musical in Spanish) is a two-act musical that premiered in Madrid in 2005, coinciding with the 400th anniversary of the publication of Don Quixote. by Miguel de Cervantes. The play is humorous take on the social landscape of the 16th and 17th centuries, including the era's customs, beliefs, professions, and trades, that updates the original story by displaying it in the looks and forms of the 21st century.\nThe play debuted at the Teatro Nuevo Apolo with music and original lyrics created by José Luis Narom. Narom collaborated with his wife, lyricist and costume designer Inma González (image designer and production manager on \"The Blackout\"). Narom created the play's music in the style of Broadway musicals, with full orchestrations.\nThe musical was included in the book Don Quixote literary theoretical thinking, as well as in the Guide to Musical Theater in Spain (1955–2012). edited by Xavier Martínez and Íñigo Santamaría.",
+        "source_url": "https://en.wikipedia.org/wiki/Sancho_Panza_the_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "ser-minas-tao-gerais": {
+      "slug": "ser-minas-tao-gerais",
+      "title": "Ser Minas Tão Gerais",
+      "qid": "Q113297806",
+      "enwiki": "Ser Minas Tão Gerais",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Ser_Minas_T%C3%A3o_Gerais",
+        "wikidata": "https://www.wikidata.org/wiki/Q113297806"
+      },
+      "summary": {
+        "text": "Ser Minas Tão Gerais is a piece of musical theater first produced by the group Ponto de Partida in 2002, written and directed by Regina Bertola. The play is based on the poetry of Carlos Drummond de Andrade and Milton Nascimento, and is rich with cultural references of Minas Gerais.\nThe music, directed by Gilvan de Oliveira, included Milton Nascimento and the Meninos do Araçuaí boys chorus.",
+        "source_url": "https://en.wikipedia.org/wiki/Ser_Minas_T%C3%A3o_Gerais",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "surviving-the-nian": {
+      "slug": "surviving-the-nian",
+      "title": "Surviving the Nian",
+      "qid": "Q7647243",
+      "enwiki": "Surviving the Nian",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Surviving_the_Nian",
+        "wikidata": "https://www.wikidata.org/wiki/Q7647243"
+      },
+      "summary": {
+        "text": "Surviving the Nian is an American musical written by Melissa Li (music, lyrics and book) and Abe Rybeck (book). The world premier on April 14, 2007 was directed by Patrick Wang, staged at the Boston Center for the Arts, and produced by The Theater Offensive.\nThe story of the play involves Kaylin, a Hong Kong native, returning home for a two-week vacation after having spent five years in the US. She is travelling with her lover, Asha, but her family knows neither that the two are lesbians nor that Asha is African American. The \"nian\" of the title refers to a mystical beast and also to the Chinese New Year festival in which they will be participating.\nLi began writing the musical when she was just 19 and worked on it for four years before its premier. She had met Rybeck when she was 17 and participating in The Theatre Offensive's True Colors Out Youth Theater Troupe. The musical was developed through the Plays at Work play development program of The Theater Offensive.",
+        "source_url": "https://en.wikipedia.org/wiki/Surviving_the_Nian",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "tammy-faye": {
+      "slug": "tammy-faye",
+      "title": "Tammy Faye",
+      "qid": "Q113859093",
+      "enwiki": "Tammy Faye (musical)",
+      "composers": [
+        {
+          "name": "Elton John",
+          "qid": "Q2808",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11938"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Jake Shears",
+          "qid": "Q460908",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/516859"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": "2022-10-13",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Tammy_Faye_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q113859093"
+      },
+      "summary": {
+        "text": "Tammy Faye is a biographic stage musical with music by Elton John, lyrics by Jake Shears and a book by James Graham, based on the life of Tammy Faye Bakker.",
+        "source_url": "https://en.wikipedia.org/wiki/Tammy_Faye_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-gay-parisienne": {
+      "slug": "the-gay-parisienne",
+      "title": "The Gay Parisienne",
+      "qid": "Q7735996",
+      "enwiki": "The Gay Parisienne",
+      "composers": [
+        {
+          "name": "Ivan Caryll",
+          "qid": "Q3156080",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11499"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "George Dance",
+          "qid": "Q5538363",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5799"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "George Dance",
+          "qid": "Q5538363",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5799"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/407983",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Gay_Parisienne",
+        "wikidata": "https://www.wikidata.org/wiki/Q7735996"
+      },
+      "summary": {
+        "text": "The Gay Parisienne is an Edwardian musical comedy in two acts with a libretto by George Dance.  It premiered at the Opera House in Northampton, England, in October 1894, with music by Ernest Rousden. It was revived in London (after a tryout in a smaller London theatre in March 1896) on 4 April 1896, with music by Ivan Caryll, where it ran for 369 performances at the Duke of York's Theatre, starring W. H. Denny as Major Fossdyke, Frank Wheeler as Auguste and Ada Reeve as Julie.\nThe piece toured internationally, adapted in New York with new songs and material by Edgar Smith and Nat. D. Mann as The Girl from Paris, opening on 8 December 1896, at the Herald Square Theatre and running for 266 or 281 performances (sources differ) and then touring. This was the first of about 250 productions in America directed by Frank Smithson, many of them for Broadway. Smithson also portrayed Major Fossdyke in the Broadway cast, and Josephine Hall, as the servant Ruth, achieved fame for her performance of the song \"Sister Mary Jane's Top Note\". The Girl from Paris was later revived at Wallack's Theatre in New York. The original version played on the European continent and Australia as The Gay Parisienne.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Gay_Parisienne",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-light-in-the-piazza": {
+      "slug": "the-light-in-the-piazza",
+      "title": "The Light in the Piazza",
+      "qid": "Q7747285",
+      "enwiki": "The Light in the Piazza (musical)",
+      "composers": [
+        {
+          "name": "Adam Guettel",
+          "qid": "Q4679169",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/80817"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Adam Guettel",
+          "qid": "Q4679169",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/80817"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Craig Lucas",
+          "qid": "Q5181167",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4924"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/390705",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Light_in_the_Piazza_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7747285"
+      },
+      "summary": {
+        "text": "The Light in the Piazza is a musical with music and lyrics by Adam Guettel, and a book by Craig Lucas. \nBased on the 1960 novella by Elizabeth Spencer, the show is set in the 1950s and tells the story of Margaret Johnson, a wealthy woman from the American South, and Clara, her daughter, who is developmentally disabled due to a childhood accident. The two spend a summer together in Florence, Italy. When Clara falls in love with a young Italian man, Fabrizio, Margaret is forced to reconsider not only Clara's future, but her own deep-seated hopes and regrets as well.\nThe score breaks from the 21st century tradition of pop music on Broadway by moving into the territory of Neoromantic classical music and opera, with unexpected harmonic shifts and extended melodic structures, and is more heavily orchestrated than most Broadway scores. Many of the lyrics are in Italian or broken English, as many of the characters are fluent only in Italian.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Light_in_the_Piazza_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "title-of-show": {
+      "slug": "title-of-show",
+      "title": "Title of show",
+      "qid": "Q7810131",
+      "enwiki": "Title of show",
+      "composers": [
+        {
+          "name": "Jeff Bowen",
+          "qid": "Q6173387",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/453598"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Jeff Bowen",
+          "qid": "Q6173387",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/453598"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Hunter Bell",
+          "qid": "Q5944261",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/453594"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/478456",
+        "official_site": "http://titleofshow.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Title_of_show",
+        "wikidata": "https://www.wikidata.org/wiki/Q7810131"
+      },
+      "summary": {
+        "text": "[title of show] is a one-act musical, with music and lyrics by Jeff Bowen and a book by Hunter Bell. The show chronicles its own creation as an entry in the New York Musical Theatre Festival, and follows the struggles of the author and composer/lyricist and their two actress friends during the initial brief (three-week) creative period, along with subsequent events leading up to the show's production.\n[title of show] was chosen for production by the Musical Theatre Festival and premiered there, in September 2004, in New York City. It later ran off-Broadway at the Vineyard Theatre in 2006, earning a second limited run the same year, then played at Broadway's Lyceum Theatre in 2008 for 13 previews and 102 regular performances. Writer/stars Bowen and Bell, as well as director Michael Berresse all won Obie Awards for their work on the off-Broadway production, and Bell was nominated for a Tony Award for Best Book of a Musical.\nThe musical spawned a recurring video blog about the show's journey to Broadway called The [title of show] Show.",
+        "source_url": "https://en.wikipedia.org/wiki/Title_of_show",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "tuck-everlasting": {
+      "slug": "tuck-everlasting",
+      "title": "Tuck Everlasting",
+      "qid": "Q23092132",
+      "enwiki": "Tuck Everlasting (musical)",
+      "composers": [],
+      "lyricists": [
+        {
+          "name": "Nathan Tysen",
+          "qid": "Q6969389",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/501952"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Nathan Tysen",
+          "qid": "Q6969389",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/501952"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/501948",
+        "official_site": "http://www.tuckeverlastingmusical.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/Tuck_Everlasting_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q23092132"
+      },
+      "summary": {
+        "text": "Tuck Everlasting is a musical based upon the American children's novel Tuck Everlasting by Natalie Babbitt. It features music by Chris Miller, lyrics by Nathan Tysen and a book by Claudia Shear and Tim Federle, with direction and choreography by Casey Nicholaw. The musical had its premiere at the Alliance Theater in Atlanta, Georgia, in 2015. It began Broadway previews on March 31, 2016; and opened on April 26, 2016, at the Broadhurst Theatre, in New York City. The production closed on May 29, 2016, after 39 performances.",
+        "source_url": "https://en.wikipedia.org/wiki/Tuck_Everlasting_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "wolfboy": {
+      "slug": "wolfboy",
+      "title": "Wolfboy",
+      "qid": "Q8029962",
+      "enwiki": "Wolfboy",
+      "composers": [
+        {
+          "name": "Leon Parris",
+          "qid": "Q6524815"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Leon Parris",
+          "qid": "Q6524815"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Wolfboy",
+        "wikidata": "https://www.wikidata.org/wiki/Q8029962"
+      },
+      "summary": {
+        "text": "Wolfboy is a musical with music and lyrics by Leon Parris and book by Russell Labey, based on the play by Brad Fraser. Its story concerns two teenagers committed to an asylum: Bernie has tried to commit suicide and David believes he is a werewolf. The musical addresses psychiatric disorders, abuse, sexuality and loneliness. The original play was staged in Canada; a 1984 production is reported as Keanu Reeves' first stage role.\nThe musical premiered at the Edinburgh Fringe Festival in August 2009, and had a 2010 off-West End staging at Trafalgar Studios, in London.",
+        "source_url": "https://en.wikipedia.org/wiki/Wolfboy",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

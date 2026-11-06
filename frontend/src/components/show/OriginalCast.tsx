@@ -5,11 +5,11 @@ export default function OriginalCast({ cast }: { cast: CastCredit[] }) {
   if (cast.length === 0) return null
   return (
     <Section id="cast-h" title="Original cast">
-      <ul className="space-y-1 text-neutral-200">
+      <ul className="grid gap-x-8 gap-y-3 text-neutral-100 sm:grid-cols-2">
         {cast.map(c => (
           <li key={`${c.person}-${c.role}`} className="break-words">
-            <span className="font-semibold">{c.person}</span> &mdash; {c.role}
-            {c.production && <span className="text-neutral-400"> ({c.production})</span>}
+            <span className="block font-semibold text-white">{c.person}</span><span className="text-neutral-200">{c.role}</span>
+            {c.production && <span className="text-neutral-300"> ({c.production})</span>}
           </li>
         ))}
       </ul>

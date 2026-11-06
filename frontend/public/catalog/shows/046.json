@@ -1,0 +1,446 @@
+{
+  "live": true,
+  "shows": {
+    "a-wonderful-world": {
+      "slug": "a-wonderful-world",
+      "title": "A Wonderful World",
+      "qid": "Q125536136",
+      "enwiki": "A Wonderful World (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/538989",
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Wonderful_World_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q125536136"
+      },
+      "summary": {
+        "text": "A Wonderful World - The Louis Armstrong Musical is a jukebox stage musical with a book by Aurin Squire. The show features a score of music originally performed by Louis Armstrong and others, with orchestrations and arrangements by Branford Marsalis. The show was conceived originally by Christopher Renshaw and Andrew Delaplaine and is directed by Renshaw with choreography by Rickey Tripp.\nThe musical tells an autobiographical account of the life of jazz musician Louis Armstrong (1901–1971), from the perspective of the four wives he had during his lifetime, Daisy Parker, Lillian Hardin, Alpha Smith, and Lucille Wilson. The title comes from the song \"What a Wonderful World\", originally released in 1967 and written by Bob Thiele and George David Weiss.\nThe show opened on Broadway at Studio 54 on November 11, 2024, following previews beginning a month earlier. The show closed on February 23, 2025. The production ran for 151 performances, including 31 previews.",
+        "source_url": "https://en.wikipedia.org/wiki/A_Wonderful_World_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "arang": {
+      "slug": "arang",
+      "title": "Arang",
+      "qid": "Q138529686",
+      "enwiki": "Arang (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Arang_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q138529686"
+      },
+      "summary": {
+        "text": "Arang (Korean: 몽유도원; Hanja: 夢遊桃源; RR: Mongyudowon) is a South Korean musical based on the novella Mongyudowondo (몽유도원도) by South Korean novelist Choe Inho.\nThe musical premiered in November 2002 at the Opera Theater of the Seoul Arts Center. A substantially revised version opened in January 2026 at the National Theater of Korea.\nThe Korean title literally translates to \"Dream Journey to the Peach Blossom Paradise\", a reference to the classical motif of an idealized utopian realm. The English title Arang is derived from the name of the female protagonist.\nThe story is based on The Tale of Mrs. Domi, an old Korean folktale. While the original production portrayed Yeogyeong, the king Gaero of Paekche, as a morally corrupt ruler, the revised version restructures the narrative to place greater emphasis on Yeogyeong's psychological obsession with the woman seen in his dream and the resulting tragedy.",
+        "source_url": "https://en.wikipedia.org/wiki/Arang_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "goldilocks": {
+      "slug": "goldilocks",
+      "title": "Goldilocks",
+      "qid": "Q5580199",
+      "enwiki": "Goldilocks (musical)",
+      "composers": [
+        {
+          "name": "Leroy Anderson",
+          "qid": "Q366756",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11312"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Jean Kerr",
+          "qid": "Q10306550",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6680"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Jean Kerr",
+          "qid": "Q10306550",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6680"
+        },
+        {
+          "name": "Walter Kerr",
+          "qid": "Q7965342",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9034"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3983",
+        "wikipedia": "https://en.wikipedia.org/wiki/Goldilocks_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5580199"
+      },
+      "summary": {
+        "text": "Goldilocks is a musical with a book by Jean and Walter Kerr, music by Leroy Anderson, and lyrics by the Kerrs and Joan Ford.",
+        "source_url": "https://en.wikipedia.org/wiki/Goldilocks_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "harry-potter-and-the-cursed-child": {
+      "slug": "harry-potter-and-the-cursed-child",
+      "title": "Harry Potter and the Cursed Child",
+      "qid": "Q20711488",
+      "enwiki": "Harry Potter and the Cursed Child",
+      "composers": [
+        {
+          "name": "Imogen Heap",
+          "qid": "Q230484",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/514848"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2016-07-30",
+        "venue": "Palace Theatre"
+      },
+      "awards": [
+        {
+          "name": "Tony Award for Best Play",
+          "qid": "Q1799442"
+        },
+        {
+          "name": "Laurence Olivier Awards",
+          "qid": "Q28470"
+        },
+        {
+          "name": "Laurence Olivier Award for Best New Play",
+          "qid": "Q6500798"
+        }
+      ],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/514843",
+        "playbill": "https://playbill.com/production/harry-potter-and-the-cursed-child-coms-0000368673",
+        "official_site": "https://www.harrypottertheplay.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Cursed_Child",
+        "wikidata": "https://www.wikidata.org/wiki/Q20711488"
+      },
+      "summary": {
+        "text": "Harry Potter and the Cursed Child is a play written by Jack Thorne from an original story by Thorne, J. K. Rowling, and John Tiffany. The plot occurs nineteen years after the events of Rowling's novel Harry Potter and the Deathly Hallows. It follows Albus Severus Potter, the second son of Harry Potter, now the Head of the Department of Magical Law Enforcement at the Ministry of Magic. When Albus arrives at Hogwarts to get sorted into Gryffindor, he gets officially sorted into Slytherin and feels unable to live up to his father's legacy, making him resentful of his father.\nSince its premiere, Harry Potter and the Cursed Child has received mostly positive reviews from critics for its performances, story, illusions, and stage wizardry, though reception from the Harry Potter fandom was more polarised. The original West End production premiered at the Palace Theatre on 7 June 2016. It received a record-breaking (at the time) eleven nominations and won a to-this-day unprecedented tally of nine awards, including Best New Play, at the 2017 Laurence Olivier Awards. A Broadway production opened at the Lyric Theatre on 22 April 2018. That production received ten nominations and won six awards, including Best Play at the 2018 Tony Awards. An Australian production opened at the Princess Theatre in Melbourne, on 23 February 2019. A second American production opened in San Francisco at the Curran Theatre on 1 December 2019. The first non-Anglophone production opened at the Mehr! Theater in Hamburg, Germany, on 5 December 2021. A Canadian production opened at the Ed Mirvish Theatre in Toronto, on 19 June 2022. A Japanese production opened at the TBS Akasaka ACT Theater on 8 July 2022. A North American Tour began in September 2024 in Chicago's James M. Nederlander Theatre. The Tour also included shows in Los Angeles and Washington, D.C. Across all its productions worldwide, Harry Potter and the Cursed Child has sold over six million tickets.\nThe play was originally produced as a two-parter that could be viewed on the same day (i.e. in the afternoon and in the evening) or over two evenings. In June 2021, it was re-staged as a single 3½-hour show for future performances on Broadway in November 2021. In 2022, the San Francisco, Melbourne, Toronto, and Tokyo productions also adopted the one-part revision, with Hamburg following in 2023. The Broadway production currently has a shorter runtime of 2 hours and 55 minutes. The remaining two-part production in the West End closed on 20 September 2026 and re-opened as the one-part play on 9 October 2026.",
+        "source_url": "https://en.wikipedia.org/wiki/Harry_Potter_and_the_Cursed_Child",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "jabberwocky": {
+      "slug": "jabberwocky",
+      "title": "Jabberwocky",
+      "qid": "Q6110057",
+      "enwiki": "Jabberwocky (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Jabberwocky_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6110057"
+      },
+      "summary": {
+        "text": "Jabberwocky, an adult pantomime by Andrew Kay, Malcolm Middleton and Peter Phillips, is a musical based on the English 1871 poem of the same name by Lewis Carroll.\nThe music, book and lyrics are by Malcolm Middleton, Andrew Kay and Peter Philips, with additional material by Robert Kay and by many members of the original cast.\nThe plot takes the form of a quest, in which the Son searches for the Jabberwock and ultimately kills it.\nJabberwocky was originally presented at the Union Theatre, University of Sydney, in March, 1973.",
+        "source_url": "https://en.wikipedia.org/wiki/Jabberwocky_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "joy-bells": {
+      "slug": "joy-bells",
+      "title": "Joy Bells",
+      "qid": "Q16995492",
+      "enwiki": "Joy Bells",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Albert de Courville",
+          "qid": "Q4711536",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/14580"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Joy_Bells",
+        "wikidata": "https://www.wikidata.org/wiki/Q16995492"
+      },
+      "summary": {
+        "text": "Joy Bells was a revue staged at the London Hippodrome at the end of World War I. It was devised by Albert de Courville, with music and lyrics by H. G. Pether, Rupert Hazell, Oliver Wallace, Harold Weeks and others. The revue opened on 25 March 1919, starring George Robey, Fred Allandale, Phyllis Bedells, Anita Elson, Leon Errol, Shirley Kellogg and Daphne Pollard. It ran for 723 performances.",
+        "source_url": "https://en.wikipedia.org/wiki/Joy_Bells",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "kean": {
+      "slug": "kean",
+      "title": "Kean",
+      "qid": "Q6382143",
+      "enwiki": "Kean (musical)",
+      "composers": [
+        {
+          "name": "Robert Wright",
+          "qid": "Q888339",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12601"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Robert Wright",
+          "qid": "Q888339",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12601"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Peter Stone",
+          "qid": "Q1718449",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8128"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5025",
+        "wikipedia": "https://en.wikipedia.org/wiki/Kean_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6382143"
+      },
+      "summary": {
+        "text": "Kean is a musical with a book by Peter Stone and music and lyrics by Robert Wright and George Forrest.\nUsing material by Jean-Paul Sartre and Alexandre Dumas, père as its source, it centers on the adventures of Edmund Kean, considered the greatest Shakespearean actor of the early 19th century, focusing primarily mainly on his wild behavior offstage. Trouble ensues as Kean desperately tries to juggle the two women in his life - the Danish Ambassador's wife, Elena, and a young aspiring actress, Anna.\nAfter one preview, the Broadway production, directed and choreographed by Jack Cole, opened on November 2, 1961 at the Broadway Theatre, where it ran for 92 performances. The cast included Roderick Cook, Alfred Drake, Larry Fuller, Christopher Hewett, Joan Weldon, and Lee Venora.\nDrake was nominated for the Tony Award for Best Actor in a Musical, and the show was nominated for Best Conductor and Musical Director.\nAn original cast recording was released by Columbia Records. This album is one of the most valuable original cast albums because of its scarcity.",
+        "source_url": "https://en.wikipedia.org/wiki/Kean_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "mahathir-the-musical": {
+      "slug": "mahathir-the-musical",
+      "title": "Mahathir, the Musical",
+      "qid": "Q121614791",
+      "enwiki": "Mahathir, the Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Mahathir%2C_the_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q121614791"
+      },
+      "summary": {
+        "text": "Mahathir, the Musical is a Malaysian musical which was staged at Istana Budaya in Kuala Lumpur, Malaysia, from September 24 to October 4, 2010. The musical centers around former Malaysian Prime Minister Mahathir Mohamad. The musical received an overwhelming response from the public even before its debut.",
+        "source_url": "https://en.wikipedia.org/wiki/Mahathir%2C_the_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "mormon-miracle-pageant": {
+      "slug": "mormon-miracle-pageant",
+      "title": "Mormon Miracle Pageant",
+      "qid": "Q6912642",
+      "enwiki": "Mormon Miracle Pageant",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1967",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "http://mantipageant.org",
+        "wikipedia": "https://en.wikipedia.org/wiki/Mormon_Miracle_Pageant",
+        "wikidata": "https://www.wikidata.org/wiki/Q6912642"
+      },
+      "summary": {
+        "text": "The Mormon Miracle Pageant was a Latter-day Saint pageant held in Manti, Utah, until it was discontinued in 2019. An annual outdoor theatrical performance, it was produced by an amateur cast of over five hundred members of the Church of Jesus Christ of Latter-day Saints (LDS Church). The nightly program took place on the south lawn of temple hill at the Manti Temple, usually in June. The two-week pageant would typically draw an average of 15,000 people per night over an eight-night performance.\nThe 2019 pageant was the final full-scale event of its type, as part of a church-wide directive to make church events more focused on home and family and discourage all large-scale productions.",
+        "source_url": "https://en.wikipedia.org/wiki/Mormon_Miracle_Pageant",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "one-and-one": {
+      "slug": "one-and-one",
+      "title": "One and One",
+      "qid": "Q7093442",
+      "enwiki": "One and One (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/One_and_One_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7093442"
+      },
+      "summary": {
+        "text": "One & One is an American 1970s ASCAP award-winning original off-Broadway musical comedy by Dianne Adams (music and lyrics), Fred Bennett (book), and Richard O'Donnell (book, music and lyrics).",
+        "source_url": "https://en.wikipedia.org/wiki/One_and_One_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "rang-tang": {
+      "slug": "rang-tang",
+      "title": "Rang Tang",
+      "qid": "Q86753876",
+      "enwiki": "Rang Tang",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7367",
+        "wikipedia": "https://en.wikipedia.org/wiki/Rang_Tang",
+        "wikidata": "https://www.wikidata.org/wiki/Q86753876"
+      },
+      "summary": {
+        "text": "Rang Tang is a musical that premiered July 12, 1927, on Broadway at the Royale Theater and ran for 119 performances, including a 14-week overrun, during which, the production moved September 12, 1927, to the Majestic – finishing October 24, 1927. It was acclaimed as one of the most successful black musical revues of the latter 1920s, and owed much to a star-laden cast headlined by Flournoy Miller and Aubrey Lyles. The book — in 2 acts and 12 scenes (2 scenes added later) — is by Kaj Gynt; the lyrics are by Joseph H. Trent; the music is composed by Ford Dabney, who tailored some of the songs for Mae Barnes and Evelyn Preer; the score and post-production music was published by Leo Feist; all copyrighted in 1927 and copyrights renewed in 1954.",
+        "source_url": "https://en.wikipedia.org/wiki/Rang_Tang",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-full-monty": {
+      "slug": "the-full-monty",
+      "title": "The Full Monty",
+      "qid": "Q773823",
+      "enwiki": "The Full Monty (musical)",
+      "composers": [
+        {
+          "name": "David Yazbek",
+          "qid": "Q5241354",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/75798"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "David Yazbek",
+          "qid": "Q5241354",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/75798"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Terrence McNally",
+          "qid": "Q1566335",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8828"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/10302",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Full_Monty_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q773823"
+      },
+      "summary": {
+        "text": "The Full Monty is a musical with book by Terrence McNally and score by David Yazbek.\nIn this Americanized musical stage version adapted from the 1997 British film of the same name, six unemployed Buffalo steelworkers, low on both cash and prospects, decide to present a strip act at a local club after seeing their wives' enthusiasm for a touring company of Chippendales. As they prepare for the show, working through their fears, self-consciousness, and anxieties, they overcome their inner demons and find strength in their camaraderie.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Full_Monty_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-telephone-girl": {
+      "slug": "the-telephone-girl",
+      "title": "The Telephone Girl",
+      "qid": "Q7768294",
+      "enwiki": "The Telephone Girl (play)",
+      "composers": [
+        {
+          "name": "Gustave Kerker",
+          "qid": "Q113876",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11994"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "C. M. S. McLellan",
+          "qid": "Q5006692",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6397"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Telephone_Girl_(play)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7768294"
+      },
+      "summary": {
+        "text": "The Telephone Girl is a farce musical comedy by C. M. S. McLellan (as Hugh Morton), with music by composer Gustave Kerker. The play made its New York debut at the Casino Theatre under the direction of George W. Lederer on December 27, 1897. Though not a favorite with the critics, The Telephone Girl would go on to have a successful run at the Casino and do well on subsequent road tours. The original New York cast starred Clara Lipman as ‘Estelle Cookoo’ and her real life husband, Louis Mann, as 'Hans Nix', roles assumed by  Mabel Hite and Harry Hermsen two years later during an extensive road tour of North America.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Telephone_Girl_(play)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "zombie-the-musical": {
+      "slug": "zombie-the-musical",
+      "title": "Zombie! The Musical",
+      "qid": "Q138302343",
+      "enwiki": "Zombie! The Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Zombie!_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q138302343"
+      },
+      "summary": {
+        "text": "Zombie! The Musical is an Australian musical with book, music, and lyrics by Laura Murphy. This is Laura Murphy's second original musical after The Lovers and her third musical for music and lyrics after The Dismissal.",
+        "source_url": "https://en.wikipedia.org/wiki/Zombie!_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

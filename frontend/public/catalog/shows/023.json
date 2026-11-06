@@ -1,0 +1,533 @@
+{
+  "live": true,
+  "shows": {
+    "broadway-to-tokio": {
+      "slug": "broadway-to-tokio",
+      "title": "Broadway to Tokio",
+      "qid": "Q121365377",
+      "enwiki": "Broadway to Tokio",
+      "composers": [
+        {
+          "name": "Alfred Baldwin Sloane",
+          "qid": "Q4722282",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3819"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Louis Harrison",
+          "qid": "Q101664589",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7395"
+        },
+        {
+          "name": "George V. Hobart",
+          "qid": "Q47492844",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5867"
+        }
+      ],
+      "premiere": {
+        "date": "1900-01-23",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Broadway_to_Tokio",
+        "wikidata": "https://www.wikidata.org/wiki/Q121365377"
+      },
+      "summary": {
+        "text": "Broadway to Tokio is a musical in three acts with music by Alfred Baldwin Sloane and lyrics and book co-authored by George V. Hobart and Louis Harrison. While the song material was composed entirely by Sloane, composer Reginald De Koven also contributed some dance music to the work. Karl Hoschna and  Frank Sadler orchestrated the music. Essentially a revue, the musical incorporates elements of operetta, burlesque, ballet, and vaudeville.",
+        "source_url": "https://en.wikipedia.org/wiki/Broadway_to_Tokio",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "fanny": {
+      "slug": "fanny",
+      "title": "Fanny",
+      "qid": "Q1395722",
+      "enwiki": "Fanny (musical)",
+      "composers": [
+        {
+          "name": "Harold Rome",
+          "qid": "Q1585912",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6085"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "S. N. Behrman",
+          "qid": "Q911096",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8562"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3465",
+        "wikipedia": "https://en.wikipedia.org/wiki/Fanny_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1395722"
+      },
+      "summary": {
+        "text": "Fanny is a musical with a book by S. N. Behrman and Joshua Logan and music and lyrics by Harold Rome. A tale of love, secrets, and passion set in and around the old French port of Marseille, it is based on Marcel Pagnol's trilogy of works titled Marius (1929), Fanny (1931), and César (1936). \nThe musical premiered on Broadway in 1954 and ran for 888 performances, and later was staged in the West End.",
+        "source_url": "https://en.wikipedia.org/wiki/Fanny_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "i-married-an-angel": {
+      "slug": "i-married-an-angel",
+      "title": "I Married an Angel",
+      "qid": "Q5978419",
+      "enwiki": "I Married an Angel",
+      "composers": [
+        {
+          "name": "Richard Rodgers",
+          "qid": "Q269094",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12311"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Lorenz Hart",
+          "qid": "Q725828",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11244"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4608",
+        "wikipedia": "https://en.wikipedia.org/wiki/I_Married_an_Angel",
+        "wikidata": "https://www.wikidata.org/wiki/Q5978419"
+      },
+      "summary": {
+        "text": "I Married an Angel is a 1938 musical comedy by Rodgers and Hart. It was adapted from a play by Hungarian playwright János Vaszary, entitled Angyalt Vettem Felesegul. The book was by Richard Rodgers and Lorenz Hart, with music by Rodgers and lyrics by Hart. The story concerns a wealthy banker who, disillusioned with women, decides that the only mate for him would be an angel. An angel soon arrives, and he marries her, but finds out that her perfection and guilelessness are inconvenient.",
+        "source_url": "https://en.wikipedia.org/wiki/I_Married_an_Angel",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "isabel-s-a-jezebel": {
+      "slug": "isabel-s-a-jezebel",
+      "title": "Isabel's a Jezebel",
+      "qid": "Q6077532",
+      "enwiki": "Isabel's a Jezebel",
+      "composers": [
+        {
+          "name": "Galt MacDermot",
+          "qid": "Q1346345",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12086"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Isabel's_a_Jezebel",
+        "wikidata": "https://www.wikidata.org/wiki/Q6077532"
+      },
+      "summary": {
+        "text": "Isabel's a Jezebel is a British musical with music by Galt MacDermot and book and lyrics by William Dumaresq, based loosely on one of the Grimm's Fairy Tales, centers around Isabel and her deep-sea lover, who spend their time copulating and arguing about bringing children into a world committed to death.\nAfter out-of-town tryouts, the musical premiered on 15 December 1970 on the West End at the Duchess Theatre, running for only 61 performances.  The cast included Frank Aiello, Sharon Campbell, Helen Chappelle, Peter Farrell, Carole Hayman, Michele Mowbray, Maria Popkiewitz, Miguel Sergides, Howard Wakeling.  The production was co-directed by Michael Wearing and Julie Arenal, who also choreographed.\nAfter his spectacular success with the musical Hair, expectations for MacDermot's next work, Isabel's a Jezebel, were high.  The musical underwent several last minute cast changes, including Hayman's joining the show just before opening night.  The New York Times praised the score but called the book \"irretrievably inert.\"\nA cast album was released in 1972 (Item 377673) Kilmarnock.",
+        "source_url": "https://en.wikipedia.org/wiki/Isabel's_a_Jezebel",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "la-conversione-e-morte-di-san-guglielmo": {
+      "slug": "la-conversione-e-morte-di-san-guglielmo",
+      "title": "La conversione e morte di San Guglielmo",
+      "qid": "Q27921847",
+      "enwiki": "La conversione e morte di San Guglielmo",
+      "composers": [
+        {
+          "name": "Giovanni Battista Pergolesi",
+          "qid": "Q185312",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5722"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1731",
+        "venue": "Sant'Agnello Maggiore, Naples"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/La_conversione_e_morte_di_San_Guglielmo",
+        "wikidata": "https://www.wikidata.org/wiki/Q27921847"
+      },
+      "summary": {
+        "text": "La conversione e morte di San Guglielmo (The Conversion and Death of Saint William) is a sacred musical drama (dramma sacro) in three parts by the Italian composer Giovanni Battista Pergolesi. The libretto, by Ignazio Mancini, is based on the life of Saint William of Aquitaine as recounted by Laurentius Surius. It was Pergolesi's first stage work—albeit not properly an opera—possibly written as a study exercise for his conservatory. The work was premiered at the Monastery of Sant'Agnello Maggiore, Naples in the summer of 1731.",
+        "source_url": "https://en.wikipedia.org/wiki/La_conversione_e_morte_di_San_Guglielmo",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "leave-it-to-jane": {
+      "slug": "leave-it-to-jane",
+      "title": "Leave It to Jane",
+      "qid": "Q6510564",
+      "enwiki": "Leave It to Jane",
+      "composers": [
+        {
+          "name": "Jerome Kern",
+          "qid": "Q313270",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6711"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Guy Bolton",
+          "qid": "Q924974",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4575"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "P. G. Wodehouse",
+          "qid": "Q207515",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7988"
+        },
+        {
+          "name": "Guy Bolton",
+          "qid": "Q924974",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4575"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5314",
+        "wikipedia": "https://en.wikipedia.org/wiki/Leave_It_to_Jane",
+        "wikidata": "https://www.wikidata.org/wiki/Q6510564"
+      },
+      "summary": {
+        "text": "Leave It to Jane is a musical in two acts, with music by Jerome Kern and book and lyrics by Guy Bolton and P. G. Wodehouse, based on the 1904 play The College Widow, by George Ade.  The story concerns the football rivalry between Atwater College and Bingham College, and satirizes college life in a Midwestern U.S. town.  A star halfback, Billy, forsakes his father's alma mater, Bingham, to play at Atwater, to be near the seductive Jane, the daughter of Atwater's president.\nThe musical was created for the Princess Theatre, but another of the \"Princess Theatre Shows\", Oh, Boy!, was a long-running hit at the Princess at the same time; so Leave It to Jane premiered instead at the Longacre Theatre on Broadway in 1917. and had a long-running Off-Broadway revival in 1959.  Some of the best-known songs are \"A Peach of a Life\", \"Leave It to Jane\", \"The Crickets Are Calling\", \"The Siren’s Song\", \"Sir Galahad\" and \"Cleopatterer\".",
+        "source_url": "https://en.wikipedia.org/wiki/Leave_It_to_Jane",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "miss-you-like-hell": {
+      "slug": "miss-you-like-hell",
+      "title": "Miss You Like Hell",
+      "qid": "Q28127669",
+      "enwiki": "Miss You Like Hell",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Miss_You_Like_Hell",
+        "wikidata": "https://www.wikidata.org/wiki/Q28127669"
+      },
+      "summary": {
+        "text": "Miss You Like Hell is a musical with book and lyrics by Quiara Alegría Hudes, and music and lyrics by Erin McKeown. The show follows a troubled teenage girl who embarks on a cross-country road trip with her estranged mother, who is an undocumented immigrant from Mexico.\nThe musical premiered in 2016 at the La Jolla Playhouse in San Diego.",
+        "source_url": "https://en.wikipedia.org/wiki/Miss_You_Like_Hell",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "philemon": {
+      "slug": "philemon",
+      "title": "Philemon",
+      "qid": "Q7183008",
+      "enwiki": "Philemon (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Philemon_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7183008"
+      },
+      "summary": {
+        "text": "Philemon is a 1975 Off-Broadway musical by Tom Jones and Harvey Schmidt.  The show was produced on Hollywood Television Theatre in 1976 with the original cast and directed by Norman Lloyd.  It had a brief Off-Broadway revival in 1991.",
+        "source_url": "https://en.wikipedia.org/wiki/Philemon_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "pieces-of-eight-1959-revue": {
+      "slug": "pieces-of-eight-1959-revue",
+      "title": "Pieces of Eight",
+      "qid": "Q30599289",
+      "enwiki": "Pieces of Eight (1959 revue)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Pieces_of_Eight_(1959_revue)",
+        "wikidata": "https://www.wikidata.org/wiki/Q30599289"
+      },
+      "summary": {
+        "text": "Pieces of Eight was a British musical comedy revue with sketches written by Peter Cook, music by Laurie Johnson and starring Kenneth Williams and Fenella Fielding.\nThe revue premiered at the Apollo Theatre, 23 September 1959 directed by Paddy Stone. Sets and costumes were designed by Tony Walton, lighting by Richard Pilbrow. Additional music was supplied by Sandy Wilson. The show also featured sketches written by Harold Pinter (unconnected to Pinter's later one-act play for a compendium of 8 plays by 8 playwrights also called Pieces of Eight which played in the US in 1982-1983), John Law and Lance Mulcahy. The full cast included Myra de Groot, Peter Reeves, Josephine Blake, Terence Theobald, Valerie Walsh, Peter Brett and the Frank Horrox Quintet.\nA sequel One Over The Eight appeared in 1961.",
+        "source_url": "https://en.wikipedia.org/wiki/Pieces_of_Eight_(1959_revue)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "prelude-to-a-kiss": {
+      "slug": "prelude-to-a-kiss",
+      "title": "Prelude to a Kiss",
+      "qid": "Q125662550",
+      "enwiki": "Prelude to a Kiss (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Prelude_to_a_Kiss_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q125662550"
+      },
+      "summary": {
+        "text": "Prelude to a Kiss is a stage musical with a book by Craig Lucas, based on his play of the same name that was a runner-up for the Pulitzer Prize for Drama in 1991. The show has music by Daniel Messé with lyrics by Messé and Sean Hartley. Lucas and Messé had previously worked together on the musical Amélie.",
+        "source_url": "https://en.wikipedia.org/wiki/Prelude_to_a_Kiss_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "road-show": {
+      "slug": "road-show",
+      "title": "Road Show",
+      "qid": "Q7339414",
+      "enwiki": "Road Show (musical)",
+      "composers": [
+        {
+          "name": "Stephen Sondheim",
+          "qid": "Q153579",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12430"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Stephen Sondheim",
+          "qid": "Q153579",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12430"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "John Weidman",
+          "qid": "Q6263373",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6914"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Road_Show_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7339414"
+      },
+      "summary": {
+        "text": "Road Show (previously titled Bounce, Wise Guys, and Gold!) is a musical with music and lyrics by Stephen Sondheim and a book by John Weidman. It tells the story of Addison Mizner and his brother Wilson Mizner's adventures across America from the beginning of the twentieth century during the Klondike gold rush to the Florida real estate boom of the 1920s. The musical takes considerable liberties with the facts of the brothers' lives. \nThe history and evolution of the show are extraordinarily complex, with numerous different versions and recordings. After a 1999 workshop in New York City, the musical was produced in Chicago and Washington, D.C. in 2003 under the title Bounce. Although it did not achieve much success, it is notable due to its status as the last collaboration between writer-director duo Stephen Sondheim and Harold Prince. A revised version of the musical premiered Off-Broadway in New York in October 2008 where the show was redubbed Road Show to better reflect the show's story and themes.",
+        "source_url": "https://en.wikipedia.org/wiki/Road_Show_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "rockford-s-rock-opera": {
+      "slug": "rockford-s-rock-opera",
+      "title": "Rockford's Rock Opera",
+      "qid": "Q3437968",
+      "enwiki": "Rockford's Rock Opera",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Rockford's_Rock_Opera",
+        "wikidata": "https://www.wikidata.org/wiki/Q3437968"
+      },
+      "summary": {
+        "text": "Rockford's Rock Opera is a series of ecological musical stories created by Matthew Sweetapple, Steve Punt and Elaine Sweetapple. It was first released on the Internet and later as a three album set by Sweetapple in 2010. There are four Rockford's Rock Opera stories. Lost on Infinity (2010), The King of Nowhere (2015), The Spooo Who Grew (2017) and The End of Infinity (2022).\nRockford's Rock Opera uses audio visual resources and audiobook stories to teach about extinction, ecology, biomimetics (biomimicry) and biodiversity. The project has been referenced by the BGCI. It has also been noted in The Times and The Guardian. The creators have discussed the project on BBC Radio, including a feature on BBC Radio 4's Go4it.\nThe stories introduce the Island of Infinity. This is the home of the last single representative of every extinct animal and plant species. Key characters include Cocklebur Ick, the Registrar, Dectopus, Feeble Beetle and The Herculous. The project also features non fictional species such as the passenger pigeon, great auk, moa and thylacine.\nRockford's Rock Opera has been described as an \"Adventure in Sound\". Influences noted by reviewers include The Hitchhiker's Guide to the Galaxy, Jeff Wayne's War of the Worlds, Roger Glover's Butterfly Ball and Harry Nilsson's The Point. The Guardian described it as an \"ingenious... thoroughly modern musical\". The Times described it as a \"cult favourite as beloved as Wallace and Gromit\".\nRockford's Rock Opera is available in online and mobile formats. These provide access to audio visual materials and different versions of the story. On Apple iPhone and Android devices, Part One is available as a free app.\nRockford's Rock Opera's ecological themes have led to cooperative links with environmental organisations and charities including WWF, Buglife and the BGCI.\nAfter several school performances, Lost on Infinity has been performed on stage at venues including the London Museum and The Bull Theatre in London.\nA fully illustrated book edition of Lost on Infinity was released in 2025. It includes access to the accompanying musical audiobook.",
+        "source_url": "https://en.wikipedia.org/wiki/Rockford's_Rock_Opera",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "showstopper-the-improvised-musical": {
+      "slug": "showstopper-the-improvised-musical",
+      "title": "Showstopper! The Improvised Musical",
+      "qid": "Q17020709",
+      "enwiki": "Showstopper! The Improvised Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Showstopper!_The_Improvised_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q17020709"
+      },
+      "summary": {
+        "text": "Showstopper! The Improvised Musical is an improvised comedy, musical theatre show founded in London in 2008. It has toured the UK extensively, usually sells out at the Edinburgh Festival Fringe every year, had its own BBC Radio 4 series in 2011 and performed a 10-week run in London's West End in 2015, for which it won an Olivier Award.\nThe idea of the show was conceived at a workshop that two of the creators attended in London. The objective of the show is to improvise a musical based on suggestions from the audience. The audience provides the show setting, title and several musicals or musical theatre composers whose styles are then pastiched in the show.\nIt is chaired by Dylan Emery and Sean McCann and stars Jonathan Ainscough, Ruth Bratt, Justin Brett, Matt Cavendish, Joshua Jackson, Ali James, Pippa Evans, Susan Harrison, Adam Meggido, Philip Pellew, Andrew David Pugsley, Lauren Shearing, and Lucy Trodd as the core cast of comic actors. The core musicians are Duncan Walsh Atkins (keyboards - also musical director), Chris Ash (keyboards, reeds and deputy musical director) and Alex Freeman (percussion). The technical director (who also improvises the lighting) is Damian Robertson. The directors are Adam Meggido and Dylan Emery.\nAfter making a debut at the Edinburgh Festival in 2008, the show began a residency at the Kings Head Theatre before transferring to The Drill Hall. It has toured the UK, Ireland, Singapore, Canada, India, Belgium, Italy and Hong Kong, and in 2011 had a series of 30-minute shows for BBC Radio Four. From 2011 the show started a series of one-off nights at the Ambassadors Theatre (London) and the Criterion in London's West End. Then in September 2015, it opened at the Apollo Theatre (Shaftesbury avenue) for a limited run of 10 weeks. After the run, it continued with a series of one-off nights at the Lyric Theatre (also Shaftesbury avenue), The Other Palace Theatre and since May 22nd 2023, has been at the Cambridge Theatre.\nThe show has occasionally featured guest performers, including the British comic actor Matt Lucas, Mike McShane, Channel 4 newscaster John Snow, Nicolas Parsons, Jim Bowen, radical vicar and peacemaker Donald Reeves, actor and singer Keith Jack, a cappella group The Magnets and others.\nIt has received several industry awards including the 2009 Mervyn Stutter Spirit of the Fringe Award and in 2016 won the Olivier Award for best entertainment and family show.\nThe theatre troupe responsible for Showstopper! The Improvised Musical is called The Showstoppers (The Showstoppers – The Improvised Musical). They also have a children's show called The Showstoppers' Kids Show.\nThe show was created by Adam Meggido and Dylan Emery with the backing of Keith Strachan and all three continue to run the show. The show has had two general managers - James Seabright (Seabright Productions) then Suzanna Rosenthal (Something for the Weekend). Seabright came back to produce the West End run.",
+        "source_url": "https://en.wikipedia.org/wiki/Showstopper!_The_Improvised_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-ideal-gnome-expedition": {
+      "slug": "the-ideal-gnome-expedition",
+      "title": "The Ideal Gnome Expedition",
+      "qid": "Q16875248",
+      "enwiki": "The Ideal Gnome Expedition",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1980",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "http://www.davidwood.org.uk/plays/plays_the_ideal_gnome_exhibition.htm",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Ideal_Gnome_Expedition",
+        "wikidata": "https://www.wikidata.org/wiki/Q16875248"
+      },
+      "summary": {
+        "text": "The Ideal Gnome Expedition (sometimes called Chish 'n' Fips) is a British musical play, with book, music and lyrics by children's playwright David Wood.\nIt was first staged in 1980, and has since been adapted as a TV series and staged by several companies, including amateur groups. \nIt tells of the adventures of a pair of garden gnomes who decide to take a vacation and set out looking for a sunny island.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Ideal_Gnome_Expedition",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "tovarich": {
+      "slug": "tovarich",
+      "title": "Tovarich",
+      "qid": "Q7829456",
+      "enwiki": "Tovarich (musical)",
+      "composers": [
+        {
+          "name": "Lee Pockriss",
+          "qid": "Q6514734",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12251"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8831",
+        "wikipedia": "https://en.wikipedia.org/wiki/Tovarich_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7829456"
+      },
+      "summary": {
+        "text": "Tovarich is a 1963 stage musical in two acts with book by David Shaw; music by Lee Pockriss and lyrics by Anne Croswell; based on the comedy by Jacques Deval and Robert E. Sherwood.",
+        "source_url": "https://en.wikipedia.org/wiki/Tovarich_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "we-are-the-tigers": {
+      "slug": "we-are-the-tigers",
+      "title": "We Are the Tigers",
+      "qid": "Q65056480",
+      "enwiki": "We Are the Tigers",
+      "composers": [
+        {
+          "name": "Preston Max Allen",
+          "qid": "Q140078739"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Preston Max Allen",
+          "qid": "Q140078739"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Preston Max Allen",
+          "qid": "Q140078739"
+        }
+      ],
+      "premiere": {
+        "date": "2015-10-02",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/We_Are_the_Tigers",
+        "wikidata": "https://www.wikidata.org/wiki/Q65056480"
+      },
+      "summary": {
+        "text": "We Are the Tigers is a pop rock musical with book, lyrics, and music by Preston Max Allen. The musical follows a cheerleading captain and her team trying to survive the annual cheer sleepover when a serial killer strikes.\nThe show premiered in Los Angeles at the Hudson Backstage Theatre in 2015, and an Off-Broadway production played from February to April 2019. A cast album was released on April 26, 2019.",
+        "source_url": "https://en.wikipedia.org/wiki/We_Are_the_Tigers",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "what-s-new-pussycat": {
+      "slug": "what-s-new-pussycat",
+      "title": "What's New Pussycat?",
+      "qid": "Q96419654",
+      "enwiki": "What's New Pussycat? (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/What's_New_Pussycat%3F_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q96419654"
+      },
+      "summary": {
+        "text": "What's New Pussycat? is a jukebox musical with the songs of Welsh singer Sir Tom Jones and a book by Joe DiPietro. It is based on Henry Fielding's 1749 novel The History of Tom Jones, a Foundling with the setting updated to the 1960s London.",
+        "source_url": "https://en.wikipedia.org/wiki/What's_New_Pussycat%3F_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

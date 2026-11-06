@@ -1,0 +1,1073 @@
+{
+  "live": true,
+  "shows": {
+    "allegiance": {
+      "slug": "allegiance",
+      "title": "Allegiance",
+      "qid": "Q4731371",
+      "enwiki": "Allegiance (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Marc Acito",
+          "qid": "Q6755342",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/499861"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/499859",
+        "official_site": "http://www.allegiancemusical.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/Allegiance_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4731371"
+      },
+      "summary": {
+        "text": "Allegiance is a musical with music and lyrics by Jay Kuo and a book by Marc Acito, Kuo and Lorenzo Thione. The story, set during the Japanese American internment of World War II (with a framing story set in the present day), was inspired by the personal experiences of George Takei, who starred in the musical. It follows the Kimura family in the years following the attack on Pearl Harbor, as they are forced to leave their farm in Salinas, California, and are sent to the Heart Mountain Relocation Center in the rural plains of Wyoming.\nThe musical began development in 2008 and premiered in September 2012 in San Diego, California. It played on Broadway from October 2015 to February 2016. Reviews on Broadway were mixed, although the cast was generally praised. Further productions were mounted in Los Angeles in 2018 and London in 2023.",
+        "source_url": "https://en.wikipedia.org/wiki/Allegiance_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "clay": {
+      "slug": "clay",
+      "title": "Clay",
+      "qid": "Q5129825",
+      "enwiki": "Clay (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2008",
+        "venue": "Edinburgh Festival Fringe"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Clay_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5129825"
+      },
+      "summary": {
+        "text": "Clay is a 2008 hip-hop musical loosely based on Shakespeare's Henry IV, Parts 1 and 2. The central character, Sir John, is based on Falstaff. It was written and performed by Matt Sax. The first performance was at the Edinburgh Festival Fringe.",
+        "source_url": "https://en.wikipedia.org/wiki/Clay_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "clue": {
+      "slug": "clue",
+      "title": "Clue",
+      "qid": "Q5136566",
+      "enwiki": "Clue (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1995",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Clue_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5136566"
+      },
+      "summary": {
+        "text": "Clue The Musical is a musical with a book by Peter DePietro, music by Galen Blum, Wayne Barker and Vinnie Martucci, and lyrics by Tom Chiodo, based on the board game Clue. The plot concerns a murder at a mansion, occupied by several suspects, that is solved by a detective, while the ending is decided by the audience.  \nThe script includes an interactive feature in which audience members randomly select cards that determine which suspect committed the murder, which weapon was used, and in what room the murder took place. Based on the cards drawn, the mystery has 216 possible endings, for which the script provides appropriate selections of dialogue to be delivered at the show's conclusion.\nDePietro and Chiodo wrote the musical in 1993. Clue had previously been adapted for the screen as the 1985 black comedy film of the same name and was the basis of the British television game show Cluedo, which ran from 1990 to 1993.  \nAfter theatrical tryouts in Baltimore in 1995 and Chicago in 1996, the musical ran off-Broadway in 1997, receiving mostly unfavorable reviews. The musical's popularity has since grown in the form of numerous amateur theatre productions.",
+        "source_url": "https://en.wikipedia.org/wiki/Clue_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "copperfield": {
+      "slug": "copperfield",
+      "title": "Copperfield",
+      "qid": "Q5168822",
+      "enwiki": "Copperfield (musical)",
+      "composers": [
+        {
+          "name": "Joel Hirschhorn",
+          "qid": "Q1691721",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6765"
+        },
+        {
+          "name": "Al Kasha",
+          "qid": "Q570352",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3928"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2757",
+        "wikipedia": "https://en.wikipedia.org/wiki/Copperfield_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5168822"
+      },
+      "summary": {
+        "text": "Copperfield is a 1981 musical with a book, music, and lyrics by Al Kasha and Joel Hirschhorn, who were nominated for the 1981 Tony Award for Best Original Score. It is based on the classic 1850 novel David Copperfield by Charles Dickens.\nThe Broadway production was directed and choreographed by Rob Iscove. It began previews at the ANTA Playhouse on March 25, opened on April 16, and closed on April 26 after 39 performances, including 26 previews.",
+        "source_url": "https://en.wikipedia.org/wiki/Copperfield_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "dear-edwina": {
+      "slug": "dear-edwina",
+      "title": "Dear Edwina",
+      "qid": "Q5246842",
+      "enwiki": "Dear Edwina",
+      "composers": [
+        {
+          "name": "Zina Goldrich",
+          "qid": "Q8072229"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Marcy Heisler",
+          "qid": "Q6758575",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/483871"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Marcy Heisler",
+          "qid": "Q6758575",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/483871"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Dear_Edwina",
+        "wikidata": "https://www.wikidata.org/wiki/Q5246842"
+      },
+      "summary": {
+        "text": "Dear Edwina is a musical by Zina Goldrich (music) and Marcy Heisler (book and lyrics).  A children's one-hour musical, it concerns a young girl who gives her neighborhood friends and family advice through singing in a musical show. It is set in the town of Paw Paw, Michigan (but also based on Deerfield, Illinois, where Marcy Heisler was born).\nA 'Junior' version for younger children cuts the songs Seamus and RSVP.",
+        "source_url": "https://en.wikipedia.org/wiki/Dear_Edwina",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "everybody-s-talking-about-jamie": {
+      "slug": "everybody-s-talking-about-jamie",
+      "title": "Everybody's Talking About Jamie",
+      "qid": "Q29831984",
+      "enwiki": "Everybody's Talking About Jamie",
+      "composers": [
+        {
+          "name": "Dan Gillespie Sells",
+          "qid": "Q5213566"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Tom MacRae",
+          "qid": "Q7816676"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Tom MacRae",
+          "qid": "Q7816676"
+        }
+      ],
+      "premiere": {
+        "date": "2017-02-08",
+        "venue": "Crucible Theatre"
+      },
+      "awards": [],
+      "links": {
+        "official_site": "https://www.everybodystalkingaboutjamie.co.uk/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Everybody's_Talking_About_Jamie",
+        "wikidata": "https://www.wikidata.org/wiki/Q29831984"
+      },
+      "summary": {
+        "text": "Everybody's Talking About Jamie is a stage musical centred around a coming-of-age story, with score by Dan Gillespie Sells and book and lyrics by Tom MacRae. The musical is inspired by the 2011 British television documentary Jamie: Drag Queen at 16 directed by Jenny Popplewell. The musical follows and is based upon the true-life story of 16-year-old British schoolboy Jamie Campbell, as he overcomes prejudice and bullying to step out of the darkness and become a drag queen.",
+        "source_url": "https://en.wikipedia.org/wiki/Everybody's_Talking_About_Jamie",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "expresso-bongo": {
+      "slug": "expresso-bongo",
+      "title": "Expresso Bongo",
+      "qid": "Q56084743",
+      "enwiki": "Expresso Bongo",
+      "composers": [
+        {
+          "name": "David Heneker",
+          "qid": "Q5234905",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9851"
+        },
+        {
+          "name": "Monty Norman",
+          "qid": "Q954120",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7803"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Julian More",
+          "qid": "Q17856008",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7013"
+        },
+        {
+          "name": "Monty Norman",
+          "qid": "Q954120",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7803"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Julian More",
+          "qid": "Q17856008",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7013"
+        },
+        {
+          "name": "Wolf Mankowitz",
+          "qid": "Q8029867",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9225"
+        }
+      ],
+      "premiere": {
+        "date": "1958",
+        "venue": "Odeon Covent Garden"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Expresso_Bongo",
+        "wikidata": "https://www.wikidata.org/wiki/Q56084743"
+      },
+      "summary": {
+        "text": "Expresso Bongo is a 1958 West End musical and a satire of the music industry. It was first produced on the stage at the Saville Theatre, London, on 23 April 1958. Its book was written by Wolf Mankowitz and Julian More, with music by David Heneker and Monty Norman, also the co-lyricist with Julian More. The production starred Paul Scofield with Hy Hazell, Millicent Martin and James Kenney. Musical director was Burt Rhodes and director William Chappell.",
+        "source_url": "https://en.wikipedia.org/wiki/Expresso_Bongo",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "how-to-succeed-in-business-without-really-trying": {
+      "slug": "how-to-succeed-in-business-without-really-trying",
+      "title": "How to Succeed in Business Without Really Trying",
+      "qid": "Q1631702",
+      "enwiki": "How to Succeed in Business Without Really Trying (musical)",
+      "composers": [
+        {
+          "name": "Frank Loesser",
+          "qid": "Q966018",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5613"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Frank Loesser",
+          "qid": "Q966018",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5613"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Abe Burrows",
+          "qid": "Q318138",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3875"
+        },
+        {
+          "name": "Jack Weinstock",
+          "qid": "Q6115708",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6560"
+        },
+        {
+          "name": "Willie Gilbert",
+          "qid": "Q8021529",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9200"
+        }
+      ],
+      "premiere": {
+        "date": "1961-10-14",
+        "venue": "Richard Rodgers Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/10533",
+        "playbill": "https://playbill.com/production/how-to-succeed-in-business-without-really-trying-46th-street-theatre-vault-0000003108",
+        "wikipedia": "https://en.wikipedia.org/wiki/How_to_Succeed_in_Business_Without_Really_Trying_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1631702"
+      },
+      "summary": {
+        "text": "How to Succeed in Business Without Really Trying is a 1961 musical by Frank Loesser and book by Abe Burrows, Jack Weinstock, and Willie Gilbert, based on Shepherd Mead's 1952 book of the same name. The story concerns young, ambitious J. Pierrepont Finch, who, with the help of the book How to Succeed in Business Without Really Trying, rises from window washer to chairman of the board of the World Wide Wicket Company.\nThe musical, starring Robert Morse and Rudy Vallée, opened at the 46th Street Theatre on Broadway in October 1961, running for 1,417 performances. The show won seven Tony Awards, the New York Drama Critics' Circle award, and the 1962 Pulitzer Prize for Drama.\nIn 1967, a film based on the musical was released by United Artists, with Morse, Vallee, Sammy Smith, and Ruth Kobart re-creating their stage roles.\nA 1995 revival was mounted at the same theatre as the original production (now named the Richard Rodgers Theatre). It ran for 548 performances and starred Matthew Broderick and Megan Mullally. A 50th-anniversary Broadway revival directed and choreographed by Rob Ashford and starring Daniel Radcliffe and John Larroquette opened on March 27, 2011, at the Al Hirschfeld Theatre and ran for 473 performances.",
+        "source_url": "https://en.wikipedia.org/wiki/How_to_Succeed_in_Business_Without_Really_Trying_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "i-had-a-ball": {
+      "slug": "i-had-a-ball",
+      "title": "I Had a Ball",
+      "qid": "Q5977435",
+      "enwiki": "I Had a Ball",
+      "composers": [
+        {
+          "name": "Jack Lawrence",
+          "qid": "Q2452637",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12029"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Jack Lawrence",
+          "qid": "Q2452637",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12029"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Jerome Chodorov",
+          "qid": "Q6182623",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6706"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4596",
+        "wikipedia": "https://en.wikipedia.org/wiki/I_Had_a_Ball",
+        "wikidata": "https://www.wikidata.org/wiki/Q5977435"
+      },
+      "summary": {
+        "text": "I Had a Ball is a musical with a book by Jerome Chodorov and music and lyrics by Jack Lawrence and Stan Freeman. It starred Buddy Hackett, and featured Richard Kiley and Karen Morrow.",
+        "source_url": "https://en.wikipedia.org/wiki/I_Had_a_Ball",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "jumbo": {
+      "slug": "jumbo",
+      "title": "Jumbo",
+      "qid": "Q186344",
+      "enwiki": "Jumbo (musical)",
+      "composers": [
+        {
+          "name": "Richard Rodgers",
+          "qid": "Q269094",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12311"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Lorenz Hart",
+          "qid": "Q725828",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11244"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Ben Hecht",
+          "qid": "Q267441",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4460"
+        }
+      ],
+      "premiere": {
+        "date": "1935-11-16",
+        "venue": "Hippodrome Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4978",
+        "wikipedia": "https://en.wikipedia.org/wiki/Jumbo_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q186344"
+      },
+      "summary": {
+        "text": "Jumbo is a musical produced by Billy Rose, with music and lyrics by Richard Rodgers and Lorenz Hart and book by Ben Hecht and Charles MacArthur.",
+        "source_url": "https://en.wikipedia.org/wiki/Jumbo_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "kid-victory": {
+      "slug": "kid-victory",
+      "title": "Kid Victory",
+      "qid": "Q39056667",
+      "enwiki": "Kid Victory",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Kid_Victory",
+        "wikidata": "https://www.wikidata.org/wiki/Q39056667"
+      },
+      "summary": {
+        "text": "Kid Victory  is a musical with the story by John Kander and Greg Pierce, and music by John Kander, book and lyrics by Greg Pierce, co-produced by Vineyard Theatre and Signature Theatre.",
+        "source_url": "https://en.wikipedia.org/wiki/Kid_Victory",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "luigi-the-musical": {
+      "slug": "luigi-the-musical",
+      "title": "Luigi: The Musical",
+      "qid": "Q135721474",
+      "enwiki": "Luigi: The Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2025-06-13",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Luigi%3A_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q135721474"
+      },
+      "summary": {
+        "text": "Luigi: The Musical is a satirical comedy musical written by Arielle Johnson and Nova Bradford. It centers around three high-profile inmates, Luigi Mangione, Sam Bankman-Fried and Sean \"Diddy\" Combs who are inmates at the Metropolitan Detention Center.\nThe musical premiered in June 2025 at Taylor Street Theatre in San Francisco. The show originally ran from June 13–28, 2025. The initial five-show run was sold out, with additional performances later added at the Independent, a larger venue also in San Francisco, which were also sold out. The musical also had a five-show run at the Edinburgh Festival Fringe from August 19 to 23, 2025.",
+        "source_url": "https://en.wikipedia.org/wiki/Luigi%3A_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "nice-work-if-you-can-get-it": {
+      "slug": "nice-work-if-you-can-get-it",
+      "title": "Nice Work If You Can Get It",
+      "qid": "Q7024697",
+      "enwiki": "Nice Work If You Can Get It (musical)",
+      "composers": [
+        {
+          "name": "George Gershwin",
+          "qid": "Q123829",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5813"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Ira Gershwin",
+          "qid": "Q61059",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12885"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Joe DiPietro",
+          "qid": "Q1691381",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/383115"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/491373",
+        "playbill": "https://playbill.com/production/nice-work-if-you-can-get-it-imperial-theatre-vault-0000013857",
+        "official_site": "http://niceworkonbroadway.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Nice_Work_If_You_Can_Get_It_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7024697"
+      },
+      "summary": {
+        "text": "Nice Work If You Can Get It is a musical featuring songs by George and Ira Gershwin, with a book written by Joe DiPietro, and based on material by Guy Bolton and P. G. Wodehouse. Nice Work premiered on Broadway in April 2012.",
+        "source_url": "https://en.wikipedia.org/wiki/Nice_Work_If_You_Can_Get_It_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "pal-joey": {
+      "slug": "pal-joey",
+      "title": "Pal Joey",
+      "qid": "Q2046738",
+      "enwiki": "Pal Joey (musical)",
+      "composers": [
+        {
+          "name": "Richard Rodgers",
+          "qid": "Q269094",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12311"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Lorenz Hart",
+          "qid": "Q725828",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11244"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "John O'Hara",
+          "qid": "Q548345",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6876"
+        }
+      ],
+      "premiere": {
+        "date": "1940",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6906",
+        "wikipedia": "https://en.wikipedia.org/wiki/Pal_Joey_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q2046738"
+      },
+      "summary": {
+        "text": "Pal Joey is a 1940 musical with a book by John O'Hara and music and lyrics by Richard Rodgers and Lorenz Hart. The musical is based on a character and situations O'Hara created in a series of short stories published in The New Yorker, which he later published in novel form. The title character, Joey Evans, is a manipulative small-time nightclub performer whose ambitions lead him into an affair with the wealthy, middle-aged and married Vera Simpson. It includes two songs that have become standards: \"I Could Write a Book\" and \"Bewitched (Bothered And Bewildered)\".\nThe original 1940 Broadway production was directed by George Abbott and starred Vivienne Segal and Gene Kelly. Though it received mixed reviews, the show ran for 10 months, the third-longest run of any Rodgers and Hart musical. There have been several revivals since, including a 2008–09 Broadway run, and a 1957 film adaptation starring Frank Sinatra, Rita Hayworth and Kim Novak.",
+        "source_url": "https://en.wikipedia.org/wiki/Pal_Joey_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "pins-and-needles": {
+      "slug": "pins-and-needles",
+      "title": "Pins and Needles",
+      "qid": "Q3493052",
+      "enwiki": "Pins and Needles",
+      "composers": [
+        {
+          "name": "Harold Rome",
+          "qid": "Q1585912",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6085"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Harold Rome",
+          "qid": "Q1585912",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6085"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7102",
+        "wikipedia": "https://en.wikipedia.org/wiki/Pins_and_Needles",
+        "wikidata": "https://www.wikidata.org/wiki/Q3493052"
+      },
+      "summary": {
+        "text": "Pins and Needles is a musical revue of songs by Harold Rome, with a book by Arthur Arent, Marc Blitzstein, Emmanuel Eisenberg, Charles Friedman, David Gregory, Joseph Schrank, Arnold B. Horwitt, John Latouche, and Rome. The title Pins and Needles was created by Max Danish, long-time editor of the International Ladies Garment Workers Union (ILGWU) newspaper Justice. \nThe revue first ran on Broadway from 1937 to 1940, with a special White House performance in 1938 for President Franklin D. Roosevelt and his wife Eleanor.\nAn Off-Broadway revival was staged in 1978. A London production in 2010 received positive reviews. The show ran at the Provincetown Playhouse in 2016, produced by the Steinhardt School at New York University.",
+        "source_url": "https://en.wikipedia.org/wiki/Pins_and_Needles",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "poppy-1923-musical": {
+      "slug": "poppy-1923-musical",
+      "title": "Poppy",
+      "qid": "Q7229561",
+      "enwiki": "Poppy (1923 musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7186",
+        "wikipedia": "https://en.wikipedia.org/wiki/Poppy_(1923_musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7229561"
+      },
+      "summary": {
+        "text": "Poppy is a musical comedy in three acts with music by Stephen Jones and Arthur Samuels (additional music by John Egan), and lyrics and book by Dorothy Donnelly, with contributions from Howard Dietz, W. C. Fields and Irving Caesar. The musical introduced songs such as \"Two Make a Home\", \"On Our Honeymoon\", \"What Do You Do Sunday, Mary?\" and \"Alibi Baby\".  The story, set in 1874 Connecticut, concerns a circus barker and con man, Prof. Eustace McGargle, who tries to pass off his foster daughter, Poppy, as a long-lost heiress.  It turns out that Poppy really is an heiress.\nThe original New York City staging, produced by Philip Goodman opened at the Apollo Theater on September 3, 1923, and ran for a successful 346 performances, closing on June 28, 1924. It starred Madge Kennedy as Poppy, with Fields as Prof. McGargle, and Robert Woolsey and Jimmy Barry. It was directed by Dorothy Donnelly and Julian Alfred, with choreography by Alfred. The musical then toured. The piece then had a London production at the Gaiety Theatre in 1924. The musical included elements of revue, including specialty numbers. Its success established Fields' comic con man persona and led to film versions, also starring Fields.",
+        "source_url": "https://en.wikipedia.org/wiki/Poppy_(1923_musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "rags-parkland-sings-the-songs-of-the-future": {
+      "slug": "rags-parkland-sings-the-songs-of-the-future",
+      "title": "Rags Parkland Sings the Songs of the Future",
+      "qid": "Q85795638",
+      "enwiki": "Rags Parkland Sings the Songs of the Future",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Rags_Parkland_Sings_the_Songs_of_the_Future",
+        "wikidata": "https://www.wikidata.org/wiki/Q85795638"
+      },
+      "summary": {
+        "text": "Rags Parkland Sings the Songs of the Future is a science fiction concert folk musical with lyrics, music, and book by Andrew R. Butler. After exhibiting an early solo iteration of the show in 2010, Butler further developed Rags Parkland which had its premiere off-Broadway in 2018 at Ars Nova, running for about a month. The premiere production starred Butler, Stacey Sargeant, Jessie Linden, Debbie Christine Tjong, Tony Jarvis, and Rick Burkhardt.\nSet in the mid-2200s in a world where partially constructed and fully constructed humans face government persecution, the show begins with the title character performing solo before being joined onstage in flashback by his former band, Beaux Weathers & The Future. Butler spent nearly a decade developing a show about a folk singer performing several centuries in the future, pulling inspiration from a variety of folk, country, rock, and blues rock artists. Rags Parkland was well received by critics and garnered a combined total of 21 Drama Desk, Lucille Lortel, Drama League, and Henry Hewes award nominations, ultimately winning the Lortel Award for Outstanding Musical. An original cast recording was released in 2020 and a remount of the show was planned for the 2022–23 theater season but was later cancelled when funders left the project.",
+        "source_url": "https://en.wikipedia.org/wiki/Rags_Parkland_Sings_the_Songs_of_the_Future",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "simple-simon": {
+      "slug": "simple-simon",
+      "title": "Simple Simon",
+      "qid": "Q7520749",
+      "enwiki": "Simple Simon (musical)",
+      "composers": [
+        {
+          "name": "Richard Rodgers",
+          "qid": "Q269094",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12311"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Lorenz Hart",
+          "qid": "Q725828",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11244"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Guy Bolton",
+          "qid": "Q924974",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4575"
+        }
+      ],
+      "premiere": {
+        "date": "1930-02-18",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8026",
+        "wikipedia": "https://en.wikipedia.org/wiki/Simple_Simon_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7520749"
+      },
+      "summary": {
+        "text": "Simple Simon is a Broadway musical with book by Guy Bolton, and Ed Wynn, lyrics by Lorenz Hart, music by Richard Rodgers, produced by Florenz Ziegfeld Jr., and starring Ed Wynn.\nIt originally played from February 18, 1930, to June 14, 1930, at the Ziegfeld Theatre, then reopened on March 9, 1931, at the Majestic Theatre.\nThe play, a loose plot designed to show off Ed Wynn's fumbling, clowning, punning style, cast him as a newspaper vendor who spends his time in a fairy-tale land where bad news does not exist. The song \"Ten Cents a Dance\" was introduced by Ruth Etting in this show. \"Love Me or Leave Me\" by Gus Kahn and Walter Donaldson was interpolated into the show about two months after it opened. \"I'm Yours\", by Johnny Green and Yip Harburg, was added for the tour.\n\"Dancing on the Ceiling\", cut during the Broadway previews, was eventually sung by Jessie Matthews in the London production of Ever Green, and became a standard.\nThe musical numbers written for the show included:\n\n\"Coney Island\"\n\"Don't Tell Your Folks\"\n\"Magic Music\"\n\"I Still Believe in You\"\n\"Send for Me\"\n\"Dull and Gay\"\n\"Sweetenheart\"\n\"Hunting the Fox\"\n\"Come On, Men\"\n\"Ten Cents a Dance\"\n\"Rags and Tatters\"\n\"Dancing on the Ceiling\" (dropped before the New York opening)\n\"He Was Too Good to Me\" (dropped before the New York opening)\n\"Oh, So Lovely\" (unused)\n\"Peter Pan\"\n\"The Simple Simon Instep\" (unused)\n\"Prayers of Tears and Laughter\" (dropped before the New York opening)\n\"Hunting Song\" (unused)\n\"Come out of the Nursery\" (dropped before the pre-Broadway tryout)\n\"Sing Glory Hallelujah\" (dropped before the pre-Broadway tryout)\nThe song \"I Can Do Wonders with You\", from a previous show, was interpolated.",
+        "source_url": "https://en.wikipedia.org/wiki/Simple_Simon_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "sometime": {
+      "slug": "sometime",
+      "title": "Sometime",
+      "qid": "Q18379241",
+      "enwiki": "Sometime (musical)",
+      "composers": [
+        {
+          "name": "Rudolf Friml",
+          "qid": "Q48363",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11702"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Rida Johnson Young",
+          "qid": "Q7332345",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8334"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Rida Johnson Young",
+          "qid": "Q7332345",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8334"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8171",
+        "wikipedia": "https://en.wikipedia.org/wiki/Sometime_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q18379241"
+      },
+      "summary": {
+        "text": "Sometime is a musical in two acts, with a book and lyrics by Rida Johnson Young and music by Rudolf Friml. Additional lyrics are by Ed Wynn. The romantic story concerns a couple kept apart for five years after the man is seen in a compromising position with another woman, but it turns out that this was a ruse planned by the other woman, and the man is innocent. The story enfolds in flashbacks (a novelty at the time) set in New York and Buenos Aires; with periodic shifts in time to the present in an unknown location.\nThe musical opened at the Schubert Theatre on Broadway on October 4, 1918, and transferred the following month to the Casino Theatre, running there until June 7, 1919 for a total of 283 performances. It was produced by Arthur Hammerstein and directed by Oscar Eagle. The music director was Herbert Stothart. It starred Wynn, Francine Larrimore, Harrison Brockbank and Mae West.",
+        "source_url": "https://en.wikipedia.org/wiki/Sometime_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "spartacus-le-gladiateur": {
+      "slug": "spartacus-le-gladiateur",
+      "title": "Spartacus le Gladiateur",
+      "qid": "Q3492724",
+      "enwiki": "Spartacus le Gladiateur",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Spartacus_le_Gladiateur",
+        "wikidata": "https://www.wikidata.org/wiki/Q3492724"
+      },
+      "summary": {
+        "text": "Spartacus le Gladiateur (meaning Spartacus the Gladiator in French) is a musical Elie Chouraqui and Maxime Le Forestier based on the story of Spartacus. The musical extravaganza premiered at the Palais des Sports in Paris in 2004.\nIt was also marketed as a DVD.",
+        "source_url": "https://en.wikipedia.org/wiki/Spartacus_le_Gladiateur",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "tarzan-and-jane": {
+      "slug": "tarzan-and-jane",
+      "title": "Tarzan and Jane",
+      "qid": "Q6571778",
+      "enwiki": "Tarzan and Jane (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Tarzan_and_Jane_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6571778"
+      },
+      "summary": {
+        "text": "Tarzan and Jane - The Musical is an Israeli musical that generally follows the plot described in the Edgar Rice Burroughs' novel Tarzan. The musical was presented in theaters across the country in 2004.\nThe children's play was produced by Tamir Productions (טמיר הפקות), directed by Hanoch Rosen, written by Efraim Sidon, costumed by These Kolesnik, was performed in the Hebrew language, and ran for 62 minutes.\nThis is one of four musicals by Tamir Productions, along with Speed and Magic Wheels, Peter Pan, the award-winning The Jungle Book (Hebrew Wikipedia article).",
+        "source_url": "https://en.wikipedia.org/wiki/Tarzan_and_Jane_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-bacchoi": {
+      "slug": "the-bacchoi",
+      "title": "The Bacchoi",
+      "qid": "Q85806434",
+      "enwiki": "The Bacchoi",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Bacchoi",
+        "wikidata": "https://www.wikidata.org/wiki/Q85806434"
+      },
+      "summary": {
+        "text": "The Bacchoi is a rock musical with book and lyrics by Bryan Nason and music by Ralph Tyrrell, based on The Bacchae by Euripides.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Bacchoi",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-big-life": {
+      "slug": "the-big-life",
+      "title": "The Big Life",
+      "qid": "Q30600513",
+      "enwiki": "The Big Life (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Big_Life_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q30600513"
+      },
+      "summary": {
+        "text": "The Big Life is a British ska musical with book and lyrics by Paul Sirett and music by Paul Joseph, originally produced by the Theatre Royal Stratford East in 2004. It combines Shakespeare's Love's Labour's Lost with the story of the Windrush immigrants (those Jamaicans who arrived in Britain aboard HMT Empire Windrush in 1948, which began an era of multiculturalism).\nThe musical transferred to the West End's Apollo Theatre in 2005. It was nominated for Best New Musical at the 2006 Olivier Awards.\nThe musical is being revived for its 20th anniversary at Stratford East in early 2024 with previews on 16 February, an opening night on 22 February, and performances to 30 March.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Big_Life_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-confession-room": {
+      "slug": "the-confession-room",
+      "title": "The Confession Room",
+      "qid": "Q20800629",
+      "enwiki": "The Confession Room",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Patrick Wilde",
+          "qid": "Q7147844"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "http://www.confessionroom.co.uk",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Confession_Room",
+        "wikidata": "https://www.wikidata.org/wiki/Q20800629"
+      },
+      "summary": {
+        "text": "The Confession Room is a British musical comedy written by Dan Looney (music, lyrics & original concept), Patrick Wilde (book), Reece Looney (additional lyrics & original concept) and Sam Champness (additional lyrics).",
+        "source_url": "https://en.wikipedia.org/wiki/The_Confession_Room",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-first-queen": {
+      "slug": "the-first-queen",
+      "title": "The First Queen",
+      "qid": "Q7776999",
+      "enwiki": "The First Queen",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_First_Queen",
+        "wikidata": "https://www.wikidata.org/wiki/Q7776999"
+      },
+      "summary": {
+        "text": "The First Queen (Korean: 뮤지컬 선덕여왕) is a musical about Queen Seondeok of the ancient Korean kingdom of Silla. It was adapted from the television series \"The Great Queen Seondeok\". It debuted at Woori Art Hall in Olympic Park, Seoul in January 2010 as South Korea's first original musical.\nLee So-jung starred as Seondeok, Cha Ji-yeon as Mishil, and Kang Tae-eul as the queen's lover, Bisham.",
+        "source_url": "https://en.wikipedia.org/wiki/The_First_Queen",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-mitford-girls": {
+      "slug": "the-mitford-girls",
+      "title": "The Mitford Girls",
+      "qid": "Q124795540",
+      "enwiki": "The Mitford Girls",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Mitford_Girls",
+        "wikidata": "https://www.wikidata.org/wiki/Q124795540"
+      },
+      "summary": {
+        "text": "The Mitford Girls is a musical by Caryl Brahms and Ned Sherrin with music by Peter Greenwell and others.\nDevised for 'six beautiful actress singers, a leading man and four young male dancers', the musical is based on material from the Mitford sisters' lives and writings.\nAfter a season at the Chichester Festival Theatre, it transferred to London at the West End's Globe Theatre from 8 October, 1981 to 9 January, 1982.\nThe original production was nominated for two 1981 Society of West End Theatre Awards, for Patricia Hodge as Actress of the Year in a Musical and Outstanding Achievement of the Year in a Musical for the style and design.\nA London cast recording comprising 23 numbers was recorded in September 1981 and issued by Philips on one LP. The principals were Patricia Hodge (Nancy and Muv), Lucy Fenwick (Jessica), Julia Sutton (Pamela and nanny), Patricia Michael (Diana), Colette Gleeson (Unity), Gay Soper (Deborah) and Oz Clarke (Tom, Farve, Hamish, Peter Rodd, Esmond and the band singer); the musical director was John Owen Edwards who also played piano, and Hodge was credited with playing ukelele.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Mitford_Girls",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-race-to-urga": {
+      "slug": "the-race-to-urga",
+      "title": "The Race to Urga",
+      "qid": "Q7759181",
+      "enwiki": "The Race to Urga",
+      "composers": [
+        {
+          "name": "Leonard Bernstein",
+          "qid": "Q152505",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7257"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Stephen Sondheim",
+          "qid": "Q153579",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12430"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "John Guare",
+          "qid": "Q320556",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6822"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Race_to_Urga",
+        "wikidata": "https://www.wikidata.org/wiki/Q7759181"
+      },
+      "summary": {
+        "text": "The Race to Urga, later renamed A Pray by Blecht, is an unfinished musical adaptation of the Bertolt Brecht play The Exception and the Rule.\nCollaboration on the production began in 1968, when Jerome Robbins asked John Guare to write the adaptation. Leonard Bernstein was to compose the music and Stephen Sondheim to write the lyrics. The musical was announced to open at Lincoln Center in January 1969, but Robbins left the production during cast auditions, and the project folded. Bernstein used themes from the work in Mass (1971), Arias and Barcarolles, and other works.\nNo cast album was produced, though a demo was recorded in 1968. Robbins returned to the show, still incomplete, as director and choreographer of an April 1987 workshop production at Lincoln Center.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Race_to_Urga",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-three-musketeers": {
+      "slug": "the-three-musketeers",
+      "title": "The Three Musketeers",
+      "qid": "Q11249428",
+      "enwiki": "The Three Musketeers (musical)",
+      "composers": [
+        {
+          "name": "Rudolf Friml",
+          "qid": "Q48363",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11702"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Clifford Grey",
+          "qid": "Q1101276",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4882"
+        },
+        {
+          "name": "P. G. Wodehouse",
+          "qid": "Q207515",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7988"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "William Anthony McGuire",
+          "qid": "Q3105229",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9088"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8677",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Three_Musketeers_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q11249428"
+      },
+      "summary": {
+        "text": "The Three Musketeers is a musical with a book by William Anthony McGuire, lyrics by Clifford Grey and P. G. Wodehouse, and music by Rudolf Friml. It is based on the classic 1844 novel by Alexandre Dumas, père.  Set in France and England in 1626, it recounts the adventures of a young man named d'Artagnan after he leaves home to become a Musketeer of the Guard. The three men of the title are his friends Athos, Porthos, and Aramis.\nThe original 1928 production on Broadway, and a 1930 West End run, both starring Dennis King as d'Artagnan, were successful, but a 1984 attempt at a much-revised Broadway revival flopped.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Three_Musketeers_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "which-witch": {
+      "slug": "which-witch",
+      "title": "Which Witch",
+      "qid": "Q3567734",
+      "enwiki": "Which Witch",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Which_Witch",
+        "wikidata": "https://www.wikidata.org/wiki/Q3567734"
+      },
+      "summary": {
+        "text": "Which Witch is a musical written by Norwegian singers/composers Benedicte Adrian and Ingrid Bjørnov.\nThe storyline for Which Witch was derived from the witch finder's manual Malleus Maleficarum, and the original script was written by Adrian and Bjørnov's manager Ole A. Sørli. The lyrics of the early concert versions were written by Helen Hampton in collaboration with Adrian, Bjørnov and Sørli. \nThe first performance was in Grieghallen, Bergen on May 27, 1987, with Adrian playing the female lead, and Bjørnov as musical director. The material was constantly developed throughout a period of eight years, resulting in several national and international tours presenting continuously updated concert versions of the musical.\nThe \"Operamusical\" Which Witch opened at the Piccadilly Theatre in London on October 22, 1992 and ran for 76 performances, after a critical savaging. It has been described as \"the second worst West End musical of all time\", a \"bizarre musical\", and \"a dire rock opera\".\nThe London version was followed by a rather more successful Norwegian tour, and further performances of a Norwegian version in Holmenkollen, Oslo during the summer of 1994.\nWhich Witch has, since its premiere in May 1987, been performed a total of 142 times in concert version in the following countries: Norway, Canada, USA, the Netherlands, England, Spain, Finland, Sweden and Denmark. The total attendance figure is approx. 276,000.",
+        "source_url": "https://en.wikipedia.org/wiki/Which_Witch",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "yank": {
+      "slug": "yank",
+      "title": "Yank!",
+      "qid": "Q8048712",
+      "enwiki": "Yank!",
+      "composers": [
+        {
+          "name": "Joseph Zellnik",
+          "qid": "Q129933806"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "David Zellnik",
+          "qid": "Q129933408"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "David Zellnik",
+          "qid": "Q129933408"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "https://www.yankthemusical.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Yank!",
+        "wikidata": "https://www.wikidata.org/wiki/Q8048712"
+      },
+      "summary": {
+        "text": "Yank! A WWII Love Story is a 2005 musical with book and lyrics by David Zellnik and music by his brother Joseph. Yank! \"tells the story of Stu, a scared Midwestern kid who gets drafted for World War II in 1943, and becomes a photographer for Yank Magazine, the journal 'for and by the servicemen.' Yank! has a score that pays homage to the 1940s and explores what it means to be a man, and what it is to fall in love and struggle.\" Yank! takes its title from the World War II publication Yank, the Army Weekly.",
+        "source_url": "https://en.wikipedia.org/wiki/Yank!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "your-arms-too-short-to-box-with-god": {
+      "slug": "your-arms-too-short-to-box-with-god",
+      "title": "Your Arms Too Short to Box with God",
+      "qid": "Q8058726",
+      "enwiki": "Your Arms Too Short to Box with God",
+      "composers": [
+        {
+          "name": "Alex Bradford",
+          "qid": "Q4716727",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13719"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Alex Bradford",
+          "qid": "Q4716727",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13719"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/9559",
+        "playbill": "https://playbill.com/production/your-arms-too-short-to-box-with-god-lyceum-theatre-vault-0000007124",
+        "wikipedia": "https://en.wikipedia.org/wiki/Your_Arms_Too_Short_to_Box_with_God",
+        "wikidata": "https://www.wikidata.org/wiki/Q8058726"
+      },
+      "summary": {
+        "text": "Your Arms Too Short to Box with God: A Soaring Celebration in Song and Dance is a Broadway musical based on the Biblical Book of Matthew, with music and lyrics by Alex Bradford and a book by Vinnette Carroll, who also directed. Micki Grant was credited for \"additional music and lyrics\".\nA 1980 revival was the Broadway debut of star Jennifer Holliday, then billed as Jennifer-Yvette Holliday.",
+        "source_url": "https://en.wikipedia.org/wiki/Your_Arms_Too_Short_to_Box_with_God",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

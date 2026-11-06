@@ -1,0 +1,885 @@
+{
+  "live": true,
+  "shows": {
+    "a-parisian-model": {
+      "slug": "a-parisian-model",
+      "title": "A Parisian Model",
+      "qid": "Q39056422",
+      "enwiki": "A Parisian Model",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6942",
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Parisian_Model",
+        "wikidata": "https://www.wikidata.org/wiki/Q39056422"
+      },
+      "summary": {
+        "text": "A Parisian Model is a 1906 Edwardian musical comedy with music by Max Hoffman, Sr. to a book and lyrics by Harry B. Smith. The story concerns a dressmaker's model who comes into a fortune. It opened on Broadway in 1906, ran with success and toured. It was produced by Frank McKee and Florenz Ziegfeld Jr., and starred Anna Held, Ziegfeld's common law wife. Soon after the success of this piece, Ziegfeld would launch his famous series of Ziegfeld Follies revues.",
+        "source_url": "https://en.wikipedia.org/wiki/A_Parisian_Model",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "angel": {
+      "slug": "angel",
+      "title": "Angel",
+      "qid": "Q4762061",
+      "enwiki": "Angel (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1584",
+        "wikipedia": "https://en.wikipedia.org/wiki/Angel_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4762061"
+      },
+      "summary": {
+        "text": "Angel is a Broadway musical that opened at the Minskoff Theatre in New York on May 4, 1978. It was based on Ketti Frings’ Pulitzer Prize winning 1957 theatrical adaptation of Thomas Wolfe's best-selling 1929 novel, Look Homeward, Angel.\nThe musical features songs with lyrics by Peter Udell and music by Gary Geld—the same team who created the musicals Shenandoah and Purlie. Frings and Udell collaborated on the book. Angel was directed by Philip Rose and choreographed by Robert Tucker. The production featured costumes by Pearl Somner, lighting design by John Gleason and scenery by Ming Cho Lee.\nFor her performance, Frances Sternhagen received a Tony Award nomination for Best Leading Actress in a Musical in 1978. Additionally, Joel Higgins was nominated for a 1978 Drama Desk Award for Outstanding Featured Actor in a Musical.\nThe musical was savaged by the critics, and closed on May 13 after only five performances.",
+        "source_url": "https://en.wikipedia.org/wiki/Angel_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "bandstand": {
+      "slug": "bandstand",
+      "title": "Bandstand",
+      "qid": "Q25218603",
+      "enwiki": "Bandstand (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/511286",
+        "official_site": "http://www.bandstandbroadway.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Bandstand_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q25218603"
+      },
+      "summary": {
+        "text": "Bandstand: The New American Musical (or simply Bandstand) is an original musical composed by Richard Oberacker with book and lyrics by Oberacker and Robert Taylor.\nThe first musical certified by the organization Got Your 6 tells the story of a group of veterans returning home to the United States after World War II.  Struggling to fit into their old lives while dealing with the lingering effects of the war – including post-traumatic stress and survivor's guilt – they form a band composed solely of veterans to compete in a national patriotic radio contest in New York City.  The winning song will be performed in a new Hollywood by the band, which will make them household names. This group of veterans play their hearts out while also providing post-war America a look into the effects the Second World War had on America's heroes.\nThe original production of Bandstand, directed by Andy Blankenbuehler and starring Laura Osnes, Corey Cott and Beth Leavel, premiered at the Paper Mill Playhouse in Millburn in October 2015 and opened on Broadway on April 26, 2017, closing on September 17, 2017.",
+        "source_url": "https://en.wikipedia.org/wiki/Bandstand_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "calvin-berger": {
+      "slug": "calvin-berger",
+      "title": "Calvin Berger",
+      "qid": "Q5024328",
+      "enwiki": "Calvin Berger",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2006-08-31",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Calvin_Berger",
+        "wikidata": "https://www.wikidata.org/wiki/Q5024328"
+      },
+      "summary": {
+        "text": "Calvin Berger is a 2006 musical with book, lyrics, and music written by Barry Wyner. Its story is loosely based on Edmond Rostand's 1897 play Cyrano de Bergerac.",
+        "source_url": "https://en.wikipedia.org/wiki/Calvin_Berger",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "dance-a-little-closer": {
+      "slug": "dance-a-little-closer",
+      "title": "Dance a Little Closer",
+      "qid": "Q5215222",
+      "enwiki": "Dance a Little Closer",
+      "composers": [
+        {
+          "name": "Charles Strouse",
+          "qid": "Q2960275",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12463"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Alan Jay Lerner",
+          "qid": "Q961893",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3945"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Alan Jay Lerner",
+          "qid": "Q961893",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3945"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2900",
+        "wikipedia": "https://en.wikipedia.org/wiki/Dance_a_Little_Closer",
+        "wikidata": "https://www.wikidata.org/wiki/Q5215222"
+      },
+      "summary": {
+        "text": "Dance a Little Closer is a musical with a book and lyrics by Alan Jay Lerner and music by Charles Strouse. The story is an updated version of Robert E. Sherwood's 1936 antiwar comedy Idiot's Delight.",
+        "source_url": "https://en.wikipedia.org/wiki/Dance_a_Little_Closer",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "der-kleine-tag": {
+      "slug": "der-kleine-tag",
+      "title": "Der kleine Tag",
+      "qid": "Q1199276",
+      "enwiki": "Der kleine Tag",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Der_kleine_Tag",
+        "wikidata": "https://www.wikidata.org/wiki/Q1199276"
+      },
+      "summary": {
+        "text": "Der kleine Tag (The Little Day) is a story by Wolfram Eicke which became known in a musical version in collaboration with Rolf Zuckowski and Hans Niehaus. The story was published in 1988. The musical, for children but not only children, first appeared in print in 1998, and as an audio play and CD in 1999 when it premiered at the Münchner Planetarium. The musical is often presented on stage, both by professionals and by schools and music academies. It received several awards.",
+        "source_url": "https://en.wikipedia.org/wiki/Der_kleine_Tag",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "everyday-rapture": {
+      "slug": "everyday-rapture",
+      "title": "Everyday Rapture",
+      "qid": "Q16837645",
+      "enwiki": "Everyday Rapture",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Dick Scanlan",
+          "qid": "Q5273341",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/87768"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/487669",
+        "wikipedia": "https://en.wikipedia.org/wiki/Everyday_Rapture",
+        "wikidata": "https://www.wikidata.org/wiki/Q16837645"
+      },
+      "summary": {
+        "text": "Everyday Rapture is a musical with a book written by Sherie Rene Scott and Dick Scanlan and music by various composers. It ran Off-Broadway in 2009 and opened on Broadway in 2010. The musical is a loose autobiography of Scott herself, showing her travels from her half-Mennonite Kansas childhood to a life in show business.",
+        "source_url": "https://en.wikipedia.org/wiki/Everyday_Rapture",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "floyd-collins": {
+      "slug": "floyd-collins",
+      "title": "Floyd Collins",
+      "qid": "Q5462401",
+      "enwiki": "Floyd Collins (musical)",
+      "composers": [
+        {
+          "name": "Adam Guettel",
+          "qid": "Q4679169",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/80817"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Adam Guettel",
+          "qid": "Q4679169",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/80817"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Tina Landau",
+          "qid": "Q7807915",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/81801"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/539859",
+        "wikipedia": "https://en.wikipedia.org/wiki/Floyd_Collins_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5462401"
+      },
+      "summary": {
+        "text": "Floyd Collins is a musical with music and lyrics by Adam Guettel, and book by Tina Landau. The musical is a dramatization of the death of American cave explorer, Floyd Collins near Cave City, Kentucky in the winter of 1925.\nThe musical opened Off-Broadway on February 9, 1996, where it ran for 25 performances. There have been subsequent London productions as well as regional U.S. productions. The show made its Broadway premiere in 2025 at the Vivian Beaumont Theater as part of Lincoln Center Theatre's 2024–25 season.",
+        "source_url": "https://en.wikipedia.org/wiki/Floyd_Collins_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "hello-dolly": {
+      "slug": "hello-dolly",
+      "title": "Hello, Dolly!",
+      "qid": "Q1371693",
+      "enwiki": "Hello, Dolly! (musical)",
+      "composers": [
+        {
+          "name": "Jerry Herman",
+          "qid": "Q1363692",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6278"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Jerry Herman",
+          "qid": "Q1363692",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6278"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Michael Stewart",
+          "qid": "Q6834631",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7748"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Grammy Hall of Fame",
+          "qid": "Q81180"
+        }
+      ],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4310",
+        "wikipedia": "https://en.wikipedia.org/wiki/Hello%2C_Dolly!_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1371693"
+      },
+      "summary": {
+        "text": "Hello, Dolly! is a 1964 musical with lyrics and music by Jerry Herman and a book by Michael Stewart, based on Thornton Wilder's 1938 farce The Merchant of Yonkers, which Wilder revised and retitled The Matchmaker in 1954. The musical follows the story of Dolly Gallagher Levi, a strong-willed matchmaker, as she travels to Yonkers, New York, to find a match for the miserly \"well-known unmarried half-a-millionaire\" Horace Vandergelder.\nHello, Dolly! debuted at the Fisher Theater in Detroit on November 18, 1963, directed and choreographed by Gower Champion and produced by David Merrick. It starred stage performer Carol Channing as Dolly Gallagher Levi, a role theatrical audiences of the world would forever associate with her. The show moved to Broadway in 1964, winning 10 Tony Awards, including Best Musical and Best Actress in a Musical. The awards earned set a record which the play held for 37 years. The show album Hello, Dolly! An Original Cast Recording was inducted into the Grammy Hall of Fame in 2002. The album reached number one on the Billboard album chart on June 6, 1964, and was replaced the next week by Louis Armstrong's album Hello, Dolly! Louis Armstrong also was featured in the film version of the show, performing a small part of the song \"Hello, Dolly!\".\n\nThe show has become one of the most enduring musical theater hits, with four Broadway revivals and international success. It was also made into the 1969 film Hello Dolly! by 20th Century Fox, which won three Academy Awards, including Best Score of a Musical Picture and was nominated in four other categories, including Best Picture at the 42nd Academy Awards.",
+        "source_url": "https://en.wikipedia.org/wiki/Hello%2C_Dolly!_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "hitchy-koo": {
+      "slug": "hitchy-koo",
+      "title": "Hitchy-Koo",
+      "qid": "Q16386050",
+      "enwiki": "Hitchy-Koo",
+      "composers": [
+        {
+          "name": "Cole Porter",
+          "qid": "Q215120",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12257"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "George V. Hobart",
+          "qid": "Q47492844",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5867"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/9643",
+        "wikipedia": "https://en.wikipedia.org/wiki/Hitchy-Koo",
+        "wikidata": "https://www.wikidata.org/wiki/Q16386050"
+      },
+      "summary": {
+        "text": "Hitchy-Koo is a 1912 American popular song and a series of musical revues, inspired by the song, staged on Broadway each year from 1917 through 1920 and on tour in 1922.\nDescribed by Variety magazine as a \"hit song of 1912\", the song was composed by Lewis F. Muir and Maurice Abrahams with lyrics by L. Wolfe Gilbert. Historian Eve Golden stated that the song is \"a popular standard from the second-wave of ragtime tunes\". Ian Whitcomb wrote that it was one of the first American popular songs to influence musical taste and culture in the United Kingdom with the \"invasion of American popular music\" in 1912.",
+        "source_url": "https://en.wikipedia.org/wiki/Hitchy-Koo",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "home-and-away-the-musical": {
+      "slug": "home-and-away-the-musical",
+      "title": "Home and Away: The Musical",
+      "qid": "Q124518488",
+      "enwiki": "Home and Away: The Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Home_and_Away%3A_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q124518488"
+      },
+      "summary": {
+        "text": "Home and Away: The Musical is a 1991 stage musical with music and lyrics by Chris Summerfield, except Lyrics and melody on \"Junk Food\", \"I Wanna Be A Dancer\" by Olu Rowe. Lyrics to \"Surfing\" by Olu Rowe and Chris Summerfield. and a book by various writers. It is based on the Australian soap opera Home and Away. The show was created and directed by Paul Hammond and developed by the British Albermarle Montrose company. The musical features thirteen scenes divided between two acts, with fourteen musical numbers. Hammond developed the idea after realising Home and Away potential to become a successful musical that would be an ideal fit in the 1990s lifestyle. Hammond envisioned the musical that would replicate the success and legacy of Grease. Hammond travelled to Australia to secure the rights for the show. He met with potential cast members and hired the original cast members Justine Clarke, Mouche Phillips, Adam Willits, Sharyn Hodgson, Julian McMahon and Craig Thomson. British actors Matthew Cammelle, Andrew Lawden, Karen Heyworth and Paul Murphy assumed the remaining roles. Home and Away's executive producer Des Monaghan and staff from the Seven Network in Australia offered support during the show's development.\nThe show's plot focuses mainly on the character of Roo Stewart, whose diner business is under threat from villain Mr Big. The Summer Bay locals band together to save their diner. Throughout the story, the characters break out into song and the show's musical numbers occur. The show was choreographed by Trudy Moffatt and featured a chorus and a band. The show's sets were based on locations that appear in Home and Away. These include the Diner, Summer Bay beach and the Fletcher family kitchen. The music numbers ranged from jazz, funk and ballads with energetic dance routines. The show debuted at The Assembly Hall in Tunbridge Wells on 10 June 1991. It toured the United Kingdom across fifteen venues until October that year. The musical cost £1.6 million to produce and was promoted in British media and on television. The show attracted controversy towards the end of its run due to actors failing to attend the shows.\nHome and Away: The Musical received mixed reviews from theatre and media critics alike. The majority of the show's original cast performances were negatively critiqued but Clarke received praise for her role as Roo. The show's choreography was mainly applauded but the show's writing and main storyline were berated. The show was popular with younger audiences and fans of its source material, Home and Away. Critics noted a positive atmosphere and reception at all shows, largely from the show's fan base.",
+        "source_url": "https://en.wikipedia.org/wiki/Home_and_Away%3A_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "industrial-symphony-no-1": {
+      "slug": "industrial-symphony-no-1",
+      "title": "Industrial Symphony No. 1",
+      "qid": "Q1080141",
+      "enwiki": "Industrial Symphony No. 1",
+      "composers": [
+        {
+          "name": "David Lynch",
+          "qid": "Q2071"
+        },
+        {
+          "name": "Angelo Badalamenti",
+          "qid": "Q357014"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "David Lynch",
+          "qid": "Q2071"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Industrial_Symphony_No._1",
+        "wikidata": "https://www.wikidata.org/wiki/Q1080141"
+      },
+      "summary": {
+        "text": "Industrial Symphony No. 1: The Dream of the Broken Hearted is a 1990 avant-garde concert performance directed by David Lynch, with music by Angelo Badalamenti and Julee Cruise. It stars Nicolas Cage, Laura Dern, Michael J. Anderson, and Cruise. The film, whose duration is 50 minutes, was described as a musical.",
+        "source_url": "https://en.wikipedia.org/wiki/Industrial_Symphony_No._1",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "letters-from-lehrer": {
+      "slug": "letters-from-lehrer",
+      "title": "Letters from Lehrer",
+      "qid": "Q6533726",
+      "enwiki": "Letters from Lehrer",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Letters_from_Lehrer",
+        "wikidata": "https://www.wikidata.org/wiki/Q6533726"
+      },
+      "summary": {
+        "text": "Letters from Lehrer is a play written by Canadian playwright Richard Greenblatt, and performed by him at CanStage, from 16 January to 25 February 2006. It follows Tom Lehrer's musical career, the meaning of several of his songs, the politics of the time when he wrote the songs, and Greenblatt's own experiences with Lehrer's music, while playing some of Lehrer's songs intermittently. There are currently no plans for more performances, although low-quality audio files have begun to circulate the Internet.",
+        "source_url": "https://en.wikipedia.org/wiki/Letters_from_Lehrer",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "little-me": {
+      "slug": "little-me",
+      "title": "Little Me",
+      "qid": "Q3256701",
+      "enwiki": "Little Me (musical)",
+      "composers": [
+        {
+          "name": "Cy Coleman",
+          "qid": "Q1146861",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4929"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Carolyn Leigh",
+          "qid": "Q4257369",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13033"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Neil Simon",
+          "qid": "Q315808",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7879"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5461",
+        "wikipedia": "https://en.wikipedia.org/wiki/Little_Me_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q3256701"
+      },
+      "summary": {
+        "text": "Little Me is a musical written by Neil Simon, with music by Cy Coleman and lyrics by Carolyn Leigh. The original 1962 Broadway production featured Sid Caesar in multiple roles with multiple stage accents, playing all of the heroine's husbands and lovers. One of the better-known songs from the musical is \"I've Got Your Number\".",
+        "source_url": "https://en.wikipedia.org/wiki/Little_Me_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "mabining-mandirigma-a-steampunk-musical": {
+      "slug": "mabining-mandirigma-a-steampunk-musical",
+      "title": "Mabining Mandirigma: A Steampunk Musical",
+      "qid": "Q140461809",
+      "enwiki": "Mabining Mandirigma: A Steampunk Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Mabining_Mandirigma%3A_A_Steampunk_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q140461809"
+      },
+      "summary": {
+        "text": "Mabining Mandirigma: A Steampunk Musical (English: The Gentle Warrior: A Steampunk Musical) is a 2015 original Filipino-language historical musical produced by Tanghalang Pilipino (TP), the resident theater company of the Cultural Center of the Philippines (CCP). The musical was written by playwright and scholar Nicanor Tiongson, with music composed by Joed Balsamo, and directed by Chris Millado. The work dramatizes the life and legacy of Apolinario Mabini (1864–1903), the \"Sublime Paralytic,\" legal and constitutional adviser to the Revolutionary Government in 1898 and the first Prime Minister of the Philippines upon the establishment of the First Philippine Republic in 1899.\nThe show premiered on 3 July 2015 at the Tanghalang Aurelio Tolentino (CCP Little Theater), Cultural Center of the Philippines in Pasay City as part of the sesquicentennial commemoration of Mabini's birth.\nThe musical won 12 awards out of its 13 nominations at the 8th Gawad Buhay Awards in 2015, including Outstanding Original Musical.\nHeavily praised for its experimental design and staging, the production juxtaposes a traditional 19th-century historical narrative with a steampunk aesthetic and a contemporary hip-hop and rock score to highlight the modern relevance of Mabini's political ideals, while critics and scholars noted the production's use of cross-gender casting, in which the central male historical figure of Mabini is played exclusively by female actors.\nIncluding the 2015 original production, Mabining Mandirigma had a total of five distinct runs. It saw three separate restaging—including two runs in 2016 and a highly successful iteration in 2019 before returning for its fifth staging in March 2026 to mark its 10th anniversary and a special 2026 Philippine Independence day show at the Manila Metropolitan Theater.\nMabining Mandirigma is part of TP's tribute to three revolutionary heroes through a trilogy of musicals: Pingkian for Emilio Jacinto, Gregoria Lakambini for Gregoria de Jesus, and Mabining Mandirigma for Mabini.",
+        "source_url": "https://en.wikipedia.org/wiki/Mabining_Mandirigma%3A_A_Steampunk_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "metro": {
+      "slug": "metro",
+      "title": "Metro",
+      "qid": "Q962414",
+      "enwiki": "Metro (musical)",
+      "composers": [
+        {
+          "name": "Janusz Stoklosa",
+          "qid": "Q1298036",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12451"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Maryna Miklaszewska",
+          "qid": "Q11770905",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7616"
+        },
+        {
+          "name": "Agata Miklaszewska",
+          "qid": "Q9141927",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3915"
+        }
+      ],
+      "premiere": {
+        "date": "1991-01-30",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6051",
+        "wikipedia": "https://en.wikipedia.org/wiki/Metro_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q962414"
+      },
+      "summary": {
+        "text": "Metro is a Polish musical with music by Janusz Stokłosa and lyrics by Agata and Maryna Miklaszewska. Choreographed and directed by Janusz Józefowicz, the musical was funded and initially produced by Wiktor Kubiak. The play, initially staged on January 31, 1991 in Warsaw's Dramatic Theatre, turned out to be a major success in Poland and is notable for a large number of young artists who started their career in its crew. Among those who rose to fame were: Edyta Górniak, Viola Brzezińska, Katarzyna Groniec, Robert Janowski, Michał Milowicz, Grzegorz Kowalczyk and Natasza Urbańska.\nIn 1992 the musical opened on Broadway at the Minskoff Theatre, but soon closed due to unfavorable reviews. In 1997, the musical moved to Studio Buffo theatre in Warsaw, where it is still running in simplified arrangement after more than 2,100 performances in total. According to estimates, it was watched by approx. 2 million viewers.",
+        "source_url": "https://en.wikipedia.org/wiki/Metro_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "my-life-with-albertine": {
+      "slug": "my-life-with-albertine",
+      "title": "My Life with Albertine",
+      "qid": "Q6945882",
+      "enwiki": "My Life with Albertine",
+      "composers": [
+        {
+          "name": "Ricky Ian Gordon",
+          "qid": "Q7332099"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Ricky Ian Gordon",
+          "qid": "Q7332099"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/My_Life_with_Albertine",
+        "wikidata": "https://www.wikidata.org/wiki/Q6945882"
+      },
+      "summary": {
+        "text": "My Life with Albertine is a musical with music and lyrics by Ricky Ian Gordon and book and lyrics Richard Nelson. The story was adapted from parts of the 1913-1927 seven-volume novel In Search of Lost Time by Marcel Proust. It ran Off-Broadway in 2003.\nThe musical is set in a salle du théâtre (private theatre in a home) in Paris, 1919. For much of the story, the Narrator stands beside a piano and speaks to the audience, as the curtain opens to reveal scenes from his life.",
+        "source_url": "https://en.wikipedia.org/wiki/My_Life_with_Albertine",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "prince-of-broadway": {
+      "slug": "prince-of-broadway",
+      "title": "Prince of Broadway",
+      "qid": "Q30668455",
+      "enwiki": "Prince of Broadway",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Prince_of_Broadway",
+        "wikidata": "https://www.wikidata.org/wiki/Q30668455"
+      },
+      "summary": {
+        "text": "Prince of Broadway is a musical revue showcasing the producing career of Harold Prince. Prince himself directed the production, his final Broadway credit.\nThe show features a book by two-time Tony Award nominee David Thompson and is co-directed and choreographed by five-time Tony winner Susan Stroman. Jason Robert Brown is the musical's arranger, musical director, and orchestrator.\nThe musical premiered in October 2015 in Japan and made its Broadway debut on August 3, 2017 at the Manhattan Theatre Club's Samuel J. Friedman Theatre.",
+        "source_url": "https://en.wikipedia.org/wiki/Prince_of_Broadway",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "return-to-the-forbidden-planet": {
+      "slug": "return-to-the-forbidden-planet",
+      "title": "Return to the Forbidden Planet",
+      "qid": "Q14956950",
+      "enwiki": "Return to the Forbidden Planet",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Bob Carlton",
+          "qid": "Q4932012"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Laurence Olivier Awards",
+          "qid": "Q28470"
+        }
+      ],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Return_to_the_Forbidden_Planet",
+        "wikidata": "https://www.wikidata.org/wiki/Q14956950"
+      },
+      "summary": {
+        "text": "Return to the Forbidden Planet is a jukebox musical by Bob Carlton based on the 1956 science fiction film Forbidden Planet, which, in turn, is loosely based on Shakespeare's play The Tempest. The show features a score of 1950s and 1960s rock and roll classics and dialogue largely adapted from well-known passages from Shakespeare.\nOften billed as \"Shakespeare's forgotten rock and roll masterpiece\", Return to the Forbidden Planet has been performed all over the world since its premiere in London in the 1980s. It won the Olivier Award for Best New Musical for both 1989 and 1990.\nConceived for a cast of actor-musicians, the space ship sets conceals keyboards and drums. The campy sci-fi setting consists of silvered space suits and the robot, Ariel, is performed by an actor on roller skates, with a costume reminiscent of the original movie's Robby the Robot. There is a part for narrator (known as \"the newsreader\") on pre-recorded video, who has been performed by celebrities including Patrick Moore, Brian May, Richard O'Brien and Neil deGrasse Tyson.",
+        "source_url": "https://en.wikipedia.org/wiki/Return_to_the_Forbidden_Planet",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-cocoanuts": {
+      "slug": "the-cocoanuts",
+      "title": "The Cocoanuts",
+      "qid": "Q3986337",
+      "enwiki": "The Cocoanuts (musical)",
+      "composers": [
+        {
+          "name": "Irving Berlin",
+          "qid": "Q128746",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6452"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Irving Berlin",
+          "qid": "Q128746",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6452"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "George S. Kaufman",
+          "qid": "Q163662",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5827"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2653",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Cocoanuts_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q3986337"
+      },
+      "summary": {
+        "text": "The Cocoanuts is a musical with music and lyrics by Irving Berlin and a book by George S. Kaufman, with additional text by Morrie Ryskind.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Cocoanuts_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-king-and-i": {
+      "slug": "the-king-and-i",
+      "title": "The King and I",
+      "qid": "Q6431690",
+      "enwiki": "The King and I",
+      "composers": [
+        {
+          "name": "Richard Rodgers",
+          "qid": "Q269094",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12311"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Oscar Hammerstein II",
+          "qid": "Q319693",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7965"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Oscar Hammerstein II",
+          "qid": "Q319693",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7965"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5067",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_King_and_I",
+        "wikidata": "https://www.wikidata.org/wiki/Q6431690"
+      },
+      "summary": {
+        "text": "The King and I is the fifth musical by the team of Rodgers and Hammerstein. It is based on Margaret Landon's novel Anna and the King of Siam (1944), which is in turn derived from the memoirs of Anna Leonowens, governess to the children of King Mongkut of Siam in the early 1860s. The musical's plot relates the experiences of Anna, a British schoolteacher who is hired as part of the King's drive to modernize his country.  The relationship between the King and Anna is marked by conflict through much of the piece, as well as by a love to which neither can admit. The musical premiered on March 29, 1951, at Broadway's St. James Theatre. It ran for nearly three years, making it the fourth-longest-running Broadway musical in history at the time, and has had many tours and revivals.\nIn 1950, theatrical attorney Fanny Holtzmann was looking for a part for her client, veteran leading lady Gertrude Lawrence.  Holtzmann realized that Landon's book would provide an ideal vehicle and contacted Rodgers and Hammerstein, who were initially reluctant but agreed to write the musical.  The pair initially sought Rex Harrison to play the supporting part of the King, a role he had played in the 1946 film made from Landon's book, but he was unavailable.  They settled on the young actor and television director Yul Brynner.\nThe musical was an immediate hit, winning Tony Awards for Best Musical, Best Actress (for Lawrence) and Best Featured Actor (for Brynner). Lawrence died unexpectedly of cancer a year and a half after the opening, and the role of Anna was played by several actresses during the remainder of the Broadway run of 1,246 performances. A hit West End London run and U.S. national tour followed, together with the 1956 film for which Brynner won the Academy Award for Best Actor, and the musical was recorded several times. In later revivals, Brynner came to dominate his role and the musical, starring in a four-year national tour culminating in a 1985 Broadway run shortly before his death.\nChristopher Renshaw directed major revivals on Broadway (1996), winning the  Tony Award for Best Revival, and in the West End (2000). A 2015 Broadway revival won another Tony for Best Revival. Both professional and amateur revivals of The King and I continue to be staged regularly throughout the English-speaking world.",
+        "source_url": "https://en.wikipedia.org/wiki/The_King_and_I",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-little-prince-and-the-aviator": {
+      "slug": "the-little-prince-and-the-aviator",
+      "title": "The Little Prince and the Aviator",
+      "qid": "Q7747696",
+      "enwiki": "The Little Prince and the Aviator",
+      "composers": [
+        {
+          "name": "John Barry",
+          "qid": "Q111074",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11350"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Don Black",
+          "qid": "Q1238931",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5065"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Hugh Wheeler",
+          "qid": "Q5171067",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6402"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5479",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Little_Prince_and_the_Aviator",
+        "wikidata": "https://www.wikidata.org/wiki/Q7747696"
+      },
+      "summary": {
+        "text": "The Little Prince and the Aviator is a musical with a book by Hugh Wheeler, lyrics by Don Black, and music by John Barry.\nBased on the book by Antoine de Saint-Exupéry, the musical deviates from the original in that aviator Toni, whose plane crashes in the Sahara Desert, explicitly is real-life author Saint-Exupéry, and the plot alternates flashbacks to actual events in his life with his interaction with the fictional Little Prince, a refugee from Asteroid B-612.\nUndaunted by the critical and commercial failure of the 1974 musical screen adaptation by Lerner and Loewe, A. Joseph Tandet, a co-producer of the movie who owned the rights to the story, proceeded with his plans for a Broadway production. To save money, he decided to forgo an out-of-town tryout.\nPreviews were originally scheduled to begin on December 31, 1981, at the Alvin Theatre. The first preview was canceled at the last minute, after a change in both director and choreographer late in the rehearsal period; the production actually began previews on January 1, 1982. Late in rehearsals, Robert Kalfin was replaced as director by Jerry Adler and Billy Wilson replaced original choreographer Dania Krupska. The production starred Michael York as the Aviator and Anthony Rapp as the Little Prince, with Ellen Greene in a supporting role and Gordon Greenberg as young Georges. The show closed after twenty previews.\nTandet sued the Nederlander Organization, claiming they had forced him to shut down the production with their demands for more money during its final week. He eventually was awarded $1,000,000, representing two-thirds of his investment.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Little_Prince_and_the_Aviator",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-madwoman-of-central-park-west": {
+      "slug": "the-madwoman-of-central-park-west",
+      "title": "The Madwoman of Central Park West",
+      "qid": "Q7749362",
+      "enwiki": "The Madwoman of Central Park West",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Arthur Laurents",
+          "qid": "Q710334",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4307"
+        },
+        {
+          "name": "Phyllis Newman",
+          "qid": "Q7188609",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8166"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5712",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Madwoman_of_Central_Park_West",
+        "wikidata": "https://www.wikidata.org/wiki/Q7749362"
+      },
+      "summary": {
+        "text": "The Madwoman of Central Park West is a semi-autobiographical one-woman musical with a book by Arthur Laurents and Phyllis Newman and songs by various composers and lyricists. It focuses on the difficulties faced by an older actress who tries to balance her career with her life as a wife and mother.\nAmong those whose songs are included in the production are Peter Allen, Leonard Bernstein, Jerry Bock, Martin Charnin, Betty Comden, Fred Ebb, Adolph Green, Sheldon Harnick, John Kander, Ed Kleban, Barry Manilow, Joe Raposo, Mary Rodgers, Carole Bayer Sager, and Stephen Sondheim.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Madwoman_of_Central_Park_West",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-producers": {
+      "slug": "the-producers",
+      "title": "The Producers",
+      "qid": "Q1751433",
+      "enwiki": "The Producers (musical)",
+      "composers": [
+        {
+          "name": "Mel Brooks",
+          "qid": "Q104266",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7699"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Mel Brooks",
+          "qid": "Q104266",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7699"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Mel Brooks",
+          "qid": "Q104266",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7699"
+        },
+        {
+          "name": "Thomas Meehan",
+          "qid": "Q7792371",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8874"
+        }
+      ],
+      "premiere": {
+        "date": "2001-02-01",
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Laurence Olivier Awards",
+          "qid": "Q28470"
+        }
+      ],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/10510",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Producers_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1751433"
+      },
+      "summary": {
+        "text": "The Producers is a musical comedy with music and lyrics by Mel Brooks and a book by Brooks and Thomas Meehan. It is adapted from Brooks's 1967 film of the same name. The story concerns a theatrical producer and his mild-mannered accountant who scheme to get rich by fraudulently overselling interests in a Broadway musical designed to fail. Complications arise when the show is a surprise hit. The humor of The Producers draws on exaggerated accents, caricatures of Jews, gay people and Nazis, and many show business in-jokes.\nAfter 33 previews, the original Broadway production opened at the St. James Theatre on April 19, 2001, starring Nathan Lane and Matthew Broderick, and ran for 2,502 performances, winning a record-breaking 12 Tony Awards. It spawned a successful West End production running for just over two years, national tours in the US and UK, many productions worldwide and a 2005 film version.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Producers_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-red-petticoat": {
+      "slug": "the-red-petticoat",
+      "title": "The Red Petticoat",
+      "qid": "Q25216413",
+      "enwiki": "The Red Petticoat",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7413",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Red_Petticoat",
+        "wikidata": "https://www.wikidata.org/wiki/Q25216413"
+      },
+      "summary": {
+        "text": "The Red Petticoat is a musical comedy in 3 acts with music by Jerome Kern and a book and lyrics by Rida Johnson Young and Paul West. The Western-genre musical starred Helen Lowell as tough lady barber Sophie Brush in a fictional rough silver-mining town in Nevada, who gets her man. Songs included \"I Wonder\", \"My Peaches and Cream\", \"Oh You Beautiful Spring\", \"The Ragtime Restaurant\", and \"Since the Days of Grandmamma\". The musical was based on a 1911 farcical melodrama by Young titled Next!. It was Kern's first complete score.\nAfter a tryout in Philadelphia, the show opened at Daly's Theatre on November 13, 1912, directed by Joseph W. Herbert, and moved to the Broadway Theatre, closing on January 4, 1913, after 61 performances. The critics praised the show and particularly the score. After the Broadway run, the show toured.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Red_Petticoat",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-sundowe": {
+      "slug": "the-sundowe",
+      "title": "The Sundowe",
+      "qid": "Q7767401",
+      "enwiki": "The Sundowe",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Sundowe",
+        "wikidata": "https://www.wikidata.org/wiki/Q7767401"
+      },
+      "summary": {
+        "text": "The Sundowe is a musical written by Edinburgh-based writers and performers John, James and Gerry Kielty and featuring their band The Martians. The Sundowe was entered into the \"Highland Quest For A New Musical\" competition in early 2006 and was announced as the winner in July 2006. It was then produced by Cameron Mackintosh as a full stage musical, with the world premiere on 29 November 2007 at the new Eden Court Theatre in Inverness, Scotland.\nFollowing a three-week run at Eden Court it toured the Scottish Highlands in January and February 2008.\nThe story line centres on The Martians themselves, as their street busking is interrupted by vampires, the local council and the return of dead souls.  The musical is part comedy, part pathos, and includes references to modern Scottish politics, Greyfriars Bobby, street busking and ancient Scottish history.\nIt has been described as \"Shaun of the Dead meets Thriller\", and is influenced by cult science fiction such as Doctor Who and Buffy the Vampire Slayer.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Sundowe",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

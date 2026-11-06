@@ -1,0 +1,1168 @@
+{
+  "live": true,
+  "shows": {
+    "a-joyful-noise": {
+      "slug": "a-joyful-noise",
+      "title": "A Joyful Noise",
+      "qid": "Q4657524",
+      "enwiki": "A Joyful Noise",
+      "composers": [
+        {
+          "name": "Oscar Brand",
+          "qid": "Q5584702",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11417"
+        },
+        {
+          "name": "Paul Nassau",
+          "qid": "Q7152677",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12182"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Oscar Brand",
+          "qid": "Q5584702",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11417"
+        },
+        {
+          "name": "Paul Nassau",
+          "qid": "Q7152677",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12182"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Edward Padula",
+          "qid": "Q5344739",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5300"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1135",
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Joyful_Noise",
+        "wikidata": "https://www.wikidata.org/wiki/Q4657524"
+      },
+      "summary": {
+        "text": "A Joyful Noise is a musical with a script by Edward Padula and music and lyrics by Oscar Brand and Paul Nassau.  The 1966 Broadway production was a flop but introduced choreographer Michael Bennett in his Broadway debut.\nBased on Mississippi author Borden Deal's 1959 novel The Insolent Breed, the story centers on Shade Motley, a fiddler who arrives in a small Southern town and shocks the stern community with his exuberant love of hillbilly music and life in general.",
+        "source_url": "https://en.wikipedia.org/wiki/A_Joyful_Noise",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "beguiled-again": {
+      "slug": "beguiled-again",
+      "title": "Beguiled Again",
+      "qid": "Q4880608",
+      "enwiki": "Beguiled Again",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Beguiled_Again",
+        "wikidata": "https://www.wikidata.org/wiki/Q4880608"
+      },
+      "summary": {
+        "text": "Beguiled Again is a musical revue compiling the works of Richard Rodgers (music) and Lorenz Hart (lyrics), who are often referred to as Rodgers and Hart.  The show was conceived by J. Barry Lewis, Lynnette Barkley and Craig D. Ames.  It is almost entirely music, with minimal dialogue between some of the songs. \nIt was first performed at the Florida Stage in Manalapan, Florida and was the theater's most successful production to date. The show won the Carbonell Award in 1997 (an award for theater and the arts in South Florida).",
+        "source_url": "https://en.wikipedia.org/wiki/Beguiled_Again",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "berlin-to-broadway-with-kurt-weill": {
+      "slug": "berlin-to-broadway-with-kurt-weill",
+      "title": "Berlin to Broadway with Kurt Weill",
+      "qid": "Q48734991",
+      "enwiki": "Berlin to Broadway with Kurt Weill",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Berlin_to_Broadway_with_Kurt_Weill",
+        "wikidata": "https://www.wikidata.org/wiki/Q48734991"
+      },
+      "summary": {
+        "text": "Berlin to Broadway with Kurt Weill is a musical revue with a book by Gene Lerner, music by Kurt Weill, and lyrics by various songwriting partners Weill worked with over his career. The plot follows Weill's life as he begins his career in Germany writing the music for controversial musicals, through his journey fleeing Nazi persecution, immigrating to the United States, and becoming successful on Broadway. Songs featured include those Weill collaborated on with Maxwell Anderson, Marc Blitzstein, Bertolt Brecht, Jacques Deval, Michael Feingold, Ira Gershwin, Paul Green, Langston Hughes, Alan Jay Lerner, Ogden Nash, George Tabori and Arnold Weinstein.",
+        "source_url": "https://en.wikipedia.org/wiki/Berlin_to_Broadway_with_Kurt_Weill",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "blood-brothers": {
+      "slug": "blood-brothers",
+      "title": "Blood Brothers",
+      "qid": "Q885100",
+      "enwiki": "Blood Brothers (musical)",
+      "composers": [
+        {
+          "name": "Willy Russell",
+          "qid": "Q761466",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9207"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Willy Russell",
+          "qid": "Q761466",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9207"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Willy Russell",
+          "qid": "Q761466",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9207"
+        }
+      ],
+      "premiere": {
+        "date": "1983",
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Laurence Olivier Awards",
+          "qid": "Q28470"
+        }
+      ],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2090",
+        "wikipedia": "https://en.wikipedia.org/wiki/Blood_Brothers_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q885100"
+      },
+      "summary": {
+        "text": "Blood Brothers is a musical with book, lyrics, and music by Willy Russell and was produced by Bill Kenwright until his death in 2023 and the production was then picked up by Bill Kenwright Limited, a company founded by the late producer. The story is a contemporary nature versus nurture plot, revolving around fraternal twins Mickey and Edward, who were separated at birth, one subsequently being raised in a wealthy family, the other in a poor family. The different environments take the twins to opposite ends of the social spectrum, one becoming a councillor, and the other unemployed and in prison. They both fall in love with the same girl, causing a rift in their friendship. Russell says that his work was based on a one-act play that he read as a child \"about two babies switched at birth ... it became the seed for Blood Brothers.\"\nOriginally developed as a  high school play in Liverpool, Blood Brothers debuted in Liverpool before Russell transferred it to the West End for a short run in 1983. The musical won the Laurence Olivier Award for Best New Musical and went on to a year-long national tour before returning for a revival in the West End in 1988 where it stayed at the Albery Theatre for three years, transferring to the Phoenix Theatre in 1991. The revival ran for more than 24 years in the West End, and played more than 10,000 performances, becoming the third longest-running musical production in West End history. It finally closed in November 2012. The musical has been produced with success on tour, on Broadway and elsewhere, and it has developed a cult following. Blood Brothers is often taught as one of the prescribed plays of GCSE English Literature in English schools.",
+        "source_url": "https://en.wikipedia.org/wiki/Blood_Brothers_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "bugs-bunny-on-broadway": {
+      "slug": "bugs-bunny-on-broadway",
+      "title": "Bugs Bunny on Broadway",
+      "qid": "Q4986253",
+      "enwiki": "Bugs Bunny on Broadway",
+      "composers": [
+        {
+          "name": "Carl W. Stalling",
+          "qid": "Q598185",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12437"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "George Daugherty",
+          "qid": "Q5538391",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/22007"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2284",
+        "playbill": "https://playbill.com/production/bugs-bunny-on-broadway-george-gershwin-theatre-vault-0000011041",
+        "wikipedia": "https://en.wikipedia.org/wiki/Bugs_Bunny_on_Broadway",
+        "wikidata": "https://www.wikidata.org/wiki/Q4986253"
+      },
+      "summary": {
+        "text": "Bugs Bunny on Broadway (also titled Bugs Bunny at the Symphony and Bugs Bunny at the Symphony II) is a concert musical featuring Looney Tunes characters such as Bugs Bunny, Daffy Duck, and Elmer Fudd. The production was conceived by George Daugherty, incorporating scores by Carl Stalling and Milt Franklyn.\nThe musical, and its 2010 sequel Bugs Bunny at the Symphony, combines classic Warner Bros. Looney Tunes projected on a large screen accompanied by a live orchestra performing the original score. This production team has been touring the world continuously since 1990 and has played to a total international audience of almost 2 million people.",
+        "source_url": "https://en.wikipedia.org/wiki/Bugs_Bunny_on_Broadway",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "calling-all-stars": {
+      "slug": "calling-all-stars",
+      "title": "Calling All Stars",
+      "qid": "Q106706424",
+      "enwiki": "Calling All Stars (1934 musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1934-11-23",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Calling_All_Stars_(1934_musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q106706424"
+      },
+      "summary": {
+        "text": "Calling All Stars is a 1934 musical revue with music by Harry Akst, lyrics by Lew Brown, and orchestrations by Hans Spialek and Conrad Salinger. Featuring separate segments of sketch comedy rather than a unified plot, the dialogue of the musical was written by Lew Brown, A. Dorian Otvos, Alan Baxter, Home Fickett, William K. Wells and H.I. Philips. Al Goodman served as the original production's music director which was produced and directed by Lew Brown. Sara Mildred Strauss and Maurice L. Kussel choreographed the show, Nat Karson designed the sets, Billi Livingston designed the costumes, and Abe Feder designed the lighting.\nThe musical premiered at the Boston Opera House on November 23, 1934 for tryout performances before moving to Broadway. The production opened on Broadway at the Hollywood Theatre on December 13, 1934 with a cast led by Lou Holtz, Phil Baker, Mitzi Mayfair, Everett Marshall, Sara Mildred Strauss, Patricia Bowman, Judy Canova, Peggy Taylor, Martha Raye, Jack Whiting, Estelle Jayne, Harry McNaughton., and Ella Logan in her American debut.  The production closed after 36 performances on January 12, 1935.",
+        "source_url": "https://en.wikipedia.org/wiki/Calling_All_Stars_(1934_musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "carioca": {
+      "slug": "carioca",
+      "title": "Carioca",
+      "qid": "Q2938825",
+      "enwiki": "Carioca (1933 song)",
+      "composers": [],
+      "lyricists": [
+        {
+          "name": "Edward Eliscu",
+          "qid": "Q1253673",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/39393"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Carioca_(1933_song)",
+        "wikidata": "https://www.wikidata.org/wiki/Q2938825"
+      },
+      "summary": {
+        "text": "\"The Carioca\" is a 1933 popular song with music by Vincent Youmans and lyrics by Edward Eliscu and Gus Kahn, as well as the name of the dance choreographed to it for the 1933 film Flying Down to Rio. The number was sung in the film by Alice Gentle, Movita Castaneda and Etta Moten and danced by Fred Astaire and Ginger Rogers as part of an extended production dance introducing it. The dance, which was choreographed by the film's dance director, Dave Gould, assisted by Hermes Pan, was based on an earlier stage dance with the same name by Fanchon and Marco.  The distinctive feature of the dance was that it was to be danced with the partners' foreheads touching.\nThe word \"Carioca\" refers to inhabitants of Rio de Janeiro.\nAstaire and Roger's short dance has historical significance, as it was their first screen dance together. Though billed fourth and fifth, many felt they stole the film, which became a big hit for RKO. The song was nominated for the Academy Award for Best Original Song at the 7th Academy Awards, but lost to an even bigger Astaire and Rogers production number, \"The Continental\" from The Gay Divorcee (1934), their next film together and their first starring vehicle. They were billed by RKO as \"The King and Queen of 'The Carioca.'\"\nWhile the song has become a jazz standard, the dance did not have longevity. Following the success of Flying Down to Rio, an attempt was made to propagate a new ballroom dance after Astaire and Roger's routine, without much success. It was a mixture of samba, maxixe, foxtrot and rhumba.\nA French cover of the song was introduced in the comedy movie La Cité de la peur (1994) along with a dance, also meant in a humoristic way. Both the song and the dance appear in the film that takes place in Cannes during the Cannes film festival in France, and have become a reference for a whole generation in France.\n25 years later, in May 2019, the Carioca scene of the movie was celebrated in Cannes with a flashmob dance and by the actors themselves who danced again the mythic scene included in \"La Cité de la Peur\".",
+        "source_url": "https://en.wikipedia.org/wiki/Carioca_(1933_song)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "cyrano-de-bergerac": {
+      "slug": "cyrano-de-bergerac",
+      "title": "Cyrano de Bergerac",
+      "qid": "Q5200580",
+      "enwiki": "Cyrano de Bergerac (musical)",
+      "composers": [
+        {
+          "name": "Frank Wildhorn",
+          "qid": "Q1444457",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5638"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Leslie Bricusse",
+          "qid": "Q1305608",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11429"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Leslie Bricusse",
+          "qid": "Q1305608",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11429"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Cyrano_de_Bergerac_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5200580"
+      },
+      "summary": {
+        "text": "Cyrano de Bergerac is a musical with a book and lyrics by Leslie Bricusse and music by Frank Wildhorn. It is based on the 1897 play of the same title by Edmond Rostand.",
+        "source_url": "https://en.wikipedia.org/wiki/Cyrano_de_Bergerac_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "dracula-the-musical-q1254418": {
+      "slug": "dracula-the-musical-q1254418",
+      "title": "Dracula, the Musical",
+      "qid": "Q1254418",
+      "enwiki": "Dracula, the Musical",
+      "composers": [
+        {
+          "name": "Frank Wildhorn",
+          "qid": "Q1444457",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5638"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Don Black",
+          "qid": "Q1238931",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5065"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/378387",
+        "wikipedia": "https://en.wikipedia.org/wiki/Dracula%2C_the_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q1254418"
+      },
+      "summary": {
+        "text": "Dracula, the Musical is a musical based on the original 1897 Victorian novel by Bram Stoker. The score is by Frank Wildhorn, with lyrics and book by Don Black and Christopher Hampton.\nThe show had its regional premiere at the La Jolla Playhouse, La Jolla, California, in 2001, playing to 115% capacity, earning the highest paid capacity for any world premiere production in the playhouse's history. It then premiered on Broadway in 2004, starring Tom Hewitt as the vampire Count and Melissa Errico as the woman he loves, Mina Harker.\nA brief nude scene in which Dracula seduces Lucy Westenra (played by Kelli O'Hara) received much publicity, as did the show's numerous special effects. Despite that, the show ran for only 154 performances, and received mainly negative reviews. The show underwent substantial revision and later had engagements in Europe and Asia, where it achieved considerable success.",
+        "source_url": "https://en.wikipedia.org/wiki/Dracula%2C_the_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "drat-the-cat": {
+      "slug": "drat-the-cat",
+      "title": "Drat! The Cat!",
+      "qid": "Q5305923",
+      "enwiki": "Drat! The Cat!",
+      "composers": [
+        {
+          "name": "Milton Schafer",
+          "qid": "Q6861445",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12359"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Ira Levin",
+          "qid": "Q317631",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6436"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Ira Levin",
+          "qid": "Q317631",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6436"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3184",
+        "wikipedia": "https://en.wikipedia.org/wiki/Drat!_The_Cat!",
+        "wikidata": "https://www.wikidata.org/wiki/Q5305923"
+      },
+      "summary": {
+        "text": "Drat! The Cat! is a 1965 musical comedy that follows a gilded age police officer's attempts to arrest The Cat, a notorious jewel thief whose civilian alter ego he is deeply in love with. Its Broadway run lasted just eight days. The show features a book and lyrics by Ira Levin with music by Milton Schafer.",
+        "source_url": "https://en.wikipedia.org/wiki/Drat!_The_Cat!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "fade-out-fade-in": {
+      "slug": "fade-out-fade-in",
+      "title": "Fade Out – Fade In",
+      "qid": "Q5429172",
+      "enwiki": "Fade Out – Fade In",
+      "composers": [
+        {
+          "name": "Jule Styne",
+          "qid": "Q587741",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12466"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Betty Comden",
+          "qid": "Q175078",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4525"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Betty Comden",
+          "qid": "Q175078",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4525"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3427",
+        "wikipedia": "https://en.wikipedia.org/wiki/Fade_Out_%E2%80%93_Fade_In",
+        "wikidata": "https://www.wikidata.org/wiki/Q5429172"
+      },
+      "summary": {
+        "text": "Fade Out – Fade In is a musical with a book and lyrics by Betty Comden and Adolph Green and music by Jule Styne. The story involves the movie industry in the 1930s. It starred Carol Burnett, returning to the Broadway stage for the first time in four years.\nComden and Green, who tackled the problems Hollywood players faced when the film industry transitioned from silent movies to sound films in Singin' in the Rain, now turn to Hollywood in the 1930s. The show spoofs some of the great film stars of the era, such as Shirley Temple and Bill \"Bojangles\" Robinson, and the character L.Z. Governor is based on MGM honcho Louis B. Mayer, known for his roving eye for pretty starlets and deep-seated nepotism.",
+        "source_url": "https://en.wikipedia.org/wiki/Fade_Out_%E2%80%93_Fade_In",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "fire": {
+      "slug": "fire",
+      "title": "Fire",
+      "qid": "Q5451310",
+      "enwiki": "Fire (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Fire_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5451310"
+      },
+      "summary": {
+        "text": "Fire is a 1985 Dora Award winning musical by Paul Ledoux and David Young.  The musical is based loosely on the story of Jerry Lee Lewis and his cousin Jimmy Swaggart and the divergent paths their lives took.\nThe musical follows the lives of the character \"Cale Blackwell\", based on real-life story of Jerry Lee Lewis and his brother \"Herchel Blackwell\" which is based on Lewis' real-life cousin Jimmy Swaggart. Herchel follows in the footsteps of his father, the reverend Blackwell's, as a preacher. Herchel's father is proud of him but does not approve of his son's use of the radio and then television while pioneering televangelism. The Reverend JD Blackwell is almost immediately disappointed with Cale who quickly finds fame as a Boogie-Woogie star and wallows in an accompanying life of rebellion against society and his own upbringing. Both brothers fall in love with their mutual childhood sweetheart \"Molly King\".\nUltimately neither brother can claim to have led a moral life, and both had succumbed to their own flaws.",
+        "source_url": "https://en.wikipedia.org/wiki/Fire_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "flying-high": {
+      "slug": "flying-high",
+      "title": "Flying High",
+      "qid": "Q5463447",
+      "enwiki": "Flying High (musical)",
+      "composers": [
+        {
+          "name": "Ray Henderson",
+          "qid": "Q1980821",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8253"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Lew Brown",
+          "qid": "Q4096110",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7310"
+        },
+        {
+          "name": "Buddy DeSylva",
+          "qid": "Q80760",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4394"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Jack McGowan",
+          "qid": "Q16749832",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6549"
+        },
+        {
+          "name": "Buddy DeSylva",
+          "qid": "Q80760",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4394"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3630",
+        "wikipedia": "https://en.wikipedia.org/wiki/Flying_High_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5463447"
+      },
+      "summary": {
+        "text": "Flying High is a musical comedy with book by B. G. DeSylva, Lew Brown, and Jack McGowan, lyrics by B. G. DeSylva and Lew Brown, music by Ray Henderson. Set in Manhattan and Newark, New Jersey, the musical is about an inventor, Rusty Krouse, who is attempting to enter his \"Aerocopter\", in the upcoming 10th Annual Air Show at an airport.\nProduced by George White, the Broadway production opened on March 3, 1930 at the Apollo Theatre for a total run of 355 performances. The cast included Bert Lahr as Rusty Krouse, Oscar Shaw as Tod Addison, Kate Smith as Pansy Sparks, Russ Brown as Sport, Pearl Osgood as Bunny McHugh, Grace Brinkley as Eileen Cassidy, and the Gale Sisters: Jean Gale, June Gale, Joan Gale, and Jane Gale.\nThis was the last of the DeSylva, Brown and Henderson Broadway musicals.\nIt was adapted into a 1931 film of the same name.",
+        "source_url": "https://en.wikipedia.org/wiki/Flying_High_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "forbidden-broadway-2001-a-spoof-odyssey": {
+      "slug": "forbidden-broadway-2001-a-spoof-odyssey",
+      "title": "Forbidden Broadway 2001: A Spoof Odyssey",
+      "qid": "Q5467308",
+      "enwiki": "Forbidden Broadway 2001: A Spoof Odyssey",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Forbidden_Broadway_2001%3A_A_Spoof_Odyssey",
+        "wikidata": "https://www.wikidata.org/wiki/Q5467308"
+      },
+      "summary": {
+        "text": "Forbidden Broadway 2001: A Spoof Odyssey is the 21st century's first incarnation of the Off-Broadway revue Forbidden Broadway.  It was conceived, created, and written by Gerard Alessandrini and satirizes Broadway's latest shows and stars. Phillip George co-directed with Alessandrini, with Catherine Stornetta as the musical director and piano accompanist. George contributed some of the ideas and dialogue for the sketches.\nThe show opened in December 2000 in the Stardust Theater (at Ellen's Stardust Diner). An album, the seventh in the series, accompanies the show, having been recorded and mixed in December 2000 by Cynthia Daniels at Sound on Sound in New York.\nThe show continues the tradition of commenting on current Broadway issues.  It spoofs new shows, including Beauty and the Beast, Aida, and The Full Monty, and the revivals of Joseph and the Amazing Technicolor Dreamcoat, The Music Man, Cabaret, and Kiss Me, Kate; older shows, such as Annie Get Your Gun, Miss Saigon, and Les Misérables; and personalities, such as Gwen Verdon, Édith Piaf, Heather Headley, Marin Mazzie, Ben Brantley. The reviewer for CurtainUp noted that the \"best and most original sequence is the one built around Contact. Business concerns again underpinned it.\"",
+        "source_url": "https://en.wikipedia.org/wiki/Forbidden_Broadway_2001%3A_A_Spoof_Odyssey",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "forbidden-broadway-special-victims-unit": {
+      "slug": "forbidden-broadway-special-victims-unit",
+      "title": "Forbidden Broadway: Special Victims Unit",
+      "qid": "Q5467307",
+      "enwiki": "Forbidden Broadway: Special Victims Unit",
+      "composers": [],
+      "lyricists": [
+        {
+          "name": "Gerard Alessandrini",
+          "qid": "Q5549903",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/406896"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Gerard Alessandrini",
+          "qid": "Q5549903",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/406896"
+        }
+      ],
+      "premiere": {
+        "date": "2004-12-16",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Forbidden_Broadway%3A_Special_Victims_Unit",
+        "wikidata": "https://www.wikidata.org/wiki/Q5467307"
+      },
+      "summary": {
+        "text": "Forbidden Broadway: Special Victims Unit (Forbidden Broadway: SVU for short) is the ninth show in Gerard Alessandrini's collection of musical revues. It ran Off-Broadway from 2004 to 2007.",
+        "source_url": "https://en.wikipedia.org/wiki/Forbidden_Broadway%3A_Special_Victims_Unit",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "fort-griffin-fandangle": {
+      "slug": "fort-griffin-fandangle",
+      "title": "Fort Griffin Fandangle",
+      "qid": "Q5471259",
+      "enwiki": "Fort Griffin Fandangle",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Fort_Griffin_Fandangle",
+        "wikidata": "https://www.wikidata.org/wiki/Q5471259"
+      },
+      "summary": {
+        "text": "The Fort Griffin Fandangle is the oldest outdoor musical \nin the state of Texas.  The musical takes place at an outdoor theater, called The Prairie Theatre, near Albany, Texas.  Created by Robert Nail in 1938, the Fandangle has grown to a cast of over 400 and celebrates the founding of Fort Griffin and the settling of Albany.  The show is attended by over 10,000 people each year. It is performed annually on Friday, and Saturday evenings of the last two weeks in June.",
+        "source_url": "https://en.wikipedia.org/wiki/Fort_Griffin_Fandangle",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "fritzi": {
+      "slug": "fritzi",
+      "title": "Fritzi",
+      "qid": "Q122863865",
+      "enwiki": "Fritzi (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": "Theatre Royal"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Fritzi_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q122863865"
+      },
+      "summary": {
+        "text": "Fritzi is a musical comedy written by Sidney Blow and Edward Royce, with lyrics by Arthur Stanley and music by Carl Tucker. The story concerns a Parisian woman who disguises herself as an impoverished Baroness to gain an audition with a famous actor-manager. He falls in love with her and, after some complications, proposes marriage.\nAfter a premiere at the Theatre Royal in Birmingham, England, on 2 December 1935, the piece moved to the Adelphi Theatre in London on 21 December and finally to the Shaftesbury Theatre on 13 January 1936 for a further six weeks.",
+        "source_url": "https://en.wikipedia.org/wiki/Fritzi_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "hero": {
+      "slug": "hero",
+      "title": "Hero",
+      "qid": "Q20874613",
+      "enwiki": "Hero (musical)",
+      "composers": [
+        {
+          "name": "John Palmer",
+          "qid": "Q3180838"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Don Henderson",
+          "qid": "Q5292770"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Craig McGregor",
+          "qid": "Q5181209"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Hero_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q20874613"
+      },
+      "summary": {
+        "text": "Hero is a rock musical with book by Craig McGregor, lyrics by Don Henderson and music by John 'Poli' Palmer.  It concerns a pop singer's odyssey in search of stardom with strong undertones of Greek tragedy. The story is about two brothers, loosely based on the Greek myth of Castor and Pollux.  The older brother is an ambitious politician, whereas the younger brother is a successful rock star.",
+        "source_url": "https://en.wikipedia.org/wiki/Hero_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "in-dreams": {
+      "slug": "in-dreams",
+      "title": "In Dreams",
+      "qid": "Q119999418",
+      "enwiki": "In Dreams (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/In_Dreams_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q119999418"
+      },
+      "summary": {
+        "text": "In Dreams is a jukebox musical with a book by David West Read and featuring the songs of Roy Orbison. The musical uses the songs of Orbison to tell a modern-day story about Kenna, the former lead singer of a country rock band, who reconnects with her old friends at a family-run Mexican restaurant.",
+        "source_url": "https://en.wikipedia.org/wiki/In_Dreams_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "kpop": {
+      "slug": "kpop",
+      "title": "KPOP",
+      "qid": "Q55615533",
+      "enwiki": "KPOP (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2017-09-05",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/534370",
+        "official_site": "http://arsnovanyc.com/KPOP/",
+        "wikipedia": "https://en.wikipedia.org/wiki/KPOP_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q55615533"
+      },
+      "summary": {
+        "text": "KPOP is a Broadway musical with a book by Jason Kim and music and lyrics by Helen Park and Max Vernon. The musical originally premiered off-Broadway at Ars Nova in Manhattan in September 2017. The Broadway production premiered on November 20, 2022, and featured several K-pop idols in the cast, including Luna, Kevin Woo, Kim Bo-hyung, and Min. Despite the show's early closure in December 2022, the production received three nominations at the 76th Tony Awards.",
+        "source_url": "https://en.wikipedia.org/wiki/KPOP_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "love-from-judy": {
+      "slug": "love-from-judy",
+      "title": "Love from Judy",
+      "qid": "Q105560675",
+      "enwiki": "Love from Judy",
+      "composers": [
+        {
+          "name": "Hugh Martin",
+          "qid": "Q5931668",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13678"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Eric Maschwitz",
+          "qid": "Q1351469",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/86572"
+        },
+        {
+          "name": "Jean Webster",
+          "qid": "Q238140",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6687"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Love_from_Judy",
+        "wikidata": "https://www.wikidata.org/wiki/Q105560675"
+      },
+      "summary": {
+        "text": "Love from Judy is a musical with music by Hugh Martin, lyrics by Martin and Jack Gray, and a book by Eric Maschwitz and Jean Webster. It is based on Webster's novel and play Daddy-Long-Legs. The original production opened in Coventry in 1951 and then moved to the Saville Theatre on the West End and opened on September 25, 1952. The production was also televised in 1953.",
+        "source_url": "https://en.wikipedia.org/wiki/Love_from_Judy",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "lute-song": {
+      "slug": "lute-song",
+      "title": "Lute Song",
+      "qid": "Q4359801",
+      "enwiki": "Lute Song (musical)",
+      "composers": [
+        {
+          "name": "Raymond Scott",
+          "qid": "Q1334617",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12379"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Bernie Hanighen",
+          "qid": "Q4894399",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12939"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Sidney Howard",
+          "qid": "Q1132960",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/77671"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5671",
+        "wikipedia": "https://en.wikipedia.org/wiki/Lute_Song_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4359801"
+      },
+      "summary": {
+        "text": "Lute Song is a 1946 American musical with a book by Sidney Howard and Will Irwin, music by Raymond Scott, and lyrics by Bernard Hanighen. It is based on the 14th-century Chinese play Tale of the Pipa (Pi-Pa-Ji) by Gao Ming. Though not a great success, the show is significant for Mary Martin's meeting of then-unknown cast member Yul Brynner, whom she later recommended to her friends Rodgers and Hammerstein for the role of the Siamese monarch in the classic The King and I, which premiered on Broadway in 1951. It was also the only Broadway appearance of Nancy Davis, future U.S. First Lady Nancy Reagan.",
+        "source_url": "https://en.wikipedia.org/wiki/Lute_Song_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "marie-christine": {
+      "slug": "marie-christine",
+      "title": "Marie Christine",
+      "qid": "Q13412299",
+      "enwiki": "Marie Christine",
+      "composers": [
+        {
+          "name": "Michael John LaChiusa",
+          "qid": "Q3308276",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13016"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Michael John LaChiusa",
+          "qid": "Q3308276",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13016"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Michael John LaChiusa",
+          "qid": "Q3308276",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13016"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5862",
+        "wikipedia": "https://en.wikipedia.org/wiki/Marie_Christine",
+        "wikidata": "https://www.wikidata.org/wiki/Q13412299"
+      },
+      "summary": {
+        "text": "Marie Christine is a musical with music, lyrics, and book by Michael John LaChiusa. It opened on Broadway in 1999. While loosely based on the Greek play Medea, it is set in the 1890s, in New Orleans and Chicago, and draws heavily on the biographies of (and the mythology about) a historical mother and daughter, both named Marie Laveau, who were famous practitioners of voodoo.",
+        "source_url": "https://en.wikipedia.org/wiki/Marie_Christine",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "nhs-the-musical": {
+      "slug": "nhs-the-musical",
+      "title": "NHS the Musical",
+      "qid": "Q6954196",
+      "enwiki": "NHS the Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/NHS_the_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q6954196"
+      },
+      "summary": {
+        "text": "NHS The Musical premiered in May 2006 at The Drum Theatre, Theatre Royal, Plymouth. It began in 2002 and took years of research, eventually opening in 2006. It was written by Jimmy Jewell and Nick Stimson, both of whom are associate directors for the Theatre Royal, Plymouth.",
+        "source_url": "https://en.wikipedia.org/wiki/NHS_the_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "prince-kaguya": {
+      "slug": "prince-kaguya",
+      "title": "Prince Kaguya",
+      "qid": "Q51879804",
+      "enwiki": "Prince Kaguya",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "http://legendstage.co.jp/princekaguya/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Prince_Kaguya",
+        "wikidata": "https://www.wikidata.org/wiki/Q51879804"
+      },
+      "summary": {
+        "text": "Prince Kaguya (プリンス・カグヤ) is a Japanese musical based on the fictional prose narrative, The Tale of the Bamboo Cutter. It was premiered on November 28, 2015 at the Hakuhinkan Theater in Tokyo, where its functions were held until December 6. Between December 12 and 13, three functions were held at the Matsushita IMP Hall, Osaka. It starred Shouta Aoi, Masato Saki, Yūki Fujiwara, Nozomu Masuzawa and Naomi Akimoto. The main theme is \"Murasaki\" sung by Shouta Aoi. Despite being based on a classic story, the work incorporates aspects of modern culture and Kaguya's gender was changed from female to male.",
+        "source_url": "https://en.wikipedia.org/wiki/Prince_Kaguya",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "revelations": {
+      "slug": "revelations",
+      "title": "Revelations",
+      "qid": "Q7317836",
+      "enwiki": "Revelations (Alvin Ailey)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Revelations_(Alvin_Ailey)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7317836"
+      },
+      "summary": {
+        "text": "Revelations is the  best-known work of the modern dance choreographer Alvin Ailey. It is also the signature work of the Alvin Ailey American Dance Theater, which premiered an extended version of the work (lasting over an hour) in 1960, when Ailey was 29 years old. Set to spirituals, gospel, and blues music and influenced by the choreographer's own Christian upbringing, it presents a vision of the historical African American experience from a church-inspired perspective. The three sections of the final 36-minute revised version depict the suffering of slavery (\"Pilgrim of Sorrow\"), baptismal joy (\"Take me to the Water\"), and a choral church celebration (\"Move, Members, Move\").\nWhile drawing on the modern-dance techniques of Lester Horton, who had been Ailey's mentor, Martha Graham and Doris Humphrey, the dancing is also influenced by the movement studies of Asadata Dafora, Katherine Dunham and Pearl Primus.\nRevelations has been presented at the White House on many occasions, including the presidential inaugurations of Jimmy Carter and Bill Clinton, and it also formed part of the Opening Ceremonies for the 1968 Olympics in Mexico City.",
+        "source_url": "https://en.wikipedia.org/wiki/Revelations_(Alvin_Ailey)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "school-of-rock": {
+      "slug": "school-of-rock",
+      "title": "School of Rock",
+      "qid": "Q18758174",
+      "enwiki": "School of Rock (musical)",
+      "composers": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "qid": "Q180975",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12073"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Glenn Slater",
+          "qid": "Q3427403",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/80644"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Julian Fellowes",
+          "qid": "Q336018",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/408507"
+        }
+      ],
+      "premiere": {
+        "date": "2015-11-09",
+        "venue": "Winter Garden Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/498972",
+        "playbill": "https://playbill.com/production/school-of-rock-the-musical-winter-garden-theatre-vault-0000014098",
+        "official_site": "http://schoolofrockthemusical.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/School_of_Rock_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q18758174"
+      },
+      "summary": {
+        "text": "School of Rock is a rock musical with music by Andrew Lloyd Webber, lyrics by Glenn Slater and a book by Julian Fellowes. Based on the 2003 film of the same name, written by Mike White, the musical follows Dewey Finn, an out-of-work rock singer and guitarist who pretends to be a substitute teacher at a prestigious prep school. After identifying the musical talent in his students, Dewey forms a band of fifth-graders, in an attempt to win the upcoming Battle of the Bands contest.\nThe musical made its Broadway debut and world premiere on December 6, 2015, at the Winter Garden Theatre, following previews from November 9, 2015, directed by Laurence Connor and starring Alex Brightman as Dewey Finn and Sierra Boggess as Rosalie Mullins. The musical made its West End debut at the Gillian Lynne Theatre on November 14, 2016.",
+        "source_url": "https://en.wikipedia.org/wiki/School_of_Rock_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-bing-boys-are-here": {
+      "slug": "the-bing-boys-are-here",
+      "title": "The Bing Boys Are Here",
+      "qid": "Q11024907",
+      "enwiki": "The Bing Boys Are Here",
+      "composers": [
+        {
+          "name": "Nat Ayer",
+          "qid": "Q3336284"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Clifford Grey",
+          "qid": "Q1101276",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4882"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "George Grossmith Jr.",
+          "qid": "Q3101618",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5814"
+        }
+      ],
+      "premiere": {
+        "date": "1916-04-19",
+        "venue": "Alhambra Theatre"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Bing_Boys_Are_Here",
+        "wikidata": "https://www.wikidata.org/wiki/Q11024907"
+      },
+      "summary": {
+        "text": "The Bing Boys Are Here, styled \"A Picture of London Life, in a Prologue and Six Panels,\" is the first of a series of revues which played at the Alhambra Theatre, London during the last two years of World War I. The series included The Bing Boys on Broadway and The Bing Girls Are There. The music for them was written by Nat D. Ayer with lyrics by Clifford Grey, and the text was by George Grossmith, Jr. and Fred Thompson based on Rip and Bousquet's Le Fils Touffe.  Other material was contributed by Eustace Ponsonby, Philip Braham and Ivor Novello.\nThe Bing Boys Are Here opened in 1916 in the West End and ran for 378 performances. It was one of the three most important musical hits of the London stage during World War I (the other two being The Maid of the Mountains and Chu Chin Chow); music or scenes from all of these have been included as background in many films set in this period, and they remain intensely evocative of the \"Great War\" years.  Other hit shows of the period were Theodore & Co (1916), The Happy Day (1916), The Boy (1917), and Yes, Uncle! (1917, also with music and lyrics by Ayer and Grey). Audiences, which included soldiers on leave, wanted light and uplifting entertainment during the war, and these shows delivered it.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Bing_Boys_Are_Here",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-french-maid": {
+      "slug": "the-french-maid",
+      "title": "The French Maid",
+      "qid": "Q7735254",
+      "enwiki": "The French Maid",
+      "composers": [
+        {
+          "name": "Walter Slaughter",
+          "qid": "Q7966157",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9041"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Basil Hood",
+          "qid": "Q4867189",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4438"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_French_Maid",
+        "wikidata": "https://www.wikidata.org/wiki/Q7735254"
+      },
+      "summary": {
+        "text": "The French Maid is a musical comedy in two acts by Basil Hood, with music by Walter Slaughter, first produced at the Theatre Royal, Bath, England, under the management of Milton Bode on 4 April 1896.  It then opened London's Terry's Theatre under the management of W. H. Griffiths beginning on 24 April 1897, but later transferred to the Vaudeville Theatre on 12 February 1898, running for a very successful total of 480 London performances.  The piece starred Louie Pounds, Kate Cutler, Eric Lewis, Herbert Standing and Richard Green.  There was a New York production in 1897.\nThe Times gave the piece a very favourable review at its London opening, saying that \"a fresher, brighter piece has not been seen for many a day.\"",
+        "source_url": "https://en.wikipedia.org/wiki/The_French_Maid",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-king-s-carnival": {
+      "slug": "the-king-s-carnival",
+      "title": "The King's Carnival",
+      "qid": "Q125407902",
+      "enwiki": "The King's Carnival",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_King's_Carnival",
+        "wikidata": "https://www.wikidata.org/wiki/Q125407902"
+      },
+      "summary": {
+        "text": "The King's Carnival is a musical burlesque in two acts with music by A. Baldwin Sloane and both book and lyrics by Sydney Rosenfeld.  The musical also included one hit song by the songwriting team of Jean Schwartz and William Jerome, \"When Mr. Shakespeare Comes to Town\". The musical was a parody of several Broadway shows that dealt with royalty and courtly drama, including targeted spoofs of Paul Kester's When Knighthood Was in Flower, Clyde Fitch's The Climbers, Paul M. Potter's Under Two Flags, and Lorimer Stoddard's In the Palace of the King.",
+        "source_url": "https://en.wikipedia.org/wiki/The_King's_Carnival",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-little-mermaid": {
+      "slug": "the-little-mermaid",
+      "title": "The Little Mermaid",
+      "qid": "Q911906",
+      "enwiki": "The Little Mermaid (musical)",
+      "composers": [
+        {
+          "name": "Alan Menken",
+          "qid": "Q317272",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12135"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Howard Ashman",
+          "qid": "Q1334295",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6356"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Doug Wright",
+          "qid": "Q722807",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/113564"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/456221",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Little_Mermaid_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q911906"
+      },
+      "summary": {
+        "text": "The Little Mermaid is a stage musical produced by Disney Theatrical Productions, based on the 1989 film by Walt Disney Animation Studios and the fairy tale by Hans Christian Andersen about a mermaid who dreams of the world above the sea and gives up her voice to find true love. Its book is by Doug Wright, music by Alan Menken and lyrics by Howard Ashman (written for the film), with additional lyrics by Glenn Slater. Its underwater setting and story about aquatic characters requires unusual technical designs and strategies to create gliding movements for the actors.\nAfter a pre-Broadway tryout in Denver, Colorado from July to September 2007, the musical began Broadway previews on November 3, 2007, at the Lunt-Fontanne Theatre, replacing Disney's Beauty and the Beast. The production officially opened on January 10, 2008, and closed on August 30, 2009, after 685 performances and 50 previews. It introduced Broadway debuts by director Francesca Zambello and Sierra Boggess in the title role.\nSubsequent productions have been seen in US regional theatres and internationally. A modified version of the musical with a new book and direction by Glenn Casale was developed in 2012, and this version is the basis for subsequent productions.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Little_Mermaid_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-sunshine-club": {
+      "slug": "the-sunshine-club",
+      "title": "The Sunshine Club",
+      "qid": "Q20875879",
+      "enwiki": "The Sunshine Club",
+      "composers": [
+        {
+          "name": "John Rodgers",
+          "qid": "Q6255360"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Wesley Enoch",
+          "qid": "Q7983918"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Wesley Enoch",
+          "qid": "Q7983918"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Sunshine_Club",
+        "wikidata": "https://www.wikidata.org/wiki/Q20875879"
+      },
+      "summary": {
+        "text": "The Sunshine Club is an Australian musical with book and lyrics by Wesley Enoch and music by John Rodgers.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Sunshine_Club",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "this-beautiful-city": {
+      "slug": "this-beautiful-city",
+      "title": "This Beautiful City",
+      "qid": "Q7785607",
+      "enwiki": "This Beautiful City (play)",
+      "composers": [
+        {
+          "name": "Michael Friedman",
+          "qid": "Q6830428",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/380569"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/This_Beautiful_City_(play)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7785607"
+      },
+      "summary": {
+        "text": "This Beautiful City is a play with music by the investigative theatre company The Civilians. The play engages with \"the expansion of the Evangelical movement in Colorado Springs\" and the gulf between the Evangelical and secular communities in the region, against the background of the Ted Haggard sex scandal. It was written by Steve Cosson and Jim Lewis from interviews conducted by Associate Artists Emily Ackerman, Marsha Stephanie Blake, Brad Heberlee, Brandon Miller, Stephen Plunkett, and Alison Weller, with music and lyrics by Michael Friedman, and directed by Steve Cosson. The play first opened in March 2008 at the Actors Theatre of Louisville Humana Festival of New American Plays, followed by successful runs at Studio Theatre in Washington, D.C., and the Center Theatre Group in Los Angeles, California. The piece premiered in New York City in the winter of 2009 at the Vineyard Theatre. This Beautiful City was nominated for Drama Desk, Drama League, and Lucille Lortel Awards",
+        "source_url": "https://en.wikipedia.org/wiki/This_Beautiful_City_(play)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "whoop-dee-doo-q7997614": {
+      "slug": "whoop-dee-doo-q7997614",
+      "title": "Whoop-Dee-Doo",
+      "qid": "Q7997614",
+      "enwiki": "Whoop-Dee-Doo",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/9348",
+        "wikipedia": "https://en.wikipedia.org/wiki/Whoop-Dee-Doo",
+        "wikidata": "https://www.wikidata.org/wiki/Q7997614"
+      },
+      "summary": {
+        "text": "Whoop-Dee-Doo is a Broadway musical by Weber and Fields that played in 1903–1904 at Weber and Fields' Broadway Music Hall.  The music book by Edgar Smith is based on Henri Lavedan's 1897 play Catherine. The musical is set at Kaiser Wilhelm Bier-haus in the city of Paris.",
+        "source_url": "https://en.wikipedia.org/wiki/Whoop-Dee-Doo",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

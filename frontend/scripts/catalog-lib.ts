@@ -1,0 +1,431 @@
+// Catalogue pull: every musical (Wikidata class Q58483083 incl. subclasses) with an English
+// Wikipedia article, minus the flagships and minus operas, ballets, masques, oratorios and
+// cantatas. Q58483083 also holds those, so "is it a musical" is decided by two signals:
+// the intro text first (scripts/catalog-classify.ts) and a Wikidata class check as fallback.
+// Sequential stages, all via the injected Fetcher:
+//   1. listing   one SPARQL query             -> (Q-id, enwiki title, excludedByClass) for ALL candidates
+//   2. extracts  MediaWiki action API batches -> intro text (CC BY-SA 4.0), for all candidates
+//   3. classify  text rule, else excludedByClass -> the kept shows (decision counts are logged)
+//   4. details   SPARQL, VALUES batches       -> credits, premiere, awards, links (kept only)
+//   5. diagnostics (log only, single attempt, each query on its own): class and genre breakdowns
+import type { CatalogIndexEntry, CatalogShard, CatalogShow } from '../src/data/catalogShow.ts'
+import { shardOf } from '../src/data/catalogShow.ts'
+import { classifyEntries, FORM_WORDS, logDecisions, MUSICAL_WORDS } from './catalog-classify.ts'
+import type { Flagship, ShowAward, ShowSummary } from '../src/data/show.ts'
+import {
+  MUSICAL_CLASS,
+  cmp,
+  dedupe,
+  formatDate,
+  ibdbShowUrl,
+  itemsQuery,
+  parseRows,
+  people,
+  playbillUrl,
+  qidOf,
+  sparqlRequest,
+  type Fetcher,
+  type PullRequest,
+  type Row,
+} from './pull-lib.ts'
+
+export const ITEMS_BATCH = 100
+export const EXTRACTS_BATCH = 20
+const MAX_CREATORS = 3
+
+export interface ListEntry {
+  qid: string
+  enwiki: string
+  /** True when P31/P136/P7937 reaches an EXCLUDED_CLASSES class. Absent = false. */
+  excludedByClass?: boolean
+}
+interface PullOptions {
+  log?: Log
+  /** For the log-only class queries: should make one attempt, so a WDQS timeout is not retried. Defaults to the main fetcher. */
+  diagnosticFetcher?: Fetcher
+}
+
+// ---- Slugs -------------------------------------------------------------------
+
+export function slugify(s: string): string {
+  return s
+    .normalize('NFKD')
+    .replace(/\p{M}+/gu, '')
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '')
+}
+
+/** "Chicago (musical)" -> "Chicago". */
+export const displayTitle = (enwiki: string) => enwiki.replace(/\s*\([^()]*\)\s*$/, '').trim() || enwiki
+
+const countBy = (xs: string[]) => xs.reduce((m, x) => m.set(x, (m.get(x) ?? 0) + 1), new Map<string, number>())
+
+/**
+ * Slug per Q-id, independent of input order. Base slug = title minus trailing parenthetical.
+ * A base shared with another show or a flagship falls back to the full-title slug; a full
+ * slug that still collides gets the lowercase Q-id appended.
+ */
+export function assignSlugs(entries: ListEntry[], flagshipSlugs: Set<string>): Map<string, string> {
+  const base = (e: ListEntry) => slugify(displayTitle(e.enwiki)) || e.qid.toLowerCase()
+  const counts = countBy(entries.map(base))
+  const contested = (e: ListEntry) => flagshipSlugs.has(base(e)) || (counts.get(base(e)) ?? 0) > 1
+  const taken = new Set([...flagshipSlugs, ...entries.filter((e) => !contested(e)).map(base)])
+  const full = (e: ListEntry) => slugify(e.enwiki) || e.qid.toLowerCase()
+  const fullCounts = countBy(entries.filter(contested).map(full))
+
+  const slugs = new Map<string, string>()
+  for (const e of entries) {
+    if (!contested(e)) slugs.set(e.qid, base(e))
+    else if (taken.has(full(e)) || (fullCounts.get(full(e)) ?? 0) > 1) slugs.set(e.qid, `${full(e)}-${e.qid.toLowerCase()}`)
+    else slugs.set(e.qid, full(e))
+  }
+  return slugs
+}
+
+// ---- Requests ----------------------------------------------------------------
+
+const pad = (n: number) => String(n).padStart(3, '0')
+
+/**
+ * Wikidata classes that are not musicals. The first live run showed operas, ballets and masques
+ * are typed directly as dramatico-musical work (Q58483083), so an item is excluded when any of
+ * its P31 (instance of), P136 (genre) or P7937 (form of creative work) reaches one of these via
+ * P279* (subclass of). Operetta is listed on its own: its superclasses are musical drama and
+ * opéra comique, not opera. Ids verified against the run log's Wikidata labels.
+ */
+export const EXCLUDED_CLASSES = [
+  'Q1344', // opera
+  'Q170384', // operetta
+  'Q85477', // oratorio
+  'Q41425', // ballet
+  'Q174873', // cantata
+  'Q15079786', // ballet (the work class)
+  'Q2207959', // masque
+  'Q1907293', // Masque
+]
+
+const badClasses = `?item (wdt:P31|wdt:P136|wdt:P7937)/wdt:P279* ?bad . VALUES ?bad { ${EXCLUDED_CLASSES.map((c) => `wd:${c}`).join(' ')} }`
+const musicalsWithArticle = `?item wdt:P31/wdt:P279* wd:${MUSICAL_CLASS} .
+  ?article schema:about ?item ;
+           schema:isPartOf <https://en.wikipedia.org/> ;
+           schema:name ?enwiki .`
+const notExcluded = `FILTER NOT EXISTS { ${badClasses} }`
+const isExcluded = badClasses // used by the log-only breakdown queries
+
+/** One query for the whole class (~6.5k rows): no paging, so the result is one consistent snapshot. Flags, never filters. */
+export function listingQuery(): string {
+  return `SELECT DISTINCT ?item ?enwiki ?excludedByClass WHERE {
+  ${musicalsWithArticle}
+  BIND(EXISTS { ${badClasses} } AS ?excludedByClass)
+}`
+}
+
+/** How many items the exclusions remove. */
+export function excludedCountQuery(): string {
+  return `SELECT (COUNT(DISTINCT ?item) AS ?n) WHERE {
+  ${musicalsWithArticle}
+  ${isExcluded}
+}`
+}
+
+export const CLASS_BREAKDOWN_SIZE = 40
+export const EXCLUDED_BREAKDOWN_SIZE = 20
+export const PROPERTY_BREAKDOWN_SIZE = 30
+
+/** Top P31 classes of the items matching `itemPattern`. Grouping happens in a subquery; labels are added outside it. */
+function topClassesQuery(itemPattern: string, limit: number, prop = 'P31'): string {
+  return `SELECT ?cls ?clsLabel ?n WHERE {
+  { SELECT ?cls (COUNT(DISTINCT ?item) AS ?n) WHERE {
+    ${itemPattern}
+    ?item wdt:${prop} ?cls .
+  } GROUP BY ?cls ORDER BY DESC(?n) LIMIT ${limit} }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,mul". }
+}
+ORDER BY DESC(?n)`
+}
+
+/** Top P31 classes of the items the listing keeps. */
+export const classBreakdownQuery = () => topClassesQuery(`${musicalsWithArticle}\n    ${notExcluded}`, CLASS_BREAKDOWN_SIZE)
+
+/** Top P31 classes of the items the listing drops: a wrongly excluded musical class shows up here. */
+export const excludedClassBreakdownQuery = () => topClassesQuery(`${musicalsWithArticle}\n    ${isExcluded}`, EXCLUDED_BREAKDOWN_SIZE)
+
+/** Top values of a property (P136 genre, P7937 form) among kept (or, with `excluded`, dropped) items. */
+export const propertyBreakdownQuery = (prop: string, excluded: boolean) =>
+  topClassesQuery(`${musicalsWithArticle}\n    ${excluded ? isExcluded : notExcluded}`, PROPERTY_BREAKDOWN_SIZE, prop)
+
+export interface ExtractsCall {
+  titles: string[]
+  batch: number
+  part: number
+  cont?: Record<string, unknown>
+}
+
+export function extractsRequest({ titles, batch, part, cont = {} }: ExtractsCall): PullRequest {
+  const params = new URLSearchParams({
+    action: 'query',
+    prop: 'extracts',
+    exintro: '1',
+    explaintext: '1',
+    exlimit: 'max',
+    redirects: '1',
+    format: 'json',
+    formatversion: '2',
+    titles: titles.join('|'),
+  })
+  for (const [k, v] of Object.entries(cont)) params.set(k, String(v))
+  return { path: `catalog/extracts.${pad(batch)}.${part}.json`, url: `https://en.wikipedia.org/w/api.php?${params}`, accept: 'application/json' }
+}
+
+const chunk = <T>(xs: T[], n: number): T[][] => Array.from({ length: Math.ceil(xs.length / n) }, (_, i) => xs.slice(i * n, (i + 1) * n))
+
+export const wikipediaUrl = (enwiki: string) => `https://en.wikipedia.org/wiki/${encodeURIComponent(enwiki.replace(/ /g, '_'))}`
+
+// ---- Stage 1: listing --------------------------------------------------------
+
+type Bindings = { results: { bindings: Record<string, { value: string } | undefined>[] } }
+type Log = (msg: string) => void
+
+export async function fetchListing(fetcher: Fetcher): Promise<ListEntry[]> {
+  const { results } = (await fetcher(sparqlRequest('catalog/list.json', listingQuery()))) as Bindings
+  const byQid = new Map<string, ListEntry>()
+  for (const b of results.bindings) {
+    if (b.item && b.enwiki) {
+      byQid.set(qidOf(b.item.value), { qid: qidOf(b.item.value), enwiki: b.enwiki.value, excludedByClass: b.excludedByClass?.value === 'true' })
+    }
+  }
+  return [...byQid.values()].sort((a, b) => Number(a.qid.slice(1)) - Number(b.qid.slice(1)))
+}
+
+interface ClassTable {
+  path: string
+  query: string
+  title: string
+}
+
+async function logClassTable(fetcher: Fetcher, { path, query, title }: ClassTable, log: Log): Promise<void> {
+  const res = (await fetcher(sparqlRequest(path, query))) as Bindings
+  log(title)
+  for (const b of res.results.bindings) log(`  ${qidOf(b.cls?.value ?? '')}\t${b.clsLabel?.value ?? ''}\t${b.n?.value ?? ''}`)
+}
+
+async function logExcludedCount(fetcher: Fetcher, log: Log): Promise<void> {
+  const res = (await fetcher(sparqlRequest('catalog/excluded.json', excludedCountQuery()))) as Bindings
+  log(`flagged excludedByClass (P31/P136/P7937 reaching opera, operetta, oratorio, ballet, cantata, masque): ${res.results.bindings[0]?.n?.value ?? '?'}`)
+}
+
+const PROPERTIES = [
+  { prop: 'P136', what: 'genre' },
+  { prop: 'P7937', what: 'form of creative work' },
+]
+
+function classTables(): ClassTable[] {
+  const tables: ClassTable[] = [
+    { path: 'catalog/classes.json', query: classBreakdownQuery(), title: 'top P31 classes of items NOT flagged by class (Q-id, label, count):' },
+    { path: 'catalog/excluded-classes.json', query: excludedClassBreakdownQuery(), title: 'top P31 classes of items flagged by class (Q-id, label, count):' },
+  ]
+  for (const { prop, what } of PROPERTIES) {
+    for (const [name, flagged] of [['NOT flagged', false], ['flagged', true]] as const) {
+      const path = `catalog/${flagged ? 'excluded' : 'kept'}-${prop}.json`
+      tables.push({ path, query: propertyBreakdownQuery(prop, flagged), title: `top ${prop} (${what}) values of items ${name} by class (Q-id, label, count):` })
+    }
+  }
+  return tables
+}
+
+/** Log-only. Each query has its own try/catch: one 502 does not hide the others. */
+export async function logClassBreakdown(fetcher: Fetcher, log: Log): Promise<void> {
+  const calls = [() => logExcludedCount(fetcher, log), ...classTables().map((t) => () => logClassTable(fetcher, t, log))]
+  for (const call of calls) {
+    try {
+      await call()
+    } catch (e) {
+      log(`class breakdown unavailable: ${(e as Error).message}`)
+    }
+  }
+}
+
+const SUMMARY_EXAMPLES = 10
+
+const firstSentence = (text: string) => text.match(/^.*?[.!?](?=\s|$)/s)?.[0] ?? text
+
+/** Local check on the extracts: kept shows whose first sentence names a non-musical form but not "musical". */
+export function summarySanity(shows: Pick<CatalogShow, 'title' | 'summary'>[]): { suspect: number; examples: string[]; musical: number } {
+  const first = shows.flatMap((s) => (s.summary ? [{ title: s.title, sentence: firstSentence(s.summary.text) }] : []))
+  const suspect = first.filter((f) => FORM_WORDS.test(f.sentence) && !MUSICAL_WORDS.test(f.sentence))
+  return {
+    suspect: suspect.length,
+    examples: suspect.slice(0, SUMMARY_EXAMPLES).map((f) => f.title),
+    musical: first.filter((f) => MUSICAL_WORDS.test(f.sentence)).length,
+  }
+}
+
+export function logSummarySanity(shows: Pick<CatalogShow, 'title' | 'summary'>[], log: Log): void {
+  const r = summarySanity(shows)
+  log(`summary first sentence: ${r.suspect} name opera/operetta/ballet/oratorio/cantata/masque/zarzuela/singspiel without "musical"; ${r.musical} contain "musical"`)
+  if (r.examples.length) log(`  examples: ${r.examples.join('; ')}`)
+}
+
+export function withoutFlagships(entries: ListEntry[], flagships: Flagship[]): ListEntry[] {
+  const qids = new Set(flagships.flatMap((f) => f.qids ?? []))
+  const titles = new Set(flagships.map((f) => f.enwiki))
+  return entries.filter((e) => !qids.has(e.qid) && !titles.has(e.enwiki))
+}
+
+// ---- Stage 2: details --------------------------------------------------------
+
+async function fetchRows(fetcher: Fetcher, entries: ListEntry[]): Promise<Map<string, Row[]>> {
+  const byItem = new Map<string, Row[]>()
+  const batches = chunk(entries.map((e) => e.qid), ITEMS_BATCH)
+  for (const [i, qids] of batches.entries()) {
+    const res = await fetcher(sparqlRequest(`catalog/items.${pad(i)}.json`, itemsQuery(qids, false)))
+    for (const r of parseRows(res)) byItem.set(r.item, [...(byItem.get(r.item) ?? []), r])
+  }
+  return byItem
+}
+
+/** The label service returns the Q-id itself when there is no English label. */
+const hasEnglishLabel = (r: Row) => !!r.label && r.label !== qidOf(r.v.value)
+
+const ofKind = (rows: Row[], kind: string) => rows.filter((r) => r.kind === kind)
+
+// ---- Stage 3: extracts -------------------------------------------------------
+
+interface ExtractsResponse {
+  error?: { code?: string; info?: string }
+  continue?: Record<string, unknown>
+  query?: {
+    normalized?: { from: string; to: string }[]
+    redirects?: { from: string; to: string }[]
+    pages?: { title: string; extract?: string }[]
+  }
+}
+
+async function fetchBatchExtracts(fetcher: Fetcher, titles: string[], batch: number): Promise<Map<string, string>> {
+  const moved = new Map<string, string>()
+  const text = new Map<string, string>()
+  let cont: Record<string, unknown> | undefined = {}
+  for (let part = 0; cont; part++) {
+    const res = (await fetcher(extractsRequest({ titles, batch, part, cont }))) as ExtractsResponse
+    if (res.error || !res.query) {
+      throw new Error(`extracts batch ${batch}: ${res.error ? `API error ${res.error.code ?? ''} ${res.error.info ?? ''}`.trim() : 'response has no query'}`)
+    }
+    for (const m of [...(res.query.normalized ?? []), ...(res.query.redirects ?? [])]) moved.set(m.from, m.to)
+    for (const p of res.query.pages ?? []) if (p.extract && !text.has(p.title)) text.set(p.title, p.extract)
+    cont = res.continue
+  }
+  const resolve = (t: string) => {
+    const n = moved.get(t) ?? t
+    return moved.get(n) ?? n
+  }
+  return new Map(titles.flatMap((t) => (text.has(resolve(t)) ? [[t, text.get(resolve(t)) as string] as const] : [])))
+}
+
+async function fetchExtracts(fetcher: Fetcher, entries: ListEntry[]): Promise<Map<string, string>> {
+  const all = new Map<string, string>()
+  for (const [i, batch] of chunk(entries.map((e) => e.enwiki), EXTRACTS_BATCH).entries()) {
+    for (const [t, x] of await fetchBatchExtracts(fetcher, batch, i)) all.set(t, x)
+  }
+  return all
+}
+
+// ---- Assembly ----------------------------------------------------------------
+
+function summaryOf(enwiki: string, extract: string | undefined): ShowSummary | null {
+  const text = extract?.trim()
+  return text ? { text, source_url: wikipediaUrl(enwiki), license: 'CC BY-SA 4.0', modified: false } : null
+}
+
+function linksOf(entry: ListEntry, rows: Row[]): CatalogShow['links'] {
+  const first = (k: string) => ofKind(rows, k)[0]?.v.value
+  const ibdb = first('ibdb')
+  const playbill = first('playbill')
+  const site = first('website')
+  return {
+    ...(ibdb ? { ibdb: ibdbShowUrl(ibdb) } : {}),
+    ...(playbill ? { playbill: playbillUrl(playbill) } : {}),
+    ...(site ? { official_site: site } : {}),
+    wikipedia: wikipediaUrl(entry.enwiki),
+    wikidata: `https://www.wikidata.org/wiki/${entry.qid}`,
+  }
+}
+
+function awardsOf(rows: Row[]): ShowAward[] {
+  return dedupe(ofKind(rows, 'award').filter(hasEnglishLabel)).map((r) => ({ name: r.label as string, qid: qidOf(r.v.value) }))
+}
+
+function premiereOf(rows: Row[]): CatalogShow['premiere'] {
+  const earliest = ofKind(rows, 'premiere_date')[0] // rows are sorted by value, so first = earliest
+  const venue = ofKind(rows, 'premiere_venue').find(hasEnglishLabel)
+  return { date: earliest ? formatDate(earliest.v.value, earliest.extra) : null, venue: venue?.label ?? null }
+}
+
+export interface ShowInput {
+  entry: ListEntry
+  slug: string
+  rows: Row[]
+  extract: string | undefined
+}
+
+export function buildCatalogShow({ entry, slug, rows, extract }: ShowInput): CatalogShow {
+  const credits = (kind: string) => people(dedupe(ofKind(rows, kind).filter(hasEnglishLabel)))
+  return {
+    slug,
+    title: displayTitle(entry.enwiki),
+    qid: entry.qid,
+    enwiki: entry.enwiki,
+    composers: credits('composer'),
+    lyricists: credits('lyricist'),
+    librettists: credits('librettist'),
+    premiere: premiereOf(rows),
+    awards: awardsOf(rows),
+    links: linksOf(entry, rows),
+    summary: summaryOf(entry.enwiki, extract),
+  }
+}
+
+export async function pullCatalog(flagships: Flagship[], fetcher: Fetcher, opts: PullOptions = {}): Promise<CatalogShow[]> {
+  const log = opts.log ?? (() => {})
+  const listed = await fetchListing(fetcher)
+  const candidates = withoutFlagships(listed, flagships)
+  log(`listing: ${listed.length} items under the musical class with an enwiki article, ${candidates.length} after excluding flagships`)
+  const extracts = await fetchExtracts(fetcher, candidates)
+  log(`extracts: ${extracts.size} summaries`)
+  const classified = classifyEntries(candidates, extracts)
+  logDecisions(classified, log)
+  const entries = classified.kept
+  const slugs = assignSlugs(entries, new Set(flagships.map((f) => f.slug)))
+  const rows = await fetchRows(fetcher, entries)
+  log(`details: ${rows.size} of ${entries.length} kept items with data`)
+  const shows = entries
+    .map((e) => buildCatalogShow({ entry: e, slug: slugs.get(e.qid) as string, rows: rows.get(e.qid) ?? [], extract: extracts.get(e.enwiki) }))
+    .sort((a, b) => cmp(a.slug, b.slug))
+  logSummarySanity(shows, log)
+  await logClassBreakdown(opts.diagnosticFetcher ?? fetcher, log)
+  return shows
+}
+
+// ---- Output shapes -----------------------------------------------------------
+
+export function buildIndex(shows: CatalogShow[]): CatalogIndexEntry[] {
+  return shows
+    .map((s) => ({
+      slug: s.slug,
+      title: s.title,
+      year: s.premiere.date?.slice(0, 4) ?? null,
+      creators: [...new Set([...s.composers, ...s.lyricists, ...s.librettists].map((p) => p.name))].slice(0, MAX_CREATORS),
+    }))
+    .sort((a, b) => cmp(a.title, b.title) || cmp(a.slug, b.slug))
+}
+
+export function groupShards(shows: CatalogShow[], live: boolean): Map<string, CatalogShard> {
+  const shards = new Map<string, CatalogShard>()
+  for (const s of [...shows].sort((a, b) => cmp(a.slug, b.slug))) {
+    const key = shardOf(s.slug)
+    const shard = shards.get(key) ?? { live, shows: {} }
+    shard.shows[s.slug] = s
+    shards.set(key, shard)
+  }
+  return shards
+}

@@ -1,0 +1,535 @@
+{
+  "live": true,
+  "shows": {
+    "bend-it-like-beckham-the-musical": {
+      "slug": "bend-it-like-beckham-the-musical",
+      "title": "Bend It Like Beckham: The Musical",
+      "qid": "Q19320930",
+      "enwiki": "Bend It Like Beckham: The Musical",
+      "composers": [
+        {
+          "name": "Howard Goodall",
+          "qid": "Q943914",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11763"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Charles Hart",
+          "qid": "Q4496084",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12947"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Gurinder Chadha",
+          "qid": "Q259348"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": "Phoenix Theatre"
+      },
+      "awards": [],
+      "links": {
+        "official_site": "http://benditlikebeckhamthemusical.co.uk",
+        "wikipedia": "https://en.wikipedia.org/wiki/Bend_It_Like_Beckham%3A_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q19320930"
+      },
+      "summary": {
+        "text": "Bend It Like Beckham the Musical is a musical with music by Howard Goodall, lyrics by Charles Hart, and a book by Gurinder Chadha and Paul Mayeda Berges. Based on the 2002 film of the same name, the musical made its West End and world premiere at the Phoenix Theatre in May 2015.",
+        "source_url": "https://en.wikipedia.org/wiki/Bend_It_Like_Beckham%3A_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "body-of-water": {
+      "slug": "body-of-water",
+      "title": "Body of Water",
+      "qid": "Q16739920",
+      "enwiki": "Body of Water (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Body_of_Water_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q16739920"
+      },
+      "summary": {
+        "text": "Body of Water is an indie-rock musical created by Tony Kienitz and Tanna Herr with music by Jim Walker. It entails the life of fourteen teens left behind in a civil war crisis, awaiting further signals from their parents while hiding in a secluded mountain cabin. The show was the inaugural production of A Theatre Near U, a theatre and film academy for teenagers in the San Francisco Bay Area.",
+        "source_url": "https://en.wikipedia.org/wiki/Body_of_Water_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "chita-rivera-the-dancer-s-life": {
+      "slug": "chita-rivera-the-dancer-s-life",
+      "title": "Chita Rivera: The Dancer's Life",
+      "qid": "Q5102192",
+      "enwiki": "Chita Rivera: The Dancer's Life",
+      "composers": [
+        {
+          "name": "Stephen Flaherty",
+          "qid": "Q3973178",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11668"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Lynn Ahrens",
+          "qid": "Q293323",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7450"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Terrence McNally",
+          "qid": "Q1566335",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8828"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/400386",
+        "wikipedia": "https://en.wikipedia.org/wiki/Chita_Rivera%3A_The_Dancer's_Life",
+        "wikidata": "https://www.wikidata.org/wiki/Q5102192"
+      },
+      "summary": {
+        "text": "Chita Rivera: The Dancer's Life is a musical revue based on the life of Chita Rivera, with a book by Terrence McNally, original songs by Stephen Flaherty and Lynn Ahrens, and additional songs from various other composers' catalogs. It earned Rivera her ninth Tony Award nomination (for Best Actress in a Musical).",
+        "source_url": "https://en.wikipedia.org/wiki/Chita_Rivera%3A_The_Dancer's_Life",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "dogman": {
+      "slug": "dogman",
+      "title": "Dogman",
+      "qid": "Q20813340",
+      "enwiki": "Dogman (children's musical)",
+      "composers": [
+        {
+          "name": "Neil Innes",
+          "qid": "Q918538"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "John Dowie",
+          "qid": "Q6229985"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Dogman_(children's_musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q20813340"
+      },
+      "summary": {
+        "text": "Dogman is a 1994 children's musical show by John Dowie with music by Neil Innes directed by Victor Spinetti. A soundtrack album was released in 2005, narrated by Phill Jupitus and again with the songs of Neil Innes.",
+        "source_url": "https://en.wikipedia.org/wiki/Dogman_(children's_musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "hazel-flagg": {
+      "slug": "hazel-flagg",
+      "title": "Hazel Flagg",
+      "qid": "Q5687899",
+      "enwiki": "Hazel Flagg",
+      "composers": [
+        {
+          "name": "Jule Styne",
+          "qid": "Q587741",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12466"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Bob Hilliard",
+          "qid": "Q2907714",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11861"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4254",
+        "wikipedia": "https://en.wikipedia.org/wiki/Hazel_Flagg",
+        "wikidata": "https://www.wikidata.org/wiki/Q5687899"
+      },
+      "summary": {
+        "text": "Hazel Flagg is a 1953 musical, book by Ben Hecht, based on a story by James H. Street. The lyrics are by Bob Hilliard, and music by Jule Styne. The musical is based on the 1937 screwball comedy film Nothing Sacred, the primary screenwriter of which was Ben Hecht.",
+        "source_url": "https://en.wikipedia.org/wiki/Hazel_Flagg",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "lempicka": {
+      "slug": "lempicka",
+      "title": "Lempicka",
+      "qid": "Q56274659",
+      "enwiki": "Lempicka (musical)",
+      "composers": [],
+      "lyricists": [
+        {
+          "name": "Carson Kreitzer",
+          "qid": "Q17306162"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": "Williamstown Theatre Festival"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Lempicka_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q56274659"
+      },
+      "summary": {
+        "text": "Lempicka is a stage musical based on the life of Polish painter Tamara de Lempicka (1898–1980). In the musical, Lempicka must establish a new life for herself and her family in Paris after escaping the 1917 Russian Revolution. The musical features music by Matt Gould, lyrics by Carson Kreitzer, with a book by Gould and Kreitzer from an original concept by Kreitzer.\nThe show opened on Broadway at the Longacre Theatre on April 14, 2024 and closed on May 19, 2024 following 41 performances.",
+        "source_url": "https://en.wikipedia.org/wiki/Lempicka_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "lost-in-the-stars": {
+      "slug": "lost-in-the-stars",
+      "title": "Lost in the Stars",
+      "qid": "Q1338894",
+      "enwiki": "Lost in the Stars (1949 musical)",
+      "composers": [
+        {
+          "name": "Kurt Weill",
+          "qid": "Q55004",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7112"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Maxwell Anderson",
+          "qid": "Q432919",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7672"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Maxwell Anderson",
+          "qid": "Q432919",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7672"
+        }
+      ],
+      "premiere": {
+        "date": "1949",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5562",
+        "playbill": "https://playbill.com/production/lost-in-the-stars-music-box-theatre-vault-0000002650",
+        "wikipedia": "https://en.wikipedia.org/wiki/Lost_in_the_Stars_(1949_musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1338894"
+      },
+      "summary": {
+        "text": "Lost in the Stars is a 1949-premiered musical with book and lyrics by Maxwell Anderson and music by Kurt Weill, based on the novel Cry, the Beloved Country (1948) by Alan Paton. The musical premiered on Broadway in 1949; it was the composer's last work for the stage before he died the following year.",
+        "source_url": "https://en.wikipedia.org/wiki/Lost_in_the_Stars_(1949_musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "mark-twain-the-musical": {
+      "slug": "mark-twain-the-musical",
+      "title": "Mark Twain: The Musical",
+      "qid": "Q6770073",
+      "enwiki": "Mark Twain: The Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Mark_Twain%3A_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q6770073"
+      },
+      "summary": {
+        "text": "Mark Twain: The Musical is a stage musical biography of Mark Twain that had a ten-year summertime run in Elmira, NY and Hartford, CT (1987–1995) and was telecast on a number of public television stations. An original cast CD was released by Premier Recordings in 1988, and LML Music in 2009 issued a newly mastered and complete version of the score. Video and DVD versions of the show are currently in release.\nThe book was written by Jane Iredale with music and lyrics by William P. Perry. Dennis Rosa was the director and choreographer, and William David Brohn was musical arranger and music director. Throughout its run, the title role of Mark Twain was performed by William Perley and the primary singing role of ”Jim” was played by Jack Waddell. The role of Olivia Langdon Clemens, Mark Twain's wife and editor, was played in the film and stage version in 1988 by Bernadette Wilson.\nThe musical was conceived on a massive scale with a cast of more than sixty, and the production designs by William Groom called for a forty-foot turntable and a Mississippi riverboat that rose to a vertical height of fifty-five feet. The performing venues were appropriately large: in Elmira a hockey arena under a geodesic dome and in Hartford the largest National Guard armory in New England. The musical has since been rewritten in reduced scale suitable for proscenium production and will shortly be available from Trobriand Music Company under the title “Mr. Mark Twain.” In 2009, a complete original cast recording was released on CD by LML Music.\nThe musical combines scenes from Mark Twain's life with production numbers based on his best-loved books including \"The Adventures of Tom Sawyer\", \"Life on the Mississippi\", \"The Innocents Abroad\", \"Adventures of Huckleberry Finn\", and \"A Connecticut Yankee in King Arthur's Court.\"\nIn 1989, William Perry went to Moscow and selected twenty-four dancers from the Bolshoi Ballet and other prestige Russian dance companies and brought them to America to appear in the production, the first occasion that Russian performers had become integrated members of an American cast rather than simply appearing as a touring national troupe. This was a remarkable event during Cold War years, and then Russian President Mikhail Gorbachev saluted the collaboration in a television address. Dancers from Russia, including children, appeared in all subsequent years of the run and became a highlight of the production.",
+        "source_url": "https://en.wikipedia.org/wiki/Mark_Twain%3A_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "night-of-the-amazons": {
+      "slug": "night-of-the-amazons",
+      "title": "Night of the Amazons",
+      "qid": "Q55517556",
+      "enwiki": "Night of the Amazons",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Night_of_the_Amazons",
+        "wikidata": "https://www.wikidata.org/wiki/Q55517556"
+      },
+      "summary": {
+        "text": "The Night of the Amazons (German title: Nacht der Amazonen) was the name of a Nazi propaganda event that was held annually in Munich in the Nymphenburg Palace Park in the 1930s. The events were held on 27 July 1936, 31 July 1937, 30 July 1938 and 29 July 1939, and were the evening highlight of the International Horse Racing Week Munich-Riem. Members of the SS-Cavalry, variety show girls, and international stars performed at the open-air revue with up to 2,500 participants.\nIn addition to highlighting Munich as a travel destination, the event was intended to present Germany's Nazi regime as cosmopolitan and friendly to foreigners, and promote Nazi ideology.",
+        "source_url": "https://en.wikipedia.org/wiki/Night_of_the_Amazons",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "pardon-my-english": {
+      "slug": "pardon-my-english",
+      "title": "Pardon My English",
+      "qid": "Q2052100",
+      "enwiki": "Pardon My English",
+      "composers": [
+        {
+          "name": "George Gershwin",
+          "qid": "Q123829",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5813"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Ira Gershwin",
+          "qid": "Q61059",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12885"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Herbert Fields",
+          "qid": "Q1608254",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11265"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6933",
+        "wikipedia": "https://en.wikipedia.org/wiki/Pardon_My_English",
+        "wikidata": "https://www.wikidata.org/wiki/Q2052100"
+      },
+      "summary": {
+        "text": "Pardon My English is a musical with a book by Herbert Fields and Morrie Ryskind, lyrics by Ira Gershwin, and music by George Gershwin.  Set in 1933 Dresden, the farcical plot satirizes the Prohibition era.",
+        "source_url": "https://en.wikipedia.org/wiki/Pardon_My_English",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "pokemon-live": {
+      "slug": "pokemon-live",
+      "title": "Pokémon Live!",
+      "qid": "Q7208769",
+      "enwiki": "Pokémon Live!",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Live!",
+        "wikidata": "https://www.wikidata.org/wiki/Q7208769"
+      },
+      "summary": {
+        "text": "Pokémon Live! is a musical stage production that toured the United States from September 15, 2000, to January 28, 2001. The musical was based on the Pokémon anime series, using similar characters, clothing, and story elements. The show uses songs previously released on the Pokémon anime soundtracks Pokémon 2BA Master and Totally Pokémon as well as original songs.\nApproximately 90 minutes in length, the plot follows Ash Ketchum, Misty and Brock as they travel to a contest to win the much sought-after Diamond Badge. The event turns out to be part of a plan by the evil organization Team Rocket and its diabolical leader Giovanni to take over the world.\nThe show was successful, but received mixed reviews from critics. Despite the official Pokémon website mentioning plans for it, a home video release never came to fruition. A planned television release was also scrapped. A cast recording CD of the show, however, had a limited release.\nPlans for 2002 performances in the United Kingdom were also made, but later cancelled. Pokémon Live! was invited to perform in Dubai, U.A.E. at Al Mamzar Park in March 2001, coinciding with the annual Dubai Shopping Festival. A Portuguese version of the show, produced by television company SIC, was performed from March 21 to March 27, 2002, at the Pavilhão Atlântico in Lisbon, Portugal. A Dutch adaptation of the musical was performed on April 6 and 7, 2002, at the Sportpaleis in Belgium.\nFootage of the production did not surface until Chris Mitchell, the Production Stage Manager for the US tour, posted videos of the complete performance in Milwaukee's US Cellular Arena (dated December 30, 2000) in seven parts to his personal YouTube channel in 2012 and the whole performance in one video in 2016. In September 2020, a YouTube user named Benjamin Delbert posted an edit using restored elements from almost every performance of the show's run on YouTube.",
+        "source_url": "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Live!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "see-what-i-wanna-see": {
+      "slug": "see-what-i-wanna-see",
+      "title": "See What I Wanna See",
+      "qid": "Q7445540",
+      "enwiki": "See What I Wanna See",
+      "composers": [
+        {
+          "name": "Michael John LaChiusa",
+          "qid": "Q3308276",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13016"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Michael John LaChiusa",
+          "qid": "Q3308276",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13016"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Michael John LaChiusa",
+          "qid": "Q3308276",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13016"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/See_What_I_Wanna_See",
+        "wikidata": "https://www.wikidata.org/wiki/Q7445540"
+      },
+      "summary": {
+        "text": "See What I Wanna See is a musical by Michael John LaChiusa based on three short stories by Ryūnosuke Akutagawa: \"Kesa and Morito\", \"In a Grove\" (1922, the inspiration for Akira Kurosawa's 1950 film Rashomon) and \nDragon: the Old Potter's Tale (1919).  The story is told in two parts with two prologues.  Each prologue involves the medieval lovers/killers Kesa and Morito.  The first act follows a murder in Central Park in 1951 from the various perspectives of several different characters.  Act two centers on a priest, wavering in his faith, who creates a hoax about a miracle.\nThe musical played Off-Broadway in 2005 and has since been performed in the UK and in regional U.S. theatres.",
+        "source_url": "https://en.wikipedia.org/wiki/See_What_I_Wanna_See",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-red-shoes": {
+      "slug": "the-red-shoes",
+      "title": "The Red Shoes",
+      "qid": "Q7759937",
+      "enwiki": "The Red Shoes (musical)",
+      "composers": [
+        {
+          "name": "Jule Styne",
+          "qid": "Q587741",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12466"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Marsha Norman",
+          "qid": "Q545362",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7556"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Marsha Norman",
+          "qid": "Q545362",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7556"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7420",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Red_Shoes_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7759937"
+      },
+      "summary": {
+        "text": "The Red Shoes is a musical with a book by Marsha Norman, lyrics by Norman and Bob Merrill (credited as Paul Stryker) and music by Jule Styne.  Based on Powell and Pressburger's 1948 film, it tells the tale of a young ballerina who performs in an adaptation of the 1845 Hans Christian Andersen story.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Red_Shoes_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-secret-life-of-nora": {
+      "slug": "the-secret-life-of-nora",
+      "title": "The Secret Life of Nora",
+      "qid": "Q7763040",
+      "enwiki": "The Secret Life of Nora",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2011-09-29",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Secret_Life_of_Nora",
+        "wikidata": "https://www.wikidata.org/wiki/Q7763040"
+      },
+      "summary": {
+        "text": "The Secret Life of Nora is a Malaysian musical produced by Enfiniti (M) Sdn Bhd, with Tiara Jacquelina as Executive Producer, story by Raymond Miranda, directed by Steven Dexter and choreographed by Pat Ibrahim. The show is an adaptation of the 1965 Shaw Brothers film Nora Zain - Agen Wanita 001.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Secret_Life_of_Nora",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-smallest-show-on-earth": {
+      "slug": "the-smallest-show-on-earth",
+      "title": "The Smallest Show on Earth",
+      "qid": "Q20992369",
+      "enwiki": "The Smallest Show on Earth (musical)",
+      "composers": [
+        {
+          "name": "Thom Southerland",
+          "qid": "Q16847236"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Smallest_Show_on_Earth_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q20992369"
+      },
+      "summary": {
+        "text": "The Smallest Show on Earth is a 2015 musical based on the 1957 British film of the same name. The stage musical incorporates songs by Irving Berlin. It was the idea of director Thom Southerland, who wrote the script for the musical with Paul Alexander. The first production of the musical opened at The Mercury Theatre Colchester on 25 September 2015.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Smallest_Show_on_Earth_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "tomorrow-morning": {
+      "slug": "tomorrow-morning",
+      "title": "Tomorrow Morning",
+      "qid": "Q7820265",
+      "enwiki": "Tomorrow Morning (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Tomorrow_Morning_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7820265"
+      },
+      "summary": {
+        "text": "Tomorrow Morning is an off-Broadway musical by Laurence Mark Wythe. In 2022, a film musical adaptation was directed by British  director Nick Winston.\nThe musical was first seen in London in 2006 at the New End Theatre.  It was presented at Victory Gardens Greenhouse Theater in Chicago where it won a 2009 Jeff Award for Best Musical.  Further productions have been given, including an Off-Broadway production by the York Theatre in 2011 and was seen in Tokyo (2012), Portugal (2014), Seoul (2012–16) plus productions in Germany, Austria, Italy and Australia. Productions in Mexico, Rome and Russia were cancelled or postponed due to the global COVID-19 outbreak and subsequent lockdowns.\nThe show has been nominated for an Outer Critics Circle Award for Best Musical, among others and has now played on four continents in five languages.",
+        "source_url": "https://en.wikipedia.org/wiki/Tomorrow_Morning_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

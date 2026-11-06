@@ -1,0 +1,561 @@
+{
+  "live": true,
+  "shows": {
+    "a-bronx-tale": {
+      "slug": "a-bronx-tale",
+      "title": "A Bronx Tale",
+      "qid": "Q48739575",
+      "enwiki": "A Bronx Tale (musical)",
+      "composers": [
+        {
+          "name": "Alan Menken",
+          "qid": "Q317272",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12135"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Glenn Slater",
+          "qid": "Q3427403",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/80644"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": "2016-02-04",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Bronx_Tale_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q48739575"
+      },
+      "summary": {
+        "text": "A Bronx Tale is a musical based on the play by the same name with a book by Chazz Palminteri, music by Alan Menken, and lyrics by Glenn Slater. After a ten-year development process, the original one-man show was adapted into a new musical and premiered at the Paper Mill Playhouse, in Millburn, New Jersey on February 4, 2016. It opened on Broadway December 1 later that year.\nThe original Broadway production was co-directed by Robert De Niro, who had directed the original film, and Jerry Zaks, who had directed the one-man show on Broadway in 2007. The show also features choreography by Sergio Trujillo. Tommy Mottola serves as the production's leading producer.",
+        "source_url": "https://en.wikipedia.org/wiki/A_Bronx_Tale_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "a-damsel-in-distress": {
+      "slug": "a-damsel-in-distress",
+      "title": "A Damsel in Distress",
+      "qid": "Q55602988",
+      "enwiki": "A Damsel in Distress (musical)",
+      "composers": [
+        {
+          "name": "George Gershwin",
+          "qid": "Q123829",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5813"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Ira Gershwin",
+          "qid": "Q61059",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12885"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Jeremy Sams",
+          "qid": "Q6181852",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9612"
+        },
+        {
+          "name": "Robert Hudson",
+          "qid": "Q7345664"
+        }
+      ],
+      "premiere": {
+        "date": "2015-05-30",
+        "venue": "Chichester Festival Theatre"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Damsel_in_Distress_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q55602988"
+      },
+      "summary": {
+        "text": "A Damsel in Distress is 2015 musical written by Jeremy Sams and Robert Hudson, with music and lyrics primarily by George Gershwin and Ira Gershwin. A romantic comedy, the musical is based on the novel A Damsel in Distress by P. G. Wodehouse, the 1928 play adapted from the novel, and the 1937 musical comedy film A Damsel in Distress based on the novel and play. The musical ran from 30 May to 27 June 2015 at Chichester Festival Theatre.",
+        "source_url": "https://en.wikipedia.org/wiki/A_Damsel_in_Distress_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "blackbirds-of-1928": {
+      "slug": "blackbirds-of-1928",
+      "title": "Blackbirds of 1928",
+      "qid": "Q4922597",
+      "enwiki": "Blackbirds of 1928",
+      "composers": [
+        {
+          "name": "Jimmy McHugh",
+          "qid": "Q1283031",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12130"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Dorothy Fields",
+          "qid": "Q435241",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5113"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2073",
+        "wikipedia": "https://en.wikipedia.org/wiki/Blackbirds_of_1928",
+        "wikidata": "https://www.wikidata.org/wiki/Q4922597"
+      },
+      "summary": {
+        "text": "Blackbirds of 1928 was a hit Broadway musical revue that starred Adelaide Hall, Bill Bojangles Robinson, Tim Moore and Aida Ward, with music by Jimmy McHugh and lyrics by Dorothy Fields. It contained the hit songs \"Diga Diga Do\", the duo's  first hit, \"I Can't Give You Anything But Love\", \"Bandanna Babies\" and \"I Must Have That Man\" all sung by Hall.",
+        "source_url": "https://en.wikipedia.org/wiki/Blackbirds_of_1928",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "come-rain-or-come-shine": {
+      "slug": "come-rain-or-come-shine",
+      "title": "Come Rain or Come Shine",
+      "qid": "Q109286389",
+      "enwiki": "Come Rain or Come Shine (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Come_Rain_or_Come_Shine_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q109286389"
+      },
+      "summary": {
+        "text": "Come Rain or Come Shine is a musical with book by Carolyn Burns, music by Tim Finn, and lyrics by Tim Finn and Simon Phillips. Set in London, the musical is based on Kazuo Ishiguro’s comic short story of the same name.\nIt was premiered by the Melbourne Theatre Company at the Southbank Theatre from 20 June to 23 July 2022. The production featured Angus Grant (Ray), Gillian Cosgriff (Emily) and Chris Ryan (Charlie).",
+        "source_url": "https://en.wikipedia.org/wiki/Come_Rain_or_Come_Shine_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "cool-rider": {
+      "slug": "cool-rider",
+      "title": "Cool Rider",
+      "qid": "Q116457244",
+      "enwiki": "Cool Rider",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Cool_Rider",
+        "wikidata": "https://www.wikidata.org/wiki/Q116457244"
+      },
+      "summary": {
+        "text": "Cool Rider (originally titled Cool Rider Live) is a 2014 musical that was first presented as a single performance on 27 January 2014, at the Lyric Theatre, London. It was staged again for one week only, 15 April – 19 April 2014, at the Duchess Theatre, in London. The musical was adapted from the 1982 film Grease 2.",
+        "source_url": "https://en.wikipedia.org/wiki/Cool_Rider",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "end-of-the-rainbow": {
+      "slug": "end-of-the-rainbow",
+      "title": "End of the Rainbow",
+      "qid": "Q1702654",
+      "enwiki": "End of the Rainbow",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Peter Quilter",
+          "qid": "Q7176487",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/491219"
+        }
+      ],
+      "premiere": {
+        "date": "2005",
+        "venue": "Sydney Opera House"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/491211",
+        "official_site": "http://www.endoftherainbowlondon.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/End_of_the_Rainbow",
+        "wikidata": "https://www.wikidata.org/wiki/Q1702654"
+      },
+      "summary": {
+        "text": "End of the Rainbow is a musical drama by Peter Quilter, which focuses on Judy Garland in the months leading up to her death in 1969. After a premiere in Sydney, Australia in 2005, the show has played on the West End in London and a Broadway production opened at the Belasco Theatre in 2012. The award-winning 2019 film Judy starring Renée Zellweger is a screen adaptation of the play for which Zellweger won the Academy Award for Best Actress.",
+        "source_url": "https://en.wikipedia.org/wiki/End_of_the_Rainbow",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "grey-gardens": {
+      "slug": "grey-gardens",
+      "title": "Grey Gardens",
+      "qid": "Q5608162",
+      "enwiki": "Grey Gardens (musical)",
+      "composers": [
+        {
+          "name": "Scott Frankel",
+          "qid": "Q7436354",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/73309"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Michael Korie",
+          "qid": "Q16730993",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/423818"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Doug Wright",
+          "qid": "Q722807",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/113564"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/426591",
+        "wikipedia": "https://en.wikipedia.org/wiki/Grey_Gardens_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5608162"
+      },
+      "summary": {
+        "text": "Grey Gardens is a musical with book by Doug Wright, music by Scott Frankel, and lyrics by Michael Korie, produced in 2006 and based on the 1975 documentary of the same title about the lives of Edith Ewing Bouvier Beale (\"Big Edie\") and her daughter Edith Bouvier Beale (\"Little Edie\") by Albert and David Maysles. The Beales were Jacqueline Kennedy's aunt and cousin, respectively.  Set at Grey Gardens, the Bouviers' mansion in East Hampton, New York, the musical tracks the progression of the two women's lives from their original status as rich and socially polished aristocrats to their eventual largely isolated existence in a home overrun by cats and cited for repeated health code violations. However, its more central purpose is to untangle the complicated dynamics of their dysfunctional mother/daughter relationship.",
+        "source_url": "https://en.wikipedia.org/wiki/Grey_Gardens_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "hellzapoppin": {
+      "slug": "hellzapoppin",
+      "title": "Hellzapoppin",
+      "qid": "Q2275909",
+      "enwiki": "Hellzapoppin (musical)",
+      "composers": [
+        {
+          "name": "Sammy Fain",
+          "qid": "Q742896",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11649"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Chic Johnson",
+          "qid": "Q82116",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/24399"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/10069",
+        "wikipedia": "https://en.wikipedia.org/wiki/Hellzapoppin_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q2275909"
+      },
+      "summary": {
+        "text": "Hellzapoppin is a musical revue written by the comedy team of Olsen and Johnson, consisting of John \"Ole\" Olsen and Harold \"Chic\" Johnson, with music and lyrics by Sammy Fain and Charles Tobias. The revue was a hit, running for over three years, and was at the time the longest-running Broadway musical, with 1,404 performances, making it one of only three plays to run more than 500 performances in the 1930s.",
+        "source_url": "https://en.wikipedia.org/wiki/Hellzapoppin_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "holiday-inn": {
+      "slug": "holiday-inn",
+      "title": "Holiday Inn",
+      "qid": "Q28127879",
+      "enwiki": "Holiday Inn (musical)",
+      "composers": [
+        {
+          "name": "Irving Berlin",
+          "qid": "Q128746",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6452"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Irving Berlin",
+          "qid": "Q128746",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6452"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Chad Hodge",
+          "qid": "Q3665712",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/503851"
+        },
+        {
+          "name": "Gordon Greenberg",
+          "qid": "Q5585199",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/104773"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/503849",
+        "wikipedia": "https://en.wikipedia.org/wiki/Holiday_Inn_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q28127879"
+      },
+      "summary": {
+        "text": "Holiday Inn (also known as Holiday Inn, The New Irving Berlin Musical) is a musical based on the Paramount Pictures 1942 film of the same name. The libretto is by Gordon Greenberg and Chad Hodge, with music and lyrics by Irving Berlin. The musical opened on Broadway in 2016 after premiering at the Goodspeed Opera House in 2014.",
+        "source_url": "https://en.wikipedia.org/wiki/Holiday_Inn_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "jenny-jones": {
+      "slug": "jenny-jones",
+      "title": "Jenny Jones",
+      "qid": "Q107240552",
+      "enwiki": "Jenny Jones (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Jenny_Jones_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q107240552"
+      },
+      "summary": {
+        "text": "Jenny Jones is a 1944 musical composed by Harry Parr-Davies based on a book by Ronald Gow with lyrics by Harold Purcell. It is set in a Welsh village.\nIt premiered at the Brighton Hippodrome before transferring to begin a run of 153 performances at the London Hippodrome between 2 October 1944 and 22 January 1945. The original London cast included Carole Lynne and Jimmy James. It was produced by the impresario Edward Black.",
+        "source_url": "https://en.wikipedia.org/wiki/Jenny_Jones_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "mr-saturday-night": {
+      "slug": "mr-saturday-night",
+      "title": "Mr. Saturday Night",
+      "qid": "Q110707295",
+      "enwiki": "Mr. Saturday Night (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/532885",
+        "wikipedia": "https://en.wikipedia.org/wiki/Mr._Saturday_Night_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q110707295"
+      },
+      "summary": {
+        "text": "Mr. Saturday Night is a musical with music by Jason Robert Brown, lyrics by Amanda Green, and a book by Billy Crystal, Lowell Ganz, and Babaloo Mandel, based on the 1992 film. The musical follows comedian Buddy Young, Jr, decades past his prime, as he attempts a second chance at fame and his family. It premiered at Barrington Stage Company in October 2021. The musical moved to Broadway opening on April 27, 2022, at the Nederlander Theatre.\nThe Broadway production received positive reviews by critics, praising the book and music of the musical, being nominated for five Tony Awards, including for Best Musical. The performances of Billy Crystal and Shoshana Bean were positively reviewed, and the two were nominated for Tony Awards. The show's cast recording received a nomination for a Grammy Award for Best Musical Theater Album.",
+        "source_url": "https://en.wikipedia.org/wiki/Mr._Saturday_Night_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "really-rosie": {
+      "slug": "really-rosie",
+      "title": "Really Rosie",
+      "qid": "Q7301316",
+      "enwiki": "Really Rosie",
+      "composers": [
+        {
+          "name": "Carole King",
+          "qid": "Q217787",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/84001"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Maurice Sendak",
+          "qid": "Q314771",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/93031"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Maurice Sendak",
+          "qid": "Q314771",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/93031"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Really_Rosie",
+        "wikidata": "https://www.wikidata.org/wiki/Q7301316"
+      },
+      "summary": {
+        "text": "Really Rosie is a musical with a book and lyrics by Maurice Sendak and music by Carole King. The musical is based on Sendak's books Chicken Soup with Rice, Pierre, One was Johnny, Alligators All Around (which comprise 1962's The Nutshell Library), and The Sign on Rosie's Door (1960). Sendak based the story on a demonstrative little girl who used to sing and dance on the stoop of her building, whom he observed while he was a little boy growing up in Brooklyn. The show follows a typical summer day in the life of the Nutshell Kids, a group of several neighborhood friends, including Pierre, Alligator, Johnny, and Chicken Soup from the Nutshell Library books, and Rosie and Kathy from The Sign on Rosie's Door. Rosie, the self-proclaimed sassiest kid on her block of Brooklyn's Avenue P, entertains everyone by directing and starring in a movie based on the exciting, dramatic, funny (and slightly exaggerated) story of her life.\nA half-hour animated television special aired on CBS TV on February 19, 1975. It was directed by Maurice Sendak, animated by Ronald Fritz and Dan Hunn of D&R Productions Inc., with Carole King voicing the title character. King was ultimately selected as the voice of Rosie when casting directors had difficulty selecting a child actor whose voice could complement the pre-recorded songs.  An album of the songs by King and lyrics by Sendak is available on Ode/Epic/SME Records. In the animated special, only the first seven songs and Really Rosie (Reprise) were showcased.\nSendak expanded the piece for London and Washington, DC, stage productions in 1978, and an off-Broadway production, directed and choreographed by Patricia Birch with designs by Sendak, which opened on October 14, 1980, at the Westside Theatre, where it ran for 274 performances. During its off-Broadway run, the lead role of Rosie was first played by a then-12-year-old Tisha Campbell-Martin. Midway through the run, Tisha left the cast and was replaced by cast member and \"Rosie\" understudy Angela Coin, age 10. Angela also sang the role of \"Rosie\" on the cast recording.\nThe musical has become a mainstay of children's theater groups. It was also one of John Mulaney's main inspirations for his Netflix Special John Mulaney & the Sack Lunch Bunch.",
+        "source_url": "https://en.wikipedia.org/wiki/Really_Rosie",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-boy-in-the-dress": {
+      "slug": "the-boy-in-the-dress",
+      "title": "The Boy in the Dress",
+      "qid": "Q55635077",
+      "enwiki": "The Boy in the Dress (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Boy_in_the_Dress_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q55635077"
+      },
+      "summary": {
+        "text": "The Boy in the Dress is a musical with music and lyrics by Robbie Williams, Guy Chambers and Chris Heath and a book by Mark Ravenhill. The musical is based on the 2008 novel of the same name, written by David Walliams. The story is about a twelve-year-old boy, Dennis, who enjoys wearing a dress and the reactions of his family and friends.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Boy_in_the_Dress_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-cedar-tree": {
+      "slug": "the-cedar-tree",
+      "title": "The Cedar Tree",
+      "qid": "Q7721807",
+      "enwiki": "The Cedar Tree (musical)",
+      "composers": [
+        {
+          "name": "Varney Monk",
+          "qid": "Q7916040"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Varney Monk",
+          "qid": "Q7916040"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Cedar_Tree_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7721807"
+      },
+      "summary": {
+        "text": "The Cedar Tree is an Australian musical play produced in the wake of the success of Collits' Inn. The 1934 Melbourne production at the Princess Theatre was presented by F. W. Thring and starred Gladys Moncrieff.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Cedar_Tree_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-hotel-mouse": {
+      "slug": "the-hotel-mouse",
+      "title": "The Hotel Mouse",
+      "qid": "Q65052575",
+      "enwiki": "The Hotel Mouse (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "playbill": "https://playbill.com/production/the-hotel-mouse-shubert-theatre-vault-0000010612",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Hotel_Mouse_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q65052575"
+      },
+      "summary": {
+        "text": "The Hotel Mouse  is a musical comedy with music by Armand Vecsey and Ivan Caryll, lyrics by Clifford Grey, and book by Guy Bolton, with additional music by Bert Hanlon, and additional lyrics by Alfred Bryan. The book is based on the French comedy Le souris d'hôtel by Marcel Gerbidon and Paul Armont and concerns a female cat burglar in Monte Carlo given the nickname \"the hotel mouse\" by the local police; one of her marks falls in love with her.\nIt was produced in 1922 on Broadway by the Shubert brothers, followed by a tour.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Hotel_Mouse_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-silver-star": {
+      "slug": "the-silver-star",
+      "title": "The Silver Star",
+      "qid": "Q124749719",
+      "enwiki": "The Silver Star (musical)",
+      "composers": [],
+      "lyricists": [
+        {
+          "name": "Harry B. Smith",
+          "qid": "Q5667065",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/24417"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Silver_Star_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q124749719"
+      },
+      "summary": {
+        "text": "The Silver Star is a musical in three acts with both book and lyrics by Harry B. Smith and music by many composers. A Christmas musical, the work was created for the Danish dancer Adeline Genée who portrays the central character of Viola.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Silver_Star_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-widow-jones": {
+      "slug": "the-widow-jones",
+      "title": "The Widow Jones",
+      "qid": "Q2151299",
+      "enwiki": "The Widow Jones",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/9359",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Widow_Jones",
+        "wikidata": "https://www.wikidata.org/wiki/Q2151299"
+      },
+      "summary": {
+        "text": "The Widow Jones is a musical comedy created by the writer John J. McNally as a star vehicle for the actress and singer May Irwin. The musical used song material in \"Negro dialect\" by a variety of songwriters. Premiering at the Boston Museum theatre and backed by the Boston producers Rich & Harris, the play toured in cities through the United States in 1895-1896; including two separate runs at Broadway's Bijou Theatre. The work is best remembered today for its Act 1 kiss scene which was re-created by Irwin with her co-star John C. Rice as a short film in Thomas Edison's The Kiss in 1896.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Widow_Jones",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

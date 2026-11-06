@@ -1,0 +1,424 @@
+{
+  "live": true,
+  "shows": {
+    "alive-and-kicking": {
+      "slug": "alive-and-kicking",
+      "title": "Alive and Kicking",
+      "qid": "Q4727453",
+      "enwiki": "Alive and Kicking (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1446",
+        "wikipedia": "https://en.wikipedia.org/wiki/Alive_and_Kicking_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4727453"
+      },
+      "summary": {
+        "text": "Alive and Kicking is a musical revue with sketches by Ray Golden, I.A.L. Diamond, Henry Morgan, Jerome Chodorov, Joseph Stein, Will Glickman, John Murray, and Michael Stewart; music by Hal Borne, Irma Jurist, Sammy Fain, Hoagy Carmichael, Harold Rome, Sonny Burke, Leo Schumer, and Ray Golden; and lyrics by Paul Francis Webster, Ray Golden, Harold J. Rome, Leonard Gershe, Sid Kuller, and Michael Stewart.",
+        "source_url": "https://en.wikipedia.org/wiki/Alive_and_Kicking_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "back-to-bacharach-and-david": {
+      "slug": "back-to-bacharach-and-david",
+      "title": "Back to Bacharach and David",
+      "qid": "Q4839376",
+      "enwiki": "Back to Bacharach and David",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Back_to_Bacharach_and_David",
+        "wikidata": "https://www.wikidata.org/wiki/Q4839376"
+      },
+      "summary": {
+        "text": "Back To Bacharach and David is an Off-Broadway revue that featured the songs of Burt Bacharach and Hal David in a show created by Steve Gunderson and Kathy Najimy and directed by Najimy, with musical arrangements and orchestrations by Gunderson. The revue comprises the Bacharach/David songs from 1960–1970.",
+        "source_url": "https://en.wikipedia.org/wiki/Back_to_Bacharach_and_David",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "bashville": {
+      "slug": "bashville",
+      "title": "Bashville",
+      "qid": "Q30593425",
+      "enwiki": "Bashville",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Bashville",
+        "wikidata": "https://www.wikidata.org/wiki/Q30593425"
+      },
+      "summary": {
+        "text": "Bashville is a British musical adapted by David William and  Benny Green  from George Bernard Shaw's play The Admirable Bashville, with music by Denis King and lyrics by Benny Green. It was originally produced at the Regent's Park Open Air Theatre.\nBashville was nominated for Best New Musical at the 1983 Olivier Awards.",
+        "source_url": "https://en.wikipedia.org/wiki/Bashville",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "finian-s-rainbow": {
+      "slug": "finian-s-rainbow",
+      "title": "Finian's Rainbow",
+      "qid": "Q3028308",
+      "enwiki": "Finian's Rainbow",
+      "composers": [
+        {
+          "name": "Burton Lane",
+          "qid": "Q364143",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12021"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Yip Harburg",
+          "qid": "Q1273621",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5177"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Yip Harburg",
+          "qid": "Q1273621",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5177"
+        },
+        {
+          "name": "Fred Saidy",
+          "qid": "Q5496209",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5660"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3537",
+        "playbill": "https://playbill.com/production/finians-rainbow-46th-street-theatre-vault-0000013170",
+        "wikipedia": "https://en.wikipedia.org/wiki/Finian's_Rainbow",
+        "wikidata": "https://www.wikidata.org/wiki/Q3028308"
+      },
+      "summary": {
+        "text": "Finian's Rainbow is a musical with a book by E. Y. Harburg and Fred Saidy, lyrics by Harburg, and music by Burton Lane, produced by Lee Sabinson. The original 1947 Broadway production ran for 725 performances, while a film version was released in 1968 and several revivals have followed.\nAn elderly Irishman, Finian McLonergan, moves to the southern United States with his daughter Sharon, to bury a stolen pot of gold near Fort Knox, in the mistaken belief that it will make him prosperous, as he imagines that the gold which he thinks has been buried at Fort Knox has made America prosperous. Og, a leprechaun, follows them, desperate to recover his treasure before the loss of it turns him permanently human. Complications arise when a bigoted and corrupt U.S. senator gets involved, and when wishes are made inadvertently over the hidden crock. The Irish-tinged music score includes gospel and R&B influences.",
+        "source_url": "https://en.wikipedia.org/wiki/Finian's_Rainbow",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "hank-williams-lost-highway": {
+      "slug": "hank-williams-lost-highway",
+      "title": "Hank Williams: Lost Highway",
+      "qid": "Q96380296",
+      "enwiki": "Hank Williams: Lost Highway (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Hank_Williams%3A_Lost_Highway_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q96380296"
+      },
+      "summary": {
+        "text": "Hank Williams: Lost Highway is a stage musical written by Randal Myler and Mark Harelik, featuring the music of country legend Hank Williams and telling stories of his life. The show premiered at the Denver Center Theater in 1987.",
+        "source_url": "https://en.wikipedia.org/wiki/Hank_Williams%3A_Lost_Highway_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "jerry-s-girls": {
+      "slug": "jerry-s-girls",
+      "title": "Jerry's Girls",
+      "qid": "Q6183144",
+      "enwiki": "Jerry's Girls",
+      "composers": [
+        {
+          "name": "Jerry Herman",
+          "qid": "Q1363692",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6278"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4875",
+        "wikipedia": "https://en.wikipedia.org/wiki/Jerry's_Girls",
+        "wikidata": "https://www.wikidata.org/wiki/Q6183144"
+      },
+      "summary": {
+        "text": "Jerry's Girls is a musical revue based on the songs of composer/lyricist Jerry Herman.",
+        "source_url": "https://en.wikipedia.org/wiki/Jerry's_Girls",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "our-nell": {
+      "slug": "our-nell",
+      "title": "Our Nell",
+      "qid": "Q104829485",
+      "enwiki": "Our Nell",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Our_Nell",
+        "wikidata": "https://www.wikidata.org/wiki/Q104829485"
+      },
+      "summary": {
+        "text": "Our Nell is a musical with a book by Louis N. Parker and Reginald Arkell and music by Harold Fraser-Simson and Ivor Novello. It is based on the life of the English actress Nell Gwynn, mistress of Charles II. It was inspired by an earlier musical Our Peg by Edward Knoblock, that premiered in 1919 based on the life of the eighteenth century actress Peg Woffington.\nOur Nell premiered in April 1924 and ran for 140 performances at the Gaiety Theatre in London's West End with a cast that included Arthur Wontner, Walter Passmore, Miles Malleson, Reginald Bach, Amy Augarde and José Collins in the title role.",
+        "source_url": "https://en.wikipedia.org/wiki/Our_Nell",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "portofino": {
+      "slug": "portofino",
+      "title": "Portofino",
+      "qid": "Q7232196",
+      "enwiki": "Portofino (musical)",
+      "composers": [
+        {
+          "name": "Louie Bellson",
+          "qid": "Q252126",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11366"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Richard Ney",
+          "qid": "Q361523",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8319"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Richard Ney",
+          "qid": "Q361523",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8319"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7192",
+        "wikipedia": "https://en.wikipedia.org/wiki/Portofino_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7232196"
+      },
+      "summary": {
+        "text": "Portofino is a musical with a book by Richard Ney (who also served as producer), lyrics by Ney and Sheldon Harnick, and music by Louis Bellson and Will Irwin.\nIn his book on Broadway, The Season, William Goldman described its growing pains similarly to Buttrio Square and Breakfast at Tiffany's.\nSet in a piazza in the Italian resort town of Portofino, the plot involves auto-racing duke Nicky; his Texan rival Kitty; his granddaughter Angela, a practicing witch; the local padre; and his look-alike Guido, an emissary from the devil.\nWhen critics crucified the show during its Philadelphia tryout, Ney, the producer, left it to the cast to decide if they should continue to New York City, they voted to continue.\nThe Broadway production, directed by Karl Genus and choreographed by Charles Weidman and Ray Harrison with lighting by Lee Watson, opened on February 21, 1958, at the Adelphi Theatre, where it ran for three performances. The cast included Georges Guétary as Nicky, Helen Gallagher as Kitty, Jan Chaney as Angela, and Robert Strauss as both the padre and Guido. Its overall reception was poor.",
+        "source_url": "https://en.wikipedia.org/wiki/Portofino_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "rainbow": {
+      "slug": "rainbow",
+      "title": "Rainbow",
+      "qid": "Q120497711",
+      "enwiki": "Rainbow (musical)",
+      "composers": [
+        {
+          "name": "Vincent Youmans",
+          "qid": "Q746951",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12607"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Oscar Hammerstein II",
+          "qid": "Q319693",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7965"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Laurence Stallings",
+          "qid": "Q1808024",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7167"
+        },
+        {
+          "name": "Oscar Hammerstein II",
+          "qid": "Q319693",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7965"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/10785",
+        "wikipedia": "https://en.wikipedia.org/wiki/Rainbow_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q120497711"
+      },
+      "summary": {
+        "text": "Rainbow is a musical in two acts with music by Vincent Youmans, lyrics by Oscar Hammerstein II, and a book co-authored by Laurence Stallings and Hammerstein. After flopping on Broadway in 1928, it was adapted by Warner Bros. into the 1930 Western musical film Song of the West.",
+        "source_url": "https://en.wikipedia.org/wiki/Rainbow_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "take-five": {
+      "slug": "take-five",
+      "title": "Take Five",
+      "qid": "Q18164198",
+      "enwiki": "Take Five (revue)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1957",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Take_Five_(revue)",
+        "wikidata": "https://www.wikidata.org/wiki/Q18164198"
+      },
+      "summary": {
+        "text": "Take Five was a musical revue performed in 1957. Its songs included \"Witchcraft\" by Michael Brown, performed by Gerry Matthews.\nJonathan Tunick was credited as a co-composer, and Stephen Sondheim and Julius Monk also participated.\n(There is a different song, also entitled \"Witchcraft\", not associated with this revue. It was performed by Frank Sinatra, and was written by Cy Coleman).",
+        "source_url": "https://en.wikipedia.org/wiki/Take_Five_(revue)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-choir-of-man": {
+      "slug": "the-choir-of-man",
+      "title": "The Choir of Man",
+      "qid": "Q113289155",
+      "enwiki": "The Choir of Man",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Choir_of_Man",
+        "wikidata": "https://www.wikidata.org/wiki/Q113289155"
+      },
+      "summary": {
+        "text": "The Choir of Man is a British musical created by Nic Doodson and Andrew Kay. Set in a traditional British or Irish pub, the show features a working on-stage bar from which pints of beer are poured for the audience during the performance. Throughout the show, the cast of nine multi-instrumentalist singers perform arrangements of well known pop and rock songs arranged and orchestrated by the show's musical supervisor Jack Blume, while dialogue takes the form of spoken word monologues written by performance poet Ben Norris. The movement direction and choreography is by tap dancer Freddie Huddleston.\nThe show was first presented at the Edinburgh Fringe Festival in 2017, and has since had seasons at venues around the world, including the Sydney Opera House and the John F. Kennedy Center for the Performing Arts. \nSince 2018, The Choir of Man has been a resident show on board the Norwegian Escape and Norwegian Encore cruise ships.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Choir_of_Man",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "tom-sawyer": {
+      "slug": "tom-sawyer",
+      "title": "Tom Sawyer",
+      "qid": "Q65091217",
+      "enwiki": "Tom Sawyer (1956 musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Tom_Sawyer_(1956_musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q65091217"
+      },
+      "summary": {
+        "text": "Tom Sawyer was a one-hour musical by Frank Luther, originally created for the television series The U.S. Steel Hour. It was broadcast live on CBS November 21, 1956, and marked the first time the anthology series had presented a musical.\nLuther said the show evolved from his re-reading of Mark Twain's The Adventures of Tom Sawyer a few years earlier: \"(W)henever an incident or character gave me an idea for a song, I'd write the music and words,\" Luther told an interviewer in 1957. \"By the time I'd reached the end of the book, I found I had written 32 songs.\nThe cast included John Sharpe as Tom Sawyer, Jimmy Boyd as Huckleberry Finn, Bennye Gatteys as Becky Thatcher, Rose Bampton as Aunt Polly, Matt Mattox as Injun Joe and Clarence Cooper as Jim the Narrator. A cast album was released on Decca Records shortly after the broadcast, featuring several songs omitted from the original show. The show's sets and backgrounds were designed by Thomas Hart Benton. \nAt the time of the broadcast, Sharpe was performing in the Broadway cast of The Most Happy Fella. \nLuther was commissioned to follow up the show with a musical adaptation of The Adventures of Huckleberry Finn, also starring Boyd, which was broadcast on The U.S. Steel Hour November 22, 1957. There does not appear to be any existing film or kinescope of either broadcast. There is a recording of the original broadcast audio in the New York Public Library's Toscanini Legacy Collection of Sound Recordings.",
+        "source_url": "https://en.wikipedia.org/wiki/Tom_Sawyer_(1956_musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "trainspotting": {
+      "slug": "trainspotting",
+      "title": "Trainspotting",
+      "qid": "Q139257661",
+      "enwiki": "Trainspotting (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Trainspotting_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q139257661"
+      },
+      "summary": {
+        "text": "Trainspotting The Musical is a stage musical written by Irvine Welsh with music and lyrics by Stephen McGuinness and Welsh and developed and directed by Caroline Jay Ranger. Based on Welsh's novel of the same name and its film adaptation.",
+        "source_url": "https://en.wikipedia.org/wiki/Trainspotting_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "very-good-eddie": {
+      "slug": "very-good-eddie",
+      "title": "Very Good Eddie",
+      "qid": "Q7923057",
+      "enwiki": "Very Good Eddie",
+      "composers": [
+        {
+          "name": "Jerome Kern",
+          "qid": "Q313270",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6711"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/9078",
+        "wikipedia": "https://en.wikipedia.org/wiki/Very_Good_Eddie",
+        "wikidata": "https://www.wikidata.org/wiki/Q7923057"
+      },
+      "summary": {
+        "text": "Very Good Eddie is a musical with a book by Guy Bolton and Philip Bartholomae, music by Jerome Kern, and lyrics by Schuyler Greene, with additional lyrics by Elsie Janis, Herbert Reynolds, Harry B. Smith, John E. Hazzard, Ring Lardner and Jerome Kern, and additional music by Henry Kailimai. The story was based on the farce Over Night by Bartholomae. The farcical plot concerns three couples and a sex-crazed voice teacher who board a Hudson River Day Line boat in Poughkeepsie, New York. Chaos ensues when two of the couples cross paths and accidentally trade partners. The vaudeville-style adventure continues at a hotel, where guests pop in and out of rooms while an inebriated desk clerk tries to sort through the madness.\nThe show was the second of the series of \"Princess Theatre musicals\" and was a hit for Bolton and Kern, running for 341 performances and leading to revivals and further successful collaborations.",
+        "source_url": "https://en.wikipedia.org/wiki/Very_Good_Eddie",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

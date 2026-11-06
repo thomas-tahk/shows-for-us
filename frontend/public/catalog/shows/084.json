@@ -1,0 +1,640 @@
+{
+  "live": true,
+  "shows": {
+    "are-you-there": {
+      "slug": "are-you-there",
+      "title": "Are You There?",
+      "qid": "Q4788478",
+      "enwiki": "Are You There?",
+      "composers": [
+        {
+          "name": "Ruggero Leoncavallo",
+          "qid": "Q189015",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12047"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Edgar Wallace",
+          "qid": "Q271824",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5220"
+        }
+      ],
+      "premiere": {
+        "date": "1913-11-01",
+        "venue": "Prince of Wales Theatre"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Are_You_There%3F",
+        "wikidata": "https://www.wikidata.org/wiki/Q4788478"
+      },
+      "summary": {
+        "text": "Are You There? is a \"farcical musical play in two acts\" composed by Ruggero Leoncavallo (with interpolations by Lewis F. Muir) with a book by Albert de Courville and lyrics by Edgar Wallace.  Also described as an \"operette\" by Variety, it premièred unsuccessfully on 1 November 1913 at The Prince of Wales Theatre, London to a rowdy audience which almost became a riot.  Its star, Shirley Kellogg, was Courville's wife.",
+        "source_url": "https://en.wikipedia.org/wiki/Are_You_There%3F",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "bayonets-of-angst": {
+      "slug": "bayonets-of-angst",
+      "title": "Bayonets of Angst",
+      "qid": "Q18159651",
+      "enwiki": "Bayonets of Angst",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Bayonets_of_Angst",
+        "wikidata": "https://www.wikidata.org/wiki/Q18159651"
+      },
+      "summary": {
+        "text": "Bayonets of Angst is a musical comedy about the American Civil War written by Rick Kunzi and Adam Barnosky.",
+        "source_url": "https://en.wikipedia.org/wiki/Bayonets_of_Angst",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "closer-than-ever": {
+      "slug": "closer-than-ever",
+      "title": "Closer Than Ever",
+      "qid": "Q5135390",
+      "enwiki": "Closer Than Ever",
+      "composers": [
+        {
+          "name": "David Shire",
+          "qid": "Q719035",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12400"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Richard Maltby, Jr.",
+          "qid": "Q7327614",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11088"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Closer_Than_Ever",
+        "wikidata": "https://www.wikidata.org/wiki/Q5135390"
+      },
+      "summary": {
+        "text": "Closer Than Ever is a musical revue in two acts, with words by Richard Maltby, Jr. and music by David Shire. The revue contains no dialogue, and Maltby and Shire have described this show as a \"bookless book musical.\" The show was originally conceived by Steven Scott Smith as a one act revue entitled Next Time Now!, which was first given at the nightclub Eighty-Eights.\nThe success of Next Time Now! led to a much expanded production retitled Closer Than Ever that was co-directed by Maltby and Smith and featured musical direction by Patrick Scott Brady. This production began its life at the Williamstown Theatre Festival in Massachusetts during the summer of 1989. It then came to New York, beginning previews on October 17 and officially opening November 6 at the off-Broadway Cherry Lane Theatre, where it ran for 312 performances. The cast included Brent Barrett, Sally Mayes, Richard Muenz, and Lynne Wintersteller.\nCloser Than Ever features self-contained songs which deal with such diverse topics as security, aging, mid-life crisis, second marriages, working couples, and unrequited love.  Maltby and Shire based many of the songs on real-life experiences of their friends, or stories told to them.  The revue won the Outer Critics Circle Award for Best Off-Broadway Musical and Maltby, Shire, and Wintersteller all garnered Drama Desk Award nominations for their respective contributions. The original New York cast recorded an album of the revue for RCA Victor (RCA Victor 60399).",
+        "source_url": "https://en.wikipedia.org/wiki/Closer_Than_Ever",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "du-barry-was-a-lady": {
+      "slug": "du-barry-was-a-lady",
+      "title": "Du Barry Was a Lady",
+      "qid": "Q1262336",
+      "enwiki": "Du Barry Was a Lady",
+      "composers": [
+        {
+          "name": "Cole Porter",
+          "qid": "Q215120",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12257"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Herbert Fields",
+          "qid": "Q1608254",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11265"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3210",
+        "wikipedia": "https://en.wikipedia.org/wiki/Du_Barry_Was_a_Lady",
+        "wikidata": "https://www.wikidata.org/wiki/Q1262336"
+      },
+      "summary": {
+        "text": "Du Barry Was a Lady is a Broadway musical, with music and lyrics by Cole Porter, and the book by Herbert Fields and Buddy DeSylva. The musical starred Bert Lahr, Ethel Merman and Betty Grable, and the song \"Friendship\" was one of the highlights. The musical was made into the 1943 Technicolor film Du Barry Was a Lady, starring Red Skelton, Lucille Ball, Gene Kelly, and Tommy Dorsey and his orchestra.",
+        "source_url": "https://en.wikipedia.org/wiki/Du_Barry_Was_a_Lady",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "good-news": {
+      "slug": "good-news",
+      "title": "Good News",
+      "qid": "Q1537494",
+      "enwiki": "Good News (musical)",
+      "composers": [
+        {
+          "name": "Ray Henderson",
+          "qid": "Q1980821",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8253"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Buddy DeSylva",
+          "qid": "Q80760",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4394"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": "1927",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4004",
+        "wikipedia": "https://en.wikipedia.org/wiki/Good_News_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1537494"
+      },
+      "summary": {
+        "text": "Good News is a musical comedy in two acts with a book by Laurence Schwab and B.G. DeSylva, lyrics by DeSylva and Lew Brown, and music by Ray Henderson. The story is set in the Roaring Twenties at Tait College, where football star Tom Marlowe falls in love with studious Connie Lane, who is tutoring him so he can pass astronomy and be eligible to play in the big game.\nThe show opened on Broadway in 1927, the same year as Show Boat, but though its plot was decidedly old-fashioned in comparison to Show Boat and its daring storyline, it was also a hit.  Good News spawned two films, one in 1930, starring Bessie Love and one in 1947  starring June Allyson; an unsuccessful 1974 Broadway revival, and a 1993 updated production by Music Theatre of Wichita, which created a largely new libretto and made changes to the score. It proved to be DeSylva, Brown, and Henderson's biggest hit out of a string of topical musicals.",
+        "source_url": "https://en.wikipedia.org/wiki/Good_News_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "i-m-getting-my-act-together-and-taking-it-on-the-road": {
+      "slug": "i-m-getting-my-act-together-and-taking-it-on-the-road",
+      "title": "I'm Getting My Act Together and Taking It on the Road",
+      "qid": "Q5966261",
+      "enwiki": "I'm Getting My Act Together and Taking It on the Road",
+      "composers": [],
+      "lyricists": [
+        {
+          "name": "Gretchen Cryer",
+          "qid": "Q5607691",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5962"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Gretchen Cryer",
+          "qid": "Q5607691",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5962"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/I'm_Getting_My_Act_Together_and_Taking_It_on_the_Road",
+        "wikidata": "https://www.wikidata.org/wiki/Q5966261"
+      },
+      "summary": {
+        "text": "I'm Getting My Act Together and Taking It on the Road is a musical with music by Nancy Ford and book and lyrics by Gretchen Cryer. The show premiered Off-Broadway in 1978.",
+        "source_url": "https://en.wikipedia.org/wiki/I'm_Getting_My_Act_Together_and_Taking_It_on_the_Road",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "jerry-springer-the-opera": {
+      "slug": "jerry-springer-the-opera",
+      "title": "Jerry Springer: The Opera",
+      "qid": "Q6184479",
+      "enwiki": "Jerry Springer: The Opera",
+      "composers": [
+        {
+          "name": "Richard Thomas",
+          "qid": "Q7329446"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Richard Thomas",
+          "qid": "Q7329446"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Richard Thomas",
+          "qid": "Q7329446"
+        },
+        {
+          "name": "Stewart Lee",
+          "qid": "Q7615848"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Laurence Olivier Awards",
+          "qid": "Q28470"
+        }
+      ],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Jerry_Springer%3A_The_Opera",
+        "wikidata": "https://www.wikidata.org/wiki/Q6184479"
+      },
+      "summary": {
+        "text": "Jerry Springer: The Opera is a British musical written by Richard Thomas and Stewart Lee, based on the talk show Jerry Springer. It contains irreverent treatment of Christian themes, extensive profanity, and surreal images, such as a troupe of tap-dancing Ku Klux Klan members.\nThe musical ran for 609 performances in London from April 2003 to February 2005 before touring the UK in 2006. It won four Laurence Olivier Awards, including Best New Musical. The first North American performance was at the MGM Grand in Las Vegas. The musical has been performed by a number of American regional theatre companies and made its New York City debut on 29–30 January 2008 at Carnegie Hall. Harvey Keitel starred as Jerry.\nIn January 2005, its British television broadcast on BBC Two elicited 55,000 complaints. The organisation Christian Voice led street protests against the screening at nine BBC offices and announced their intention to bring blasphemy charges, due to the depictions of the Christian characters in Act II. The Christian Institute attempted to bring a private prosecution against the BBC, but the magistrates' court refused to issue a summons, a decision which was later upheld by the High Court of Justice. Protests continued at tour venues in 2006 and on the Internet.",
+        "source_url": "https://en.wikipedia.org/wiki/Jerry_Springer%3A_The_Opera",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "linie-1": {
+      "slug": "linie-1",
+      "title": "Linie 1",
+      "qid": "Q380070",
+      "enwiki": "Linie 1",
+      "composers": [
+        {
+          "name": "Birger Heymann",
+          "qid": "Q865158"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Volker Ludwig",
+          "qid": "Q125608"
+        }
+      ],
+      "premiere": {
+        "date": "1986-04-30",
+        "venue": "Grips-Theater"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Linie_1",
+        "wikidata": "https://www.wikidata.org/wiki/Q380070"
+      },
+      "summary": {
+        "text": "Linie 1 is the second-most successful German musical after Bertolt Brecht’s Threepenny Opera. The title refers to Berlin's subway line U1. The musical was first performed by the ensemble of the GRIPS-Theater on 30 April 1986. In October 2017, the troupe put on its 1,800th performance. The music was written by Birger Heymann, the text written by Volker Ludwig, the set designed by Mathias Fischer-Dieskau, and the musical directed by Wolfgang Kolneder. In 1988, a film version was made, and in 2008, GRIPS released a live recording on DVD.",
+        "source_url": "https://en.wikipedia.org/wiki/Linie_1",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "nunsense": {
+      "slug": "nunsense",
+      "title": "Nunsense",
+      "qid": "Q7069915",
+      "enwiki": "Nunsense",
+      "composers": [
+        {
+          "name": "Dan Goggin",
+          "qid": "Q1159074",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11750"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Dan Goggin",
+          "qid": "Q1159074",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11750"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Dan Goggin",
+          "qid": "Q1159074",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11750"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "http://nunsense.com/shows/nun1.cfm",
+        "wikipedia": "https://en.wikipedia.org/wiki/Nunsense",
+        "wikidata": "https://www.wikidata.org/wiki/Q7069915"
+      },
+      "summary": {
+        "text": "Nunsense (1985) is a musical comedy with a book, music, and lyrics by Dan Goggin. Originating as a line of greeting cards, Goggin expanded the concept into a cabaret show that ran for 38 weeks, and eventually into a full-length musical. The original Off-Broadway production opened December 12, 1985, running for 3,672 performances and becoming the second-longest-running Off-Broadway show in history. The show has since been adapted for television, starring Rue McClanahan, and has spawned six sequels and three spin-offs.",
+        "source_url": "https://en.wikipedia.org/wiki/Nunsense",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "paint-your-wagon": {
+      "slug": "paint-your-wagon",
+      "title": "Paint Your Wagon",
+      "qid": "Q1288100",
+      "enwiki": "Paint Your Wagon (musical)",
+      "composers": [
+        {
+          "name": "Frederick Loewe",
+          "qid": "Q551678",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5688"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Alan Jay Lerner",
+          "qid": "Q961893",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3945"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Alan Jay Lerner",
+          "qid": "Q961893",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3945"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6901",
+        "wikipedia": "https://en.wikipedia.org/wiki/Paint_Your_Wagon_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1288100"
+      },
+      "summary": {
+        "text": "Paint Your Wagon is a Broadway musical comedy, with book and lyrics by Alan J. Lerner and music by Frederick Loewe.  The story centers on a miner and his daughter and follows the lives and loves of the people in a mining camp in Gold Rush-era California.  Popular songs from the show included \"Wand'rin' Star\", \"I Talk to the Trees\", and \"They Call the Wind Maria\".\nThe musical ran on Broadway in 1951 and in the West End in 1953. In 1969, the film version, also titled Paint Your Wagon, was released. It had a highly revised plot and some new songs composed by Lerner and André Previn.",
+        "source_url": "https://en.wikipedia.org/wiki/Paint_Your_Wagon_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "raggedy-ann": {
+      "slug": "raggedy-ann",
+      "title": "Raggedy Ann",
+      "qid": "Q16983940",
+      "enwiki": "Raggedy Ann (musical)",
+      "composers": [
+        {
+          "name": "Joe Raposo",
+          "qid": "Q3180167",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12273"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Joe Raposo",
+          "qid": "Q3180167",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12273"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "William Gibson",
+          "qid": "Q980844",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9133"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7350",
+        "wikipedia": "https://en.wikipedia.org/wiki/Raggedy_Ann_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q16983940"
+      },
+      "summary": {
+        "text": "Raggedy Ann: The Musical Adventure (also known as Rag Dolly: The Raggedy Ann Musical or Raggedy Ann: The Musical With a Heart) is a musical with book by William Gibson and songs by Joe Raposo. It is based on the children's stories by Johnny Gruelle and the 1977 feature film Raggedy Ann & Andy: A Musical Adventure. The story centers on Marcella, a dying young girl whose toys come to life and take her on a magical adventure to meet the Doll Doctor, in hopes that he can mend her broken heart. Although the show failed on Broadway, it developed a cult following through bootleg recordings.",
+        "source_url": "https://en.wikipedia.org/wiki/Raggedy_Ann_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "spader-madame": {
+      "slug": "spader-madame",
+      "title": "Spader, Madame!",
+      "qid": "Q7572784",
+      "enwiki": "Spader, Madame!",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Spader%2C_Madame!",
+        "wikidata": "https://www.wikidata.org/wiki/Q7572784"
+      },
+      "summary": {
+        "text": "Spader, Madame! is a Swedish variety show that had its première on 10 January 1969 at the Oscarsteatern in Stockholm. It was written by Hans Alfredson and Tage Danielsson, the duo known as Hasse & Tage, and directed by Danielsson. Both of the writers starred in the show; Hasse played the banker Falkenström and Tage friherr von Löwenskiöld.\nThe show also starred Monica Zetterlund, Birgitta Andersson, Grynet Molvig, Martin Ljung, Gösta Ekman, Fatima Ekman, Fina Kören and Gunnar Svenssons Salongsorkester.\nThe show was later adapted for television, using Sturehov Manor near Stockholm as the setting. This has been released on DVD and the film soundtrack has been released for both LP and CD.",
+        "source_url": "https://en.wikipedia.org/wiki/Spader%2C_Madame!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "spank-the-fifty-shades-parody": {
+      "slug": "spank-the-fifty-shades-parody",
+      "title": "Spank! The Fifty Shades Parody",
+      "qid": "Q17021366",
+      "enwiki": "Spank! The Fifty Shades Parody",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Spank!_The_Fifty_Shades_Parody",
+        "wikidata": "https://www.wikidata.org/wiki/Q17021366"
+      },
+      "summary": {
+        "text": "Spank! The Fifty Shades Parody is an unauthorized musical satire of E.L. James' Fifty Shades of Grey created by Mills Entertainment.  The show is currently touring Canada, United States, and Australia.    The production was directed by Jim Millan and stars three different casts consisting of three actors per cast (see actors below). The story follows an author, EBJ, as she writes a sex fantasy about a younger version of herself named Natasha Woode and a handsome billionaire, Hugh Hansen.",
+        "source_url": "https://en.wikipedia.org/wiki/Spank!_The_Fifty_Shades_Parody",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-defender": {
+      "slug": "the-defender",
+      "title": "The Defender",
+      "qid": "Q125167270",
+      "enwiki": "The Defender (musical)",
+      "composers": [
+        {
+          "name": "Charles Dennée",
+          "qid": "Q5076829",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11589"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Defender_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q125167270"
+      },
+      "summary": {
+        "text": "The Defender is a musical in three acts with music by Charles Dennée and both book and lyrics by Allen Lowe. It is best remembered for introducing the popular standard \"In the Good Old Summer Time\"; a song which was performed in the production by Blanche Ring (in the role of Millie Canvass) who made her Broadway debut in this show. Set in Newport, Rhode Island and on the yacht \"Hibernia\" while at sea, the musical's story focused on the rivalry between an American yachtsman and English yachtsman who are both attempting to win an international yachting competition. Its plot was loosely based on the life of American businessman and yachtsman Thomas W. Lawson. \nAfter an initial production in Boston, The Defender premiered on Broadway at the Herald Square Theatre on July 3, 1902. It ran there for a total of sixty performances; closing on August 23, 1902. The production was produced by A.H. Chamberlyn and was directed by Frank Smithson. In addition to Blanche Ring, the cast included Harry Davenport as Sir Thomas Ceylon Teaton, George Alison as Mr. Tom Pinkson, Emma Carus as Mrs. Jack Orchard, Richie Ling as Charles Dare, Mayme Kelso as Mrs. Everly Chase, Alexander Clark as Sam Keno, Paula Edwardes as Jellie Canvass, Charles Wayne as Pinkie Winkerton, Gilbert Clayton as Mr. Ivory D. Queers, Gordon Tomkins as Han Kuff, Sandol Milliken as Miss Hilda Shipton, and Edith Eldridge as Winsome.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Defender_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-great-amateur": {
+      "slug": "the-great-amateur",
+      "title": "The Great Amateur",
+      "qid": "Q10468798",
+      "enwiki": "The Great Amateur",
+      "composers": [
+        {
+          "name": "Bengt Hallberg",
+          "qid": "Q726556"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Great_Amateur",
+        "wikidata": "https://www.wikidata.org/wiki/Q10468798"
+      },
+      "summary": {
+        "text": "The Great Amateur (Swedish: Den store amatören) is a 1958 Swedish comedy film directed by Hasse Ekman and starring Martin Ljung, Marianne Bengtsson and Yngve Gamlin. It was shot at the Råsunda in Stockholm. The film's sets were designed by the art director P.A. Lundgren.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Great_Amateur",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "trixie-true-teen-detective": {
+      "slug": "trixie-true-teen-detective",
+      "title": "Trixie True, Teen Detective",
+      "qid": "Q23020554",
+      "enwiki": "Trixie True, Teen Detective",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Trixie_True%2C_Teen_Detective",
+        "wikidata": "https://www.wikidata.org/wiki/Q23020554"
+      },
+      "summary": {
+        "text": "Trixie True, Teen Detective is an Off-Broadway musical with book, music and lyrics by American playwright and composer Kelly Hamilton. It was the first musical to employ the post-modern comedic style then being explored on television by such shows as Saturday Night Live and SCTV. Set in New York City in 1944, the musical centers on hack writer Joe Sneed, who is employed to write a series of books similar to the Nancy Drew mysteries.  Under the watchful eye of his iron willed boss Miss Snood, Joe cranks out \"The Secret of the Tapping Shoes,\" which comes to life on stage. The show within the show features teenage sleuth Trixie True and her chums, who sing and dance their way through soda shops, tap studios, a Big Broadcast, and a mystery involving German spies, World War II and a submerged submarine.\nThe musical opened on December 4, 1980, at The Lucille Lortel Theater, then known as The Theater De Lys, in New York City. Producers of the show were Doug Cole, Joe Novak, Joseph Butt and Spencer Tandy. It was directed by Bill Gile, musical staging and choreography by Arthur Faria, and designed by Michael J. Hotopp and Paul De Passe. Costumes were by David Toser and orchestrations by Eddie Sauter. The recording was produced by Neal Newman.",
+        "source_url": "https://en.wikipedia.org/wiki/Trixie_True%2C_Teen_Detective",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "war-paint": {
+      "slug": "war-paint",
+      "title": "War Paint",
+      "qid": "Q25352629",
+      "enwiki": "War Paint (musical)",
+      "composers": [
+        {
+          "name": "Scott Frankel",
+          "qid": "Q7436354",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/73309"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Michael Korie",
+          "qid": "Q16730993",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/423818"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Doug Wright",
+          "qid": "Q722807",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/113564"
+        }
+      ],
+      "premiere": {
+        "date": "2016-07-18",
+        "venue": "Goodman Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/510884",
+        "official_site": "http://www.warpaintmusical.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/War_Paint_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q25352629"
+      },
+      "summary": {
+        "text": "War Paint is a musical with music by Scott Frankel, lyrics by Michael Korie, and a book by Doug Wright. It is based both on Lindy Woodhead's 2004 book War Paint and on the 2007 documentary film The Powder & the Glory by Ann Carol Grossman and Arnie Reisman. \nThe musical focuses on the lives of and rivalry between 20th-century female entrepreneurs Elizabeth Arden and Helena Rubinstein.",
+        "source_url": "https://en.wikipedia.org/wiki/War_Paint_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "welcome-to-the-club": {
+      "slug": "welcome-to-the-club",
+      "title": "Welcome to the Club",
+      "qid": "Q7980782",
+      "enwiki": "Welcome to the Club (musical)",
+      "composers": [
+        {
+          "name": "Cy Coleman",
+          "qid": "Q1146861",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4929"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Cy Coleman",
+          "qid": "Q1146861",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4929"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "A. E. Hotchner",
+          "qid": "Q4647725",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3824"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/9226",
+        "wikipedia": "https://en.wikipedia.org/wiki/Welcome_to_the_Club_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7980782"
+      },
+      "summary": {
+        "text": "Welcome to the Club is a 1989 Broadway musical with music and lyrics by Cy Coleman. Set in a New York City jail for alimony violators, the musical was directed by Peter Mark Schifter and opened at the Music Box Theatre on April 13, 1989. Poor reviews led the production to close on April 22, after only twelve performances. \nThe New York Times deemed the musical \"embarrassingly out of touch with the present-day realities of men, women, sex, marriage and divorce\", with limited praise given to Coleman's \"inconsistent\" score. \nDespite flopping at the box office, the musical garnered two Tony nominations: Best Featured Actor in a Musical (Scott Wentworth) and Best Direction of a Musical (Schifter). In her Broadway debut, actress Sally Mayes won a 1989 Theatre World award.",
+        "source_url": "https://en.wikipedia.org/wiki/Welcome_to_the_Club_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

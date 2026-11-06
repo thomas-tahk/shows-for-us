@@ -1,0 +1,514 @@
+{
+  "live": true,
+  "shows": {
+    "a-gaiety-girl": {
+      "slug": "a-gaiety-girl",
+      "title": "A Gaiety Girl",
+      "qid": "Q4656903",
+      "enwiki": "A Gaiety Girl",
+      "composers": [
+        {
+          "name": "Sidney Jones",
+          "qid": "Q926850",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11958"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Harry Greenbank",
+          "qid": "Q5669257",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12917"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Owen Hall",
+          "qid": "Q7114495",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7982"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Gaiety_Girl",
+        "wikidata": "https://www.wikidata.org/wiki/Q4656903"
+      },
+      "summary": {
+        "text": "A Gaiety Girl is an English musical comedy in two acts by a team of musical comedy neophytes: Owen Hall (book, on an outline by James T. Tanner), Harry Greenbank (lyrics) and Sidney Jones (music).  It opened at Prince of Wales Theatre in London, produced by George Edwardes, on 14 October 1893 (later transferring to Daly's Theatre) and ran for 413 performances.  The show starred C. Hayden Coffin, Louie Pounds, Decima Moore, Eric Lewis, W. Louis Bradfield, and later Rutland Barrington, George Grossmith, Jr., Scott Russell, Huntley Wright and Marie Studholme. Topsy Sinden and later Letty Lind danced in the piece.  Choreography was by Willie Warde. Percy Anderson designed the Japanese costumes for the musical, while the non-Japanese costumes were supplied by leading fashion houses.  Blanche Massey was one of the Gaiety Girls in the piece.  It also had a successful three-month Broadway run in 1894, followed by an American tour and a world tour.",
+        "source_url": "https://en.wikipedia.org/wiki/A_Gaiety_Girl",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "birds-of-paradise": {
+      "slug": "birds-of-paradise",
+      "title": "Birds of Paradise",
+      "qid": "Q4916098",
+      "enwiki": "Birds of Paradise (musical)",
+      "composers": [],
+      "lyricists": [
+        {
+          "name": "Winnie Holzman",
+          "qid": "Q1790231",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/107019"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Birds_of_Paradise_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4916098"
+      },
+      "summary": {
+        "text": "Birds of Paradise is a musical with music by David Evans, lyrics by Winnie Holzman, and the book by Evans and Holzman. It had a brief run off-Broadway in 1987. The story involves a group of amateur actors involved in a musical adaptation of Anton Chekhov's 1896 play The Seagull.",
+        "source_url": "https://en.wikipedia.org/wiki/Birds_of_Paradise_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "girl-crazy": {
+      "slug": "girl-crazy",
+      "title": "Girl Crazy",
+      "qid": "Q15743033",
+      "enwiki": "Girl Crazy",
+      "composers": [
+        {
+          "name": "George Gershwin",
+          "qid": "Q123829",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5813"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Ira Gershwin",
+          "qid": "Q61059",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12885"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Guy Bolton",
+          "qid": "Q924974",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4575"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3873",
+        "wikipedia": "https://en.wikipedia.org/wiki/Girl_Crazy",
+        "wikidata": "https://www.wikidata.org/wiki/Q15743033"
+      },
+      "summary": {
+        "text": "Girl Crazy is a 1930 musical by George Gershwin with lyrics by Ira Gershwin and book by Guy Bolton and John McGowan. Co-leads Ginger Rogers and Ethel Merman made their stage debuts in the first production and Rogers became an overnight star. \nRich in song, it follows the story of spoiled rich boy Danny Churchill, who has been sent to fictional Custerville, Arizona, to manage his family's ranch. His father wants him there to focus on matters more serious than alcohol and women but Danny turns the place into a dude ranch, importing showgirls from Broadway and hiring Kate Forthergill (Merman's role) as entertainer. Visitors come from both coasts and Danny falls in love with the local postmistress, Molly Gray (Rogers' role).\nThree subsequent film adaptations adjusted the plot. The most notable, Girl Crazy (1943 film), starred Mickey Rooney and Judy Garland, with the latter playing a combined Kate and Molly.",
+        "source_url": "https://en.wikipedia.org/wiki/Girl_Crazy",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "golden-rainbow": {
+      "slug": "golden-rainbow",
+      "title": "Golden Rainbow",
+      "qid": "Q5579729",
+      "enwiki": "Golden Rainbow (musical)",
+      "composers": [
+        {
+          "name": "Walter Marks",
+          "qid": "Q7965546",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12108"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Walter Marks",
+          "qid": "Q7965546",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12108"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Ernest Kinoy",
+          "qid": "Q5393393",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5422"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3980",
+        "playbill": "https://playbill.com/production/golden-rainbow-shubert-theatre-vault-0000010479",
+        "wikipedia": "https://en.wikipedia.org/wiki/Golden_Rainbow_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5579729"
+      },
+      "summary": {
+        "text": "Golden Rainbow is a musical in two acts with music and lyrics by Walter Marks and a book by Ernest Kinoy. The musical was based on the film adaptation (by screenwriter Arnold Schulman) of the play A Hole in the Head. It opened on Broadway in 1968. It starred Steve Lawrence and Eydie Gormé until it closed in early 1969.\nThe stars of Golden Rainbow, Steve Lawrence and Eydie Gormé, were well-known from their extensive work in music, film, and television during the 1950s and 1960s. The musical featured the song \"I've Gotta Be Me\", released as a single in the late 1960s by both Lawrence and Sammy Davis Jr. The Osmond Brothers sang the title song \"Golden Rainbow\" on an episode of The Magical World of Disney.\nAuthor William Goldman had a chapter about Golden Rainbow in his book The Season: A Candid Look at Broadway, which was written while the show was preparing for Broadway. The chapter, titled \"Washing Garbage,\" stated that the material suffered from attempts to bring it to expected levels.",
+        "source_url": "https://en.wikipedia.org/wiki/Golden_Rainbow_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "gypsy": {
+      "slug": "gypsy",
+      "title": "Gypsy",
+      "qid": "Q1558496",
+      "enwiki": "Gypsy (musical)",
+      "composers": [
+        {
+          "name": "Jule Styne",
+          "qid": "Q587741",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12466"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Stephen Sondheim",
+          "qid": "Q153579",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12430"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Arthur Laurents",
+          "qid": "Q710334",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4307"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4135",
+        "wikipedia": "https://en.wikipedia.org/wiki/Gypsy_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1558496"
+      },
+      "summary": {
+        "text": "Gypsy: A Musical Fable is a musical with music by Jule Styne, lyrics by Stephen Sondheim, and a book by Arthur Laurents. It is loosely based on the 1957 memoirs of striptease artist Gypsy Rose Lee, and focuses on her mother, Rose, whose name has become synonymous with \"the ultimate show business mother.\" It follows the dreams and efforts of Rose to raise two daughters to perform onstage and casts an affectionate eye on the hardships of show business life. The character of Louise is based on Lee, and the character of June is based on Lee's sister, the actress June Havoc.\nThe musical contains many songs that became popular standards, including \"Everything's Coming Up Roses\", \"Rose's Turn\", \"Small World\", \"Together (Wherever We Go)\", \"You Gotta Get a Gimmick\", and \"Let Me Entertain You\".\nIt is frequently considered one of the crowning achievements of the mid-twentieth century's conventional musical theatre art form, often called the book musical. Gypsy has been referred to as the greatest American musical by numerous critics and writers, among them Ben Brantley (\"what may be the greatest of all American musicals...\") and Frank Rich. Rich wrote that \"Gypsy is nothing if not Broadway's own brassy, unlikely answer to King Lear.\" Theater critic Clive Barnes wrote that \"Gypsy is one of the best of musicals...\" and described Rose as \"one of the few truly complex characters in the American musical.\"",
+        "source_url": "https://en.wikipedia.org/wiki/Gypsy_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "happy-days-the-arena-mega-musical": {
+      "slug": "happy-days-the-arena-mega-musical",
+      "title": "Happy Days - The Arena Mega Musical",
+      "qid": "Q55613378",
+      "enwiki": "Happy Days - The Arena Mega Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Happy_Days_-_The_Arena_Mega_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q55613378"
+      },
+      "summary": {
+        "text": "Happy Days - The Arena Mega Musical is an Australian musical that is a spinoff of the USA sitcom Happy Days.\nDirected by David Gilmore and produced by Paul Dainty it debuted in Sydney in October 1999, subsequently playing in Melbourne, Adelelaide, Perth and Brisbane. The musical had a preview staging at the Newcastle Entertainment Centre on 7 October 1999 before its official opening on the 15th at Sydney's SuperDome.\nThe musical was met with mixed to poor reviews. Paul LePetit of the Sunday Telegraph wrote that it was \"a relentlessly bright but banal night. Plenty of colour and movement, but little plot and a lot of over-acting.\" The Sun Herald's Colin Rose said that the \"clichéd storyline, as old as the hills, was merely an excuse to play the great hits (27 of them) from rock'n'roll's heyday, songs such as Jailhouse Rock, Great Balls Of Fire and Johnny B Goode.\"  Chelsea Clarke writing in the Daily Telegraph praised the \" dazzling costumes, excellent staging, bright choreography and stunning use of the impressive lighting rig.\" but said that from \"a creative point of view, though, it lacks a great deal of what made other arena spectaculars such as Grease so successful\". The Australians Stephen Brooks writes \"what a shame the actual Happy Days element of the show doesn't fare as well.\" Ara Jansen praised the show in The West Australian, \"If Happy Days doesn't put a smile on your face, then you're in need of therapy.\"\nAn Original Cast Recording album was released and was nominated for the 2000 ARIA Award for Best Cast or Show Album.",
+        "source_url": "https://en.wikipedia.org/wiki/Happy_Days_-_The_Arena_Mega_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "magical-sentosa": {
+      "slug": "magical-sentosa",
+      "title": "Magical Sentosa",
+      "qid": "Q17051650",
+      "enwiki": "Magical Sentosa",
+      "composers": [
+        {
+          "name": "Philippe Villar",
+          "qid": "Q131299520"
+        },
+        {
+          "name": "Pascal Lengagne",
+          "qid": "Q65116465"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Philippe Villar",
+          "qid": "Q131299520"
+        },
+        {
+          "name": "Pascal Lengagne",
+          "qid": "Q65116465"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Yves Pépin",
+          "qid": "Q8062341"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": "Sentosa Musical Fountain"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Magical_Sentosa",
+        "wikidata": "https://www.wikidata.org/wiki/Q17051650"
+      },
+      "summary": {
+        "text": "Magical Sentosa (also known as Sentosa Magique [in French] or 神奇圣淘沙 [in Chinese]) was a multimedia nighttime show hosted at the Sentosa Musical Fountain on the resort island of Sentosa, Singapore. The multimedia show is the last musical to be staged on the fountain itself. The musical ran for less than five years before being eventually discontinued in 2007 and replaced by Songs of the Sea.\nThe show was conceived using ideas from an earlier ECA2 production in France, titled \"Le Lac Aux Images\", using some of the characters and plot elements of the previous show. The plot centers around fountain master, Mr Whamsey, and the maniacal antics of Kiki the Hyperactive Monkey of Sentosa, both of whom serve as the show's main hosts. The show was known internally at ECA2 as \"Sentosa Water and Fire Fantasy Show\".",
+        "source_url": "https://en.wikipedia.org/wiki/Magical_Sentosa",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "romance-in-hard-times": {
+      "slug": "romance-in-hard-times",
+      "title": "Romance in Hard Times",
+      "qid": "Q17140260",
+      "enwiki": "Romance in Hard Times",
+      "composers": [
+        {
+          "name": "William Finn",
+          "qid": "Q8009056",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9128"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "William Finn",
+          "qid": "Q8009056",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9128"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Romance_in_Hard_Times",
+        "wikidata": "https://www.wikidata.org/wiki/Q17140260"
+      },
+      "summary": {
+        "text": "Romance in Hard Times is a musical by William Finn. It ran briefly Off-Broadway in 1989 at the Public Theater.",
+        "source_url": "https://en.wikipedia.org/wiki/Romance_in_Hard_Times",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "sideshow-alley": {
+      "slug": "sideshow-alley",
+      "title": "Sideshow Alley",
+      "qid": "Q25217754",
+      "enwiki": "Sideshow Alley (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Sideshow_Alley_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q25217754"
+      },
+      "summary": {
+        "text": "Sideshow Alley is an Australian musical by Paul Keelan and Gary Young. Set amongst the 'misfits', 'outcasts' and 'curiosities' of a 1950s Outback travelling show, Sideshow Alley tells the story of Rita, an Italian fortune-teller, Billy, a rugged tent boxer, and Alec, a charismatic drifter, intertwined in a love triangle filled with secrets and lies. It concerns themes of unbridled love and the discovery of identity in a world of prejudice.",
+        "source_url": "https://en.wikipedia.org/wiki/Sideshow_Alley_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "sisterella": {
+      "slug": "sisterella",
+      "title": "Sisterella",
+      "qid": "Q106179034",
+      "enwiki": "Sisterella",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Sisterella",
+        "wikidata": "https://www.wikidata.org/wiki/Q106179034"
+      },
+      "summary": {
+        "text": "Sisterella is a musical, presented and produced by Michael Jackson with Miramax Films in association with Tribeca. Music, lyrics and book are by Larry Hart. The original choreographer was Ramon Del Barrio.\nThe musical has been described as a \"spoofy Cinderella-based African-American musical.\" It was originally planned for a Broadway run in the fall of 1997. The show sold out its March to April 1996 original run at the Pasadena Playhouse in Pasadena, California. It toured the United States, Europe and Australia. Hart created the book and the music with the reader workshops at the New York's Musical Theatre Works, which did the workshops on Disney's Beauty and the Beast.",
+        "source_url": "https://en.wikipedia.org/wiki/Sisterella",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "so-long-174th-street": {
+      "slug": "so-long-174th-street",
+      "title": "So Long, 174th Street",
+      "qid": "Q7549341",
+      "enwiki": "So Long, 174th Street",
+      "composers": [
+        {
+          "name": "Stan Daniels",
+          "qid": "Q2330020",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11563"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Joseph Stein",
+          "qid": "Q1361175",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6978"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8125",
+        "wikipedia": "https://en.wikipedia.org/wiki/So_Long%2C_174th_Street",
+        "wikidata": "https://www.wikidata.org/wiki/Q7549341"
+      },
+      "summary": {
+        "text": "So Long, 174th Street is a musical with a book by Joseph Stein and lyrics and music by Stan Daniels.\nBased on Stein's play Enter Laughing, which had been adapted from the Carl Reiner book of the same name and served as the basis for a 1967 film, it focuses on the journey of David Kolowitz from factory helper to actor and from insecure adolescence to self-assured adulthood  in three whirlwind days in New York City in the late 1930s.",
+        "source_url": "https://en.wikipedia.org/wiki/So_Long%2C_174th_Street",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-conquering-hero": {
+      "slug": "the-conquering-hero",
+      "title": "The Conquering Hero",
+      "qid": "Q7727379",
+      "enwiki": "The Conquering Hero",
+      "composers": [
+        {
+          "name": "Moose Charlap",
+          "qid": "Q6908563",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11512"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Norman Gimbel",
+          "qid": "Q7052273",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12899"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Larry Gelbart",
+          "qid": "Q1806065",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7147"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2740",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Conquering_Hero",
+        "wikidata": "https://www.wikidata.org/wiki/Q7727379"
+      },
+      "summary": {
+        "text": "The Conquering Hero is a musical with a music by Mark Charlap, lyrics by Norman Gimbel, and book by Larry Gelbart. The musical was based on Preston Sturges's 1944 film Hail the Conquering Hero. The musical ran for only eight performances on Broadway in 1961.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Conquering_Hero",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-gay-life": {
+      "slug": "the-gay-life",
+      "title": "The Gay Life",
+      "qid": "Q7735990",
+      "enwiki": "The Gay Life",
+      "composers": [
+        {
+          "name": "Arthur Schwartz",
+          "qid": "Q711473",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4324"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Howard Dietz",
+          "qid": "Q1631780",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6363"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Fay Kanin",
+          "qid": "Q304588",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5512"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3786",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Gay_Life",
+        "wikidata": "https://www.wikidata.org/wiki/Q7735990"
+      },
+      "summary": {
+        "text": "The Gay Life is a musical with a book by Fay and Michael Kanin, lyrics by Howard Dietz, and music by Arthur Schwartz.\nBased on a cycle of seven short plays by Arthur Schnitzler, published in 1893 and first staged in 1910, The Gay Life focuses on womanizing playboy Anatol von Huber. The score is a mixture of traditional Broadway show tunes and operetta.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Gay_Life",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-gingerbread-man-wood-musical": {
+      "slug": "the-gingerbread-man-wood-musical",
+      "title": "The Gingerbread Man",
+      "qid": "Q7736463",
+      "enwiki": "The Gingerbread Man (Wood musical)",
+      "composers": [
+        {
+          "name": "David Wood",
+          "qid": "Q3019012"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Gingerbread_Man_(Wood_musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7736463"
+      },
+      "summary": {
+        "text": "The Gingerbread Man is a two-act musical play written by David Wood, based on the 19th-century fairy tale, \"The Gingerbread Man\". It premiered in 1976 at the Towngate Theatre in Basildon, Essex, and went on to great international success.\nAfter the musical's positive reception at Towngate Theatre, Wood teamed with theatrical producer Cameron Mackintosh to co-produce a revival at The Old Vic in 1977. After a successful season, they brought it back to the Vic in the following year. Thereafter, The Gingerbread Man was especially well received in Japan and Germany.\nSamuel French Ltd. published the libretto in 1977, and reprinted it in 1999. Methuen Drama also reprinted it in the 1999 anthology David Wood Plays, Vol. 1, for their Contemporary Dramatists series.\nWood later adapted the play into a series of 13 screenplays, which became a stop motion-animated children's television series also called The Gingerbread Man. The series was co-produced by FilmFair and Central Independent Television in 1991, and broadcast on ITV in 1992.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Gingerbread_Man_(Wood_musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

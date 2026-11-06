@@ -1,0 +1,1113 @@
+{
+  "live": true,
+  "shows": {
+    "after-midnight": {
+      "slug": "after-midnight",
+      "title": "After Midnight",
+      "qid": "Q16960419",
+      "enwiki": "After Midnight (musical)",
+      "composers": [
+        {
+          "name": "Duke Ellington",
+          "qid": "Q4030",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11631"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/494958",
+        "wikipedia": "https://en.wikipedia.org/wiki/After_Midnight_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q16960419"
+      },
+      "summary": {
+        "text": "After Midnight is a Broadway musical that premiered at the Brooks Atkinson Theatre in 2013. The revue is based on an earlier 2011 revue, titled Cotton Club Parade, which ran in concert at Encores! in 2011 and 2012.",
+        "source_url": "https://en.wikipedia.org/wiki/After_Midnight_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "aida": {
+      "slug": "aida",
+      "title": "Aida",
+      "qid": "Q403810",
+      "enwiki": "Aida (musical)",
+      "composers": [
+        {
+          "name": "Elton John",
+          "qid": "Q2808",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11938"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Tim Rice",
+          "qid": "Q298295",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8890"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Linda Woolverton",
+          "qid": "Q1072923",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7344"
+        },
+        {
+          "name": "David Henry Hwang",
+          "qid": "Q329897",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4993"
+        },
+        {
+          "name": "Robert Falls",
+          "qid": "Q7344249",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/14741"
+        }
+      ],
+      "premiere": {
+        "date": "1998-10-07",
+        "venue": "Alliance Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1423",
+        "wikipedia": "https://en.wikipedia.org/wiki/Aida_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q403810"
+      },
+      "summary": {
+        "text": "Aida (also known as Elton John and Tim Rice's Aida) is a musical with music by Elton John, lyrics by Tim Rice, and a book by Linda Woolverton, Robert Falls, and David Henry Hwang. It is based on the opera of the same name written by Antonio Ghislanzoni with music by Giuseppe Verdi. The musical was originally produced by Hyperion Theatricals.\nAida premiered on Broadway on March 23, 2000, running for 1,852 performances until September 5, 2004. It was nominated for five Tony Awards and won four, including Best Original Score. It was also named by Time as one of the top ten theatre productions of the year.\nThe original Broadway cast recording won the Grammy Award for Best Musical Show Album.  A song from the show, \"Written in the Stars\", recorded by Elton John and LeAnn Rimes, reached No. 2 in the Billboard US adult contemporary music chart.",
+        "source_url": "https://en.wikipedia.org/wiki/Aida_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "breast-wishes": {
+      "slug": "breast-wishes",
+      "title": "Breast Wishes",
+      "qid": "Q4959779",
+      "enwiki": "Breast Wishes",
+      "composers": [
+        {
+          "name": "Bruce Brown",
+          "qid": "Q991554"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Breast_Wishes",
+        "wikidata": "https://www.wikidata.org/wiki/Q4959779"
+      },
+      "summary": {
+        "text": "Breast Wishes is an Australian musical comedy produced by Anne Looby, Simone Parrott and Neil Gooding with music and lyrics by Bruce Brown.",
+        "source_url": "https://en.wikipedia.org/wiki/Breast_Wishes",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "captain-louie": {
+      "slug": "captain-louie",
+      "title": "Captain Louie",
+      "qid": "Q5036718",
+      "enwiki": "Captain Louie",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Captain_Louie",
+        "wikidata": "https://www.wikidata.org/wiki/Q5036718"
+      },
+      "summary": {
+        "text": "Captain Louie is a family musical with music and lyrics by Stephen Schwartz and a book by Anthony Stein adapted from the children's book The Trip by Ezra Jack Keats. It is the story of a young boy from the inner city whose family moves to a new neighborhood, forcing him to leave his old friends behind.  On Halloween night, he escapes into his imagination to cope with the loneliness he feels.\nThe musical premiered in the late 1980s and then played Off-Broadway in 2005.  Since then, it has had a U.S. tour and other productions.",
+        "source_url": "https://en.wikipedia.org/wiki/Captain_Louie",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "champeen": {
+      "slug": "champeen",
+      "title": "Champeen",
+      "qid": "Q5069942",
+      "enwiki": "Champeen",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Champeen",
+        "wikidata": "https://www.wikidata.org/wiki/Q5069942"
+      },
+      "summary": {
+        "text": "Champeen was a 1983 musical by Melvin Van Peebles. It looked at the careers of Bessie Smith and Joe Louis, and had a cast of 18. It won 7 awards at the 11th Audelco Recognition Awards for black theater, including best actress, best choreography, and best director. Although it covered Bessie Smith's life, it was not a biographical play. The New York Times reviewed it positively, although it was stated that Miss Reaves-Phillips was not given enough singing time.",
+        "source_url": "https://en.wikipedia.org/wiki/Champeen",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "easter-rising": {
+      "slug": "easter-rising",
+      "title": "Easter Rising",
+      "qid": "Q16836396",
+      "enwiki": "Easter Rising (musical)",
+      "composers": [
+        {
+          "name": "Michael Arden",
+          "qid": "Q4068927",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/112033"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Michael Arden",
+          "qid": "Q4068927",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/112033"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Isaac Oliver",
+          "qid": "Q1049934"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Easter_Rising_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q16836396"
+      },
+      "summary": {
+        "text": "Easter Rising is a musical written by Isaac Oliver with a score by Michael Arden. Set in Plano, Texas, this \"four person song cycle questions the limits of love, definition of family and the morals we pass on to our children when our own are in debate\".\nThe show deals with the last few weeks of the life of Caleb. As his battle with terminal cancer draws toward a close, Caleb confronts buried relationships with his estranged childhood friend, Andrew, his teenage son, John, and his love for his fiancé, April.",
+        "source_url": "https://en.wikipedia.org/wiki/Easter_Rising_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "hedwig-and-the-angry-inch": {
+      "slug": "hedwig-and-the-angry-inch",
+      "title": "Hedwig and the Angry Inch",
+      "qid": "Q13424058",
+      "enwiki": "Hedwig and the Angry Inch (musical)",
+      "composers": [
+        {
+          "name": "Stephen Trask",
+          "qid": "Q111572",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/407142"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "John Cameron Mitchell",
+          "qid": "Q443995",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/74708"
+        }
+      ],
+      "premiere": {
+        "date": "1998",
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Obie Award",
+          "qid": "Q1813995"
+        },
+        {
+          "name": "Tony Award for Best Revival of a Musical",
+          "qid": "Q2018307"
+        }
+      ],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/495293",
+        "playbill": "https://playbill.com/production/hedwig-and-the-angry-inch-belasco-theatre-vault-0000014041",
+        "wikipedia": "https://en.wikipedia.org/wiki/Hedwig_and_the_Angry_Inch_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q13424058"
+      },
+      "summary": {
+        "text": "Hedwig and the Angry Inch is a rock musical with music and lyrics by Stephen Trask and a book by John Cameron Mitchell. The musical follows Hedwig Robinson, the genderqueer East German singer of a fictional rock and roll band. The story draws on Mitchell's life as the child of a U.S. Army major general who once commanded the U.S. sector of occupied West Berlin. The character of Hedwig was inspired by a German divorced U.S. Army wife who was Mitchell's family babysitter and moonlighted as a sex worker at her trailer park home in Junction City, Kansas. The music is steeped in the androgynous 1970s glam rock style of David Bowie (who co-produced the Los Angeles production of the show), as well as the work of John Lennon and early punk performers Lou Reed and Iggy Pop.\nThe musical opened off-Broadway in 1998, and won the Obie Award and Outer Critics Circle Award for Best Off-Broadway Musical. The production ran for two years, and was remounted with various casts by the original creative team in other US cities. Following a West End production in 2000, the musical was produced throughout the world in hundreds of stage productions.\nThe show's first Broadway incarnation, opening April 2014 at the Belasco Theatre, won Best Revival of a Musical at the 68th Tony Awards. The Broadway closing in September 2015 was followed by a U.S. national tour, launching at San Francisco's Golden Gate Theatre in October 2016 and ending at the Kennedy Center in July 2017.",
+        "source_url": "https://en.wikipedia.org/wiki/Hedwig_and_the_Angry_Inch_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "honeymoon-in-vegas": {
+      "slug": "honeymoon-in-vegas",
+      "title": "Honeymoon in Vegas",
+      "qid": "Q5893893",
+      "enwiki": "Honeymoon in Vegas (musical)",
+      "composers": [
+        {
+          "name": "Jason Robert Brown",
+          "qid": "Q1683976",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11446"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Jason Robert Brown",
+          "qid": "Q1683976",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11446"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Andrew Bergman",
+          "qid": "Q503720",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4131"
+        }
+      ],
+      "premiere": {
+        "date": "2013",
+        "venue": "Paper Mill Playhouse"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/497531",
+        "wikipedia": "https://en.wikipedia.org/wiki/Honeymoon_in_Vegas_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5893893"
+      },
+      "summary": {
+        "text": "Honeymoon in Vegas is a musical with a book by Andrew Bergman and music and lyrics by Jason Robert Brown. The musical is based on the 1992 movie of the same name which Bergman also wrote and directed. The musical had its world premiere at the Paper Mill Playhouse and premiered on Broadway in January 2015.",
+        "source_url": "https://en.wikipedia.org/wiki/Honeymoon_in_Vegas_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "marie-curie": {
+      "slug": "marie-curie",
+      "title": "Marie Curie",
+      "qid": "Q130493265",
+      "enwiki": "Marie Curie (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Marie_Curie_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q130493265"
+      },
+      "summary": {
+        "text": "Marie Curie is a Korean musical with book and lyrics by Seeun Choun and music by Jongyoon Choi. The show tells the life story of Marie Curie from her arrival at the Sorbonne University in Paris to study, to her discovery of radium with husband Pierre and her winning the Nobel Prize.\nThe musical premiered in South Korea in 2018 and has since seen several performances in Asia and Europe, most recently in London's Charing Cross Theatre, UK.",
+        "source_url": "https://en.wikipedia.org/wiki/Marie_Curie_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "marilyn-the-musical": {
+      "slug": "marilyn-the-musical",
+      "title": "Marilyn! the Musical",
+      "qid": "Q29378732",
+      "enwiki": "Marilyn! the Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Marilyn!_the_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q29378732"
+      },
+      "summary": {
+        "text": "Marilyn! the Musical is a musical written by Mort Garson about Marilyn Monroe that was originally produced in London in 1983 as a vehicle for Stephanie Lawrence.\nThe show's book and lyrics were by Jacques Wilson and it opened at the Adelphi Theatre on 17 March 1983 where it ran for 156 performances.\nDirected by Larry Fuller, with whom Lawrence had worked on Evita, the principal cast also included John Christie, John Bennett, David Firth, Bruce Barry and Judith Bruce.\nDespite poor reviews for the show, Lawrence's performance was praised.",
+        "source_url": "https://en.wikipedia.org/wiki/Marilyn!_the_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "oh-kay": {
+      "slug": "oh-kay",
+      "title": "Oh, Kay!",
+      "qid": "Q1517784",
+      "enwiki": "Oh, Kay!",
+      "composers": [
+        {
+          "name": "George Gershwin",
+          "qid": "Q123829",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5813"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Ira Gershwin",
+          "qid": "Q61059",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12885"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "P. G. Wodehouse",
+          "qid": "Q207515",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7988"
+        },
+        {
+          "name": "Guy Bolton",
+          "qid": "Q924974",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4575"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6687",
+        "wikipedia": "https://en.wikipedia.org/wiki/Oh%2C_Kay!",
+        "wikidata": "https://www.wikidata.org/wiki/Q1517784"
+      },
+      "summary": {
+        "text": "Oh, Kay! is a musical with music by George Gershwin, lyrics by Ira Gershwin, and a book by Guy Bolton and P. G. Wodehouse. It is based on the play La Présidente by Maurice Hennequin and Pierre Veber.  The plot revolves around the adventures of the Duke of Durham and his sister, Lady Kay, English bootleggers in Prohibition Era America.  Kay finds herself falling in love with a man who seems unavailable. The show is remembered for its enduring song, \"Someone to Watch Over Me\".\nThe musical opened on Broadway in 1926, starring Gertrude Lawrence and Victor Moore, and ran for 256 performances.  The musical then opened in London's West End in 1927, starring Lawrence and John Kirby, where it ran for 213 performances.",
+        "source_url": "https://en.wikipedia.org/wiki/Oh%2C_Kay!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "only-heaven-knows": {
+      "slug": "only-heaven-knows",
+      "title": "Only Heaven Knows",
+      "qid": "Q85790791",
+      "enwiki": "Only Heaven Knows",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Only_Heaven_Knows",
+        "wikidata": "https://www.wikidata.org/wiki/Q85790791"
+      },
+      "summary": {
+        "text": "Only Heaven Knows is a musical by Alex Harding. It is a gay romance set in Sydney's Kings Cross during the 1940s and 1950s.",
+        "source_url": "https://en.wikipedia.org/wiki/Only_Heaven_Knows",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "our-house": {
+      "slug": "our-house",
+      "title": "Our House",
+      "qid": "Q7110679",
+      "enwiki": "Our House (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Tim Firth",
+          "qid": "Q7803492",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/494233"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Laurence Olivier Awards",
+          "qid": "Q28470"
+        }
+      ],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Our_House_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7110679"
+      },
+      "summary": {
+        "text": "Our House is a musical with music and lyrics by Madness and one song \"It Must Be Love\" written by Labi Siffre and a book by playwright Tim Firth. Premiering at The Cambridge Theatre in 2002, Our House was the winner of the 2003 Olivier award for Best New Musical and has since gone on to tour both nationally and internationally to great acclaim. Through the music of Madness, writer Tim Firth explores the themes of love, family values, growing up, responsibility and dealing with losing the people that shape us.",
+        "source_url": "https://en.wikipedia.org/wiki/Our_House_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "pacific-1860": {
+      "slug": "pacific-1860",
+      "title": "Pacific 1860",
+      "qid": "Q7122273",
+      "enwiki": "Pacific 1860",
+      "composers": [
+        {
+          "name": "Noël Coward",
+          "qid": "Q298388",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/36502"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Pacific_1860",
+        "wikidata": "https://www.wikidata.org/wiki/Q7122273"
+      },
+      "summary": {
+        "text": "Pacific 1860 is a musical written by Noël Coward.  The story is set in a fictional Pacific British colony during the reign of Queen Victoria.  It involves a romantic and sentimental story about a visiting prima donna and her conflict between love and career.  There is also the theme of snobbishness from the island's establishment.\nThe original London production opened in 1946, starring Mary Martin, opposite Graham Payn and played for four months. It was the first show to play at the Theatre Royal, Drury Lane after World War II.  A cast recording, originally on 78 rpm discs was transferred to CD and has been called pleasant but old fashioned. The piece was not played in the U.S. until 2003, when it was given a concert staging Off-Broadway by York Theatre Company, directed by Simon Jones, who also played the Governor/narrator of the piece.",
+        "source_url": "https://en.wikipedia.org/wiki/Pacific_1860",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "piece-of-my-heart-the-bert-berns-story": {
+      "slug": "piece-of-my-heart-the-bert-berns-story",
+      "title": "Piece of My Heart: The Bert Berns Story",
+      "qid": "Q18786674",
+      "enwiki": "Piece of My Heart: The Bert Berns Story",
+      "composers": [
+        {
+          "name": "Bert Berns",
+          "qid": "Q444348",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/84083"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Bert Berns",
+          "qid": "Q444348",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/84083"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Piece_of_My_Heart%3A_The_Bert_Berns_Story",
+        "wikidata": "https://www.wikidata.org/wiki/Q18786674"
+      },
+      "summary": {
+        "text": "Piece of My Heart: The Bert Berns Story is a jukebox musical with a book by Daniel Goldfarb and music and lyrics by Bert Berns. Based on the life and music of songwriter and record producer Bert Berns, the musical made its world premiere Off Broadway at the Pershing Square Signature Center on July 21, 2014.",
+        "source_url": "https://en.wikipedia.org/wiki/Piece_of_My_Heart%3A_The_Bert_Berns_Story",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "present-arms": {
+      "slug": "present-arms",
+      "title": "Present Arms",
+      "qid": "Q7240931",
+      "enwiki": "Present Arms (musical)",
+      "composers": [
+        {
+          "name": "Richard Rodgers",
+          "qid": "Q269094",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12311"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Lorenz Hart",
+          "qid": "Q725828",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11244"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Herbert Fields",
+          "qid": "Q1608254",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11265"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7222",
+        "wikipedia": "https://en.wikipedia.org/wiki/Present_Arms_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7240931"
+      },
+      "summary": {
+        "text": "Present Arms is a Broadway musical comedy that opened April 26, 1928, with music by Richard Rodgers, lyrics by Lorenz Hart, and the book by Herbert Fields.  It was produced by Lew Fields, with musical numbers staged by Busby Berkeley.  It ran for 155 performances at the Lew Fields' Mansfield Theatre, which is known as the Lena Horne Theatre today.  Present Arms was filmed in 1930 with Irene Dunne, with its title changed to Leathernecking. The film is presumed lost.",
+        "source_url": "https://en.wikipedia.org/wiki/Present_Arms_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "roadside": {
+      "slug": "roadside",
+      "title": "Roadside",
+      "qid": "Q18390616",
+      "enwiki": "Roadside (musical)",
+      "composers": [
+        {
+          "name": "Harvey Schmidt",
+          "qid": "Q1587936",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12362"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Tom Jones",
+          "qid": "Q2439753",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8906"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Roadside_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q18390616"
+      },
+      "summary": {
+        "text": "Roadside is a musical with a book and lyrics by Tom Jones, and music by Harvey Schmidt.\nBased on Lynn Riggs' 1929 play of the same name, it focuses on \"early-20th century folks who didn't care to be absorbed into statehood\".",
+        "source_url": "https://en.wikipedia.org/wiki/Roadside_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "rock-n-roll-the-first-5-000-years": {
+      "slug": "rock-n-roll-the-first-5-000-years",
+      "title": "Rock 'N Roll! The First 5,000 Years",
+      "qid": "Q7354213",
+      "enwiki": "Rock 'N Roll! The First 5,000 Years",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Bob Gill",
+          "qid": "Q4932541",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4565"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7575",
+        "playbill": "https://playbill.com/production/rock-n-roll-the-first-5-000-years-st-james-theatre-vault-0000004183",
+        "wikipedia": "https://en.wikipedia.org/wiki/Rock_'N_Roll!_The_First_5%2C000_Years",
+        "wikidata": "https://www.wikidata.org/wiki/Q7354213"
+      },
+      "summary": {
+        "text": "Rock 'N Roll! The First 5,000 Years was a Broadway musical revue conceived by Bob Gill and Robert Rabinowitz, who also conceived Beatlemania.",
+        "source_url": "https://en.wikipedia.org/wiki/Rock_'N_Roll!_The_First_5%2C000_Years",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "romeo-et-juliette": {
+      "slug": "romeo-et-juliette",
+      "title": "Roméo et Juliette",
+      "qid": "Q1670602",
+      "enwiki": "Roméo et Juliette (musical)",
+      "composers": [
+        {
+          "name": "Empereur Toshiba",
+          "qid": "Q3124259"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Empereur Toshiba",
+          "qid": "Q3124259"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": "2001",
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "NRJ Music Award de la chanson francophone de l'année",
+          "qid": "Q3334528"
+        }
+      ],
+      "links": {
+        "official_site": "http://www.romeoetjuliette.eu",
+        "wikipedia": "https://en.wikipedia.org/wiki/Rom%C3%A9o_et_Juliette_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1670602"
+      },
+      "summary": {
+        "text": "Roméo et Juliette: de la Haine à l'Amour is a French musical based on William Shakespeare's play Romeo and Juliet, with music and lyrics by Gérard Presgurvic.  It premiered in Paris on January 19, 2001. The production was directed and choreographed by Redha, with costumes designed by Dominique Borg and sets by Petrika Ionesco. The producers were Gérard Louvin, GLEM, and Universal Music. Since then, the musical has been performed in Verona, Rome, Canada, Antwerp, London, Amsterdam, Budapest, Szeged, Moscow, Vienna, Bucharest, Seoul, Pusan (South Korea), Taipei, Monterrey, Japan, Hong Kong, Shanghai, Portugal and Beijing, and has been translated into several languages, including Dutch, Italian, Hungarian, Russian, English, German, Spanish, Romanian, Japanese, Korean, Portuguese, and Slovak.",
+        "source_url": "https://en.wikipedia.org/wiki/Rom%C3%A9o_et_Juliette_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "sally": {
+      "slug": "sally",
+      "title": "Sally",
+      "qid": "Q2214688",
+      "enwiki": "Sally (musical)",
+      "composers": [
+        {
+          "name": "Victor Herbert",
+          "qid": "Q1275145",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8949"
+        },
+        {
+          "name": "Jerome Kern",
+          "qid": "Q313270",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6711"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Clifford Grey",
+          "qid": "Q1101276",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4882"
+        },
+        {
+          "name": "P. G. Wodehouse",
+          "qid": "Q207515",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7988"
+        },
+        {
+          "name": "Buddy DeSylva",
+          "qid": "Q80760",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4394"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Guy Bolton",
+          "qid": "Q924974",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4575"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7718",
+        "wikipedia": "https://en.wikipedia.org/wiki/Sally_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q2214688"
+      },
+      "summary": {
+        "text": "Sally is a musical comedy with music by Jerome Kern, lyrics by Clifford Grey and book by Guy Bolton (inspired by the 19th century show, Sally in our Alley), with additional lyrics by Buddy De Sylva, Anne Caldwell and P. G. Wodehouse. The plot hinges on a mistaken identity: Sally, a waif, is a dishwasher at the Alley Inn in New York City.  She poses as a famous foreign ballerina and rises to fame (and finds love) through joining the Ziegfeld Follies.  There is a rags to riches story, a ballet as a centrepiece, and a wedding as a finale. \"Look for the Silver Lining\" continues to be one of Kern's most familiar songs.  The song is lampooned by another song, \"Look for a Sky of Blue,\" in Rick Besoyan's satirical 1959 musical Little Mary Sunshine.\nThe piece was first produced in 1920 on Broadway by Florenz Ziegfeld, and ran for 570 performances, one of the longest runs on Broadway up to that time. The show was designed as a debut star vehicle for Marilyn Miller. It had a successful London run and was revived several times on Broadway and in the West End, although it has had few productions since the 1950s. The musical was adapted into a 1925 silent film and a 1929 musical film.",
+        "source_url": "https://en.wikipedia.org/wiki/Sally_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "starry": {
+      "slug": "starry",
+      "title": "Starry",
+      "qid": "Q117751656",
+      "enwiki": "Starry (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Starry_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q117751656"
+      },
+      "summary": {
+        "text": "Starry is a pop-rock musical based on the lives of Dutch post-impressionist painter Vincent van Gogh and his brother Theo van Gogh. It has a book written by Kelly Lynne D'Angelo, music by Matt Dahan, and lyrics by both.",
+        "source_url": "https://en.wikipedia.org/wiki/Starry_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "swinging-on-a-star": {
+      "slug": "swinging-on-a-star",
+      "title": "Swinging on a Star",
+      "qid": "Q7658704",
+      "enwiki": "Swinging on a Star (musical)",
+      "composers": [
+        {
+          "name": "Johnny Burke",
+          "qid": "Q743229",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11462"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8481",
+        "wikipedia": "https://en.wikipedia.org/wiki/Swinging_on_a_Star_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7658704"
+      },
+      "summary": {
+        "text": "Swinging on a Star  is a musical revue, featuring the music of Johnny Burke, with the lyrics by Burke and the music by Burke and several of his partners, such as Erroll Garner and Jimmy Van Heusen. The name of the revue is from the Oscar-winning song that Burke wrote with Jimmy Van Heusen for the 1944 film Going My Way.",
+        "source_url": "https://en.wikipedia.org/wiki/Swinging_on_a_Star_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-capeman": {
+      "slug": "the-capeman",
+      "title": "The Capeman",
+      "qid": "Q1507807",
+      "enwiki": "The Capeman",
+      "composers": [
+        {
+          "name": "Paul Simon",
+          "qid": "Q4028",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8068"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Derek Walcott",
+          "qid": "Q132701",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5040"
+        },
+        {
+          "name": "Paul Simon",
+          "qid": "Q4028",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8068"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2392",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Capeman",
+        "wikidata": "https://www.wikidata.org/wiki/Q1507807"
+      },
+      "summary": {
+        "text": "The Capeman is a musical play with music by Paul Simon and book and lyrics by Simon and Derek Walcott based on the life of convicted murderer Salvador Agrón. The play opened  at the Marquis Theatre in 1998 to poor reviews and ran for 68 performances.\nA blend of doo-wop, gospel, and Latin music, it received Tony Award nominations for Best Original Score, Best Orchestrations and Best Scenic Design.  Renoly Santiago received a Drama Desk nomination for Outstanding Featured Performer in a Musical.  Ednita Nazario won the Theater World Award for her performance.\nIn 2008, Simon and the Spanish Harlem Orchestra performed The Capeman at the Brooklyn Academy of Music with some of the original cast and other well-known artists. Simon also devoted a section of his two-night performances at the Beacon Theatre to The Capeman. The NY Public Theater presented a concert production of the musical in the Summer of 2010 at Central Park's Delacorte Theater, directed by Diane Paulus.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Capeman",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-dirtiest-show-in-town": {
+      "slug": "the-dirtiest-show-in-town",
+      "title": "The Dirtiest Show in Town",
+      "qid": "Q7730261",
+      "enwiki": "The Dirtiest Show in Town",
+      "composers": [
+        {
+          "name": "Jeff Barry",
+          "qid": "Q339458",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12683"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Tom Eyen",
+          "qid": "Q3530721",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8902"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Tom Eyen",
+          "qid": "Q3530721",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8902"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Dirtiest_Show_in_Town",
+        "wikidata": "https://www.wikidata.org/wiki/Q7730261"
+      },
+      "summary": {
+        "text": "The Dirtiest Show in Town is a musical revue with a book and lyrics by Tom Eyen and music by Jeff Barry.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Dirtiest_Show_in_Town",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-happy-day": {
+      "slug": "the-happy-day",
+      "title": "The Happy Day",
+      "qid": "Q7738799",
+      "enwiki": "The Happy Day",
+      "composers": [
+        {
+          "name": "Sidney Jones",
+          "qid": "Q926850",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11958"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Adrian Ross",
+          "qid": "Q3605637",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13251"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Seymour Hicks",
+          "qid": "Q3958616",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8634"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Happy_Day",
+        "wikidata": "https://www.wikidata.org/wiki/Q7738799"
+      },
+      "summary": {
+        "text": "The Happy Day is a musical comedy in two acts by Seymour Hicks, with music by Sidney Jones and Paul Rubens, and lyrics by Adrian Ross and Rubens. It was produced by George Edwardes's company (by the estate's executor, Robert Evett) and was directed by Evett. Set in the fictional country of Valaria, the story concerns a royal couple who dislike each other but ultimately fall in love. A masquerade scene provides opportunities for mistaken identity.\nThe musical opened at Daly's Theatre in London on 13 May 1916 and ran for 241 performances. It starred Winifred Barnes, José Collins and Arthur Wontner, who played the Ruritanian prince. Later Bertram Wallis joined the cast.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Happy_Day",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-news": {
+      "slug": "the-news",
+      "title": "The News",
+      "qid": "Q65087593",
+      "enwiki": "The News (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_News_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q65087593"
+      },
+      "summary": {
+        "text": "The News is a rock musical with music and lyrics by Paul Schierhorn. It tells the story of the editor of a lurid tabloid newspaper and a serial killer whose actions the paper reports on.\nAfter tryouts in Florida and Connecticut, The News premiered on Broadway on November 7, 1985. It received extremely negative reviews and closed after just four performances. A 1986 production in London received a better response.",
+        "source_url": "https://en.wikipedia.org/wiki/The_News_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-pajama-game": {
+      "slug": "the-pajama-game",
+      "title": "The Pajama Game",
+      "qid": "Q846432",
+      "enwiki": "The Pajama Game",
+      "composers": [
+        {
+          "name": "Richard Adler",
+          "qid": "Q1399392",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11290"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Richard Adler",
+          "qid": "Q1399392",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11290"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "George Abbott",
+          "qid": "Q1506831",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5770"
+        }
+      ],
+      "premiere": {
+        "date": "1954-05-13",
+        "venue": "St. James Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6904",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Pajama_Game",
+        "wikidata": "https://www.wikidata.org/wiki/Q846432"
+      },
+      "summary": {
+        "text": "The Pajama Game is a musical based on the 1953 novel 7½ Cents by Richard Bissell.\nThe book is by George Abbott and Richard Bissell; the music and lyrics are by Richard Adler and Jerry Ross. Dances were staged by Bob Fosse in his choreography debut. The story deals with labor troubles and romance in a pajama factory.\nThe original Broadway production opened on May 13, 1954, at the St. James Theatre, and ran for 1,063 performances, with a brief stop at the Shubert Theatre at the end of the run. It was revived in 1973, and again in 2006 by The Roundabout Theatre Company. The original production, produced by Frederick Brisson, Robert E. Griffith and Harold S. Prince, won a Tony Award for Best Musical. The 2006 Broadway revival won a Tony Award for Best Revival of a Musical.  The musical is a popular choice for community and school group productions.\nThe original West End production opened at the London Coliseum on October 13, 1955, where it ran for 588 performances.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Pajama_Game",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-second-little-show": {
+      "slug": "the-second-little-show",
+      "title": "The Second Little Show",
+      "qid": "Q7762936",
+      "enwiki": "The Second Little Show",
+      "composers": [
+        {
+          "name": "Arthur Schwartz",
+          "qid": "Q711473",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4324"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Howard Dietz",
+          "qid": "Q1631780",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6363"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Dwight Deere Wiman",
+          "qid": "Q5318139",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5149"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7819",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Second_Little_Show",
+        "wikidata": "https://www.wikidata.org/wiki/Q7762936"
+      },
+      "summary": {
+        "text": "The Second Little Show is a musical revue with lyrics by Howard Dietz and music mostly by Arthur Schwartz.\nProduced by William A. Brady, Jr. and Dwight Deere Wiman, in association with Tom Weatherly, the Broadway production opened at the Royale Theatre on September 2, 1930 and closed in October 1930, after 63 performances. Directed by Wiman and Monty Woolley and choreographed by Dave Gould, with scenic design by Jo Mielziner, the cast included Jay C. Flippen, Gloria Grafton, and Al Trahan.\nThis was the second in a series of Little Shows, notable for the song \"Sing Something Simple\" with words and music by Herman Hupfeld, introduced by Ruth Tester.\nOther songs include \"I Like Your Face\" (originally \"Foolish Face\"), \"Lucky Seven\", \"What a Case I've Got On You\", and \"You're the Sunrise\".\nIn staging this production, producers of the first Little Show chose a cast of unknowns, and sales suffered as a result. At the same time, the stars of the first Little Show went on to success.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Second_Little_Show",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-staffan-stolle-story": {
+      "slug": "the-staffan-stolle-story",
+      "title": "The Staffan Stolle Story",
+      "qid": "Q7766164",
+      "enwiki": "The Staffan Stolle Story",
+      "composers": [
+        {
+          "name": "Harry Arnold",
+          "qid": "Q24731"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Staffan_Stolle_Story",
+        "wikidata": "https://www.wikidata.org/wiki/Q7766164"
+      },
+      "summary": {
+        "text": "The Staffan Stolle Story (Swedish: Ratataa eller The Staffan Stolle Story) is a 1956 Swedish musical comedy film directed by Hasse Ekman. The film was selected as the Swedish entry for the Best Foreign Language Film at the 29th Academy Awards, but was not accepted as a nominee. The film stars Povel Ramel in a leading role, and features many scenes where Ramel performs musical numbers.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Staffan_Stolle_Story",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-wizard-of-oz-2011-musical": {
+      "slug": "the-wizard-of-oz-2011-musical",
+      "title": "The Wizard of Oz",
+      "qid": "Q3990062",
+      "enwiki": "The Wizard of Oz (2011 musical)",
+      "composers": [
+        {
+          "name": "Harold Arlen",
+          "qid": "Q448644",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11319"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Yip Harburg",
+          "qid": "Q1273621",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5177"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "qid": "Q180975",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12073"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Wizard_of_Oz_(2011_musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q3990062"
+      },
+      "summary": {
+        "text": "The Wizard of Oz is a musical based on the 1939 film of the same name in turn based on L. Frank Baum's novel The Wonderful Wizard of Oz, with a book adapted by Andrew Lloyd Webber and Jeremy Sams.  The musical uses the Harold Arlen and E. Y. Harburg songs from the film and includes some new songs and additional music by Lloyd Webber and additional lyrics by Tim Rice. It is the third stage musical adaptation of the film following the 1942 version for the St. Louis Municipal Opera (The Muny) and the 1987 version for the Royal Shakespeare Company.\nAfter previews in the West End from 7 February, the musical opened on 1 March 2011, directed by Jeremy Sams, and closed on 2 September 2012.  The roles and original cast included Danielle Hope as Dorothy Gale, and Sophie Evans as alternative Dorothy, Michael Crawford as the Wizard, Paul Keating as the Scarecrow, Edward Baker-Duly as the Tin Man, David Ganly as the Cowardly Lion, Helen Walsh as Aunt Em, Stephen Scott as Uncle Henry, Emily Tierney was Glinda the Good Witch of the North, Hannah Waddingham as the Wicked Witch of the West, and four different West Highland Terriers alternated in the role of Toto. The role of Dorothy was cast through the 2010 reality television show Over the Rainbow, in which Hope won and Evans was the runner-up.  After a similar Canadian reality TV search show, a Toronto production (starring Danielle Wade as Dorothy) began in December 2012 and closed in August 2013, and was followed by a North American tour. In April 2017 an Australian tour was announced including a season at the Lyric Theatre, Queensland Performing Arts Centre, the Capitol Theatre in Sydney, and at the Adelaide Festival Theatre. The cast includes Anthony Warlow as the Wizard, with Lucy Durack as Glinda the Good Witch and Jemma Rix as Wicked Witch of the West. In 2023, the musical was revived at the London Palladium for a limited season, following a run at Curve, Leicester.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Wizard_of_Oz_(2011_musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "trevor-the-musical": {
+      "slug": "trevor-the-musical",
+      "title": "Trevor: The Musical",
+      "qid": "Q122859931",
+      "enwiki": "Trevor: The Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Trevor%3A_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q122859931"
+      },
+      "summary": {
+        "text": "Trevor: the Musical is a musical based on the 1994 short film Trevor, with book and lyrics by Americans Dan Collins and music by Julianne Wick Davis. The show premiered in Chicago at Writers Theatre on August 9, 2017. It opened off-Broadway at Stage 42 on November 10, 2021, and ran until December 19. The premiere production and the off-Broadway production were directed by Marc Bruni, with choreography by Josh Prince.\nDisney+ released a film of the off-Broadway production on June 24, 2022. A 19-track cast album was released by Ghostlight Records on the same day.",
+        "source_url": "https://en.wikipedia.org/wiki/Trevor%3A_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

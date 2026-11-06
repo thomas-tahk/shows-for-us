@@ -1,0 +1,541 @@
+{
+  "live": true,
+  "shows": {
+    "bank-of-dave-the-musical": {
+      "slug": "bank-of-dave-the-musical",
+      "title": "Bank of Dave: The Musical",
+      "qid": "Q136451024",
+      "enwiki": "Bank of Dave: The Musical",
+      "composers": [
+        {
+          "name": "Pippa Cleary",
+          "qid": "Q54575488"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Robert Madge",
+          "qid": "Q7347272"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Bank_of_Dave%3A_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q136451024"
+      },
+      "summary": {
+        "text": "Bank of Dave: The Musical is a British stage musical with book and lyrics by Rob Madge, and music and lyrics by Pippa Cleary. It is based on the life of Dave Fishwick and the 2023 Netflix film of the same name.\nThe musical had its world premiere at The Lowry, Salford in May 2026 before moving to Curve, Leicester.",
+        "source_url": "https://en.wikipedia.org/wiki/Bank_of_Dave%3A_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "been-so-long": {
+      "slug": "been-so-long",
+      "title": "Been So Long",
+      "qid": "Q4879874",
+      "enwiki": "Been So Long",
+      "composers": [
+        {
+          "name": "Arthur Darvill",
+          "qid": "Q125942",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/494668"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Arthur Darvill",
+          "qid": "Q125942",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/494668"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Ché Walker",
+          "qid": "Q5118922"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Been_So_Long",
+        "wikidata": "https://www.wikidata.org/wiki/Q4879874"
+      },
+      "summary": {
+        "text": "Been So Long is a musical with music and lyrics by Arthur Darvill and book by Ché Walker. The musical is based on Walker's 1998 play of the same name.\nBeen So Long premiered at the Young Vic on July 11, 2009. It  transferred to Traverse Theatre in Edinburgh on August 7, 2009 as part of the Edinburgh Festival. A live cast recording was made of the production at the Young Vic.",
+        "source_url": "https://en.wikipedia.org/wiki/Been_So_Long",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "bring-back-birdie": {
+      "slug": "bring-back-birdie",
+      "title": "Bring Back Birdie",
+      "qid": "Q4968241",
+      "enwiki": "Bring Back Birdie",
+      "composers": [
+        {
+          "name": "Charles Strouse",
+          "qid": "Q2960275",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12463"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Lee Adams",
+          "qid": "Q6512930",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12723"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Michael Stewart",
+          "qid": "Q6834631",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7748"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2229",
+        "wikipedia": "https://en.wikipedia.org/wiki/Bring_Back_Birdie",
+        "wikidata": "https://www.wikidata.org/wiki/Q4968241"
+      },
+      "summary": {
+        "text": "Bring Back Birdie is a 1981 musical with music by Charles Strouse, lyrics by Lee Adams, and a book by Michael Stewart. It is a sequel to the 1960 musical Bye Bye Birdie, which was written by the same team.\nTaking place twenty years after Bye Bye Birdie, it focuses on a scheme for rock 'n' roller Conrad Birdie, who had disappeared after being discharged from the U. S. Army, to make a comeback on a Grammy Awards broadcast.",
+        "source_url": "https://en.wikipedia.org/wiki/Bring_Back_Birdie",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "bullets-and-daffodils": {
+      "slug": "bullets-and-daffodils",
+      "title": "Bullets and Daffodils",
+      "qid": "Q4996867",
+      "enwiki": "Bullets and Daffodils",
+      "composers": [
+        {
+          "name": "Dean Johnson",
+          "qid": "Q5246253"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Wilfred Owen",
+          "qid": "Q212719"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Dean Johnson",
+          "qid": "Q5246253"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Bullets_and_Daffodils",
+        "wikidata": "https://www.wikidata.org/wiki/Q4996867"
+      },
+      "summary": {
+        "text": "Bullets and Daffodils is a musical about the life of the war poet Wilfred Owen, created by musician and composer Dean Johnson and directed by Dean Sullivan. The musical is based on Owen's poems set to music by Johnson, with the addition of new songs written by Johnson to help narrate the story of Owen's life.",
+        "source_url": "https://en.wikipedia.org/wiki/Bullets_and_Daffodils",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "come-from-away": {
+      "slug": "come-from-away",
+      "title": "Come from Away",
+      "qid": "Q23838574",
+      "enwiki": "Come from Away",
+      "composers": [
+        {
+          "name": "Irene Sankoff",
+          "qid": "Q61999058",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/510316"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Laurence Olivier Award for Outstanding Achievement in Music",
+          "qid": "Q16995976"
+        },
+        {
+          "name": "Tony Award for Best Direction of a Musical",
+          "qid": "Q377293"
+        },
+        {
+          "name": "Drama Desk Award for Outstanding Book of a Musical",
+          "qid": "Q5305705"
+        },
+        {
+          "name": "Laurence Olivier Award for Best New Musical",
+          "qid": "Q6500795"
+        }
+      ],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/510259",
+        "playbill": "https://playbill.com/production/come-from-away-2016-2017",
+        "official_site": "https://comefromaway.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/Come_from_Away",
+        "wikidata": "https://www.wikidata.org/wiki/Q23838574"
+      },
+      "summary": {
+        "text": "Come from Away is a musical, with book, music and lyrics by Irene Sankoff and David Hein. It is based on the events in the Newfoundland town of Gander during the week following the September 11 attacks, when 38 planes, carrying approximately 7,000 passengers, were ordered to land unexpectedly at Gander International Airport. The characters in the musical are based on actual Gander residents and the stranded travelers they housed and fed.\nAfter a successful pre-Broadway run, it opened on Broadway at the Gerald Schoenfeld Theatre on March 12, 2017, and became a critical and box office success. A live recording of the production was released on September 10, 2021, on the eve of the 20th anniversary of the attacks. The Broadway production closed on October 2, 2022, after playing 25 previews and 1,669 regular performances. It has had successful runs in several countries, including playing 1,048 performances in the West End in London.\nAt the 71st Tony Awards, the musical was nominated for seven awards, including Best Musical, Best Original Score, Best Book of a Musical and Best Featured Actress in a Musical for Jenn Colella, winning for Best Direction of a Musical for Christopher Ashley. At the 2019 Laurence Olivier Awards, it was nominated for nine awards and won three, including Best New Musical.",
+        "source_url": "https://en.wikipedia.org/wiki/Come_from_Away",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "footloose": {
+      "slug": "footloose",
+      "title": "Footloose",
+      "qid": "Q2802217",
+      "enwiki": "Footloose (musical)",
+      "composers": [
+        {
+          "name": "Tom Snow",
+          "qid": "Q7817640",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12425"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Dean Pitchford",
+          "qid": "Q5246414",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5030"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/10038",
+        "wikipedia": "https://en.wikipedia.org/wiki/Footloose_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q2802217"
+      },
+      "summary": {
+        "text": "Footloose is a 1998 musical based on the 1984 film of the same name. The music is by Tom Snow (among others), the lyrics by Dean Pitchford (with additional lyrics by Kenny Loggins), and the book by Pitchford and Walter Bobbie. Lighting design by Ken Billington.",
+        "source_url": "https://en.wikipedia.org/wiki/Footloose_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "heretic": {
+      "slug": "heretic",
+      "title": "Heretic",
+      "qid": "Q25217409",
+      "enwiki": "Heretic (ballet)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Heretic_(ballet)",
+        "wikidata": "https://www.wikidata.org/wiki/Q25217409"
+      },
+      "summary": {
+        "text": "Heretic is a modern dance work by Martha Graham performed to Tetus Breton, an old folk tune from Brittany. Louis Horst, Graham's musical director, recommended the song, part of the collection Chansons de la Fleur de Lys as arranged by Charles De Sivry. The dance premiered with the title Heretic at New York's Booth Theatre on April 14, 1929. In a previous program announcement, the work was called A Faith. Graham presented the piece with her company; the performance marked the debut of her concert ensemble. Heretic is staged for 13 female performers, 12 dressed in black tube-like garments and one in a long white dress. Dancers for the premiere were: Graham, as the woman in white, Kitty Reese, Louise Creston, Irene Emery, Ethel Rudy, Lillian Ray, Hortense Bunsick, Sylvia Wasserstrom, Mary Rivoire, Ruth White, Lillian Shapero, Virginia Briton, Sylvia Rosenstein, Evelyn Sabin, Betty Macdonald and Rosina Savelli.",
+        "source_url": "https://en.wikipedia.org/wiki/Heretic_(ballet)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "jubilee": {
+      "slug": "jubilee",
+      "title": "Jubilee",
+      "qid": "Q1710757",
+      "enwiki": "Jubilee (musical)",
+      "composers": [
+        {
+          "name": "Cole Porter",
+          "qid": "Q215120",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12257"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Cole Porter",
+          "qid": "Q215120",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12257"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Moss Hart",
+          "qid": "Q728876",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6153"
+        }
+      ],
+      "premiere": {
+        "date": "1935",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/10197",
+        "wikipedia": "https://en.wikipedia.org/wiki/Jubilee_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1710757"
+      },
+      "summary": {
+        "text": "Jubilee is a musical comedy with a book by Moss Hart and music and lyrics by Cole Porter. It premiered on Broadway in 1935 to rapturous reviews. Inspired by the recent Silver Jubilee of George V of Great Britain, the story is of the royal family of a fictional European country. Several of its songs, especially \"Begin the Beguine\" and \"Just One of Those Things\", became independently popular and have become part of the American Songbook.\nThe musical opened on Broadway in October 1935, in the midst of the Great Depression.  It had strong reviews and was considered \"one of the great theatrical events of the 1930s.\" It ran for 169 performances. Although the original arrangements were lost after 1948, beginning in 1986 the musical was reconstructed. It has been produced by several companies in New York, London and elsewhere.",
+        "source_url": "https://en.wikipedia.org/wiki/Jubilee_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "little-jack-sheppard": {
+      "slug": "little-jack-sheppard",
+      "title": "Little Jack Sheppard",
+      "qid": "Q6650493",
+      "enwiki": "Little Jack Sheppard",
+      "composers": [
+        {
+          "name": "Meyer Lutz",
+          "qid": "Q6826428",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/409752"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Little_Jack_Sheppard",
+        "wikidata": "https://www.wikidata.org/wiki/Q6650493"
+      },
+      "summary": {
+        "text": "Little Jack Sheppard is a burlesque melodrama written by Henry Pottinger Stephens and William Yardley, with music by Meyer Lutz, with songs contributed by Florian Pascal,  Corney Grain, Arthur Cecil, Michael Watson, Henry J. Leslie, Alfred Cellier and Hamilton Clarke.  The comedy lampooned the serious plays based on the life of Jack Sheppard, especially the popular 1839 play by John Buckstone, which was in turn based on the novel of that year by William Harrison Ainsworth.\nThe piece opened at the Gaiety Theatre in London on 26 December 1885 and initially ran for 155 performances. It featured Nellie Farren as Jack Sheppard, Fred Leslie as Jonathan Wild,  David James as Blueskin. Marion Hood and Sylvia Grey. Other cast members included Willie Warde, who also choreographed the dances. The piece was presented in the U.S. and Australia in 1886 and was given revivals and extensive tours in Britain for nearly a decade.",
+        "source_url": "https://en.wikipedia.org/wiki/Little_Jack_Sheppard",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "magdalena-a-musical-adventure": {
+      "slug": "magdalena-a-musical-adventure",
+      "title": "Magdalena: a Musical Adventure",
+      "qid": "Q6729845",
+      "enwiki": "Magdalena: a Musical Adventure",
+      "composers": [
+        {
+          "name": "Heitor Villa-Lobos",
+          "qid": "Q203514",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12529"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5716",
+        "wikipedia": "https://en.wikipedia.org/wiki/Magdalena%3A_a_Musical_Adventure",
+        "wikidata": "https://www.wikidata.org/wiki/Q6729845"
+      },
+      "summary": {
+        "text": "Magdalena: a Musical Adventure is a folk operetta in two acts with music by Heitor Villa-Lobos, original book by Frederick Hazlitt Brennan and Homer Curran, and lyrics and musical adaptations by Robert Wright and George Forrest.",
+        "source_url": "https://en.wikipedia.org/wiki/Magdalena%3A_a_Musical_Adventure",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "magic-gum-tree": {
+      "slug": "magic-gum-tree",
+      "title": "Magic Gum Tree",
+      "qid": "Q42417779",
+      "enwiki": "Magic Gum Tree",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Magic_Gum_Tree",
+        "wikidata": "https://www.wikidata.org/wiki/Q42417779"
+      },
+      "summary": {
+        "text": "The Magic Gum Tree is a musical comedy written in 1932 with music and lyrics by Australian composer Arline Sauer.\nThe story involves an immigrant girl lost in the Australian outback who falls asleep and meets several dreamland characters. She is rescued by a group of Australian Aboriginal boys and returned safely home. The piece is a work of Australiana featuring Australian animals and characters. A Queensland reviewer thought it reminiscent of A. A. Milne.",
+        "source_url": "https://en.wikipedia.org/wiki/Magic_Gum_Tree",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "no-for-an-answer": {
+      "slug": "no-for-an-answer",
+      "title": "No for an Answer",
+      "qid": "Q20657448",
+      "enwiki": "No for an Answer",
+      "composers": [
+        {
+          "name": "Marc Blitzstein",
+          "qid": "Q918359",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7489"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Marc Blitzstein",
+          "qid": "Q918359",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7489"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/No_for_an_Answer",
+        "wikidata": "https://www.wikidata.org/wiki/Q20657448"
+      },
+      "summary": {
+        "text": "No for an Answer is a musical play by Marc Blitzstein. It was staged by W. E. Watts at Mecca Temple, west 55th Street, New York on Sunday, January 5, 1941. Although it was supposed to have a limited engagement, it ran for two additional Sundays. There was no scenery, and Marc Blitzstein was at the piano. It was an experiment under an agreement between the Dramatists Guild and Actors Equity. The cast included Olive Deering, Lloyd Gough, Martin Wolfson, Norma Green, and Curt Conway. It marked the New York debut of Carol Channing. It was much discussed before its opening, and Random House accepted it for publication just before its production. Brooks Atkinson stated in his review of the work in The New York Times: \"it is very exciting in performance, which is all that matters.\" Although Aaron Copland called it one of \"the most original works in that form composed in this county,\" the play was a failure.\nAfter the first Sunday night performance, New York City License Commissioner Paul Moss issued a ban on performances because the Mecca Temple lacked a theater license and the auditorium had many building violations. He warned that if anyone tried to present the show the following week, they would be stopped by police and firemen.\nThe work was not in step with the times, and no one would underwrite a full production. A later concert performance in 1960 (Blitzstein again at the piano) constitutes the entire performance history of the piece during Blitzstein's lifetime. Howard Taubman reviewing the 1960 production for The New York Times wrote \"it bogs down in a swamp of pedestrian cliches.\" The show finally received a fully staged production at the American Conservatory Theater in San Francisco on October 22, 2001.",
+        "source_url": "https://en.wikipedia.org/wiki/No_for_an_Answer",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "one-touch-of-venus": {
+      "slug": "one-touch-of-venus",
+      "title": "One Touch of Venus",
+      "qid": "Q1403471",
+      "enwiki": "One Touch of Venus",
+      "composers": [
+        {
+          "name": "Kurt Weill",
+          "qid": "Q55004",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7112"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Ogden Nash",
+          "qid": "Q719228",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7942"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6785",
+        "wikipedia": "https://en.wikipedia.org/wiki/One_Touch_of_Venus",
+        "wikidata": "https://www.wikidata.org/wiki/Q1403471"
+      },
+      "summary": {
+        "text": "One Touch of Venus is a 1943 musical with music written by Kurt Weill, lyrics by Ogden Nash, and book by S. J. Perelman and Nash, based on the 1885 novella The Tinted Venus by Thomas Anstey Guthrie, and very loosely spoofing the Pygmalion myth. The show satirizes contemporary American suburban values, artistic fads and romantic and sexual mores. Weill had been in America for eight years by the time he wrote this musical, and his music, though retaining his early haunting power, had evolved into a very different Broadway style.",
+        "source_url": "https://en.wikipedia.org/wiki/One_Touch_of_Venus",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-district-leader": {
+      "slug": "the-district-leader",
+      "title": "The District Leader",
+      "qid": "Q7730384",
+      "enwiki": "The District Leader",
+      "composers": [
+        {
+          "name": "Joseph E. Howard",
+          "qid": "Q6282805",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6951"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Joseph E. Howard",
+          "qid": "Q6282805",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6951"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3090",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_District_Leader",
+        "wikidata": "https://www.wikidata.org/wiki/Q7730384"
+      },
+      "summary": {
+        "text": "The District Leader is a musical that premiered in New York City on April 30, 1906, at Wallack's Theatre and closed on May 5, 1906, after eight performances. Music, lyrics, and book were by Joseph E. Howard.",
+        "source_url": "https://en.wikipedia.org/wiki/The_District_Leader",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-white-chrysanthemum": {
+      "slug": "the-white-chrysanthemum",
+      "title": "The White Chrysanthemum",
+      "qid": "Q7774474",
+      "enwiki": "The White Chrysanthemum",
+      "composers": [
+        {
+          "name": "Howard Talbot",
+          "qid": "Q5921014",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12481"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_White_Chrysanthemum",
+        "wikidata": "https://www.wikidata.org/wiki/Q7774474"
+      },
+      "summary": {
+        "text": "The White Chrysanthemum is an English musical in three acts by Arthur Anderson and Leedham Bantock, with lyrics by Anderson and music by Howard Talbot.  First produced at the Tyne Theatre, Newcastle, 23 April 1904, it opened at the Criterion Theatre, produced by Frank Curzon and directed by Austen Hurgon, on 31 August 1905 and ran for 179 performances, closing on 10 February 1906. The Japanese-themed musical starred Isabel Jay, Rutland Barrington, Lawrence Grossmith (a son of George Grossmith), and Henry Lytton.  Louie Pounds later joined the cast.  The musical enjoyed various international productions including one at the Kings Theatre in Melbourne, Australia in 1917 starring Barry Lupino.",
+        "source_url": "https://en.wikipedia.org/wiki/The_White_Chrysanthemum",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

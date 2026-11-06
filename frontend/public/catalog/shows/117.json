@@ -1,0 +1,696 @@
+{
+  "live": true,
+  "shows": {
+    "bananaland": {
+      "slug": "bananaland",
+      "title": "Bananaland",
+      "qid": "Q122999849",
+      "enwiki": "Bananaland (musical)",
+      "composers": [
+        {
+          "name": "Kate Miller-Heidke",
+          "qid": "Q285045"
+        },
+        {
+          "name": "Keir Nuttall",
+          "qid": "Q6383799"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Bananaland_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q122999849"
+      },
+      "summary": {
+        "text": "Bananaland is a musical comedy with book by Keir Nuttall and music and lyrics by Kate Miller-Heidke and Keir Nuttall. It concerns an unsuccessful punk rock protest band finding fame as a 'kids band' performing music for children.",
+        "source_url": "https://en.wikipedia.org/wiki/Bananaland_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "closer-to-heaven": {
+      "slug": "closer-to-heaven",
+      "title": "Closer to Heaven",
+      "qid": "Q3680987",
+      "enwiki": "Closer to Heaven (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Jonathan Harvey",
+          "qid": "Q1282769"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Closer_to_Heaven_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q3680987"
+      },
+      "summary": {
+        "text": "Closer to Heaven is a musical by Jonathan Harvey and Pet Shop Boys. It was premiered in May 2001 at the Arts Theatre in London, opening to mixed reviews, and ran until 13 October 2001. A second production of Closer to Heaven was premiered in Australia in 2005. New off-West End productions premiered in London in 2015, 2019 and 2024.\nA spin-off cabaret show, entitled Musik: The Billie Trix Story, opened in Edinburgh in 2019.",
+        "source_url": "https://en.wikipedia.org/wiki/Closer_to_Heaven_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "death-note-the-musical": {
+      "slug": "death-note-the-musical",
+      "title": "Death Note: The Musical",
+      "qid": "Q21539871",
+      "enwiki": "Death Note: The Musical",
+      "composers": [
+        {
+          "name": "Frank Wildhorn",
+          "qid": "Q1444457",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5638"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Death_Note%3A_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q21539871"
+      },
+      "summary": {
+        "text": "Death Note: The Musical is a musical based on the 2003–06 manga series Death Note by Tsugumi Ohba and Takeshi Obata. The score is by Frank Wildhorn, with lyrics by Jack Murphy and book by Ivan Menchell.\nDevelopment for the musical was announced in December 2013. The musical had its world premiere on April 6, 2015, at the Nissay Theatre in Tokyo, Japan, with a Korean production opening the following July, running through August, at the Opera House of Seongnam Arts Center in Seoul.",
+        "source_url": "https://en.wikipedia.org/wiki/Death_Note%3A_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "doctor-zhivago": {
+      "slug": "doctor-zhivago",
+      "title": "Doctor Zhivago",
+      "qid": "Q5287480",
+      "enwiki": "Doctor Zhivago (musical)",
+      "composers": [
+        {
+          "name": "Lucy Simon",
+          "qid": "Q6698499",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12410"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Michael Korie",
+          "qid": "Q16730993",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/423818"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Michael Weller",
+          "qid": "Q15498371",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7755"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/498429",
+        "wikipedia": "https://en.wikipedia.org/wiki/Doctor_Zhivago_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5287480"
+      },
+      "summary": {
+        "text": "Doctor Zhivago – A New Musical is a musical composed by Lucy Simon, lyrics by Michael Korie and Amy Powers, and book by Michael Weller; it is based on Boris Pasternak's 1957 novel Doctor Zhivago. It premiered in San Diego, California, in 2006, played in on tour in Australia in 2011, and, after several other productions, was staged on Broadway in 2015. Further productions have followed in several countries, including a long-running German production.",
+        "source_url": "https://en.wikipedia.org/wiki/Doctor_Zhivago_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "jackpot": {
+      "slug": "jackpot",
+      "title": "Jackpot",
+      "qid": "Q6116812",
+      "enwiki": "Jackpot (musical)",
+      "composers": [
+        {
+          "name": "Vernon Duke",
+          "qid": "Q519693",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11610"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Howard Dietz",
+          "qid": "Q1631780",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6363"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Sidney Sheldon",
+          "qid": "Q105118",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8678"
+        },
+        {
+          "name": "Ben Roberts",
+          "qid": "Q4886372",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4465"
+        },
+        {
+          "name": "Guy Bolton",
+          "qid": "Q924974",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4575"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4830",
+        "wikipedia": "https://en.wikipedia.org/wiki/Jackpot_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6116812"
+      },
+      "summary": {
+        "text": "Jackpot is an American musical with music by Vernon Duke, lyrics by Howard Dietz, and a musical book by Guy Bolton, Sidney Sheldon, and Ben Roberts. The musical premiered on Broadway at the Alvin Theatre on January 13, 1944. It closed on March 11, 1944 after a total of 69 performances. Directed by Roy Hargrave, the production starred Nanette Fabray as Sally Madison, Betty Garrett as Sgt. Maguire, Allan Jones as Hank Trimble, and, in the small role of Edna, future novelist Jacqueline Susann (Valley of the Dolls). Choreographer Flower Hujer danced in the production. A wartime musical designed to boost morale in the U.S. during World War II, Jackpot failed to garner a following among critics and audiences. A few songs from the show were published: I've Got A One Track Mind, Sugarfoot, There Are Yanks (From the Banks of the Wabash), and What Happened?.",
+        "source_url": "https://en.wikipedia.org/wiki/Jackpot_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "leave-it-to-me": {
+      "slug": "leave-it-to-me",
+      "title": "Leave It to Me!",
+      "qid": "Q368830",
+      "enwiki": "Leave It to Me!",
+      "composers": [
+        {
+          "name": "Cole Porter",
+          "qid": "Q215120",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12257"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Cole Porter",
+          "qid": "Q215120",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12257"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Samuel and Bella Spewack",
+          "qid": "Q11844123"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5315",
+        "wikipedia": "https://en.wikipedia.org/wiki/Leave_It_to_Me!",
+        "wikidata": "https://www.wikidata.org/wiki/Q368830"
+      },
+      "summary": {
+        "text": "Leave It to Me! is a 1938 musical produced by Vinton Freedley with music and lyrics by Cole Porter. The book was a collaborative effort by Samuel and Bella Spewack, the former of whom also directed the Broadway production. The musical was based on the play Clear All Wires by the Spewacks, which was performed on Broadway for 93 performances in 1932, and which was filmed in 1933, starring Lee Tracy, Benita Hume, Una Merkel and James Gleason.\nIt was set in Stalinist Russia in the 1930s, with Stalin himself appearing at the end. But its comic treatment of Soviets and Nazis seemed misplaced during the Cold War, and the show was not revived until the late 1980s.\nMary Martin made her Broadway debut in this musical, which introduced the songs \"Get Out of Town\" and \"My Heart Belongs to Daddy.\"",
+        "source_url": "https://en.wikipedia.org/wiki/Leave_It_to_Me!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "little-nellie-kelly": {
+      "slug": "little-nellie-kelly",
+      "title": "Little Nellie Kelly",
+      "qid": "Q6651124",
+      "enwiki": "Little Nellie Kelly (musical)",
+      "composers": [
+        {
+          "name": "George M. Cohan",
+          "qid": "Q563017",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5829"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "George M. Cohan",
+          "qid": "Q563017",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5829"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "George M. Cohan",
+          "qid": "Q563017",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5829"
+        }
+      ],
+      "premiere": {
+        "date": "1922-11-13",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5472",
+        "wikipedia": "https://en.wikipedia.org/wiki/Little_Nellie_Kelly_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6651124"
+      },
+      "summary": {
+        "text": "Little Nellie Kelly was a two-act musical comedy of the Jazz Age, written, produced and directed by George M. Cohan. After opening in Boston in July 1922, it had long runs on Broadway in 1922–1923, in the West End of London in 1923–1924, and on tours.",
+        "source_url": "https://en.wikipedia.org/wiki/Little_Nellie_Kelly_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "miss-littlewood": {
+      "slug": "miss-littlewood",
+      "title": "Miss Littlewood",
+      "qid": "Q55390525",
+      "enwiki": "Miss Littlewood",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Miss_Littlewood",
+        "wikidata": "https://www.wikidata.org/wiki/Q55390525"
+      },
+      "summary": {
+        "text": "Miss Littlewood is a stage musical with music, lyrics and book by Sam Kenyon.\nIt is based on the life of theatre director Joan Littlewood and the formation of the Theatre Workshop which found residency at Theatre Royal Stratford East.",
+        "source_url": "https://en.wikipedia.org/wiki/Miss_Littlewood",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "robinson-crusoe": {
+      "slug": "robinson-crusoe",
+      "title": "Robinson Crusoe",
+      "qid": "Q85797585",
+      "enwiki": "Robinson Crusoe (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Robinson_Crusoe_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q85797585"
+      },
+      "summary": {
+        "text": "Robinson Crusoe or long titled Robinson Crusoe on Rainbow Island was a musical written by Australian actor and theatre manager Victor Prince, with music supplied by Australian composers Herbert De Pinna and Bert Rache. The show was first produced in 1917 by Victor Prince in the lead role in partnership with the Fuller brothers theatre circuit. The dialogue manuscript is lost, but many of the songs remain preserved. The original production had a successful run of 112 consecutive nights at the Grand Opera House, Sydney.",
+        "source_url": "https://en.wikipedia.org/wiki/Robinson_Crusoe_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "rock-musical-bleach": {
+      "slug": "rock-musical-bleach",
+      "title": "Rock Musical Bleach",
+      "qid": "Q3939708",
+      "enwiki": "Rock Musical Bleach",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Rock_Musical_Bleach",
+        "wikidata": "https://www.wikidata.org/wiki/Q3939708"
+      },
+      "summary": {
+        "text": "Rock Musical Bleach (ロックミュージカル ブリーチ, Rokkumyūjikaru Burīchi), often referred as BuriMyu, are a series of rock musicals produced by Studio Pierrot and Nelke Planning. The musicals are based on Tite Kubo's manga Bleach. The Rock Musical Bleach consists of live performances that follow the manga plotline from the Soul Society arc and The Live Bankai shows with the original script. The first musical was directed by Takuya Hiramitsu, with a script adaptation by Naoshi Okumura. The music is completely original and was written by Shoichi Tama. The premiere was held in Space Zero Hall in Shinjuku, Tokyo from August 17–28, 2005.",
+        "source_url": "https://en.wikipedia.org/wiki/Rock_Musical_Bleach",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "sail-away": {
+      "slug": "sail-away",
+      "title": "Sail Away",
+      "qid": "Q7400137",
+      "enwiki": "Sail Away (musical)",
+      "composers": [
+        {
+          "name": "Noël Coward",
+          "qid": "Q298388",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/36502"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Noël Coward",
+          "qid": "Q298388",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/36502"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Noël Coward",
+          "qid": "Q298388",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/36502"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7709",
+        "wikipedia": "https://en.wikipedia.org/wiki/Sail_Away_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7400137"
+      },
+      "summary": {
+        "text": "Sail Away is a musical with a book, music and lyrics by Noël Coward. The show was the last musical for which Coward wrote both the book and music, although he wrote the music for one last book musical in 1963. \nThe story centres on brash, bold American divorcee Mimi Paragon, working as a hostess on a British cruise ship. The musical ran on Broadway (1961) and in the West End (1962) and has been revived since. Elaine Stritch was nominated for the Tony Award for Best Actress in a Musical for her performance in the original production.",
+        "source_url": "https://en.wikipedia.org/wiki/Sail_Away_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "selena-forever": {
+      "slug": "selena-forever",
+      "title": "Selena Forever",
+      "qid": "Q4283219",
+      "enwiki": "Selena Forever",
+      "composers": [
+        {
+          "name": "Fernando Rivas",
+          "qid": "Q1406812"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Selena_Forever",
+        "wikidata": "https://www.wikidata.org/wiki/Q4283219"
+      },
+      "summary": {
+        "text": "Selena Forever is an American stage musical, based on the 1997 film Selena, that tells the life of the famous Tejano singer Selena Quintanilla-Pérez. The musical has been staged under two titles. The first, Selena Forever, was conceived with book and original lyrics by Edward Gallardo and original music by Fernando Rivas, as well as additional songs that were originally performed by Selena herself. The musical premiered at the San Antonio Municipal Auditorium before launching on an ill-fated 30-city tour. The musical was then restaged as Selena: A Musical Celebration of Life in Los Angeles.",
+        "source_url": "https://en.wikipedia.org/wiki/Selena_Forever",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "something-s-afoot": {
+      "slug": "something-s-afoot",
+      "title": "Something's Afoot",
+      "qid": "Q7560022",
+      "enwiki": "Something's Afoot",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8170",
+        "wikipedia": "https://en.wikipedia.org/wiki/Something's_Afoot",
+        "wikidata": "https://www.wikidata.org/wiki/Q7560022"
+      },
+      "summary": {
+        "text": "Something's Afoot is a musical that spoofs detective stories, mainly the works of Agatha Christie, and especially her 1939 detective novel And Then There Were None.  The book, music, and lyrics were written by James McDonald, David Vos, and Robert Gerlach, with additional music by Ed Linderman. The musical involves a group of people who are invited to the lake estate of Lord Dudley Rancour. When the wealthy lord is found dead, it is a race against the clock to find out who is the murderer.",
+        "source_url": "https://en.wikipedia.org/wiki/Something's_Afoot",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "sunshine-on-leith": {
+      "slug": "sunshine-on-leith",
+      "title": "Sunshine on Leith",
+      "qid": "Q16258346",
+      "enwiki": "Sunshine on Leith (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": "Dundee Repertory Theatre"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Sunshine_on_Leith_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q16258346"
+      },
+      "summary": {
+        "text": "Sunshine on Leith is a stage musical featuring the songs of The Proclaimers and written by Stephen Greenhorn for the Dundee Rep Ensemble and first performed in 2007. The show won the TMA Award for Best Musical that year and has toured several times since.\nA film adaptation was completed in 2013, and screened in the Special Presentation section at the 2013 Toronto International Film Festival.\nThe West Yorkshire Playhouse staged a new production in 2018, directed by James Brining.  Various productions of the musical have been staged at the Edinburgh Festival Fringe as recently as 2026.",
+        "source_url": "https://en.wikipedia.org/wiki/Sunshine_on_Leith_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "sweeney-todd-the-demon-barber-of-fleet-street": {
+      "slug": "sweeney-todd-the-demon-barber-of-fleet-street",
+      "title": "Sweeney Todd: The Demon Barber of Fleet Street",
+      "qid": "Q1326940",
+      "enwiki": "Sweeney Todd: The Demon Barber of Fleet Street",
+      "composers": [
+        {
+          "name": "Stephen Sondheim",
+          "qid": "Q153579",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12430"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Stephen Sondheim",
+          "qid": "Q153579",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12430"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Hugh Wheeler",
+          "qid": "Q5171067",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6402"
+        }
+      ],
+      "premiere": {
+        "date": "1979",
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Laurence Olivier Awards",
+          "qid": "Q28470"
+        },
+        {
+          "name": "Grammy Award for Best Musical Theater Album",
+          "qid": "Q3113385"
+        },
+        {
+          "name": "Grammy Award for Best Engineered Album, Classical",
+          "qid": "Q5593792"
+        },
+        {
+          "name": "National Board of Review Award for Best Director",
+          "qid": "Q696998"
+        }
+      ],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8451",
+        "wikipedia": "https://en.wikipedia.org/wiki/Sweeney_Todd%3A_The_Demon_Barber_of_Fleet_Street",
+        "wikidata": "https://www.wikidata.org/wiki/Q1326940"
+      },
+      "summary": {
+        "text": "Sweeney Todd: The Demon Barber of Fleet Street (often referred to simply as Sweeney Todd) is a 1979 musical with music and lyrics by Stephen Sondheim and book by Hugh Wheeler. It is based on the 1970 play Sweeney Todd by Christopher Bond. The character of Sweeney Todd first appeared in a Victorian penny dreadful titled The String of Pearls.\nSweeney Todd opened on Broadway in 1979 and in the West End in 1980. It won the Tony Award for Best Musical and Olivier Award for Best New Musical. It has been revived many times and inspired a film adaptation. A panel of five American critics assembled by New York magazine in 2011 described the work as being among the three \"greatest\" musicals.",
+        "source_url": "https://en.wikipedia.org/wiki/Sweeney_Todd%3A_The_Demon_Barber_of_Fleet_Street",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-casino-girl": {
+      "slug": "the-casino-girl",
+      "title": "The Casino Girl",
+      "qid": "Q54993879",
+      "enwiki": "The Casino Girl",
+      "composers": [
+        {
+          "name": "Ludwig Engländer",
+          "qid": "Q6699214",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11641"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1900",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2435",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Casino_Girl",
+        "wikidata": "https://www.wikidata.org/wiki/Q54993879"
+      },
+      "summary": {
+        "text": "The Casino Girl is an Edwardian musical comedy in two acts with music by Ludwig Engländer, Will Marion Cook, Will Accooe, Harry Truman MacConnell and Arthur Nevin, lyrics by Engländer, Cook and MacConnell, and a book by Harry B. Smith and Arthur Nevin. The story concerns a former chorus girl at the Casino Theatre in New York, who flees to Cairo under an assumed name to escape amorous advances of an admirer.\nIt opened at the Casino Theatre in New York City in 1900 and had a run in the same year at the Shaftesbury Theatre in London's West End before having a Broadway revival in 1901.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Casino_Girl",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-crinoline-girl": {
+      "slug": "the-crinoline-girl",
+      "title": "The Crinoline Girl",
+      "qid": "Q21998440",
+      "enwiki": "The Crinoline Girl",
+      "composers": [
+        {
+          "name": "Percy Wenrich",
+          "qid": "Q370916",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12564"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Julian Eltinge",
+          "qid": "Q1711980",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12870"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Otto Harbach",
+          "qid": "Q1231720",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6056"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": "Knickerbocker Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2824",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Crinoline_Girl",
+        "wikidata": "https://www.wikidata.org/wiki/Q21998440"
+      },
+      "summary": {
+        "text": "The Crinoline Girl is a 1914 musical comedy written by Julian Eltinge, Otto Hauerbach, and Percy Wenrich. Producer Al Woods staged it on Broadway.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Crinoline_Girl",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-floor-walkers": {
+      "slug": "the-floor-walkers",
+      "title": "The Floor Walkers",
+      "qid": "Q124352952",
+      "enwiki": "The Floor Walkers",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Floor_Walkers",
+        "wikidata": "https://www.wikidata.org/wiki/Q124352952"
+      },
+      "summary": {
+        "text": "The Floor Walkers  was a road musical that was created as a starring vehicle for the comedy duo of Hap Ward and Harry Vokes to feature their signature roles of the tramps Lord Percy Harden (portrayed by Ward) and Lord Harold Poorly (portrayed by Vokes); characters the duo had previously portrayed in the earlier musicals A Run On the Bank (1895) and The Governors (1898). The Floor Walkers had no attributed author for its book or lyrics, but the music for the production was created by composer Herbert Dillea who also served as the musical's music director. The most well known song from the show was \"Absence Makes the Heart Grow Fonder\"; which was the only song to have an attributed lyricist, Arthur Gillespie. This song was for a time a popular standard and was recorded multiple times by singer Harry Macdonough and cornetist Jules Levy for records made for the Victor Talking Machine Company and Columbia Records from 1902 through 1905, and later was recorded by Wayne King in 1947.\nThe Floor Walkers premiered at the Great Northern Theatre in Chicago on May 16, 1899. The Detroit publisher and theatre lawyer and manager Edward Douglas Stair was the producer of the show. It was originally written in three acts and each act presented a separate story that was only unified through the continuation of Ward and Vokes characters through each scenario. These acts were: \"The-Three-Must-Get-Theres\", \"Sporting Life\", and \"The Floor Walkers\". After leaving Chicago, The Floor Walkers went through several modifications, and by the time the production reached Broadway it was now only in two acts. The work had its New York debut at Broadway's Grand Opera House on January 29, 1900, where it ran for a single week before continuing on its national tour. Well received by New York audiences, the show later returned to the  Grand Opera House for another week of performances in January 1901 before continuing to tour elsewhere. The show continued to tour the United States until another Ward and Vokes musical premiered later in 1901; The Head Waiters.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Floor_Walkers",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-messenger-boy": {
+      "slug": "the-messenger-boy",
+      "title": "The Messenger Boy",
+      "qid": "Q7751151",
+      "enwiki": "The Messenger Boy",
+      "composers": [
+        {
+          "name": "Ivan Caryll",
+          "qid": "Q3156080",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11499"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Adrian Ross",
+          "qid": "Q3605637",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13251"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "James T. Tanner",
+          "qid": "Q6143978",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6636"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6046",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Messenger_Boy",
+        "wikidata": "https://www.wikidata.org/wiki/Q7751151"
+      },
+      "summary": {
+        "text": "The Messenger Boy is a musical comedy in two acts by James T. Tanner and Alfred Murray, lyrics by Adrian Ross and Percy Greenbank, with music by Ivan Caryll and Lionel Monckton, with additional numbers by Paul Rubens. The story concerns a rascally financier who tries to discredit a rival in love; it takes place in London, Cairo and Paris. \nAfter a tryout in Plymouth, the musical opened at the Gaiety Theatre in London, managed by George Edwardes, on 3 February 1900 and ran for a very successful 429 performances. Harry Grattan and Edmund Payne starred, and Marie Studholme later joined the cast. It had a Broadway run of 128 performances, at Daly's Theatre, from 16 September 1901 to 4 January 1902. The director there was Herbert Gresham, and the musical director was Louis F. Gottschalk. The cast included Georgia Caine as Nora, Jobyna Howland as Lord Punchestown, May Robson as Mrs. Bang and Flora Zabelle as Isabel Blyth.\nRosie Boote, who played Isabel in the London cast, so charmed Geoffrey Taylour, 4th Marquess of Headfort, that he married her in 1901. She outlived her husband, dying in 1958. The young ladies appearing in George Edwardes's shows became so popular that wealthy gentlemen, termed \"Stage Door Johnnies\", would wait outside the stage door hoping to escort them to dinner.  In some cases, as here, a marriage resulted.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Messenger_Boy",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "titanique": {
+      "slug": "titanique",
+      "title": "Titanique",
+      "qid": "Q117086072",
+      "enwiki": "Titanique",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Titanique",
+        "wikidata": "https://www.wikidata.org/wiki/Q117086072"
+      },
+      "summary": {
+        "text": "Titanique (sometimes stylized as Titaníque) is a jukebox musical featuring music of Celine Dion, with a book by Tye Blue, Marla Mindelle, and Constantine Rousouli, with music supervision, arrangements, and orchestration by Nicholas James Connell. The musical is a parody of the 1997 film Titanic, and the story is a retelling of the movie's events from Dion's perspective.\nFollowing its Los Angeles premiere in 2017, the show opened off-Broadway at the Asylum Theatre in June 2022, before later transferring to the Daryl Roth Theatre. The production won three Lucille Lortel Awards in 2023, including Outstanding Musical. The show opened in the West End in 2025, winning two Olivier Awards including Best Entertainment or Comedy Play. A 2026 Broadway transfer was nominated for four Tony Awards, including Best Musical.",
+        "source_url": "https://en.wikipedia.org/wiki/Titanique",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

@@ -1,0 +1,517 @@
+{
+  "live": true,
+  "shows": {
+    "balalaika": {
+      "slug": "balalaika",
+      "title": "Balalaika",
+      "qid": "Q4849897",
+      "enwiki": "Balalaika (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Balalaika_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4849897"
+      },
+      "summary": {
+        "text": "Balalaika is a musical play in three acts with book and lyrics by Eric Maschwitz, music by George Posford and Bernard Grun. It opened in London at the Adelphi Theatre on 22 December 1936, starring Muriel Angelus, Roger Treville, Clifford Mollison and Betty Warren, and ran for 569 performances.\nA love story between a young nobleman and a ballerina set mostly in Russia during World War I and the Russian Revolution, it begins and ends in 1924 at a Montmartre night-club called the \"Balalaika\", telling the lovers' story through a series of flashbacks.\nItself a revised version of an earlier London musical play called The Great Hussar, which opened at the Adelphi Theatre on 19 October 1933, Balalaika formed the basis for the 1939 MGM movie of the same name starring Nelson Eddy and Ilona Massey.",
+        "source_url": "https://en.wikipedia.org/wiki/Balalaika_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "burlesque": {
+      "slug": "burlesque",
+      "title": "Burlesque",
+      "qid": "Q124472029",
+      "enwiki": "Burlesque (musical)",
+      "composers": [
+        {
+          "name": "Todrick Hall",
+          "qid": "Q16205820"
+        },
+        {
+          "name": "Sia",
+          "qid": "Q181484"
+        },
+        {
+          "name": "Diane Warren",
+          "qid": "Q237354",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/502969"
+        },
+        {
+          "name": "Christina Aguilera",
+          "qid": "Q41594"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Todrick Hall",
+          "qid": "Q16205820"
+        },
+        {
+          "name": "Sia",
+          "qid": "Q181484"
+        },
+        {
+          "name": "Diane Warren",
+          "qid": "Q237354",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/502969"
+        },
+        {
+          "name": "Christina Aguilera",
+          "qid": "Q41594"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Steve Antin",
+          "qid": "Q2623963"
+        }
+      ],
+      "premiere": {
+        "date": "2024-06-13",
+        "venue": "Manchester Opera House"
+      },
+      "awards": [],
+      "links": {
+        "official_site": "https://burlesqueonstage.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/Burlesque_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q124472029"
+      },
+      "summary": {
+        "text": "Burlesque is a musical with a book by Steven Antin and additional material by Kate Wetherhead, and music and lyrics by Christina Aguilera, Sia, Diane Warren, Todrick Hall, and Jess Folley. It is based on Antin's 2010 film.\nThe musical's story centers on Ali Rose, an aspiring singer, who leaves her small hometown for New York in search for her mother; she becomes a dancer at a burlesque club.\nDirected and choreographed by Nick Winston, the original production of Burlesque played in Manchester, England, at the Manchester Opera House in June and October 2024, and in Glasgow, Scotland, at the Theatre Royal in September of the same year. The show made its West End debut at the Savoy Theatre in London in July 2025.",
+        "source_url": "https://en.wikipedia.org/wiki/Burlesque_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "clinton-the-musical": {
+      "slug": "clinton-the-musical",
+      "title": "Clinton: The Musical",
+      "qid": "Q19571312",
+      "enwiki": "Clinton: The Musical",
+      "composers": [
+        {
+          "name": "Paul Hodge",
+          "qid": "Q18387121"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Clinton%3A_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q19571312"
+      },
+      "summary": {
+        "text": "Clinton: The Musical is a satiric musical with music and lyrics by Paul Hodge, and a book by Paul Hodge and Michael Hodge. The musical is based on the presidency of Bill Clinton. After success in various festivals, the show played Off-Broadway in the spring of 2015.",
+        "source_url": "https://en.wikipedia.org/wiki/Clinton%3A_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "hip-hip-hooray": {
+      "slug": "hip-hip-hooray",
+      "title": "Hip! Hip! Hooray!",
+      "qid": "Q122179526",
+      "enwiki": "Hip! Hip! Hooray! (1907 musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Hip!_Hip!_Hooray!_(1907_musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q122179526"
+      },
+      "summary": {
+        "text": "Hip! Hip! Hooray! is a musical in two acts with music by Gus Edwards and both lyrics and book by Edgar Smith. It was written as a starring vehicle for the comedian Joe Weber, premiering on Broadway at Weber's Music Hall on October 10, 1907. It ran at that theatre for 64 performances, closing on December 7, 1907.\nThe story takes place at the fictional Doolittle College, where two German professors attempt to popularize a new breakfast cereal, \"Excited Oats\", while simultaneously becoming entangled in romance, one with a widow and the other with a beautiful young woman.",
+        "source_url": "https://en.wikipedia.org/wiki/Hip!_Hip!_Hooray!_(1907_musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "jelly-s-last-jam": {
+      "slug": "jelly-s-last-jam",
+      "title": "Jelly's Last Jam",
+      "qid": "Q6176876",
+      "enwiki": "Jelly's Last Jam",
+      "composers": [
+        {
+          "name": "Jelly Roll Morton",
+          "qid": "Q317128",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12166"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Susan Birkenhead",
+          "qid": "Q7647576",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12753"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "George C. Wolfe",
+          "qid": "Q5537604",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5792"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4864",
+        "wikipedia": "https://en.wikipedia.org/wiki/Jelly's_Last_Jam",
+        "wikidata": "https://www.wikidata.org/wiki/Q6176876"
+      },
+      "summary": {
+        "text": "Jelly's Last Jam is a musical with a book by George C. Wolfe, lyrics by Susan Birkenhead, and music by Jelly Roll Morton and Luther Henderson.  Based on the life and career of Ferdinand Joseph LaMothe, known as Jelly Roll Morton and generally regarded as one of the primary driving forces behind the introduction of jazz to the American public in the early 20th century, it also serves as a social commentary on the African-American experience during the era. After a world premiere run in Los Angeles in 1991, Jelly's Last Jam first opened on Broadway in April 1992. It was nominated for 11 Tony Awards and took home three.",
+        "source_url": "https://en.wikipedia.org/wiki/Jelly's_Last_Jam",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "movin-out": {
+      "slug": "movin-out",
+      "title": "Movin' Out",
+      "qid": "Q6927007",
+      "enwiki": "Movin' Out (musical)",
+      "composers": [
+        {
+          "name": "Billy Joel",
+          "qid": "Q194333",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/95936"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/11031",
+        "wikipedia": "https://en.wikipedia.org/wiki/Movin'_Out_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6927007"
+      },
+      "summary": {
+        "text": "Movin' Out is a 2002 jukebox musical featuring the songs of Billy Joel. Conceived and created by Twyla Tharp, the musical tells the story of a generation of American youth growing up on Long Island during the 1960s and their experiences with the Vietnam War. The principal characters are drawn from those who appeared in various Joel tunes: high school sweethearts Brenda and Eddie (\"Scenes from an Italian Restaurant\"), James (\"James\"), Judy (\"Why Judy Why\"), Sergeant O'Leary and Tony (Anthony in \"Movin' Out\"). The show diverts from the traditional musical in that it essentially is a series of dances linked by a thin plot, and none of the dancers sing. Instead, all the vocals are performed by a pianist (the \"Piano Man\", representing Billy Joel) and band suspended on a platform above the stage while the dancers act out the songs' lyrics, basically making the show a rock ballet.",
+        "source_url": "https://en.wikipedia.org/wiki/Movin'_Out_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "revista-portena": {
+      "slug": "revista-portena",
+      "title": "Revista porteña",
+      "qid": "Q134962417",
+      "enwiki": "Revista porteña",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Revista_porte%C3%B1a",
+        "wikidata": "https://www.wikidata.org/wiki/Q134962417"
+      },
+      "summary": {
+        "text": "The revista porteña (meaning \"porteña revue\" or \"Buenos Aires revue\" in Spanish) is a theatrical genre native to Argentina, derived from European revue, which originated in the city of Buenos Aires and dominated the local theatre circuit—concentrated chiefly on Corrientes Avenue—from its emergence in the 1920s until the beginning of its decline in the second half of the 1970s. The Maipo theatre was the most emblematic venue of the genre, known as the \"cathedral of the revista porteña\", though the El Nacional, the Tabarís, the Astral and the Cómico theatres were also prominent. Its immediate precursor was the revista criolla (lit. \"criolla revue\", that is, local revue), which emerged in the late 1890s as a local adaptation of the Spanish-style revue. The transformation of the revista criolla into the revista porteña took place from 1922 onward, when the staging of French revue productions—notably that of Madame Rasimi and her Ba-Ta-Clan company, which caused a great impact on the city's audiences and influenced local theatrical producers. The French productions introduced the revue format with scantily clad vedettes and a production style based on luxury, visual splendour and onstage sensuality, deeply shaping the development of the revista porteña.\nOver the following decades, the revista porteña experienced an unprecedented boom, at one point premiering more musical productions than reference theatre cities such as New York. Major local figures emerged—actors, comedians, singers and vedettes—who consolidated a style characterised by the absence of a linear plot, favouring instead a succession of sketches, monologues, musical numbers and lavish choreography. The period between 1940 and 1960 is considered the \"Golden Age\" of the revista porteña. During those years the genre reached its greatest popularity and consolidated its distinctive stylistic features, although the era was also marked by political censorship, particularly during the dictatorship that followed the 1943 coup and during the Peronist government, which restricted political satire and artistic expression, pushing the revue toward more conservative themes or toward the use of foreign elements. Despite this, the revista porteña retained its vitality and adapted, with figures such as Nélida Roca—nicknamed the \"Venus of Corrientes Street\"—and theatrical impresarios such as Carlos A. Petit, who drove the production and dissemination of the genre.\nIn the following decades, the revista porteña faced new challenges: competition from sound cinema, television and other theatrical genres such as the café-concert. In the 1960s and 1970s, although it began to lose popularity, it continued to produce hits and to renew itself with the emergence of new vedettes, including Nélida Lobato and Moria Casán. During this period the revista porteña also opened its doors to sexual diversity, notably including transvestite vedettes such as Vanessa Show, a pioneer of travesti-trans representation in the genre. The social and cultural changes of the late 20th and early 21st centuries, together with economic crisis and the transformation of forms of entertainment, led to a gradual decline of the revista porteña. Today it is considered a genre that has practically disappeared, surviving only sporadically or in transformed forms, influenced by other styles of musical theatre and television comedy. Since 2013 it has been included on the official list of Cultural Heritage of the city, alongside emblems of Buenos Aires culture such as tango or fileteado.",
+        "source_url": "https://en.wikipedia.org/wiki/Revista_porte%C3%B1a",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "spend-spend-spend": {
+      "slug": "spend-spend-spend",
+      "title": "Spend Spend Spend",
+      "qid": "Q7576276",
+      "enwiki": "Spend Spend Spend",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Spend_Spend_Spend",
+        "wikidata": "https://www.wikidata.org/wiki/Q7576276"
+      },
+      "summary": {
+        "text": "Spend Spend Spend is a musical with book and lyrics by Steve Brown and Justin Greene and music by Brown. The musical is inspired by the life of Viv Nicholson.",
+        "source_url": "https://en.wikipedia.org/wiki/Spend_Spend_Spend",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "steel-pier": {
+      "slug": "steel-pier",
+      "title": "Steel Pier",
+      "qid": "Q7605693",
+      "enwiki": "Steel Pier (musical)",
+      "composers": [
+        {
+          "name": "John Kander",
+          "qid": "Q1685876",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6837"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Fred Ebb",
+          "qid": "Q1274807",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5654"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "David Thompson",
+          "qid": "Q5240383",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5013"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8296",
+        "wikipedia": "https://en.wikipedia.org/wiki/Steel_Pier_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7605693"
+      },
+      "summary": {
+        "text": "Steel Pier is a musical written by the songwriting team of Kander and Ebb with an original book by David Thompson.",
+        "source_url": "https://en.wikipedia.org/wiki/Steel_Pier_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "take-flight": {
+      "slug": "take-flight",
+      "title": "Take Flight",
+      "qid": "Q7677608",
+      "enwiki": "Take Flight (musical)",
+      "composers": [
+        {
+          "name": "David Shire",
+          "qid": "Q719035",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12400"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Richard Maltby, Jr.",
+          "qid": "Q7327614",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11088"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "John Weidman",
+          "qid": "Q6263373",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6914"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Take_Flight_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7677608"
+      },
+      "summary": {
+        "text": "Take Flight is a musical with book by John Weidman, music by David Shire and lyrics by Richard Maltby, Jr.  The musical is inspired by the early history of aviation, interweaving the lives of the Wright Brothers, Charles Lindbergh, Amelia Earhart and her publisher George Putnam, along with such sundry luminaries as Otto Lilienthal, the German \"Glider King\"; Commander Richard Byrd; French flying aces Nungesser and Coli, and various others.",
+        "source_url": "https://en.wikipedia.org/wiki/Take_Flight_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-liar": {
+      "slug": "the-liar",
+      "title": "The Liar",
+      "qid": "Q118897902",
+      "enwiki": "The Liar (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Liar_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q118897902"
+      },
+      "summary": {
+        "text": "The Liar is a musical comedy in two acts with a book by Alfred Drake and Edward Eager, music by John Mundy and lyrics by Mr. Eager. It was produced on Broadway in 1950.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Liar_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-secret-garden": {
+      "slug": "the-secret-garden",
+      "title": "The Secret Garden",
+      "qid": "Q7763013",
+      "enwiki": "The Secret Garden (musical)",
+      "composers": [
+        {
+          "name": "Lucy Simon",
+          "qid": "Q6698499",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12410"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Marsha Norman",
+          "qid": "Q545362",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7556"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Marsha Norman",
+          "qid": "Q545362",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7556"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7825",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Secret_Garden_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7763013"
+      },
+      "summary": {
+        "text": "The Secret Garden is a musical based on the 1911 novel of the same name by Frances Hodgson Burnett. The musical's script and lyrics are by Marsha Norman, with music by Lucy Simon. It premiered on Broadway in 1991 and ran for 709 performances.\nThe story is set in the early years of the 20th century. Mary Lennox, an English girl born and raised in the British Raj, is orphaned by a cholera outbreak when she is ten years old. She is sent away from India to the moors of Yorkshire, England, to live in the manor of a brooding uncle she has never met. There, her personality blossoms among the other residents of the manor as they bring new life to a long-neglected garden.\nAn entirely different musical version of the novel, book and music written by the team of Jay Turvey and Paul Sportelli, premiered at Canada's Shaw Festival in 2024.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Secret_Garden_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-vamp": {
+      "slug": "the-vamp",
+      "title": "The Vamp",
+      "qid": "Q7771981",
+      "enwiki": "The Vamp",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/9054",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Vamp",
+        "wikidata": "https://www.wikidata.org/wiki/Q7771981"
+      },
+      "summary": {
+        "text": "The Vamp is a stage musical with a book by Sam Locke and John La Touche with lyrics by La Touche and music by James Mundy.\nThe show is set in the 1920s and tells the story of Flora Weems, a farm girl turned actress and the behind the scenes drama of making a silent film version of Samson and Delilah.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Vamp",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "two-strangers": {
+      "slug": "two-strangers",
+      "title": "Two Strangers",
+      "qid": "Q124362440",
+      "enwiki": "Two Strangers (Carry a Cake Across New York)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2019-11-05",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/543517",
+        "playbill": "https://playbill.com/production/two-strangers-carry-a-cake-across-new-york-broadway-longacre-theatre-2025",
+        "official_site": "https://twostrangersmusical.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/Two_Strangers_(Carry_a_Cake_Across_New_York)",
+        "wikidata": "https://www.wikidata.org/wiki/Q124362440"
+      },
+      "summary": {
+        "text": "Two Strangers (Carry a Cake Across New York) is a British musical by Jim Barne and Kit Buchan. The musical was first produced in 2019 in Ipswich and Northampton under the name The Season, starring Tori Allen-Martin and Alex Cardall. A new production opened at Kiln Theatre in 2023, starring Dujonna Gift and Sam Tutty. In April 2024, it transferred to the Criterion Theatre in the West End. It is now playing at the Longacre Theatre on Broadway (premiering in November 2025), with Tutty back in the show, opposite Christiani Pitts from the Cambridge production. It was The New York Times' \"Critic's Pick\".\nUnder its previous title, The Season, the show received a Stage Debut Award for Best Composer, Lyricist or Book Writer, and before that also the Stiles & Drewe Mentorship prize.",
+        "source_url": "https://en.wikipedia.org/wiki/Two_Strangers_(Carry_a_Cake_Across_New_York)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "walking-happy": {
+      "slug": "walking-happy",
+      "title": "Walking Happy",
+      "qid": "Q7962454",
+      "enwiki": "Walking Happy",
+      "composers": [
+        {
+          "name": "Jimmy Van Heusen",
+          "qid": "Q33124",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12521"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Sammy Cahn",
+          "qid": "Q470040",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11268"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Roger O. Hirson",
+          "qid": "Q3439329",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6311"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/9145",
+        "wikipedia": "https://en.wikipedia.org/wiki/Walking_Happy",
+        "wikidata": "https://www.wikidata.org/wiki/Q7962454"
+      },
+      "summary": {
+        "text": "Walking Happy is a musical with music by Jimmy Van Heusen, lyrics by Sammy Cahn and book by Roger O. Hirson and Ketti Frings. The story is based on the 1916 play Hobson's Choice by Harold Brighouse. The musical was nominated for six Tony Awards, including Best Musical.",
+        "source_url": "https://en.wikipedia.org/wiki/Walking_Happy",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

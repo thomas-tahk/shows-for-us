@@ -1,0 +1,593 @@
+{
+  "live": true,
+  "shows": {
+    "broken-wings": {
+      "slug": "broken-wings",
+      "title": "Broken Wings",
+      "qid": "Q134984685",
+      "enwiki": "Broken Wings (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Broken_Wings_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q134984685"
+      },
+      "summary": {
+        "text": "Broken Wings is a musical based on Kahlil Gibran's 1912 novella of the same title, adapted by Nadim Naaman and Dana Al Fardan. Directed by Bronagh Lagan, the musical premiered at the Theatre Royal Haymarket on the West End in August 2018.",
+        "source_url": "https://en.wikipedia.org/wiki/Broken_Wings_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "buena-vista-social-club": {
+      "slug": "buena-vista-social-club",
+      "title": "Buena Vista Social Club",
+      "qid": "Q125881464",
+      "enwiki": "Buena Vista Social Club (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/540348",
+        "wikipedia": "https://en.wikipedia.org/wiki/Buena_Vista_Social_Club_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q125881464"
+      },
+      "summary": {
+        "text": "Buena Vista Social Club is a 2023 stage musical, with a book by Marco Ramirez and featuring the music recorded by the ensemble musician group Buena Vista Social Club.\nThe musical is set in Havana, Cuba and spans time from the 1950s to the 1990s, following the lives of four prominent musicians, the effect communism and the rise of Fidel Castro had on musicians at the time, and their eventual collaboration in 1997 on the landmark album Buena Vista Social Club. The music in the show is presented entirely in the Spanish language, with the musical styles of son, danzón, and bolero represented in the musical score.",
+        "source_url": "https://en.wikipedia.org/wiki/Buena_Vista_Social_Club_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "clueless": {
+      "slug": "clueless",
+      "title": "Clueless",
+      "qid": "Q60755130",
+      "enwiki": "Clueless (musical)",
+      "composers": [
+        {
+          "name": "KT Tunstall",
+          "qid": "Q230601"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Glenn Slater",
+          "qid": "Q3427403",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/80644"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Amy Heckerling",
+          "qid": "Q442273"
+        }
+      ],
+      "premiere": {
+        "date": "2018-11-20",
+        "venue": "Pershing Square Signature Center"
+      },
+      "awards": [],
+      "links": {
+        "official_site": "https://thecluelessmusical.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/Clueless_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q60755130"
+      },
+      "summary": {
+        "text": "Clueless, The Hit Musical is a musical with a book by Amy Heckerling based on her 1995 film, itself loosely based on Jane Austen's 1815 novel Emma, updating the setting to modern-day Beverly Hills.\nThe musical originally premiered as a jukebox musical Off-Broadway on November 20, 2018, with an official opening on December 11, in the Pershing Square Signature Center's Alice Griffin Jewel Box Theatre. Performances ran through January 12, 2019.\nA new version of the musical with original music by KT Tunstall and with lyrics by Glenn Slater, had a work-in-progress engagement at the Churchill Theatre, Bromley from 12 to 24 February 2024, before being announced to begin performances in London's West End at the Trafalgar Theatre from February 2025. The West End production opened on March 13, 2025.",
+        "source_url": "https://en.wikipedia.org/wiki/Clueless_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "her-excellency": {
+      "slug": "her-excellency",
+      "title": "Her Excellency",
+      "qid": "Q107240605",
+      "enwiki": "Her Excellency (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Her_Excellency_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q107240605"
+      },
+      "summary": {
+        "text": "Her Excellency is a musical comedy composed by Manning Sherwin and Harold Purcell from a book by Archie Menzies and Max Kester. A couple of the songs were composed by Harry Parr-Davies. The story takes place entirely in the British Embassy in the fictional San Barcellos.\nAfter premiering at the Alhambra Theatre, Glasgow, the show transferred to London's West End enjoying a run of 252 performances between 22 June 1949 and 28 January 1950, initially at the London Hippodrome before switching to the Saville Theatre. It was written as a starring vehicle for Cicely Courtneidge and produced by her husband Jack Hulbert. The cast also included Patrick Barr, Austin Trevor, Thorley Walters, Billy Dainty and Tucker McGuire.",
+        "source_url": "https://en.wikipedia.org/wiki/Her_Excellency_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "high-button-shoes": {
+      "slug": "high-button-shoes",
+      "title": "High Button Shoes",
+      "qid": "Q5754993",
+      "enwiki": "High Button Shoes",
+      "composers": [
+        {
+          "name": "Jule Styne",
+          "qid": "Q587741",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12466"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Sammy Cahn",
+          "qid": "Q470040",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11268"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Stephen Longstreet",
+          "qid": "Q7609816",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8747"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4383",
+        "wikipedia": "https://en.wikipedia.org/wiki/High_Button_Shoes",
+        "wikidata": "https://www.wikidata.org/wiki/Q5754993"
+      },
+      "summary": {
+        "text": "High Button Shoes is a  1947 musical with music by Jule Styne, lyrics by Sammy Cahn and book by George Abbott and Stephen Longstreet. It was based on the semi-autobiographical 1946 novel The Sisters Liked Them Handsome by Stephen Longstreet.  The story concerns the comic entanglements of the Longstreet family with two con men in Atlantic City.\nThe musical opened on Broadway in 1947 (running for 727 performances), and in London's West End in 1948, and has had several regional revivals as well as being televised in 1956.",
+        "source_url": "https://en.wikipedia.org/wiki/High_Button_Shoes",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "illyria": {
+      "slug": "illyria",
+      "title": "Illyria",
+      "qid": "Q6000644",
+      "enwiki": "Illyria (musical)",
+      "composers": [
+        {
+          "name": "Peter Mills",
+          "qid": "Q60734059"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Illyria_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6000644"
+      },
+      "summary": {
+        "text": "Illyria is a musical with book, music, and lyrics by Peter Mills, based on William Shakespeare's Twelfth Night, written in 2002. Illyria is a traditional adaptation of Twelfth Night, but features a more contemporary score.\nIllyria began as Prospect Theater Company's musical production of Twelfth Night in Central Park in 2001. The company's artistic director Cara Reichel and resident writer Pete Mills then collaborated to create a complete musical adaptation. The musical premiered from April 12 through the 28th at the Hudson Guild Theater, New York City.",
+        "source_url": "https://en.wikipedia.org/wiki/Illyria_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "look-to-the-lilies": {
+      "slug": "look-to-the-lilies",
+      "title": "Look to the Lilies",
+      "qid": "Q6675184",
+      "enwiki": "Look to the Lilies",
+      "composers": [
+        {
+          "name": "Jule Styne",
+          "qid": "Q587741",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12466"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Sammy Cahn",
+          "qid": "Q470040",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11268"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Leonard Spigelgass",
+          "qid": "Q176064",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7269"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5538",
+        "wikipedia": "https://en.wikipedia.org/wiki/Look_to_the_Lilies",
+        "wikidata": "https://www.wikidata.org/wiki/Q6675184"
+      },
+      "summary": {
+        "text": "Look to the Lilies is a  stage musical with a book by Leonard Spigelgass, lyrics by Sammy Cahn, and music by Jule Styne.\nBased on both the 1962 novel and film versions of Lilies of the Field, it tells the story of a group of German nuns, headed by a determined, dauntless Mother Superior, who manage to get an African American itinerant handyman/jack-of-all-trades named Homer Smith to build a chapel for the New Mexico community in which they live, despite not having money to pay him.",
+        "source_url": "https://en.wikipedia.org/wiki/Look_to_the_Lilies",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "love-birds-sherman": {
+      "slug": "love-birds-sherman",
+      "title": "Love Birds",
+      "qid": "Q20899494",
+      "enwiki": "Love Birds (Sherman)",
+      "composers": [
+        {
+          "name": "Robert J. Sherman",
+          "qid": "Q21062391"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Robert J. Sherman",
+          "qid": "Q21062391"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Robert J. Sherman",
+          "qid": "Q21062391"
+        }
+      ],
+      "premiere": {
+        "date": "2015-08-07",
+        "venue": "The Pleasance"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5574",
+        "wikipedia": "https://en.wikipedia.org/wiki/Love_Birds_(Sherman)",
+        "wikidata": "https://www.wikidata.org/wiki/Q20899494"
+      },
+      "summary": {
+        "text": "Love Birds is an original musical with book, music and lyrics by Robert J. Sherman. The musical officially premiered at the 2015 Edinburgh Fringe Festival at The Pleasance on 7 August 2015. The production was directed and choreographed by Stewart Nicholls.  Prior to the Edinburgh run, there were two previews held in London at the Lost Theatre (in Stockwell) on 28 and 29 July.  The Original Edinburgh Cast Recording was recorded on 30 July and mixed and mastered on 31 July and 3 August and was first released by SimG Records on 12 August at the Edinburgh Festival.   Two Edinburgh previews took place on 5 and 6 August, with Press Night taking place on 8 August.  The final festival performance took place on 31 August.  The show starred Ruth Betteridge, Greg Castiglioni, John Guerrasio, George Knapper, Jonny Purchase, Joanna Sawyer, Anna Stolli, Rafe Watts and Ryan Willis.  In its end-of-the-year round-up of regional British fringe musical theatre, Musical Theatre Review hailed Love Birds: a triumph of whimsy, a children’s story written with adult sensibilities and featuring a cracking score that celebrated the lost era of vaudeville. Blessed with an equally strong design from Gabriella Slade and some marvellously sensitive performances, Love Birds was probably the most accomplished piece of musical theatre to arise from the many delights at this year’s festival.",
+        "source_url": "https://en.wikipedia.org/wiki/Love_Birds_(Sherman)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "moby-dick-musical": {
+      "slug": "moby-dick-musical",
+      "title": "Moby Dick",
+      "qid": "Q6887428",
+      "enwiki": "Moby Dick (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Moby_Dick_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6887428"
+      },
+      "summary": {
+        "text": "Moby Dick is a musical with a book by Robert Longden, and music and lyrics by Longden and Hereward Kaye, first staged in 1990.  The plot follows the anarchic and nubile girls of St. Godley's Academy for Young Ladies who, determined to save the institution from bankruptcy, decide to stage Herman Melville's classic 1851 novel in the school's swimming pool. The musical is a mixture of high camp, music hall-style smut, and wild anachronism overflowing with double entendres; the lead role of headmistress/Captain Ahab is portrayed by a man in drag.\nOriginally produced as Moby Dick: A Whale of a Tale, and alternatively known as Moby Dick! The Musical, or Moby!, the show has proven to be a popular choice with regional theatre groups.  Since 2003 a more Americanized version deleted the unfamiliar British references and played down many of the burlesque aspects.",
+        "source_url": "https://en.wikipedia.org/wiki/Moby_Dick_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "no-strings": {
+      "slug": "no-strings",
+      "title": "No Strings",
+      "qid": "Q7045015",
+      "enwiki": "No Strings",
+      "composers": [
+        {
+          "name": "Richard Rodgers",
+          "qid": "Q269094",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12311"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Richard Rodgers",
+          "qid": "Q269094",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12311"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Samuel A. Taylor",
+          "qid": "Q249718",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8604"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6583",
+        "wikipedia": "https://en.wikipedia.org/wiki/No_Strings",
+        "wikidata": "https://www.wikidata.org/wiki/Q7045015"
+      },
+      "summary": {
+        "text": "No Strings is a musical drama with book by Samuel A. Taylor and words and music by Richard Rodgers. No Strings is the only Broadway score for which Rodgers wrote both lyrics and music, and the first musical he composed after the death of his long-time collaborator, Oscar Hammerstein II. The musical opened on Broadway in 1962 and ran for 580 performances.  It received six Tony Award nominations, winning three, for Best Leading Actress in a Musical, Best Original Score and Best Choreography.",
+        "source_url": "https://en.wikipedia.org/wiki/No_Strings",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "ordinary-days": {
+      "slug": "ordinary-days",
+      "title": "Ordinary Days",
+      "qid": "Q16960721",
+      "enwiki": "Ordinary Days",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Ordinary_Days",
+        "wikidata": "https://www.wikidata.org/wiki/Q16960721"
+      },
+      "summary": {
+        "text": "Ordinary Days is a sung-through musical with music and lyrics by American composer Adam Gwon. Set in New York City, the musical follows four characters, Claire, Jason, Warren, and Deb, exploring how their ordinary lives connect in the most amazing ways. Originally directed by Marc Bruni with the Roundabout Theatre Company at the Harold and Miriam Steinberg Center for Theatre, the show includes 21 songs which tell the story of these two men and two women. The original cast included Lisa Brescia (Claire), Hunter Foster (Jason), Jared Gertner (Warren), and Kate Wetherhead (Deb).",
+        "source_url": "https://en.wikipedia.org/wiki/Ordinary_Days",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "saucy-jack-and-the-space-vixens": {
+      "slug": "saucy-jack-and-the-space-vixens",
+      "title": "Saucy Jack and the Space Vixens",
+      "qid": "Q17019607",
+      "enwiki": "Saucy Jack and the Space Vixens",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1995",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Saucy_Jack_and_the_Space_Vixens",
+        "wikidata": "https://www.wikidata.org/wiki/Q17019607"
+      },
+      "summary": {
+        "text": "Saucy Jack and the Space Vixens is a cult science fiction musical reminiscent of The Rocky Horror Show.  The 2006 West End run starred Faye Tozer and was choreographed by Bruno Tonioli.  The cast interact with the audience as if the audience were patrons of the club in which the musical is set.",
+        "source_url": "https://en.wikipedia.org/wiki/Saucy_Jack_and_the_Space_Vixens",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "show-girl": {
+      "slug": "show-girl",
+      "title": "Show Girl",
+      "qid": "Q17093026",
+      "enwiki": "Show Girl (1929 musical)",
+      "composers": [
+        {
+          "name": "George Gershwin",
+          "qid": "Q123829",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5813"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Gus Kahn",
+          "qid": "Q520751",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12999"
+        },
+        {
+          "name": "Ira Gershwin",
+          "qid": "Q61059",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12885"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "William Anthony McGuire",
+          "qid": "Q3105229",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9088"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7971",
+        "wikipedia": "https://en.wikipedia.org/wiki/Show_Girl_(1929_musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q17093026"
+      },
+      "summary": {
+        "text": "Show Girl is a musical with music by George Gershwin, lyrics by Ira Gershwin and Gus Kahn, and a book William Anthony McGuire. It ran at Broadway's Ziegfeld Theatre from Jul 2, 1929  to Oct 5, 1929. A backstage musical, much of the action of the musical's story takes place at the Ziegfeld Theatre in New York City. Other scenes take place in Trenton, New Jersey; Brooklyn; and at a Penthouse apartment in New York City. The show tells the story of aspiring showgirl Dixie Dugan (played by Ruby Keeler) as she is pursued by four suitors (played by Eddie Foy, Jr., Joseph Macauley, Austin Fairman, and Frank McHugh). \nThe character of Dixie Dugan was created by J. P. McEvoy and was first introduced in Liberty before McEvoy published his 1928 novel Show Girl (on which the musical was loosely based).\nThe Broadway production was produced by Florenz Ziegfeld, directed by McGuire, and choreographed by Bobby Connolly, with ballet sequences—including one set to An American in Paris—by Albertina Rasch. Duke Ellington conducted the orchestra. The show opened on July 2, 1929 at the Ziegfeld Theatre and ran for 111 performances. The cast included Ruby Keeler as Dixie (replaced by Dorothy Stone a few weeks into the run), Jimmy Durante, Eddie Foy, Jr., Frank McHugh, and Nick Lucas.\nKeeler's husband, Al Jolson, frequently sat in the audience and serenaded her with the show's closing number, \"Liza (All the Clouds'll Roll Away)\", from his seat. The song was featured in the 1946 biopic The Jolson Story.\nRuby Keeler appeared for only the first few weeks of the New York run. By the end of July, she had to withdraw due to illness—receiving necessary surgery—and Dorothy Stone took over the role, actually appearing for about twice as many performances as Keeler.\nWarner Brothers had already filmed the McEvoy story as Show Girl (1928), with Alice White as Dixie Dugan; a sequel, Showgirl in Hollywood (1930) was made with White again starring as Dixie.",
+        "source_url": "https://en.wikipedia.org/wiki/Show_Girl_(1929_musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "slaves-in-algiers": {
+      "slug": "slaves-in-algiers",
+      "title": "Slaves in Algiers",
+      "qid": "Q85801560",
+      "enwiki": "Slaves in Algiers",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Slaves_in_Algiers",
+        "wikidata": "https://www.wikidata.org/wiki/Q85801560"
+      },
+      "summary": {
+        "text": "Slaves in Algiers, or A Struggle for Freedom is a play written by Susanna Haswell Rowson in 1794. It is her first and only surviving play, first staged at the New Theatre (later renamed the Chestnut Street Theatre) in Philadelphia, Pennsylvania, on June 30, 1794. A three-act play interspersed with songs, it is a response to the Barbary captivity crisis.\nWhile the play is not considered to have great literary merit, it is discussed for its complex mix of political agendas, which offer insight into its period of early US history. It expresses an early feminism, desires for American imperialism in the Islamic world, and uses antisemitism to excuse the failings of capitalism.",
+        "source_url": "https://en.wikipedia.org/wiki/Slaves_in_Algiers",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "summer-rain": {
+      "slug": "summer-rain",
+      "title": "Summer Rain",
+      "qid": "Q19879621",
+      "enwiki": "Summer Rain (musical)",
+      "composers": [
+        {
+          "name": "Terence Clarke",
+          "qid": "Q7701864"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Nick Enright",
+          "qid": "Q3339739",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/115180"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Nick Enright",
+          "qid": "Q3339739",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/115180"
+        }
+      ],
+      "premiere": {
+        "date": "1983",
+        "venue": "National Institute of Dramatic Art"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Summer_Rain_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q19879621"
+      },
+      "summary": {
+        "text": "Summer Rain is a musical with book and lyrics by Australian playwright Nick Enright and music by Terence Clarke.\nSet in New South Wales, Australia, it's Boxing Day 1945 in Turnaround Creek, an outback town. The dust settles as the town nurses their Christmas hangover. Harold Slocum and his family of the Slocum's Travelling Tent Show are down on their luck and become stranded. They're broke and desperate for an audience; they end up in Turnaround Creek. To the country folk, the prospect of a show is a welcome diversion, but Barry the publican at the Shamrock is strangely unwelcoming. He remembers the last time the Slocums were in the district. Emotions run high and the sedentary life of the town is disturbed by the remembrance of an illicit affair. The musical represses new life breathed into the rural community, and is altogether humorous and sensitive.",
+        "source_url": "https://en.wikipedia.org/wiki/Summer_Rain_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "teeth": {
+      "slug": "teeth",
+      "title": "Teeth",
+      "qid": "Q125661614",
+      "enwiki": "Teeth (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Teeth_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q125661614"
+      },
+      "summary": {
+        "text": "Teeth is a musical by Michael R. Jackson and Anna K. Jacobs, adapted from the 2007 horror film of the same name. It premiered off-Broadway in 2024 at Playwrights Horizons.\nThe musical follows Dawn O'Keefe, an evangelical teenager, who is navigating the challenges of adolescent dating and chastity when she discovers she has teeth in her vagina.",
+        "source_url": "https://en.wikipedia.org/wiki/Teeth_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-rink": {
+      "slug": "the-rink",
+      "title": "The Rink",
+      "qid": "Q7760822",
+      "enwiki": "The Rink (musical)",
+      "composers": [
+        {
+          "name": "John Kander",
+          "qid": "Q1685876",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6837"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Fred Ebb",
+          "qid": "Q1274807",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5654"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Terrence McNally",
+          "qid": "Q1566335",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8828"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7527",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Rink_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7760822"
+      },
+      "summary": {
+        "text": "The Rink is a musical with a book by Terrence McNally, lyrics by Fred Ebb, and music by John Kander, the tenth Kander and Ebb collaboration.\nThe musical focuses on Anna, the owner of a dilapidated roller skating rink on the boardwalk of a decaying seaside resort, who has decided to sell it to developers. Complicating her plans are her prodigal daughter Angel, who returns to town seeking to reconnect with the people and places she long ago left behind. Through a series of flashbacks, revelations, and minimal forward-moving plot development, the two deal with their pasts in their attempt to reconcile and move on with their lives.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Rink_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-wonderful-wizard-of-oz": {
+      "slug": "the-wonderful-wizard-of-oz",
+      "title": "The Wonderful Wizard of Oz",
+      "qid": "Q16956212",
+      "enwiki": "The Wonderful Wizard of Oz (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Wonderful_Wizard_of_Oz_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q16956212"
+      },
+      "summary": {
+        "text": "The Wonderful Wizard of Oz is a 1900 children's novel written by American author L. Frank Baum. Since its first publication in 1900, it has been adapted many times by L. Frank Baum and others: for film, television, theatre, books, comics, games, and other media.\nBaum was responsible for many early adaptations, including the 1902 musical The Wizard of Oz,  which was an enormous success on Broadway. The casting of comedians Fred Stone as the Scarecrow and David C. Montgomery as the Tin Woodman was especially praised. Baum featured the two characters in his second Oz book, The Marvelous Land of Oz (1904), with the hopes of turning that into a stage play as well, with Stone and Montgomery in the lead roles. When the two actors declined to participate, Baum rewrote the story as The Woggle-Bug in 1905, which was a critical and commercial failure.\nFollowing this, Baum was responsible for several more adaptations of the Oz series. His 1906 multimedia presentation, The Fairylogue and Radio-Plays, toured for two months. A further musical, The Tik-Tok Man of Oz, was staged in 1913. Baum also began a short-lived film company, The Oz Manufacturing Company, and released three short films, beginning with The Patchwork Girl of Oz in 1914.\nThe most celebrated adaptation of the Oz books is the 1939 feature-length musical starring Judy Garland, which has been hailed as the most-seen film in history. Other notable film adaptations include The Wiz (1978), Return to Oz (1985), and Oz the Great and Powerful (2013). Another acclaimed production is the 2003 Broadway and West End musical Wicked, based on the 1995 revisionist novel Wicked: The Life and Times of the Wicked Witch of the West by Gregory Maguire. The musical itself has since been adapted into a successful two-part film.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Wonderful_Wizard_of_Oz_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

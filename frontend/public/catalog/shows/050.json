@@ -1,0 +1,535 @@
+{
+  "live": true,
+  "shows": {
+    "ace-of-clubs": {
+      "slug": "ace-of-clubs",
+      "title": "Ace of Clubs",
+      "qid": "Q4673032",
+      "enwiki": "Ace of Clubs (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Ace_of_Clubs_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4673032"
+      },
+      "summary": {
+        "text": "Ace of Clubs is a musical written, composed and directed by Noël Coward. The show is set in a 1949 London nightclub called \"The Ace of Clubs\". A nightclub singer, Pinkie Leroy, falls in love with a sailor. Pinkie and her lover get mixed up with gangsters, a lost package and a missing diamond necklace. In the end, the police arrest the perpetrators, and Pinkie gets her man.\nThe musical premiered at the Palace Theatre, Manchester, in May 1950 and played in Liverpool and Birmingham before opening in the West End at the Cambridge Theatre in July. It ran there for 211 performances, receiving mixed to positive reviews. The cast included Pat Kirkwood, Sylvia Cecil, Graham Payn, Jean Carson and Myles Eason. Despite its modest run, Ace of Clubs contained several songs that survived independently, in Coward's later cabaret acts and elsewhere, including \"Sail Away\" and \"I Like America\". A CD of the original London cast recording was released in 2004.\nA revival played in 1999 at the New Wimbledon Theatre.",
+        "source_url": "https://en.wikipedia.org/wiki/Ace_of_Clubs_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "an-artist-s-model": {
+      "slug": "an-artist-s-model",
+      "title": "An Artist's Model",
+      "qid": "Q4749818",
+      "enwiki": "An Artist's Model",
+      "composers": [
+        {
+          "name": "Sidney Jones",
+          "qid": "Q926850",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11958"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Harry Greenbank",
+          "qid": "Q5669257",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12917"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Owen Hall",
+          "qid": "Q7114495",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7982"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/An_Artist's_Model",
+        "wikidata": "https://www.wikidata.org/wiki/Q4749818"
+      },
+      "summary": {
+        "text": "An Artist's Model is a two-act musical by Owen Hall, with lyrics by Harry Greenbank and music by Sidney Jones, with additional songs by Joseph and Mary Watson, Paul Lincke, Frederick Ross, Henry Hamilton and Leopold Wenzel.  It opened at Daly's Theatre in London, produced by George Edwardes and directed by James T. Tanner, on 2 February 1895, transferring to the Lyric Theatre on 28 May 1895, and ran for a total of 392 performances.  The piece starred Marie Tempest (and later Florence Perry) in the title role, Hayden Coffin, Letty Lind, Leonora Braham, Eric Lewis, Maurice Farkoa, Marie Studholme, and Louie Pounds.  It also had a Broadway run at the former Broadway Theatre from 21 December 1895 through 8 February 1896.\nThe success of A Gaiety Girl in 1893, the first musical by the team of Hall, Greenbank and Jones (followed by another such success, The Shop Girl in 1894), had confirmed to Edwardes that he was on the right track.  He immediately set the team to work on An Artist's Model.  Edwardes wanted his Daly's Theatre musicals to be slightly more sophisticated than his light and simple Gaiety Theatre musicals.  Hall's new book kept the snappy dialogue of the previous work, but paired it with a romantic plot, tacked on at the last minute when Edwardes managed to engage the popular Marie Tempest, and a role was quickly written in for her.  This lucky chance set up the formula for a series of successes for the Edwardes-Hall-Jones-Greenbank team at Daly's Theatre.\nThe story is set in France. The eponymous model, having married a millionaire and been left a widow, returns to the studio in order to recover the affections of a lovelorn artist. He repulses her advances and she becomes engaged to an English nobleman, but then the artist woos her. The Times opening night review thought the story was weak (it was likely edited after that) but praised the lyrics and music.\nAn Artist's Model was succeeded by The Geisha, which was to be the biggest international hit the British musical theatre had known, playing for 760 performances in its original London run and thousands of performances on the Continent (one source counts some 8,000 in Germany alone) and in America and then touring for decades in Britain.  Still more hits followed.",
+        "source_url": "https://en.wikipedia.org/wiki/An_Artist's_Model",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "breakfast-at-tiffany-s": {
+      "slug": "breakfast-at-tiffany-s",
+      "title": "Breakfast at Tiffany's",
+      "qid": "Q4959470",
+      "enwiki": "Breakfast at Tiffany's (musical)",
+      "composers": [
+        {
+          "name": "Bob Merrill",
+          "qid": "Q3641319",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12139"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Bob Merrill",
+          "qid": "Q3641319",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12139"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Edward Albee",
+          "qid": "Q219420",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5258"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/10537",
+        "wikipedia": "https://en.wikipedia.org/wiki/Breakfast_at_Tiffany's_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4959470"
+      },
+      "summary": {
+        "text": "Breakfast at Tiffany's is a musical with music and lyrics by Bob Merrill and a book originally by Abe Burrows but rewritten during pre-Broadway tryouts by Edward Albee. It is based on the 1958 Truman Capote novella and 1961 film of the same name about a free spirit named Holly Golightly.\nAfter tryouts in Philadelphia and Boston, and only four previews on Broadway in 1966, the show was closed by producer David Merrick at a total financial loss. Its only revival was a staged concert in 2013 at a 200-seat venue in London.  A studio recording was released in 2001.\nThe musical is one of the most notorious fiascos in Broadway history. William Goldman called it a \"legendary production\" meaning \"a certain kind of Broadway show that by virtue of its birth agonies and the resulting publicity achieves an immortality most productions never dare aspire to.\" (Other examples he gave were Buttrio Square and Portofino.)",
+        "source_url": "https://en.wikipedia.org/wiki/Breakfast_at_Tiffany's_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "dorothy-fields-forever": {
+      "slug": "dorothy-fields-forever",
+      "title": "Dorothy Fields Forever",
+      "qid": "Q112061729",
+      "enwiki": "Dorothy Fields Forever",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Dorothy_Fields_Forever",
+        "wikidata": "https://www.wikidata.org/wiki/Q112061729"
+      },
+      "summary": {
+        "text": "Dorothy Fields Forever is a musical revue featuring the lyrics and life of Dorothy Fields and the music of Jerome Kern, Jimmy McHugh, Arthur Schwartz, Albert Hague, Sigmund Romberg and Cy Coleman.\n\nIt was devised and written by Eden Phillips, and co-devised and directed by David Kernan, with musical arrangements by Jason Carr and Nathan Martin. Choreography was by Nick Winston and the musical director was Nathan Martin.",
+        "source_url": "https://en.wikipedia.org/wiki/Dorothy_Fields_Forever",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "flahooley": {
+      "slug": "flahooley",
+      "title": "Flahooley",
+      "qid": "Q1822004",
+      "enwiki": "Flahooley",
+      "composers": [
+        {
+          "name": "Sammy Fain",
+          "qid": "Q742896",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11649"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Yip Harburg",
+          "qid": "Q1273621",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5177"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Yip Harburg",
+          "qid": "Q1273621",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5177"
+        },
+        {
+          "name": "Fred Saidy",
+          "qid": "Q5496209",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5660"
+        }
+      ],
+      "premiere": {
+        "date": "1951",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3591",
+        "wikipedia": "https://en.wikipedia.org/wiki/Flahooley",
+        "wikidata": "https://www.wikidata.org/wiki/Q1822004"
+      },
+      "summary": {
+        "text": "Flahooley is a musical with a book by E. Y. Harburg and Fred Saidy, lyrics by Harburg, and music by Sammy Fain.",
+        "source_url": "https://en.wikipedia.org/wiki/Flahooley",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "follow-thru": {
+      "slug": "follow-thru",
+      "title": "Follow Thru",
+      "qid": "Q5464720",
+      "enwiki": "Follow Thru (musical)",
+      "composers": [
+        {
+          "name": "Ray Henderson",
+          "qid": "Q1980821",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8253"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Lew Brown",
+          "qid": "Q4096110",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7310"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3640",
+        "wikipedia": "https://en.wikipedia.org/wiki/Follow_Thru_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5464720"
+      },
+      "summary": {
+        "text": "Follow Thru is a musical comedy with book by B. G. DeSylva and Laurence Schwab, lyrics by B. G. DeSylva and Lew Brown, and music by Ray Henderson.\nProduced by Laurence Schwab and Frank Mandel, the Broadway production opened on January 9, 1929 at the Chanin's 46th St. Theatre and ran through December 21, 1929 for a total run of 401 performances. The show was directed by Edgar MacGregor, choreographed by Bobby Connolly, and used set designs by Donald Oenslager. The cast included Lilian Bond,  Jack Haley, Zelma O’Neal, John Barker and Eleanor Powell.\nCalled “a musical slice of country club life”, the plot involved a golf match at a country club. This was the first Broadway success for Eleanor Powell. The show produced several songs that are now standards, including “Button Up Your Overcoat”, “My Lucky Star”, and “I Want to be Bad”.",
+        "source_url": "https://en.wikipedia.org/wiki/Follow_Thru_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "i-dream": {
+      "slug": "i-dream",
+      "title": "I Dream",
+      "qid": "Q5977051",
+      "enwiki": "I Dream (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2010-07",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "http://www.IDreamOpera.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/I_Dream_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5977051"
+      },
+      "summary": {
+        "text": "I Dream is a musical by Douglas Tappin, who serves as the librettist, composer and lyricist. The production narrates the life of Martin Luther King Jr., culminating in the events surrounding Martin Luther King Jr.'s assassination. Premiering in Atlanta in 2010, I Dream skillfully blends musical theatre and rhythm and blues to highlight the pivotal moments of the Civil Rights Movement, as well as Dr. King's personal struggles. Over time, the production transformed into semi-staged opera performances across various cities, but it has now returned to its original musical format.",
+        "source_url": "https://en.wikipedia.org/wiki/I_Dream_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "loserville": {
+      "slug": "loserville",
+      "title": "Loserville",
+      "qid": "Q6683579",
+      "enwiki": "Loserville",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Loserville",
+        "wikidata": "https://www.wikidata.org/wiki/Q6683579"
+      },
+      "summary": {
+        "text": "Loserville is a musical with music and lyrics by James Bourne and Elliot Davis, originally created for Youth Music Theatre UK. The story is based on an album, Welcome to Loserville from Bourne's second band, Son of Dork. \nLoserville was first performed at South Hill Park Arts Centre in Bracknell by Youth Music Theatre UK in 2009. It then played at the West Yorkshire Playhouse in mid-2012 before opening at the Garrick Theatre in the West End later the same year.",
+        "source_url": "https://en.wikipedia.org/wiki/Loserville",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "pretty-woman": {
+      "slug": "pretty-woman",
+      "title": "Pretty Woman",
+      "qid": "Q48964872",
+      "enwiki": "Pretty Woman (musical)",
+      "composers": [
+        {
+          "name": "Bryan Adams",
+          "qid": "Q482907",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/517019"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "playbill": "https://playbill.com/production/pretty-woman-the-musical-nederlander-theatre",
+        "official_site": "https://prettywomanthemusical.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/Pretty_Woman_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q48964872"
+      },
+      "summary": {
+        "text": "Pretty Woman is a musical with music and lyrics by Bryan Adams and Jim Vallance, and a book by Garry Marshall and J. F. Lawton. The musical is based on the 1990 film of the same name written by Lawton and directed by Marshall. It centers on the relationship that develops between Vivian Ward, a free-spirited Hollywood prostitute, and Edward Lewis, a wealthy businessman who hires her for a week to be his escort for several business and social functions.\nThe original production of Pretty Woman premiered at the Oriental Theatre, Chicago in March 2018, with direction and choreography by Jerry Mitchell, and starring Samantha Barks and Steve Kazee, as Vivian and Edward. It made its Broadway debut at the David T. Nederlander Theatre on August 16, 2018, and closed one year later on August 18, 2019.",
+        "source_url": "https://en.wikipedia.org/wiki/Pretty_Woman_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "rebecca": {
+      "slug": "rebecca",
+      "title": "Rebecca",
+      "qid": "Q1777762",
+      "enwiki": "Rebecca (musical)",
+      "composers": [
+        {
+          "name": "Sylvester Levay",
+          "qid": "Q694658"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Michael Kunze",
+          "qid": "Q69773",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/87962"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Michael Kunze",
+          "qid": "Q69773",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/87962"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Rebecca_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1777762"
+      },
+      "summary": {
+        "text": "Rebecca is a musical adaptation of the 1938 novel of the same name by Daphne du Maurier. It was composed by Sylvester Levay with German book and lyrics by Michael Kunze. The plot, which adheres closely to the original novel, revolves around wealthy Maxim DeWinter, his naïve new wife, called \"I\" (\"Ich\" in the German version), and Mrs. Danvers, the manipulative housekeeper of DeWinter's Cornish estate Manderley. Mrs. Danvers resents the new wife's intrusion and persuades her that she is an unworthy replacement for DeWinter's first wife, the glamorous and mysterious Rebecca, who perished in a drowning accident. The new Mrs. DeWinter struggles to find her identity and take control of her life among the shadows left by Rebecca.\nThe musical premiered on 28 September 2006 at the Raimund Theater in Vienna, Austria, where it ran for three years. Subsequent productions have been mounted in Finland, Korea, Japan and elsewhere in Europe. The first English-language production, in a translation by Christopher Hampton and Kunze, began on 4 September and ended on 18 November 2023 at the Charing Cross Theatre in London.",
+        "source_url": "https://en.wikipedia.org/wiki/Rebecca_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "somewhere-else": {
+      "slug": "somewhere-else",
+      "title": "Somewhere Else",
+      "qid": "Q125217047",
+      "enwiki": "Somewhere Else (musical)",
+      "composers": [
+        {
+          "name": "Gustav Luders",
+          "qid": "Q13648900",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12082"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Avery Hopwood",
+          "qid": "Q2479506",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4388"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Somewhere_Else_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q125217047"
+      },
+      "summary": {
+        "text": "Somewhere Else is a musical in two acts with music by Gustav Luders and both book and lyrics by Avery Hopwood. It premiered at the Broadway Theatre on January 20, 1913. It was harshly reviewed in the press and lasted only one week on Broadway. It was Luders' final stage work, and he died of a heart attack on January 24, 1913, during this production's brief run, an event which may have been precipitated by the stress of the public negative reaction to the work. The production closed on January 25, 1913, after just eight performances.\nDirected by Frank Smithson and produced by Henry W. Savage, Somewhere Else starred Cecil Cunningham as Mary VII, Queen of the fictional country \"Somewhere Else\".",
+        "source_url": "https://en.wikipedia.org/wiki/Somewhere_Else_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-band-s-visit": {
+      "slug": "the-band-s-visit",
+      "title": "The Band's Visit",
+      "qid": "Q30610908",
+      "enwiki": "The Band's Visit (musical)",
+      "composers": [
+        {
+          "name": "David Yazbek",
+          "qid": "Q5241354",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/75798"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Itamar Moses",
+          "qid": "Q12403865",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/492752"
+        }
+      ],
+      "premiere": {
+        "date": "2016",
+        "venue": "Atlantic Theater Company"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/514963",
+        "official_site": "https://thebandsvisitmusical.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Band's_Visit_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q30610908"
+      },
+      "summary": {
+        "text": "The Band's Visit is a stage musical with music and lyrics by David Yazbek and a book by Itamar Moses, based on the 2007 Israeli film of the same name. The musical opened on Broadway at the Ethel Barrymore Theatre in November 2017, after its off-Broadway premiere at the Atlantic Theater Company in December 2016.\nThe Band's Visit has received critical acclaim. Its off-Broadway production won several major awards, including the 2017 Obie Award for Musical Theatre, as well the year's New York Drama Critics' Circle Award for Best Musical. At the 72nd Tony Awards, it was nominated for 11 awards and won 10, including Best Musical. The Band's Visit is one of four musicals in Broadway history to win the unofficial \"Big Six\" Tony Awards, which include Best Musical, Best Book, Best Score, Best Actor in a Musical, Best Actress in a Musical, and Best Direction of a Musical. It won the 2019 Grammy Award for Best Musical Theater Album.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Band's_Visit_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-fantasticks": {
+      "slug": "the-fantasticks",
+      "title": "The Fantasticks",
+      "qid": "Q4481121",
+      "enwiki": "The Fantasticks",
+      "composers": [
+        {
+          "name": "Harvey Schmidt",
+          "qid": "Q1587936",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12362"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Tom Jones",
+          "qid": "Q2439753",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8906"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": "1960-05-03",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Fantasticks",
+        "wikidata": "https://www.wikidata.org/wiki/Q4481121"
+      },
+      "summary": {
+        "text": "The Fantasticks is a musical with music by Harvey Schmidt and lyrics and a book by Tom Jones, loosely based on the 1894 play Les Romanesques by Edmond Rostand. It tells an allegorical story concerning two neighboring parents who employ reverse psychology to get their children to fall in love by pretending to feud.\nThe show's original off-Broadway production ran a total of 42 years (until 2002) and 17,162 performances, making it the world's longest-running musical. The musical was produced by Lore Noto. It was awarded Tony Honors for Excellence in Theatre in 1992. The poetic book and breezy, inventive score, including such memorable songs as \"Try to Remember\", helped make the show durable. Many productions followed, as well as television and film versions. The Fantasticks has become a staple of regional, community and high school productions since its premiere, with approximately 250 new productions each year. It is played with a small cast, two- to three-person orchestra and minimalist set design.\nThe show was revived off Broadway from 2006 to 2017. As of 2010, its original investors had earned 240 times their original investments. The first Broadway production began in October 2026. The musical has played in all 50 US states and in at least 67 foreign countries.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Fantasticks",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-island-of-doctor-moron": {
+      "slug": "the-island-of-doctor-moron",
+      "title": "The Island of Doctor Moron",
+      "qid": "Q19879917",
+      "enwiki": "The Island of Doctor Moron",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "http://www.theislandofdoctormoron.com.au/",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Island_of_Doctor_Moron",
+        "wikidata": "https://www.wikidata.org/wiki/Q19879917"
+      },
+      "summary": {
+        "text": "The Island of Doctor Moron is a rock musical written by Chris Dockrill, with music by his wife Lyn Dockrill.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Island_of_Doctor_Moron",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-passing-show-of-1918": {
+      "slug": "the-passing-show-of-1918",
+      "title": "The Passing Show of 1918",
+      "qid": "Q7756250",
+      "enwiki": "The Passing Show of 1918",
+      "composers": [
+        {
+          "name": "Sigmund Romberg",
+          "qid": "Q742945",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8686"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6965",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Passing_Show_of_1918",
+        "wikidata": "https://www.wikidata.org/wiki/Q7756250"
+      },
+      "summary": {
+        "text": "The Passing Show of 1918 is a Broadway musical revue featuring music of Sigmund Romberg and Jean Schwartz (and other songwriters), with book and lyrics by Harold Atteridge.  The show introduced the hit songs \"I'm Forever Blowing Bubbles\" and \"Smiles\".\nStaged by J. C. Huffman and choreographed by Jack Mason, the show debuted at the Winter Garden Theater on July 25, 1918. Playing for 142 performances, it closed on November 9 of the same year. The show was produced by Lee and Jacob J. Shubert. The production featured an early appearance of Fred Astaire (with his sister Adele). The New York Times called it \"rattling good entertainment\" and praised the \"vaudeville team\" of Fred and Adele Astaire, as well as the brothers Willie and Eugene Howard.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Passing_Show_of_1918",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "yvonne": {
+      "slug": "yvonne",
+      "title": "Yvonne",
+      "qid": "Q16966131",
+      "enwiki": "Yvonne (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Yvonne_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q16966131"
+      },
+      "summary": {
+        "text": "Yvonne is a musical comedy with a book and lyrics by Percy Greenbank and music by Jean Gilbert and Vernon Duke (at that time still using his birth name of Dukelsky). It was adapted by Greenbank from an Austrian musical of the same name. Some additional songs were written by the show's conductor, Arthur Wood. The story concerns an engaged young lady, Yvonne Savigny, the daughter of old professor who loves riotous gaiety. To avoid trouble, she impersonates an absent music hall star at the Scala Music Hall. A young man has fallen in love with Yvonne and disguises himself as a servant in her father's house. After various complications, Yvonne leaves her silly fiancé for the amorous suitor and all ends happily.\nYvonne was first played in the British provinces before premiering at Daly's Theatre, London, in May 1926, directed by Herbert Mason and produced by the company originally created by impresario George Edwardes. Ivy Tresmand took the title role, and Arthur Pusey co-starred as Yvonne's suitor. Other cast members included Maria Minetti, who played the music hall star; Mark Lester as Professor Savigny, Horace Percival and later Gene Gerrard as the hapless fiancé, and American dancer Hal Sherman as a comic waiter and gardener. After its London run of 280 performances, the company again toured the productionin the UK.\nThe musical did not go down well with critics; Noël Coward was one of those who disliked it, referring to it as \"Yvonne the Terrible\". It was Greenbank's last major work for the West End stage.",
+        "source_url": "https://en.wikipedia.org/wiki/Yvonne_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

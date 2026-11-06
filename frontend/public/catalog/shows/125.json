@@ -1,0 +1,660 @@
+{
+  "live": true,
+  "shows": {
+    "13": {
+      "slug": "13",
+      "title": "13",
+      "qid": "Q3597401",
+      "enwiki": "13 (musical)",
+      "composers": [
+        {
+          "name": "Jason Robert Brown",
+          "qid": "Q1683976",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11446"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Robert Horn",
+          "qid": "Q22101589",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/391751"
+        }
+      ],
+      "premiere": {
+        "date": "2007",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/480452",
+        "official_site": "http://www.13themusical.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/13_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q3597401"
+      },
+      "summary": {
+        "text": "13 is a musical with music and lyrics by Jason Robert Brown and book by Dan Elish and Robert Horn.\nFollowing a move from New York City to small-town Indiana, young Evan Goldman grapples with his parents' divorce, prepares for his impending Bar Mitzvah, and navigates the complicated social circles of a new school. 13 is the only Broadway musical ever with a cast and band entirely made of teenagers. \nThe Broadway production opened October 5, 2008 at the Bernard B. Jacobs Theatre, and closed January 4, 2009. Directed by Jeremy Sams, the original Broadway production is notable for the professional debuts of Ariana Grande and Elizabeth Gillies, who went on to costar in the Nickelodeon television series Victorious.\nNetflix released a 2022 film adaptation, to mixed reviews.",
+        "source_url": "https://en.wikipedia.org/wiki/13_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "abe": {
+      "slug": "abe",
+      "title": "Abe",
+      "qid": "Q4666363",
+      "enwiki": "Abe (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Abe_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4666363"
+      },
+      "summary": {
+        "text": "Abe is a musical in two acts based on the life of President Abraham Lincoln with book & lyrics by Lee Goldsmith, music by Roger Anderson and orchestration by Greg Anthony.  The musical covers the life of Abraham Lincoln from his earliest attempts at self-improvement through the 1860 election which made him the 16th president of an already fracturing United States.  Also explored is Lincoln's youth as a flatboat pilot on the Mississippi, his early love for Ann Rutledge, his troubled marriage to the difficult and mentally fragile Mary Todd, and his attempt to be a good father to his sons.",
+        "source_url": "https://en.wikipedia.org/wiki/Abe_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "airs-on-a-shoestring": {
+      "slug": "airs-on-a-shoestring",
+      "title": "Airs on a Shoestring",
+      "qid": "Q30692571",
+      "enwiki": "Airs on a Shoestring",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Airs_on_a_Shoestring",
+        "wikidata": "https://www.wikidata.org/wiki/Q30692571"
+      },
+      "summary": {
+        "text": "Airs on a Shoestring was a British musical revue, first staged at the Royal Court Theatre in London on 22 April 1953.\nDescribed as \"an intimate revue\", the show was devised and directed by Laurier Lister. Cast members included Max Adrian, Madeleine Dring, Moyra Fraser, Betty Marsden, and Denis Quilley. Musical numbers featured material by Michael Flanders and Donald Swann.\nThe show toured until March 1955, achieving a total of 772 performances.",
+        "source_url": "https://en.wikipedia.org/wiki/Airs_on_a_Shoestring",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "arms-and-the-girl": {
+      "slug": "arms-and-the-girl",
+      "title": "Arms and the Girl",
+      "qid": "Q116893951",
+      "enwiki": "Arms and the Girl (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1680",
+        "wikipedia": "https://en.wikipedia.org/wiki/Arms_and_the_Girl_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q116893951"
+      },
+      "summary": {
+        "text": "Arms and the Girl is a 1950 Broadway musical with a book by Herbert Fields, Dorothy Fields, and Rouben Mamoulian, music by Morton Gould, and lyrics by Dorothy Fields. The show is based on the play The Pursuit of Happiness by Lawrence Langner and Armina Marshall. It opened at the 46th Street Theatre on February 2, 1950, and closed on May 27 after 134 performances.",
+        "source_url": "https://en.wikipedia.org/wiki/Arms_and_the_Girl_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "cowardy-custard": {
+      "slug": "cowardy-custard",
+      "title": "Cowardy Custard",
+      "qid": "Q5179476",
+      "enwiki": "Cowardy Custard",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Cowardy_Custard",
+        "wikidata": "https://www.wikidata.org/wiki/Q5179476"
+      },
+      "summary": {
+        "text": "Cowardy Custard is a musical revue and was one of the last Noël Coward shows staged during his life. It was devised by Gerald Frow, Alan Strachan and Wendy Toye. A book, also titled Cowardy Custard, was published in connection with the revue, similarly celebrating the Coward image.\nThe biographical revue premiered in London in 1972, running for 405 performances. A revised version toured in the UK in 2011.\nThe term \"cowardy custard\" is a taunt used by children in the UK equivalent to \"scaredy cat\" in the US.",
+        "source_url": "https://en.wikipedia.org/wiki/Cowardy_Custard",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "eating-raoul": {
+      "slug": "eating-raoul",
+      "title": "Eating Raoul",
+      "qid": "Q5331285",
+      "enwiki": "Eating Raoul (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Eating_Raoul_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5331285"
+      },
+      "summary": {
+        "text": "Eating Raoul is a musical with music by Jed Feuer, lyrics by Boyd Graham, and a book by Paul Bartel and Richard Blackburn. It is based on the 1982 movie of the same name.\nThe story focuses on Mary and Paul Bland, a couple of \"squares\", in the late 1960s, who want to raise money to open a restaurant. They decide to kill swingers for profit by hitting them on the head with a frying pan. They become involved with a partner, Raoul, their swarthy, sexy janitor, who helps them to dispose of the bodies. However, they soon feel trapped by Raoul and dispatch him too; he becomes the main course.\nThe musical opened Off-Broadway at the Union Square Theatre on May 13, 1992, starring Courtenay Collins, Eddie Korbich and Adrian Zmed.  It was directed by Toni Kotite and choreographed by Lynne Taylor-Corbett. Since then it has received numerous regional productions.",
+        "source_url": "https://en.wikipedia.org/wiki/Eating_Raoul_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "gay-s-the-word": {
+      "slug": "gay-s-the-word",
+      "title": "Gay's the Word",
+      "qid": "Q16992676",
+      "enwiki": "Gay's the Word (musical)",
+      "composers": [
+        {
+          "name": "Ivor Novello",
+          "qid": "Q436693",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6484"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Alan Melville",
+          "qid": "Q4707314",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9534"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Ivor Novello",
+          "qid": "Q436693",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6484"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Gay's_the_Word_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q16992676"
+      },
+      "summary": {
+        "text": "Gay's the Word is a musical with book and music by Ivor Novello and lyrics by Alan Melville. The musical is a backstage comedy that parodies Novello's own swashbuckling Ruritanian romance plots. The story centres on Gay Daventry, a bankrupt operetta producer who opens a drama school at her country house. This also turns out to be unsuccessful, but it leads to a theatrical comeback for Gay.\nThe musical premiered at the Palace Theatre, Manchester, England, on 17 October 1950. It transferred to the Saville Theatre in London, opening there on 16 February 1951, where it ran for 504 performances and starred Cicely Courtneidge as Gay, Lizbeth Webb as Linda, and Thorley Walters. While it embraced the new style of musical theatre from America, it also contained traditional British humour for Courtneidge and glamorous soprano solos for Webb. The British Theatre Guide concludes: \"The musical was never that good and without [Courtneidge] it would most certainly have failed. But with her, thanks to her indefatigable vitality, the show was a hit.\" This was Ivor Novello's last musical, and he died a month after it opened, aged 58.\nThe musical was revived in 2012 at the Finborough Theatre, London, with a book revised by Richard Stirling, directed and choreographed by Stewart Nicholls.",
+        "source_url": "https://en.wikipedia.org/wiki/Gay's_the_Word_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "joy": {
+      "slug": "joy",
+      "title": "Joy",
+      "qid": "Q120487745",
+      "enwiki": "Joy (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Joy_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q120487745"
+      },
+      "summary": {
+        "text": "Joy is a 2022 stage musical with music and lyrics by AnnMarie Milazzo, and a book by Ken Davenport. It is based on the life story of entrepreneur and inventor Joy Mangano, using her autobiography Inventing Joy and the 2015 film Joy as a basis for the story.\nThe show debuted in New Jersey at the George Street Playhouse in 2022, with previews beginning on December 9 and a premiere date on December 16.",
+        "source_url": "https://en.wikipedia.org/wiki/Joy_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "mulan-jr": {
+      "slug": "mulan-jr",
+      "title": "Mulan Jr.",
+      "qid": "Q18152817",
+      "enwiki": "Mulan Jr.",
+      "composers": [],
+      "lyricists": [
+        {
+          "name": "David Zippel",
+          "qid": "Q3703386",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13425"
+        },
+        {
+          "name": "Alexa Junge",
+          "qid": "Q4718080"
+        },
+        {
+          "name": "Stephen Schwartz",
+          "qid": "Q542484",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/108290"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Mulan_Jr.",
+        "wikidata": "https://www.wikidata.org/wiki/Q18152817"
+      },
+      "summary": {
+        "text": "Mulan Jr. is a one-act stage musical based on the 1998 Disney animated film Mulan, which in turn was based on the Chinese legend of Hua Mulan and the story \"Fa Mulan\" by Robert D. San Souci. The adaptation mixes songs featured in the 1998 film as well as deleted songs from the film, including the revival of songs written by Stephen Schwartz, who was the original composer for the 1998 film before leaving to work on The Prince of Egypt. The musical is G-rated, any mature content from the sources it is based on having been deleted in the adaptation. The cast includes 26 roles plus an ensemble. The show was taken down from MTI's website in the summer of 2020, but it's being considered as a re-release but no date is currently set for if that does happen.",
+        "source_url": "https://en.wikipedia.org/wiki/Mulan_Jr.",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "on-the-town": {
+      "slug": "on-the-town",
+      "title": "On the Town",
+      "qid": "Q15694166",
+      "enwiki": "On the Town (musical)",
+      "composers": [
+        {
+          "name": "Leonard Bernstein",
+          "qid": "Q152505",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7257"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Betty Comden",
+          "qid": "Q175078",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4525"
+        },
+        {
+          "name": "Adolph Green",
+          "qid": "Q329849",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3911"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Betty Comden",
+          "qid": "Q175078",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4525"
+        },
+        {
+          "name": "Adolph Green",
+          "qid": "Q329849",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3911"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6753",
+        "wikipedia": "https://en.wikipedia.org/wiki/On_the_Town_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q15694166"
+      },
+      "summary": {
+        "text": "On the Town is a musical with music by Leonard Bernstein and book and lyrics by Betty Comden and Adolph Green, based on Jerome Robbins' idea for his  1944 ballet Fancy Free, which he had set to Bernstein's music. The musical introduced several popular and classic songs, among them \"New York, New York\", \"Lonely Town\", \"I Can Cook, Too\" (for which Bernstein also wrote the lyric), and \"Some Other Time\". The story concerns three American sailors on a 24-hour shore leave in New York City in 1944, during World War II. Each of the three sailors meets and quickly connects with a woman.\nOn the Town was first produced on Broadway in 1944 and was made into a film in 1949, although the film replaced all but four of the original Broadway numbers with Hollywood-written substitutes. The show has enjoyed several major revivals. The musical integrates dance into its storytelling: Robbins made several ballets and extended dance sequences for the show, including the \"Imaginary Coney Island\" ballet.",
+        "source_url": "https://en.wikipedia.org/wiki/On_the_Town_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "pastrana": {
+      "slug": "pastrana",
+      "title": "Pastrana",
+      "qid": "Q20874862",
+      "enwiki": "Pastrana (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Pastrana_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q20874862"
+      },
+      "summary": {
+        "text": "Pastrana is an Australian musical by Allan McFadden and Peter Northwood. It is based on the true 19th century story of Julia Pastrana, a Mexican woman who was born with canine-like teeth and a thick mat of hair, but was also a singer. The musical traces her journey from Mexico to touring the United States and Europe under the managership of Charles Lent; a man whom she later married.",
+        "source_url": "https://en.wikipedia.org/wiki/Pastrana_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "scarrie-the-musical": {
+      "slug": "scarrie-the-musical",
+      "title": "Scarrie! The Musical",
+      "qid": "Q7430511",
+      "enwiki": "Scarrie! The Musical",
+      "composers": [
+        {
+          "name": "David Cerda",
+          "qid": "Q5232265"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "David Cerda",
+          "qid": "Q5232265"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Scarrie!_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q7430511"
+      },
+      "summary": {
+        "text": "Scarrie! the Musical (originally s'Carrie the Musical) is an unauthorized musical stage spoof of the 1976 Brian De Palma film Carrie  based on the 1974 novel of the same name by Stephen King, the tale of a high school misfit. The musical had a script by David Cerda with music and lyrics by Cerda, Scott Lamberty and Taylor E. Ross. The musical spoof played in two different productions in Illinois. The musical uses a 1970s influenced score and \"lots of pigs blood\".",
+        "source_url": "https://en.wikipedia.org/wiki/Scarrie!_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "set-to-music": {
+      "slug": "set-to-music",
+      "title": "Set to Music",
+      "qid": "Q7456317",
+      "enwiki": "Set to Music",
+      "composers": [
+        {
+          "name": "Noël Coward",
+          "qid": "Q298388",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/36502"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Noël Coward",
+          "qid": "Q298388",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/36502"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7874",
+        "wikipedia": "https://en.wikipedia.org/wiki/Set_to_Music",
+        "wikidata": "https://www.wikidata.org/wiki/Q7456317"
+      },
+      "summary": {
+        "text": "Set to Music is a musical revue with sketches, music and lyrics by Noël Coward.\nProduced by John C. Wilson, the Broadway production opened on January 15, 1939 at the Music Box Theatre, where it ran for 129 performances. Directed by Coward, the revue starred Beatrice Lillie.\nThis show originated in 1932 under the title of Words and Music, with a London production at the Adelphi Theatre.  It consisted of a series of sketches, some with songs.  Seven years later, it was revised for Broadway as Set to Music.  The song \"Mad Dogs and Englishmen\", one of Coward's best-known songs, was dropped, and four new songs were added.  The sketches included \"A Fragonard Impression\", and \"Midnight Matinée\".",
+        "source_url": "https://en.wikipedia.org/wiki/Set_to_Music",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "soho-cinders": {
+      "slug": "soho-cinders",
+      "title": "Soho Cinders",
+      "qid": "Q7554751",
+      "enwiki": "Soho Cinders",
+      "composers": [
+        {
+          "name": "George Stiles",
+          "qid": "Q5544860",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/434332"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Anthony Drewe",
+          "qid": "Q4772423",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/434333"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Soho_Cinders",
+        "wikidata": "https://www.wikidata.org/wiki/Q7554751"
+      },
+      "summary": {
+        "text": "Soho Cinders is a musical with music by George Stiles, lyrics and a book by Anthony Drewe with Elliot Davis as co-author. A modern adaptation of the Cinderella story, it transfers the action to the heart of London's Soho, and replaces the eponymous heroine with Robbie, a young rent boy who gets wrapped up in an illicit affair with an aspiring politician. The plot intertwines elements of the classic fairy tale with contemporary urban political scandal.\nFirst showcased in 2008, the musical enjoyed a sold-out gala concert production in 2011, recorded live, to positive critical acclaim. A full-scale production of Soho Cinders premiered off-West End at the Soho Theatre in 2012.",
+        "source_url": "https://en.wikipedia.org/wiki/Soho_Cinders",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "starmania": {
+      "slug": "starmania",
+      "title": "Starmania",
+      "qid": "Q924458",
+      "enwiki": "Starmania (musical)",
+      "composers": [
+        {
+          "name": "Michel Berger",
+          "qid": "Q543613"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Luc Plamondon",
+          "qid": "Q591655"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Molière Award for Best Musical",
+          "qid": "Q3319547"
+        }
+      ],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Starmania_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q924458"
+      },
+      "summary": {
+        "text": "Starmania is a Canadian–French rock opera written in 1976 with music by Michel Berger and book and lyrics by Luc Plamondon. It debuted in 1978 with a studio recording of the songs, before premiering on stage in 1979. An English-language studio version was also produced in 1992, with lyrics by Tim Rice. Several stage revivals have been produced in France, Quebec and Germany, each with their distinctive styles. \nSeveral of its songs have passed into mainstream Francophone pop culture, and helped original cast members Daniel Balavoine and Diane Dufresne to rise in popularity in France. It is generally considered the most famous rock opera in French history.",
+        "source_url": "https://en.wikipedia.org/wiki/Starmania_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "sylvia": {
+      "slug": "sylvia",
+      "title": "Sylvia",
+      "qid": "Q56702258",
+      "enwiki": "Sylvia (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Sylvia_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q56702258"
+      },
+      "summary": {
+        "text": "Sylvia is a British musical with book by Kate Prince and Priya Parmar, with music by Josh Cohen and DJ Walde and lyrics by Prince based on the life of Sylvia Pankhurst.",
+        "source_url": "https://en.wikipedia.org/wiki/Sylvia_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-happiest-girl-in-the-world": {
+      "slug": "the-happiest-girl-in-the-world",
+      "title": "The Happiest Girl in the World",
+      "qid": "Q7738782",
+      "enwiki": "The Happiest Girl in the World",
+      "composers": [
+        {
+          "name": "Jacques Offenbach",
+          "qid": "Q41555",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7941"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Yip Harburg",
+          "qid": "Q1273621",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5177"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Fred Saidy",
+          "qid": "Q5496209",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5660"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4185",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Happiest_Girl_in_the_World",
+        "wikidata": "https://www.wikidata.org/wiki/Q7738782"
+      },
+      "summary": {
+        "text": "The Happiest Girl in the World is a musical with a book by Fred Saidy and Henry Mayers, lyrics by E.Y. Harburg, and music taken from the works of Jacques Offenbach.\nBased on the comedy Lysistrata by Aristophanes and tales of Greek mythology by Thomas Bulfinch, it focuses on the women of ancient Greece and Sparta who, inspired by virginal goddess Diana, vow to withhold sex from their husbands and lovers until they promise to put an end to their fighting. Complications ensue when Diana's uncle and underworld ruler Pluto balks at the notion of peace and attempts to derail her plan.\nThe Broadway production, directed by Cyril Ritchard and choreographed by Dania Krupska, opened on April 3, 1961, at the Martin Beck Theatre, where it ran for 98 performances. The cast included Ritchard in multiple roles (most notably that of Pluto), Janice Rule as Diana, and Lainie Kazan, David Canary, Ted Thurston, and Bruce Yarnell in supporting roles.\nKrupska was nominated for the Tony Award for Best Choreography and Yarnell won the Theatre World Award for his performance.\nAn original cast recording was released by Columbia Records.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Happiest_Girl_in_the_World",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-little-blue-devil": {
+      "slug": "the-little-blue-devil",
+      "title": "The Little Blue Devil",
+      "qid": "Q23092113",
+      "enwiki": "The Little Blue Devil",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5435",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Little_Blue_Devil",
+        "wikidata": "https://www.wikidata.org/wiki/Q23092113"
+      },
+      "summary": {
+        "text": "The Little Blue Devil was a musical comedy by Harold Atteridge and Harry Carroll that premiered on November 3, 1919 at the Central Theater on Broadway. It ran for 74 performances.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Little_Blue_Devil",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-magic-flute": {
+      "slug": "the-magic-flute",
+      "title": "The Magic Flute",
+      "qid": "Q7749425",
+      "enwiki": "The Magic Flute (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "qid": "Q254",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/485475"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Laurence Olivier Awards",
+          "qid": "Q28470"
+        }
+      ],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Magic_Flute_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7749425"
+      },
+      "summary": {
+        "text": "The Magic Flute (Impempe Yomlingo) is a musical theatre work adapted from the Wolfgang Amadeus Mozart opera of the same title by Mark Dornford-May, with words and music by Mandisi Dyantyis, Mbali Kgosidintsi, Pauline Malefane and Nolufefe Mtshabe. Mozart's score is transposed for an orchestra of marimbas, drums and township percussion. The musical, set in contemporary South Africa, re-interprets the story from a South African perspective, telling of Prince Tamino's quest to rescue Pamina (both of them are Xhosa-speaking teenagers), daughter of the Queen of the Night, from the Priest of the Sun.\nThe musical premiered in 2007 at the Baxter Theatre in Cape Town, South Africa, before beginning a tour to the United Kingdom. The production opened at the Young Vic Theatre in London over the festive season, 2007. The cast performed The Magic Flute and an adaptation of Charles Dickens' A Christmas Carol on alternate days for a nine-week run. The production won the Whatsonstage Theatregoers' Choice Award for Best Off-West End Production. Its success led to a transfer to the Duke of York's Theatre for a further run until 19 April, 2008. The musical won the Laurence Olivier Award for Best Musical Revival that year.\nFollowing its West End theatre season, the production toured to the Dublin Theatre Festival, the Chichester Festival Theatre and the Canterbury Festival. In November 2008, it returned to South Africa for a season at the Market Theatre in Johannesburg. It then played in Tokyo and elsewhere, concluding its tour at the Singapore Arts Festival in June 2009.\nThe production, directed by Dornford-May and choreographed by Lungelo Ngamlana, starred Dornford-May's wife, Pauline Malefane in the role of the Queen of the Night. It featured performers from the township of Khayelitsha in the Western Cape of South Africa. The Irish Times said that the work \"gets right to the heart of the opera's humanist message\".",
+        "source_url": "https://en.wikipedia.org/wiki/The_Magic_Flute_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "water-for-elephants": {
+      "slug": "water-for-elephants",
+      "title": "Water for Elephants",
+      "qid": "Q123560854",
+      "enwiki": "Water for Elephants (musical)",
+      "composers": [
+        {
+          "name": "PigPen Theatre Co.",
+          "qid": "Q124622992"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "PigPen Theatre Co.",
+          "qid": "Q124622992"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Rick Elice",
+          "qid": "Q7331368",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/394783"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/537966",
+        "wikipedia": "https://en.wikipedia.org/wiki/Water_for_Elephants_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q123560854"
+      },
+      "summary": {
+        "text": "Water for Elephants is a musical with music and lyrics by PigPen Theatre Co. and a book by Rick Elice. It is based on the 2006 novel of the same name by Sara Gruen.\nThe musical opened on Broadway starring Grant Gustin on March 20, 2024, at the Imperial Theatre following previews beginning February 24. Critical reviews were mixed, while receiving praise for its visual spectacle and production values. It received seven nominations at the 77th Tony Awards, including Best Musical. The Broadway musical closed on December 8, 2024.\nThe musical is licensed through Broadway Licensing.",
+        "source_url": "https://en.wikipedia.org/wiki/Water_for_Elephants_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

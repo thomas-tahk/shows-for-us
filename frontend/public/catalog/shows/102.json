@@ -1,0 +1,844 @@
+{
+  "live": true,
+  "shows": {
+    "a-christmas-carol-musical": {
+      "slug": "a-christmas-carol-musical",
+      "title": "A Christmas Carol",
+      "qid": "Q2282956",
+      "enwiki": "A Christmas Carol (musical)",
+      "composers": [
+        {
+          "name": "Alan Menken",
+          "qid": "Q317272",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12135"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Lynn Ahrens",
+          "qid": "Q293323",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7450"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Mike Ockrent",
+          "qid": "Q6848256",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/15804"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Christmas_Carol_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q2282956"
+      },
+      "summary": {
+        "text": "A Christmas Carol is a musical with music by Alan Menken, lyrics by Lynn Ahrens, and book by Mike Ockrent and Lynn Ahrens. The musical is based on Charles Dickens' 1843 novella of the same name. The show was presented annually at New York City's Theater at Madison Square Garden from December 1, 1994, to December 27, 2003.",
+        "source_url": "https://en.wikipedia.org/wiki/A_Christmas_Carol_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "a-day-in-hollywood-a-night-in-the-ukraine": {
+      "slug": "a-day-in-hollywood-a-night-in-the-ukraine",
+      "title": "A Day in Hollywood / A Night in the Ukraine",
+      "qid": "Q4656300",
+      "enwiki": "A Day in Hollywood / A Night in the Ukraine",
+      "composers": [],
+      "lyricists": [
+        {
+          "name": "Dick Vosburgh",
+          "qid": "Q3706975",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5046"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Dick Vosburgh",
+          "qid": "Q3706975",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5046"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1077",
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Day_in_Hollywood_%2F_A_Night_in_the_Ukraine",
+        "wikidata": "https://www.wikidata.org/wiki/Q4656300"
+      },
+      "summary": {
+        "text": "A Day in Hollywood / A Night in the Ukraine is a musical comedy consisting of two essentially independent one-act plays, with a book and lyrics by Dick Vosburgh and music by Frank Lazarus.  Additionally, songs by other composers are incorporated into the score. The musical premiered in the West End and then ran on Broadway.",
+        "source_url": "https://en.wikipedia.org/wiki/A_Day_in_Hollywood_%2F_A_Night_in_the_Ukraine",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "as-the-girls-go": {
+      "slug": "as-the-girls-go",
+      "title": "As the Girls Go",
+      "qid": "Q4803078",
+      "enwiki": "As the Girls Go",
+      "composers": [
+        {
+          "name": "Jimmy McHugh",
+          "qid": "Q1283031",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12130"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Harold Adamson",
+          "qid": "Q509206",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11286"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "William Roos",
+          "qid": "Q8017750"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1712",
+        "wikipedia": "https://en.wikipedia.org/wiki/As_the_Girls_Go",
+        "wikidata": "https://www.wikidata.org/wiki/Q4803078"
+      },
+      "summary": {
+        "text": "As the Girls Go is a musical with music by Jimmy McHugh, lyrics by Harold Adamson and a book by William Roos.\nAfter an out-of-town tryout at the Opera House in Boston in October 1948, the original Broadway production of As the Girls Go opened at the Winter Garden Theatre on November 13, 1948, transferred to The Broadway Theatre and ran for a total of 420 performances.  The production was directed by Howard Bay, choreographed by Hermes Pan and produced by Michael Todd. It starred Bobby Clark and Irene Rich and featured Hobart Cavanaugh, Betty Jane Watson (replaced by Fran Warren), June Kirby, Jo Sullivan, and Pauline Hahn. A teenaged Abbe Lane, billed as Abbe Marshall, was in the ensemble. The production's musical director, Max Meth won a Tony Award for his work.",
+        "source_url": "https://en.wikipedia.org/wiki/As_the_Girls_Go",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "back-to-the-80s": {
+      "slug": "back-to-the-80s",
+      "title": "Back to the 80s",
+      "qid": "Q4839476",
+      "enwiki": "Back to the 80s (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Back_to_the_80s_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4839476"
+      },
+      "summary": {
+        "text": "Back to the 80's is a 1980s nostalgia musical written by Neil Gooding with the original musical adaption made by Scott Copeman. It was later re-orchestrated and arranged by Brett Foster in 1999, just prior to the Australian Production. It was originally staged by Neil Gooding Productions Pty. Ltd. in Sydney, Australia in 2001. It is a popular show for school productions in the English speaking world.\nThe musical is a jukebox musical featuring pop songs from the 1980s, as well as a rap song written by Neil Gooding.",
+        "source_url": "https://en.wikipedia.org/wiki/Back_to_the_80s_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "beetlejuice": {
+      "slug": "beetlejuice",
+      "title": "Beetlejuice",
+      "qid": "Q55639292",
+      "enwiki": "Beetlejuice (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2018-10-14",
+        "venue": "National Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/519780",
+        "official_site": "http://www.beetlejuicebroadway.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Beetlejuice_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q55639292"
+      },
+      "summary": {
+        "text": "Beetlejuice The Musical. The Musical. The Musical., or simply Beetlejuice, is a musical with music and lyrics by Eddie Perfect and book by Scott Brown and Anthony King. It is based on the 1988 film of the same name. The story concerns a deceased couple who try to haunt the new inhabitants of their former home and call for help from a devious bio-exorcist ghost named after the star Betelgeuse (which is pronounced, and often spelled, \"Beetlejuice\"), who is summoned by saying his name three times. One of the new inhabitants is a young girl, Lydia, who is dealing with her mother's death and her neglectful father.\nThe musical had a tryout at the National Theatre, Washington, D.C., in October 2018, prior to opening on Broadway at the Winter Garden Theatre on April 25, 2019. It is produced by Warner Bros. Theatre Ventures (a unit of franchise owner Warner Bros.). Due to the COVID-19 pandemic, the show played its final performance at the Winter Garden on March 10, 2020. It reopened at the Marquis Theatre on Broadway on April 8, 2022, and closed on January 8, 2023. The show reopened again at the Palace Theatre on October 8, 2025 in a limited engagement that ran until January 3, 2026. A US national tour of the production ran from 2022 to 2025.",
+        "source_url": "https://en.wikipedia.org/wiki/Beetlejuice_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "chu-chin-chow": {
+      "slug": "chu-chin-chow",
+      "title": "Chu Chin Chow",
+      "qid": "Q5115126",
+      "enwiki": "Chu Chin Chow",
+      "composers": [
+        {
+          "name": "Frederic Norton",
+          "qid": "Q5497108"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Oscar Asche",
+          "qid": "Q1280205",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7964"
+        }
+      ],
+      "premiere": {
+        "date": "1916-08-03",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2586",
+        "wikipedia": "https://en.wikipedia.org/wiki/Chu_Chin_Chow",
+        "wikidata": "https://www.wikidata.org/wiki/Q5115126"
+      },
+      "summary": {
+        "text": "Chu Chin Chow is a musical comedy written, produced and directed by Oscar Asche, with music by Frederic Norton, based (with minor embellishments) on the story of Ali Baba and the 40 Thieves. The piece premièred at His Majesty's Theatre in London on 3 August 1916 and ran for five years and a total of 2,238 performances (more than twice as many as any previous musical), a record that stood for nearly forty years until Salad Days. The show's first American production in New York, with additional lyrics by Arthur Anderson, played for 208 performances in 1917–1918, starring Tyrone Power. It subsequently had successful seasons elsewhere in America and Australia, including in 1919, 1920, 1921 and 1922.\nA silent film of the musical, starring Betty Blythe, was produced in 1923 using some of the music. A talking film, with the score intact, was made by the Gainsborough Studios in 1934, with George Robey as Ali Baba, Fritz Kortner as Abu Hasan, Anna May Wong as Zahrat Al-Kulub, Frank Cochrane reprising his stage role of the cobbler, and Laurence Hanray as Kasim. The show toured the British provinces for many years. It returned to London in 1940 and 1941. In 1953, an ice version was produced at the Empire Pool in Wembley, London, starring Tyrone Power, which also toured the provinces and abroad. Occasional productions are still mounted, including one in July 2008 by the Finborough Theatre in London, England.",
+        "source_url": "https://en.wikipedia.org/wiki/Chu_Chin_Chow",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "chunhyangga": {
+      "slug": "chunhyangga",
+      "title": "Chunhyangga",
+      "qid": "Q5116417",
+      "enwiki": "Chunhyangga",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Chunhyangga",
+        "wikidata": "https://www.wikidata.org/wiki/Q5116417"
+      },
+      "summary": {
+        "text": "Chunhyangga (Korean: 춘향가) is a pansori folktale from Korea. Being a pansori, Chunhyangga is a narrative art form, and is traditionally performed by two people: a singer and drummer. There is also a story based on the Chunhyangga pansori called Chunhyangjeon.\nIt is now one of five surviving Pansoris in Korea, each focusing on one of the Five Confucian virtues. The other remaining stories are Simcheongga, Heungbuga, Jeokbyeokga and Sugungga.\nAmong these, Chunhyangga is the longest. In 1969, pansori master singer Park Dong-jin sang Chunhyangga for eight hours (surprising his audience). The original version of Chunhyangga was not that long, but has been greatly developed over time. The diverse pansori singers who have performed it have contributed famous deoneum, so it is valuable musically and historically.\nThere are no records confirming the exact time when Chunhyangga was written. Chunhyangga can be found in Manwhajip written by Yu Jin-han during the Joseon Dynasty, as well as in Mugeukhangrok of the same era written by Juik-Yang. Therefore, it supposed that Chunhyangga has existed since before Sukjong of Joseon (1661–1720).",
+        "source_url": "https://en.wikipedia.org/wiki/Chunhyangga",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "glory-days": {
+      "slug": "glory-days",
+      "title": "Glory Days",
+      "qid": "Q16840262",
+      "enwiki": "Glory Days (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/478265",
+        "wikipedia": "https://en.wikipedia.org/wiki/Glory_Days_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q16840262"
+      },
+      "summary": {
+        "text": "Glory Days is a musical with music and lyrics by Nick Blaemire and a book by James Gardiner about four high school friends reuniting a year after graduation. The musical opened at the Signature Theatre in 2008 and was then produced on Broadway in 2008 but closed after one regular performance. Since 2008, it has had over 50 productions mounted around the world.",
+        "source_url": "https://en.wikipedia.org/wiki/Glory_Days_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "grease": {
+      "slug": "grease",
+      "title": "Grease",
+      "qid": "Q611626",
+      "enwiki": "Grease (musical)",
+      "composers": [
+        {
+          "name": "Warren Casey",
+          "qid": "Q2549663",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9047"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Warren Casey",
+          "qid": "Q2549663",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9047"
+        },
+        {
+          "name": "Jim Jacobs",
+          "qid": "Q3178843",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6743"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Warren Casey",
+          "qid": "Q2549663",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9047"
+        },
+        {
+          "name": "Jim Jacobs",
+          "qid": "Q3178843",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6743"
+        }
+      ],
+      "premiere": {
+        "date": "1971",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4056",
+        "playbill": "https://playbill.com/production/grease-eugene-oneill-theatre-vault-0000004699",
+        "wikipedia": "https://en.wikipedia.org/wiki/Grease_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q611626"
+      },
+      "summary": {
+        "text": "Grease is a 1971 musical with music, lyrics, and a book by Jim Jacobs and Warren Casey. Named after the 1950s United States working-class youth subculture known as greasers and set in 1959 at the fictional Rydell High School in Northwest Chicago (based on Taft High School in Chicago, Illinois, and named after the rock singer Bobby Rydell), the musical follows ten working-class teenagers as they navigate the complexities of peer pressure, politics, personal core values, and love.\nThe score borrows heavily from the sounds of early rock and roll. In its original production in Chicago, Grease was a raunchy, raw, aggressive, vulgar show. Subsequent productions toned down the more risqué content. The show mentions social issues such as teenage pregnancy, peer pressure, and gang violence; its themes include love, friendship, teenage rebellion, and sexual exploration during adolescence. Jacobs described the show's basic plot as a subversion of common tropes of 1950s cinema, since the female lead, who in many 1950s films transformed the alpha male into a more sensitive and sympathetic character, is instead drawn into the man's influence and transforms into his wild, roguish fantasy.\nSince it was first performed on February 5, 1971, at Kingston Mines nightclub in Chicago, Grease has been successful on both stage and screen, but the content has been diluted and its teenage characters have become less Chicago habitués (the characters' Polish-American backgrounds in particular are ignored with last names often changed, although two Italian-American characters are left identifiably ethnic) and more generic. The first Broadway production opened on June 7, 1972; when it closed in 1980, Grease's 3,388-performance run was the longest yet in Broadway history, although it was surpassed by A Chorus Line on September 29, 1983. It went on to become a West End hit, a successful feature film, two popular Broadway revivals in 1994 and 2007, and a staple of regional theatre, summer stock, community theatre, and high school and middle school drama groups. It remains Broadway's 18th longest-running show.\nGrease was adapted in 1978 as a feature film, which starred John Travolta (who himself had been in stage productions in a different role) and British-Australian singer and actress Olivia Newton-John, removed the musical's Chicago urban setting, and introduced changes to the storyline, characters, and songs, while adding new songs and expanding some plot elements only alluded to in the musical. Some of these revisions have been incorporated into revivals of the musical. A 2016 live TV musical used elements from both the original stage version and the film. A 1982 film sequel, Grease 2, included only a few supporting characters from the film and musical and had no involvement from Jacobs or Casey; Jacobs has gone on record to voice his disapproval of Grease 2.",
+        "source_url": "https://en.wikipedia.org/wiki/Grease_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "grim": {
+      "slug": "grim",
+      "title": "Grim",
+      "qid": "Q21998523",
+      "enwiki": "Grim (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2014-07-20",
+        "venue": "Rose Theatre, Kingston"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Grim_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q21998523"
+      },
+      "summary": {
+        "text": "Grim, also known as Grim: A New Musical or Grim - The Love Story To Die For, is a musical with music by Joseph Alexander and lyrics/book by Fiona O'Malley, of The Untold Theatre Company. It premiered at the Rose Theatre, Kingston on 20 July 2014.\nSet in a high school, the musical is about when the two greatest forces in the world, love (Cupid) and death (Grim), meet. The two fall in love, but if Grim is with him, it will lead to his demise.",
+        "source_url": "https://en.wikipedia.org/wiki/Grim_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "i-love-my-wife": {
+      "slug": "i-love-my-wife",
+      "title": "I Love My Wife",
+      "qid": "Q5978151",
+      "enwiki": "I Love My Wife",
+      "composers": [
+        {
+          "name": "Cy Coleman",
+          "qid": "Q1146861",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4929"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Michael Stewart",
+          "qid": "Q6834631",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7748"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4604",
+        "wikipedia": "https://en.wikipedia.org/wiki/I_Love_My_Wife",
+        "wikidata": "https://www.wikidata.org/wiki/Q5978151"
+      },
+      "summary": {
+        "text": "I Love My Wife is a musical with a book and lyrics by Michael Stewart and music by Cy Coleman, based on the French play Viens chez moi, j'habite chez une copine (lit. 'Come up to my place, I'm living at a girlfriend's'), written by Luis Rego and Didier Kaminka with the collaboration of Jean-Luc Voulfow and Jean-Paul Sèvres.\nA satire of the sexual revolution of the 1970s, the musical takes place on Christmas Eve in suburban Trenton, New Jersey, where two married couples who have been close friends since high school find themselves contemplating a ménage-à-quatre.\nThe original play was also adapted into a 1981 French film, though that film and the play have little in common besides the title.",
+        "source_url": "https://en.wikipedia.org/wiki/I_Love_My_Wife",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "in-hayti": {
+      "slug": "in-hayti",
+      "title": "In Hayti",
+      "qid": "Q124749660",
+      "enwiki": "In Hayti",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/In_Hayti",
+        "wikidata": "https://www.wikidata.org/wiki/Q124749660"
+      },
+      "summary": {
+        "text": "In Hayti is a musical in three acts with music by Jean Schwartz, lyrics by William Jerome, and a book by John J. McNally. It premiered at Broadway's Circle Theatre on August 30, 1909. It closed after 56 performances on October 16, 1909. Produced by Klaw and Erlanger, the show was directed by A. H. Holbrook and choreographed by Julian Alfred. The work was created as a starring vehicle for vaudeville and minstrel show stars James McIntyre and Thomas Heath who were known for their work as blackface performers. It was the second musical created by the songwriting team of Schwartz and Jerome for McIntyre and Heatth; the first being the tremendously popular 1905 musical The Ham Tree.The plot of the show revolves around Colonel Scott's attempt to control the chicken market in Haiti in the midst of a revolution.",
+        "source_url": "https://en.wikipedia.org/wiki/In_Hayti",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "jagged-little-pill": {
+      "slug": "jagged-little-pill",
+      "title": "Jagged Little Pill",
+      "qid": "Q55640093",
+      "enwiki": "Jagged Little Pill (musical)",
+      "composers": [
+        {
+          "name": "Alanis Morissette",
+          "qid": "Q130742"
+        },
+        {
+          "name": "Glen Ballard",
+          "qid": "Q920983",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/490928"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Alanis Morissette",
+          "qid": "Q130742"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": "American Repertory Theater"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/522464",
+        "wikipedia": "https://en.wikipedia.org/wiki/Jagged_Little_Pill_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q55640093"
+      },
+      "summary": {
+        "text": "Jagged Little Pill is a jukebox musical with music by Alanis Morissette and Glen Ballard, lyrics by Morissette, and book by Diablo Cody, with additional music by Michael Farrell and Guy Sigsworth. The musical is inspired by the 1995 album of the same name by Morissette and deals with pain, healing, and empowerment. It premiered at the American Repertory Theater in Cambridge, Massachusetts, on May 5, 2018, directed by Diane Paulus.\nThe show began previews on Broadway in November 2019, but closed due to the COVID-19 pandemic. It reopened on October 21, 2021, and closed on December 17, 2021. For the 74th Tony Awards, Jagged Little Pill won two awards on 15 nominations, the most nominations of any show of the 2019–20 season. It also won the Grammy Award for Best Musical Theater Album.",
+        "source_url": "https://en.wikipedia.org/wiki/Jagged_Little_Pill_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "jennie": {
+      "slug": "jennie",
+      "title": "Jennie",
+      "qid": "Q6177933",
+      "enwiki": "Jennie (musical)",
+      "composers": [
+        {
+          "name": "Arthur Schwartz",
+          "qid": "Q711473",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4324"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Howard Dietz",
+          "qid": "Q1631780",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6363"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Arnold Schulman",
+          "qid": "Q4795246",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4254"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4865",
+        "wikipedia": "https://en.wikipedia.org/wiki/Jennie_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6177933"
+      },
+      "summary": {
+        "text": "Jennie is a musical with a book by Arnold Schulman, music by Arthur Schwartz, and lyrics by Howard Dietz, and starred Mary Martin.\nThe plot focuses on actors and married couple Jennie Malone and James O'Connor, who tour the country in popular melodramas. Much of the action consists of elaborate spoofs of the type of entertainment offered to audiences in the early 20th century.",
+        "source_url": "https://en.wikipedia.org/wiki/Jennie_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "ned-kelly": {
+      "slug": "ned-kelly",
+      "title": "Ned Kelly",
+      "qid": "Q20874649",
+      "enwiki": "Ned Kelly (musical)",
+      "composers": [
+        {
+          "name": "Patrick Flynn",
+          "qid": "Q7146510"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Reg Livermore",
+          "qid": "Q7307817"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Reg Livermore",
+          "qid": "Q7307817"
+        }
+      ],
+      "premiere": {
+        "date": "1977-12-30",
+        "venue": "Adelaide Festival Centre"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Ned_Kelly_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q20874649"
+      },
+      "summary": {
+        "text": "Ned Kelly (sometimes titled Ned Kelly: The Electric Music Show) is an Australian musical, with script and lyrics by Reg Livermore and music by Patrick Flynn.  It tells the story of Australian bushranger Ned Kelly through an eclectic score combining rock opera, vaudeville and burlesque. The original Australian production played in Adelaide and Sydney in 1977 and 1978.",
+        "source_url": "https://en.wikipedia.org/wiki/Ned_Kelly_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "seventeen": {
+      "slug": "seventeen",
+      "title": "Seventeen",
+      "qid": "Q19877783",
+      "enwiki": "Seventeen (musical)",
+      "composers": [
+        {
+          "name": "Walter Kent",
+          "qid": "Q7965339",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11992"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Kim Gannon",
+          "qid": "Q6408634",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12892"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Sally Benson",
+          "qid": "Q3469973",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8570"
+        }
+      ],
+      "premiere": {
+        "date": "1951-06-21",
+        "venue": "Broadhurst Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7887",
+        "wikipedia": "https://en.wikipedia.org/wiki/Seventeen_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q19877783"
+      },
+      "summary": {
+        "text": "Seventeen is a 1951 American musical that debuted in the United States starring Kenneth Nelson.",
+        "source_url": "https://en.wikipedia.org/wiki/Seventeen_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "soul-doctor": {
+      "slug": "soul-doctor",
+      "title": "Soul Doctor",
+      "qid": "Q17052308",
+      "enwiki": "Soul Doctor",
+      "composers": [
+        {
+          "name": "Shlomo Carlebach",
+          "qid": "Q76999",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/494829"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Shlomo Carlebach",
+          "qid": "Q76999",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/494829"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Daniel Wise",
+          "qid": "Q5219114",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/82325"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/494824",
+        "wikipedia": "https://en.wikipedia.org/wiki/Soul_Doctor",
+        "wikidata": "https://www.wikidata.org/wiki/Q17052308"
+      },
+      "summary": {
+        "text": "Soul Doctor - Journey of a Rockstar Rabbi is a Broadway musical that details the life of Rabbi Shlomo Carlebach, with music and lyrics by Shlomo Carlebach and David Schechter, and book and direction by Daniel Wise. The Soul Doctor show debuted at Le Petit Theatre du Vieux Carre in New Orleans, and had subsequent runs at The Colony Theater in Miami, The Parker Playhouse in Ft Lauderdale, and The New York Theatre Workshop in New York City. The Broadway production started previews in July 2013 with its official opening night taking place August 15, 2013 at Broadway's Circle in the Square Theatre.",
+        "source_url": "https://en.wikipedia.org/wiki/Soul_Doctor",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-black-mikado": {
+      "slug": "the-black-mikado",
+      "title": "The Black Mikado",
+      "qid": "Q7718388",
+      "enwiki": "The Black Mikado",
+      "composers": [
+        {
+          "name": "Arthur Sullivan",
+          "qid": "Q212692",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8692"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "W. S. Gilbert",
+          "qid": "Q348513",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5905"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Black_Mikado",
+        "wikidata": "https://www.wikidata.org/wiki/Q7718388"
+      },
+      "summary": {
+        "text": "The Black Mikado is a musical comedy, based on Gilbert and Sullivan's The Mikado, adapted by Janos Bajtala, George Larnyoh and Eddie Quansah from W. S. Gilbert's original 1885 libretto and Arthur Sullivan's score.  The show premiered on 24 April 1975 at the Cambridge Theatre in London, where it ran for 472 performances before going on a national tour.  A 1976 production was mounted in Soweto, South Africa, where it played at the Diepkloof Hall.  After this, the musical was not revived.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Black_Mikado",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-chocolate-dandies": {
+      "slug": "the-chocolate-dandies",
+      "title": "The Chocolate Dandies",
+      "qid": "Q117451122",
+      "enwiki": "The Chocolate Dandies",
+      "composers": [
+        {
+          "name": "Eubie Blake",
+          "qid": "Q919632",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4552"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Noble Sissle",
+          "qid": "Q563239",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8701"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Noble Sissle",
+          "qid": "Q563239",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8701"
+        }
+      ],
+      "premiere": {
+        "date": "1924-09-01",
+        "venue": "Harkness Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2570",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Chocolate_Dandies",
+        "wikidata": "https://www.wikidata.org/wiki/Q117451122"
+      },
+      "summary": {
+        "text": "The Chocolate Dandies is a Broadway musical in two acts that opened September 1, 1924, at the New Colonial Theatre and ran for 96 performances – finishing November 22, 1924.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Chocolate_Dandies",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-greatest-showman": {
+      "slug": "the-greatest-showman",
+      "title": "The Greatest Showman",
+      "qid": "Q133445584",
+      "enwiki": "The Greatest Showman (musical)",
+      "composers": [
+        {
+          "name": "Benj Pasek and Justin Paul",
+          "qid": "Q7141888"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Greatest_Showman_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q133445584"
+      },
+      "summary": {
+        "text": "The Greatest Showman is a 2026 stage musical with music and lyrics by Benj Pasek and Justin Paul and a book by Tim Federle. It is an adaptation of 20th Century Studios's 2017 film of the same name, which is a heavily fictionalized depiction of the life of P. T. Barnum (later of Barnum & Bailey Circus), a showman and entertainer, up to the point when he created his first circus. It premiered in the Bristol Hippodrome on March 15, 2026.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Greatest_Showman_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-hot-mikado": {
+      "slug": "the-hot-mikado",
+      "title": "The Hot Mikado",
+      "qid": "Q7740413",
+      "enwiki": "The Hot Mikado (1939 production)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Mike Todd",
+          "qid": "Q240566",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/23227"
+        }
+      ],
+      "premiere": {
+        "date": "1939",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4502",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Hot_Mikado_(1939_production)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7740413"
+      },
+      "summary": {
+        "text": "The Hot Mikado was a musical theatre adaptation of Gilbert and Sullivan's 1885 comic opera The Mikado with an African-American cast. It was first produced by Mike Todd on Broadway in 1939. It starred Bill \"Bojangles\" Robinson in the title role, with musical arrangements by Charles L. Cooke and direction by Hassard Short.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Hot_Mikado_(1939_production)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-whirl-of-the-world": {
+      "slug": "the-whirl-of-the-world",
+      "title": "The Whirl of the World",
+      "qid": "Q120208282",
+      "enwiki": "The Whirl of the World",
+      "composers": [
+        {
+          "name": "Sigmund Romberg",
+          "qid": "Q742945",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8686"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Harold R. Atteridge",
+          "qid": "Q5662077",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/24428"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": "Winter Garden Theatre"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Whirl_of_the_World",
+        "wikidata": "https://www.wikidata.org/wiki/Q120208282"
+      },
+      "summary": {
+        "text": "The Whirl of the World is a musical revue in two acts with music by Sigmund Romberg and both book and lyrics by Harold Atteridge. The work also contained some additional songs by Harry Gifford and Fred Godfrey. The musical premiered on Broadway at the Winter Garden Theatre on January 10, 1914. It closed on May 30, 1914, after 161 performances. Produced by brothers Lee and Jacob J. Shubert, the production was staged by William J. Wilson and used costumes designed by Melville Ellis.\nThe loose plot of the revue centers around the young American Jack Phillips who has audaciously gained admittance into the exclusive Amber Club under an assumed identity. Jack makes a wager with the Marquis Tullyrand that he can get thirty girls in thirty days to write her name and pledge devotion to him in his little red book. The marquis attempts to get Jack to lose through various tricks; including revealing the nature of the wager to Fifi. On hearing the news, Fifi vows never to sign her name in Jack's book, and her hold out means he is one girl short of winning the bet. Eventually, Jack wins her over and she signs; winning his wager with the marquis.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Whirl_of_the_World",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-white-hen": {
+      "slug": "the-white-hen",
+      "title": "The White Hen",
+      "qid": "Q122143186",
+      "enwiki": "The White Hen (musical)",
+      "composers": [
+        {
+          "name": "Gustave Kerker",
+          "qid": "Q113876",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11994"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Paul West",
+          "qid": "Q3372421",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8073"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/9321",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_White_Hen_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q122143186"
+      },
+      "summary": {
+        "text": "The White Hen (originally titled  The Girl from Vienna) is a musical in two acts with music by composer Gustav Kerker, a book by Roderic C. Penfield, and lyrics co-authored by Penfield and Paul West. Set in Tyrol, Austria, the story takes place at an inn, 'The White Hen', owned by Hensie Blinder. The musical begins after Blinder returns from a trip to Vienna in which he engaged a matrimonial agency to help him find a wife. Upon his return to the inn, several women arrive in response to the advertisement placed by the agency and a comedy of errors ensues; including Blinder mistakenly believing he has committed the crime of bigamy.",
+        "source_url": "https://en.wikipedia.org/wiki/The_White_Hen_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "winnie-the-pooh-the-new-musical-adaptation": {
+      "slug": "winnie-the-pooh-the-new-musical-adaptation",
+      "title": "Winnie the Pooh: The New Musical Adaptation",
+      "qid": "Q109283465",
+      "enwiki": "Winnie the Pooh: The New Musical Adaptation",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Winnie_the_Pooh%3A_The_New_Musical_Adaptation",
+        "wikidata": "https://www.wikidata.org/wiki/Q109283465"
+      },
+      "summary": {
+        "text": "Winnie the Pooh: The New Musical Adaptation is a 2021 musical based on the film franchise of the same name. The music and lyrics were written by the Sherman Brothers with a book by Jonathan Rockefeller. The production also borrows elements from the short stories of the same name.\nProduced by Disney Theatrical Productions, the musical had its debut at the Theatre Row Building in New York City in October 2021 and was met with a positive critical response.",
+        "source_url": "https://en.wikipedia.org/wiki/Winnie_the_Pooh%3A_The_New_Musical_Adaptation",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

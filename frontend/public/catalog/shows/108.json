@@ -1,0 +1,611 @@
+{
+  "live": true,
+  "shows": {
+    "3-for-tonight": {
+      "slug": "3-for-tonight",
+      "title": "3 for Tonight",
+      "qid": "Q110654790",
+      "enwiki": "3 for Tonight",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/3_for_Tonight",
+        "wikidata": "https://www.wikidata.org/wiki/Q110654790"
+      },
+      "summary": {
+        "text": "3 for Tonight is a musical revue in two acts with music by composer Walter Schumann and lyrics by Robert Wells. It premiered at the Plymouth Theatre on Broadway in 1955, where it played for 85 performances.",
+        "source_url": "https://en.wikipedia.org/wiki/3_for_Tonight",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "36-questions": {
+      "slug": "36-questions",
+      "title": "36 Questions",
+      "qid": "Q104792043",
+      "enwiki": "36 Questions",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "https://twoupproductions.com/36-questions/podcast",
+        "wikipedia": "https://en.wikipedia.org/wiki/36_Questions",
+        "wikidata": "https://www.wikidata.org/wiki/Q104792043"
+      },
+      "summary": {
+        "text": "36 Questions is a 2017 musical podcast by Two-Up Productions with music and lyrics by Chris Littler and Ellen Winter and sound design by Joel Raabe. It follows the story of an estranged husband and wife trying to reconnect over the \"36 Questions That Lead to Love\", which were a part of a psychological study by Arthur Aron that explores intimacy. Released in three 50-minute acts, the three episodes were released by Two-Up Productions on July 10, July 24, and August 7, respectively, and it starred Jonathan Groff and Jessie Shelton.",
+        "source_url": "https://en.wikipedia.org/wiki/36_Questions",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "a-funny-thing-happened-on-the-way-to-the-forum": {
+      "slug": "a-funny-thing-happened-on-the-way-to-the-forum",
+      "title": "A Funny Thing Happened on the Way to the Forum",
+      "qid": "Q862709",
+      "enwiki": "A Funny Thing Happened on the Way to the Forum",
+      "composers": [
+        {
+          "name": "Stephen Sondheim",
+          "qid": "Q153579",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12430"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Stephen Sondheim",
+          "qid": "Q153579",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12430"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Larry Gelbart",
+          "qid": "Q1806065",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7147"
+        },
+        {
+          "name": "Burt Shevelove",
+          "qid": "Q2136301",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4626"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1102",
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Funny_Thing_Happened_on_the_Way_to_the_Forum",
+        "wikidata": "https://www.wikidata.org/wiki/Q862709"
+      },
+      "summary": {
+        "text": "A Funny Thing Happened on the Way to the Forum is a musical with music and lyrics by Stephen Sondheim and book by Burt Shevelove and Larry Gelbart.\nInspired by the farces of the ancient Roman playwright Plautus (254–184 BC), specifically Poenulus, Curculio, Pseudolus, Miles Gloriosus, and Mostellaria, the musical tells the bawdy story of a slave named Pseudolus and his attempts to win his freedom by helping his young master woo the girl next door. The plot displays many classic elements of farce, including puns, the slamming of doors, comedy of mistaken identity (frequently involving characters disguising themselves as one another), and satirical comments on social class. The title derives from a line often used by vaudeville comedians to begin a story: \"A funny thing happened on the way to the theater\".\nThe musical's original 1962 Broadway run won several Tony Awards, including Best Musical and Best Author (Musical). A Funny Thing has enjoyed several Broadway and West End revivals and was made into a successful film starring the original lead of the stage musical, Zero Mostel.",
+        "source_url": "https://en.wikipedia.org/wiki/A_Funny_Thing_Happened_on_the_Way_to_the_Forum",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "betwixt": {
+      "slug": "betwixt",
+      "title": "Betwixt!",
+      "qid": "Q16827174",
+      "enwiki": "Betwixt!",
+      "composers": [
+        {
+          "name": "Ian McFarlane",
+          "qid": "Q5982288"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Ian McFarlane",
+          "qid": "Q5982288"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Betwixt!",
+        "wikidata": "https://www.wikidata.org/wiki/Q16827174"
+      },
+      "summary": {
+        "text": "Betwixt! is a musical comedy conceived and written by Ian McFarlane.  It also played a concert version in the West End at the Ambassadors Theatre.",
+        "source_url": "https://en.wikipedia.org/wiki/Betwixt!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "firebringer": {
+      "slug": "firebringer",
+      "title": "Firebringer",
+      "qid": "Q28129049",
+      "enwiki": "Firebringer",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Firebringer",
+        "wikidata": "https://www.wikidata.org/wiki/Q28129049"
+      },
+      "summary": {
+        "text": "Firebringer is a comedy musical with music and lyrics by Meredith Stepien and Mark Swiderski and a book by Matt Lang, Nick Lang, and Brian Holden with additional writing by Stepien. It was the tenth staged show produced by StarKid Productions. The story follows characters in the prehistoric era where the invention of fire is studied. The show ran from July 6 to August 7, 2016 at Stage 773 in Chicago, Illinois. A recording of the production was uploaded to YouTube on December 31, 2016. A cast recording was released on iTunes on November 22, 2016.\nThe show was funded through Kickstarter, similarly to the company's previous productions. The project raised US$154,670 from its 3,722 backers.",
+        "source_url": "https://en.wikipedia.org/wiki/Firebringer",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "flowers-for-mrs-harris": {
+      "slug": "flowers-for-mrs-harris",
+      "title": "Flowers for Mrs Harris",
+      "qid": "Q98078174",
+      "enwiki": "Flowers for Mrs Harris (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Flowers_for_Mrs_Harris_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q98078174"
+      },
+      "summary": {
+        "text": "Flowers for Mrs Harris is a musical with music, lyrics and original orchestrations by Richard Taylor, and book by Rachel Wagstaff. It is based on the 1958 American novel Mrs. 'Arris Goes to Paris by Paul Gallico, which was released as Flowers for Mrs Harris in the United Kingdom.",
+        "source_url": "https://en.wikipedia.org/wiki/Flowers_for_Mrs_Harris_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "iron-curtain": {
+      "slug": "iron-curtain",
+      "title": "Iron Curtain",
+      "qid": "Q6072448",
+      "enwiki": "Iron Curtain (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Iron_Curtain_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6072448"
+      },
+      "summary": {
+        "text": "Iron Curtain is a comedy musical about the Soviet Union, with music by Stephen Weiner, lyrics by Peter Mills, and a book by Susan DiLallo.",
+        "source_url": "https://en.wikipedia.org/wiki/Iron_Curtain_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "john-jen": {
+      "slug": "john-jen",
+      "title": "John & Jen",
+      "qid": "Q6217429",
+      "enwiki": "John & Jen",
+      "composers": [
+        {
+          "name": "Andrew Lippa",
+          "qid": "Q4757771",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13451"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Tommy Greenwald",
+          "qid": "Q7819467"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Andrew Lippa",
+          "qid": "Q4757771",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13451"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/John_%26_Jen",
+        "wikidata": "https://www.wikidata.org/wiki/Q6217429"
+      },
+      "summary": {
+        "text": "John & Jen (styled as john & jen) is a musical with music by Andrew Lippa, lyrics by Tom Greenwald, and a book by Lippa and Greenwald. It is a two-person show about the relationships first between a brother and sister, John and Jen, and then, after John is killed, between Jen and her son, also named John. The musical opened Off-Broadway in 1995 and was revived Off-Broadway in 2015.",
+        "source_url": "https://en.wikipedia.org/wiki/John_%26_Jen",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "kelly": {
+      "slug": "kelly",
+      "title": "Kelly",
+      "qid": "Q6385919",
+      "enwiki": "Kelly (musical)",
+      "composers": [
+        {
+          "name": "Moose Charlap",
+          "qid": "Q6908563",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11512"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Eddie Lawrence",
+          "qid": "Q5336219",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5203"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Eddie Lawrence",
+          "qid": "Q5336219",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5203"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5038",
+        "wikipedia": "https://en.wikipedia.org/wiki/Kelly_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6385919"
+      },
+      "summary": {
+        "text": "Kelly is a musical with a book and lyrics by Eddie Lawrence and music by Moose Charlap. It was inspired by Steve Brodie, who in 1886 claimed to have jumped off the Brooklyn Bridge and survived. The story centers around Hop Kelly, a daredevil busboy. Some Bowery gamblers try to prevent him from surviving a jump from the Brooklyn Bridge.\nThe 1965 musical is notable for having closed after its opening night performance on Broadway, becoming one of the biggest flops in Broadway history.",
+        "source_url": "https://en.wikipedia.org/wiki/Kelly_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "let-my-people-come": {
+      "slug": "let-my-people-come",
+      "title": "Let My People Come",
+      "qid": "Q6532934",
+      "enwiki": "Let My People Come",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5348",
+        "wikipedia": "https://en.wikipedia.org/wiki/Let_My_People_Come",
+        "wikidata": "https://www.wikidata.org/wiki/Q6532934"
+      },
+      "summary": {
+        "text": "Let My People Come is a musical with book and music by Earl Wilson, Jr. and lyrics by Wilson and Phil Oesterman. Subtitled \"A Sexual Musical\", the sexually-explicit show originally ran from 1974 to 1976 at The Village Gate Theater in Greenwich Village, New York City. It began previews on Broadway on July 7, 1976, and closed on October 2, 1976, after 108 preview performances, technically never 'officially' opening for regular Broadway performances. The score includes songs such as \"I'm Gay\", \"Come in My Mouth\", \"Fellatio 101\" and \"The Cunnilingus Champion of Company C\", and features on-stage nudity.\nThe show was nominated for a Grammy Award in 1975 for Best Original Cast Album. The title of the 1976 softcore pornographic comedy film Let My Puppets Come, written and directed by Gerard Damiano, was a parody of Let My People Come.",
+        "source_url": "https://en.wikipedia.org/wiki/Let_My_People_Come",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "lock-up-your-daughters": {
+      "slug": "lock-up-your-daughters",
+      "title": "Lock Up Your Daughters",
+      "qid": "Q6665260",
+      "enwiki": "Lock Up Your Daughters (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Lock_Up_Your_Daughters_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6665260"
+      },
+      "summary": {
+        "text": "Lock Up Your Daughters is a musical based on the 1730 comedy Rape upon Rape, by Henry Fielding, and adapted by Bernard Miles. The lyrics were written by Lionel Bart and the music by Laurie Johnson. It was first produced on the London stage in 1959.\nIn 1969, it was made into a film starring Christopher Plummer, Susannah York, and Glynis Johns, but the songs were deleted.",
+        "source_url": "https://en.wikipedia.org/wiki/Lock_Up_Your_Daughters_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "lonesome-town": {
+      "slug": "lonesome-town",
+      "title": "Lonesome Town",
+      "qid": "Q125202846",
+      "enwiki": "Lonesome Town (musical)",
+      "composers": [
+        {
+          "name": "J. A. Raynes",
+          "qid": "Q124848994",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12275"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Lonesome_Town_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q125202846"
+      },
+      "summary": {
+        "text": "Lonesome Town is a musical in two acts with music by J. A. Raynes and both book and lyrics by Judson D. Brusie. Set in the fictional boomtown of Watts, California in 1902, the musical's comedy of errors plot centered around competing claimants to valuable real estate in the city. The musical was created as a starring vehicle for the comedy duo Kolb and Dill. It premiered at the Central Theatre in San Francisco in September 1906. A successful road musical, it toured the United States for several years. This tour included a run at Broadway's Circle Theatre where it played for 88 performances from January 20, 1908, through April 4, 1908.\nLonesome Town was directed by Frank Smithson and was both produced and choreographed by Kolb and Dill. It used sets designed by Homer Emens and costumes by the Eaves Costume Company. C. William Kolb portrayed tramp Chico Charlie with Max M. Dill as his counterpart in crime Bakersfield Bill. Other members of the cast included Maude Lambert as the New York widow Mrs. A. Marvellous Wonder and Georgia O'Ramey as Hazy Fogg among others.",
+        "source_url": "https://en.wikipedia.org/wiki/Lonesome_Town_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "mrs-delaney-of-newport": {
+      "slug": "mrs-delaney-of-newport",
+      "title": "Mrs. Delaney of Newport",
+      "qid": "Q124735250",
+      "enwiki": "Mrs. Delaney of Newport",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Mrs._Delaney_of_Newport",
+        "wikidata": "https://www.wikidata.org/wiki/Q124735250"
+      },
+      "summary": {
+        "text": "Mrs. Delaney of Newport is a musical in three acts with music by Jean Schwartz and both book and lyrics by William Jerome. Written as a starring vehicle for the comedian Kate Elinore and her sister May Elinore, it was the first of several musicals created by the songwriting team of Schwartz and Jerome. The musical premiered on September 15, 1903, at the Collingwood Opera House in Poughkeepsie, New York. The production was produced by the firm of Hyde and Benham.\nA road musical, Mrs. Delaney of Newport toured nationally for 18 months; closing after performances given in Alton, Illinois in March 1905. The tour included two stops on Broadway; the first being at the Grand Opera House where it ran for one week of performances beginning on November 2, 1903. It was one of several musicals that featured the Schwartz and Jerome hit song \"Bedalia\"; a tune first introduced by singer Blanche Ring in the musical The Jersey Lily.",
+        "source_url": "https://en.wikipedia.org/wiki/Mrs._Delaney_of_Newport",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "ripples": {
+      "slug": "ripples",
+      "title": "Ripples",
+      "qid": "Q19877519",
+      "enwiki": "Ripples (musical)",
+      "composers": [
+        {
+          "name": "Albert Szirmai",
+          "qid": "Q725792",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12414"
+        },
+        {
+          "name": "Oscar Levant",
+          "qid": "Q945042",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12052"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Irving Caesar",
+          "qid": "Q1284219",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/80184"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "William Anthony McGuire",
+          "qid": "Q3105229",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9088"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7532",
+        "wikipedia": "https://en.wikipedia.org/wiki/Ripples_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q19877519"
+      },
+      "summary": {
+        "text": "Ripples was a “new musical extravaganza” (musical comedy) in two acts with book by William Anthony McGuire, lyrics by Irving Caesar and Graham John, and music by Oscar Levant and Albert Sirmay. The show was produced by Charles Dillingham at the New Amsterdam Theatre, and opened February 11, 1930.\nThe musical director was Gus Salzer, the show was staged by William Anthony McGuire and choreographed by Mary Read and William Holbrook, with scenic design by Joseph Urban and  costume design by Charles Le Maire.  It ran for 55 performances, closing on March 29, 1930.\nThe headline cast was the Stone family:  Fred Stone as Rip Van Winkle, Mrs. Fred Stone as Mrs. Willoughby, their daughter, Dorothy Stone, as Ripples, and in her stage debut, their other daughter, Paula Stone as Mary Willoughby.  It included Dorothy's future husband, Charles Collins as Richard Willoughby, and Eddie Foy, Jr. as Corporal Jack Sterling.\nThe plot concerns Rip (Fred Stone), who is the great-great-grandson of the original Rip, and a great big liar.  He is a serious drinker, like his forebear, and he drinks himself to sleep in the Catskills only to awake and find himself surrounded by dwarfs, who are bootleggers.  They were hired to fool the state troopers because of their size.   Rip's daughter, Ripples (Dorothy Stone) thinks she's in love with Trooper Jack Sterling (Eddie Foy, Jr.) but finds out she is really in love with the rich Richard Willoughby (Charles Collins).\nIn 1929, Fred Stone was critically injured in an airplane crash and was told he would never dance again. But he recovered to appear in “Ripples” and Brooks Atkinson of the New York Times reported, “Fred Stone is back.”[7]",
+        "source_url": "https://en.wikipedia.org/wiki/Ripples_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "sinatra-the-musical": {
+      "slug": "sinatra-the-musical",
+      "title": "Sinatra: The Musical",
+      "qid": "Q118874849",
+      "enwiki": "Sinatra: The Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Sinatra%3A_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q118874849"
+      },
+      "summary": {
+        "text": "Sinatra: The Musical is a biographical jukebox musical written by Joe DiPietro based on the life and music of Frank Sinatra. It premiered at the Birmingham Repertory Theatre in September 2023.",
+        "source_url": "https://en.wikipedia.org/wiki/Sinatra%3A_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "sunny": {
+      "slug": "sunny",
+      "title": "Sunny",
+      "qid": "Q3977031",
+      "enwiki": "Sunny (musical)",
+      "composers": [
+        {
+          "name": "Jerome Kern",
+          "qid": "Q313270",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6711"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Oscar Hammerstein II",
+          "qid": "Q319693",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7965"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Oscar Hammerstein II",
+          "qid": "Q319693",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7965"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8422",
+        "wikipedia": "https://en.wikipedia.org/wiki/Sunny_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q3977031"
+      },
+      "summary": {
+        "text": "Sunny is a musical comedy with music by Jerome Kern and a libretto by Oscar Hammerstein II and Otto Harbach. The plot involves Sunny, the star of a circus act, who falls for a rich playboy but comes in conflict with his snooty family. This show was the follow-up to the 1920 hit musical Sally, both starring Marilyn Miller in the title roles, and it was Kern's first musical in collaboration with Hammerstein. Sunny also became a hit, with its original Broadway production in 1925 running for 517 performances. The London production starred Binnie Hale and ran for 364 performances, while the UK national tour starred Felice Lascelles and ran for nearly three years.",
+        "source_url": "https://en.wikipedia.org/wiki/Sunny_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-last-smoker-in-america": {
+      "slug": "the-last-smoker-in-america",
+      "title": "The Last Smoker in America",
+      "qid": "Q17149173",
+      "enwiki": "The Last Smoker in America",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Last_Smoker_in_America",
+        "wikidata": "https://www.wikidata.org/wiki/Q17149173"
+      },
+      "summary": {
+        "text": "The Last Smoker in America is a four-character, one-act musical comedy featuring book and lyrics by Bill Russell and music by Peter Melnick. The Last Smoker in America opened Off-Broadway at the Westside Theatre in 2012, after developmental readings in 2005 at the Rubicon Theatre Company, a workshop production at the New York Musical Theatre Festival in 2009, and having its world premiere at Contemporary American Theatre Company (CATCO), Columbus, Ohio in 2010.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Last_Smoker_in_America",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-questions": {
+      "slug": "the-questions",
+      "title": "The Questions",
+      "qid": "Q138035072",
+      "enwiki": "The Questions (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Van Badham",
+          "qid": "Q7913138"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Questions_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q138035072"
+      },
+      "summary": {
+        "text": "The Questions is a musical with book and lyrics by Van Badham and music and lyrics by Richard Wise. A romantic comedy, it was inspired by a true story from the COVID-19 pandemic.\nThe Questions premiered at the Space Theatre, Adelaide Festival Centre, for the State Theatre Company South Australia, directed by Mitchell Butel. After previews from 26 July 2024, it opened on 30 July and the season concluded on 17 August. \nIt was nominated for the 2026 AWGIE Award for Music Theatre.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Questions_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-sting": {
+      "slug": "the-sting",
+      "title": "The Sting",
+      "qid": "Q55635557",
+      "enwiki": "The Sting (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Sting_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q55635557"
+      },
+      "summary": {
+        "text": "The Sting is an American musical thriller with a book by Bob Martin and music and lyrics by Mark Hollmann, Greg Kotis, and Harry Connick Jr., based on the 1973 film The Sting.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Sting_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "this-ll-make-you-whistle": {
+      "slug": "this-ll-make-you-whistle",
+      "title": "This'll Make You Whistle",
+      "qid": "Q105095336",
+      "enwiki": "This'll Make You Whistle (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/This'll_Make_You_Whistle_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q105095336"
+      },
+      "summary": {
+        "text": "This'll Make You Whistle is a British musical with a book by Guy Bolton and Fred Thompson and music and lyrics by Maurice Sigler, Al Goodhart and Al Hoffman. It premiered at the Kings Theatre, Southsea before beginning a 190 performance run in the West End lasting from 15 September 1936 until 27 February 1937, originally at the Palace Theatre before transferring to Daly's Theatre.\nThe show was created as a vehicle for the entertainer Jack Buchanan. The original London cast also included Jean Gillie, Elsie Randolph, William Kendall, David Hutcheson and Gordon Craig. Buchanan produced the show himself, in conjunction with C.B. Cochran. The sets were designed by the art director Clifford Pember.",
+        "source_url": "https://en.wikipedia.org/wiki/This'll_Make_You_Whistle_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

@@ -1,0 +1,681 @@
+{
+  "live": true,
+  "shows": {
+    "70-girls-70": {
+      "slug": "70-girls-70",
+      "title": "70, Girls, 70",
+      "qid": "Q4642936",
+      "enwiki": "70, Girls, 70",
+      "composers": [
+        {
+          "name": "John Kander",
+          "qid": "Q1685876",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6837"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Fred Ebb",
+          "qid": "Q1274807",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5654"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1032",
+        "wikipedia": "https://en.wikipedia.org/wiki/70%2C_Girls%2C_70",
+        "wikidata": "https://www.wikidata.org/wiki/Q4642936"
+      },
+      "summary": {
+        "text": "70, Girls, 70 is a musical with a book by Fred Ebb and Norman L. Martin adapted by Joe Masteroff, lyrics by Ebb, and music by John Kander.\nThe musical is based on the 1958 play Breath of Spring by Peter Coke, which was adapted for the movies in 1960 as Make Mine Mink. The plot concerns a group of larcenous old folks who steal furs from various New York City stores with the intent of using the proceeds from their resale to buy their Upper West Side retirement hotel, the New Sussex Arms, which is slated to be sold to developers.",
+        "source_url": "https://en.wikipedia.org/wiki/70%2C_Girls%2C_70",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "aladdin-2011-musical": {
+      "slug": "aladdin-2011-musical",
+      "title": "Aladdin",
+      "qid": "Q15839051",
+      "enwiki": "Aladdin (2011 musical)",
+      "composers": [
+        {
+          "name": "Alan Menken",
+          "qid": "Q317272",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12135"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Howard Ashman",
+          "qid": "Q1334295",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6356"
+        },
+        {
+          "name": "Tim Rice",
+          "qid": "Q298295",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8890"
+        },
+        {
+          "name": "Chad Beguelin",
+          "qid": "Q5066165",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/402892"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Chad Beguelin",
+          "qid": "Q5066165",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/402892"
+        }
+      ],
+      "premiere": {
+        "date": "2011-07-07",
+        "venue": "5th Avenue Theatre"
+      },
+      "awards": [
+        {
+          "name": "Tony Award for Best Musical",
+          "qid": "Q1780176"
+        },
+        {
+          "name": "Tony Award for Best Choreography",
+          "qid": "Q639542"
+        }
+      ],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/495243",
+        "playbill": "https://playbill.com/production/aladdin-new-amsterdam-theatre-vault-0000014037",
+        "official_site": "http://aladdinthemusical.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/Aladdin_(2011_musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q15839051"
+      },
+      "summary": {
+        "text": "Aladdin is a stage musical based on the Walt Disney Animation Studios 1992 film of the same name, with a book by Chad Beguelin, music by Alan Menken and lyrics by Howard Ashman, Tim Rice and Beguelin. It resurrects three songs written by Menken and Ashman for the film but not used, and adds four songs written by Menken and Beguelin.\nSet in the fictional Arabian city of Agrabah, the story follows the familiar tale of a poor young man who is granted three wishes by a genie in a lamp, which he uses to woo a princess and to thwart the sultan's evil Grand Vizier.\nAladdin premiered at the 5th Avenue Theatre in Seattle in 2011. After several regional and international productions in 2012, the musical was given a Toronto tryout in 2013. The Broadway production opened at the New Amsterdam Theatre on March 20, 2014 to mixed to positive reviews, and has been produced globally since. It is the 7th highest-grossing Broadway production of all time, having grossed over $700 million at the Broadway theatre as of 2026. It has been seen by more than 21 million people worldwide.",
+        "source_url": "https://en.wikipedia.org/wiki/Aladdin_(2011_musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "at-the-drop-of-another-hat": {
+      "slug": "at-the-drop-of-another-hat",
+      "title": "At the Drop of Another Hat",
+      "qid": "Q4812493",
+      "enwiki": "At the Drop of Another Hat",
+      "composers": [
+        {
+          "name": "Donald Swann",
+          "qid": "Q710220",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/61548"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Michael Flanders",
+          "qid": "Q10748975",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7725"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Michael Flanders",
+          "qid": "Q10748975",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7725"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1734",
+        "wikipedia": "https://en.wikipedia.org/wiki/At_the_Drop_of_Another_Hat",
+        "wikidata": "https://www.wikidata.org/wiki/Q4812493"
+      },
+      "summary": {
+        "text": "At the Drop of Another Hat is a musical revue by Flanders and Swann, similar in format to its long-running predecessor, At the Drop of a Hat (1956).  In the show, they both sang on a nearly bare stage, accompanied by Swann on the piano. The songs were linked by contemporary social commentary, mostly by Flanders. Highlights included \"Ill Wind\", in which Flanders sings rapidly about a pilfered horn to the tune of the Rondo from Mozart's Horn Concerto No. 4 and \"New Built Up Area\", a soliloquy by Flanders in which a disgruntled resident of Salisbury Plain complains of the newly erected Stonehenge.\nThe revue premiered at the Haymarket Theatre in London on 2 October 1963 and ran until 21 March 1964.  It was revived on the West End, at the Globe Theatre, from 29 September 1965 to 19 February 1966.\nThe show toured widely, including tours in Australia (1964), Hong Kong and England (1965) and in 1966 Canada and the US. A Broadway production played at the Booth Theatre from 31 December 1966 to 9 April 1967.",
+        "source_url": "https://en.wikipedia.org/wiki/At_the_Drop_of_Another_Hat",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "bloody-bloody-andrew-jackson": {
+      "slug": "bloody-bloody-andrew-jackson",
+      "title": "Bloody Bloody Andrew Jackson",
+      "qid": "Q4928055",
+      "enwiki": "Bloody Bloody Andrew Jackson",
+      "composers": [
+        {
+          "name": "Michael Friedman",
+          "qid": "Q6830428",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/380569"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Michael Friedman",
+          "qid": "Q6830428",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/380569"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Alex Timbers",
+          "qid": "Q4717890",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/406878"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/488477",
+        "wikipedia": "https://en.wikipedia.org/wiki/Bloody_Bloody_Andrew_Jackson",
+        "wikidata": "https://www.wikidata.org/wiki/Q4928055"
+      },
+      "summary": {
+        "text": "Bloody Bloody Andrew Jackson is a satirical historical rock musical with music and lyrics written by Michael Friedman and a book written by its director Alex Timbers.\nThe show is about the founding of the Democratic Party. It redefines Andrew Jackson, America's seventh President, as an emo rock star and focuses on populism, the Indian Removal Act, and his relationship with his wife Rachel.",
+        "source_url": "https://en.wikipedia.org/wiki/Bloody_Bloody_Andrew_Jackson",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "boop-the-musical": {
+      "slug": "boop-the-musical",
+      "title": "Boop! The Musical",
+      "qid": "Q123878077",
+      "enwiki": "Boop! The Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/539976",
+        "wikipedia": "https://en.wikipedia.org/wiki/Boop!_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q123878077"
+      },
+      "summary": {
+        "text": "Boop! The Musical is a musical based on the animated character Betty Boop, with music by David Foster, lyrics by Susan Birkenhead, and a book by Bob Martin. Betty leaves the black-and-white world and finds colorful adventures and romance with Dwayne, a jazz musician boyfriend in present-day New York City, where she is surprised to find that her fame has preceded her; Grampy follows her to the real world and also finds romance with Valentina (a scientist), superfan Trisha helps Betty, and a mayoral candidate is an antagonist.\nThe musical premiered in Chicago, Illinois, running from November to December 2023, with Jasmine Amy Rogers starring in the title role. Boop! began preview performances on Broadway at the Broadhurst Theatre on March 11, 2025, and opened officially on April 5. Reviews were mixed-to-positive. It was nominated for 11 Drama Desk Awards, the most of any 2025 production, winning 3, and was nominated for three Tony Awards. It closed on July 13, 2025, after 25 previews and 112 regular performances.",
+        "source_url": "https://en.wikipedia.org/wiki/Boop!_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "daddy-long-legs": {
+      "slug": "daddy-long-legs",
+      "title": "Daddy Long Legs",
+      "qid": "Q21998444",
+      "enwiki": "Daddy Long Legs (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "http://www.daddylonglegsmusical.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Daddy_Long_Legs_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q21998444"
+      },
+      "summary": {
+        "text": "Daddy Long Legs is a stage musical with a book by John Caird, and music and lyrics by Paul Gordon. It is based on the 1912 novel of the same name by Jean Webster. Set in turn-of-the-century New England, the musical tells the story of orphan Jerusha Abbott of the John Grier Home and her mysterious benefactor who agrees to send her to college, who she dubs \"Daddy Long Legs\" after seeing his elongated shadow. Under the conditions of her benefactor, Jerusha sends him a letter once a month, describing her new-found experiences with life outside the orphanage.\nThe musical was developed as part of the Ann Deal/Fashion Forms Plays-in-Progress Series at Rubicon Theatre in Ventura County, California in 2007. It was co-premiered by the Rubicon, TheatreWorks Silicon Valley, and Cincinnati Playhouse in 2009–2010. The musical then premiered in London's West End at the St. James Theatre in 2012, and Off-Broadway at the Davenport Theatre in 2015. The musical opened in Tokyo in 2012 and Canada in 2013.",
+        "source_url": "https://en.wikipedia.org/wiki/Daddy_Long_Legs_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "dance-with-me": {
+      "slug": "dance-with-me",
+      "title": "Dance with Me",
+      "qid": "Q5215332",
+      "enwiki": "Dance with Me (musical)",
+      "composers": [
+        {
+          "name": "Greg Antonacci",
+          "qid": "Q508988",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5959"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Greg Antonacci",
+          "qid": "Q508988",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5959"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2898",
+        "wikipedia": "https://en.wikipedia.org/wiki/Dance_with_Me_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5215332"
+      },
+      "summary": {
+        "text": "Dance With Me is a musical written by Greg Antonacci. It opened on Broadway on January 23, 1975, and ran at the Mayfair Theatre for 396 performances. The musical was directed and choreographed by Joel Zwick.\nThe musical is set in present day at a New York City subway station. While waiting on the platform, Honey Boy daydreams about life, dating, baseball, and rock and roll in the 1950s.\nDance With Me was a renamed, restaged version of Dance Wi’ Me, a production by the same team which opened at the Public Theater in June 1971. It also appeared at La MaMa Experimental Theatre Club in the early 1970s. The show received three 1975 Tony Award nominations and two 1975 Drama Desk Award nominations.\nThe original Broadway cast included Annie Abbott as Tommie Sincere, Antonacci as Honey Boy (Peter Riegert later took over this role), and John Bottoms as Jimmy Dick. Deborah Rush played Goldie Pot, and director Joel Zwick appeared as Bulldog Allen.",
+        "source_url": "https://en.wikipedia.org/wiki/Dance_with_Me_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "goodbye-barcelona": {
+      "slug": "goodbye-barcelona",
+      "title": "Goodbye Barcelona",
+      "qid": "Q85764036",
+      "enwiki": "Goodbye Barcelona",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Goodbye_Barcelona",
+        "wikidata": "https://www.wikidata.org/wiki/Q85764036"
+      },
+      "summary": {
+        "text": "Goodbye Barcelona is a British stage musical with music and lyrics by K.S. Lewkowicz and a book by Judith Johnson. The musical is inspired by the true story of the International Brigades and tells the story of 18 year old Sammy from London's East End, who goes to Spain to help fight against the fascists in the Spanish Civil War in 1936. It made its world premiere at the Arcola Theatre in November 2011 followed by a Catalan production in Barcelona at the Teatre Del Raval from October 2013 to January 2014, which won the Best Spanish Musical award.",
+        "source_url": "https://en.wikipedia.org/wiki/Goodbye_Barcelona",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "le-roi-soleil": {
+      "slug": "le-roi-soleil",
+      "title": "Le Roi Soleil",
+      "qid": "Q1810133",
+      "enwiki": "Le Roi Soleil (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Kamel Ouali",
+          "qid": "Q3192377"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "NRJ Music Award du groupe/duo/troupe francophone de l'année",
+          "qid": "Q3334536"
+        }
+      ],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Le_Roi_Soleil_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1810133"
+      },
+      "summary": {
+        "text": "Le Roi Soleil (French pronunciation: [lə ʁwa sɔlɛj], lit. 'The Sun King') is a French musical about the life of Louis XIV (played by Emmanuel Moire). It premiered on 22 September 2005 at the Palais des Sports in Paris.",
+        "source_url": "https://en.wikipedia.org/wiki/Le_Roi_Soleil_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "little-tramp": {
+      "slug": "little-tramp",
+      "title": "Little Tramp",
+      "qid": "Q6652326",
+      "enwiki": "Little Tramp (musical)",
+      "composers": [
+        {
+          "name": "David Pomeranz",
+          "qid": "Q4121122",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/493184"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "David Pomeranz",
+          "qid": "Q4121122",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/493184"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "David Pomeranz",
+          "qid": "Q4121122",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/493184"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Little_Tramp_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6652326"
+      },
+      "summary": {
+        "text": "See The Tramp for the character played by Charlie Chaplin.\nLittle Tramp is a musical with a book by David Pomeranz and Steven David Horwich and music and lyrics by David Pomeranz.\nBased on the life of comedian Charles Chaplin and named after his most famous character, The Tramp, it opens at the 1971 Academy Awards ceremony at which the aging star, long exiled from the United States, is about to receive a Lifetime Achievement Award. The trajectory of the impressive professional career and turbulent private life that leads to this moment is traced via flashbacks in which Chaplin recalls his introduction to Hollywood and silent movies, his failed marriages and problems with the press, his dealings with the FBI, and the creation of his most beloved character, the iconic Little Tramp.\nIn 1992, in order to create interest in a staged production, Pomeranz gathered together what he referred to as his \"dream cast\" and recorded a CD of the score.  Artists participating in the project included Petula Clark, Lea Salonga, Tim Curry, Mel Brooks, Treat Williams, and Peter Duncan as Chaplin. It was released on the Warner Music UK Ltd. label.\nLittle Tramp received its first staging in 1995 at the prestigious Eugene O'Neill Theater Festival in Waterford, Connecticut (Eugene O'Neill having been the father of Chaplin's wife, Oona O'Neill). The following year, a concert version was presented in St. Petersburg, Russia to inaugurate the world's first East/West Musical Theater Conference.\nThe show was first performed in the UK by Imagine Productions in Preston, and was endorsed by Richard Attenborough, director of the biopic Chaplin.",
+        "source_url": "https://en.wikipedia.org/wiki/Little_Tramp_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "merrily-we-roll-along": {
+      "slug": "merrily-we-roll-along",
+      "title": "Merrily We Roll Along",
+      "qid": "Q6820251",
+      "enwiki": "Merrily We Roll Along (musical)",
+      "composers": [
+        {
+          "name": "Stephen Sondheim",
+          "qid": "Q153579",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12430"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Stephen Sondheim",
+          "qid": "Q153579",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12430"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "George Furth",
+          "qid": "Q1383628",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5812"
+        }
+      ],
+      "premiere": {
+        "date": "1981-11-16",
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Laurence Olivier Awards",
+          "qid": "Q28470"
+        },
+        {
+          "name": "Drama Desk Award for Outstanding Lyrics",
+          "qid": "Q5305716"
+        },
+        {
+          "name": "Laurence Olivier Award for Best New Musical",
+          "qid": "Q6500795"
+        }
+      ],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6030",
+        "wikipedia": "https://en.wikipedia.org/wiki/Merrily_We_Roll_Along_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6820251"
+      },
+      "summary": {
+        "text": "Merrily We Roll Along is a musical with music and lyrics by Stephen Sondheim and a book by George Furth. It is based on the 1934 play of the same name by George S. Kaufman and Moss Hart.\nThe show tells the story of how three friends' lives and friendship devolve over the course of 20 years; it focuses particularly on Franklin Shepard, a talented composer of musicals who, over those 20 years, abandons his friends and songwriting career to become a producer of Hollywood movies. Like the play on which it is based, the show's story moves in reverse chronology, beginning in 1976 at the friends' lowest moment and ending in 1957, at their youthful best.\nMerrily premiered on Broadway on November 16, 1981, in a production directed by frequent Sondheim collaborator Hal Prince, with a cast almost exclusively of teenagers and young adults. However, the show was not the success the previous Sondheim–Prince collaborations had been: after a chaotic series of preview performances, it opened to widely negative reviews, and closed after 16 performances and 44 previews.\nIn subsequent years, the show has been extensively rewritten and enjoyed several notable productions, including an Off-Broadway revival in 1994 and a West End premiere in 2000 that won the Laurence Olivier Award for Best New Musical. The 2022 Off-Broadway production staged at New York Theatre Workshop transferred to Broadway in fall 2023, starring Jonathan Groff, Daniel Radcliffe, and Lindsay Mendez and directed by Maria Friedman. It won four Tony Awards, including Best Revival of a Musical. A film adaptation starring Paul Mescal, Beanie Feldstein, and Ben Platt is currently in production and is being filmed over the course of 20 years, having begun in 2019.",
+        "source_url": "https://en.wikipedia.org/wiki/Merrily_We_Roll_Along_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "milk-and-honey": {
+      "slug": "milk-and-honey",
+      "title": "Milk and Honey",
+      "qid": "Q6858028",
+      "enwiki": "Milk and Honey (musical)",
+      "composers": [
+        {
+          "name": "Jerry Herman",
+          "qid": "Q1363692",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6278"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Jerry Herman",
+          "qid": "Q1363692",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6278"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6092",
+        "wikipedia": "https://en.wikipedia.org/wiki/Milk_and_Honey_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6858028"
+      },
+      "summary": {
+        "text": "Milk and Honey is a musical with a book by Don Appell and music and lyrics by Jerry Herman. The story centers on a busload of lonely American widows hoping to catch husbands while touring Israel and is set against the backdrop of the country's struggle for recognition as an independent nation. It was Herman's first Broadway book musical following a succession of off-Broadway revues.",
+        "source_url": "https://en.wikipedia.org/wiki/Milk_and_Honey_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "rex": {
+      "slug": "rex",
+      "title": "Rex",
+      "qid": "Q7319121",
+      "enwiki": "Rex (musical)",
+      "composers": [
+        {
+          "name": "Richard Rodgers",
+          "qid": "Q269094",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12311"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Sheldon Harnick",
+          "qid": "Q2354471",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8645"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Sherman Yellen",
+          "qid": "Q7495276",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8656"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7479",
+        "wikipedia": "https://en.wikipedia.org/wiki/Rex_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7319121"
+      },
+      "summary": {
+        "text": "Rex is a musical with music by Richard Rodgers, lyrics by Sheldon Harnick and libretto by Sherman Yellen, based on the life of King Henry VIII. The original production starred Nicol Williamson.",
+        "source_url": "https://en.wikipedia.org/wiki/Rex_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "skyscraper": {
+      "slug": "skyscraper",
+      "title": "Skyscraper",
+      "qid": "Q7538007",
+      "enwiki": "Skyscraper (musical)",
+      "composers": [
+        {
+          "name": "Jimmy Van Heusen",
+          "qid": "Q33124",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12521"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Sammy Cahn",
+          "qid": "Q470040",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11268"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Peter Stone",
+          "qid": "Q1718449",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8128"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8081",
+        "wikipedia": "https://en.wikipedia.org/wiki/Skyscraper_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7538007"
+      },
+      "summary": {
+        "text": "Skyscraper is a musical that ran on Broadway in 1965 and 1966.  The book was written by Peter Stone, and the music by Jimmy Van Heusen with lyrics by Sammy Cahn.  Based on the 1945 Elmer Rice play Dream Girl, the Broadway production starred Julie Harris in her first musical.",
+        "source_url": "https://en.wikipedia.org/wiki/Skyscraper_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-amorous-flea": {
+      "slug": "the-amorous-flea",
+      "title": "The Amorous Flea",
+      "qid": "Q7713608",
+      "enwiki": "The Amorous Flea",
+      "composers": [
+        {
+          "name": "Bruce Montgomery",
+          "qid": "Q4978032"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Bruce Montgomery",
+          "qid": "Q4978032"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Amorous_Flea",
+        "wikidata": "https://www.wikidata.org/wiki/Q7713608"
+      },
+      "summary": {
+        "text": "The Amorous Flea is a musical with a book by Jerry Devine and music and lyrics by Bruce Montgomery.  It is based on Molière's 1662 comedy The School for Wives.\nThe off-Broadway production, directed by Jack Sydow, opened on February 17, 1964, at the East 78th Street Playhouse and moved to York Theatre, running for a total of 93 performances.  Proctor won the Theatre World Award for his performance.  Songs in the production include  \"Lessons On Life\".",
+        "source_url": "https://en.wikipedia.org/wiki/The_Amorous_Flea",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-comical-history-of-don-quixote": {
+      "slug": "the-comical-history-of-don-quixote",
+      "title": "The Comical History of Don Quixote",
+      "qid": "Q7726949",
+      "enwiki": "The Comical History of Don Quixote",
+      "composers": [
+        {
+          "name": "Henry Purcell",
+          "qid": "Q9695",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12267"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Comical_History_of_Don_Quixote",
+        "wikidata": "https://www.wikidata.org/wiki/Q7726949"
+      },
+      "summary": {
+        "text": "The Comical History of Don Quixote is a three-part dramatization of Miguel de Cervantes's celebrated novel Don Quixote. \nIt was written in 1694, only seventy-eight years after the death of Cervantes, by Thomas D'Urfey. It is one of the first stage dramatizations of \"Don Quixote\" ever written. The piece featured many songs, most of them by Henry Purcell, but there were some by other noted Restoration composers. Composer John Eccles wrote the aria \"I burn\" for soprano Anne Bracegirdle which became a tremendous success for the actress and became a staple work in her stage repertoire.\nThe complete work itself, according to writer-director Don Taylor, is actually three separate plays, and in total takes more than seven hours to perform. It is seldom, if ever, revived today, and was not a success at its premiere, although some of Purcell's compositions for it (From rosy bow'rs, for instance) have become fairly well known. A highly-abridged early revival of it (with full orchestral accompaniment) took place at the 1938 Bath Music Festival. In 1994, an attempt was made at \"reconstructing\" it, in a version entitled Don Quixote: The Musical. This edition featured much of the play's original music, but used an entirely new libretto (in fairly modern English) written by Taylor, and setting the story as a play within a play, with D'Urfey and others appearing as characters in it. The production starred Paul Scofield as Don Quixote, and Roy Hudd as Sancho Panza.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Comical_History_of_Don_Quixote",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-game-of-love": {
+      "slug": "the-game-of-love",
+      "title": "The Game of Love",
+      "qid": "Q16897875",
+      "enwiki": "The Game of Love (musical)",
+      "composers": [
+        {
+          "name": "Jacques Offenbach",
+          "qid": "Q41555",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7941"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Tom Jones",
+          "qid": "Q180850"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": "1965-06-15",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Game_of_Love_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q16897875"
+      },
+      "summary": {
+        "text": "The Game of Love is an English-language musical based on the German plays Anatol and Anatols Größenwahn (\"Anatol's megalomania\") by Austrian playwright Arthur Schnitzler. It is set in late 19th century Vienna, and chronicles the many shallow and immature relationships of bourgeois playboy Anatol. The musical is based on the translation of the play by Tom Jones. The lyrics are written by Jones, and the music is by Jacques Offenbach, with musical arrangements and additional music by Nancy Ford.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Game_of_Love_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-girl-in-the-taxi": {
+      "slug": "the-girl-in-the-taxi",
+      "title": "The Girl in the Taxi",
+      "qid": "Q60776051",
+      "enwiki": "The Girl in the Taxi (play)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Girl_in_the_Taxi_(play)",
+        "wikidata": "https://www.wikidata.org/wiki/Q60776051"
+      },
+      "summary": {
+        "text": "The Girl in the Taxi is a three-act musical comedy written by Stanislaus Stange, with music by Benjamin Hapgood Burt. Set in New York City, it is one of several adaptations of Le Fils à papa, a French comedy by Antony Mars and Maurice Desvallières. The 1910 Broadway production was produced by Albert H. Woods and directed by Carter DeHaven; the latter of whom also performed the role of Bertie Stewart.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Girl_in_the_Taxi_(play)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

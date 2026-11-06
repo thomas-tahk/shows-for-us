@@ -1,0 +1,730 @@
+{
+  "live": true,
+  "shows": {
+    "a-slice-of-saturday-night": {
+      "slug": "a-slice-of-saturday-night",
+      "title": "A Slice of Saturday Night",
+      "qid": "Q4659582",
+      "enwiki": "A Slice of Saturday Night",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Slice_of_Saturday_Night",
+        "wikidata": "https://www.wikidata.org/wiki/Q4659582"
+      },
+      "summary": {
+        "text": "A Slice of Saturday Night is a musical with book, lyrics and music by The Heather Brothers: Lea, Neil, Charles and John. The songs are a nostalgic pastiche of 1960s music, and the story tells a tale of teenage dreams and young love \"set around 1964 in a nightclub called the Club-a-Go-Go\".",
+        "source_url": "https://en.wikipedia.org/wiki/A_Slice_of_Saturday_Night",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "baker-street": {
+      "slug": "baker-street",
+      "title": "Baker Street",
+      "qid": "Q4849213",
+      "enwiki": "Baker Street (musical)",
+      "composers": [
+        {
+          "name": "Marian Grudeff",
+          "qid": "Q6761889",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11798"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1804",
+        "wikipedia": "https://en.wikipedia.org/wiki/Baker_Street_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4849213"
+      },
+      "summary": {
+        "text": "Baker Street is a 1965 musical with a book by Jerome Coopersmith and music and lyrics by Marian Grudeff and Raymond Jessel, based on the tales of Sherlock Holmes.",
+        "source_url": "https://en.wikipedia.org/wiki/Baker_Street_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "bark-the-musical": {
+      "slug": "bark-the-musical",
+      "title": "Bark! The Musical",
+      "qid": "Q4860853",
+      "enwiki": "Bark! The Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Bark!_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q4860853"
+      },
+      "summary": {
+        "text": "BARK! The Musical is a musical with music by David Troy Francis and lyrics by Gavin Geoffrey Dillard and Robert Schrock (with additional lyrics by Mark Winkler). The book is by Mark Winkler and Gavin Geoffrey Dillard.",
+        "source_url": "https://en.wikipedia.org/wiki/Bark!_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "big-deal": {
+      "slug": "big-deal",
+      "title": "Big Deal",
+      "qid": "Q4905564",
+      "enwiki": "Big Deal (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Bob Fosse",
+          "qid": "Q313256",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4563"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2005",
+        "wikipedia": "https://en.wikipedia.org/wiki/Big_Deal_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4905564"
+      },
+      "summary": {
+        "text": "Big Deal is a musical with a book by Bob Fosse using songs from various composers such as Ray Henderson, Eubie Blake, and Jerome Kern. It was based on the 1958 film Big Deal on Madonna Street by Mario Monicelli. The musical received five Tony Award nominations, with Fosse winning for Choreography. The production was Fosse's final work, as he died the next year.",
+        "source_url": "https://en.wikipedia.org/wiki/Big_Deal_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "blackbeard": {
+      "slug": "blackbeard",
+      "title": "Blackbeard",
+      "qid": "Q4922546",
+      "enwiki": "Blackbeard (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Blackbeard_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4922546"
+      },
+      "summary": {
+        "text": "Blackbeard, or officially, Blackbeard: The Musical or Blackbeard: A New Musical, is a musical created by Rob Gardner.  The plot focuses on the notorious pirate Edward \"Blackbeard\" Teach, and his blockade of Charles Town in South Carolina in 1718.  The musical portrays Blackbeard as a compassionate person, who is deeply in love with a woman on his ship named Mary Ormond.  Blackbeard struggles to maintain his fierce façade, while at the same time trying to win the heart of the pacifistic Mary.\nBlackbeard debuted at the Herberger Theatre Center in Phoenix, Arizona, on September 5, 2008, under the direction of Cambrian James and the musical direction of Rob Gardner himself.  Marketed as a 'pre-Broadway event', the musical received mixed to positive reviews from critics, and won 9 AriZoni Awards from 15 nominations.  On May 1, 2009, Blackbeard made its Australian premiere in Bunbury, Western Australia.",
+        "source_url": "https://en.wikipedia.org/wiki/Blackbeard_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "bring-in-da-noise-bring-in-da-funk": {
+      "slug": "bring-in-da-noise-bring-in-da-funk",
+      "title": "Bring in 'da Noise, Bring in 'da Funk",
+      "qid": "Q4968327",
+      "enwiki": "Bring in 'da Noise, Bring in 'da Funk",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2230",
+        "wikipedia": "https://en.wikipedia.org/wiki/Bring_in_'da_Noise%2C_Bring_in_'da_Funk",
+        "wikidata": "https://www.wikidata.org/wiki/Q4968327"
+      },
+      "summary": {
+        "text": "Bring in 'da Noise, Bring in 'da Funk is a musical that debuted Off-Broadway at the New York Shakespeare Festival/Public Theater in 1995 and moved to Broadway in 1996. The show was conceived and directed by George C. Wolfe, and featured music by Daryl Waters, Zane Mark and Ann Duquesnay; lyrics by Reg E. Gaines, George C. Wolfe and Ann Duquesnay; and a book by Reg E. Gaines. The choreography was by Savion Glover.",
+        "source_url": "https://en.wikipedia.org/wiki/Bring_in_'da_Noise%2C_Bring_in_'da_Funk",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "can-can": {
+      "slug": "can-can",
+      "title": "Can-Can",
+      "qid": "Q378784",
+      "enwiki": "Can-Can (musical)",
+      "composers": [
+        {
+          "name": "Cole Porter",
+          "qid": "Q215120",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12257"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Abe Burrows",
+          "qid": "Q318138",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3875"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2374",
+        "wikipedia": "https://en.wikipedia.org/wiki/Can-Can_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q378784"
+      },
+      "summary": {
+        "text": "Can-Can is a musical with music and lyrics by Cole Porter, and a book by Abe Burrows. The story concerns the showgirls of the Montmartre dance halls during the 1890s.\nThe original Broadway production ran for over two years beginning in 1953, and the 1954 West End production was also a success. Gwen Verdon, in only her second Broadway role, and choreographer Michael Kidd won Tony Awards and were praised, but both the score and book received tepid reviews, and revivals generally have not fared well.",
+        "source_url": "https://en.wikipedia.org/wiki/Can-Can_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "comfort-women-a-new-musical": {
+      "slug": "comfort-women-a-new-musical",
+      "title": "Comfort Women: A New Musical",
+      "qid": "Q85753508",
+      "enwiki": "Comfort Women: A New Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Comfort_Women%3A_A_New_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q85753508"
+      },
+      "summary": {
+        "text": "Comfort Women: A New Musical is a musical about the Korean comfort women who were sold as sex slaves for the Imperial Japanese Army during World War II. It is written and directed by Dimo Hyun Jun Kim, a South Korean theater director.",
+        "source_url": "https://en.wikipedia.org/wiki/Comfort_Women%3A_A_New_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "fiddler-on-the-roof": {
+      "slug": "fiddler-on-the-roof",
+      "title": "Fiddler on the Roof",
+      "qid": "Q487330",
+      "enwiki": "Fiddler on the Roof",
+      "composers": [
+        {
+          "name": "Jerry Bock",
+          "qid": "Q725042",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/69330"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Sheldon Harnick",
+          "qid": "Q2354471",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8645"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Joseph Stein",
+          "qid": "Q1361175",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6978"
+        }
+      ],
+      "premiere": {
+        "date": "1964",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3513",
+        "playbill": "https://playbill.com/production/fiddler-on-the-roof-imperial-theatre-vault-0000006051",
+        "wikipedia": "https://en.wikipedia.org/wiki/Fiddler_on_the_Roof",
+        "wikidata": "https://www.wikidata.org/wiki/Q487330"
+      },
+      "summary": {
+        "text": "Fiddler on the Roof is a musical with music by Jerry Bock, lyrics by Sheldon Harnick, and book by Joseph Stein, set in the Pale of Settlement of Imperial Russia in or around 1905. It is based on \"Tevye the Dairyman\" and other short stories by Sholem Aleichem. The story centers on Tevye, a Jewish milkman in the fictional village of Anatevka, who attempts to maintain his people's traditions as outside influences encroach upon his family's lives. He must cope with the strong-willed actions of his three older daughters who wish to marry for love; their choices of husbands are successively less palatable for Tevye. An edict of the tsar eventually evicts the Jews from their village.\nThe original Broadway production of the show, which opened in 1964, was the first musical theatre run in history to surpass 3,000 performances. Fiddler held the record for the longest-running Broadway musical for almost 10 years until Grease surpassed its run. The production was profitable and, winning nine Tony Awards, including best musical, score, book, direction and choreography. It spawned five Broadway revivals and a 1971 film adaptation and has enjoyed enduring international popularity. It has also been a popular choice for school and community productions.",
+        "source_url": "https://en.wikipedia.org/wiki/Fiddler_on_the_Roof",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "fly-with-me": {
+      "slug": "fly-with-me",
+      "title": "Fly with Me",
+      "qid": "Q120682583",
+      "enwiki": "Fly with Me (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Fly_with_Me_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q120682583"
+      },
+      "summary": {
+        "text": "Fly with Me is a musical written by Rodgers and Hart for the 1920 Varsity Show at Columbia University. The book was by Milton Kroopf and Phillip Leavitt, adapted by Lorenz Hart. Lyrics were by Hart, and music by Richard Rodgers, with additional lyrics by Oscar Hammerstein II and choreography by Herbert Fields. Premiering only 18 days after their first musical, You'd Be Surprised, Fly with Me was the second collaboration between Rodgers and Hart, and incidentally the first work on which Rodgers and Hammerstein cooperated. It was one of the only collaborations between all three men.",
+        "source_url": "https://en.wikipedia.org/wiki/Fly_with_Me_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "higgledy-piggledy": {
+      "slug": "higgledy-piggledy",
+      "title": "Higgledy-Piggledy",
+      "qid": "Q121335442",
+      "enwiki": "Higgledy-Piggledy",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Higgledy-Piggledy",
+        "wikidata": "https://www.wikidata.org/wiki/Q121335442"
+      },
+      "summary": {
+        "text": "Higgledy-Piggledy is a musical in two acts with music by Maurice Levi and both book and lyrics by Edgar Smith. It was produced by Florenz Ziegfeld Jr. and Joseph M. Weber, and written as a starring vehicle for Ziegfeld's longtime romantic companion, the actress Anna Held, and for vaudevillian comedian Joe Weber who had recently split from his comedic partnership with Lew Fields. While critical responses to the production overwhelmingly cited the felt absence of Lew Fields and the difficulty of Weber's persona coping with that loss, the work was still a popular success and well received largely due to the actress Marie Dressler who gave a highly lauded star making performance in the role of Philopena Schnitz that propelled the show through a relatively long run on Broadway and on tour.",
+        "source_url": "https://en.wikipedia.org/wiki/Higgledy-Piggledy",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "idol-the-musical": {
+      "slug": "idol-the-musical",
+      "title": "Idol: The Musical",
+      "qid": "Q5989287",
+      "enwiki": "Idol: The Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Idol%3A_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q5989287"
+      },
+      "summary": {
+        "text": "Idol: The Musical is an American off-Broadway musical based on the popular TV show American Idol. The story is about a group of \"dork-like\" characters who dream of winning a spot as the opening act in Clay Aiken's new tour. The music was written by Jon Balcourt, lyrics co-written by Balcourt and Todd Ellis, and directed by Dan Tursi. The original story was conceived and outlined, including plot, songs, and characters, by Ellis.\nThe show began previews at the 45th Street Theatre on July 5, 2007. The show closed on its official opening night of August 12, 2007, due to poor ticket sales and bad word of mouth.",
+        "source_url": "https://en.wikipedia.org/wiki/Idol%3A_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "lifting-the-lid": {
+      "slug": "lifting-the-lid",
+      "title": "Lifting the Lid",
+      "qid": "Q124892308",
+      "enwiki": "Lifting the Lid",
+      "composers": [
+        {
+          "name": "Jean Schwartz",
+          "qid": "Q6171492",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12374"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "William Jerome",
+          "qid": "Q8013564",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11936"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "John J. McNally",
+          "qid": "Q66680413",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6835"
+        }
+      ],
+      "premiere": {
+        "date": "1905-06-05",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Lifting_the_Lid",
+        "wikidata": "https://www.wikidata.org/wiki/Q124892308"
+      },
+      "summary": {
+        "text": "Lifting the Lid is a musical in four scenes with music by Jean Schwartz, lyrics by William Jerome, and a book by John J. McNally. The musical was a spoof of New York City politics of the early 20th century, and included impersonations of both political figures and other personalities of the period. The Manhattan district attorney William Travers Jerome was particularly lampooned as the musical's central character, district attorney William T. G. Rome, was a send up of Jerome and performed in an uncanny impersonation by the actor Julius Tannen.",
+        "source_url": "https://en.wikipedia.org/wiki/Lifting_the_Lid",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "mama-i-want-to-sing": {
+      "slug": "mama-i-want-to-sing",
+      "title": "Mama, I Want to Sing!",
+      "qid": "Q6745259",
+      "enwiki": "Mama, I Want to Sing! (musical)",
+      "composers": [],
+      "lyricists": [
+        {
+          "name": "Vy Higginsen",
+          "qid": "Q28731193",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/24006"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": "1983-03-23",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Mama%2C_I_Want_to_Sing!_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6745259"
+      },
+      "summary": {
+        "text": "Mama, I Want to Sing! is a 1983 musical based on the life and times of African-American singer Doris Troy.",
+        "source_url": "https://en.wikipedia.org/wiki/Mama%2C_I_Want_to_Sing!_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "man-of-la-mancha": {
+      "slug": "man-of-la-mancha",
+      "title": "Man of La Mancha",
+      "qid": "Q559584",
+      "enwiki": "Man of La Mancha",
+      "composers": [
+        {
+          "name": "Mitch Leigh",
+          "qid": "Q1939469",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12043"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Joe Darion",
+          "qid": "Q3180042",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6760"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Dale Wasserman",
+          "qid": "Q710329",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4941"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Tony Award for Best Scenic Design",
+          "qid": "Q13449461"
+        },
+        {
+          "name": "Tony Award for Best Original Score",
+          "qid": "Q1478089"
+        },
+        {
+          "name": "Tony Award for Best Actor in a Musical",
+          "qid": "Q1723064"
+        },
+        {
+          "name": "Tony Award for Best Musical",
+          "qid": "Q1780176"
+        },
+        {
+          "name": "Tony Award for Best Direction of a Musical",
+          "qid": "Q377293"
+        }
+      ],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5817",
+        "wikipedia": "https://en.wikipedia.org/wiki/Man_of_La_Mancha",
+        "wikidata": "https://www.wikidata.org/wiki/Q559584"
+      },
+      "summary": {
+        "text": "Man of La Mancha is a 1965 musical with a book by Dale Wasserman, music by Mitch Leigh, and lyrics by Joe Darion. It is adapted from Wasserman's non-musical 1959 teleplay I, Don Quixote, which was in turn inspired by Miguel de Cervantes and his 17th-century novel Don Quixote. It tells the story of the \"mad\" knight Don Quixote as a play within a play, performed by Cervantes and his fellow prisoners as he awaits a hearing with the Spanish Inquisition. \nThe work is not and does not pretend to be a faithful rendition of either Cervantes's life or Don Quixote. Wasserman complained repeatedly about people taking the work as a musical version of Don Quixote.\nThe original 1965 Broadway production ran for 2,328 performances and won five Tony Awards, including Best Musical. It has been revived four times on Broadway, becoming one of the most enduring works of musical theatre.\n\"The Impossible Dream\", the principal song in the show, became a standard. The musical has played in many other countries around the world, with productions in Croatian, Dutch, French (translation by Jacques Brel), German, Hebrew, Irish, Estonian, Japanese, Korean, Bengali, Gujarati, Uzbek, Bulgarian, Hungarian, Serbian, Slovenian, Swahili, Swedish, Finnish, Chinese, Ukrainian, Turkish, and nine distinct dialects of the Spanish language.\nMan of La Mancha was first performed at the Goodspeed Opera House in East Haddam, Connecticut in 1965 and had its New York premiere on the thrust stage of the ANTA Washington Square Theatre in 1965.",
+        "source_url": "https://en.wikipedia.org/wiki/Man_of_La_Mancha",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "new-faces-of-1952": {
+      "slug": "new-faces-of-1952",
+      "title": "New Faces of 1952",
+      "qid": "Q16982541",
+      "enwiki": "New Faces of 1952",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6488",
+        "wikipedia": "https://en.wikipedia.org/wiki/New_Faces_of_1952",
+        "wikidata": "https://www.wikidata.org/wiki/Q16982541"
+      },
+      "summary": {
+        "text": "New Faces of 1952, also known as Leonard Sillman's New Faces of 1952, is a 1952 musical revue with songs and comedy skits, produced and conceived by Leonard Sillman. It was the fourth of Sillman's seven New Faces revues, each intended to showcase the rising stars of that time; the other years for which \"New Faces of ...\" revues were produced were 1934, 1936, 1943, 1956, 1962, and 1968. New Faces of 1952 was the most successful of the series, and is generally considered the best, for both the talent of the performers and the quality of the writing. The show ran on Broadway for nearly a year in 1952, and helped launch the careers of Paul Lynde, Alice Ghostley, Eartha Kitt, Robert Clary, Carol Lawrence, Ronny Graham, performer/writer Mel Brooks (as Melvin Brooks), and lyricist Sheldon Harnick.\nSongs from the show include \"Monotonous\", sung by Eartha Kitt in the show and identified with her throughout her career; \"Guess Who I Saw Today\", sung by June Carroll in the show and subsequently recorded by numerous singers, most notably Nancy Wilson; and \"Love is a Simple Thing\", sung in the show by Rosemary O'Reilly, Robert Clary, Eartha Kitt, and June Carroll and later recorded by artists including Sauter-Finegan Orchestra, Debbie Reynolds, Arthur Siegel, Jane Morgan, Carmen McRae and the Muppets.\nNew Faces of 1952 was adapted as a 1954 film, titled simply New Faces, which included the original cast. In 1982, the revue had an off-Broadway revival at the Equity Library Theatre.",
+        "source_url": "https://en.wikipedia.org/wiki/New_Faces_of_1952",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "olympus-on-my-mind": {
+      "slug": "olympus-on-my-mind",
+      "title": "Olympus on My Mind",
+      "qid": "Q7089267",
+      "enwiki": "Olympus on My Mind",
+      "composers": [],
+      "lyricists": [
+        {
+          "name": "Barry Harman",
+          "qid": "Q4864509",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4425"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Barry Harman",
+          "qid": "Q4864509",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4425"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Olympus_on_My_Mind",
+        "wikidata": "https://www.wikidata.org/wiki/Q7089267"
+      },
+      "summary": {
+        "text": "Olympus On My Mind is a musical with music by Grant Sturiale and a book and lyrics by Barry Harman, based on Heinrich Von Kleist's adaptation of Plautus' Amphitryon.  The musical ran Off-Broadway at Lamb's Theatre for 297 performances in 1986. It was also staged that year in a regional production in Fairfield, Connecticut by the Boston Post Road Stage Company.",
+        "source_url": "https://en.wikipedia.org/wiki/Olympus_on_My_Mind",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "postcards-from-god": {
+      "slug": "postcards-from-god",
+      "title": "Postcards from God",
+      "qid": "Q7234104",
+      "enwiki": "Postcards from God",
+      "composers": [
+        {
+          "name": "Marcus Reeves",
+          "qid": "Q6758410"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Marcus Reeves",
+          "qid": "Q6758410"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Marcus Reeves",
+          "qid": "Q6758410"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Postcards_from_God",
+        "wikidata": "https://www.wikidata.org/wiki/Q7234104"
+      },
+      "summary": {
+        "text": "Postcards from God – The Sister Wendy Musical is a British musical with songs, lyrics and book by Marcus Reeves, based on the life and works of Sister Wendy Beckett, the noted art critic and nun of the order of the Sisters of Notre Dame de Namur and later consecrated virgin and hermit.\nPostcards from God began as a series of cabaret performances at Battersea Arts Centre in 2004 and is the story of art expert and writer Sister Wendy Beckett (1930–2018) who became somewhat of a media sensation in the 1990s with her television documentaries Sister Wendy's Odyssey (1992), Sister Wendy's Grand Tour (1997), Sister Wendy's Story of Painting (1997), Sister Wendy's American Collection (2001), and Sister Wendy at the Norton Simon Museum (2001).",
+        "source_url": "https://en.wikipedia.org/wiki/Postcards_from_God",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "rumple": {
+      "slug": "rumple",
+      "title": "Rumple",
+      "qid": "Q85798169",
+      "enwiki": "Rumple (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7676",
+        "playbill": "https://playbill.com/production/rumple-alvin-theatre-vault-0000000914",
+        "wikipedia": "https://en.wikipedia.org/wiki/Rumple_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q85798169"
+      },
+      "summary": {
+        "text": "Rumple is a comedy-musical with a book by Irving Phillips, music by Ernest G. Schweikert, and lyrics by Frank Reardon. The story, based on Phillips' 1955 play The Funnyman, concerns a comic strip creator and his character, Rumple, who resists the discontinuation of the strip.\nIt was produced on Broadway in 1957.",
+        "source_url": "https://en.wikipedia.org/wiki/Rumple_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "shenandoah": {
+      "slug": "shenandoah",
+      "title": "Shenandoah",
+      "qid": "Q7494157",
+      "enwiki": "Shenandoah (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "James Lee Barrett",
+          "qid": "Q1680701",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6608"
+        },
+        {
+          "name": "Philip Rose",
+          "qid": "Q7184311",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8156"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7939",
+        "wikipedia": "https://en.wikipedia.org/wiki/Shenandoah_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7494157"
+      },
+      "summary": {
+        "text": "Shenandoah is a 1974 musical with music by Gary Geld, lyrics by Peter Udell, and book by Udell, Philip Rose, and James Lee Barrett. It is based on Barrett's original screenplay for the 1965 film Shenandoah.",
+        "source_url": "https://en.wikipedia.org/wiki/Shenandoah_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "tale-of-the-pipa": {
+      "slug": "tale-of-the-pipa",
+      "title": "Tale of the Pipa",
+      "qid": "Q6750166",
+      "enwiki": "Tale of the Pipa",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Tale_of_the_Pipa",
+        "wikidata": "https://www.wikidata.org/wiki/Q6750166"
+      },
+      "summary": {
+        "text": "Tale of the Pipa (traditional Chinese: 琵琶記; simplified Chinese: 琵琶记; pinyin: Pípa jì; Wade–Giles: P'i-p'a chi \"Tale of the Pipa\" or \"The Story of the Lute\") is a Chinese nanxi play written by the playwright Gao Ming during the late Yuan dynasty. There are French, German, English translations of the play, and an English novelization-translation.\nIt was the most popular drama during the Ming dynasty, and it became a model for Ming drama as it was the favorite opera of the first Ming emperor Zhu Yuanzhang.\nThe play is set during the Han dynasty. Based on an older play, Zhao Zhen nü and Cai Erlang (趙貞女蔡二郎), also known as Zhao zhen nü (趙貞女, The Chaste Maiden Zhao), it tells the story of a loyal wife named Zhao Wuniang (趙五孃; 赵五娘; Zhào Wǔniáng; Chao4 Wu3-niang2) who, left destitute when her husband Cai Yong is forced to marry another woman, undertakes a 12-year search for him. During her journey, she plays the pipa of the play's title in order to make a living. The original story sees Zhao killed by a horse and Cai struck by lightning, however in Gao Ming's version the two are eventually reconciled and live out their lives happily. Gao reportedly composed The Lute over a three-year period of solitary confinement, locking himself in an attic room and wearing down the floorboards by tapping out the rhythms of his songs.",
+        "source_url": "https://en.wikipedia.org/wiki/Tale_of_the_Pipa",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-frogs": {
+      "slug": "the-frogs",
+      "title": "The Frogs",
+      "qid": "Q7735351",
+      "enwiki": "The Frogs (musical)",
+      "composers": [
+        {
+          "name": "Stephen Sondheim",
+          "qid": "Q153579",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12430"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Stephen Sondheim",
+          "qid": "Q153579",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12430"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Burt Shevelove",
+          "qid": "Q2136301",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4626"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/11276",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Frogs_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7735351"
+      },
+      "summary": {
+        "text": "The Frogs is a musical \"freely adapted\" by Stephen Sondheim and Burt Shevelove from The Frogs, an Ancient Greek comedy by Aristophanes. In the musical, Dionysos, despairing of the quality of living dramatists, travels to Hades to bring George Bernard Shaw back from the dead. William Shakespeare competes with Shaw for the title of best playwright, which he wins. Dionysos brings Shakespeare back to the world of the living in the hope that art can save civilization.\nThe musical was originally performed in Yale University's gymnasium's swimming pool in 1974. The show was produced on Broadway in 2004 with the book revised by Nathan Lane and the score expanded by Sondheim. This version was revived in London in 2017 and 2025.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Frogs_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "toy-show-the-musical": {
+      "slug": "toy-show-the-musical",
+      "title": "Toy Show The Musical",
+      "qid": "Q115817558",
+      "enwiki": "Toy Show The Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Toy_Show_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q115817558"
+      },
+      "summary": {
+        "text": "Toy Show The Musical is a musical based on The Late Late Toy Show. It was created and developed by RTÉ, the national broadcaster of Ireland. The musical focuses on a twelve-year-old girl, Nell Mooney, who goes on an adventure as she and her family prepare for the Toy Show.\nToy Show The Musical opened at the Convention Centre in Dublin, on 10 December 2022 and ran until 31 December 2022.\nPoor ticket sales resulted in a heavy financial loss to RTÉ.",
+        "source_url": "https://en.wikipedia.org/wiki/Toy_Show_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

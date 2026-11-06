@@ -1,0 +1,747 @@
+{
+  "live": true,
+  "shows": {
+    "amour": {
+      "slug": "amour",
+      "title": "Amour",
+      "qid": "Q4747995",
+      "enwiki": "Amour (musical)",
+      "composers": [
+        {
+          "name": "Michel Legrand",
+          "qid": "Q313281",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12036"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Didier Van Cauwelaert",
+          "qid": "Q722453",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/101201"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Jeremy Sams",
+          "qid": "Q6181852",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9612"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/11057",
+        "wikipedia": "https://en.wikipedia.org/wiki/Amour_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4747995"
+      },
+      "summary": {
+        "text": "Amour is a musical fantasy with an English book and lyrics by Jeremy Sams, music by Michel Legrand, and original French lyrics by Didier Van Cauwelaert, who also wrote the original French libretto.\nThe musical is adapted from the 1943 short story Le Passe-Muraille by Marcel Aymé and set in Paris shortly after World War II. It centers on a shy, unassuming clerk who develops the ability to walk through walls, and who challenges himself to stick to his moral center and change others' lives, and his own, as a result.",
+        "source_url": "https://en.wikipedia.org/wiki/Amour_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "ang-huling-el-bimbo": {
+      "slug": "ang-huling-el-bimbo",
+      "title": "Ang Huling El Bimbo",
+      "qid": "Q105226361",
+      "enwiki": "Ang Huling El Bimbo (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Ang_Huling_El_Bimbo_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q105226361"
+      },
+      "summary": {
+        "text": "Ang Huling El Bimbo: a musical featuring the songs of the most iconic 90's band popularly known as Ang Huling El Bimbo, is a jukebox musical written by Dingdong Novenario, featuring the hit songs of the Filipino band Eraserheads. It features the lyrics and melodies of at least 40 of the band's songs, including the titular song. Dexter Santos directed and choreographed the musical, with Myke Salomon serving as its musical director. The Manila Philharmonic Orchestra, conducted by Rodel Colmenar, provided the music, accompanied by a live band. The set design is by Gino Gonzales, with lighting by Monino Duque.\nThe musical premiered on July 20, 2018 at the Newport Performing Arts Theatre in Pasay. A second production was made in 2019 featuring new cast, and ran from March 1 to April 6, and again from July 5 to August 18. A recorded 2019 performance was streamed for free online on the official YouTube channel and Facebook page of ABS-CBN from May 8 to 9, 2020. It was also streamed on TFC Online in September 2020, and on digital platform KTX.PH from November 28 to 29, 2020.",
+        "source_url": "https://en.wikipedia.org/wiki/Ang_Huling_El_Bimbo_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "back-to-the-future-the-musical": {
+      "slug": "back-to-the-future-the-musical",
+      "title": "Back to the Future: The Musical",
+      "qid": "Q17014801",
+      "enwiki": "Back to the Future: The Musical",
+      "composers": [
+        {
+          "name": "Alan Silvestri",
+          "qid": "Q313537"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Glen Ballard",
+          "qid": "Q920983",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/490928"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Bob Gale",
+          "qid": "Q725773"
+        }
+      ],
+      "premiere": {
+        "date": "2020-02-20",
+        "venue": "Manchester Opera House"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/535439",
+        "official_site": "https://www.backtothefuturemusical.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Back_to_the_Future%3A_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q17014801"
+      },
+      "summary": {
+        "text": "Back to the Future: The Musical is a musical with music and lyrics by Alan Silvestri and Glen Ballard and a book by Bob Gale. It is adapted from the 1985 film Back to the Future by Robert Zemeckis and Gale. The show features original music, as well as songs featured in the film (\"The Power of Love\", \"Earth Angel\", \"Johnny B. Goode\" and \"Back in Time\").\nOriginally planned to première in London's West End in 2015, the year to which the film trilogy's characters traveled in Part II, a change in directors delayed the production. The musical premiered at Manchester Opera House in February 2020, ahead of a 2021 West End transfer. It starred Olly Dobson as Marty McFly and Roger Bart as \"Doc\" Brown, with Hugh Coles as George McFly. The production received positive reviews in London and won the Laurence Olivier Award for Best New Musical in 2022. It ran until 2026.\nThe musical ran on Broadway from June 2023 until January 2025. Bart and Coles reprised their roles, and Casey Likes played Marty.  A North American tour began in June 2024.",
+        "source_url": "https://en.wikipedia.org/wiki/Back_to_the_Future%3A_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "bad-girls-the-musical": {
+      "slug": "bad-girls-the-musical",
+      "title": "Bad Girls: The Musical",
+      "qid": "Q4840294",
+      "enwiki": "Bad Girls: The Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Bad_Girls%3A_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q4840294"
+      },
+      "summary": {
+        "text": "Bad Girls: The Musical is a stage musical based on the ITV prison drama series Bad Girls, with a book by Maureen Chadwick and Ann McManus, and music and lyrics by Kath Gotts.",
+        "source_url": "https://en.wikipedia.org/wiki/Bad_Girls%3A_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "carousel": {
+      "slug": "carousel",
+      "title": "Carousel",
+      "qid": "Q1044703",
+      "enwiki": "Carousel (musical)",
+      "composers": [
+        {
+          "name": "Richard Rodgers",
+          "qid": "Q269094",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12311"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Oscar Hammerstein II",
+          "qid": "Q319693",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7965"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Oscar Hammerstein II",
+          "qid": "Q319693",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7965"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Grammy Hall of Fame",
+          "qid": "Q81180"
+        }
+      ],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2419",
+        "wikipedia": "https://en.wikipedia.org/wiki/Carousel_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1044703"
+      },
+      "summary": {
+        "text": "Carousel is the second musical by the team of Richard Rodgers (music) and Oscar Hammerstein II (book and lyrics). The 1945 work was adapted from Ferenc Molnár's 1909 play Liliom, transplanting its Budapest setting to the Maine coastline. The story revolves around carousel barker Billy Bigelow, whose romance with millworker Julie Jordan comes at the price of both their jobs. He participates in a robbery to provide for Julie and their unborn child; after it goes tragically wrong, he is given a chance to make things right. A secondary plot line deals with millworker Carrie Pipperidge and her romance with ambitious fisherman Enoch Snow. The show includes the songs \"If I Loved You\", \"June Is Bustin' Out All Over\" and \"You'll Never Walk Alone\". Richard Rodgers later wrote that Carousel was his favorite of all his musicals.\nFollowing the spectacular success of the first Rodgers and Hammerstein musical, Oklahoma! (1943), the pair sought to collaborate on another piece, knowing that any resulting work would be compared with Oklahoma!, most likely unfavorably. They were initially reluctant to seek the rights to Liliom; Molnár had refused permission for the work to be adapted in the past, and the original ending was considered too depressing for the musical theatre. After acquiring the rights, the team created a work with lengthy sequences of music and made the ending more hopeful.\nThe musical required considerable modification during out-of-town tryouts, but once it opened on Broadway on April 19, 1945, it was an immediate hit with both critics and audiences. Carousel initially ran for 890 performances and duplicated its success in the West End in 1950. Though it has never achieved as much commercial success as Oklahoma!, the piece has been repeatedly revived, recorded several times and was filmed in 1956.  A production by Nicholas Hytner enjoyed success in 1992 in London, in 1994 in New York and on tour. Another Broadway revival opened in 2018.  In 1999, Time magazine named Carousel the best musical of the 20th century.",
+        "source_url": "https://en.wikipedia.org/wiki/Carousel_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "chronicle-of-a-death-foretold": {
+      "slug": "chronicle-of-a-death-foretold",
+      "title": "Chronicle of a Death Foretold",
+      "qid": "Q5114037",
+      "enwiki": "Chronicle of a Death Foretold (musical)",
+      "composers": [
+        {
+          "name": "Bob Telson",
+          "qid": "Q4934165",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12487"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Graciela Daniele",
+          "qid": "Q5591561",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5948"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2583",
+        "wikipedia": "https://en.wikipedia.org/wiki/Chronicle_of_a_Death_Foretold_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5114037"
+      },
+      "summary": {
+        "text": "Chronicle of a Death Foretold is a musical with a book and lyrics by Graciela Daniele and Jim Lewis (and additional material by Michael John LaChiusa) and music by Bob Telson.  It is  based on Gabriel García Márquez's 1981 novella of the same name.",
+        "source_url": "https://en.wikipedia.org/wiki/Chronicle_of_a_Death_Foretold_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "de-3-biggetjes": {
+      "slug": "de-3-biggetjes",
+      "title": "De 3 Biggetjes",
+      "qid": "Q2048576",
+      "enwiki": "De 3 Biggetjes (musical)",
+      "composers": [
+        {
+          "name": "Johan van den Eeden",
+          "qid": "Q2317765"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Gert Verhulst",
+          "qid": "Q1515364"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/De_3_Biggetjes_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q2048576"
+      },
+      "summary": {
+        "text": "The Three Little Pigs (Dutch: De 3 Biggetjes) is a Flemish-Dutch musical, based on the fairy tale of the same name and serves as a sequel to it. The leading roles are played by the pop group K3. The musical tells the story of the three daughters of the pig with the brick house: Knirri, Knarri, and Knorri, who work as waitresses in their mother's Three Little Pigs Café. Meanwhile, the big bad wolf now has three sons, who are the same age as the three pig sisters. The wolf wants his sons to catch the three pig sisters as part of a personal vendetta, but the pigs and wolves fall in love with each other instead.",
+        "source_url": "https://en.wikipedia.org/wiki/De_3_Biggetjes_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "fermat-s-last-tango": {
+      "slug": "fermat-s-last-tango",
+      "title": "Fermat's Last Tango",
+      "qid": "Q118997245",
+      "enwiki": "Fermat's Last Tango",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Fermat's_Last_Tango",
+        "wikidata": "https://www.wikidata.org/wiki/Q118997245"
+      },
+      "summary": {
+        "text": "Fermat's Last Tango is a 2000 off-Broadway musical about the proof of Fermat's Last Theorem, written by husband and wife Joshua Rosenblum (music, lyrics) and Joanne Sydney Lessner (book, lyrics). The musical presents a fictionalized version of the real life story of Andrew Wiles, and has been praised for the accuracy of the mathematical content. The original production at the York Theatre received mixed reviews, but the musical was well received by mathematical audiences. A video of the original production has been distributed by the Clay Mathematics Institute and shown at several mathematical conferences and similar occasions. The musical has also been translated into Portuguese.",
+        "source_url": "https://en.wikipedia.org/wiki/Fermat's_Last_Tango",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "happy-arcadia": {
+      "slug": "happy-arcadia",
+      "title": "Happy Arcadia",
+      "qid": "Q5652476",
+      "enwiki": "Happy Arcadia",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Happy_Arcadia",
+        "wikidata": "https://www.wikidata.org/wiki/Q5652476"
+      },
+      "summary": {
+        "text": "Happy Arcadia is a musical entertainment with a libretto by W. S. Gilbert and music originally by Frederic Clay that premiered on 28 October 1872 at the Royal Gallery of Illustration. It was one of four collaborations between Gilbert and Clay between 1869 and 1876. The music is lost. The piece is a satire on the genre of pastoral plays in which the characters, who each wish that they could be someone else, have their wish granted, with unhappy results.\nGilbert and Sullivan later produced a comic opera, Iolanthe, in which two of the characters, Strephon and Phyllis, are \"Arcadian\" shepherds. Phyllis, like Chloe, is torn between two suitors. The character of Lycidas also anticipates the character of Archibald Grosvenor in another Gilbert and Sullivan opera, Patience, who is cursed with perfect beauty.",
+        "source_url": "https://en.wikipedia.org/wiki/Happy_Arcadia",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "her-first-roman": {
+      "slug": "her-first-roman",
+      "title": "Her First Roman",
+      "qid": "Q5732227",
+      "enwiki": "Her First Roman",
+      "composers": [
+        {
+          "name": "Ervin Drake",
+          "qid": "Q4357264",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5140"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Ervin Drake",
+          "qid": "Q4357264",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5140"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4337",
+        "wikipedia": "https://en.wikipedia.org/wiki/Her_First_Roman",
+        "wikidata": "https://www.wikidata.org/wiki/Q5732227"
+      },
+      "summary": {
+        "text": "Her First Roman is a musical with music, lyrics, and book by Ervin Drake, based on the 1898 George Bernard Shaw play Caesar and Cleopatra.",
+        "source_url": "https://en.wikipedia.org/wiki/Her_First_Roman",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "jimmy-shine": {
+      "slug": "jimmy-shine",
+      "title": "Jimmy Shine",
+      "qid": "Q6201276",
+      "enwiki": "Jimmy Shine",
+      "composers": [
+        {
+          "name": "John Sebastian",
+          "qid": "Q967761",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12381"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": "Lena Horne Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4895",
+        "wikipedia": "https://en.wikipedia.org/wiki/Jimmy_Shine",
+        "wikidata": "https://www.wikidata.org/wiki/Q6201276"
+      },
+      "summary": {
+        "text": "Jimmy Shine is a play with music. It was written by Murray Schisgal with music and lyrics by John Sebastian. The plot centers on its title character who is a struggling artist in Greenwich Village during the 1960s. Much of the story follows Jimmy's relationships with various women in his life and how he copes with love, sex, death, and rejection in relation to both himself and his art.",
+        "source_url": "https://en.wikipedia.org/wiki/Jimmy_Shine",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "like-me": {
+      "slug": "like-me",
+      "title": "Like Me",
+      "qid": "Q18211077",
+      "enwiki": "Like Me (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Jon Smith",
+          "qid": "Q6271590"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "http://www.likememusical.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Like_Me_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q18211077"
+      },
+      "summary": {
+        "text": "Like Me is a musical with music and lyrics by Garry Lake and book by Jon Smith. It tells the story of a group of four young adults navigating the social media minefield, looking for each other, for love, for validation and ultimately, for themselves – in amongst a cyber world populated by thousands of 'followers' and 'friends'. Haunted by a lack of self-confidence and self-respect, Emma, Ashley, Luke and Charlie face physical, emotional and psychological challenges, leading them to question their very identity.\nOriginally conceived as a song cycle by Garry Lake and performed at the Duplex, New York and the CMO Club at the Conrad Hilton, the full-book musical was first seen in a showcase performance at the Courtyard Theatre, London October 3, 2014. Most recently, Like Me was showcased at The Waterloo East Theatre on April 11, 2015.",
+        "source_url": "https://en.wikipedia.org/wiki/Like_Me_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "red-pepper": {
+      "slug": "red-pepper",
+      "title": "Red Pepper",
+      "qid": "Q125398750",
+      "enwiki": "Red Pepper (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Red_Pepper_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q125398750"
+      },
+      "summary": {
+        "text": "Red Pepper is a musical in two acts with music by Albert Gumble and Owen Murphy, lyrics by Howard Emmett Rogers, and a book by Edgar Smith and Emily Young. Staged on Broadway in 1922 after a premiere in Baltimore in 1921, the musical was created for the comedy duo of McIntyre and Heath, who were famous for their performances in blackface.\nSet at a racetrack in Havana, Cuba, and in the Southern United States, Red Pepper takes its title from a race horse who is featured in the musical's storyline. It was one of the earliest musicals to use a musical score rooted in jazz, marking a shift away from operetta and ragtime which had dominated the musical theatre landscape previously in the 1910s and into the early 1920s.",
+        "source_url": "https://en.wikipedia.org/wiki/Red_Pepper_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "rockville-2069-a-rock-musical": {
+      "slug": "rockville-2069-a-rock-musical",
+      "title": "Rockville 2069: A Rock Musical",
+      "qid": "Q28444663",
+      "enwiki": "Rockville 2069: A Rock Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "http://www.rockville2069.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/Rockville_2069%3A_A_Rock_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q28444663"
+      },
+      "summary": {
+        "text": "Rockville 2069 is a rock musical created by Bruno Paiola and Johnny Ray, with musical composition by Johnny Ray. Its world premiere was at the Artscape Opera House in Cape Town, South Africa on August 29, 2014.",
+        "source_url": "https://en.wikipedia.org/wiki/Rockville_2069%3A_A_Rock_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "shuffle-along-or-the-making-of-the-musical-sensation-of-1921-and-all-that-followed": {
+      "slug": "shuffle-along-or-the-making-of-the-musical-sensation-of-1921-and-all-that-followed",
+      "title": "Shuffle Along, or, the Making of the Musical Sensation of 1921 and All That Followed",
+      "qid": "Q23058680",
+      "enwiki": "Shuffle Along, or, the Making of the Musical Sensation of 1921 and All That Followed",
+      "composers": [
+        {
+          "name": "Eubie Blake",
+          "qid": "Q919632",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4552"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2016-04-28",
+        "venue": "Music Box Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/499863",
+        "official_site": "http://shufflealongbroadway.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Shuffle_Along%2C_or%2C_the_Making_of_the_Musical_Sensation_of_1921_and_All_That_Followed",
+        "wikidata": "https://www.wikidata.org/wiki/Q23058680"
+      },
+      "summary": {
+        "text": "Shuffle Along, or, the Making of the Musical Sensation of 1921 and All That Followed is a musical with a score by Eubie Blake and Noble Sissle and a libretto by George C. Wolfe, based on the original book of the 1921 musical revue Shuffle Along, by Flournoy Miller and Aubrey Lyles. The story focuses on the challenges of mounting the original production of Shuffle Along and its effect on Broadway and race relations.\nThe musical played on Broadway in 2016 and starred Audra McDonald, Brian Stokes Mitchell, Brandon Victor Dixon and Billy Porter. The initial critical response was mostly positive, with special praise from many critics for McDonald's performance. The production was nominated for ten Tony Awards but did not win any; it won four Drama Desk Awards, including Outstanding Musical.  Shuffle Along closed on July 24, 2016 after 38 previews and 100 regular performances.",
+        "source_url": "https://en.wikipedia.org/wiki/Shuffle_Along%2C_or%2C_the_Making_of_the_Musical_Sensation_of_1921_and_All_That_Followed",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "stephen-ward": {
+      "slug": "stephen-ward",
+      "title": "Stephen Ward",
+      "qid": "Q15631764",
+      "enwiki": "Stephen Ward (musical)",
+      "composers": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "qid": "Q180975",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12073"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Don Black",
+          "qid": "Q1238931",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5065"
+        },
+        {
+          "name": "Christopher Hampton",
+          "qid": "Q515274",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4835"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Christopher Hampton",
+          "qid": "Q515274",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4835"
+        }
+      ],
+      "premiere": {
+        "date": "2013-12-19",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "http://www.stephenwardthemusical.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/Stephen_Ward_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q15631764"
+      },
+      "summary": {
+        "text": "Stephen Ward is a musical with a book and lyrics by Don Black and Christopher Hampton, with music by Andrew Lloyd Webber. The musical is based on the 1963 Profumo affair involving the War Minister John Profumo and the socialite Stephen Ward who introduced Profumo to his mistress Christine Keeler, who was also involved with a Russian spy. The musical's world premiere was in London's West End at the Aldwych Theatre in 2013.",
+        "source_url": "https://en.wikipedia.org/wiki/Stephen_Ward_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-golden-apple": {
+      "slug": "the-golden-apple",
+      "title": "The Golden Apple",
+      "qid": "Q3521067",
+      "enwiki": "The Golden Apple (musical)",
+      "composers": [
+        {
+          "name": "Jerome Moross",
+          "qid": "Q2748374",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6714"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "John La Touche",
+          "qid": "Q466539",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6847"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3972",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Golden_Apple_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q3521067"
+      },
+      "summary": {
+        "text": "The Golden Apple is a musical in two acts with music by Jerome Moross and both book and lyrics by John Treville Latouche. The musical's story is based on parts of the Iliad and Odyssey. The musical premiered Off-Broadway in 1954 and then transferred to Broadway.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Golden_Apple_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-golden-bride": {
+      "slug": "the-golden-bride",
+      "title": "The Golden Bride",
+      "qid": "Q24964468",
+      "enwiki": "The Golden Bride",
+      "composers": [
+        {
+          "name": "Joseph Rumshinsky",
+          "qid": "Q6286700",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12340"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Golden_Bride",
+        "wikidata": "https://www.wikidata.org/wiki/Q24964468"
+      },
+      "summary": {
+        "text": "The Golden Bride (Yiddish: Die Goldene Kale) is a 1923, Yiddish language musical, or operetta.  It was revived in 2015 and again in 2016 by the Folksbiene National Yiddish Theatre in New York. The production received two Drama Desk nominations, one for Best Revival of a Musical and for Best Director for Bryna Wasserman and Motl Didner.\nDie Goldene Kale premiered in 1923 with music by Joseph Rumshinsky, lyrics by Louis Gilrod and a book by Frieda Freiman at Kessler's Second Avenue Theater, on New York's Lower East Side.\nThe popular show was produced in Yiddish-speaking communities in Europe, North and South America for a quarter of a century, but forgotten after its last run in 1948.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Golden_Bride",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-roar-of-the-greasepaint-the-smell-of-the-crowd": {
+      "slug": "the-roar-of-the-greasepaint-the-smell-of-the-crowd",
+      "title": "The Roar of the Greasepaint – The Smell of the Crowd",
+      "qid": "Q7761174",
+      "enwiki": "The Roar of the Greasepaint – The Smell of the Crowd",
+      "composers": [
+        {
+          "name": "Leslie Bricusse",
+          "qid": "Q1305608",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11429"
+        },
+        {
+          "name": "Anthony Newley",
+          "qid": "Q573709",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4204"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Leslie Bricusse",
+          "qid": "Q1305608",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11429"
+        },
+        {
+          "name": "Anthony Newley",
+          "qid": "Q573709",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4204"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Leslie Bricusse",
+          "qid": "Q1305608",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11429"
+        },
+        {
+          "name": "Anthony Newley",
+          "qid": "Q573709",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4204"
+        }
+      ],
+      "premiere": {
+        "date": "1964-08-03",
+        "venue": "Theatre Royal"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7560",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Roar_of_the_Greasepaint_%E2%80%93_The_Smell_of_the_Crowd",
+        "wikidata": "https://www.wikidata.org/wiki/Q7761174"
+      },
+      "summary": {
+        "text": "The Roar of the Greasepaint – The Smell of the Crowd is a musical with a book, music, and lyrics by Leslie Bricusse and Anthony Newley. The musical is best known for introducing the standards \"Look at That Face\", \"A Wonderful Day Like Today\", \"Who Can I Turn To?\", \"Feeling Good\", and \"The Joker\". The show title is a transposition of the phrase \"the smell of the greasepaint, the roar of the crowd,\" referring to the experience of theatre performers.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Roar_of_the_Greasepaint_%E2%80%93_The_Smell_of_the_Crowd",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-visitor": {
+      "slug": "the-visitor",
+      "title": "The Visitor",
+      "qid": "Q108541820",
+      "enwiki": "The Visitor (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Visitor_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q108541820"
+      },
+      "summary": {
+        "text": "The Visitor is a stage musical with music and lyrics by Tom Kitt and Brian Yorkey and a book by Yorkey and Kwame Kwei-Armah, based on the 2007 film of the same name. It premiered at The Public Theater in October 2021.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Visitor_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-well-of-romance": {
+      "slug": "the-well-of-romance",
+      "title": "The Well of Romance",
+      "qid": "Q7774215",
+      "enwiki": "The Well of Romance",
+      "composers": [
+        {
+          "name": "H. Maurice Jacquet",
+          "qid": "Q16855626"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Preston Sturges",
+          "qid": "Q546204",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8190"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Preston Sturges",
+          "qid": "Q546204",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8190"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/9228",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Well_of_Romance",
+        "wikidata": "https://www.wikidata.org/wiki/Q7774215"
+      },
+      "summary": {
+        "text": "The Well of Romance is a 1930 musical comedy operetta in two acts with book and lyrics by Preston Sturges and music by H. Maurice Jacquet. It was Sturges' fourth production to appear on Broadway.\nThe play originated in an operetta called Silver with music by Jacquet, which had a very large cast, but flopped and sent its backers into bankruptcy.  Sturges was to provide a new book and lyrics to use with the existing music and sets.  Money for the new production was put up by Sturges, and by Eleanor Hutton, an heiress who had just recently married Sturges.\nThe Broadway production was staged by J. H. Benrimo, choreographed by Leon Leonidoff and Florence Rogge, with chorus direction by Jacques Pintel.  It was produced by G. W. McGregor. The Well of Romance opened on November 7, 1930 at the Craig Theatre, and ran for just 8 performances, closing on November 12.\nThe play takes place at an inn in the spring of 1849.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Well_of_Romance",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "too-close-to-the-sun": {
+      "slug": "too-close-to-the-sun",
+      "title": "Too Close to the Sun",
+      "qid": "Q7823801",
+      "enwiki": "Too Close to the Sun",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Too_Close_to_the_Sun",
+        "wikidata": "https://www.wikidata.org/wiki/Q7823801"
+      },
+      "summary": {
+        "text": "Too Close to the Sun is a musical with a book by Roberto Trippini and music and lyrics by Trippini and John Robinson, based on a play by Ron Read.  The musical is a fictionalized account of the last days in the life of Ernest Hemingway.",
+        "source_url": "https://en.wikipedia.org/wiki/Too_Close_to_the_Sun",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

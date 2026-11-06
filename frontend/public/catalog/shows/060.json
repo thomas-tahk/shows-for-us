@@ -1,0 +1,485 @@
+{
+  "live": true,
+  "shows": {
+    "13-going-on-30": {
+      "slug": "13-going-on-30",
+      "title": "13 Going on 30",
+      "qid": "Q135225905",
+      "enwiki": "13 Going on 30 (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2025-09-21",
+        "venue": "Manchester Opera House"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/13_Going_on_30_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q135225905"
+      },
+      "summary": {
+        "text": "13 Going on 30 is a musical based on the 2004 film, with book by Josh Goldsmith and Cathy Yuspa, and songs by Alan Zachary and Michael Weiner.\nDirected by Andy Fickman, the world premiere production of 13 Going on 30 opened in Manchester at the Manchester Opera House in September 2025. Jennifer Garner, who starred as Jenna in the original film, serves as executive producer of the musical.",
+        "source_url": "https://en.wikipedia.org/wiki/13_Going_on_30_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "a-time-for-singing": {
+      "slug": "a-time-for-singing",
+      "title": "A Time for Singing",
+      "qid": "Q4660153",
+      "enwiki": "A Time for Singing",
+      "composers": [
+        {
+          "name": "John Morris",
+          "qid": "Q203188",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6872"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Gerald Freedman",
+          "qid": "Q3103875",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5884"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1309",
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Time_for_Singing",
+        "wikidata": "https://www.wikidata.org/wiki/Q4660153"
+      },
+      "summary": {
+        "text": "A Time for Singing is a musical with music by John Morris, lyrics by Gerald Freedman and John Morris, and a book by Freedman and Morris. The work was based on Richard Llewellyn's novel of a Welsh mining village, How Green Was My Valley. The show takes place in the memory of Protestant minister David Griffith, recalling conflict within the Morgan family over the possible formation of a miners' union within the village, and the romance between Griffith himself and Angharad of the Morgans, who ultimately marries the mine owner instead.\nThe show starred Ivor Emmanuel (as David Griffith), Tessie O'Shea, Shani Wallis and Laurence Naismith.\nThe original Broadway production began a series of ten previews at The Broadway Theatre on May 12, 1966, and opened officially on May 21, 1966, running for a total of only 41 performances. It closed on June 25, 1966.\nAn Alexander H. Cohen production, it has been called \"probably the best musical he ever produced.\" Cohen used an \"extravagant publicity machine\" to bring attention to the show, with the first 100 ticket buyers receiving \"folding chairs and a picnic lunch catered by the Brasserie restaurant.\" \nKen Mandelbaum argued that A Time for Singing pointed the way to later grand musicals like Les Misérables and Grand Hotel in both its staging and its music, which was \"richer and more serious\" than other shows of the period, with a \"cinematic fluidity and continuous movement\" that later became common in 1980s musicals.\nTheatre Historian Gerald Bordman, however, acknowledged the musical's \"fine choral singing\" but stated that \nthe music the singers were given was drab and did little to enhance the grim story of the Morgan family's tribulations\".\nBing Crosby recorded two songs from A Time for Singing for Reprise Records on May 9, 1966, with the Johnny Keating Orchestra and Chorus: \"Far From Home\" and \"How Green Was My Valley.\" They were released as a single. Stereo versions of the songs were released in 2010. A remastered CD of the original Broadway cast recording was issued in a limited edition by producer Bruce Kimmel on his Kritzerland label on April 3, 2013.",
+        "source_url": "https://en.wikipedia.org/wiki/A_Time_for_Singing",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "bedknobs-and-broomsticks": {
+      "slug": "bedknobs-and-broomsticks",
+      "title": "Bedknobs and Broomsticks",
+      "qid": "Q55639290",
+      "enwiki": "Bedknobs and Broomsticks (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Bedknobs_and_Broomsticks_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q55639290"
+      },
+      "summary": {
+        "text": "Bedknobs and Broomsticks is a stage musical based on the stories by Mary Norton and the 1971 Walt Disney film starring Angela Lansbury and David Tomlinson. It features the original songs by the Sherman Brothers, new songs and additional music and lyrics by Neil Bartram and book by Brian Hill.",
+        "source_url": "https://en.wikipedia.org/wiki/Bedknobs_and_Broomsticks_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "company": {
+      "slug": "company",
+      "title": "Company",
+      "qid": "Q2915810",
+      "enwiki": "Company (musical)",
+      "composers": [
+        {
+          "name": "Stephen Sondheim",
+          "qid": "Q153579",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12430"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Stephen Sondheim",
+          "qid": "Q153579",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12430"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "George Furth",
+          "qid": "Q1383628",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5812"
+        }
+      ],
+      "premiere": {
+        "date": "1970",
+        "venue": "Neil Simon Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2719",
+        "wikipedia": "https://en.wikipedia.org/wiki/Company_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q2915810"
+      },
+      "summary": {
+        "text": "Company is a musical with music and lyrics by Stephen Sondheim and book by George Furth. The original 1970 production was nominated for a record-setting 14 Tony Awards, winning six. Company was among the first book musicals to deal with contemporary dating, marriage, and divorce, and is a notable example of a concept musical lacking a linear plot. In a series of vignettes, Company follows bachelor Bobby interacting with his married friends, who throw a party for his 35th birthday.",
+        "source_url": "https://en.wikipedia.org/wiki/Company_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "death-becomes-her": {
+      "slug": "death-becomes-her",
+      "title": "Death Becomes Her",
+      "qid": "Q126367316",
+      "enwiki": "Death Becomes Her (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Marco Pennette",
+          "qid": "Q6757658",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/499410"
+        }
+      ],
+      "premiere": {
+        "date": "2024-05-19",
+        "venue": "Cadillac Palace Theatre"
+      },
+      "awards": [
+        {
+          "name": "Tony Award for Best Costume Design in a Musical",
+          "qid": "Q24204631"
+        }
+      ],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/539789",
+        "wikipedia": "https://en.wikipedia.org/wiki/Death_Becomes_Her_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q126367316"
+      },
+      "summary": {
+        "text": "Death Becomes Her is a musical, with a book by Marco Pennette and music and lyrics by Julia Mattison and Noel Carey. It is based on the 1992 film of the same name directed by Robert Zemeckis. It made its world premiere in May 2024 at the Cadillac Palace Theatre in Chicago, and moved to Broadway's Lunt-Fontanne Theatre in November 2024.\nThe original Chicago and Broadway productions received critical acclaim by theatre critics, for its score, book, production design, stunts, special effects, and humor with both Megan Hilty and Jennifer Simard receiving universal praise for their comedic timing, chemistry, and performances. It received a leading 10 nominations at the 78th Tony Awards and won for Best Costume Design in a Musical.",
+        "source_url": "https://en.wikipedia.org/wiki/Death_Becomes_Her_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "diamonds": {
+      "slug": "diamonds",
+      "title": "Diamonds",
+      "qid": "Q5271000",
+      "enwiki": "Diamonds (musical)",
+      "composers": [
+        {
+          "name": "Gerard Alessandrini",
+          "qid": "Q5549903",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/406896"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Bud Abbott",
+          "qid": "Q23888",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/84204"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Diamonds_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5271000"
+      },
+      "summary": {
+        "text": "Diamonds is a musical revue  about baseball. The book and music were created by many writers, composers, and lyricists. Among them were Ellen Fitzhugh, Roy Blount, Jr., Alan Zweibel, and John Weidman (book); and Larry Grossman, Comden and Green, Howard Ashman, Alan Menken, Kander and Ebb, and Cy Coleman, music.\nThe musical ran Off Broadway at the Circle in the Square Downtown theater, beginning on December 16, 1984, and closing on March 31, 1985, after 122 performances.  The production was directed by Broadway veteran Harold Prince. The cast included Loni Ackerman, Susan Bigelow, Jackée Harry, Scott Holmes, Dick Latessa, Dwayne Markee, Wade Raley, Larry Riley, Nestor Serrano, Gordon Stanley and Chip Zien.\nThe musical won the Outer Critics Circle Award for Best Set Design, by Tony Straiges.",
+        "source_url": "https://en.wikipedia.org/wiki/Diamonds_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "jean-seberg": {
+      "slug": "jean-seberg",
+      "title": "Jean Seberg",
+      "qid": "Q6171502",
+      "enwiki": "Jean Seberg (musical)",
+      "composers": [
+        {
+          "name": "Marvin Hamlisch",
+          "qid": "Q337206",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11816"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Jean_Seberg_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6171502"
+      },
+      "summary": {
+        "text": "Jean Seberg is a musical biography with a book by Julian Barry, lyrics by Christopher Adler, and music by Marvin Hamlisch. It is based on the life of the late American actress and premiered at the National Theatre in London on 1 December 1983.",
+        "source_url": "https://en.wikipedia.org/wiki/Jean_Seberg_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "life-of-the-party": {
+      "slug": "life-of-the-party",
+      "title": "Life of the Party",
+      "qid": "Q6545260",
+      "enwiki": "Life of the Party (musical)",
+      "composers": [
+        {
+          "name": "Frederick Loewe",
+          "qid": "Q551678",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5688"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Life_of_the_Party_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6545260"
+      },
+      "summary": {
+        "text": "Life of the Party is a musical with a book by Alan Jay Lerner lyrics by Eric Crooker and music by Frederick Loewe. The Lyrics for this first Lerner and Loewe Collaboration was not as was previously thought by Lerner but by Loewe then's regular lyricist Crooker. Although Lerner is said to supplied additional lyrics of which is not noted.\nThe first of the team's many collaborations, it is a musical adaptation of Barry Connor's farce The Patsy. It was written for a Detroit stock theatre company. The play was performed in October 1942 at the Wilson Theatre, Detroit, and had a run of nine weeks, directed by  Russell Filmore and starring Dorothy Stone, Charles Collins, Charles Ruggles and Margaret Dumont. The musical was never staged on Broadway.",
+        "source_url": "https://en.wikipedia.org/wiki/Life_of_the_Party_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "lost-strayed-or-stolen": {
+      "slug": "lost-strayed-or-stolen",
+      "title": "Lost, Strayed or Stolen",
+      "qid": "Q6683778",
+      "enwiki": "Lost, Strayed or Stolen",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Lost%2C_Strayed_or_Stolen",
+        "wikidata": "https://www.wikidata.org/wiki/Q6683778"
+      },
+      "summary": {
+        "text": "Lost, Strayed or Stolen is a musical comedy in four acts with music by Woolson Morse and words by J. Cheever Goodwin, adapted from the French farce Le baptême du petit Oscar by Eugène Grangé and Victor Bernard. The story concerns a missing child and its nursemaid, three competing potential godfathers and an opera diva.\nIt was produced at the Fifth Avenue Theatre in New York City on September 16, 1896, and ran with success. It was directed by Ben Teal, the musical director was John McGhie and dances in act 4 were arranged by Rose Becket.  The show was made into a 1908 film of the same name.",
+        "source_url": "https://en.wikipedia.org/wiki/Lost%2C_Strayed_or_Stolen",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "medora-musical": {
+      "slug": "medora-musical",
+      "title": "Medora Musical",
+      "qid": "Q8773162",
+      "enwiki": "Medora Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Medora_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q8773162"
+      },
+      "summary": {
+        "text": "The Medora Musical is a musical revue produced each summer at the open-air Burning Hills Amphitheater near Medora, North Dakota. The musical is a look back at the \"Wild West\" days of the region and includes references to Theodore Roosevelt, who spent time in western North Dakota, including in the nearby Theodore Roosevelt National Park.\nThe musical premiered at the amphitheater in the summer of 1965 and is the successor to earlier shows about Roosevelt.",
+        "source_url": "https://en.wikipedia.org/wiki/Medora_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "onward-victoria": {
+      "slug": "onward-victoria",
+      "title": "Onward Victoria",
+      "qid": "Q7095124",
+      "enwiki": "Onward Victoria",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6804",
+        "wikipedia": "https://en.wikipedia.org/wiki/Onward_Victoria",
+        "wikidata": "https://www.wikidata.org/wiki/Q7095124"
+      },
+      "summary": {
+        "text": "Onward Victoria is a musical (1980) with a book and lyrics by Charlotte Anker and Irene Rosenberg, and music by Keith Herrmann. Its subject is Victoria Woodhull, the 19th-century woman who with her sister were the first women to operate a brokerage firm, at which they became millionaires, and started a newspaper.",
+        "source_url": "https://en.wikipedia.org/wiki/Onward_Victoria",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "operation-mincemeat": {
+      "slug": "operation-mincemeat",
+      "title": "Operation Mincemeat",
+      "qid": "Q115517196",
+      "enwiki": "Operation Mincemeat (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2019",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/540517",
+        "wikipedia": "https://en.wikipedia.org/wiki/Operation_Mincemeat_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q115517196"
+      },
+      "summary": {
+        "text": "Operation Mincemeat is a musical comedy with book, music and lyrics by David Cumming, Felix Hagan, Natasha Hodgson and Zoë Roberts (known as the musical comedy troupe SpitLip, with this show being their debut production). The plot is based on Operation Mincemeat, a Second World War British deception operation. The show received six Laurence Olivier Award nominations, winning two for Best New Musical and Best Actor in a Supporting Role in a Musical for Jak Malone, and garnered four Tony Award nominations including Best Musical, and won for Best Featured Actor in a Musical for Malone.",
+        "source_url": "https://en.wikipedia.org/wiki/Operation_Mincemeat_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "purple-rain": {
+      "slug": "purple-rain",
+      "title": "Purple Rain",
+      "qid": "Q140332127",
+      "enwiki": "Purple Rain (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Purple_Rain_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q140332127"
+      },
+      "summary": {
+        "text": "Purple Rain is a stage musical based on the 1984 film Purple Rain, featuring music and lyrics by Prince. The musical is adapted from the original screenplay by Albert Magnoli and William Blinn. The Minneapolis production featured a book by Branden Jacobs-Jenkins and was directed by Lileana Blain-Cruz, while the Broadway production will feature a new book by Peter Duchan and be directed by Saheem Ali. Ebony Williams choreographed the Minneapolis production and will continue with the Broadway production. The musical features music supervision, arrangements, and orchestrations by Jason Michael Webb.\nThe musical had its world-premiere pre-Broadway engagement at the State Theatre in Minneapolis, Minnesota, beginning previews on October 16, 2025, and officially opening on November 5, 2025. The production played its final performance on November 23, 2025. A Broadway production at the Majestic Theatre will begin previews on March 12, 2027, before officially opening on April 12, 2027.",
+        "source_url": "https://en.wikipedia.org/wiki/Purple_Rain_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "side-by-side-by-sondheim": {
+      "slug": "side-by-side-by-sondheim",
+      "title": "Side by Side by Sondheim",
+      "qid": "Q7508319",
+      "enwiki": "Side by Side by Sondheim",
+      "composers": [
+        {
+          "name": "Stephen Sondheim",
+          "qid": "Q153579",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12430"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7993",
+        "wikipedia": "https://en.wikipedia.org/wiki/Side_by_Side_by_Sondheim",
+        "wikidata": "https://www.wikidata.org/wiki/Q7508319"
+      },
+      "summary": {
+        "text": "Side by Side by Sondheim is a musical revue featuring the songs of composer Stephen Sondheim. Its title is derived from the song \"Side by Side by Side\" from Company.",
+        "source_url": "https://en.wikipedia.org/wiki/Side_by_Side_by_Sondheim",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-gingerbread-man-sloane-and-rankin-musical": {
+      "slug": "the-gingerbread-man-sloane-and-rankin-musical",
+      "title": "The Gingerbread Man",
+      "qid": "Q121590532",
+      "enwiki": "The Gingerbread Man (Sloane and Rankin musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Gingerbread_Man_(Sloane_and_Rankin_musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q121590532"
+      },
+      "summary": {
+        "text": "The Gingerbread Man is a musical in two acts with music by A. Baldwin Sloane and both book and lyrics by Frederic Ranken. Described by the creators as a \"Fanciful Fairyesque\", the work was essentially a Christmas musical with Santa Claus and Mrs. Claus serving as the heroes of the piece.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Gingerbread_Man_(Sloane_and_Rankin_musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-girl-friend": {
+      "slug": "the-girl-friend",
+      "title": "The Girl Friend",
+      "qid": "Q3987236",
+      "enwiki": "The Girl Friend",
+      "composers": [
+        {
+          "name": "Richard Rodgers",
+          "qid": "Q269094",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12311"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Lorenz Hart",
+          "qid": "Q725828",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11244"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Herbert Fields",
+          "qid": "Q1608254",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11265"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3874",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Girl_Friend",
+        "wikidata": "https://www.wikidata.org/wiki/Q3987236"
+      },
+      "summary": {
+        "text": "The Girl Friend is a musical comedy with music by Richard Rodgers, lyrics by Lorenz Hart and book by Herbert Fields. This was the longest running show for the trio to that date.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Girl_Friend",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

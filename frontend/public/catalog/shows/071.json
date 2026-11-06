@@ -1,0 +1,640 @@
+{
+  "live": true,
+  "shows": {
+    "a-broadway-musical": {
+      "slug": "a-broadway-musical",
+      "title": "A Broadway Musical",
+      "qid": "Q4655653",
+      "enwiki": "A Broadway Musical",
+      "composers": [
+        {
+          "name": "Charles Strouse",
+          "qid": "Q2960275",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12463"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Lee Adams",
+          "qid": "Q6512930",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12723"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "William F. Brown",
+          "qid": "Q8008754",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9125"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1042",
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Broadway_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q4655653"
+      },
+      "summary": {
+        "text": "A Broadway Musical is a musical with a book by William F. Brown, lyrics by Lee Adams, and music by Charles Strouse.  The Broadway production closed after 14 previews and only one performance on December 21, 1978.\nThe plot about a sleazy white theatre producer's attempt to adapt an African-American writer's serious play as a commercial stage musical was inspired by Adams and Strouse's real-life experiences with their 1964 Broadway production of Golden Boy. The star of the musical-within-the-musical (Sneakers, about a basketball star) closely resembles Golden Boy star Sammy Davis Jr. When the star opts to leave the show, the playwright – who from the start had resisted turning his work into a musical – steps in and takes on the lead role in order to save the production.",
+        "source_url": "https://en.wikipedia.org/wiki/A_Broadway_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "a-catered-affair": {
+      "slug": "a-catered-affair",
+      "title": "A Catered Affair",
+      "qid": "Q16829006",
+      "enwiki": "A Catered Affair",
+      "composers": [
+        {
+          "name": "John Bucchino",
+          "qid": "Q6223718",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/101794"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Harvey Fierstein",
+          "qid": "Q446481",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6157"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/466354",
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Catered_Affair",
+        "wikidata": "https://www.wikidata.org/wiki/Q16829006"
+      },
+      "summary": {
+        "text": "The article is about the stage musical. For the 1956 film, see The Catered Affair.\n\nA Catered Affair is a musical with a book by Harvey Fierstein and music and lyrics by John Bucchino. It is based on both the 1956 film The Catered Affair written by Gore Vidal and the original 1955 teleplay from Goodyear Television Playhouse by Paddy Chayefsky, set in 1953 in the Bronx. This is the first of Bucchino's scores produced on Broadway.",
+        "source_url": "https://en.wikipedia.org/wiki/A_Catered_Affair",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "a-different-stage": {
+      "slug": "a-different-stage",
+      "title": "A Different Stage",
+      "qid": "Q111181548",
+      "enwiki": "A Different Stage (musical)",
+      "composers": [
+        {
+          "name": "Gary Barlow",
+          "qid": "Q328753",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/498339"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Gary Barlow",
+          "qid": "Q328753",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/498339"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Different_Stage_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q111181548"
+      },
+      "summary": {
+        "text": "A Different Stage is a one-man show with music and lyrics by Gary Barlow and a book by Tim Firth. The show received its world premiere, close to Barlow's home town of Frodsham, in Runcorn at The Brindley in February 2022 before embarking on a tour around the UK.\nThe show tells the story of Barlow's life in his own words reflecting on his career, friendships and personal life.\nBarlow worked on his first theatrical project in 2013 where he signed up to work on a new musical version of Finding Neverland which ran on Broadway for 17 months in 2015. Barlow then went on to co-write The Girls (later retitled in 2017 as Calendar Girls The Musical) which opened in London's West End in January 2017 before producing a UK & Ireland tour of the second Take That musical Greatest Days in 2017 which visited London and Germany.",
+        "source_url": "https://en.wikipedia.org/wiki/A_Different_Stage_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "after-the-ball": {
+      "slug": "after-the-ball",
+      "title": "After the Ball",
+      "qid": "Q4690612",
+      "enwiki": "After the Ball (musical)",
+      "composers": [
+        {
+          "name": "Noël Coward",
+          "qid": "Q298388",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/36502"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Noël Coward",
+          "qid": "Q298388",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/36502"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/After_the_Ball_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4690612"
+      },
+      "summary": {
+        "text": "After the Ball is a musical by Noël Coward based on the 1892 play by Oscar Wilde, Lady Windermere's Fan.\nAfter a provincial tour, the musical premiered at the Globe Theatre, London, on 10 June 1954 and ran for 188 performances until 20 November 1954. Robert Helpmann was the director, and the cast included Mary Ellis, Vanessa Lee, Peter Graves, Lois Green and Irene Browne.\nAfter the Ball was the last Coward musical launched in the West End; his last two musicals debuted on Broadway before opening in London.  After the Ball enjoyed a 1999 Coward centenary production at the Peacock Theatre, London.",
+        "source_url": "https://en.wikipedia.org/wiki/After_the_Ball_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "almost-famous": {
+      "slug": "almost-famous",
+      "title": "Almost Famous",
+      "qid": "Q112609787",
+      "enwiki": "Almost Famous (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2019-09-27",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/534815",
+        "wikipedia": "https://en.wikipedia.org/wiki/Almost_Famous_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q112609787"
+      },
+      "summary": {
+        "text": "Almost Famous is a 2019 stage musical with music by Tom Kitt, lyrics by Cameron Crowe and Kitt, and a book by Crowe. It is based on the 2000 film of the same name written and directed by Crowe.\nLoosely based on Crowe's life, the musical follows a teenager who becomes a journalist for Rolling Stone magazine in the 1970s. The show debuted in San Diego at The Old Globe in 2019, with previews beginning on September 13 and a premiere on September 27. It ran through October 27. Creative work continued during the COVID-19 shutdown. Like the film, the musical begins in the San Diego, home of the Miller family, progresses to the San Francisco offices of Rolling Stone, and then travels through the United States on tour with the fictional band Stillwater.\nThe Broadway production began previews on October 3, 2022, and opened November 3, 2022 at the Bernard B. Jacobs Theatre to mainly negative reviews. On December 19, it was announced that the show would close on January 8, 2023, after 30 previews and 77 performances. Critics thought the story didn't perform well on stage. The New York Times said the show was “too faithful to the movie to feel new, yet too staged to feel authentic.” Viewers also complained that the score lacked originality and memorability, but despite the poor reception, it received a nomination for Best Original Score at the 76th Tony Awards.\nIn November 2023, Kitt and Crowe reworked Almost Famous during a residency at the Eugene O'Neill Theater Center in Waterford, Connecticut. Public readings of the workshop were given on November 11, 15, and 18. The workshop has not yet received public reviews.",
+        "source_url": "https://en.wikipedia.org/wiki/Almost_Famous_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "carmen": {
+      "slug": "carmen",
+      "title": "Carmen",
+      "qid": "Q21998390",
+      "enwiki": "Carmen (Wildhorn musical)",
+      "composers": [
+        {
+          "name": "Frank Wildhorn",
+          "qid": "Q1444457",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5638"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Carmen_(Wildhorn_musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q21998390"
+      },
+      "summary": {
+        "text": "Carmen is a musical with a book by Norman Allen, lyrics by Jack Murphy, and music by Frank Wildhorn. It is based on the novella of the same name, by Prosper Mérimée.\nCarmen premiered at Prague's Karlín Musical Theatre in October 2008.",
+        "source_url": "https://en.wikipedia.org/wiki/Carmen_(Wildhorn_musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "dames-at-sea": {
+      "slug": "dames-at-sea",
+      "title": "Dames at Sea",
+      "qid": "Q5212184",
+      "enwiki": "Dames at Sea",
+      "composers": [
+        {
+          "name": "Jim Wise",
+          "qid": "Q6199004",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/75591"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Robin Miller",
+          "qid": "Q76029202"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/501153",
+        "wikipedia": "https://en.wikipedia.org/wiki/Dames_at_Sea",
+        "wikidata": "https://www.wikidata.org/wiki/Q5212184"
+      },
+      "summary": {
+        "text": "Dames at Sea is a 1966 musical with book and lyrics by George Haimsohn and Robin Miller and music by Jim Wise.\nThe musical is a parody of large, flashy 1930s Busby Berkeley-style movie musicals in which a chorus girl, newly arrived off the bus from the Midwest to New York City, steps into a role on Broadway and becomes a star.  It originally played Off-Off-Broadway in 1966 at the Caffe Cino and then played Off-Broadway, starring newcomer Bernadette Peters, beginning in 1968 for a successful run.  The show has enjoyed a London run, a television adaptation and a number of revivals, before its Broadway premiere in October 2015.",
+        "source_url": "https://en.wikipedia.org/wiki/Dames_at_Sea",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "his-story": {
+      "slug": "his-story",
+      "title": "His Story",
+      "qid": "Q141306702",
+      "enwiki": "His Story (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/His_Story_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q141306702"
+      },
+      "summary": {
+        "text": "His Story: The Musical is a contemporary pop musical created by Anna Mariam Brown that portrays the biblical account of the life of Jesus Christ including Creation, his birth, ministry, crucifixion, and resurrection.",
+        "source_url": "https://en.wikipedia.org/wiki/His_Story_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "marie-dancing-still": {
+      "slug": "marie-dancing-still",
+      "title": "Marie, Dancing Still",
+      "qid": "Q108031871",
+      "enwiki": "Marie, Dancing Still (musical)",
+      "composers": [
+        {
+          "name": "Stephen Flaherty",
+          "qid": "Q3973178",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11668"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Lynn Ahrens",
+          "qid": "Q293323",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7450"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": "John F. Kennedy Center for the Performing Arts"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Marie%2C_Dancing_Still_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q108031871"
+      },
+      "summary": {
+        "text": "Little Dancer is a musical with music by Stephen Flaherty and book and lyrics by Lynn Ahrens, based on Edgar Degas' 1880 statue Little Dancer of Fourteen Years. The musical premiered at the Kennedy Center in Washington, D.C. in 2014. The original production was directed and choreographed by Susan Stroman.\nThe musical was retitled Marie, Dancing Still – A New Musical in 2018, prior to the production opening at the 5th Avenue Theatre, Seattle in March 2019, and returned to its original title thereafter.",
+        "source_url": "https://en.wikipedia.org/wiki/Marie%2C_Dancing_Still_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "matador-english-musical": {
+      "slug": "matador-english-musical",
+      "title": "Matador",
+      "qid": "Q6785959",
+      "enwiki": "Matador (English musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Matador_(English_musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6785959"
+      },
+      "summary": {
+        "text": "Matador is the title of a 1991 musical by Mike Leander and Eddie Seago, with a book by Peter Jukes, which tells the story of the rise and fall of a fictional matador, loosely based on Manuel Benitez, El Cordobes. The show featured stunning choreography in traditional Flamenco style by Rafael Aguilar, and the show won an Olivier Award as a result. Several dancers were cast directly from Spain, making their West End debuts. The bulls for the fighting sequences were performed by a phalanx of black-clad dancers, moving as one.\nThe work began life in 1987 as a concept album, starring Tom Jones. Jones was keen to play the lead on stage, and gave up his Las Vegas cabaret shows to return to the UK for that purpose. The musical was initially unable to attract the financial backing required, but Jones did get his first UK top ten hit after a fifteen-year dry spell, with his single, A Boy From Nowhere, lifted from the Matador concept album. The follow-up single \"I Was Born to Be Me\" peaked at No. 61 in January 1988.\nEventually financial backing was secured, and the show opened at the Queen's Theatre in London on April 16, 1991. Audiences and most critics were positive, but the 1991 London theatre season was heavily impacted by the Persian Gulf War and the subsequent drop in tourism. The production folded after three months. The London production starred John Barrowman as Domingo Hernandez and Stefanie Powers as American actress Laura Jane Wilding, a character based on actress Ava Gardner. Nicky Henson and Caroline O'Connor costarred.\nAfter the failure of the London production, the authors returned to America and made revisions to the book and score during productions in regional and college theatres.",
+        "source_url": "https://en.wikipedia.org/wiki/Matador_(English_musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "mexican-hayride": {
+      "slug": "mexican-hayride",
+      "title": "Mexican Hayride",
+      "qid": "Q1926191",
+      "enwiki": "Mexican Hayride (musical)",
+      "composers": [
+        {
+          "name": "Cole Porter",
+          "qid": "Q215120",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12257"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Cole Porter",
+          "qid": "Q215120",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12257"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Herbert Fields",
+          "qid": "Q1608254",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11265"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6053",
+        "wikipedia": "https://en.wikipedia.org/wiki/Mexican_Hayride_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1926191"
+      },
+      "summary": {
+        "text": "Mexican Hayride is a musical with a book by Herbert Fields and Dorothy Fields and music and lyrics by Cole Porter. The show opened  on Broadway in 1944.",
+        "source_url": "https://en.wikipedia.org/wiki/Mexican_Hayride_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "roza": {
+      "slug": "roza",
+      "title": "Roza",
+      "qid": "Q17147526",
+      "enwiki": "Roza (musical)",
+      "composers": [
+        {
+          "name": "Gilbert Bécaud",
+          "qid": "Q160433",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11360"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Julian More",
+          "qid": "Q17856008",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7013"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7664",
+        "wikipedia": "https://en.wikipedia.org/wiki/Roza_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q17147526"
+      },
+      "summary": {
+        "text": "Roza is a 1987 musical based on the novel The Life Before Us by Romain Gary with music by Gilbert Bécaud and lyrics and book by Julian More.",
+        "source_url": "https://en.wikipedia.org/wiki/Roza_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "sckbstd": {
+      "slug": "sckbstd",
+      "title": "SCKBSTD",
+      "qid": "Q7389165",
+      "enwiki": "SCKBSTD",
+      "composers": [
+        {
+          "name": "Bruce Hornsby",
+          "qid": "Q918502",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/497300"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Bruce Hornsby",
+          "qid": "Q918502",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/497300"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "http://www.sckbstd.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/SCKBSTD",
+        "wikidata": "https://www.wikidata.org/wiki/Q7389165"
+      },
+      "summary": {
+        "text": "SCKBSTD is a musical with music and lyrics by Bruce Hornsby, Chip deMatteo and a book by Clay McLeod Chapman, produced in 2011.  \nThe story is about what happens to a family when a mysterious stranger arrives in a small town bringing fear and paranoia in his wake.",
+        "source_url": "https://en.wikipedia.org/wiki/SCKBSTD",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "sleeping-beauty-wakes": {
+      "slug": "sleeping-beauty-wakes",
+      "title": "Sleeping Beauty Wakes",
+      "qid": "Q24038077",
+      "enwiki": "Sleeping Beauty Wakes",
+      "composers": [
+        {
+          "name": "Brendan Milburn",
+          "qid": "Q55680695"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Gene Lewin",
+          "qid": "Q55680938"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Rachel Sheinkin",
+          "qid": "Q55679394",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/392861"
+        }
+      ],
+      "premiere": {
+        "date": "2007-03-31",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Sleeping_Beauty_Wakes",
+        "wikidata": "https://www.wikidata.org/wiki/Q24038077"
+      },
+      "summary": {
+        "text": "Sleeping Beauty Wakes is a musical with book by Rachel Sheinkin, who won a Tony Award for The 25th Annual Putnam County Spelling Bee, and a pop score by composer Brendan Milburn and lyricist Valerie Vigoda, two members of the indie music trio GrooveLily.  The show is a twist on the classic Charles Perrault fairy tale of Sleeping Beauty. In this modern-day version, Rose is brought to a sleep-disorder clinic to wake her from her 900-year nap.\nThe musical was presented from March 31 to May 20, 2007 at the Kirk Douglas Theater of the Center Theatre Group in Los Angeles, California as a co-production with Deaf West Theater.  It was directed and choreographed by Jeff Calhoun. In the spring of 2011, the McCarter Theatre in Princeton, New Jersey staged a revised version of the show directed by Rebecca Taichman, which removed all the Deaf elements. The version of the show also ran at the La Jolla Playhouse in San Diego, California in the summer of 2011, as a co-production with the McCarter.\nThe Center Theatre Group/Deaf West co-production received generally positive reviews and was ultimately honored with 10 Ovation Award nominations, winning in 2 categories. \nIn his review of the 2007 production in Variety, Bob Verini had only positive things to say about the performances, particularly singling out \"Faye Dunaway look-alike Deanne Bray and superb singing partner Erika Amato,\" but felt that \"it's the narrative that suffers from a split-personality disorder.\"\nThe Los Angeles Times review of the 2011 La Jolla production found Charles McNulty praising the show for \"freely mix[ing] medical science with pixie dust\" and said that \"the inherent charm of the piece captivates our imagination even as the flaws peek through\", but finally wrote that \"the show's ambition [to be the next Wicked] seems to be pulling the work away from its strength as a musical comedy chamber piece. The enchantment is visible, but too much of it remains trapped in a glass case, like a waxwork Sleeping Beauty at a theme park.\"",
+        "source_url": "https://en.wikipedia.org/wiki/Sleeping_Beauty_Wakes",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-best-of-both-worlds": {
+      "slug": "the-best-of-both-worlds",
+      "title": "The Best of Both Worlds",
+      "qid": "Q7716913",
+      "enwiki": "The Best of Both Worlds (musical)",
+      "composers": [
+        {
+          "name": "Diedre Murray",
+          "qid": "Q612869",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/111627"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Randy Weiner",
+          "qid": "Q7292506"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Randy Weiner",
+          "qid": "Q7292506"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Best_of_Both_Worlds_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7716913"
+      },
+      "summary": {
+        "text": "The Best of Both Worlds is a musical with book and lyrics by Randy Weiner, music by Diedre Murray, and additional scenes by Diane Paulus, loosely based on William Shakespeare's A Winter's Tale.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Best_of_Both_Worlds_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-black-rider": {
+      "slug": "the-black-rider",
+      "title": "The Black Rider",
+      "qid": "Q1485213",
+      "enwiki": "The Black Rider",
+      "composers": [
+        {
+          "name": "Tom Waits",
+          "qid": "Q184805",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/89787"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "William S. Burroughs",
+          "qid": "Q188176"
+        }
+      ],
+      "premiere": {
+        "date": "1990-03-31",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Black_Rider",
+        "wikidata": "https://www.wikidata.org/wiki/Q1485213"
+      },
+      "summary": {
+        "text": "The Black Rider: The Casting of the Magic Bullets is a self-billed \"musical fable\" in the avant-garde tradition created through the collaboration of theatre director Robert Wilson, musician Tom Waits and writer William S. Burroughs. Wilson, in the original production, was largely responsible for the design and direction. Burroughs wrote the book, while Waits wrote the music and most of the lyrics. The project began in about 1988 when Wilson approached Waits. The story is based on \"The Fatal Marksman\" by Johann August Apel and the German Freischütz motif, which had previously been adapted as an opera by Carl Maria von Weber. The Black Rider premiered at Hamburg's Thalia Theatre on 31 March 1990, and was performed at Paris's Théâtre du Châtelet on 9 October 1990. November Theatre produced its world English-language premiere in 1998 at the Edmonton International Fringe Festival in Canada. Det Norske Teatret in Oslo staged a Norwegian (Nynorsk) version in 1998, with Lasse Kolsrud as Pegleg. Only the dialogue was translated by the dramaturg and key collaborator of the entire creative process, Wolfgang Wiens; the songs were performed in English.\nWaits recorded much of the music from the play in different arrangements as The Black Rider.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Black_Rider",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "waitress": {
+      "slug": "waitress",
+      "title": "Waitress",
+      "qid": "Q22075256",
+      "enwiki": "Waitress (musical)",
+      "composers": [
+        {
+          "name": "Sara Bareilles",
+          "qid": "Q230445",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/502865"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Sara Bareilles",
+          "qid": "Q230445",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/502865"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": "2015-08-19",
+        "venue": "American Repertory Theater"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/502859",
+        "playbill": "https://playbill.com/production/waitress-brooks-atkinson-theatre-vault-0000014142",
+        "official_site": "http://waitressthemusical.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Waitress_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q22075256"
+      },
+      "summary": {
+        "text": "Waitress is a musical with music and lyrics by Sara Bareilles and a book by Jessie Nelson. It is based on the 2007 film, written and directed by Adrienne Shelly. It tells the story of Jenna Hunterson, a baker and waitress in an abusive relationship with her husband, Earl. After Jenna unexpectedly becomes pregnant with Earl's child, she begins an affair with her obstetrician, Jim Pomatter. Looking for ways out of her troubles, and at the urging of her friends, she enters a pie-baking contest, seeing its grand prize as her chance.\nAfter a tryout at the American Repertory Theater in Cambridge, Massachusetts, in August 2015, Waitress premiered at the Brooks Atkinson Theatre on Broadway in April 2016, closing in January 2020, with direction by Diane Paulus and starring Jessie Mueller as Jenna. A US national tour ran from 2017 to 2019. From 2019 to 2020, the musical played at the Adelphi Theatre in London's West End. In September 2021, it returned to Broadway for a limited engagement at the Ethel Barrymore Theatre starring Bareilles as Jenna, mainly to produce a live stage recording that played in movie theaters in 2023. Further international, touring and regional productions have been staged.",
+        "source_url": "https://en.wikipedia.org/wiki/Waitress_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "wish-you-were-here": {
+      "slug": "wish-you-were-here",
+      "title": "Wish You Were Here",
+      "qid": "Q8027559",
+      "enwiki": "Wish You Were Here (musical)",
+      "composers": [
+        {
+          "name": "Harold Rome",
+          "qid": "Q1585912",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6085"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Arthur Kober",
+          "qid": "Q2865177",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4303"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/9418",
+        "wikipedia": "https://en.wikipedia.org/wiki/Wish_You_Were_Here_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q8027559"
+      },
+      "summary": {
+        "text": "Wish You Were Here is a musical with a book by Arthur Kober and Joshua Logan and music and lyrics by Harold Rome. The musical was adapted from Kober's 1937 play, Having Wonderful Time, and revolves around a summer camp for adults. It is known for the song \"Wish You Were Here\".",
+        "source_url": "https://en.wikipedia.org/wiki/Wish_You_Were_Here_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

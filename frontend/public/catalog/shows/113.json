@@ -1,0 +1,460 @@
+{
+  "live": true,
+  "shows": {
+    "battling-buttler": {
+      "slug": "battling-buttler",
+      "title": "Battling Buttler",
+      "qid": "Q85745989",
+      "enwiki": "Battling Buttler",
+      "composers": [
+        {
+          "name": "Philip Braham",
+          "qid": "Q7183267",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/116441"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Stanley Brightman",
+          "qid": "Q124784648"
+        },
+        {
+          "name": "Austin Melford",
+          "qid": "Q4823199"
+        },
+        {
+          "name": "Douglas Furber",
+          "qid": "Q5301494",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5125"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Battling_Buttler",
+        "wikidata": "https://www.wikidata.org/wiki/Q85745989"
+      },
+      "summary": {
+        "text": "Battling Buttler is a musical in three acts with music by Philip Braham and a book and lyrics by Stanley Brightman, Austin Melford and Douglas Furber, which opened in London in 1922. It was then greatly revised by Walter L. Rosemont (music) and Ballard MacDonald (book and lyrics) and produced on Broadway in 1923 after tryouts in Detroit and Chicago.\nThe farcical story concerns a man who pretends to be a championship boxer whom he resembles, until the two men are confused with one another, with humorous results.",
+        "source_url": "https://en.wikipedia.org/wiki/Battling_Buttler",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "berlin": {
+      "slug": "berlin",
+      "title": "Berlin",
+      "qid": "Q4892379",
+      "enwiki": "Berlin (musical)",
+      "composers": [
+        {
+          "name": "Erik Orton",
+          "qid": "Q5388757"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Berlin_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4892379"
+      },
+      "summary": {
+        "text": "Berlin is a musical written by Erik Orton while he was a student at Brigham Young University (BYU) and debuted at the Franklin S. Harris Fine Arts Center in 1999.  Orton also composed the music for Berlin.\nIt later played at Theatre 315 in New York City.  In that production the lead female role was played by Nicole Riding.\nIn 2008 BYU made Berlin into a movie and showed it on BYU-TV.  In 2009 it was shown at the LDS Film Festival in Orem, Utah.",
+        "source_url": "https://en.wikipedia.org/wiki/Berlin_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "city-of-angels": {
+      "slug": "city-of-angels",
+      "title": "City of Angels",
+      "qid": "Q3821261",
+      "enwiki": "City of Angels (musical)",
+      "composers": [
+        {
+          "name": "Cy Coleman",
+          "qid": "Q1146861",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4929"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "David Zippel",
+          "qid": "Q3703386",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13425"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Larry Gelbart",
+          "qid": "Q1806065",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7147"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Laurence Olivier Awards",
+          "qid": "Q28470"
+        }
+      ],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2599",
+        "wikipedia": "https://en.wikipedia.org/wiki/City_of_Angels_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q3821261"
+      },
+      "summary": {
+        "text": "City of Angels is a satirical musical comedy with music by Cy Coleman, lyrics by David Zippel, and a book by Larry Gelbart. The show takes a critical look at Hollywood through the eyes of Stine, a successful writer who is adapting his latest novel into a film. The musical explores two parallel storylines: one following Stine's struggles to adapt his novel, and the other taking place within the world of the film he's creating. The musical also serves an ode to the classic film noir genre of the 1940s.",
+        "source_url": "https://en.wikipedia.org/wiki/City_of_Angels_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "coming-thro-the-rye": {
+      "slug": "coming-thro-the-rye",
+      "title": "Coming Thro' the Rye",
+      "qid": "Q121608797",
+      "enwiki": "Coming Thro' the Rye",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Coming_Thro'_the_Rye",
+        "wikidata": "https://www.wikidata.org/wiki/Q121608797"
+      },
+      "summary": {
+        "text": "Coming Thro' The Rye is a \"satiretta\" or musical in two acts with both lyrics and book by George V. Hobart and music by A. Baldwin Sloane and J. Sebastian Hiller.",
+        "source_url": "https://en.wikipedia.org/wiki/Coming_Thro'_the_Rye",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "hullo-healo": {
+      "slug": "hullo-healo",
+      "title": "Hullo Healo",
+      "qid": "Q65085179",
+      "enwiki": "Hullo Healo",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Hullo_Healo",
+        "wikidata": "https://www.wikidata.org/wiki/Q65085179"
+      },
+      "summary": {
+        "text": "Hullo Healo is a musical comedy by Australian actor and screenwriter Dion Titheradge and composer Kenneth Duffield. The plot revolves around Barnabas Burnaby, who hides on a yacht bound for the South Seas, after his company, Healo Limited, has its shares drop and its factory girls go on strike, and is later crowned king after being shipwrecked on the fictional island known as the Island of Bliss.",
+        "source_url": "https://en.wikipedia.org/wiki/Hullo_Healo",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "mami": {
+      "slug": "mami",
+      "title": "Mami",
+      "qid": "Q6745633",
+      "enwiki": "Mami (rock opera)",
+      "composers": [
+        {
+          "name": "Yossi Mar-Chaim",
+          "qid": "Q1564785"
+        },
+        {
+          "name": "Ehud Banai",
+          "qid": "Q5348678"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Hillel Mittelpunkt",
+          "qid": "Q12406666"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Mami_(rock_opera)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6745633"
+      },
+      "summary": {
+        "text": "Mami (Hebrew: מאמי, meaning ‘sweetie’) is an Israeli rock opera that was written by Hillel Mittelpunkt, Ehud Banai, and Yossi Mar Haim. Shefi Yishai and Yossi Elefant were responsible for musical production and arrangement.\nThe first version of the opera came on stage in 1986, when the leading role was played by Mazi Cohen, and the supporting roles by Ehud Banai and Aryeh Moskona. The opera appeared at the \"Tzavta\" Theatre, and was concerned with real political subjects, such as the occupation of the territories of the West Bank and Gaza (which was then nearing its twentieth year), the unequal discrimination of the residents of southern Israel, and Israeli militarism.\nThe musical was adapted to an Israeli musical movie of the same name in 2019 starring Neta Elkaiam as the title role and Dudu Tassa as the narrator. It also stars Riki Gal, Yuval Banay, Eran Tzur and Aryeh Moskona. The movie got raving reviews and is one of few Israeli musical movies that got major success. One of them is of course \"Kasablan\".",
+        "source_url": "https://en.wikipedia.org/wiki/Mami_(rock_opera)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "mavourneen": {
+      "slug": "mavourneen",
+      "title": "Mavourneen",
+      "qid": "Q6794281",
+      "enwiki": "Mavourneen (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Mavourneen_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6794281"
+      },
+      "summary": {
+        "text": "Mavourneen was billed as a comedy-drama by George H. Jessop and Horace Townsend with music and lyrics by William J. Scanlan (who appeared in the show) and Bartley Campbell.\nIt was produced in New York on September 28, 1891 at the Fourteenth Street Theatre, and ran until December 25, 1891.",
+        "source_url": "https://en.wikipedia.org/wiki/Mavourneen_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "peach-boy": {
+      "slug": "peach-boy",
+      "title": "Peach Boy",
+      "qid": "Q104858179",
+      "enwiki": "Peach Boy",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Peach_Boy",
+        "wikidata": "https://www.wikidata.org/wiki/Q104858179"
+      },
+      "summary": {
+        "text": "Peach Boy is a musical with book and lyrics by Tony Pinizzotto, and original music by Phil Luna, based on the 200 year-old Japanese fairytale of Momotarō, The Peach Boy. After a 2019 stage reading Production, the musical’s goal for a workshop production was halted in 2020, due to the ongoing COVID-19 pandemic.",
+        "source_url": "https://en.wikipedia.org/wiki/Peach_Boy",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "redwood": {
+      "slug": "redwood",
+      "title": "Redwood",
+      "qid": "Q124985895",
+      "enwiki": "Redwood (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Redwood_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q124985895"
+      },
+      "summary": {
+        "text": "Redwood is a musical with music by Kate Diaz and lyrics by Diaz and Tina Landau and a book by Landau, inspired by the life of Julia Butterfly Hill. The show tells the story of Jesse, a woman who, after her son's death, leaves her wife and work, drives across the US to the redwood forest, and forms a relationship with a giant redwood.\nThis musical, with music composed by Kate Diaz and lyrics co-written by Diaz and Tina Landau, explores themes of mourning, love, healing, and humanity’s connection to nature. Inspired by Landau’s personal experience of losing a family member to fentanyl-laced drugs, Redwood blends emotional storytelling with evocative music to deliver a powerful message of hope and renewal amid deep loss.\nThe show premiered in 2024 at the La Jolla Playhouse in California and opened on Broadway on February 13, 2025. The musical was originally conceived by Landau and Idina Menzel. It closed on May 18, 2025.",
+        "source_url": "https://en.wikipedia.org/wiki/Redwood_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-blue-kitten": {
+      "slug": "the-blue-kitten",
+      "title": "The Blue Kitten",
+      "qid": "Q116893847",
+      "enwiki": "The Blue Kitten",
+      "composers": [
+        {
+          "name": "Rudolf Friml",
+          "qid": "Q48363",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11702"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Otto Harbach",
+          "qid": "Q1231720",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6056"
+        },
+        {
+          "name": "William Cary Duncan",
+          "qid": "Q29045881",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9110"
+        }
+      ],
+      "premiere": {
+        "date": "1922-01-13",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Blue_Kitten",
+        "wikidata": "https://www.wikidata.org/wiki/Q116893847"
+      },
+      "summary": {
+        "text": "The Blue Kitten was a 1922 Broadway musical with a book and lyrics by Otto Harbach and William Cary Duncan and music by Rudolf Friml. It premiered at the Selwyn Theatre on January 13, 1922 and ran until May 13, 1922, totaling 140 performances.\n\nThe show was a \"modest musical hit\", although some critics called its score \"inferior\".",
+        "source_url": "https://en.wikipedia.org/wiki/The_Blue_Kitten",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-count-of-monte-cristo-james-behr-musical": {
+      "slug": "the-count-of-monte-cristo-james-behr-musical",
+      "title": "The Count of Monte Cristo",
+      "qid": "Q7727759",
+      "enwiki": "The Count of Monte Cristo (James Behr musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Count_of_Monte_Cristo_(James_Behr_musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7727759"
+      },
+      "summary": {
+        "text": "The Count of Monte Cristo musical, book and music by James Behr, is adapted from the famous 1844 novel by Alexandre Dumas. The Count of Monte Cristo was awarded as Finalist in the New York Musical Theatre Festival, 2011. It was performed in its entirety at the Off-Broadway Bleecker Street Theater in New York in 2012 as part of the Planet Connections Theatre Festivity. The Count of Monte Cristo was also performed in part in New York in 2010 at the New York Off-Broadway Wings Theater during the 2010 West Village Musical Theatre Festival. It received the festival award for Best Musical Score. Stylistically, the musical has a sound associated with traditional Broadway musicals given that it is orchestrated and recorded with a 30-piece orchestra (i.e., strings, woodwinds and brass).",
+        "source_url": "https://en.wikipedia.org/wiki/The_Count_of_Monte_Cristo_(James_Behr_musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-day-before-spring": {
+      "slug": "the-day-before-spring",
+      "title": "The Day Before Spring",
+      "qid": "Q7729157",
+      "enwiki": "The Day Before Spring",
+      "composers": [
+        {
+          "name": "Frederick Loewe",
+          "qid": "Q551678",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5688"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Alan Jay Lerner",
+          "qid": "Q961893",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3945"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Alan Jay Lerner",
+          "qid": "Q961893",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3945"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2953",
+        "playbill": "https://playbill.com/production/the-day-before-spring-national-theatre-vault-0000002824",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Day_Before_Spring",
+        "wikidata": "https://www.wikidata.org/wiki/Q7729157"
+      },
+      "summary": {
+        "text": "The Day Before Spring is a musical with a book and lyrics by Alan Jay Lerner and music by Frederick Loewe.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Day_Before_Spring",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-opposite-of-sex": {
+      "slug": "the-opposite-of-sex",
+      "title": "The Opposite of Sex",
+      "qid": "Q7755226",
+      "enwiki": "The Opposite of Sex (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Opposite_of_Sex_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7755226"
+      },
+      "summary": {
+        "text": "The Opposite of Sex is a musical with music and lyrics by Douglas J. Cohen and book by Cohen with Robert Jess Roth, based on the screenplay to the 1998 film of the same name by Don Roos.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Opposite_of_Sex_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-zulu-and-the-zayda": {
+      "slug": "the-zulu-and-the-zayda",
+      "title": "The Zulu and the Zayda",
+      "qid": "Q7776923",
+      "enwiki": "The Zulu and the Zayda",
+      "composers": [
+        {
+          "name": "Harold Rome",
+          "qid": "Q1585912",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6085"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Harold Rome",
+          "qid": "Q1585912",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6085"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Howard da Silva",
+          "qid": "Q1631771",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/67218"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/9602",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Zulu_and_the_Zayda",
+        "wikidata": "https://www.wikidata.org/wiki/Q7776923"
+      },
+      "summary": {
+        "text": "The Zulu and the Zayda is a musical play by Howard Da Silva and Felix Leon, with music and lyrics by Harold Rome (his last musical score to be produced on Broadway), and directed by Dore Schary.  It was based on a story by Dan Jacobson. Described as a comedy with music, the play has two acts and 18 scenes.\nProduced by Theodore Mann and Dore Schary, the Broadway production, opened on 10 November 1965 at the Cort Theatre, where it ran for 179 performances. The cast included Menasha Skulnik, Ossie Davis, and Louis Gossett.\nIt also featured Yaphet Kotto in his first Broadway appearance. The production's costumes were designed by Frank Thompson.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Zulu_and_the_Zayda",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

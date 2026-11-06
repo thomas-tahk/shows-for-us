@@ -1,0 +1,520 @@
+{
+  "live": true,
+  "shows": {
+    "a-beautiful-noise": {
+      "slug": "a-beautiful-noise",
+      "title": "A Beautiful Noise",
+      "qid": "Q111914768",
+      "enwiki": "A Beautiful Noise (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Beautiful_Noise_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q111914768"
+      },
+      "summary": {
+        "text": "A Beautiful Noise is a jukebox musical based on the life and music of Neil Diamond.  It opened on Broadway at the Broadhurst Theatre on December 4, 2022. It grossed more than $1 million at the box office in the week leading up to its Broadway premiere.\nTitled for Diamond's 1976 album of the same name, A Beautiful Noise was written by Anthony McCarten and produced by Ken Davenport and Bob Gaudio. The musical is structured around a series of therapy sessions during which Diamond reacts to his lyrics as they are read by his psychiatrist from a second-hand copy of The Complete Lyrics of Neil Diamond.  In a June 19, 2022 interview with  The Boston Globe McCarten said: “She opens the book, and all 60 years of his songwriting and all that exploration pours out into a majestic musical collage, and once unloosed from the book, the songs take on lives of their own.\"",
+        "source_url": "https://en.wikipedia.org/wiki/A_Beautiful_Noise_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "barbarella-the-80-s-musical": {
+      "slug": "barbarella-the-80-s-musical",
+      "title": "Barbarella: the 80's Musical",
+      "qid": "Q21152200",
+      "enwiki": "Barbarella: the 80's Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Barbarella%3A_the_80's_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q21152200"
+      },
+      "summary": {
+        "text": "Barbarella: the 80's Musical (also known as just Barbarella or 80's, the Μusical) is a 2015 jukebox musical comedy with a book by Giorgos Valaris and Stelios Papadopoulos. The music is based on hits of the 1980s (international and Greek).\nThe musical evolves around the romantic story and the obstacles of a young couple and their friends and also gives through a comedic way the traditions and way of living of that time.",
+        "source_url": "https://en.wikipedia.org/wiki/Barbarella%3A_the_80's_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "foxy": {
+      "slug": "foxy",
+      "title": "Foxy",
+      "qid": "Q8565261",
+      "enwiki": "Foxy (musical)",
+      "composers": [
+        {
+          "name": "Robert E. Dolan",
+          "qid": "Q2157024",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11597"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Johnny Mercer",
+          "qid": "Q363698",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12137"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Ian McLellan Hunter",
+          "qid": "Q1655589",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6426"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3703",
+        "wikipedia": "https://en.wikipedia.org/wiki/Foxy_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q8565261"
+      },
+      "summary": {
+        "text": "Foxy is a musical with a book by Ian McLellan Hunter and Ring Lardner Jr., lyrics by Johnny Mercer, and music by Robert Emmett Dolan.\nBased on Ben Jonson's Volpone, it transports the original play's setting of early-17th century Renaissance Venice to the Yukon during the gold rush of 1898. When prospector Jim Fox confides in buddies Bedrock, Shortcut, and Buzzard that he's discovered a mother lode in the Klondike River, they set off to claim it as their own. Foxy and con man Doc Mosk join forces to swindle the greedy trio out of their stolen wealth. The two arrive in the Yukon with an enormous chest they claim is filled with gold and announce that Foxy is dying and looking to name an heir. As expected, the three begin to cater to their pal's every whim in the hope they'll be selected.\nSubplots focus on Doc's affair with local madam Brandy; destitute Celia, who decides to sell herself to the highest bidder; and Bedrock's son Ben, who returns from Dartmouth College in time to save Celia and become involved in Foxy's shenanigans.",
+        "source_url": "https://en.wikipedia.org/wiki/Foxy_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "grind": {
+      "slug": "grind",
+      "title": "Grind",
+      "qid": "Q5609387",
+      "enwiki": "Grind (musical)",
+      "composers": [
+        {
+          "name": "Larry Grossman",
+          "qid": "Q6490433",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11797"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Fay Kanin",
+          "qid": "Q304588",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5512"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4116",
+        "wikipedia": "https://en.wikipedia.org/wiki/Grind_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5609387"
+      },
+      "summary": {
+        "text": "Grind is a 1985 musical with music by Larry Grossman, lyrics by Ellen Fitzhugh, and a book by Fay Kanin. Grind is a portrait of a largely African-American burlesque house in Chicago in the Thirties.\nReviews of the production were mixed at best. In his The New York Times review, Frank Rich wrote: \"...the show has become a desperate barrage of arbitrary musical numbers, portentous staging devices, extravagant costumes..., confused plot twists and sociological bromides...\"\nGrind eventually closed after a run of slightly more than two months, losing its entire $4.75 million investment. It was one of a string of six Broadway flops directed by Hal Prince in the 1980s, and Prince and three other members of the creative team were suspended by the Dramatists Guild for signing a \"substandard contract.\"\nIn a Broadway season described by theater historian Ken Mandelbaum as \"dismal\" for new musicals, Grind was nominated for seven Tony Awards, including Best Musical; it eventually won two, for Best Featured Actress in a Musical (Leilani Jones) and Best Costume Design (Florence Klotz).",
+        "source_url": "https://en.wikipedia.org/wiki/Grind_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "i-and-albert": {
+      "slug": "i-and-albert",
+      "title": "I and Albert",
+      "qid": "Q16157279",
+      "enwiki": "I and Albert",
+      "composers": [
+        {
+          "name": "Charles Strouse",
+          "qid": "Q2960275",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12463"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Lee Adams",
+          "qid": "Q6512930",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12723"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/I_and_Albert",
+        "wikidata": "https://www.wikidata.org/wiki/Q16157279"
+      },
+      "summary": {
+        "text": "I and Albert is a 1972 musical by composer Charles Strouse, and lyricist Lee Adams, with a book by Jay Presson Allen. The plot is based on the lives and love story of Queen Victoria and her husband Prince Albert of Saxe-Coburg and Gotha.",
+        "source_url": "https://en.wikipedia.org/wiki/I_and_Albert",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "johnny-pye-and-the-fool-killer": {
+      "slug": "johnny-pye-and-the-fool-killer",
+      "title": "Johnny Pye and the Fool-Killer",
+      "qid": "Q6267515",
+      "enwiki": "Johnny Pye and the Fool-Killer",
+      "composers": [],
+      "lyricists": [
+        {
+          "name": "Mark St. Germain",
+          "qid": "Q6769812"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Mark St. Germain",
+          "qid": "Q6769812"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Johnny_Pye_and_the_Fool-Killer",
+        "wikidata": "https://www.wikidata.org/wiki/Q6267515"
+      },
+      "summary": {
+        "text": "Johnny Pye and the Fool-Killer was an Off-Broadway musical with music by Randy Courts, the book by Mark St. Germain, and lyrics by Randy Courts and Mark St. Germain based on the story of the same name by Stephen Vincent Benét. It was originally performed at Seattle's La Pensee Discovery! Theatre in 1993 and ran at Lamb's Theatre from October 21, 1993, and closed on December 12, 1993, after 54 performances.",
+        "source_url": "https://en.wikipedia.org/wiki/Johnny_Pye_and_the_Fool-Killer",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "kristin-chenoweth-for-the-girls": {
+      "slug": "kristin-chenoweth-for-the-girls",
+      "title": "Kristin Chenoweth: For the Girls",
+      "qid": "Q85775021",
+      "enwiki": "Kristin Chenoweth: For the Girls",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Kristin_Chenoweth%3A_For_the_Girls",
+        "wikidata": "https://www.wikidata.org/wiki/Q85775021"
+      },
+      "summary": {
+        "text": "Kristin Chenoweth: For the Girls is the second musical revue-style concert written for and starring American singer and actress Kristin Chenoweth. The show was intended to promote Chenoweth's sixth studio album, For the Girls, which celebrates the music of some iconic female entertainers. The show was directed by Richard Jay-Alexander, with musical direction by Mary Mitchell Campbell, and produced by James L. Nederlander following the success of her first Broadway residency concert, My Love Letter to Broadway. The show was a limited engagement of 8 performances at Broadway's Nederlander Theatre from November 8 through 17, 2019.",
+        "source_url": "https://en.wikipedia.org/wiki/Kristin_Chenoweth%3A_For_the_Girls",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "oh-dad-poor-dad-mamma-s-hung-you-in-the-closet-and-i-m-feelin-so-sad": {
+      "slug": "oh-dad-poor-dad-mamma-s-hung-you-in-the-closet-and-i-m-feelin-so-sad",
+      "title": "Oh Dad, Poor Dad, Mamma's Hung You in the Closet and I'm Feelin' So Sad",
+      "qid": "Q57881508",
+      "enwiki": "Oh Dad, Poor Dad, Mamma's Hung You in the Closet and I'm Feelin' So Sad",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6675",
+        "wikipedia": "https://en.wikipedia.org/wiki/Oh_Dad%2C_Poor_Dad%2C_Mamma's_Hung_You_in_the_Closet_and_I'm_Feelin'_So_Sad",
+        "wikidata": "https://www.wikidata.org/wiki/Q57881508"
+      },
+      "summary": {
+        "text": "Oh Dad, Poor Dad, Mamma's Hung You in the Closet and I'm Feelin' So Sad: A Pseudoclassical Tragifarce in a Bastard French Tradition was the first play written by Arthur Kopit.",
+        "source_url": "https://en.wikipedia.org/wiki/Oh_Dad%2C_Poor_Dad%2C_Mamma's_Hung_You_in_the_Closet_and_I'm_Feelin'_So_Sad",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "once-on-this-island": {
+      "slug": "once-on-this-island",
+      "title": "Once on This Island",
+      "qid": "Q913985",
+      "enwiki": "Once on This Island",
+      "composers": [
+        {
+          "name": "Stephen Flaherty",
+          "qid": "Q3973178",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11668"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Lynn Ahrens",
+          "qid": "Q293323",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7450"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Lynn Ahrens",
+          "qid": "Q293323",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7450"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Laurence Olivier Awards",
+          "qid": "Q28470"
+        }
+      ],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6767",
+        "wikipedia": "https://en.wikipedia.org/wiki/Once_on_This_Island",
+        "wikidata": "https://www.wikidata.org/wiki/Q913985"
+      },
+      "summary": {
+        "text": "Once on This Island is a coming-of-age one-act stage musical with a book and lyrics by Lynn Ahrens and music by Stephen Flaherty. It is based on the 1985 novel My Love, My Love; or, The Peasant Girl by Rosa Guy, a Caribbean-set retelling of Hans Christian Andersen's fairy tale The Little Mermaid. It concerns a peasant girl in the French Antilles who falls in love with a rich boy and makes a deal with the gods to save his life.\nThe original Broadway production ran from 1990 to 1991, and the West End production opened in 1994, where it won the 1995 Laurence Olivier Award for Best New Musical. The musical was revived on Broadway in a production that opened on December 3, 2017 at the Circle in the Square Theatre. The revival was showered with critical acclaim, with New York Times critic Jesse Green describing it as \"ravishing\" and The Huffington Post praising it for creating \"an aesthetic experience unlike anything seen on Broadway.\" It won the 2018 Tony Award for Best Revival of a Musical.\nA Disney film adaptation is currently in development for Disney+.",
+        "source_url": "https://en.wikipedia.org/wiki/Once_on_This_Island",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "once-upon-a-mattress": {
+      "slug": "once-upon-a-mattress",
+      "title": "Once Upon a Mattress",
+      "qid": "Q7091825",
+      "enwiki": "Once Upon a Mattress",
+      "composers": [
+        {
+          "name": "Mary Rodgers",
+          "qid": "Q435135",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12308"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Marshall Barer",
+          "qid": "Q6773485",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7557"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6761",
+        "wikipedia": "https://en.wikipedia.org/wiki/Once_Upon_a_Mattress",
+        "wikidata": "https://www.wikidata.org/wiki/Q7091825"
+      },
+      "summary": {
+        "text": "Once Upon a Mattress is a musical comedy with music by Mary Rodgers, lyrics by Marshall Barer, and book by Jay Thompson, Dean Fuller, and Barer. It opened off-Broadway in May 1959, and then moved to Broadway. The play was written as a humorous adaptation of the 1835 Hans Christian Andersen fairy tale \"The Princess and the Pea\".\nOnce Upon a Mattress was written as a shorter play at the Tamiment adult summer camp resort. The play was later expanded for the Broadway stage. Initial reviews of the play were mixed, but critics and actors alike were surprised by the show's enduring popularity, as Once Upon a Mattress became a popular choice for high school and university music and drama programs.",
+        "source_url": "https://en.wikipedia.org/wiki/Once_Upon_a_Mattress",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "second-to-nun": {
+      "slug": "second-to-nun",
+      "title": "Second to Nun",
+      "qid": "Q39086427",
+      "enwiki": "Second to Nun",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Second_to_Nun",
+        "wikidata": "https://www.wikidata.org/wiki/Q39086427"
+      },
+      "summary": {
+        "text": "Marguerite (formerly titled Second To Nun) is a musical, with book and lyrics by Anton Dudley and music by Michael Cooper, based on the life of French-Canadian Saint Marguerite Bourgeoys.\nTold in song and monologue, the show is based on the heroic life of pioneer woman and Canada's first female saint Marguerite Bourgeoys.  A one-person musical, Marguerite \"recounts Marguerite's death-defying journey to bring liberated women to the New World and help build the city of Montreal.\"\nThe world premiere production, starring Molly Pope, ran June 29 to August 5, 2017 at Zeiders American Dream Theater in Virginia Beach, Virginia.\nThe musical was originally workshopped in New York City at Playwrights Realm in March 2016, starring Tony Award winner Cady Huffman, and further developed at Phoenix Theater in Phoenix, Arizona, in May.\nThe Astoria Performing Arts Center in Queens, New York will produce the New York Premiere of the show, now titled Marguerite, in November 2019, starring Tony Winning actress Cady Huffman.</ref>\nThe original cast recording of Marguerite was produced by APAC and is scheduled for release by Broadway Records on March 5, 2021.<ref>[https://www.broadwayrecords.com/offbroadway/marguerite-original-cast-recording",
+        "source_url": "https://en.wikipedia.org/wiki/Second_to_Nun",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "sons-of-ham": {
+      "slug": "sons-of-ham",
+      "title": "Sons of Ham",
+      "qid": "Q110542810",
+      "enwiki": "Sons of Ham",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Sons_of_Ham",
+        "wikidata": "https://www.wikidata.org/wiki/Q110542810"
+      },
+      "summary": {
+        "text": "Sons of Ham was a 1900 musical staged in the United States. Will Marion Cook wrote the music and Jesse A. Shipp the book. It was a farce, with Bert Williams and George Walker portraying two young men mistaken for twin heirs. It was their first majorly successful show.\nIt opened October 15, 1900 at the Star Theatre and closed October 20, 1900 after 8 performances. It also played April 29, 1901 at the Grand Opera House and closed May 4, 1901 after 8 performances. The cast also included Williams' wife, Lottie Williams in the role of Gabby Slaughtry.\nBert Williams and George Walker were photographed performing their characters in the show. The show succeeded their first together, A Lucky Coon. The title of the show, a biblical reference, caused some controversy and protest. Their show In Dahomey followed.\nIn the fall of 1902, Williams and Walker created a No. 2 company, fronted by Dan Avery and Charles Hart and stage managed by Charles S. Sager. They rehearsed in late September, and went on the road to White Plains, NY (mid-October), Holyoke, Mass (Oct 28), Turners Falls, Mass (Oct 31), Meriden, Conn (Nov 6), Bloomsburg, PA (Nov 27), Washington, DC (Dec 2); Wilmington, Delaware (Dec 10), New Haven, Conn (Dec 22-24), Hartford, Conn (Dec 25). In the new year, the company played Portland, Maine (mid-January), Rochester, NY (end of March), Tampa and St. Petersburg, Florida (mid-April), Washington, DC again (April 29), Reading, PA (May 19-20), Allentown, PA (May 21), Harrisburg, PA (May 22), Pottsville, PA (May 23, and Carlisle, PA (May 25).",
+        "source_url": "https://en.wikipedia.org/wiki/Sons_of_Ham",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "starmites": {
+      "slug": "starmites",
+      "title": "Starmites",
+      "qid": "Q7602127",
+      "enwiki": "Starmites",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8286",
+        "playbill": "https://playbill.com/production/starmites-criterion-center-stage-right-vault-0000003843",
+        "wikipedia": "https://en.wikipedia.org/wiki/Starmites",
+        "wikidata": "https://www.wikidata.org/wiki/Q7602127"
+      },
+      "summary": {
+        "text": "Starmites is a musical with music and lyrics by Barry Keating and a book by Stuart Ross and Barry Keating. It was first presented in 1980 off-off-Broadway by the Ark Theatre Company. It opened off-Broadway in 1987 and on-Broadway on April 27, 1989, where it ran for 60 performances. It received six nominations at the 43rd Tony Awards, including Best Musical, and won zero.",
+        "source_url": "https://en.wikipedia.org/wiki/Starmites",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-25th-annual-putnam-county-spelling-bee": {
+      "slug": "the-25th-annual-putnam-county-spelling-bee",
+      "title": "The 25th Annual Putnam County Spelling Bee",
+      "qid": "Q16547558",
+      "enwiki": "The 25th Annual Putnam County Spelling Bee",
+      "composers": [
+        {
+          "name": "William Finn",
+          "qid": "Q8009056",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9128"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "William Finn",
+          "qid": "Q8009056",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9128"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Rachel Sheinkin",
+          "qid": "Q55679394",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/392861"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/392858",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_25th_Annual_Putnam_County_Spelling_Bee",
+        "wikidata": "https://www.wikidata.org/wiki/Q16547558"
+      },
+      "summary": {
+        "text": "The 25th Annual Putnam County Spelling Bee is a musical comedy with music and lyrics by William Finn, with a book written by Rachel Sheinkin, created by Rebecca Feldman with additional material by Jay Reiss. The show centers on a fictional spelling bee set in a geographically ambiguous Putnam Valley Middle School, some students being from various elementary schools. These six quirky adolescents compete in the Bee, run by three equally quirky grown-ups.\nThe 2005 Broadway production, directed by James Lapine and produced by David Stone, James L. Nederlander, Barbara Whitman, Patrick Catullo, Barrington Stage Company and Second Stage Theater, earned good reviews and box-office success and was nominated for six Tony Awards, winning two, including Best Book. The show has spawned various other productions in the United States, and other countries.\nAn unusual aspect of the show is that four real audience members are invited on stage to compete in the spelling bee alongside the six young characters. During the 2005 Tony Awards, former presidential candidate Al Sharpton competed. Another amusing aspect of the show is that the official pronouncer, usually an improv comedian, provides ridiculous usage-in-a-sentence examples when asked to use words in a sentence. At some shows, adult-only audiences (over age 16) are invited for \"Parent-Teacher Conferences\"  also known as \"adult night at the Bee\". These performances are peppered with sexual references and profanity inspired by R-rated ad-libs made during rehearsals.\nThe Broadway cast album was released on May 31, 2005, and is available from Ghostlight Records, an imprint of Sh-K-Boom Records. The original Broadway cast recording was nominated for a Grammy Award. In April 2021, a Disney film adaptation was announced to be in the works.",
+        "source_url": "https://en.wikipedia.org/wiki/The_25th_Annual_Putnam_County_Spelling_Bee",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-misadventures-of-the-wholesome-twins": {
+      "slug": "the-misadventures-of-the-wholesome-twins",
+      "title": "The Misadventures of the Wholesome Twins",
+      "qid": "Q7751691",
+      "enwiki": "The Misadventures of the Wholesome Twins",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Misadventures_of_the_Wholesome_Twins",
+        "wikidata": "https://www.wikidata.org/wiki/Q7751691"
+      },
+      "summary": {
+        "text": "The Misadventures of the Wholesome Twins is a musical with book and lyrics by Jason Vitteri-Lewis and music by Vitteri-Lewis and Walter Frasier.  It premiered as a showcase at The Duplex in New York's West Village in July 2005, followed by a full-length two-month run the same year. The show opened at Don't Tell Mama, the Theater District's best known cabaret on October 24, 2005. The formal run cast included Liza Marie Johnston, Heather Michele Lawler, TJ Besler, Robyn Kay Pilarski, Joel Peterson, Drew Tessier, Anthony Aloise, Julie Marcus and Alanna Wilson. The show closed on December 19, 2005, after four previews and 22 regular performances. The show was produced by Stacy Lerman/Creative Stage.\nOriginally, the musical was titled The Misadventures of the Olsen Twins. Producers had to change the title of the show to avoid any legal recourse and to publicize it as a parody.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Misadventures_of_the_Wholesome_Twins",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-strollers": {
+      "slug": "the-strollers",
+      "title": "The Strollers",
+      "qid": "Q121665481",
+      "enwiki": "The Strollers",
+      "composers": [
+        {
+          "name": "Ludwig Engländer",
+          "qid": "Q6699214",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11641"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Harry B. Smith",
+          "qid": "Q5667065",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/24417"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Harry B. Smith",
+          "qid": "Q5667065",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/24417"
+        }
+      ],
+      "premiere": {
+        "date": "1901-06-24",
+        "venue": "Knickerbocker Theatre"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Strollers",
+        "wikidata": "https://www.wikidata.org/wiki/Q121665481"
+      },
+      "summary": {
+        "text": "The Strollers is a musical in two acts and a prologue with music by Ludwig Engländer and a book and lyrics by Harry B. Smith. Set in Austria, the work is based on Leopold Krenn and Karl Lindau's libretto for the 1899 operetta Die Landstreicher by the composer Carl Michael Ziehrer. The work premiered on Broadway at the Knickerbocker Theatre on June 24, 1901. It closed at that theatre on August 31, 1901 after 70 performances. The Broadway production was directed by A. M. Holbrook and produced by  George W. Lederer, Sam Nixon and J. Fred Zimmerman. The sets were designed by D. Frank Dodge and Ernest Albert, and the costumes were designed by Caroline Siedle. The production starred Francis Wilson as August Lump, Irene Bentley as Bertha, Eddie Foy as Kamfer, Marie George as Mimi, Harry Gilfoil as the Prince de Bomsky, Wilmer Bentley as Rudi von Rodenstein, and Louise Lawton as Anna.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Strollers",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

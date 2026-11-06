@@ -1,0 +1,681 @@
+{
+  "live": true,
+  "shows": {
+    "afgar": {
+      "slug": "afgar",
+      "title": "Afgar",
+      "qid": "Q4689047",
+      "enwiki": "Afgar",
+      "composers": [
+        {
+          "name": "Charles Cuvillier",
+          "qid": "Q5076618",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4736"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Douglas Furber",
+          "qid": "Q5301494",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5125"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Fred Thompson",
+          "qid": "Q5496402",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5661"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1404",
+        "wikipedia": "https://en.wikipedia.org/wiki/Afgar",
+        "wikidata": "https://www.wikidata.org/wiki/Q4689047"
+      },
+      "summary": {
+        "text": "Afgar, or the Andalusian Leisure is a musical with lyrics by Douglas Furber, music by Charles Cuvillier and a book by Fred Thompson and Worton David.  It is based on Cuvillier's 1909 French operetta of the same name, with words by André Barde and Michel Carré.  \nThe original West End production opened at the London Pavilion on 17 September 1919 and ran for 300 performances over a period of three years under the management of Charles B. Cochran.  It featured Marie Burke, Alice Delysia, Strafford Moss, John Humphries, Lupino Lane, Harry Welchman and Leon Morton, and its cast recording was the first original cast recording of a musical at the Pavilion. The costumes were designed by the French fashion designer Paul Poiret.\nThe Broadway production, directed by Frank Collins, opened on 8 November 1920 at the Central Theatre and ran for 168 performances.  It starred Irving Beebee as Don Juan, Jr. and Delysia as Zaydee.",
+        "source_url": "https://en.wikipedia.org/wiki/Afgar",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "bare-the-musical": {
+      "slug": "bare-the-musical",
+      "title": "Bare: The Musical",
+      "qid": "Q60462497",
+      "enwiki": "Bare: The Musical",
+      "composers": [
+        {
+          "name": "Damon Intrabartolo",
+          "qid": "Q5212838"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Bare%3A_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q60462497"
+      },
+      "summary": {
+        "text": "Bare, also known as Bare: The Musical, is a coming-of-age rock musical with music by Damon Intrabartolo, and lyrics and a book by Jon Hartmere. It is a new version of Bare: A Pop Opera.\nThe revised musical began previews Off-Broadway on November 19, 2012, and opened on December 9, 2012, at New World Stages. Bare returned to Off-Broadway for a limited run in June 2013 at The York Theatre Company. This production was produced by Sponge Theatricals and Midtown Arts Common as a benefit for the LGBTQ youth homeless shelter, Trinity Place Shelter. The musical was produced by Paul Boskind, Randy Taradash, Gregory Rae, Carl D. White, Carollo & Palumbo LLC, and Martian Entertainment. Musical supervision and additional songs in this production were by Lynne Shankel and Hartmere. The creative team included director Stafford Arima, choreographer Travis Wall, set designer Donyale Werle, lighting designer Howell Binkley, costume designer Tristan Raines, sound designer Keith Caggiano, projection designer William Cusick, and hair and make up designer Leah J. Loukas. The original production closed on February 3, 2013.",
+        "source_url": "https://en.wikipedia.org/wiki/Bare%3A_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "bigfoot-the-musical": {
+      "slug": "bigfoot-the-musical",
+      "title": "Bigfoot! The Musical",
+      "qid": "Q137557369",
+      "enwiki": "Bigfoot! The Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Amber Ruffin",
+          "qid": "Q28870971",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/526328"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Bigfoot!_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q137557369"
+      },
+      "summary": {
+        "text": "Bigfoot! The Musical is a musical comedy with lyrics by Amber Ruffin, music by David Schmoll, and a book by Ruffin and Kevin Sciretta. The Off-Broadway production began previews on February 11, 2026, at New York City Center.",
+        "source_url": "https://en.wikipedia.org/wiki/Bigfoot!_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "disney-s-aladdin-a-musical-spectacular": {
+      "slug": "disney-s-aladdin-a-musical-spectacular",
+      "title": "Disney's Aladdin: A Musical Spectacular",
+      "qid": "Q3030272",
+      "enwiki": "Disney's Aladdin: A Musical Spectacular",
+      "composers": [
+        {
+          "name": "Alan Menken",
+          "qid": "Q317272",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12135"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Howard Ashman",
+          "qid": "Q1334295",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6356"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Chad Beguelin",
+          "qid": "Q5066165",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/402892"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Disney's_Aladdin%3A_A_Musical_Spectacular",
+        "wikidata": "https://www.wikidata.org/wiki/Q3030272"
+      },
+      "summary": {
+        "text": "Disney's Aladdin: A Musical Spectacular is a 45-minute Broadway-style musical theatre show based on Disney Animation's 1992 film Aladdin with music by Alan Menken and lyrics by Howard Ashman and Tim Rice.\nAbout 14,000 performances were held inside the 2,000-seat Hyperion Theater in Hollywood Land at Disney California Adventure from 2003 to 2016, after which the show was replaced by Frozen – Live at the Hyperion, a musical show inspired by Disney Animation's 2013 film Frozen.\nA version of the show continues to play on board the Disney Cruise Line ships Disney Fantasy and Disney Wish.",
+        "source_url": "https://en.wikipedia.org/wiki/Disney's_Aladdin%3A_A_Musical_Spectacular",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "don-t-step-on-my-olive-branch": {
+      "slug": "don-t-step-on-my-olive-branch",
+      "title": "Don't Step on My Olive Branch",
+      "qid": "Q5291908",
+      "enwiki": "Don't Step on My Olive Branch",
+      "composers": [
+        {
+          "name": "Ran Eliran",
+          "qid": "Q7290595"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3143",
+        "wikipedia": "https://en.wikipedia.org/wiki/Don't_Step_on_My_Olive_Branch",
+        "wikidata": "https://www.wikidata.org/wiki/Q5291908"
+      },
+      "summary": {
+        "text": "Don't Step on My Olive Branch is a musical conceived by Jonathan Karmon, with music and lyrics by Ron Eliran and a book by Harvey Jacobs. It is an Israeli musical in English. It was originally presented with no intermission in revue form with the numbers commenting on international affairs (usually satirically).",
+        "source_url": "https://en.wikipedia.org/wiki/Don't_Step_on_My_Olive_Branch",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "herbstmusik": {
+      "slug": "herbstmusik",
+      "title": "Herbstmusik",
+      "qid": "Q14631318",
+      "enwiki": "Herbstmusik",
+      "composers": [
+        {
+          "name": "Karlheinz Stockhausen",
+          "qid": "Q154556"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Herbstmusik",
+        "wikidata": "https://www.wikidata.org/wiki/Q14631318"
+      },
+      "summary": {
+        "text": "Herbstmusik (Autumn Music) is a music-theatre work for four performers composed by Karlheinz Stockhausen in 1974. It is Nr. 40 in his catalogue of works, and lasts a little over an hour in performance.",
+        "source_url": "https://en.wikipedia.org/wiki/Herbstmusik",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "high-school-musical-on-stage": {
+      "slug": "high-school-musical-on-stage",
+      "title": "High School Musical on Stage!",
+      "qid": "Q2336119",
+      "enwiki": "High School Musical on Stage!",
+      "composers": [
+        {
+          "name": "Matthew Gerrard",
+          "qid": "Q6790552",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/505696"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/505684",
+        "wikipedia": "https://en.wikipedia.org/wiki/High_School_Musical_on_Stage!",
+        "wikidata": "https://www.wikidata.org/wiki/Q2336119"
+      },
+      "summary": {
+        "text": "High School Musical on Stage! is a musical based on the 2006 Disney Channel Original Movie High School Musical, with music and lyrics by Matthew Gerrard, Robbie Nevil, Ray and Greg Cham, Drew Seeley, Randy Petersen, Kevin Quinn, Andy Dodd, Adam Watts, Bryan Louiselle, David N. Lawrence, Faye Greenberg and Jamie Houston, and a book by David Simpatico.  It quickly became a popular choice for high school musical theater productions.",
+        "source_url": "https://en.wikipedia.org/wiki/High_School_Musical_on_Stage!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "louisiana-purchase": {
+      "slug": "louisiana-purchase",
+      "title": "Louisiana Purchase",
+      "qid": "Q6689252",
+      "enwiki": "Louisiana Purchase (musical)",
+      "composers": [
+        {
+          "name": "Irving Berlin",
+          "qid": "Q128746",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6452"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Irving Berlin",
+          "qid": "Q128746",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6452"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Morrie Ryskind",
+          "qid": "Q323516",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7807"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/10933",
+        "wikipedia": "https://en.wikipedia.org/wiki/Louisiana_Purchase_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6689252"
+      },
+      "summary": {
+        "text": "Louisiana Purchase is a musical with music and lyrics by Irving Berlin and book by Morrie Ryskind based on a story by B. G. DeSylva. Set in New Orleans, the musical lightly satirises Louisiana Governor Huey Long and his control over Louisiana politics. An honest U.S. senator travels to Louisiana to investigate corruption in the Louisiana Purchase Company; the company's lawyer attempts to divert him via the attentions of two beautiful women, but the senator maintains his integrity and ends up marrying one of them. In 1941 it was adapted for the film Louisiana Purchase directed by Irving Cummings.\nThe show opened at the Shubert Brothers' Imperial Theatre, New York City on May 28, 1940 and ran for 444 performances. It was produced by Buddy De Sylva, who also wrote the story, and staged by Edgar MacGregor. The musical orchestrations were by Robert Emmett Dolan and N. Lang Van Cleve, with the ballets by George Balanchine and the musical staging and dances by Carl Randall. On June 19, 1996, a concert version with the complete score was recorded at Carnegie Hall (during four performances), including three additional songs cut from the original album.",
+        "source_url": "https://en.wikipedia.org/wiki/Louisiana_Purchase_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "ludwig-ii": {
+      "slug": "ludwig-ii",
+      "title": "Ludwig II",
+      "qid": "Q16885254",
+      "enwiki": "Ludwig II (musical)",
+      "composers": [
+        {
+          "name": "Franz Hummel",
+          "qid": "Q1447347"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Stephan Barbarino",
+          "qid": "Q1695443"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": "2000-04-07",
+        "venue": "Festspielhaus Neuschwanstein"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Ludwig_II_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q16885254"
+      },
+      "summary": {
+        "text": "Ludwig II: Longing for Paradise (Ludwig II: Sensucht nach dem Paradies) is a German musical in five acts with music by Franz Hummel and book and lyrics by Stephan Barbarino and Heinz Hauser. \nThe musical was presented at the lavish Festspielhaus Füssen, which was built for it at the edge of the lake below Neuschwanstein Castle. The musical was directed by Barbarino. The story concerns Bavaria's \"Mad King\" Ludwig II of Bavaria, who came to power in 1864 at the age of 18, lost a war against Prussia and spent his kingdom's fortune and sovereignty, and accumulated debts, to build extravagant castles and palaces and to sponsor Richard Wagner and other artists. Ludwig was declared insane and deposed in 1886, at the age of 41. He died the next day under suspicious circumstances.\nThe show immediately sold out to more than half a million tourists and Germans by the time of its premiere on April 7, 2000, and it was played year-round and seen by an additional one million audience members by 2003.  The musical was performed in German with supertitles in English and other languages. The theatre is now used for other productions.",
+        "source_url": "https://en.wikipedia.org/wiki/Ludwig_II_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "mogal-tamsa": {
+      "slug": "mogal-tamsa",
+      "title": "Mogal Tamsa",
+      "qid": "Q123596308",
+      "enwiki": "Mogal Tamsa",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Mogal_Tamsa",
+        "wikidata": "https://www.wikidata.org/wiki/Q123596308"
+      },
+      "summary": {
+        "text": "Mogal Tamsa is a traditional theatrical form practiced in Bhadrak district of Odisha, India. It developed as a form of folk theatre intended to promote harmony between Hindu and Muslim communities.",
+        "source_url": "https://en.wikipedia.org/wiki/Mogal_Tamsa",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "oh-what-a-lovely-war": {
+      "slug": "oh-what-a-lovely-war",
+      "title": "Oh, What a Lovely War!",
+      "qid": "Q17012934",
+      "enwiki": "Oh, What a Lovely War!",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Joan Littlewood",
+          "qid": "Q443797",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/15451"
+        }
+      ],
+      "premiere": {
+        "date": "1963-03-19",
+        "venue": "Theatre Royal Stratford East"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6678",
+        "wikipedia": "https://en.wikipedia.org/wiki/Oh%2C_What_a_Lovely_War!",
+        "wikidata": "https://www.wikidata.org/wiki/Q17012934"
+      },
+      "summary": {
+        "text": "Oh, What a Lovely War! is an epic musical developed by Joan Littlewood and her ensemble at the Theatre Workshop in 1963. It is a satire on World War I, and by extension on war in general. The title is derived from the \"somewhat satirical\" music hall song \"Oh! It's a Lovely War!\", which is one of the major numbers in the production.",
+        "source_url": "https://en.wikipedia.org/wiki/Oh%2C_What_a_Lovely_War!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "on-the-record": {
+      "slug": "on-the-record",
+      "title": "On the Record",
+      "qid": "Q7091479",
+      "enwiki": "On the Record (musical)",
+      "composers": [
+        {
+          "name": "Leigh Harline",
+          "qid": "Q1367518",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/508011"
+        },
+        {
+          "name": "Sherman Brothers",
+          "qid": "Q2117821"
+        },
+        {
+          "name": "Jack Lawrence",
+          "qid": "Q2452637",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12029"
+        },
+        {
+          "name": "Elton John",
+          "qid": "Q2808",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11938"
+        },
+        {
+          "name": "Al Hoffman",
+          "qid": "Q2829347",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/413376"
+        },
+        {
+          "name": "Eliot Daniel",
+          "qid": "Q3051039",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/83758"
+        },
+        {
+          "name": "Alan Menken",
+          "qid": "Q317272",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12135"
+        },
+        {
+          "name": "Randy Newman",
+          "qid": "Q318475",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/391823"
+        },
+        {
+          "name": "Mack David",
+          "qid": "Q506859",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12842"
+        },
+        {
+          "name": "Carl W. Stalling",
+          "qid": "Q598185",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12437"
+        },
+        {
+          "name": "Sammy Fain",
+          "qid": "Q742896",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11649"
+        },
+        {
+          "name": "Frank Churchill",
+          "qid": "Q912572",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/508008"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Howard Ashman",
+          "qid": "Q1334295",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6356"
+        },
+        {
+          "name": "Ned Washington",
+          "qid": "Q1973924",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12550"
+        },
+        {
+          "name": "Sherman Brothers",
+          "qid": "Q2117821"
+        },
+        {
+          "name": "Jack Lawrence",
+          "qid": "Q2452637",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12029"
+        },
+        {
+          "name": "Bob Hilliard",
+          "qid": "Q2907714",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11861"
+        },
+        {
+          "name": "Tim Rice",
+          "qid": "Q298295",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8890"
+        },
+        {
+          "name": "Randy Newman",
+          "qid": "Q318475",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/391823"
+        },
+        {
+          "name": "Larry Morey",
+          "qid": "Q3218086"
+        },
+        {
+          "name": "Jerry Livingston",
+          "qid": "Q369033",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12070"
+        },
+        {
+          "name": "David Zippel",
+          "qid": "Q3703386",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13425"
+        },
+        {
+          "name": "Carl W. Stalling",
+          "qid": "Q598185",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12437"
+        },
+        {
+          "name": "Sammy Fain",
+          "qid": "Q742896",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11649"
+        },
+        {
+          "name": "Walt Disney",
+          "qid": "Q8704",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/117280"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Chad Beguelin",
+          "qid": "Q5066165",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/402892"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/507951",
+        "wikipedia": "https://en.wikipedia.org/wiki/On_the_Record_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7091479"
+      },
+      "summary": {
+        "text": "On the Record (sometimes referred to as Disney's On the Record) is a jukebox musical revue featuring many classic songs from a variety of live action and animated films and television series produced by Walt Disney Pictures, Broadway musical plays produced by Walt Disney Theatrical, and even Disneyland attractions.  This theatrical celebration of 75 years of Disney music tells the story of four singers recording a greatest hits album in a magical recording studio.  After opening in Cleveland in 2004, the production toured for nine months, visiting 24 cities in the United States before closing in Denver in mid-2005.",
+        "source_url": "https://en.wikipedia.org/wiki/On_the_Record_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "perez-hilton-saves-the-universe-or-at-least-the-greater-los-angeles-area-the-musical": {
+      "slug": "perez-hilton-saves-the-universe-or-at-least-the-greater-los-angeles-area-the-musical",
+      "title": "Perez Hilton Saves the Universe (or at least the greater Los Angeles area): the Musical!",
+      "qid": "Q7167914",
+      "enwiki": "Perez Hilton Saves the Universe (or at least the greater Los Angeles area): the Musical!",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Perez_Hilton_Saves_the_Universe_(or_at_least_the_greater_Los_Angeles_area)%3A_the_Musical!",
+        "wikidata": "https://www.wikidata.org/wiki/Q7167914"
+      },
+      "summary": {
+        "text": "Perez Hilton Saves the Universe (or at least the greater Los Angeles area): the Musical! is an original musical with book by Randy Blair and Timothy Michael Drucker, lyrics by Randy Blair, and music by Zachary Redler. The show, according to press materials, \"follows a normal day in the life of celebrity gossip blogger, Perez Hilton. Well, were it not for the evil plans of Islamic terrorists. And Kathy Griffin. Throughout the course of the evening, Perez must deal with the demons of love, ego, and celebrity, all whilst saving LA from imminent nuclear disaster. With a pop-infused score and dozens of celebrity impersonations, \"Perez Hilton... the Musical!\" reveals the inner workings of a society obsessed with itself. Oh, and it's kinda funny.\"\n\"Perez...\" premiered to much advanced buzz at the 2008 New York International Fringe Festival in New York City, with direction and choreography by Connor Gallagher. The sold-out musical was then moved to the Barrow Street Theatre and extended as part of the Fringe Encores series, which features the most popular of the Fringe's yearly offerings.\nThe production was awarded Outstanding Musical of the 2008 Fringe season.",
+        "source_url": "https://en.wikipedia.org/wiki/Perez_Hilton_Saves_the_Universe_(or_at_least_the_greater_Los_Angeles_area)%3A_the_Musical!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "police-cops-the-musical": {
+      "slug": "police-cops-the-musical",
+      "title": "Police Cops: The Musical",
+      "qid": "Q125804174",
+      "enwiki": "Police Cops: The Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Police_Cops%3A_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q125804174"
+      },
+      "summary": {
+        "text": "Police Cops: The Musical is a comedy musical written by Zachary Hunt, Nathan Parkinson and Tom Roe , with music by Ben Adams. It was developed by Hunt, Parkinson and Roe, out of sketches they created while they were classmates at East 15 drama school. The show is a spoof of Hollywood action movies of the 1980s, and makes abundant use of dance numbers, physical comedy, sight gags, and audience participation.\nIn 2015, Police Cops received a five-star review from The Stage while playing at the Edinburgh Fringe Festival. It steadily picked up a popular following, and has returned to Edinburgh several times. It has also toured extensively in the UK as well as abroad. The show played in London at the New Diorama Theatre in 2021, and at the Southwark Playhouse first in 2023 and then again in 2024, to critical acclaim and sell-out crowds.\nThe cast includes the show's creators Hunt, Parkinson and Roe, as well as Melinda Orengo and Natassia Bustamante, who play a variety of female roles. Mychele Lebrun and Ben Lancaster complete the cast as  offstage understudies.",
+        "source_url": "https://en.wikipedia.org/wiki/Police_Cops%3A_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "prisoner-cell-block-h-the-musical": {
+      "slug": "prisoner-cell-block-h-the-musical",
+      "title": "Prisoner Cell Block H: The Musical",
+      "qid": "Q85794570",
+      "enwiki": "Prisoner Cell Block H: The Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Prisoner_Cell_Block_H%3A_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q85794570"
+      },
+      "summary": {
+        "text": "Prisoner Cell Block H: The Musical is a stage musical based on the Australian television series Prisoner (also known as Prisoner Cell Block H) created by Reg Watson.\nThe concept, music and lyrics where devised by Don Battye and Peter Pinne.\nAfter previews from 23 October 1995, the musical opened on 30 October 1995 at the Sondheim Theatre (formerly The Queens Theatre) in London's West End. It closed on 13 January 1996. The cast featured Lily Savage and Maggie Kirkpatrick.",
+        "source_url": "https://en.wikipedia.org/wiki/Prisoner_Cell_Block_H%3A_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "svengali": {
+      "slug": "svengali",
+      "title": "Svengali",
+      "qid": "Q7652136",
+      "enwiki": "Svengali (musical)",
+      "composers": [
+        {
+          "name": "Frank Wildhorn",
+          "qid": "Q1444457",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5638"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Svengali_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7652136"
+      },
+      "summary": {
+        "text": "Svengali is a musical with a book and lyrics by Gregory Boyd and music by Frank Wildhorn. It is based on the 1894 novel Trilby by George du Maurier.\nThe title character in this Gothic tale is a vocal coach who uses hypnotism to transform the tone-deaf Trilby into an acclaimed singer and steals her away from Little Billie, a sculptor for whom she has posed. At first the girl can remember nothing about her past, but as her memory slowly returns, she attempts to break free from her possessive mentor.\nThe musical has been staged twice, both times with Chuck Wagner as Svengali and Linda Eder (Wildhorn's then future, now ex-wife) as Trilby. It premiered at the Alley Theatre in Houston, Texas, in April 1991 and won the Alton Jones Foundation Award for New American Musicals. It was then produced at the Asolo Repertory Theatre in Sarasota, Florida, in October 1991 through November 2, 1991. \nThe director was Gregory Boyd. The scenic design by Jerome Sirlin used a bank of slide projectors, creating \"enigmatic images against the backdrop of the stage: the pensive face of a young woman, gargoyles, a cafe scene, brilliant color fields of red, blue, green and gold.\" The costumes were by Jane Suttell and lighting by Howell Binkley. The cast featured Philip Hoffman, Molly Scott as Zou Zou.\nOf it Wildhorn has said, \"It was great working on it and I hope it will have its day.\"\nAlthough a complete cast album has not been released, several of the show's songs have been recorded. Danny de Munk and Vera Mann dueted on \"So Slowly\" for his CD Danny, and Eder included \"If He Never Said Hello\" and \"Vole Mon Ange\" on her 2003 release Storybook. Eder recorded two more songs from the show, \"Slowly\" and \"I Will Never Be the One\", for her album Retro: Volume Two (2020).",
+        "source_url": "https://en.wikipedia.org/wiki/Svengali_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-orchid": {
+      "slug": "the-orchid",
+      "title": "The Orchid",
+      "qid": "Q7755291",
+      "enwiki": "The Orchid (musical)",
+      "composers": [
+        {
+          "name": "Lionel Monckton",
+          "qid": "Q2290123",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12155"
+        },
+        {
+          "name": "Ivan Caryll",
+          "qid": "Q3156080",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11499"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Adrian Ross",
+          "qid": "Q3605637",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13251"
+        },
+        {
+          "name": "Percy Greenbank",
+          "qid": "Q7167371",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8096"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "James T. Tanner",
+          "qid": "Q6143978",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6636"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6816",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Orchid_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7755291"
+      },
+      "summary": {
+        "text": "The Orchid is an Edwardian musical comedy in two acts with music by Ivan Caryll and Lionel Monckton, a book by James T. Tanner, lyrics by Adrian Ross and Percy Greenbank, and additional numbers by Paul Rubens. The story concerns marital mix-ups and the quest of a wealthy man for a $2,000 Peruvian orchid to be sent to France. When foul play keeps the flower from reaching its destination, it is discovered that a nearly identical orchid is growing in the garden of the horticultural college.\nThe musical premiered in London in 1903.  A Broadway production followed in 1907.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Orchid_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

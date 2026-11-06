@@ -1,0 +1,617 @@
+{
+  "live": true,
+  "shows": {
+    "a-class-act": {
+      "slug": "a-class-act",
+      "title": "A Class Act",
+      "qid": "Q4655947",
+      "enwiki": "A Class Act",
+      "composers": [
+        {
+          "name": "Edward Kleban",
+          "qid": "Q5343953",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13009"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Edward Kleban",
+          "qid": "Q5343953",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13009"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/10505",
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Class_Act",
+        "wikidata": "https://www.wikidata.org/wiki/Q4655947"
+      },
+      "summary": {
+        "text": "A Class Act is a quasi-autobiographical musical loosely based on the life of composer-lyricist Edward Kleban, who died at the age of 48 in 1987.  Featuring a book by Linda Kline and Lonny Price along with music and lyrics by Kleban himself, the musical uses flashbacks and the device of time running backwards to retrace the high and low points of the composer's personal and professional life.\nThe original production concept was haphazardly thrown together by Kleban's close friend and author of the book by using a trunkful of songs that Kleban had written for a number of unproduced musicals, and writing new scenes or reworking original scenes around them, with Price polishing up the results.\nIn addition to serving as a tribute to one of the award-winning collaborators of A Chorus Line, A Class Act provides another behind-the-scenes glimpse at how a musical is created and brought to the stage. In contrast to A Chorus Line, the piece offers a more severe warning about how an artist's personal life—including struggles with mental illness and cancer—can interfere with, obstruct, and eventually doom his professional and personal pursuits.",
+        "source_url": "https://en.wikipedia.org/wiki/A_Class_Act",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "a-country-girl": {
+      "slug": "a-country-girl",
+      "title": "A Country Girl",
+      "qid": "Q4656142",
+      "enwiki": "A Country Girl",
+      "composers": [
+        {
+          "name": "Lionel Monckton",
+          "qid": "Q2290123",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12155"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Adrian Ross",
+          "qid": "Q3605637",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13251"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "James T. Tanner",
+          "qid": "Q6143978",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6636"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1069",
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Country_Girl",
+        "wikidata": "https://www.wikidata.org/wiki/Q4656142"
+      },
+      "summary": {
+        "text": "A Country Girl, or, Town and Country is a musical play in two acts by James T. Tanner, with lyrics by Adrian Ross, additional lyrics by Percy Greenbank, music by Lionel Monckton and additional songs by Paul Rubens.\nThe musical opened at Daly's Theatre in London, managed by George Edwardes, on 18 January 1902 and ran for 729 performances, which was the fourth longest run for any piece of musical theatre up to that time.  It starred Hayden Coffin, Bertram Wallis, Evie Greene, Huntley Wright, Lilian Eldeé, Topsy Sinden, Ethel Irving and Rutland Barrington. Isabel Jay joined the cast later, and Gertie Millar starred in the 1914 revival.\nThe show also enjoyed a Broadway run at Daly's Theatre, starring Melville Stewart, and later revivals and tours. The piece was popular with amateur theatre groups, particularly in Britain, from World War I until about 1960.\nThis was Lionel Monckton's first score as principal composer, and his songs included \"Molly the Marchioness\", \"Try Again, Johnny\", and \"Under the Deodar\".",
+        "source_url": "https://en.wikipedia.org/wiki/A_Country_Girl",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "amelie": {
+      "slug": "amelie",
+      "title": "Amélie",
+      "qid": "Q16002821",
+      "enwiki": "Amélie (musical)",
+      "composers": [],
+      "lyricists": [
+        {
+          "name": "Nathan Tysen",
+          "qid": "Q6969389",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/501952"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Craig Lucas",
+          "qid": "Q5181167",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4924"
+        }
+      ],
+      "premiere": {
+        "date": "2015-09-11",
+        "venue": "Berkeley Repertory Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/511513",
+        "wikipedia": "https://en.wikipedia.org/wiki/Am%C3%A9lie_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q16002821"
+      },
+      "summary": {
+        "text": "Amélie is a musical based on the 2001 romantic comedy film of the same name with music by Daniel Messé, lyrics by Messé and Nathan Tysen and a book by Craig Lucas. The musical premiered at Berkeley Repertory Theatre in September 2015. The musical began previews on Broadway on March 9, 2017 at the Walter Kerr Theatre, before opening April 3, 2017. It closed after 83 performances on May 21, 2017.\nA substantially transformed production, with new orchestrations, an expanded repertoire of songs, and new staging in the actor/muso style, opened on the West End in December 2019, at the Other Palace. Critics praised its improvements on the Broadway version, with The Guardian describing it as \"a triumph of adaptation\" \"high on imagination\", while The Daily Telegraph lauded the \"wonderful, wistful evening\" it made. It was nominated for three awards at the 2020 Laurence Olivier Awards: Best New Musical, Best Original Score or New Orchestrations, and Best Actress in a Musical (for Audrey Brisson as Amélie).",
+        "source_url": "https://en.wikipedia.org/wiki/Am%C3%A9lie_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "an-american-tragedy": {
+      "slug": "an-american-tragedy",
+      "title": "An American Tragedy",
+      "qid": "Q4749777",
+      "enwiki": "An American Tragedy (musical)",
+      "composers": [
+        {
+          "name": "Charles Strouse",
+          "qid": "Q2960275",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12463"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Lee Adams",
+          "qid": "Q6512930",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12723"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "David Shaber",
+          "qid": "Q5239658"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/An_American_Tragedy_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4749777"
+      },
+      "summary": {
+        "text": "An American Tragedy is a 1995 musical with music by Charles Strouse, lyrics by Lee Adams and Mark St. Germain, and a libretto by David Shaber and Mark St. Germain. It was based on Theodore Dreiser's 1925 novel An American Tragedy.",
+        "source_url": "https://en.wikipedia.org/wiki/An_American_Tragedy_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "artus-excalibur": {
+      "slug": "artus-excalibur",
+      "title": "Artus-Excalibur",
+      "qid": "Q19802287",
+      "enwiki": "Artus-Excalibur",
+      "composers": [
+        {
+          "name": "Frank Wildhorn",
+          "qid": "Q1444457",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5638"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Artus-Excalibur",
+        "wikidata": "https://www.wikidata.org/wiki/Q19802287"
+      },
+      "summary": {
+        "text": "Artus - Excalibur is a musical loosely based on the legends of the 5th/6th-century British monarch King Arthur and his fabled sword, Excalibur. The score is by Frank Wildhorn, with lyrics by Robin Lerner, book by Ivan Menchell, and arrangements and orchestrations by Koen Schoots. The musical had its world premiere at the Theater St. Gallen in St. Gallen, Switzerland on March 15, 2014.",
+        "source_url": "https://en.wikipedia.org/wiki/Artus-Excalibur",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "chitty-chitty-bang-bang": {
+      "slug": "chitty-chitty-bang-bang",
+      "title": "Chitty Chitty Bang Bang",
+      "qid": "Q5102530",
+      "enwiki": "Chitty Chitty Bang Bang (musical)",
+      "composers": [
+        {
+          "name": "Richard M. Sherman",
+          "qid": "Q2318968",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12396"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Robert B. Sherman",
+          "qid": "Q2419093",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12397"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Jeremy Sams",
+          "qid": "Q6181852",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9612"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/382079",
+        "wikipedia": "https://en.wikipedia.org/wiki/Chitty_Chitty_Bang_Bang_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5102530"
+      },
+      "summary": {
+        "text": "Chitty Chitty Bang Bang is a stage musical with music and lyrics written by Richard M. and Robert B. Sherman and a book by Jeremy Sams. It is based on the 1968 film of the same name starring Dick Van Dyke, Sally Ann Howes and Lionel Jeffries with screenplay by Roald Dahl, Ken Hughes, and Richard Maibaum. The 1968 film was based in turn on the book of the same name by Ian Fleming. The musical's world premiere was staged at the London Palladium on April 16, 2002, directed by Adrian Noble before the show opened on Broadway in 2005.",
+        "source_url": "https://en.wikipedia.org/wiki/Chitty_Chitty_Bang_Bang_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "emojiland": {
+      "slug": "emojiland",
+      "title": "Emojiland",
+      "qid": "Q112071676",
+      "enwiki": "Emojiland",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Emojiland",
+        "wikidata": "https://www.wikidata.org/wiki/Q112071676"
+      },
+      "summary": {
+        "text": "Emojiland is a pop musical written by Keith Harrison Dworkin and Laura Schein. It premiered off-Broadway on January 19, 2020, at the Duke on 42nd Street. It centers around a group of emojis living in the world of a smartphone on the eve of a software update.",
+        "source_url": "https://en.wikipedia.org/wiki/Emojiland",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "finding-nemo-the-big-blue-and-beyond": {
+      "slug": "finding-nemo-the-big-blue-and-beyond",
+      "title": "Finding Nemo: The Big Blue... and Beyond!",
+      "qid": "Q3072553",
+      "enwiki": "Finding Nemo: The Big Blue... and Beyond!",
+      "composers": [
+        {
+          "name": "Robert Lopez",
+          "qid": "Q3435778",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/109408"
+        },
+        {
+          "name": "Kristen Anderson-Lopez",
+          "qid": "Q6437747",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/490352"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "https://disneyworld.disney.go.com/entertainment/animal-kingdom/finding-nemo-the-musical/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Finding_Nemo%3A_The_Big_Blue..._and_Beyond!",
+        "wikidata": "https://www.wikidata.org/wiki/Q3072553"
+      },
+      "summary": {
+        "text": "Finding Nemo: The Big Blue... and Beyond! is a live puppet and musical stage show based on Disney/Pixar's 2003 animated film Finding Nemo, located at the Theater in the Wild at Disney's Animal Kingdom in Walt Disney World in Orlando, Florida. The original 40-minute show titled Finding Nemo – The Musical started holding previews on November 5, 2006, officially opening on January 24, 2007. The music is composed by Kristen Anderson-Lopez and Robert Lopez, who also composed the music for Frozen and Coco, using direct lines from the film.\nOn March 15, 2020, the original show had its final performance before the Walt Disney World Resort closed due to the COVID-19 outbreak's impact on Florida. A new reimagined and revamped version of the show entitled Finding Nemo: The Big Blue... and Beyond! premiered on June 13, 2022.",
+        "source_url": "https://en.wikipedia.org/wiki/Finding_Nemo%3A_The_Big_Blue..._and_Beyond!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "finding-neverland": {
+      "slug": "finding-neverland",
+      "title": "Finding Neverland",
+      "qid": "Q18160503",
+      "enwiki": "Finding Neverland (musical)",
+      "composers": [
+        {
+          "name": "Gary Barlow",
+          "qid": "Q328753",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/498339"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Gary Barlow",
+          "qid": "Q328753",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/498339"
+        },
+        {
+          "name": "Eliot Kennedy",
+          "qid": "Q3288763",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/498340"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Allan Knee",
+          "qid": "Q4730754",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4078"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/498336",
+        "playbill": "https://playbill.com/production/finding-neverland-paramount-theatre-ia-2018-2019",
+        "wikipedia": "https://en.wikipedia.org/wiki/Finding_Neverland_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q18160503"
+      },
+      "summary": {
+        "text": "Finding Neverland is a musical with music and lyrics by Gary Barlow and Eliot Kennedy and a book by James Graham adapted from the 1998 play The Man Who Was Peter Pan by Allan Knee and its 2004 film version Finding Neverland. An early version of the musical made its world premiere at the Curve Theatre in Leicester in 2012 with a book by Allan Knee, music by Scott Frankel and lyrics by Michael Korie. A reworked version with the current writing team made its world premiere in 2014 at the American Repertory Theater in Cambridge, Massachusetts. Following completion of its Cambridge run, the production transferred to Broadway in March 2015.\nAfter a 17-month Broadway run, Finding Neverland closed on 21 August 2016, and began a U.S. national tour the following month.",
+        "source_url": "https://en.wikipedia.org/wiki/Finding_Neverland_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "johnny-baseball": {
+      "slug": "johnny-baseball",
+      "title": "Johnny Baseball",
+      "qid": "Q6266296",
+      "enwiki": "Johnny Baseball",
+      "composers": [
+        {
+          "name": "Robert Reale",
+          "qid": "Q7349190",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/106297"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Willie Reale",
+          "qid": "Q8021778",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/106298"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Richard Dresser",
+          "qid": "Q3934794",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/391084"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Johnny_Baseball",
+        "wikidata": "https://www.wikidata.org/wiki/Q6266296"
+      },
+      "summary": {
+        "text": "Johnny Baseball: The New Red Sox Musical is a musical with a book by Richard Dresser and a score by brothers Robert Reale and Willie Reale.  The story involves circumstances relating to the Curse of the Bambino.  The musical had a preview run in Massachusetts that began on May 14, 2010. The musical's world premiere was on June 2, 2010 at the Loeb Drama Center of the American Repertory Theater.",
+        "source_url": "https://en.wikipedia.org/wiki/Johnny_Baseball",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "make-mine-manhattan": {
+      "slug": "make-mine-manhattan",
+      "title": "Make Mine Manhattan",
+      "qid": "Q65050336",
+      "enwiki": "Make Mine Manhattan",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "playbill": "https://playbill.com/production/make-mine-manhattan-broadhurst-theatre-vault-0000002103",
+        "wikipedia": "https://en.wikipedia.org/wiki/Make_Mine_Manhattan",
+        "wikidata": "https://www.wikidata.org/wiki/Q65050336"
+      },
+      "summary": {
+        "text": "Make Mine Manhattan is a 1948 Broadway revue with music by Richard Lewine, lyrics by Hassard Short, and sketches by Arnold Horwitt and produced by Joseph Hyman.",
+        "source_url": "https://en.wikipedia.org/wiki/Make_Mine_Manhattan",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "no-cards": {
+      "slug": "no-cards",
+      "title": "No Cards",
+      "qid": "Q7044018",
+      "enwiki": "No Cards",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/No_Cards",
+        "wikidata": "https://www.wikidata.org/wiki/Q7044018"
+      },
+      "summary": {
+        "text": "No Cards is a \"musical piece in one act\" for four characters, written by W. S. Gilbert, with music composed and arranged by Thomas German Reed. It was first produced at the Royal Gallery of Illustration, Lower Regent Street, London, under the management of German Reed, opening on 29 March 1869 and closing on 21 November 1869. The work is a domestic farce of mistaken identities and inept disguises, as two men desperately compete to marry a wealthy young lady. One is young and poor, and the other is a rich miser. Each disguises himself as her guardian.\nNo Cards was the first of Gilbert's six pieces for the Gallery of Illustration. It was also Gilbert's first libretto with prose dialogue and the first stage work for which he wrote lyrics to be set to music, rather than lyrics to pre-existing music. No Cards was played on a double bill with Arthur Sullivan and F. C. Burnand's Cox and Box, although Gilbert and Sullivan did not meet until later that year. After a successful 139 performances in London, the bill toured the British provinces. Gilbert liked German Reed's setting of the Babbetyboobledore song enough to reuse it later in 1869 in his next show, The Pretty Druidess.\nMusic publisher Joseph Williams & Co. reissued \"No Cards\" in 1895 with a score by \"Lionel Elliott\", which appears to be a pseudonym. A production mounted at St. George's Hall in London in 1873 appears to have been the first to use this \"Elliott\" score, and a revival took place at St. George's Hall in 1902. The Royal Victorian Opera Company of Boston, Massachusetts made a video of the piece in 1996 using the Elliott score. The first British revival in over a century was produced by the Centenary Company at the Greenwich Theatre from 18 to 21 November 2009 (as a curtain raiser to The Pirates of Penzance) using Elliott's score retrieved from the British Library.",
+        "source_url": "https://en.wikipedia.org/wiki/No_Cards",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "one-mo-time": {
+      "slug": "one-mo-time",
+      "title": "One Mo' Time",
+      "qid": "Q30611847",
+      "enwiki": "One Mo' Time (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/10973",
+        "wikipedia": "https://en.wikipedia.org/wiki/One_Mo'_Time_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q30611847"
+      },
+      "summary": {
+        "text": "One Mo' Time is a musical revue conceived by Vernel Bagneris. It is an evening of 1920s African-American vaudeville, set in the Lyric Theatre of New Orleans in 1926. The show first opened off-Broadway in 1979. It opened on the West End in 1981, and was revived on Broadway in 2002.",
+        "source_url": "https://en.wikipedia.org/wiki/One_Mo'_Time_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "senor-discretion-himself": {
+      "slug": "senor-discretion-himself",
+      "title": "Señor Discretion Himself",
+      "qid": "Q7459652",
+      "enwiki": "Señor Discretion Himself",
+      "composers": [
+        {
+          "name": "Frank Loesser",
+          "qid": "Q966018",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5613"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Se%C3%B1or_Discretion_Himself",
+        "wikidata": "https://www.wikidata.org/wiki/Q7459652"
+      },
+      "summary": {
+        "text": "Señor Discretion Himself is a musical with book, music and lyrics by Frank Loesser, adapted from the short story of the same name by Budd Schulberg. It was never completed before Loesser died in 1969, but it was revised and \"completed\" in 2004, with a new libretto by Culture Clash, vocal arrangements by Brian Cimmet and directed by Charles Randolph-Wright.\nSeñor Discretion Himself ran April 9 through May 23, 2004, at Arena Stage  in Washington, D.C. The production was directed by Charles Randolph-Wright, choreography by Doriana Sanchez, music direction and vocal arrangements by Brian Cimmet, orchestrations by Larry Hochman. The production starred Shawn Elliott, Elena Shaddow, Ivan Hernandez, Margo Reymundo, and John Bolton.",
+        "source_url": "https://en.wikipedia.org/wiki/Se%C3%B1or_Discretion_Himself",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-boys-from-boise": {
+      "slug": "the-boys-from-boise",
+      "title": "The Boys from Boise",
+      "qid": "Q96419487",
+      "enwiki": "The Boys from Boise (TV program)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Boys_from_Boise_(TV_program)",
+        "wikidata": "https://www.wikidata.org/wiki/Q96419487"
+      },
+      "summary": {
+        "text": "The Boys from Boise was a television special that aired on the DuMont Network on September 28, 1944, on its New York City affiliate WABD. The special, a musical written and composed by Sam Medoff, was the first such production ever commissioned for television.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Boys_from_Boise_(TV_program)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-canterville-ghost": {
+      "slug": "the-canterville-ghost",
+      "title": "The Canterville Ghost",
+      "qid": "Q7721224",
+      "enwiki": "The Canterville Ghost (stage musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Canterville_Ghost_(stage_musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7721224"
+      },
+      "summary": {
+        "text": "The Canterville Ghost is a stage musical by Peter Quilter and Charles Miller, adapted from the 1887 short story of the same name by Oscar Wilde.  The show premiered on the London Fringe in 1995 and was presented on a national tour of the UK in 1998 starring Ron Moody.\nIt was published by Samuel French Ltd.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Canterville_Ghost_(stage_musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-girl-from-nantucket": {
+      "slug": "the-girl-from-nantucket",
+      "title": "The Girl from Nantucket",
+      "qid": "Q7736494",
+      "enwiki": "The Girl from Nantucket",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Kay Twomey",
+          "qid": "Q6380303"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3875",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Girl_from_Nantucket",
+        "wikidata": "https://www.wikidata.org/wiki/Q7736494"
+      },
+      "summary": {
+        "text": "The Girl From Nantucket is a two-act comedy musical with lyrics by Kay Twomey and music by Jacques Belasco. The musical's book, by Paul Stamford, Harold Sherman and Hi Cooper, is based on a story by Fred Thompson and Bernie Giler.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Girl_from_Nantucket",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-hunting-of-the-snark": {
+      "slug": "the-hunting-of-the-snark",
+      "title": "The Hunting of the Snark",
+      "qid": "Q7741108",
+      "enwiki": "The Hunting of the Snark (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Hunting_of_the_Snark_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7741108"
+      },
+      "summary": {
+        "text": "The Hunting of the Snark is a musical based on Lewis Carroll's 1876 poem The Hunting of the Snark, written by composer Mike Batt.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Hunting_of_the_Snark_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-osmonds": {
+      "slug": "the-osmonds",
+      "title": "The Osmonds",
+      "qid": "Q104792062",
+      "enwiki": "The Osmonds (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Osmonds_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q104792062"
+      },
+      "summary": {
+        "text": "The Osmonds is a musical based on the life and music of The Osmonds. The musical's story is by Jay Osmond and features a book by Julian Bigg and Shaun Kerrison.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Osmonds_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

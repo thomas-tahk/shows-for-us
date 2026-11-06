@@ -1,0 +1,495 @@
+{
+  "live": true,
+  "shows": {
+    "a-christmas-memory": {
+      "slug": "a-christmas-memory",
+      "title": "A Christmas Memory",
+      "qid": "Q19864622",
+      "enwiki": "A Christmas Memory (musical)",
+      "composers": [
+        {
+          "name": "Larry Grossman",
+          "qid": "Q6490433",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11797"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Carol Hall",
+          "qid": "Q5044354",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11810"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Christmas_Memory_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q19864622"
+      },
+      "summary": {
+        "text": "A Christmas Memory is a musical based on the short story of the same name by Truman Capote, with a book by Duane Poole, lyrics by Carol Hall, and music by Larry Grossman. The show premiered in 2010 at the TheatreWorks Silicon Valley in Palo Alto. It premiered Off-Broadway in 2014 at the Irish Repertory Theatre.",
+        "source_url": "https://en.wikipedia.org/wiki/A_Christmas_Memory_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "a-very-potter-musical": {
+      "slug": "a-very-potter-musical",
+      "title": "A Very Potter Musical",
+      "qid": "Q2915147",
+      "enwiki": "A Very Potter Musical",
+      "composers": [
+        {
+          "name": "Darren Criss",
+          "qid": "Q295502",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/490612"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2009-04-09",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Very_Potter_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q2915147"
+      },
+      "summary": {
+        "text": "A Very Potter Musical (originally titled Harry Potter: The Musical and often shortened to AVPM) is a musical with music and lyrics by Darren Criss and A. J. Holmes and a book by Matt Lang, Nick Lang and Brian Holden. The story is a parody, based on several of the Harry Potter novels by J. K. Rowling (particularly Harry Potter and the Philosopher's Stone, Harry Potter and the Goblet of Fire and Harry Potter and the Deathly Hallows), as well as their film adaptations.\nA Very Potter Musical tells the story of Harry Potter's return to Hogwarts School of Witchcraft and Wizardry, his participation in the House Cup Championship, the trials and tribulations of adolescence, and the return of the dark wizard Lord Voldemort and the Golden Trio's attempts to destroy the Horcruxes.\nThe musical was performed on April 9–11, 2009 on the University of Michigan campus and is currently available to watch online on YouTube. It was produced by StarKid Productions and directed by Matt Lang. The musical starred Darren Criss as Harry Potter, Joey Richter as Ron Weasley, Bonnie Gruesen as Hermione Granger, Jaime Lyn Beatty as Ginny Weasley, Lauren Lopez as Draco Malfoy, Brian Rosenthal as Quirinus Quirrell and Joe Walker as Lord Voldemort. In late June 2009, the group put the entire musical up on YouTube, and it became a viral video that obtained millions of views.\nThe popularity of this musical allowed Team StarKid to create subsequent musicals, such as Me and My Dick (2009), A Very Potter Sequel (2010), Starship (2011), Holy Musical B@man! (2012), Twisted: The Untold Story of a Royal Vizier (2013), The Trail to Oregon! (2014), ANI: A Parody (2014), Firebringer (2016), The Guy Who Didn't Like Musicals (2018), Black Friday (2019) and Nerdy Prudes Must Die (2023). A third installment of the A Very Potter series, called A Very Potter Senior Year, premiered at LeakyCon on August 11, 2012. A fourth installment, titled A Very Potter Christmas (this time audio-only and not a musical), was released as a reward for backers of Team StarKid's Firebringer musical and was later released to the public during the A Very Potter Golden Birthday!!! stream.",
+        "source_url": "https://en.wikipedia.org/wiki/A_Very_Potter_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "co-ed-prison-sluts": {
+      "slug": "co-ed-prison-sluts",
+      "title": "Co-Ed Prison Sluts",
+      "qid": "Q5137410",
+      "enwiki": "Co-Ed Prison Sluts",
+      "composers": [
+        {
+          "name": "Faith Soloway",
+          "qid": "Q5431229"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": "Annoyance Theatre"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Co-Ed_Prison_Sluts",
+        "wikidata": "https://www.wikidata.org/wiki/Q5137410"
+      },
+      "summary": {
+        "text": "Co-Ed Prison Sluts is a musical revue that originally opened at the Annoyance Theatre in April 1989, closed in June 2000, and reopened in 2008, making it the longest-running musical in Chicago, Illinois, a title that still holds to this day.\nThe show was directed by Mick Napier with original music by Faith Soloway. The show is known for having been an important part of the Chicago fringe theater.",
+        "source_url": "https://en.wikipedia.org/wiki/Co-Ed_Prison_Sluts",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "dracula-entre-l-amour-et-la-mort": {
+      "slug": "dracula-entre-l-amour-et-la-mort",
+      "title": "Dracula – Entre l'amour et la mort",
+      "qid": "Q3038548",
+      "enwiki": "Dracula – Entre l'amour et la mort",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Bruno Pelletier",
+          "qid": "Q442711"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "http://www.zone3.ca/dracula",
+        "wikipedia": "https://en.wikipedia.org/wiki/Dracula_%E2%80%93_Entre_l'amour_et_la_mort",
+        "wikidata": "https://www.wikidata.org/wiki/Q3038548"
+      },
+      "summary": {
+        "text": "Dracula – Entre l'amour et la mort ('Dracula: Between Love and Death') is a Québécois musical created by Canadian songwriter, actor, and recording artist Bruno Pelletier. Lyrics are written by Roger Tabra; music is by Simon Leclerc; the concept is credited to Bruno Pelletier and Richard Ouzounian, adapted from Bram Stoker's novel of the same name.\nThe musical ran in Quebec from January 13, 2006, to December 16, 2006.\nThe album from the musical contains 14 tracks.\nMusic videos were made for both the track 'Nous sommes ce que nous sommes' and 'Étranges étrangers'.\nIn January 2008, Dracula's cast performed the musical at the Maison de la danse, in Lyon, France with Cassiopée replacing Rita Tabbakh, Julie Dassylva replacing Elyzabeth Diaga, and Matt Laurent replacing Daniel Boucher.\nThe DVD of the musical was released on March 4, 2008.",
+        "source_url": "https://en.wikipedia.org/wiki/Dracula_%E2%80%93_Entre_l'amour_et_la_mort",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "follow-the-girl": {
+      "slug": "follow-the-girl",
+      "title": "Follow the Girl",
+      "qid": "Q119682434",
+      "enwiki": "Follow the Girl (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Follow_the_Girl_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q119682434"
+      },
+      "summary": {
+        "text": "Follow the Girl is a musical in three acts and 4 scenes with music by Zoel Parenteau and a book and lyrics by Henry Blossom.",
+        "source_url": "https://en.wikipedia.org/wiki/Follow_the_Girl_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "gentleman-joe": {
+      "slug": "gentleman-joe",
+      "title": "Gentleman Joe",
+      "qid": "Q5533716",
+      "enwiki": "Gentleman Joe",
+      "composers": [
+        {
+          "name": "Walter Slaughter",
+          "qid": "Q7966157",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9041"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Basil Hood",
+          "qid": "Q4867189",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4438"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Basil Hood",
+          "qid": "Q4867189",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4438"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Gentleman_Joe",
+        "wikidata": "https://www.wikidata.org/wiki/Q5533716"
+      },
+      "summary": {
+        "text": "Gentleman Joe, The Hansom Cabbie is a farcical musical comedy with music by Walter Slaughter and a libretto by Basil Hood.\nThe original production of the musical opened at the Prince of Wales's Theatre on 2 March 1895 and ran for a very successful 391 performances despite a poor notice in The Saturday Review by Bernard Shaw that dismissed the score: \"The music, by Mr. Walter Slaughter, does not contain a single novel, or even passably fresh point, either in melody, harmony or orchestration.\" The show was written as a vehicle for the comedian Arthur Roberts.  A short burlesque entitled A Trilby Triflet was introduced as part of Gentleman Joe a week after Looking for Trilby opened at the Haymarket Theatre.  The Times newspaper praised Roberts for his imitation of Herbert Beerbohm Tree. The cast of Gentleman Joe also included Kitty Loftus as Emma and W. H. Denny as Pilkington Jones.  A second company also presented the show in the British provinces beginning in 1895.\nThere was soon a Newark, New Jersey production in late 1895 at Miner's Theatre and then the production transferred to the Fifth Avenue Theatre in New York City in January 1896. An American production of Gentleman Joe also played at the Bijou Theatre in early 1896 featuring Louis De Lange, James T. Powers, Clara Wieland, and Flora Irwin. Songs interpolated include \"He Wanted Something to Play With\" (sung by Powers) and \"Honey does you love yer man?\" sung by Flora Irwin in blackface.  A few notices of the show indicate that new songs were interpolated with frequency.\nGentleman Joe was Hood's first full-scale musical comedy, and its success prompted him to leave the military to concentrate on his writing.  Hood and Slaughter went on to write several more comedies together, including The French Maid in 1896 and another successful vehicle for Roberts, Dandy Dan, the Lifeguardsman in 1897. Hood wrote several successful shows with other librettists, and his English versions of Viennese operettas, such as The Merry Widow, were very popular until World War I.",
+        "source_url": "https://en.wikipedia.org/wiki/Gentleman_Joe",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "ghost-quartet": {
+      "slug": "ghost-quartet",
+      "title": "Ghost Quartet",
+      "qid": "Q18619247",
+      "enwiki": "Ghost Quartet",
+      "composers": [
+        {
+          "name": "Dave Malloy",
+          "qid": "Q16935103",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/494711"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Dave Malloy",
+          "qid": "Q16935103",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/494711"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Dave Malloy",
+          "qid": "Q16935103",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/494711"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Ghost_Quartet",
+        "wikidata": "https://www.wikidata.org/wiki/Q18619247"
+      },
+      "summary": {
+        "text": "Ghost Quartet is a musical song cycle written and composed by Dave Malloy. The show is described as \"a song cycle about love, death, and whiskey. A camera breaks and four friends drink in four interwoven narratives spanning seven centuries.\"",
+        "source_url": "https://en.wikipedia.org/wiki/Ghost_Quartet",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "illinoise": {
+      "slug": "illinoise",
+      "title": "Illinoise",
+      "qid": "Q125120283",
+      "enwiki": "Illinoise",
+      "composers": [
+        {
+          "name": "Sufjan Stevens",
+          "qid": "Q319502"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/539117",
+        "official_site": "https://illinoiseonstage.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Illinoise",
+        "wikidata": "https://www.wikidata.org/wiki/Q125120283"
+      },
+      "summary": {
+        "text": "Illinoise is a 2023 dance revue musical with music and lyrics by Sufjan Stevens and an original story by Justin Peck and Jackie Sibblies Drury. The musical was inspired by Stevens' 2005 album Illinois. The musical follows a young man who joins a group of friends telling stories around a campfire about their childhoods and growing up in Illinois. \nAfter a summer festival premiere, regional production and off-Broadway tryout, the show played on Broadway from April to August 2024 at the St. James Theatre; these productions have all been directed and choreographed by Peck. Reviews on Broadway were generally positive, and Illinoise was nominated for four Tony Awards in 2025, including Best Musical, winning one for Peck's choreography.",
+        "source_url": "https://en.wikipedia.org/wiki/Illinoise",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "katy-the-musical": {
+      "slug": "katy-the-musical",
+      "title": "Katy! the Musical",
+      "qid": "Q15777479",
+      "enwiki": "Katy! the Musical",
+      "composers": [
+        {
+          "name": "Ryan Cayabyab",
+          "qid": "Q7383955"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "José Javier Reyes",
+          "qid": "Q6292560"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Katy!_the_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q15777479"
+      },
+      "summary": {
+        "text": "Katy! the Musical is a Filipino–language biographical musical based on the life of Katy de la Cruz, considered the \"Queen of Philippine vaudeville and jazz\" with music by Ryan Cayabyab and story and libretto by Jose Javier Reyes.",
+        "source_url": "https://en.wikipedia.org/wiki/Katy!_the_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "my-little-pony-live-the-world-s-biggest-tea-party": {
+      "slug": "my-little-pony-live-the-world-s-biggest-tea-party",
+      "title": "My Little Pony Live: The World's Biggest Tea Party",
+      "qid": "Q6945914",
+      "enwiki": "My Little Pony Live: The World's Biggest Tea Party",
+      "composers": [
+        {
+          "name": "Mark Watters",
+          "qid": "Q1900506"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/My_Little_Pony_Live%3A_The_World's_Biggest_Tea_Party",
+        "wikidata": "https://www.wikidata.org/wiki/Q6945914"
+      },
+      "summary": {
+        "text": "My Little Pony Live: The World's Biggest Tea Party is a 2006 musical based on the My Little Pony franchise by Hasbro. The musical is produced by VEE Corporation under the direction of Richard Thompson and Vincent Egan. The musical first began in October 2006 and later concluded its performance in 2008.\nThe musical was released on DVD by Paramount Home Entertainment on September 16, 2008 and was filmed at the Kodak Theatre. All shows were performed to a pre-recorded soundtrack.\nThe stage show received mixed reviews from critics, audiences and fans alike, with the costume designs of the ponies being a major point of criticism.",
+        "source_url": "https://en.wikipedia.org/wiki/My_Little_Pony_Live%3A_The_World's_Biggest_Tea_Party",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "my-old-friends": {
+      "slug": "my-old-friends",
+      "title": "My Old Friends",
+      "qid": "Q125243436",
+      "enwiki": "My Old Friends (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1979-04-12",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6394",
+        "wikipedia": "https://en.wikipedia.org/wiki/My_Old_Friends_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q125243436"
+      },
+      "summary": {
+        "text": "My Old Friends is a 1979 stage musical created by Mel Mandel and Norman Sachs.",
+        "source_url": "https://en.wikipedia.org/wiki/My_Old_Friends_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "notre-dame-de-paris": {
+      "slug": "notre-dame-de-paris",
+      "title": "Notre-Dame de Paris",
+      "qid": "Q769086",
+      "enwiki": "Notre-Dame de Paris (musical)",
+      "composers": [
+        {
+          "name": "Alberto Visentin",
+          "qid": "Q107267794"
+        },
+        {
+          "name": "Riccardo Cocciante",
+          "qid": "Q471344"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Luc Plamondon",
+          "qid": "Q591655"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Luc Plamondon",
+          "qid": "Q591655"
+        },
+        {
+          "name": "Yuliy Kim",
+          "qid": "Q750943"
+        }
+      ],
+      "premiere": {
+        "date": "1998",
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Guinness World Records",
+          "qid": "Q41675"
+        }
+      ],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q769086"
+      },
+      "summary": {
+        "text": "Notre-Dame de Paris is a sung-through French musical which debuted on 16 September 1998 in Paris. It is based upon the novel Notre-Dame de Paris (known in English as The Hunchback of Notre-Dame) by the novelist Victor Hugo. The music was composed by Riccardo Cocciante (also known as Richard Cocciante) and the lyrics are by Luc Plamondon.\nSince its debut, it has been professionally played in Belgium, Bulgaria, Canada, China, France, Italy, Japan, Lebanon, Luxembourg, Poland, Russia, Singapore, South Korea, Spain, Switzerland, Taiwan, Turkey, United Kingdom and United States, and has been translated into eight languages (English, Spanish, Italian, Russian, Korean, Flemish, Polish, and Kazakh). A shorter version in English was performed in 2000 in Las Vegas, Nevada (United States) and a full-length London production, also in English, ran for seventeen months. Several songs from the show, such as \"Vivre\", \"Belle\" and \"Le temps des cathédrales\", have been released as singles with a huge success in French speaking countries.\nNotre-Dame de Paris, according to the Guinness Book of Records, had the most successful first year of any musical ever. The score has been recorded at least seven times to date (2007): the original French concept album, which featured Israeli singer Achinoam Nini (aka Noa) as Esmeralda was followed by a live, complete recording of the original Paris cast. A complete recording of the score in Italian was made, along with a single disc of highlights in Spanish from the Barcelona production. The original London cast album featured several of the original Paris stars, but only preserved a fraction of the score in English.",
+        "source_url": "https://en.wikipedia.org/wiki/Notre-Dame_de_Paris_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-greenwich-village-follies": {
+      "slug": "the-greenwich-village-follies",
+      "title": "The Greenwich Village Follies",
+      "qid": "Q65807503",
+      "enwiki": "The Greenwich Village Follies",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Greenwich_Village_Follies",
+        "wikidata": "https://www.wikidata.org/wiki/Q65807503"
+      },
+      "summary": {
+        "text": "The Greenwich Village Follies was a musical revue that played for eight seasons in New York City from 1919 to 1927. Launched by John Murray Anderson, and opening on July 15, 1919, at the newly constructed Greenwich Village Theatre near Christopher Street, the show's success has been credited in part to its timing: as a non-union production, it was unaffected by the then-current actors' strike.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Greenwich_Village_Follies",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-little-duchess": {
+      "slug": "the-little-duchess",
+      "title": "The Little Duchess",
+      "qid": "Q121494141",
+      "enwiki": "The Little Duchess (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5446",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Little_Duchess_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q121494141"
+      },
+      "summary": {
+        "text": "The Little Duchess is a musical in three acts with music by Reginald De Koven and both book and lyrics by Harry B. Smith. Produced by Florenz Ziegfeld Jr., the work was an adaptation of Alfred Hennequin's 1878 play Niniche. The musical was created as a starring vehicle for Ziegfeld's longtime life partner, the actress Anna Held, who portrayed Clare de Brion, a.k.a. \"The Little Duchess\".\nThe original production of The Little Duchess was directed by George F. Marion who also starred in the production as Count Cassibianca. The cast also included Sydney Barraclough as the romantic male lead, Captain Ralph Edgerton. The musical used sets designed by Ernest Albert, and costumes designed by Caroline Seidle, Will R. Barnes and Archie Gunn. Herman Perlet served as music director. After initial tryout performances in Baltimore and Washington D.C., the work premiered on Broadway at the Casino Theatre on October 14, 1901. Midway through the production's Broadway run, the show transferred to the Grand Opera House where it closed in April 1902 after 144 performances.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Little_Duchess_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-midnight-sons": {
+      "slug": "the-midnight-sons",
+      "title": "The Midnight Sons",
+      "qid": "Q27884023",
+      "enwiki": "The Midnight Sons",
+      "composers": [
+        {
+          "name": "Raymond Hubbell",
+          "qid": "Q6254345",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8261"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Glen MacDonough",
+          "qid": "Q3771952",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5921"
+        }
+      ],
+      "premiere": {
+        "date": "1909-05-22",
+        "venue": "Broadway Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6075",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Midnight_Sons",
+        "wikidata": "https://www.wikidata.org/wiki/Q27884023"
+      },
+      "summary": {
+        "text": "The Midnight Sons is a 1909 American musical comedy that was popular upon its release.\nThe music was by Raymond Hubbell with a book by Glen MacDonough.   Opening on May 22, 1909, it ran for 257 performances at the old Broadway Theatre in New York City.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Midnight_Sons",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

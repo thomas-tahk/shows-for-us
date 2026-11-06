@@ -1,0 +1,568 @@
+{
+  "live": true,
+  "shows": {
+    "baby": {
+      "slug": "baby",
+      "title": "Baby",
+      "qid": "Q4838185",
+      "enwiki": "Baby (musical)",
+      "composers": [
+        {
+          "name": "David Shire",
+          "qid": "Q719035",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12400"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Richard Maltby, Jr.",
+          "qid": "Q7327614",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11088"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Sybille Pearson",
+          "qid": "Q7659540",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8794"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1773",
+        "wikipedia": "https://en.wikipedia.org/wiki/Baby_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4838185"
+      },
+      "summary": {
+        "text": "Baby is a musical with a book by Sybille Pearson, based on a story developed with Susan Yankowitz, music by David Shire, and lyrics by Richard Maltby Jr.  It concerns the reactions of three couples each expecting a child.  The musical first ran on Broadway from 1983 to 1984.",
+        "source_url": "https://en.wikipedia.org/wiki/Baby_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "barbary-coast": {
+      "slug": "barbary-coast",
+      "title": "Barbary Coast",
+      "qid": "Q65084254",
+      "enwiki": "Barbary Coast (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Barbary_Coast_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q65084254"
+      },
+      "summary": {
+        "text": "Barbary Coast is a musical that opened at the Orpheum Theatre in San Francisco on February 28, 1978.",
+        "source_url": "https://en.wikipedia.org/wiki/Barbary_Coast_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "billy-bishop-goes-to-war": {
+      "slug": "billy-bishop-goes-to-war",
+      "title": "Billy Bishop Goes to War",
+      "qid": "Q4912213",
+      "enwiki": "Billy Bishop Goes to War",
+      "composers": [
+        {
+          "name": "John MacLachlan Gray",
+          "qid": "Q6246121",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/95562"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "John MacLachlan Gray",
+          "qid": "Q6246121",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/95562"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "John MacLachlan Gray",
+          "qid": "Q6246121",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/95562"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2030",
+        "wikipedia": "https://en.wikipedia.org/wiki/Billy_Bishop_Goes_to_War",
+        "wikidata": "https://www.wikidata.org/wiki/Q4912213"
+      },
+      "summary": {
+        "text": "Billy Bishop Goes to War is a Canadian musical, written by John MacLachlan Gray in collaboration with the actor Eric Peterson. One of the most widely produced plays in Canadian theatre, the two-man play dramatizes the life of Canadian World War I fighter pilot Billy Bishop. One member of the cast plays the part of Bishop in word and song, although he is also called upon to dramatize 17 other parts; the second cast member provides all the accompaniment on the piano and also sings.",
+        "source_url": "https://en.wikipedia.org/wiki/Billy_Bishop_Goes_to_War",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "caddie-woodlawn": {
+      "slug": "caddie-woodlawn",
+      "title": "Caddie Woodlawn",
+      "qid": "Q5016299",
+      "enwiki": "Caddie Woodlawn (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Caddie_Woodlawn_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5016299"
+      },
+      "summary": {
+        "text": "Caddie Woodlawn a Musical Drama is a musical based on the novel Caddie Woodlawn by Carol Ryrie Brink. The book, music and lyrics are by Tom Shelton and Susan C. Hunter.\nIn 1935 Carol Ryrie Brink wrote the Newbery Medal —winning novel,Caddie Woodlawn, based on the childhood of her grandmother, Caroline Woodhouse. She had collected the stories that her grandmother had often recounted of her adventures as a pioneer child settling the wilderness of western Wisconsin in the mid-1800s. It won the Newbery Medal in 1936.\nIn the musical, as in the original novel, Caddie, a high-spirited Wisconsin pioneer girl beloved by generations of readers, leads her willing siblings in a series of adventures, not always with the approval of her traditional Bostonian mother. Her father, however, encourages her antics, that she might thrive in the new, tougher ways of the west. In a  climax, Caddie single-handedly diffuses a potentially deadly clash between the terrified settlers and the local Dakota tribe through a daring and dangerous act. But her action only deepens her conflict with her mother. Ultimately, Caddie learns invaluable lessons about reconciling the head-strong child she's been, and the responsible adult she is soon to be. Through it all, the sacredness of tradition—passed from one generation to the next—is powerfully dramatized. As one wise friend tells Caddie: \"families -- they're our link to forever, lass.\" [1]",
+        "source_url": "https://en.wikipedia.org/wiki/Caddie_Woodlawn_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "captain-bloody": {
+      "slug": "captain-bloody",
+      "title": "Captain Bloody",
+      "qid": "Q24078328",
+      "enwiki": "Captain Bloody",
+      "composers": [
+        {
+          "name": "Grahame Bond",
+          "qid": "Q5593406"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Grahame Bond",
+          "qid": "Q5593406"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Grahame Bond",
+          "qid": "Q5593406"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Captain_Bloody",
+        "wikidata": "https://www.wikidata.org/wiki/Q24078328"
+      },
+      "summary": {
+        "text": "Captain Bloody is an Australian musical comedy by Grahame Bond and Jim Burnett.\nIt concerns a young gynaecologist, Eric Blood, whose closet fantasy is to be Errol Flynn.  He finds out about a club, Heroes Anonymous, where people can live out their fantasies without hurting anyone, run by a man who thinks he is Winston Churchill.\nCaptain Bloody opened at the Footbridge Theatre in Sydney on 1 May 1984 and ran to 23 June 1984, produced by the Australian Elizabethan Theatre Trust and Dunsinane Enterprises. It then played a short season at the Canberra Theatre from 3–7 July 1984.  The cast included Bond, Arky Michael, Elizabeth Lord, John O'Connell, Greg Stone and George Washingmachine.  A Melbourne season played at the Princess Theatre from March 1985.\nThe Sydney Morning Herald described the musical as \"a Boys Own adventure, slightly bent but harmless enough.  It features snappy dance routines, excellent music, and jokes about police corruption and Young Liberals are kept to a tasteful minimum.\" Bond reflected that Captain Bloody \"did well in Sydney but was savaged in Melbourne\".",
+        "source_url": "https://en.wikipedia.org/wiki/Captain_Bloody",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "cups-and-saucers": {
+      "slug": "cups-and-saucers",
+      "title": "Cups and Saucers",
+      "qid": "Q5194586",
+      "enwiki": "Cups and Saucers",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Cups_and_Saucers",
+        "wikidata": "https://www.wikidata.org/wiki/Q5194586"
+      },
+      "summary": {
+        "text": "Cups and Saucers is a one-act \"satirical musical sketch\" written and composed by George Grossmith. The piece pokes fun at the china collecting craze of the later Victorian era, which was part of the Aesthetic movement later satirised in Patience and The Colonel. The story of the sketch involves an engaged man and woman who each schemes to sell off the other's purportedly valuable china.\nCups and Saucers premiered in 1876 as part of an evening of piano sketches by Grossmith and was adopted by the D'Oyly Carte Opera Company in 1878 as a curtain raiser to H.M.S. Pinafore and, later, other operas.",
+        "source_url": "https://en.wikipedia.org/wiki/Cups_and_Saucers",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "georgy-girl": {
+      "slug": "georgy-girl",
+      "title": "Georgy Girl",
+      "qid": "Q65065810",
+      "enwiki": "Georgy Girl (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Georgy_Girl_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q65065810"
+      },
+      "summary": {
+        "text": "Georgy Girl – The Seekers Musical is a biographical jukebox musical about the Australian 1960s pop quartet The Seekers, written by Patrick Edgeworth. It incorporates songs associated with The Seekers, such as \"Morningtown Ride\", \"I'll Never Find Another You\", \"The Carnival is Over\", \"A World of Our Own\" and \"Georgy Girl\". It also includes several pop songs by other artists, including Tom Jones's \"It's Not Unusual\" and Bessie Smith's \"Mama's Got the Blues\".\nWriter Patrick Edgeworth had a personal connection to the material, in that his brother, Ron Edgeworth, was married to Judith Durham, who was The Seekers' lead singer from 1963 to 1968.\nGeorgy Girl began previews at Her Majesty's Theatre in Melbourne on 15 December 2015, and had its official premiere on 22 December. The production also played at the State Theatre in Sydney from April 2016.\nThe New Zealand Premiere was held at the Off Broadway Theatre in Papakura 7-21 June 2025.",
+        "source_url": "https://en.wikipedia.org/wiki/Georgy_Girl_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "in-the-heights": {
+      "slug": "in-the-heights",
+      "title": "In the Heights",
+      "qid": "Q12810054",
+      "enwiki": "In the Heights",
+      "composers": [
+        {
+          "name": "Lin-Manuel Miranda",
+          "qid": "Q1646482",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/459893"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Lin-Manuel Miranda",
+          "qid": "Q1646482",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/459893"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Quiara Alegría Hudes",
+          "qid": "Q7271638",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/459483"
+        }
+      ],
+      "premiere": {
+        "date": "2005-07-23",
+        "venue": "Eugene O'Neill Theater Center"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/465744",
+        "official_site": "http://www.intheheightsthemusical.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/In_the_Heights",
+        "wikidata": "https://www.wikidata.org/wiki/Q12810054"
+      },
+      "summary": {
+        "text": "In the Heights is a musical with concept, music, and lyrics by Lin-Manuel Miranda and a book by Quiara Alegría Hudes. The story is a romance as well as a celebration of community, culture, and aspirations. It is set over the course of three days, involving characters in the largely Hispanic and Latino neighborhood of Washington Heights in Upper Manhattan, New York City. The score blends hip-hop, salsa, merengue, and soul.\nAfter a 2005 tryout in Waterford, Connecticut and a 2007 Off-Broadway run, the show opened on Broadway in March 2008. It was nominated for thirteen Tony Awards and won four, including Best Musical. A film adaptation of the musical was released in June 2021.",
+        "source_url": "https://en.wikipedia.org/wiki/In_the_Heights",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "irma-la-douce": {
+      "slug": "irma-la-douce",
+      "title": "Irma La Douce",
+      "qid": "Q1672988",
+      "enwiki": "Irma La Douce (musical)",
+      "composers": [
+        {
+          "name": "Marguerite Monnot",
+          "qid": "Q293092",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12156"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Alexandre Breffort",
+          "qid": "Q2833504",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4020"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Alexandre Breffort",
+          "qid": "Q2833504",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4020"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4767",
+        "wikipedia": "https://en.wikipedia.org/wiki/Irma_La_Douce_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1672988"
+      },
+      "summary": {
+        "text": "Irma la douce ([iʁ.ma la dus], \"Irma the Sweet\") is a 1956 French musical with music by Marguerite Monnot and lyrics and book by Alexandre Breffort. The musical premiered in Paris in 1956, and was subsequently produced in the West End in 1958 and on Broadway, by David Merrick, in 1960. The English lyrics and book (1958) are by Julian More, David Heneker, and Monty Norman.",
+        "source_url": "https://en.wikipedia.org/wiki/Irma_La_Douce_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "jimmy": {
+      "slug": "jimmy",
+      "title": "Jimmy",
+      "qid": "Q6199425",
+      "enwiki": "Jimmy (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Melville Shavelson",
+          "qid": "Q117479",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7698"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4893",
+        "wikipedia": "https://en.wikipedia.org/wiki/Jimmy_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6199425"
+      },
+      "summary": {
+        "text": "Jimmy is a musical with a score by Bill Jacob, lyrics by Patti Jacob, dance arrangements by John Berkman, and a book by Melville Shavelson and Morrie Ryskind.  The musical describes the rise and fall of New York City Mayor Jimmy Walker, whose career was marred by corruption. It was a romanticized version of Walker's tenure as mayor, as presented in the 1957 film Beau James, starring Bob Hope. The film came from a biography of Walker, also titled Beau James, written by Gene Fowler.\nJimmy had a brief Broadway run from October 1969 to January 1970, starring Frank Gorshin as Walker, Anita Gillette as Betty Compton, and Julie Wilson. Jack L. Warner and Don Saxon produced the original Broadway production under the direction of Joseph Anthony. It closed after 8 previews and 84 performances.",
+        "source_url": "https://en.wikipedia.org/wiki/Jimmy_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "keep-off-the-grass": {
+      "slug": "keep-off-the-grass",
+      "title": "Keep Off the Grass",
+      "qid": "Q6383037",
+      "enwiki": "Keep Off the Grass",
+      "composers": [
+        {
+          "name": "Jimmy McHugh",
+          "qid": "Q1283031",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12130"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Al Dubin",
+          "qid": "Q180899",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12855"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/10668",
+        "wikipedia": "https://en.wikipedia.org/wiki/Keep_Off_the_Grass",
+        "wikidata": "https://www.wikidata.org/wiki/Q6383037"
+      },
+      "summary": {
+        "text": "Keep Off the Grass is a musical revue with sketches by Mort Lewis, Parke Levy, Alan Lipscott, S. Jay Kaufman, and Panama & Frank, lyrics by Al Dubin and Howard Dietz, and music by Jimmy McHugh.  The choreography was by George Balanchine.\nProduced by Lee Shubert and J. J. Shubert, the Broadway production, opened on May 23, 1940, at the Broadhurst Theatre and ran for a total of 44 performances. The cast included Jimmy Durante, Ray Bolger, Jane Froman, Virginia O'Brien, Emmett Kelly, Jackie Gleason and Ilka Chase.  O'Brien recorded four of the songs for Columbia Records in 1940 and they are included as bonus tracks on her CD \"Virginia O'Brien Salutes the Great MGM Musicals\".\nDespite the star power of Durante and Bolger, Keep Off the Grass did not receive good notices. The only positive review came from the Time critic who wrote: \"...and there's a bum, Emmett Kelly, who would leisurely proceed to eat a ham sandwich out of a paper poke while a bunch of other bums sang a park bench song; then he would lazily brush his teeth with the dry stub of a toothbrush, which provides the one moment of an otherwise uninspired show.\"",
+        "source_url": "https://en.wikipedia.org/wiki/Keep_Off_the_Grass",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "little-house-on-the-prairie": {
+      "slug": "little-house-on-the-prairie",
+      "title": "Little House on the Prairie",
+      "qid": "Q6650366",
+      "enwiki": "Little House on the Prairie (musical)",
+      "composers": [
+        {
+          "name": "Rachel Portman",
+          "qid": "Q261314",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/505840"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2008-07-26",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/505815",
+        "wikipedia": "https://en.wikipedia.org/wiki/Little_House_on_the_Prairie_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6650366"
+      },
+      "summary": {
+        "text": "Little House on the Prairie is a book musical adapted from the children's books, Little House on the Prairie, by Laura Ingalls Wilder.\nThe creative team includes Rachel Sheinkin (book), Rachel Portman (music), Donna di Novelli (lyrics), and Francesca Zambello (director). The musical premiered in regional theatre at the Guthrie, Minneapolis, Minnesota, followed by a tour in 2009-2010 of the United States,  starting at the Paper Mill Playhouse in Millburn, New Jersey.\nThe musical takes place in the 1880s, when the Ingalls family takes advantage of the government opening land for settlement in the Dakota Territory.",
+        "source_url": "https://en.wikipedia.org/wiki/Little_House_on_the_Prairie_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "penelope": {
+      "slug": "penelope",
+      "title": "Penelope",
+      "qid": "Q140761733",
+      "enwiki": "Penelope (monodrama)",
+      "composers": [
+        {
+          "name": "David Fetherolf",
+          "qid": "Q132560167"
+        },
+        {
+          "name": "André Previn",
+          "qid": "Q155712",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12263"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Tom Stoppard",
+          "qid": "Q294773",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8912"
+        }
+      ],
+      "premiere": {
+        "date": "2019-07-24",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Penelope_(monodrama)",
+        "wikidata": "https://www.wikidata.org/wiki/Q140761733"
+      },
+      "summary": {
+        "text": "Penelope is a 2019 musical monodrama or chamber opera for soprano and female narrator by conductor-composer André Previn, completed after his death by David Fetherolf, to a libretto by Tom Stoppard, and inspired by the character of Penelope from the Odyssey. Scored for piano and string quartet, it was first performed at the Tanglewood Music Festival in July 2019, by soprano Renée Fleming, narrator Uma Thurman, pianist Simone Dinnerstein, and the Emerson String Quartet.",
+        "source_url": "https://en.wikipedia.org/wiki/Penelope_(monodrama)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "sarava": {
+      "slug": "sarava",
+      "title": "Saravá",
+      "qid": "Q113961680",
+      "enwiki": "Saravá (musical)",
+      "composers": [
+        {
+          "name": "Mitch Leigh",
+          "qid": "Q1939469",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12043"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7750",
+        "wikipedia": "https://en.wikipedia.org/wiki/Sarav%C3%A1_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q113961680"
+      },
+      "summary": {
+        "text": "Saravá is a musical with a book and lyrics by N. Richard Nash and music by Mitch Leigh. The musical was based on the book Dona Flor and Her Two Husbands by Brazilian writer Jorge Amado, published in 1966.",
+        "source_url": "https://en.wikipedia.org/wiki/Sarav%C3%A1_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-body-beautiful": {
+      "slug": "the-body-beautiful",
+      "title": "The Body Beautiful",
+      "qid": "Q7718981",
+      "enwiki": "The Body Beautiful",
+      "composers": [
+        {
+          "name": "Jerry Bock",
+          "qid": "Q725042",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/69330"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Sheldon Harnick",
+          "qid": "Q2354471",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8645"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Joseph Stein",
+          "qid": "Q1361175",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6978"
+        },
+        {
+          "name": "Will Glickman",
+          "qid": "Q8002823",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9072"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2132",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Body_Beautiful",
+        "wikidata": "https://www.wikidata.org/wiki/Q7718981"
+      },
+      "summary": {
+        "text": "The Body Beautiful is a musical with a book by Joseph Stein and Will Glickman, lyrics by Sheldon Harnick, and music by Jerry Bock.\nThe first collaboration by Harnick and Bock, and the only one to have a contemporary setting, its plot focuses on a wealthy Dartmouth College graduate who aspires to be a prize-winning boxer and the girl he loves who disapproves of his ambitions.  His fight manager must cope with uninspired fighters, two ex-wives and a new girlfriend.\nAfter a tryout at the Erlanger Theatre in Philadelphia, Pennsylvania, the Broadway production, directed by George Schaefer and choreographed by Herbert Ross, opened on January 23, 1958, at The Broadway Theatre, where it ran for 60 performances. The cast included Mindy Carson, Steve Forrest, Jack Warden, Barbara McNair, William Hickey, Brock Peters, and Alan Weeks.\nJournalist Dorothy Kilgallen and her husband Richard Kollmar co-produced the short-run musical, along with Albert W. Selden. Kilgallen, very visible due to her appearances as a panelist on network TV's What's My Line?, and her fellow panelists made mention of The Body Beautiful on various episodes of the game show during this time period.\nIn fact, during one live telecast of the Sunday-night staple on CBS, a well-built man named Ed Becker, one of the cast members of the ill-fated musical, appeared as a contestant with his line identified as \"chorus boy.\"   Becker stumped Kilgallen and the rest of the panel much to the delight of host John Charles Daly.\nDespite the failure of The Body Beautiful, its score captured the attention of theatrical director George Abbott and producer Hal Prince. They hired the songwriting team of Harnick and Bock for their next project, the politically themed Fiorello!, which proved to be a hit.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Body_Beautiful",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "tommy-rot": {
+      "slug": "tommy-rot",
+      "title": "Tommy Rot",
+      "qid": "Q124853162",
+      "enwiki": "Tommy Rot",
+      "composers": [
+        {
+          "name": "Safford Waters",
+          "qid": "Q141571606",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8567"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Safford Waters",
+          "qid": "Q141571606",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8567"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8781",
+        "wikipedia": "https://en.wikipedia.org/wiki/Tommy_Rot",
+        "wikidata": "https://www.wikidata.org/wiki/Q124853162"
+      },
+      "summary": {
+        "text": "Tommy Rot is a musical in two acts with both music and lyrics by Safford Waters, and a book by Rupert Hughes, Joseph W. Herbert, Paul West, and Kirke La Shelle. It premiered on Broadway at Mrs. Osborn's Playhouse on October 21, 1902. It ran for 39 performances; closing on November 22, 1902. It used sets by Joseph A. Physioc and D. Frank Dodge.\nTommy Rot used an  embedded narrative device where there was a play within a play; in this case the story taking place during a production of William Shakespeare's As You Like It. It starred Blanche Ring as Innocence Demure, Grayce Scott as Phoebe Dare, Fletcher Norton as Eric Leicester, Evelyn Florence Nesbit as Miss Always There, Charles Butler as Thomas Rottingdean and Croker Sturgis, George Herbert as Marchese Reminesca and Hot Tomale Oscar, and Alfred Hickman in the roles of Hawtrey Treebohm and Lawrence Trenwithou. \nThe musical's most successful number was \"The Belle of Avenue A\" which was performed by Blanche Ring. This song was written by Waters years earlier and was published by Howley, Haviland & Dresser in 1895.",
+        "source_url": "https://en.wikipedia.org/wiki/Tommy_Rot",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

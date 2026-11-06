@@ -1,0 +1,562 @@
+{
+  "live": true,
+  "shows": {
+    "a-runaway-girl": {
+      "slug": "a-runaway-girl",
+      "title": "A Runaway Girl",
+      "qid": "Q4659310",
+      "enwiki": "A Runaway Girl",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/415922",
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Runaway_Girl",
+        "wikidata": "https://www.wikidata.org/wiki/Q4659310"
+      },
+      "summary": {
+        "text": "A Runaway Girl is an Edwardian musical comedy in two acts written in 1898 by Seymour Hicks and Harry Nicholls.  The composer was Ivan Caryll, with additional music by Lionel Monckton and lyrics by Aubrey Hopwood and Harry Greenbank.  It was produced by George Edwardes at the Gaiety Theatre, London, opening on 21 May 1898 and ran for a very successful 593 performances.  It starred Hicks's wife, Ellaline Terriss and the comic actor Edmund Payne.\nThe work had stiff competition in London in 1898, as other successful musical comedy openings included A Greek Slave and The Belle of New York. A Runway Girl ran at Daly's Theatre in New York City in 1898 and again in 1900. Marie Celeste portrayed Winifred Grey in the 1900 Broadway cast.\nThe story concerns an Englishwoman who joins a group of musicians in Italy who are really bandits. It is set in Corsica and Venice.",
+        "source_url": "https://en.wikipedia.org/wiki/A_Runaway_Girl",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "boy-meets-boy": {
+      "slug": "boy-meets-boy",
+      "title": "Boy Meets Boy",
+      "qid": "Q4952097",
+      "enwiki": "Boy Meets Boy (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Boy_Meets_Boy_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4952097"
+      },
+      "summary": {
+        "text": "Boy Meets Boy is a musical comedy with music and lyrics by Bill Solly, as well as a book by Bill Solly and Donald Ward. Edith O'Hara and Jim Payne originally produced the show in February 1975, at the13th Street Theatre, New York City. After a seven-month run, O'Hara and Payne moved the show off-Broadway to the Actor's Playhouse, opening on Sept. 17, 1975 in association with Christopher Larkin and Lee Barton.\nThe show is a fast-paced, light-hearted musical comedy, featuring a 1930s-style Astaire/Rogers romance between two men, and a same-sex marriage. The world of the play posits that in 1936, same-sex relationships are considered as normal as heterosexual ones. The play begins against the background of the abdication of Edward VIII and ends with the Duke of Windsor's (and the protagonists') June 1937 weddings. This is appropriate, as one of the major themes is \"Giving It Up for Love.\" The action occurs in the Savoy Hotel, a few elegant nightspots in London, a bar in Spain, and a black-sheep aunt's disreputable establishment in Paris.\nThe original New York cast included David Gallegly as Guy Rose, Joe Barrett as Casey O’Brien and Raymond Wood as Clarence Cutler. Edith O'Hare and Jim Payne took the show and most of the cast to the Las Palmas Theatre in Los Angeles, as well as to the Chi Chi Club in San Francisco, in 1976. The show had its London premiere in December 2012. There, the cast included Olivier Award winner Stephen Ashfield as Casey O'Brien with Johnjo Flynn as Guy Rose and Ben Kavanagh as Clarence Cutler.",
+        "source_url": "https://en.wikipedia.org/wiki/Boy_Meets_Boy_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "celebration": {
+      "slug": "celebration",
+      "title": "Celebration",
+      "qid": "Q5057623",
+      "enwiki": "Celebration (musical)",
+      "composers": [
+        {
+          "name": "Harvey Schmidt",
+          "qid": "Q1587936",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12362"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Tom Jones",
+          "qid": "Q2439753",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8906"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Tom Jones",
+          "qid": "Q2439753",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8906"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2463",
+        "wikipedia": "https://en.wikipedia.org/wiki/Celebration_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5057623"
+      },
+      "summary": {
+        "text": "Celebration is a musical with a book and lyrics by Tom Jones and music by Harvey Schmidt.  The musical fable, employing a nearly bare stage, explores the contrasts between youth and old age, innocence and jaded corruption, love and ambition, and poverty and wealth. \nIt was presented on Broadway in 1969 and was not a financial success. Although the critics found the show interesting, it did not develop a broad following among audiences. The show has been revived occasionally.",
+        "source_url": "https://en.wikipedia.org/wiki/Celebration_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "dave": {
+      "slug": "dave",
+      "title": "Dave",
+      "qid": "Q55609068",
+      "enwiki": "Dave (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Dave_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q55609068"
+      },
+      "summary": {
+        "text": "Dave is a musical with music by Tom Kitt, lyrics by Nell Benjamin, and a book by Benjamin and Thomas Meehan. Based on the 1993 American political comedy film of the same name written by Gary Ross, the musical made its world premiere try-out at Arena Stage in Washington, D.C. in July 2018. The musical centers on Dave Kovic, a high school teacher (and presidential look-alike) who is hired by the Secret Service when the President falls ill.",
+        "source_url": "https://en.wikipedia.org/wiki/Dave_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "dolly-parton-s-smoky-mountain-christmas-carol": {
+      "slug": "dolly-parton-s-smoky-mountain-christmas-carol",
+      "title": "Dolly Parton's Smoky Mountain Christmas Carol",
+      "qid": "Q116909467",
+      "enwiki": "Dolly Parton's Smoky Mountain Christmas Carol",
+      "composers": [
+        {
+          "name": "Dolly Parton",
+          "qid": "Q180453",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/480323"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Dolly Parton",
+          "qid": "Q180453",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/480323"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Dolly_Parton's_Smoky_Mountain_Christmas_Carol",
+        "wikidata": "https://www.wikidata.org/wiki/Q116909467"
+      },
+      "summary": {
+        "text": "Dolly Parton's Smoky Mountain Christmas Carol is a stage musical with music and lyrics by Dolly Parton with a book by David H. Bell (adapted by Bell, Paul T. Couch and Curt Wollan). It is an adaptation of Charles Dickens' 1843 novella A Christmas Carol, relocating the story from Victorian London to the 1930s in the Great Smoky Mountains of Tennessee.",
+        "source_url": "https://en.wikipedia.org/wiki/Dolly_Parton's_Smoky_Mountain_Christmas_Carol",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "dreamgirls": {
+      "slug": "dreamgirls",
+      "title": "Dreamgirls",
+      "qid": "Q1140966",
+      "enwiki": "Dreamgirls",
+      "composers": [
+        {
+          "name": "Henry Krieger",
+          "qid": "Q5724487",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12011"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Tom Eyen",
+          "qid": "Q3530721",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8902"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Tom Eyen",
+          "qid": "Q3530721",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8902"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Grammy Award for Best Musical Theater Album",
+          "qid": "Q3113385"
+        }
+      ],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3192",
+        "wikipedia": "https://en.wikipedia.org/wiki/Dreamgirls",
+        "wikidata": "https://www.wikidata.org/wiki/Q1140966"
+      },
+      "summary": {
+        "text": "Dreamgirls is a Broadway musical, with music by Henry Krieger and lyrics and book by Tom Eyen. It is based on the show business aspirations and successes of R&B acts such as The Shirelles, James Brown, Jackie Wilson, and others, and particularly The Supremes, as the musical follows the story of a young Black female singing trio from Chicago, Illinois  called \"The Dreams\", who become music superstars.\nStaged with a mostly African-American cast and originally starring Jennifer Holliday, Sheryl Lee Ralph, Loretta Devine, Ben Harney, Cleavant Derricks, Vondie Curtis-Hall, and Obba Babatundé, the musical opened on December 20, 1981, at the Imperial Theatre on Broadway. The musical  was then nominated for 13 Tony Awards, including the Tony Award for Best Musical, and won six. It was later adapted into a motion picture from DreamWorks and Paramount Pictures in 2006, starring Jamie Foxx, Beyoncé, Eddie Murphy, Jennifer Hudson, Danny Glover, Anika Noni Rose, and Keith Robinson.",
+        "source_url": "https://en.wikipedia.org/wiki/Dreamgirls",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "how-to-dance-in-ohio": {
+      "slug": "how-to-dance-in-ohio",
+      "title": "How to Dance in Ohio",
+      "qid": "Q123018617",
+      "enwiki": "How to Dance in Ohio (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": "Syracuse Stage"
+      },
+      "awards": [],
+      "links": {
+        "official_site": "https://howtodanceinohiomusical.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/How_to_Dance_in_Ohio_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q123018617"
+      },
+      "summary": {
+        "text": "How to Dance in Ohio is a musical with music by Jacob Yandura, lyrics and book by Rebekah Greer Melocik. It was adapted from the 2015 documentary of the same name directed by Alexandra Shiva.\nThe musical focuses on a group of autistic young adults preparing to attend a Spring Formal dance organized by their counselor, Dr. Amigo. While facing different challenges, including ableism, they experience the joys of supporting one another.\nDirected by Sammi Cannold, with choreography by Mayte Natalio, it made its world premiere at Syracuse Stage in September 2022 and later the show transferred to Broadway in November 2023.",
+        "source_url": "https://en.wikipedia.org/wiki/How_to_Dance_in_Ohio_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "maytime": {
+      "slug": "maytime",
+      "title": "Maytime",
+      "qid": "Q6798036",
+      "enwiki": "Maytime (musical)",
+      "composers": [
+        {
+          "name": "Sigmund Romberg",
+          "qid": "Q742945",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8686"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Rida Johnson Young",
+          "qid": "Q7332345",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8334"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Rida Johnson Young",
+          "qid": "Q7332345",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8334"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5975",
+        "wikipedia": "https://en.wikipedia.org/wiki/Maytime_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6798036"
+      },
+      "summary": {
+        "text": "Maytime is a musical with music by Sigmund Romberg and lyrics and book by Rida Johnson Young, and with additional lyrics by Cyrus Wood. The story is based on the 1913 German operetta Wie einst im Mai (Like Once in May), composed by Walter Kollo, with words by Rudolf Bernauer and Rudolph Schanzer. The story, set in New York, is told in episodes covering a long period, from 1840 to the early 20th century. Young Ottillie, the daughter of a prominent family is in love with Dick, a poor musician, but they are kept apart by family and circumstance. Years later, their descendants marry.  Maytime introduced songs such as \"The Road to Paradise\", \"Will You Remember?\" and \"Jump Jim Crow\".\nThe musical ran on Broadway from 1917 to 1918. It was the second longest-running book musical in the 1910s, and it established Romberg as one of the leading creators of operettas.",
+        "source_url": "https://en.wikipedia.org/wiki/Maytime_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "never-gonna-dance": {
+      "slug": "never-gonna-dance",
+      "title": "Never Gonna Dance",
+      "qid": "Q7004049",
+      "enwiki": "Never Gonna Dance",
+      "composers": [
+        {
+          "name": "Jerome Kern",
+          "qid": "Q313270",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6711"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Oscar Hammerstein II",
+          "qid": "Q319693",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7965"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Jeffrey Hatcher",
+          "qid": "Q6176044",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/109903"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/11201",
+        "wikipedia": "https://en.wikipedia.org/wiki/Never_Gonna_Dance",
+        "wikidata": "https://www.wikidata.org/wiki/Q7004049"
+      },
+      "summary": {
+        "text": "Never Gonna Dance is a Broadway musical featuring the music of Jerome Kern. The musical was based on the 1936 Fred Astaire/Ginger Rogers film Swing Time. Lyricists include Oscar Hammerstein, Ira Gershwin, P. G. Wodehouse, Bernard Dougall, Johnny Mercer, Jimmy McHugh, Otto Harbach, and Dorothy Fields.\nIt opened on Broadway in 2003.",
+        "source_url": "https://en.wikipedia.org/wiki/Never_Gonna_Dance",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "pieces-of-eight-1985-musical": {
+      "slug": "pieces-of-eight-1985-musical",
+      "title": "Pieces of Eight",
+      "qid": "Q7191401",
+      "enwiki": "Pieces of Eight (1985 musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Pieces_of_Eight_(1985_musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7191401"
+      },
+      "summary": {
+        "text": "Pieces of Eight is a musical with a book by Michael Stewart and Mark Bramble, lyrics by Susan Birkenhead, and music by Jule Styne. It is based on the classic 1883 novel Treasure Island by Robert Louis Stevenson.  \nThe central characters are Jim Hawkins, a young man in possession of a treasure map, and the mutinous pirate Long John Silver, who serves as a mentor and father-figure to the boy.\nThe world premiere opened on November 27, 1985 at the Citadel Theatre in Edmonton. Joe Layton was the director and choreographer, and the cast included George Hearn (as Silver), Jonathan Ross, Graeme Campbell, George Lee Andrews, Robert Fitch, and Brian McKay. \nAccording to theatre critic/historian Ken Mandelbaum, Pieces of Eight never got beyond its Edmonton production.",
+        "source_url": "https://en.wikipedia.org/wiki/Pieces_of_Eight_(1985_musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "prettybelle": {
+      "slug": "prettybelle",
+      "title": "Prettybelle",
+      "qid": "Q7242308",
+      "enwiki": "Prettybelle",
+      "composers": [
+        {
+          "name": "Jule Styne",
+          "qid": "Q587741",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12466"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Bob Merrill",
+          "qid": "Q3641319",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12139"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Bob Merrill",
+          "qid": "Q3641319",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12139"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Prettybelle",
+        "wikidata": "https://www.wikidata.org/wiki/Q7242308"
+      },
+      "summary": {
+        "text": "Prettybelle is a musical with a book and lyrics by Bob Merrill and music by Jule Styne. It was adapted from Jean Arnold's darkly comic novel Prettybelle: A Lively Tale of Rape and Resurrection (Dial Press, 1970). It starred Angela Lansbury, but never was produced on Broadway and closed in Boston in 1971.",
+        "source_url": "https://en.wikipedia.org/wiki/Prettybelle",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-beauty-of-bath": {
+      "slug": "the-beauty-of-bath",
+      "title": "The Beauty of Bath",
+      "qid": "Q7716200",
+      "enwiki": "The Beauty of Bath",
+      "composers": [
+        {
+          "name": "Herbert Haines",
+          "qid": "Q5734313",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11807"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Charles H. Taylor",
+          "qid": "Q5078653",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13360"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Seymour Hicks",
+          "qid": "Q3958616",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8634"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Beauty_of_Bath",
+        "wikidata": "https://www.wikidata.org/wiki/Q7716200"
+      },
+      "summary": {
+        "text": "The Beauty of Bath is a musical comedy with a book by Seymour Hicks and Cosmo Hamilton, lyrics by C. H. Taylor and music by Herbert Haines; additional songs were provided by Jerome Kern (lyrics and music), F. Clifford Harris (lyrics) and P. G. Wodehouse (lyrics).  Based loosely on the play David Garrick, the story concerns a young woman from a noble family, who falls in love with an actor.  She then meets a sailor who appears identical to the actor and mistakes him for the latter.  Her father objects to a marriage with the actor, but when it turns out that she really loves the sailor, all objections fall away.\nThe piece was produced by Charles Frohman, opened at the Aldwych Theatre on 19 March 1906, moved on 26 December 1906 to the newly built Hicks Theatre and ran for a total of 287 performances.  It starred Hicks and his wife, Ellaline Terriss.  Zena Dare later joined the cast, replacing Terriss.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Beauty_of_Bath",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-fig-leaves-are-falling": {
+      "slug": "the-fig-leaves-are-falling",
+      "title": "The Fig Leaves Are Falling",
+      "qid": "Q7733789",
+      "enwiki": "The Fig Leaves Are Falling",
+      "composers": [
+        {
+          "name": "Albert Hague",
+          "qid": "Q2605041",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11804"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Allan Sherman",
+          "qid": "Q708963",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4083"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Allan Sherman",
+          "qid": "Q708963",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4083"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3525",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Fig_Leaves_Are_Falling",
+        "wikidata": "https://www.wikidata.org/wiki/Q7733789"
+      },
+      "summary": {
+        "text": "The Fig Leaves Are Falling is a musical with a book and lyrics by Allan Sherman and music by Albert Hague. It was inspired by Sherman's 1966 divorce following 21 years of marriage. The original Broadway production featured Barry Nelson, Dorothy Loudon and Jenny O'Hara; David Cassidy made his professional acting debut in a small role.\nThe production was a flop, with only four performances and negative critical reviews.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Fig_Leaves_Are_Falling",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-girl-with-the-golden-hair": {
+      "slug": "the-girl-with-the-golden-hair",
+      "title": "The Girl with the Golden Hair",
+      "qid": "Q427689",
+      "enwiki": "The Girl with the Golden Hair",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Girl_with_the_Golden_Hair",
+        "wikidata": "https://www.wikidata.org/wiki/Q427689"
+      },
+      "summary": {
+        "text": "ABBA: The Album (also known as simply The Album) is the fifth studio album by the Swedish pop group ABBA. It was released in Scandinavia on 12 December 1977 through Polar Music, but due to the massive amount of pre-orders, the UK pressing plants were not able to press sufficient copies before Christmas 1977 and so it was not released in the UK until January 1978. The album was released in conjunction with ABBA: The Movie, with the same cover, technically functioning as the soundtrack, with several of the songs featured in the film. Altogether, the album contains nine songs.\nThe album contained two UK number-one singles, \"Take a Chance on Me\" and \"The Name of the Game\", as well as European hits \"Eagle\" and \"Thank You for the Music\".",
+        "source_url": "https://en.wikipedia.org/wiki/The_Girl_with_the_Golden_Hair",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "tony-the-blair-musical": {
+      "slug": "tony-the-blair-musical",
+      "title": "TONY! The Blair Musical",
+      "qid": "Q7671009",
+      "enwiki": "TONY! The Blair Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Chris Bush",
+          "qid": "Q5106050"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/TONY!_The_Blair_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q7671009"
+      },
+      "summary": {
+        "text": "TONY! The Blair Musical is a satirical comedy musical written in 2007 by Chris Bush, director of the White Rose Theatre, with music composed by Ian McCluskey. TONY! follows the premiership of former British prime minister Tony Blair from his landslide election in 1997 to his resignation ten years later.\nIt is told to the audience by Blair himself, in the form of an interplay of spotlit monologues and musical flashbacks to various moments in the former prime minister's career. The musical focuses primarily on Blair's relationships with the key characters in his life, rather than the politics, including his Chancellor and successor as Prime Minister Gordon Brown and wife Cherie Booth. It is a musically eclectic production, featuring rock pieces, power ballads and a barbershop quartet of former Tory leaders. Performed at York's Theatre Royal, the Edinburgh Fringe and the Pleasance Theatre, Islington, TONY! has been described by the BBC as \"sharp, engaging and original,\" and as \"a shining example of honest comedy writing.\" It has also been criticized for crude caricatures and cheap one-liners. Nonetheless, the play won the NSDF & Pleasance Edinburgh Competition 2007. As part of the prize the production transferred to the Pleasance Theatre, Islington, for a limited run in late September 2007.\nThe production returned to the Edinburgh Fringe in August 2008, alongside its sequel Tony of Arabia. Previews were performed at the Oxford North Wall and the Theatre Royal, Wakefield, in July 2008.",
+        "source_url": "https://en.wikipedia.org/wiki/TONY!_The_Blair_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "up-from-paradise": {
+      "slug": "up-from-paradise",
+      "title": "Up from Paradise",
+      "qid": "Q7898049",
+      "enwiki": "Up from Paradise",
+      "composers": [
+        {
+          "name": "Stanley Silverman",
+          "qid": "Q21598344",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12409"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Arthur Miller",
+          "qid": "Q80596",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4316"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Arthur Miller",
+          "qid": "Q80596",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4316"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Up_from_Paradise",
+        "wikidata": "https://www.wikidata.org/wiki/Q7898049"
+      },
+      "summary": {
+        "text": "Up from Paradise is a musical with a book and lyrics by Arthur Miller and music by Stanley Silverman.\nIn 1972, Miller's comedy The Creation of the World and Other Business closed after only twenty performances. Undaunted by its failure, he revamped it as a musical, a retelling of God's battle with Lucifer for control of Adam and Eve as chronicled in the Book of Genesis.\nUp from Paradise was staged at Miller's alma mater, the University of Michigan in Ann Arbor, in 1974. It was presented in concert form in the Composers' Showcase at the Whitney Museum in Manhattan in 1981. A fully staged off-Broadway production, directed by Ran Avni, opened on October 25, 1983 at the Jewish Repertory Theater. The cast included Len Cariou as God, Austin Pendleton as Adam, Alice Playten as Eve, Walter Bobbie as Lucifer, and Lonny Price as Abel.\nThe London premiere was staged at the New Wimbledon Theatre by PK Productions in July 2014.  Directed by Patrick Kennedy, with music direction by Jake Dorfman, it opened on July 22 and the cast included Niccolo Curradi as God, Alexander Elwood as Adam, Susanna Squires as Eve, Alex Wingfield as Lucifer, Perry Brookes Jr as Abel and Anthony Pinnick as Cain.",
+        "source_url": "https://en.wikipedia.org/wiki/Up_from_Paradise",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

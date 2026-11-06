@@ -1,0 +1,727 @@
+{
+  "live": true,
+  "shows": {
+    "a-connecticut-yankee": {
+      "slug": "a-connecticut-yankee",
+      "title": "A Connecticut Yankee",
+      "qid": "Q4656075",
+      "enwiki": "A Connecticut Yankee (musical)",
+      "composers": [
+        {
+          "name": "Richard Rodgers",
+          "qid": "Q269094",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12311"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Lorenz Hart",
+          "qid": "Q725828",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11244"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Herbert Fields",
+          "qid": "Q1608254",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11265"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1067",
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Connecticut_Yankee_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4656075"
+      },
+      "summary": {
+        "text": "A Connecticut Yankee is a musical based on the 1889 novel A Connecticut Yankee in King Arthur's Court by American writer Mark Twain. Like most adaptations of the Twain novel, it focuses on the lighter aspects of the story. The music was written by Richard Rodgers, the lyrics by Lorenz Hart, and the book by Herbert Fields. It was produced by Lew Fields and Lyle D. Andrews. It enjoyed an original run on Broadway in 1927 of 421 performances and a number of revivals.\nThe 1931 film of the same name starring Will Rogers was not adapted from this musical, nor was the 1949 musical film A Connecticut Yankee in King Arthur's Court, which starred Bing Crosby. The Rodgers and Hart Connecticut Yankee, like many of the team's earlier musicals, has never been filmed for the big screen though a scene was staged for the 1948 biographical movie of the lives of Richard Rodgers and Lorenz Hart, Words and Music.",
+        "source_url": "https://en.wikipedia.org/wiki/A_Connecticut_Yankee_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "american-psycho": {
+      "slug": "american-psycho",
+      "title": "American Psycho",
+      "qid": "Q16961329",
+      "enwiki": "American Psycho (musical)",
+      "composers": [
+        {
+          "name": "Duncan Sheik",
+          "qid": "Q1265451",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/448812"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Duncan Sheik",
+          "qid": "Q1265451",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/448812"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Roberto Aguirre-Sacasa",
+          "qid": "Q7351575",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/490407"
+        }
+      ],
+      "premiere": {
+        "date": "2013-12-03",
+        "venue": "Almeida Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/503803",
+        "playbill": "https://playbill.com/production/american-psycho-gerald-schoenfeld-theatre-vault-0000014139",
+        "official_site": "https://almeida.co.uk/whats-on/american-pyscho/3-dec-2013-1-feb-2014",
+        "wikipedia": "https://en.wikipedia.org/wiki/American_Psycho_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q16961329"
+      },
+      "summary": {
+        "text": "American Psycho is a musical with music and lyrics by Duncan Sheik and a book by Roberto Aguirre-Sacasa. It is based on the controversial 1991 novel American Psycho by Bret Easton Ellis, which also inspired a 2000 film of the same name, that starred Christian Bale. Set in Manhattan during the Wall Street boom of the late 1980s, American Psycho is about the daily life of Patrick Bateman, a young and wealthy investment banker who is also secretly a serial killer.\nThe musical received its world premiere at London's Almeida Theatre in 2013, directed by Rupert Goold and starring Doctor Who actor Matt Smith. A Broadway production began preview performances on March 24, 2016, at the Gerald Schoenfeld Theatre, directed by Goold and starring Benjamin Walker as Patrick Bateman.",
+        "source_url": "https://en.wikipedia.org/wiki/American_Psycho_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "best-foot-forward": {
+      "slug": "best-foot-forward",
+      "title": "Best Foot Forward",
+      "qid": "Q830285",
+      "enwiki": "Best Foot Forward (musical)",
+      "composers": [
+        {
+          "name": "Hugh Martin",
+          "qid": "Q5931668",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13678"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Hugh Martin",
+          "qid": "Q5931668",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13678"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "John Cecil Holm",
+          "qid": "Q6225604",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6788"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1953",
+        "wikipedia": "https://en.wikipedia.org/wiki/Best_Foot_Forward_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q830285"
+      },
+      "summary": {
+        "text": "Best Foot Forward is a 1941 musical with songs by Hugh Martin and Ralph Blane, and a book by John Cecil Holm. Produced by George Abbott,  the production opened on Broadway on October 1, 1941, at the Ethel Barrymore Theatre after an out-of-town tryout, where it ran for 326 performances. It was directed by Abbott, with choreography by Gene Kelly and starred Rosemary Lane. The show was Nancy Walker's Broadway debut and also launched June Allyson into stardom. Sets and lighting were by Jo Mielziner, and costumes were by Miles White.\nThe musical's success led to a 1943 film adaptation starring Lucille Ball, June Allyson and Nancy Walker, and a 1954 television adaptation. A 1953 tour featured Debbie Reynolds and Joan Bennett.\nThe 1963 Off-Broadway revival at Stage 73 ran for 224 performances. It was directed and choreographed by Danny Daniels and featured newcomer Liza Minnelli, who won a Theatre World Award, and Christopher Walken. Veronica Lake was a replacement for Paula Wayne as Gale. A recording of this revival is available on CD.",
+        "source_url": "https://en.wikipedia.org/wiki/Best_Foot_Forward_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "cinderella-lloyd-webber-musical": {
+      "slug": "cinderella-lloyd-webber-musical",
+      "title": "Cinderella",
+      "qid": "Q85845659",
+      "enwiki": "Cinderella (Lloyd Webber musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "https://andrewlloydwebberscinderella.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/Cinderella_(Lloyd_Webber_musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q85845659"
+      },
+      "summary": {
+        "text": "Andrew Lloyd Webber's Cinderella, produced on Broadway as Bad Cinderella, is a musical with music by Andrew Lloyd Webber, lyrics by David Zippel, and a book by Emerald Fennell. Loosely adapted from the classic Cinderella story, the musical recasts gender relationships, explores the theme of beauty shaming, and Cinderella changes her appearance to secure love, but discovers it is better to be true to oneself. Plot changes include Cinderella being made a scapegoat by the town; the queen colluding with the stepmother; the prince inviting Cinderella to the ball; the prince's engagement to a stepsister (he never becomes king, as his long-lost older brother reappears); and the prince elopes with Cinderella, and they leave the town. \nAfter beginning West End previews in June 2021, London performances were suspended due to COVID-19 outbreaks among the cast. The show ultimately opened in August 2021 to mostly positive reviews, and ran until June 2022. After some changes to the show, including changes to the book by Alexis Scheer, a Broadway transfer retitled Bad Cinderella opened in March 2023, following a month of preview performances. Reviews were largely negative, and after failing to receive any Tony Award nominations, the production closed in June 2023. \nA concept album for the show was released in July 2021 and was nominated for a Grammy Award for Best Musical Theater Album.",
+        "source_url": "https://en.wikipedia.org/wiki/Cinderella_(Lloyd_Webber_musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "cyrano-the-musical": {
+      "slug": "cyrano-the-musical",
+      "title": "Cyrano: The Musical",
+      "qid": "Q2375318",
+      "enwiki": "Cyrano: The Musical",
+      "composers": [
+        {
+          "name": "Ad van Dijk",
+          "qid": "Q2222247",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12628"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2871",
+        "wikipedia": "https://en.wikipedia.org/wiki/Cyrano%3A_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q2375318"
+      },
+      "summary": {
+        "text": "Cyrano: The Musical is a musical with music by Ad van Dijk, an original book and lyrics (in Dutch) by Koen van Dijk. For the Broadway production, English lyrics were provided by Peter Reeves, with additional lyrics by Sheldon Harnick.\nProduced by Joop van den Ende, the original Dutch production Cyrano de Musical premiered in 1992 at the Stadsschouwburg (City Theatre) in Amsterdam. It is based on Edmond Rostand's classic 1897 play of the same name focusing on a love triangle involving the large-nosed poetic Cyrano de Bergerac, his beautiful cousin Roxane, and his classically handsome but inarticulate friend Christian de Neuvillette who, unaware of Cyrano's unrequited passion for Roxane, imposes upon him to provide the romantic words he can use to woo her successfully in mid-17th century Paris.\nAfter 38 previews, the Broadway production, directed by Eddy Habbema, opened on November 21, 1993, at the Neil Simon Theatre, where it ran for 137 performances. The cast included Bill van Dijk as Cyrano, Anne Runolfsson as Roxane, and Paul Anthony Stewart as Christian, with James Barbour and Jeff Gardner in supporting roles. Timothy Nolen played Comte de Guiche and later took over the role of Cyrano. Robert Guillaume also took over the title role during the run.\nThe production garnered Tony Award nominations for Best Musical, Best Book of a Musical, Best Original Score, and Best Costume Design.\nIn addition to the Netherlands and the United States, the musical has been produced in Belgium, Germany, and Japan. Despite the show's critical success, no Broadway recording was ever produced.",
+        "source_url": "https://en.wikipedia.org/wiki/Cyrano%3A_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "dear-anyone": {
+      "slug": "dear-anyone",
+      "title": "Dear Anyone",
+      "qid": "Q106537252",
+      "enwiki": "Dear Anyone",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Dear_Anyone",
+        "wikidata": "https://www.wikidata.org/wiki/Q106537252"
+      },
+      "summary": {
+        "text": "Dear Anyone is a musical with book by Jack Rosenthal, lyrics by Don Black and music by Geoff Stephens. It concerns an agony aunt who can solve everyone's problems but her own.\nThe original production featuring Jane Lapotaire, Peter Blake and Stubby Kaye premiered at Birmingham Repertory Theatre on 12 September 1983. It opened in London's West End at the Cambridge Theatre on 8 November 1983.",
+        "source_url": "https://en.wikipedia.org/wiki/Dear_Anyone",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "disaster": {
+      "slug": "disaster",
+      "title": "Disaster!",
+      "qid": "Q16974501",
+      "enwiki": "Disaster! (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/503578",
+        "official_site": "http://www.disastermusical.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/Disaster!_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q16974501"
+      },
+      "summary": {
+        "text": "Disaster! is a jukebox musical comedy created by Seth Rudetsky and written by Rudetsky and Jack Plotnick. Earthquakes, tidal waves, piranhas, infernos and the songs of the '70s take center stage in this comedic homage to 1970s disaster films.\nThe show debuted at The Box on March 23, 2011. A second production at Triad Theatre, with choreography by Denis Jones and music supervision by Steve Marzullo, opened on January 22, 2012, and ran through March 25. A third production ran from November 2013 through April 2014 at New York's St. Luke's Theatre. The show opened on Broadway at the Nederlander Theatre on March 8, 2016, with previews beginning on February 9, 2016. The show starred Rudetsky, along with Roger Bart, Kerry Butler, Kevin Chamberlin, Adam Pascal, Faith Prince, Rachel York, Max Crumm and Jennifer Simard. Baylee Littrell and Lacretta Nicole made their Broadway debuts. The show closed on May 8, 2016, after playing 32 previews and 72 regular performances.\nThe plot follows a group of New Yorkers that attend the opening of a floating casino and discothèque that quickly succumbs to multiple disasters. These calamities correlate with plots of various disaster films of the 1970s, such as earthquakes or killer bee incidents. Additionally, this play keeps with a 1970s theme by using popular songs of the decade as musical numbers.",
+        "source_url": "https://en.wikipedia.org/wiki/Disaster!_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "glamalot": {
+      "slug": "glamalot",
+      "title": "Glamalot",
+      "qid": "Q105085877",
+      "enwiki": "Glamalot",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Glamalot",
+        "wikidata": "https://www.wikidata.org/wiki/Q105085877"
+      },
+      "summary": {
+        "text": "Glamalot: Knights in white satin is a satirical theatre production originally performed at the Lyric Theatre in Brisbane on 18 January - 3 February 1996. The show was produced by the Queensland Performing Arts Trust which donated $25,000, the door takings from the final performance, to the Queensland AIDS Council. The managing artistic director was David Pyle and the director was Sean Mee. The production featured more than 60 performers on stage and a 9-piece rock band. Glamalot was described as \"a wickedly wonderful send-up of the Arthurian legend and the world of phoney political promises\".",
+        "source_url": "https://en.wikipedia.org/wiki/Glamalot",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "goddess-wheel": {
+      "slug": "goddess-wheel",
+      "title": "Goddess Wheel",
+      "qid": "Q5576283",
+      "enwiki": "Goddess Wheel",
+      "composers": [
+        {
+          "name": "Galt MacDermot",
+          "qid": "Q1346345",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12086"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Matty Selman",
+          "qid": "Q16875389"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Matty Selman",
+          "qid": "Q16875389"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Goddess_Wheel",
+        "wikidata": "https://www.wikidata.org/wiki/Q5576283"
+      },
+      "summary": {
+        "text": "Goddess Wheel is a musical adaptation of Lysistrata by Aristophanes. The show contains music by Hair composer Galt MacDermot and lyrics/book by Matty Selman. The first presentations of the musical starred Tony Award winner Cherry Jones at Harvard's American Repertory Theater and Prince Music Theater in Philadelphia. In 2005, Collaborative Arts Project 21 (CAP21) further developed the musical and presented it from November 30–December 10.  \nThe musical premiered as part of the 2011–2012 theater season at Wagner College. The show's premiere run was joined by Galt's own band, The New Pulse Jazz Band. The run was scheduled for April 18–29, 2012, at the Music Hall of Snug Harbor Cultural Center in Staten Island.",
+        "source_url": "https://en.wikipedia.org/wiki/Goddess_Wheel",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "harlequin-cock-robin-and-jenny-wren": {
+      "slug": "harlequin-cock-robin-and-jenny-wren",
+      "title": "Harlequin Cock Robin and Jenny Wren",
+      "qid": "Q5658650",
+      "enwiki": "Harlequin Cock Robin and Jenny Wren",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Harlequin_Cock_Robin_and_Jenny_Wren",
+        "wikidata": "https://www.wikidata.org/wiki/Q5658650"
+      },
+      "summary": {
+        "text": "Harlequin Cock Robin and Jenny Wren; or, Fortunatus and the Water of Life, the Three Bears, the Three Gifts, the Three Wishes, and the Little Man who Woo'd the Little Maid was a pantomime written by W. S. Gilbert. As with many pantomimes of the Victorian era, the piece consisted of a story involving evil spirits, young lovers and \"transformation\" scenes, followed by a harlequinade.\nThe piece premiered at the Lyceum Theatre, London on 26 December 1867. It was the only pantomime written by Gilbert alone, although before and afterwards he collaborated with other authors on pantomimes for the London stage. It was written early in his career, when he was not yet an established playwright, and the script was regarded as of less importance than the spectacle. The first night was under-rehearsed, and the spectacular effects and scenery failed to work properly. Later performances were satisfactory in that respect, and the piece received some good reviews.",
+        "source_url": "https://en.wikipedia.org/wiki/Harlequin_Cock_Robin_and_Jenny_Wren",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "into-the-woods": {
+      "slug": "into-the-woods",
+      "title": "Into the Woods",
+      "qid": "Q1118244",
+      "enwiki": "Into the Woods",
+      "composers": [
+        {
+          "name": "Stephen Sondheim",
+          "qid": "Q153579",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12430"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Stephen Sondheim",
+          "qid": "Q153579",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12430"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "James Lapine",
+          "qid": "Q6137781",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6607"
+        }
+      ],
+      "premiere": {
+        "date": "1986-12-04",
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Laurence Olivier Awards",
+          "qid": "Q28470"
+        }
+      ],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4753",
+        "wikipedia": "https://en.wikipedia.org/wiki/Into_the_Woods",
+        "wikidata": "https://www.wikidata.org/wiki/Q1118244"
+      },
+      "summary": {
+        "text": "Into the Woods is a 1986 musical with music and lyrics by Stephen Sondheim and book by James Lapine. The musical intertwines the plots of several Brothers Grimm fairy tales, exploring the consequences of the characters' wishes and quests. The main characters are taken from \"Little Red Riding Hood\" (spelled \"Ridinghood\" in the published vocal score), \"Jack and the Beanstalk\", \"Rapunzel\", \"Cinderella\", and several others. The musical is tied together by a story involving a childless baker and his wife and their quest to begin a family (the original beginning of the Grimm Brothers' \"Rapunzel\"), their interaction with a witch who has placed a curse on them and encounters with other storybook characters during their journey.\nThe second collaboration between Sondheim and Lapine after Sunday in the Park with George (1984), Into the Woods debuted in San Diego at the Old Globe Theatre in 1986 and premiered on Broadway on November 5, 1987, where it won three major Tony Awards (Best Score, Best Book, and Best Actress in a Musical for Joanna Gleason), in a year dominated by The Phantom of the Opera. The musical has since been produced many times, including a 1988 U.S. national tour, a 1990 West End production, a 2002 Broadway revival, a 2010 outdoor Regent's Park Open Air Theatre production in London, which transferred to Shakespeare in the Park in New York City, a 2022 Broadway revival, and a 2026 West End revival.\nA Disney film adaptation, directed by Rob Marshall, was released in 2014. The film grossed $213 million worldwide, and received three nominations at both the Academy Awards and the Golden Globe Awards.",
+        "source_url": "https://en.wikipedia.org/wiki/Into_the_Woods",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "la-plume-de-ma-tante": {
+      "slug": "la-plume-de-ma-tante",
+      "title": "La Plume de Ma Tante",
+      "qid": "Q6464497",
+      "enwiki": "La Plume de Ma Tante",
+      "composers": [
+        {
+          "name": "Gérard Calvi",
+          "qid": "Q557388",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11477"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Ross Parker",
+          "qid": "Q17318816",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13177"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Robert Dhéry",
+          "qid": "Q321212",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8362"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7151",
+        "wikipedia": "https://en.wikipedia.org/wiki/La_Plume_de_Ma_Tante",
+        "wikidata": "https://www.wikidata.org/wiki/Q6464497"
+      },
+      "summary": {
+        "text": "La Plume de Ma Tante is a 1955 musical comedy, written, devised, and directed by Robert Dhéry, with music by Gérard Calvi, and English lyrics by Ross Parker. The play consisted of a number of short sketches in English, French, and pantomime, satirizing French society. \nIt first opened in 1955 at the Garrick Theatre, London, and closed after a run of two and a half years. It then transferred to the USA.\nOn Broadway, it was nominated for the Tony Award for Best Musical, and in three other categories, winning the 1959 Special Tony Award. Pierre Olaf was one of the show's leading actors.\nIt opened on Broadway at the Royale Theater on November 11, 1958 and closed on December 17, 1960 after a total of 835 performances.  Subsequently, the show toured to Las Vegas, Los Angeles and San Francisco during 1961.",
+        "source_url": "https://en.wikipedia.org/wiki/La_Plume_de_Ma_Tante",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "love-o-mike": {
+      "slug": "love-o-mike",
+      "title": "Love O' Mike",
+      "qid": "Q19876779",
+      "enwiki": "Love O' Mike",
+      "composers": [
+        {
+          "name": "Jerome Kern",
+          "qid": "Q313270",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6711"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5619",
+        "wikipedia": "https://en.wikipedia.org/wiki/Love_O'_Mike",
+        "wikidata": "https://www.wikidata.org/wiki/Q19876779"
+      },
+      "summary": {
+        "text": "Love O' Mike is a musical comedy in two acts and a prologue with book by Thomas Sydney, lyrics by Harry B. Smith, and music by Jerome Kern. The show, produced by Elisabeth Marbury and Lee Shubert, had performances in Philadelphia, Pittsburgh, and Detroit before heading to New York's Shubert Theatre, where it opened January 15, 1917.\nThe musical director was Frank Tours and the music was orchestrated by Frank Saddler. The show was staged by J. H. Benrimo; scenic design by Robert McQuinn; and costume design by Faibsey. It had three runs. The first run ran until March 17 or 18, 1917. It played at the Maxine Elliott Theatre from March 19, 1917, until June 30, 1917, and then at the Casino Theatre from August 27, 1917, until September 29, 1917.  It is considered to have run for 233 performances.\nAlthough the opening night leading actors were George Baldwin, Jack Bohn, Helen Clarke, Lillian Devere, Alan Edwards, Gloria Goodwin, and Rollin Grimes, Jr., Gerald Boardman says “Playgoers glancing at the program probably paid little attention to the names of several bit players – names like Luella Gear, Peggy Wood, and Clifton Webb, that would soon command their own glamour.”",
+        "source_url": "https://en.wikipedia.org/wiki/Love_O'_Mike",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "mary": {
+      "slug": "mary",
+      "title": "Mary",
+      "qid": "Q112477957",
+      "enwiki": "Mary (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Mary_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q112477957"
+      },
+      "summary": {
+        "text": "Mary (originally titled The house that Jack built) is a 1920 musical comedy with book and lyrics by Frank Mandel and Otto Harbach and music by Louis Hirsch. Among its songs was \"Love Nest\", Hirsch's most successful, later the theme song for the Burns and Allen radio show.",
+        "source_url": "https://en.wikipedia.org/wiki/Mary_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "moon-landing": {
+      "slug": "moon-landing",
+      "title": "Moon Landing",
+      "qid": "Q6907506",
+      "enwiki": "Moon Landing (music drama)",
+      "composers": [
+        {
+          "name": "Stephen Edwards",
+          "qid": "Q7609133"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Stephen Edwards",
+          "qid": "Q7609133"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Moon_Landing_(music_drama)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6907506"
+      },
+      "summary": {
+        "text": "Moon Landing is a musical with book, lyrics and music by Stephen Edwards. The story, from an original idea and synopsis by Justin Fleming, is based on the American Space Race and the Apollo 11 spaceflight which on July 20, 1969 landed the first humans on the Moon and is seen through the eyes of Buzz Aldrin, the second man to walk on the Moon.\nGlenn Carter as Buzz Aldrin led the cast of the original production,  as first presented at the Derby Playhouse, UK in October, 2007. In 2008, the play was nominated for a TMA award for \"Best Musical Production\".",
+        "source_url": "https://en.wikipedia.org/wiki/Moon_Landing_(music_drama)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "moon-water": {
+      "slug": "moon-water",
+      "title": "Moon Water",
+      "qid": "Q104847522",
+      "enwiki": "Moon Water (dance)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Moon_Water_(dance)",
+        "wikidata": "https://www.wikidata.org/wiki/Q104847522"
+      },
+      "summary": {
+        "text": "\"Moon Water\" is a dance performed by Cloud Gate Dance Theater of Taiwan.  Choreographed by Lin Hwai-min, it is the second piece of the “Spiritual Journey” series.  This work is inspired by Buddha’s teaching: emptiness like flowers in the mirror or the moon in the water.  The premier took place at Taipei National Theater, Taipei, Taiwan on November 18, 1998. Cloud Gate Dance Theater was invited to perform this dance during the Sydney Olympic Arts Festival on August 19, 2000.",
+        "source_url": "https://en.wikipedia.org/wiki/Moon_Water_(dance)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "peter-pan-1950-musical": {
+      "slug": "peter-pan-1950-musical",
+      "title": "Peter Pan",
+      "qid": "Q7176280",
+      "enwiki": "Peter Pan (1950 musical)",
+      "composers": [
+        {
+          "name": "Leonard Bernstein",
+          "qid": "Q152505",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7257"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1950-04-24",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Peter_Pan_(1950_musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7176280"
+      },
+      "summary": {
+        "text": "Peter Pan is a 1950 musical adaptation of J. M. Barrie's 1904 play Peter Pan, or The Boy Who Wouldn't Grow Up with music and lyrics by Leonard Bernstein; it opened on Broadway on April 24, 1950.  This version starred Jean Arthur as Peter Pan, Boris Karloff in the dual roles of George Darling and Captain Hook, and Marcia Henderson as Wendy. The show was orchestrated by Trude Rittmann and Hershy Kay and conducted by Benjamin Steinberg. The show ran for 321 performances, closing on January 27, 1951.\nThe production was initially intended as a full-blown musical, with Bernstein composing a complete score for it, but was staged with only five songs – \"Who Am I?\", \"Pirate's Song\", \"Plank Round\", \"Build My House\", and \"Peter Peter\" – to accommodate the limited vocal ranges of the principals.\nIn 1998, conductor Alexander Frey began research into whether there may have existed more material that Bernstein had composed for Peter Pan. Over the next seven years, as his schedule allowed, he discovered and restored almost an hour of previously unheard music, much of the material found (and not yet orchestrated) in the archives of the composer's manuscripts. The restored songs included \"Captain Hook Soliloquy\" and \"Dream With Me\", as well as other sung material, dance music and orchestral interludes. The world premiere recording of Bernstein's complete score was released on CD in 2005, conducted by Alexander Frey, featuring Broadway star Linda Eder in the role of Wendy Darling and acclaimed baritone Daniel Narducci as Captain Hook, on the Koch International Classics label.\nIn December 2006, it was produced for the stage by The King's Head Theatre in Islington, London, with Katherine Kastin as Peter Pan, Peter Land as Captain Hook, and Rafaella Hutchinson as Tinker Bell, directed by Stephanie Sinclaire and featuring new musical arrangements by Mike Dixon. This production used only parts of the Bernstein score and none of the original orchestrations. The music was performed by an instrumental trio.\nIn September 2008 the world premiere performance of the full Bernstein score was performed in concert with Alexander Frey conducting the Gulbenkian Orchestra, with dialogue adapted from the original J. M. Barrie play by Nina Bernstein Simmons. Three performances were given in Cascais, Portugal, for a combined audience of over 10,000 people; they featured Geraldine James (narrator), John Sackville-West (Peter Pan), Charlotte Ellett and Rachel Nicholls (Wendy) and Nicholas Lester (Captain Hook).\nThe first stage production of the full Bernstein score was given by Santa Barbara Theater (California) in December 2008, directed by Albert Ihde with a full orchestra again conducted by Alexander Frey.\nAnother production was held at the Richard B. Fisher Center for the Performing Arts in June 2018, directed by Christopher Alden.",
+        "source_url": "https://en.wikipedia.org/wiki/Peter_Pan_(1950_musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "plague-the-musical": {
+      "slug": "plague-the-musical",
+      "title": "Plague! The Musical",
+      "qid": "Q7200548",
+      "enwiki": "Plague! The Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Plague!_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q7200548"
+      },
+      "summary": {
+        "text": "Plague! The Musical is a musical with book, music and lyrics by David Massingham and Matthew Townend.  It is a dark comedy based loosely on the events of the Great Plague of London in 1665–1666.\nPlague premiered in 2008 at The Questors Theatre in Ealing, London before transferring to C venues at the Edinburgh Fringe Festival where it was named a 2008 sell out show.  A new production was performed at the 2010 Edinburgh Fringe Festival. It was again performed at C venues with London previews at Upstairs at The Gatehouse.\nPlague had its first U.S. debut in October 2013. Under the direction of Martin Bones, it was performed by the Marble Valley Players, in West Rutland, Vermont at the West Rutland Town Hall.\nUnder the student-direction of Will Giering, who also starred as The Beggar Lord in the U.S. debut, Plague was performed, again, by Ithaca College in November 2018.",
+        "source_url": "https://en.wikipedia.org/wiki/Plague!_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "reuben-reuben": {
+      "slug": "reuben-reuben",
+      "title": "Reuben, Reuben",
+      "qid": "Q8012876",
+      "enwiki": "Reuben, Reuben (opera)",
+      "composers": [
+        {
+          "name": "Marc Blitzstein",
+          "qid": "Q918359",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7489"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1955-10-10",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Reuben%2C_Reuben_(opera)",
+        "wikidata": "https://www.wikidata.org/wiki/Q8012876"
+      },
+      "summary": {
+        "text": "Reuben, Reuben is a two-act, \"urban folk opera\" (or a \"musical play\") by Marc Blitzstein, written from 1953 to 1955. Set in New York's Little Italy and inspired by the Faust legend, it concerns Reuben, a suicidal veteran who has received a medical discharge because he cannot speak. His disorder serves as an allegory of the difficulties of interpersonal communication in society, and of the eventual triumph of love over these difficulties and over the death wish. It was shown at the Shubert Theatre in Boston from October 10 to 22, 1955. Hanya Holm choreographed, Robert Lewis stage directed, and Cheryl Crawford produced the show.\nBlitzstein himself described the opera as a, \"picture of New York: the gaiety, plight, awareness and unawareness of anger, bitterness, insouciance, ardor, urgency, even wisdom, mellowness. All trapped: fighting the trap, or supine within it.”",
+        "source_url": "https://en.wikipedia.org/wiki/Reuben%2C_Reuben_(opera)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "savior-of-the-world": {
+      "slug": "savior-of-the-world",
+      "title": "Savior of the World",
+      "qid": "Q7428334",
+      "enwiki": "Savior of the World",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Savior_of_the_World",
+        "wikidata": "https://www.wikidata.org/wiki/Q7428334"
+      },
+      "summary": {
+        "text": "Savior of the World: His Birth and Resurrection is a musical dramatic production produced by the Church of Jesus Christ of Latter-day Saints (\"the Church of Jesus Christ\"). The production depicts the Biblical accounts of the events surrounding the birth and resurrection of Jesus Christ. Prophecies of the Christ's birth and resurrection in the Old Testament and The Book of Mormon are also quoted.  \nIt premiered November 28, 2000 in the Conference Center Theater on Temple Square in Salt Lake City, Utah and has been presented annually near the Easter and Christmas holidays, though the Easter performances have not occurred on Temple Square since 2005.  It was performed in the Washington D.C. Temple Visitors' Center Theater for the first time during the Easter season of 2014.\nScripting and music have been fluid during the history of the production, as revisions of the materials have occurred from one year to the next.  However the core of the production has always focused on the birth of Jesus for Act I and Jesus' resurrection for Act II.  In 2006, an official script and score was released for limited use throughout the Church.",
+        "source_url": "https://en.wikipedia.org/wiki/Savior_of_the_World",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "shuffle-along": {
+      "slug": "shuffle-along",
+      "title": "Shuffle Along",
+      "qid": "Q2280297",
+      "enwiki": "Shuffle Along",
+      "composers": [
+        {
+          "name": "Eubie Blake",
+          "qid": "Q919632",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4552"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Noble Sissle",
+          "qid": "Q563239",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8701"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/9656",
+        "wikipedia": "https://en.wikipedia.org/wiki/Shuffle_Along",
+        "wikidata": "https://www.wikidata.org/wiki/Q2280297"
+      },
+      "summary": {
+        "text": "Shuffle Along is a musical composed by Eubie Blake, with lyrics by Noble Sissle and a book written by the comedy duo Flournoy Miller and Aubrey Lyles. One of the most popular all-Black hit Broadway shows, it was a landmark in African-American musical theater, credited with inspiring the Harlem Renaissance of the 1920s and '30s.\nThe show premiered at the 63rd Street Music Hall in 1921, running for 504 performances, a remarkably successful span for that decade. It launched the careers of Josephine Baker, Adelaide Hall, Florence Mills, Fredi Washington and Paul Robeson, and was so popular it caused \"curtain time traffic jams\" on West 63rd Street.\nA 2016 adaptation, Shuffle Along, or, the Making of the Musical Sensation of 1921 and All That Followed, focused on the challenges of mounting the original production as well as its lasting effects on Broadway and race relations.",
+        "source_url": "https://en.wikipedia.org/wiki/Shuffle_Along",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-magic-mrs-piggle-wiggle": {
+      "slug": "the-magic-mrs-piggle-wiggle",
+      "title": "The Magic Mrs. Piggle Wiggle",
+      "qid": "Q7749453",
+      "enwiki": "The Magic Mrs. Piggle Wiggle",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Magic_Mrs._Piggle_Wiggle",
+        "wikidata": "https://www.wikidata.org/wiki/Q7749453"
+      },
+      "summary": {
+        "text": "The Magic Mrs. Piggle Wiggle is a musical based on the Mrs. Piggle Wiggle books by Betty MacDonald. The book, music and lyrics are by Chad Henry.\nThe musical was first adapted by Seattle Children's Theatre in 1990, using funds from the National Endowment for the Humanities.\nIt has since been performed at the Children's Theatre Company in Minneapolis, San Diego Junior Theatre, Studio East and many other regional theatres.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Magic_Mrs._Piggle_Wiggle",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-survival-of-st-joan": {
+      "slug": "the-survival-of-st-joan",
+      "title": "The Survival of St. Joan",
+      "qid": "Q7767543",
+      "enwiki": "The Survival of St. Joan",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Survival_of_St._Joan",
+        "wikidata": "https://www.wikidata.org/wiki/Q7767543"
+      },
+      "summary": {
+        "text": "The Survival of St. Joan is a rock opera by Smoke Rise (Gary Ruffin, Hank Ruffin, Stan Ruffin, and Randy Bugg — music composed by Hank and Gary) from an original concept and libretto by Off-Broadway playwright and screenwriter James Lineberger.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Survival_of_St._Joan",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

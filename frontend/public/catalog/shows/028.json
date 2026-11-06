@@ -1,0 +1,641 @@
+{
+  "live": true,
+  "shows": {
+    "44-the-musical": {
+      "slug": "44-the-musical",
+      "title": "44: The Musical",
+      "qid": "Q136476812",
+      "enwiki": "44: The Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/44%3A_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q136476812"
+      },
+      "summary": {
+        "text": "44: The Musical (full title: 44: The UnOFFICIAL, UnSANCTIONED OBAMA MUSICAL) is a 2022 musical written and composed by Eli Bauman, a former Obama campaign staffer.",
+        "source_url": "https://en.wikipedia.org/wiki/44%3A_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "a-face-in-the-crowd": {
+      "slug": "a-face-in-the-crowd",
+      "title": "A Face in the Crowd",
+      "qid": "Q130467071",
+      "enwiki": "A Face in the Crowd (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Face_in_the_Crowd_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q130467071"
+      },
+      "summary": {
+        "text": "A Face in the Crowd is a musical with music and lyrics by Elvis Costello, book by Sarah Ruhl, based on the short story and 1957 film of the same name by Budd Schulberg.",
+        "source_url": "https://en.wikipedia.org/wiki/A_Face_in_the_Crowd_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "are-you-with-it": {
+      "slug": "are-you-with-it",
+      "title": "Are You with It?",
+      "qid": "Q4788480",
+      "enwiki": "Are You with It? (musical)",
+      "composers": [
+        {
+          "name": "Harry Revel",
+          "qid": "Q911566",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12284"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1668",
+        "wikipedia": "https://en.wikipedia.org/wiki/Are_You_with_It%3F_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4788480"
+      },
+      "summary": {
+        "text": "Are You with It? is an American musical with music by Harry Revel and lyrics by Arnold B. Horwitt. The musical book by Sam Perrin and George Balzer is based on the novel Slightly Perfect by George Malcolm-Smith. The production opened on Broadway at the New Century Theatre where it ran from November 10, 1945, through April 27, 1946. The show then moved to the Shubert Theatre where it played from April 30 through June 29, 1946, closing after a total of 264 performances.",
+        "source_url": "https://en.wikipedia.org/wiki/Are_You_with_It%3F_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "carmencita-rockefeller-princess-of-japan": {
+      "slug": "carmencita-rockefeller-princess-of-japan",
+      "title": "Carmencita Rockefeller - Princess of Japan",
+      "qid": "Q24897582",
+      "enwiki": "Carmencita Rockefeller - Princess of Japan",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Carmencita_Rockefeller_-_Princess_of_Japan",
+        "wikidata": "https://www.wikidata.org/wiki/Q24897582"
+      },
+      "summary": {
+        "text": "Carmencita Rockefeller - Princess of Japan is a Swedish musical written and directed by Rikard Bergqvist with music by Martin Östergren, Mathias Venge and Sara Jangfeldt.\nThe original  production opened in 2013 at The Göteborg Opera. The production team included choreographer Camilla Ekelöf, costume designer Tomas Sjöstedt, lighting designer Joakim Brink, conductor Rickard Åström. The original cast included Carmencita played by Anna-Maria Hallgarn, Åke played by Rolf Lydahl, Bing - Joachim Bergström, Texas Bill -\tTimo Nieminen, Baroness - Karolin Funke, Judge - Lars Hjertner.\nFollowing a  The Göteborg Opera debut in 2013, Carmencita Rockefeller - Princess of Japan was revived in the Scala Theatre Stockholm in 2016.\nThe musical Carmencita Rockefeller - Princess of Japan is based on real story. In the 1970s, a hairdresser from Malmö pretended to be a bright personality and professional: Carmencita Rockefeller - diplomatic, cancer researcher, member of the famous American family of financiers and granddaughter of the Japanese Emperor. Although she lacked the language skills and education, Carmencita become an established name and become the obvious choice for the Nobel Prize in medicine for others. The fraud was orchestrated with the help of her husband, who posed as her brother and said he was a CIA agent.",
+        "source_url": "https://en.wikipedia.org/wiki/Carmencita_Rockefeller_-_Princess_of_Japan",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "cats": {
+      "slug": "cats",
+      "title": "Cats",
+      "qid": "Q337097",
+      "enwiki": "Cats (musical)",
+      "composers": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "qid": "Q180975",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12073"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Trevor Nunn",
+          "qid": "Q1334509",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/15788"
+        },
+        {
+          "name": "T. S. Eliot",
+          "qid": "Q37767",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8808"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": "1981",
+        "venue": "Gillian Lynne Theatre"
+      },
+      "awards": [
+        {
+          "name": "Laurence Olivier Awards",
+          "qid": "Q28470"
+        },
+        {
+          "name": "Laurence Olivier Award for Best New Musical",
+          "qid": "Q6500795"
+        }
+      ],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2449",
+        "official_site": "http://www.catsthemusical.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Cats_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q337097"
+      },
+      "summary": {
+        "text": "Cats is a sung-through musical with music by Andrew Lloyd Webber. It is based on the 1939 poetry collection Old Possum's Book of Practical Cats by T. S. Eliot. The musical tells the story of a tribe of cats called the Jellicles and the night they make the \"Jellicle choice\" by deciding which cat will ascend to the Heaviside Layer and come back to a new life. As of 2024, Cats remains the fifth-longest-running Broadway show and the eighth-longest-running West End show.\nLloyd Webber began setting Eliot's poems to music in 1977, and the compositions were first presented as a song cycle in 1980. Producer Cameron Mackintosh then recruited director Trevor Nunn and choreographer Gillian Lynne to turn the songs into a complete musical. Cats opened to positive reviews at the New London Theatre in the West End in 1981 and then to mixed reviews at the Winter Garden Theatre on Broadway in 1982. It won numerous awards including Best Musical at both the Laurence Olivier and Tony Awards. Despite its unusual premise, it initially deterred investors yet turned out to be an unprecedented commercial success with a worldwide gross of US$3.5 billion by 2012.\nThe London production ran for 21 years and 8,949 performances, while the Broadway production ran for 18 years and 7,485 performances, making Cats the longest-running musical in both theatre districts for a number of years. Cats has since been revived in the West End twice and on Broadway twice. It has also been translated into multiple languages and performed around the world many times. Long-running foreign productions include a 15-year run at the Operettenhaus in Hamburg that played over 6,100 performances, as well as an ongoing run in a purpose-built theatre in Japan that has played over 10,000 performances since it opened in 1983.\nCats started the megamusical phenomenon, establishing a global market for musical theatre and directing the industry's focus to big-budget blockbusters, as well as family and tourist-friendly shows. The musical's profound but polarising influence also reshaped the aesthetic, technology, and marketing of the medium. Cats was adapted into a direct-to-video film in 1998 and a feature film in 2019.",
+        "source_url": "https://en.wikipedia.org/wiki/Cats_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "charlotte-s-web": {
+      "slug": "charlotte-s-web",
+      "title": "Charlotte's Web",
+      "qid": "Q5085789",
+      "enwiki": "Charlotte's Web (musical)",
+      "composers": [
+        {
+          "name": "Charles Strouse",
+          "qid": "Q2960275",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12463"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Charles Strouse",
+          "qid": "Q2960275",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12463"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Charlotte's_Web_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5085789"
+      },
+      "summary": {
+        "text": "Charlotte's Web is a stage musical with music and lyrics by Charles Strouse and based on a book by Joseph Robinette (itself based on the book by E. B. White).",
+        "source_url": "https://en.wikipedia.org/wiki/Charlotte's_Web_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "criss-cross": {
+      "slug": "criss-cross",
+      "title": "Criss Cross",
+      "qid": "Q18619203",
+      "enwiki": "Criss Cross (musical)",
+      "composers": [
+        {
+          "name": "Jerome Kern",
+          "qid": "Q313270",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6711"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2826",
+        "wikipedia": "https://en.wikipedia.org/wiki/Criss_Cross_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q18619203"
+      },
+      "summary": {
+        "text": "Criss Cross is a musical comedy in two acts and prologue, with book and lyrics by Otto Harbach and Anne Caldwell and music by Jerome Kern. Set in France and Algiers, the plot concerns a successful aviator, Christopher Cross (Fred Stone) who manages to help Captain Carleton save Dolly Day from the designing schemes of IIphrahim Benani to rob her of her birthright and a considerable fortune.\nThe show was produced by Charles Dillingham at the Globe Theatre, and opened October 12, 1926. The cast headlined Fred Stone (Christopher Cross) and Dorothy Stone (Dolly Day) and included Roy Hoyer (Captain Carleton) and Oscar Ragland (IIphrahim Benani). The musical director was Victor Baravalle and the music was orchestrated by Robert Russell Bennett and Maurice DePackh. The show was staged by R. H. Burnside and choreographed by Dave Bennett. Scenic design and costume design by James Reynolds. It ran for 210 performances, closing on April 9, 1927.  \nAs well stated by Gerald Bordman, \"From the start Criss Cross was rarely perceived as a Kern show. [Fred] Stone dominated any of his vehicles with his homey clowning and live acrobatics. ... Kern and his associates hardly ever received more than a perfunctory mention.\"\nOn October 23, 1927, Criss Cross toured to Philadelphia where it was the inaugural show at the new Erlanger Theatre.",
+        "source_url": "https://en.wikipedia.org/wiki/Criss_Cross_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "dream": {
+      "slug": "dream",
+      "title": "Dream",
+      "qid": "Q12125325",
+      "enwiki": "Dream (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3191",
+        "wikipedia": "https://en.wikipedia.org/wiki/Dream_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q12125325"
+      },
+      "summary": {
+        "text": "Dream is a musical revue based on the songs of Johnny Mercer. The book is by Jack Wrangler and co-producer Louise Westergaard. The show ran on Broadway in 1997.",
+        "source_url": "https://en.wikipedia.org/wiki/Dream_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "dulcamara-or-the-little-duck-and-the-great-quack": {
+      "slug": "dulcamara-or-the-little-duck-and-the-great-quack",
+      "title": "Dulcamara, or the Little Duck and the Great Quack",
+      "qid": "Q5313313",
+      "enwiki": "Dulcamara, or the Little Duck and the Great Quack",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Dulcamara%2C_or_the_Little_Duck_and_the_Great_Quack",
+        "wikidata": "https://www.wikidata.org/wiki/Q5313313"
+      },
+      "summary": {
+        "text": "Dulcamara, or the Little Duck and the Great Quack, is one of the earliest plays written by W.S. Gilbert, his first solo stage success. The work is a musical burlesque of Donizetti's L'Elisir d'Amore, and the music was arranged by Mr. Van Hamme. It opened at the St James's Theatre on 29 December 1866, the last item in a long evening, following a farce and Dion Boucicault's new play Hunted Down. Dulcamara ran for a successful 120 nights.\nThe popularity of the piece encouraged further commissions for opera burlesques from Gilbert, who wrote four more between 1867 and 1869. Dulcamara and its successors all comply with the burlesque traditions of the day, with dialogue in rhyming couplets, convoluted puns throughout, and an array of attractive actresses in tights or short skirts, playing male roles, a practice Gilbert renounced as soon as he was sufficiently influential in the theatre.",
+        "source_url": "https://en.wikipedia.org/wiki/Dulcamara%2C_or_the_Little_Duck_and_the_Great_Quack",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "gay-bride-of-frankenstein": {
+      "slug": "gay-bride-of-frankenstein",
+      "title": "Gay Bride of Frankenstein",
+      "qid": "Q16839710",
+      "enwiki": "Gay Bride of Frankenstein",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "http://www.GayBrideofFrankenstein.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/Gay_Bride_of_Frankenstein",
+        "wikidata": "https://www.wikidata.org/wiki/Q16839710"
+      },
+      "summary": {
+        "text": "Gay Bride of Frankenstein is an American comic-book rock musical written by Dane Leeman and Billy Butler, with music and lyrics by Billy Butler. The concept album was created by Billy Butler and the Monster Makers during the 2008 RPM Challenge and premiered live on stage at the Players' Ring Theatre in Portsmouth, New Hampshire, that same year. It was a top selection in the 2009 New York Musical Theatre Festival, opening September 28 and closing October 11, and played seven sold-out performances at the TBG Theater in New York City. It then played at Seacoast Repertory Theatre in 2010 and two concerts at Joe's Pub in 2011. The comic book is drawn by Katie Drew.",
+        "source_url": "https://en.wikipedia.org/wiki/Gay_Bride_of_Frankenstein",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "hot-mikado": {
+      "slug": "hot-mikado",
+      "title": "Hot Mikado",
+      "qid": "Q16386110",
+      "enwiki": "Hot Mikado",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Hot_Mikado",
+        "wikidata": "https://www.wikidata.org/wiki/Q16386110"
+      },
+      "summary": {
+        "text": "Hot Mikado is a musical comedy, based on Gilbert and Sullivan's 1885 comic opera The Mikado, adapted by David H. Bell (book and lyrics) and Rob Bowman (orchestrations and arrangements).  After researching the 1939 Broadway musical, The Hot Mikado, and being disappointed at the amount of surviving material that they could find, Bell and Bowman created a new adaptation, Hot Mikado.  \"Not much remains, however, of the 1939 show’s African-American emphasis, save the cool hipster style which even then was beginning to be eagerly pre-empted by Americans of every ethnicity.\"\nTheir original production ran from March 18 – July 27, 1986 at Ford's Theatre in Washington, DC, where Bell was artistic director.  Bell directed and choreographed the production.  The musical also had an early Chicago production, among other revivals and ran in London's West End in 1995.  It has enjoyed many additional productions in North America and the UK since then.",
+        "source_url": "https://en.wikipedia.org/wiki/Hot_Mikado",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "intervention": {
+      "slug": "intervention",
+      "title": "Intervention",
+      "qid": "Q30607829",
+      "enwiki": "Intervention (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Intervention_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q30607829"
+      },
+      "summary": {
+        "text": "Intervention is a musical comedy with music and lyrics by Matt Corriel, and script by Jill Jaysen. It was also shown at the New York Musical Theatre Festival in 2007, the Center Stage Theatre Company in Westport, Connecticut, the Acorn Theatre in New York City, and the Staged Equity Reading, York Theatre NYC. It won the Moss Hart Award,  and the cast included Adam Riegler.",
+        "source_url": "https://en.wikipedia.org/wiki/Intervention_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "irene": {
+      "slug": "irene",
+      "title": "Irene",
+      "qid": "Q16980668",
+      "enwiki": "Irene (musical)",
+      "composers": [
+        {
+          "name": "Harry Tierney",
+          "qid": "Q2756975",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12495"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Joseph McCarthy",
+          "qid": "Q3810247",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13089"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4763",
+        "wikipedia": "https://en.wikipedia.org/wiki/Irene_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q16980668"
+      },
+      "summary": {
+        "text": "Irene is a musical with a book by James Montgomery, lyrics by Joseph McCarthy, and music by Harry Tierney.  Based on Montgomery's play Irene O'Dare, it is set in New York City's Upper West Side and focuses on immigrant shop assistant Irene O'Dare, who is introduced to Long Island's high society when she is hired to tune a piano for a society gentleman.\nThe musical opened on Broadway in 1919 and ran for 675 performances, at the time the record for the longest-running musical in Broadway history, which it maintained for nearly two decades. It starred Edith Day in the title role, who repeated the role in the London production. It was revived on Broadway in 1923, filmed twice, and had a major Broadway revival in 1973, starring Debbie Reynolds, that ran for 594 performances, followed by a 1976 London run that lasted 974 performances.",
+        "source_url": "https://en.wikipedia.org/wiki/Irene_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "lord-of-the-dance": {
+      "slug": "lord-of-the-dance",
+      "title": "Lord of the Dance",
+      "qid": "Q1500282",
+      "enwiki": "Lord of the Dance (musical)",
+      "composers": [
+        {
+          "name": "Ronan Hardiman",
+          "qid": "Q1336157"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Michael Flatley",
+          "qid": "Q316685",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/82186"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Michael Flatley",
+          "qid": "Q316685",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/82186"
+        }
+      ],
+      "premiere": {
+        "date": "1996-06-27",
+        "venue": "Point Theatre"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Lord_of_the_Dance_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1500282"
+      },
+      "summary": {
+        "text": "Lord of the Dance  is an Irish dance show and dance production that was created, choreographed, and produced by Irish-American dancer Michael Flatley, who also took a starring role.  The music for the show was written by Ronan Hardiman.",
+        "source_url": "https://en.wikipedia.org/wiki/Lord_of_the_Dance_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "miss-hook-of-holland": {
+      "slug": "miss-hook-of-holland",
+      "title": "Miss Hook of Holland",
+      "qid": "Q6876763",
+      "enwiki": "Miss Hook of Holland",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6131",
+        "wikipedia": "https://en.wikipedia.org/wiki/Miss_Hook_of_Holland",
+        "wikidata": "https://www.wikidata.org/wiki/Q6876763"
+      },
+      "summary": {
+        "text": "Miss Hook of Holland is an English musical comedy (styled a \"Dutch Musical Incident\") in two acts, with music and lyrics by Paul Rubens with a book by Austen Hurgon and Rubens. The show was produced by Frank Curzon and opened at the Prince of Wales Theatre on 31 January 1907, running for a very successful 462 performances.  It starred Harry Grattan and Isabel Jay.\nThe show also had a Broadway run starring Bertram Wallis and an Australian production in 1907 and enjoyed various tours and revivals, including a 1914 revival starring Phyllis Dare.  There was also a \"matinee version\" of the show called Little Miss Hook of Holland, played by children for children.  The musical was popular with amateur theatre groups, particularly in Britain, from 1911 through the 1950s.\n1907 was a busy year on the London stage with numerous other notable openings, including The Girls of Gottenberg, The Merry Widow, and Tom Jones.",
+        "source_url": "https://en.wikipedia.org/wiki/Miss_Hook_of_Holland",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "motown-the-musical": {
+      "slug": "motown-the-musical",
+      "title": "Motown: The Musical",
+      "qid": "Q6918538",
+      "enwiki": "Motown: The Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Berry Gordy",
+          "qid": "Q355288",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/84065"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/493341",
+        "wikipedia": "https://en.wikipedia.org/wiki/Motown%3A_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q6918538"
+      },
+      "summary": {
+        "text": "Motown: The Musical is a jukebox musical that premiered on Broadway in April 2013.  The musical is based on Berry Gordy's autobiography To Be Loved: The Music, the Magic, the Memories of Motown (1994), and on the history of his founding and running of the Motown record label, and his personal and professional relationships with Motown artists such as Diana Ross, Smokey Robinson, Marvin Gaye, and Michael Jackson. The production's music and lyrics are taken from selections from the Motown catalog. It received four nominations at the 67th Tony Awards.",
+        "source_url": "https://en.wikipedia.org/wiki/Motown%3A_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "murray-anderson-s-almanac": {
+      "slug": "murray-anderson-s-almanac",
+      "title": "Murray Anderson's Almanac",
+      "qid": "Q122181715",
+      "enwiki": "Murray Anderson's Almanac",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Murray_Anderson's_Almanac",
+        "wikidata": "https://www.wikidata.org/wiki/Q122181715"
+      },
+      "summary": {
+        "text": "Murray Anderson's Almanac: A Revusical Comedy of Yesterday-Today-Tomorrow (1880–1930) was a Broadway show from 1929. \nIt was produced by the Almanack Theatrical Corporation with John Murray Anderson and Gil Boag as directors. It was based on the style of an almanac publication. The chronological order of the 28 scenes in the show was referred to by page numbers, and so scene 5 was described on page 5 in the program and so on. The theatrical corporation produced what it called the first edition of the show on August 14, 1929, at the Erlanger's Theater on Broadway in New York City.  \nThe authors of the comedy sketches were Harry Ruskin, Noël Coward, Paul Gerard Smith, Ronald Jeans, Peter Arno, Anna Wynne, and Rube Goldberg. \nMusic was by Henry Sullivan and Milton Ager with lyrics by Jack Yellen.\nA song that was produced for the show by Henry Sullivan was I May Be Wrong (but I Think You're Wonderful), which went on to become a popular song with multiple cover versions of it.\nThe show was directed by John Murray Anderson, Harry Ruskin, and William Holbrook.\nThe cast members were Trixie Friganza, Jimmy Savo, Roy Atwell, Eleanor Shaler, William Griffith, Fred Keating, Billie Gerber, and Stella Power.",
+        "source_url": "https://en.wikipedia.org/wiki/Murray_Anderson's_Almanac",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "passing-strange-disambiguation": {
+      "slug": "passing-strange-disambiguation",
+      "title": "Passing Strange",
+      "qid": "Q3897288",
+      "enwiki": "Passing Strange (disambiguation)",
+      "composers": [
+        {
+          "name": "Stew",
+          "qid": "Q7615646",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/475092"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Stew",
+          "qid": "Q7615646",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/475092"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Stew",
+          "qid": "Q7615646",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/475092"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/475090",
+        "wikipedia": "https://en.wikipedia.org/wiki/Passing_Strange_(disambiguation)",
+        "wikidata": "https://www.wikidata.org/wiki/Q3897288"
+      },
+      "summary": {
+        "text": "Passing Strange is a 2006 rock musical by Stew. An adaptation filmed by Spike Lee was shown at the 2009 Sundance Film Festival.\nPassing Strange may also refer to:\n\nPassing Strange, a 1980 novel by Catherine Aird\nPassing Strange (novella), a 2017 novella by Ellen Klages\nPassing Strange: True Tales of New England Hauntings and Horrors, a book by folklorist Joseph A. Citro",
+        "source_url": "https://en.wikipedia.org/wiki/Passing_Strange_(disambiguation)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "still-dancing": {
+      "slug": "still-dancing",
+      "title": "Still Dancing",
+      "qid": "Q126727023",
+      "enwiki": "Still Dancing (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Still_Dancing_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q126727023"
+      },
+      "summary": {
+        "text": "Still Dancing (or Still Dancing!) is a 1925 musical revue produced by Charles B. Cochran, with book by Arthur Wimperis and Ronald Jeans, lyrics by Philip Braham, Noble Sissle & Eubie Blake, and music by Ivor Novello, Irving Berlin, Vivian Ellis, Isham Jones and Marc Anthony. Dialogue was by Ernest Thesiger, and ballet numbers were choreographed by Leonid Massine. The cast included Alice Delysia, Joan Clarkson, Hermione Baddeley, Florence Desmond, Nigel Bruce, Douglas Byng, Richard Dolman, Walter Gore, as well as Thesiger and Massine.\nThe show opened at the London Pavilion on 19 November 1925 and closed on 27 February 1926, after 114 performances.",
+        "source_url": "https://en.wikipedia.org/wiki/Still_Dancing_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "strictly-ballroom": {
+      "slug": "strictly-ballroom",
+      "title": "Strictly Ballroom",
+      "qid": "Q39089607",
+      "enwiki": "Strictly Ballroom (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2014-04-12",
+        "venue": "Sydney Lyric"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Strictly_Ballroom_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q39089607"
+      },
+      "summary": {
+        "text": "Strictly Ballroom the Musical is a musical theatre adaptation of the 1992 film Strictly Ballroom. It is credited as being created by Baz Luhrmann with book by Baz Luhrmann and Craig Pearce adapted by Terry Johnson. \nThere are two versions of the show - one consists of a score of existing music and songs, with previous productions featuring a mix of existing songs alongside new musical numbers written for the show by David Foster, Sia, Isaac Hasson, Bernie Herms, Baz Luhrmann, MoZella, Neff-U, Craig Pearce, Eddie Perfect and Linda Thompson. Both productions feature songs such as \"Perhaps Perhaps Perhaps\" and \"Time After Time\".",
+        "source_url": "https://en.wikipedia.org/wiki/Strictly_Ballroom_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-catch-of-the-season": {
+      "slug": "the-catch-of-the-season",
+      "title": "The Catch of the Season",
+      "qid": "Q7721700",
+      "enwiki": "The Catch of the Season",
+      "composers": [
+        {
+          "name": "Herbert Haines",
+          "qid": "Q5734313",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11807"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Charles H. Taylor",
+          "qid": "Q5078653",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13360"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Seymour Hicks",
+          "qid": "Q3958616",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8634"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2446",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Catch_of_the_Season",
+        "wikidata": "https://www.wikidata.org/wiki/Q7721700"
+      },
+      "summary": {
+        "text": "The Catch of the Season is an Edwardian musical comedy by Seymour Hicks and Cosmo Hamilton, with music by Herbert Haines and Evelyn Baker and lyrics by Charles H. Taylor, based on the fairy tale Cinderella. A debutante is engaged to a young aristocrat but loves a page.\nThe musical premiered at the Vaudeville Theatre in London in 1904 and ran for 621 performances. It starred Hicks, Zena Dare and Camille Clifford. Replacements included Louie Pounds. The New York production, in 1905, starred Edna May, at Daly's Theatre. The show was produced internationally and was revived until the First World War.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Catch_of_the_Season",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

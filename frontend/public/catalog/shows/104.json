@@ -1,0 +1,499 @@
+{
+  "live": true,
+  "shows": {
+    "anything-goes": {
+      "slug": "anything-goes",
+      "title": "Anything Goes",
+      "qid": "Q656082",
+      "enwiki": "Anything Goes",
+      "composers": [
+        {
+          "name": "Cole Porter",
+          "qid": "Q215120",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12257"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Cole Porter",
+          "qid": "Q215120",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12257"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "P. G. Wodehouse",
+          "qid": "Q207515",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7988"
+        },
+        {
+          "name": "Guy Bolton",
+          "qid": "Q924974",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4575"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Laurence Olivier Awards",
+          "qid": "Q28470"
+        }
+      ],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1640",
+        "playbill": "https://playbill.com/production/anything-goes-alvin-theatre-vault-0000000954",
+        "official_site": "http://broadwaymusicalhome.com/shows/anythinggoes.htm",
+        "wikipedia": "https://en.wikipedia.org/wiki/Anything_Goes",
+        "wikidata": "https://www.wikidata.org/wiki/Q656082"
+      },
+      "summary": {
+        "text": "Anything Goes is a musical with music and lyrics by Cole Porter. The original book was a collaborative effort by Guy Bolton and P. G. Wodehouse, revised considerably by the team of Howard Lindsay and Russel Crouse. The story concerns madcap antics aboard an ocean liner bound from New York to London. Billy Crocker is a stowaway in love with heiress Hope Harcourt, who is engaged to Lord Evelyn Oakleigh. Nightclub singer Reno Sweeney and Public Enemy Number 13, \"Moonface\" Martin, aid Billy in his quest to win Hope. Songs introduced that later became pop and jazz standards are \"Anything Goes\", \"You're the Top\", \"All Through the Night\", and \"I Get a Kick Out of You\".\nSince its November 21, 1934 debut at the Alvin Theatre (now known as the Neil Simon Theatre) on Broadway, the musical has been revived several times in the United States and Britain. It has been adapted for film three times (in 1936, 1956 and a filmed version of a stage production in 2021), and adapted for television also three times (in 1950, 1954 and 1962). The musical has long been a popular choice for school and community productions.",
+        "source_url": "https://en.wikipedia.org/wiki/Anything_Goes",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "bran-nue-dae": {
+      "slug": "bran-nue-dae",
+      "title": "Bran Nue Dae",
+      "qid": "Q4956302",
+      "enwiki": "Bran Nue Dae",
+      "composers": [
+        {
+          "name": "Jimmy Chi",
+          "qid": "Q1689335"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Jimmy Chi",
+          "qid": "Q1689335"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Bran_Nue_Dae",
+        "wikidata": "https://www.wikidata.org/wiki/Q4956302"
+      },
+      "summary": {
+        "text": "Bran Nue Dae is a 1990 musical set in Broome, Western Australia, that tells stories and of issues relating to Indigenous Australians. It was written by Jimmy Chi and his band Kuckles and friends, and was the first Aboriginal Australian musical. The name is a phonetic representation of \"Brand New Day\".",
+        "source_url": "https://en.wikipedia.org/wiki/Bran_Nue_Dae",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "damn-yankees": {
+      "slug": "damn-yankees",
+      "title": "Damn Yankees",
+      "qid": "Q1158684",
+      "enwiki": "Damn Yankees",
+      "composers": [
+        {
+          "name": "Richard Adler",
+          "qid": "Q1399392",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11290"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Jerry Ross",
+          "qid": "Q1687860",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12327"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "George Abbott",
+          "qid": "Q1506831",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5770"
+        },
+        {
+          "name": "Douglass Wallop",
+          "qid": "Q3038061",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5130"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Tony Award for Best Musical",
+          "qid": "Q1780176"
+        }
+      ],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2892",
+        "wikipedia": "https://en.wikipedia.org/wiki/Damn_Yankees",
+        "wikidata": "https://www.wikidata.org/wiki/Q1158684"
+      },
+      "summary": {
+        "text": "Damn Yankees is a 1955 musical comedy with a book by George Abbott and Douglass Wallop, and music and lyrics by Richard Adler and Jerry Ross.  The story is a modern retelling of the Faust legend set during the 1950s in Washington, D.C., during a time when the New York Yankees dominated Major League Baseball. It is based on Wallop's 1954 novel The Year the Yankees Lost the Pennant.\nThe show ran for 1,019 performances in its original Broadway production. Adler and Ross's success with it and The Pajama Game seemed to point to a bright future for them, but Ross suddenly died of chronic bronchiectasis at age 29, several months after Damn Yankees opened.",
+        "source_url": "https://en.wikipedia.org/wiki/Damn_Yankees",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "hallelujah-of-love": {
+      "slug": "hallelujah-of-love",
+      "title": "Hallelujah of Love",
+      "qid": "Q17144384",
+      "enwiki": "Hallelujah of Love",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Hallelujah_of_Love",
+        "wikidata": "https://www.wikidata.org/wiki/Q17144384"
+      },
+      "summary": {
+        "text": "Living Pictures - \"War and Peace\" (Russian: Zhiviye kartiny Voyna i Mir, Живые картины - Война и мир) is a Russian-language musical composed by Russian film music composer Alexey Rybnikov based upon the eponymous novel by Leo Tolstoy. The musical has yet to be produced. Scenes from the forthcoming musical were presented by the Alexey Rybnikov Theatre Company in the musical show Hallelujah of Love («Аллилуйя любви») on the stage of the Moscow International House of Music in September 2012.\nHallelujah of Love is a stage show made of old and new songs by Rybnikov. It begins with the well-known theme \"I believe you\" («Я тебе, конечно, верю») from the children's sci-fi movie \"Great Space Journey\" (ru:Большое космическое путешествие) then an \"incendiary\" flamenco. Then a duet by Munchhausen and Martha from the TV-film The Very Same Munchhausen, then the centre-piece, the advance excerpts from the musical Living Pictures - War and Peace. The show continues with a scene by Joaquin and Rosita, and then Rezanov and Conchita based on the love story of Nikolai Rezanov. The show continues with stylized duet in the style of French chanson, and love songs based on poems by Anna Akhmatova. The show concludes with passionate hymn to love with all the artists of the show based on the Hallelujah chorus of Handel's Messiah.",
+        "source_url": "https://en.wikipedia.org/wiki/Hallelujah_of_Love",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "home-movies": {
+      "slug": "home-movies",
+      "title": "Home Movies",
+      "qid": "Q16980359",
+      "enwiki": "Home Movies (musical)",
+      "composers": [
+        {
+          "name": "Al Carmines",
+          "qid": "Q4703654"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Rosalyn Drexler",
+          "qid": "Q7367281"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Rosalyn Drexler",
+          "qid": "Q7367281"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Home_Movies_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q16980359"
+      },
+      "summary": {
+        "text": "Home Movies is a one-act musical written by Rosalyn Drexler, with lyrics by Drexler and music by Al Carmines. The musical ran Off-Off-Broadway in 1964 and won the Obie Award, Distinguished Plays and Best Music.",
+        "source_url": "https://en.wikipedia.org/wiki/Home_Movies_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "marry-me-a-little": {
+      "slug": "marry-me-a-little",
+      "title": "Marry Me a Little",
+      "qid": "Q16981745",
+      "enwiki": "Marry Me a Little (musical)",
+      "composers": [
+        {
+          "name": "Stephen Sondheim",
+          "qid": "Q153579",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12430"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Stephen Sondheim",
+          "qid": "Q153579",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12430"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Marry_Me_a_Little_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q16981745"
+      },
+      "summary": {
+        "text": "Marry Me a Little is a musical with lyrics and music by Stephen Sondheim, conceived by Craig Lucas and Norman René. The revue sets songs cut from Sondheim's better-known musicals, as well as from his then-unproduced musical Saturday Night,  to a dialogue-free plot about two lonely New York single people, who express their passions, fantasies and longings during an evening in their separate one-room apartments. For the purposes of a unique stage convention, both apartments are merged into one and both characters inhabit the same space. Although they never meet during the course of the musical, they occasionally interact as fantasized romantic companions or counterpoints.",
+        "source_url": "https://en.wikipedia.org/wiki/Marry_Me_a_Little_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "my-maryland": {
+      "slug": "my-maryland",
+      "title": "My Maryland",
+      "qid": "Q6946015",
+      "enwiki": "My Maryland",
+      "composers": [
+        {
+          "name": "Sigmund Romberg",
+          "qid": "Q742945",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8686"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Dorothy Donnelly",
+          "qid": "Q5298385",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5112"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Dorothy Donnelly",
+          "qid": "Q5298385",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5112"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6390",
+        "wikipedia": "https://en.wikipedia.org/wiki/My_Maryland",
+        "wikidata": "https://www.wikidata.org/wiki/Q6946015"
+      },
+      "summary": {
+        "text": "My Maryland is a \"musical romance\" with book and lyrics by Dorothy Donnelly and music by Sigmund Romberg, based on the play Barbara Frietchie by Clyde Fitch. The musical takes place in the towns of Frederick, Maryland and Hagerstown, Maryland.",
+        "source_url": "https://en.wikipedia.org/wiki/My_Maryland",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "sherry": {
+      "slug": "sherry",
+      "title": "Sherry!",
+      "qid": "Q7495377",
+      "enwiki": "Sherry!",
+      "composers": [
+        {
+          "name": "Laurence Rosenthal",
+          "qid": "Q732252",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12326"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "James Lipton",
+          "qid": "Q937232",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6611"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "James Lipton",
+          "qid": "Q937232",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6611"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7946",
+        "wikipedia": "https://en.wikipedia.org/wiki/Sherry!",
+        "wikidata": "https://www.wikidata.org/wiki/Q7495377"
+      },
+      "summary": {
+        "text": "Sherry! is a musical with a book and lyrics by James Lipton and music by Laurence Rosenthal. The musical is based on the 1939 George S. Kaufman-Moss Hart play The Man Who Came to Dinner.\nIn 1967, following a short run on Broadway and poor reviews, the score to Sherry! was apparently lost, until being rediscovered at the Library of Congress more than thirty years later. A studio recording based on the rediscovered score was released in 2004.",
+        "source_url": "https://en.wikipedia.org/wiki/Sherry!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "sophisticated-ladies": {
+      "slug": "sophisticated-ladies",
+      "title": "Sophisticated Ladies",
+      "qid": "Q1146114",
+      "enwiki": "Sophisticated Ladies",
+      "composers": [
+        {
+          "name": "Duke Ellington",
+          "qid": "Q4030",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11631"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Donald McKayle",
+          "qid": "Q5294846",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/89437"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8190",
+        "wikipedia": "https://en.wikipedia.org/wiki/Sophisticated_Ladies",
+        "wikidata": "https://www.wikidata.org/wiki/Q1146114"
+      },
+      "summary": {
+        "text": "Sophisticated Ladies is a musical revue based on the music of Duke Ellington. The revue ran on Broadway in 1981–83, earning two awards and eight nominations at the 35th Tony Awards.",
+        "source_url": "https://en.wikipedia.org/wiki/Sophisticated_Ladies",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "sugar-babies": {
+      "slug": "sugar-babies",
+      "title": "Sugar Babies",
+      "qid": "Q7634746",
+      "enwiki": "Sugar Babies (musical)",
+      "composers": [
+        {
+          "name": "Jimmy McHugh",
+          "qid": "Q1283031",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12130"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Dorothy Fields",
+          "qid": "Q435241",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5113"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8396",
+        "wikipedia": "https://en.wikipedia.org/wiki/Sugar_Babies_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7634746"
+      },
+      "summary": {
+        "text": "Sugar Babies is a musical revue conceived by Ralph G. Allen and Harry Rigby, with music by Jimmy McHugh, and lyrics by Dorothy Fields, Al Dubin and various others. The show is a tribute to the old burlesque era.  (The show's name is taken from one of many shows on the old Mutual Burlesque wheel of the Roaring Twenties.) First produced in 1979 on Broadway and running nearly three years, the revue attracted warm notices and was given subsequent touring productions.",
+        "source_url": "https://en.wikipedia.org/wiki/Sugar_Babies_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-bodyguard": {
+      "slug": "the-bodyguard",
+      "title": "The Bodyguard",
+      "qid": "Q7719011",
+      "enwiki": "The Bodyguard (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": "Adelphi Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/505154",
+        "official_site": "http://www.thebodyguardmusical.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Bodyguard_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7719011"
+      },
+      "summary": {
+        "text": "The Bodyguard is a 2012 stage musical with a book by Alexander Dinelaris, based on the 1992 film The Bodyguard, with the score featuring songs recorded by Whitney Houston including \"One Moment in Time\", \"I Wanna Dance with Somebody\" and her pop version of Dolly Parton's \"I Will Always Love You\". The show began previews at the Adelphi Theatre in London's West End, on 6 November 2012, and officially opened on 5 December 2012.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Bodyguard_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "this-is-the-army": {
+      "slug": "this-is-the-army",
+      "title": "This Is the Army",
+      "qid": "Q104792049",
+      "enwiki": "This Is the Army (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/This_Is_the_Army_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q104792049"
+      },
+      "summary": {
+        "text": "This Is The Army is an American musical revue in two acts, designed to boost morale in the U.S. during World War II, with a book by James McColl and music and lyrics by Irving Berlin. It was produced by the U.S. Army on Broadway in 1942, with a cast of U.S. soldiers, for the benefit of the Army Emergency Relief Fund.",
+        "source_url": "https://en.wikipedia.org/wiki/This_Is_the_Army_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "working": {
+      "slug": "working",
+      "title": "Working",
+      "qid": "Q8034891",
+      "enwiki": "Working (musical)",
+      "composers": [
+        {
+          "name": "Stephen Schwartz",
+          "qid": "Q542484",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/108290"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Stephen Schwartz",
+          "qid": "Q542484",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/108290"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Stephen Schwartz",
+          "qid": "Q542484",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/108290"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/9477",
+        "wikipedia": "https://en.wikipedia.org/wiki/Working_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q8034891"
+      },
+      "summary": {
+        "text": "Working is a musical with a book by Stephen Schwartz and Nina Faso, music by Schwartz, Craig Carnelia, Micki Grant, Mary Rodgers, and James Taylor, and lyrics by Schwartz, Carnelia, Grant, Taylor, and Susan Birkenhead.\nThe musical is based on the Studs Terkel book Working: People Talk About What They Do All Day and How They Feel About What They Do (1974), which has interviews with people from different regions and occupations.",
+        "source_url": "https://en.wikipedia.org/wiki/Working_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

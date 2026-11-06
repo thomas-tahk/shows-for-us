@@ -1,0 +1,457 @@
+{
+  "live": true,
+  "shows": {
+    "a-grand-night-for-singing": {
+      "slug": "a-grand-night-for-singing",
+      "title": "A Grand Night for Singing",
+      "qid": "Q4657144",
+      "enwiki": "A Grand Night for Singing",
+      "composers": [
+        {
+          "name": "Richard Rodgers",
+          "qid": "Q269094",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12311"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Oscar Hammerstein II",
+          "qid": "Q319693",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7965"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Walter Bobbie",
+          "qid": "Q7964331",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9015"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/10530",
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Grand_Night_for_Singing",
+        "wikidata": "https://www.wikidata.org/wiki/Q4657144"
+      },
+      "summary": {
+        "text": "A Grand Night for Singing is a musical revue showcasing the music of Richard Rodgers and the lyrics of Oscar Hammerstein II.   The show had an original cabaret production and a subsequent Broadway engagement where it was nominated for two Tony® Awards.\nFeaturing songs from Carousel, Oklahoma!, The King and I, South Pacific, Cinderella, The Sound of Music, Allegro, Me and Juliet, State Fair, Pipe Dream and Flower Drum Song, it originally was presented at Rainbow & Stars, the cabaret venue at The Rainbow Room restaurant atop Rockefeller Center.\nThe original production titled, \"A Grand Night For Singing!  The Rodgers & Hammerstein Revue Celebrating the 50th Anniversary of their Historic Collaboration,\" (www.AGrandNightForSinging.com) ran for 1 preview plus 60 performances from March 2, 1993 to April 10, 1993 at Rainbow & Stars where The New York Times called the show a \"radiant new revue\" and a \"musical masterstroke.\"  This original production starred Victoria Clark, Jason Graae, Martin Vidnovic, Lynne Wintersteller, and Karen Ziemba with musical direction by Fred Wells and direction by Walter Bobbie.  It was part of a ten year series of musical revues conceived and produced by Gregory Dawson, Steve Paul, and Scott Perrin which saluted Cole Porter, Rodgers & Hart (starring Elaine Stritch and Margaret Whiting), Irving Berlin (starring Kaye Ballard), the Gershwins (starring JoAnne Worley), Julie Styne, Lerner & Loewe, Leonard Bernstein, and the R&B and pop eras (starring Marianne Faithfull and Darlene Love).\nDuring the six week run at Rainbow & Stars, the United States Postmaster General introduced the Rodgers & Hammerstein 50th Anniversary commemorative postage stamp at a luncheon in The Rainbow Room.  At the start of that luncheon, the original surrey with the fringe on top with two white horses - as described in the lyric of the Broadway musical, Oklahoma!  - greeted guests at the Rockefeller Plaza entrance to The Rainbow Room.  The publicist for the show, David Lotz, created a notable press release for that occasion with the headline, \"Whoa!  Here Come Those High-Steppin' Strutters!\"  In conjunction with all the festivities, there was significant national press attention commemorating the anniversary.\nAfter 41 previews, the Broadway production, directed by Walter Bobbie and choreographed by Pamela Sousa, with vocal arrangements by Fred Wells and orchestrations by Michael Gibson and Jonathan Tunick, opened on November 17, 1993, at the Criterion Center Stage Right, where it ran for 52 performances. Victoria Clark, Jason Graae, Alyson Reed, Martin Vidnovic, and Lynne Wintersteller comprised the cast. Martin Vidnovic was replaced by Gregg Edelman on the cast recording and some later performances.\nThe Broadway engagement was nominated for two Tony Awards:  Best Musical and Best Book of a Musical.  It is the only production in Broadway history to be nominated for Best Book of a Musical that has no script - there are no spoken words.  It is also the only revue in history to be nominated for Best Book of a Musical since revues are generally not eligible for awards that require a narrative framework.  So, the nomination for Best Book of a Musical was in recognition of the sequence of songs.  The show was also nominated for the Drama Desk Award for Outstanding Revue.\nAn original cast archival recording of the Rainbow & Stars production is available at www.AGrandNightForSinging.com.  An original cast recording of the Broadway version was released by Varèse Sarabande.",
+        "source_url": "https://en.wikipedia.org/wiki/A_Grand_Night_for_Singing",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "big-river": {
+      "slug": "big-river",
+      "title": "Big River",
+      "qid": "Q4906210",
+      "enwiki": "Big River (musical)",
+      "composers": [
+        {
+          "name": "Roger Miller",
+          "qid": "Q712359",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12151"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Roger Miller",
+          "qid": "Q712359",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12151"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "William Hauptman",
+          "qid": "Q8011014",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6169"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Tony Award for Best Musical",
+          "qid": "Q1780176"
+        }
+      ],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2018",
+        "wikipedia": "https://en.wikipedia.org/wiki/Big_River_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4906210"
+      },
+      "summary": {
+        "text": "Big River: The Adventures of Huckleberry Finn is a musical with music and lyrics by Roger Miller, and a book by William Hauptman.\nBased on Mark Twain's classic 1884 novel, Adventures of Huckleberry Finn, it features music in the bluegrass and country styles in keeping with the setting of the novel. The 1985 Broadway production ran for more than 1,000 performances and remained one of the few very successful American musicals in the mid-1980s among the emerging successes coming from Great Britain. Big River won seven Tony Awards, including Best Musical.",
+        "source_url": "https://en.wikipedia.org/wiki/Big_River_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "fame": {
+      "slug": "fame",
+      "title": "Fame",
+      "qid": "Q959579",
+      "enwiki": "Fame (musical)",
+      "composers": [],
+      "lyricists": [
+        {
+          "name": "Jacques Levy",
+          "qid": "Q1675635",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6575"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Fame_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q959579"
+      },
+      "summary": {
+        "text": "Fame is a stage musical based on the 1980 musical film of the same name, with book by Jose Fernandez, music by Steve Margoshes and lyrics by Jacques Levy. Conceived and developed by David De Silva, it premiered in 1988 in Miami, Florida, and has spawned many stagings worldwide, including an Off-Broadway production at the Little Shubert Theatre from 2003 to 2004, under the title Fame on 42nd Street.\nDe Silva had produced the 1980 film about students at New York City's High School of Performing Arts. The critically and commercially successful film was followed by a six-season television series, and the musical. The musical is significantly rewritten from the previous adaptations, with an almost entirely new score except for the title Academy Award-winning song, \"Fame\". The film is referred to several times in the script and in two songs.\nIt tells the story of several students who attend the school, among them fame-obsessed Carmen, ambitious actress Serena, wisecracking comedian/bad boy Joe, quiet violinist Schlomo, \"talented but dyslexic\" dancer Tyrone, determined actor Nick, overweight dancer Mabel, and a serious dancer, Iris, from a poor family.",
+        "source_url": "https://en.wikipedia.org/wiki/Fame_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "floss": {
+      "slug": "floss",
+      "title": "Floss",
+      "qid": "Q19873284",
+      "enwiki": "Floss (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Floss_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q19873284"
+      },
+      "summary": {
+        "text": "Peter Dennis Blandford Townshend (; born 19 May 1945) is an English musician and songwriter. He is the co-founder, guitarist, keyboardist, second lead vocalist, and principal songwriter of the Who, one of the most influential rock bands of the 1960s and 1970s. His aggressive playing style, poetic songwriting techniques and authorship of two rock operas with the Who, as well as other projects, have earned him critical acclaim.\nTownshend has written more than 100 songs for 12 of the Who's studio albums. These include concept albums, the rock operas Tommy (1969) and Quadrophenia (1973), plus popular rock radio staples such as Who's Next (1971); as well as dozens more that appeared as non-album singles, bonus tracks on reissues, and tracks on rarities compilation albums such as Odds & Sods (1974). He has also written more than 100 songs that have appeared on his solo albums, as well as radio jingles and television theme songs.\nWhile known primarily as a guitarist, Townshend also plays keyboards, banjo, accordion, harmonica, ukulele, mandolin, violin, synthesiser, bass guitar, and drums; he is self-taught on all of these instruments and plays on his own solo albums, several Who albums, and as a guest contributor to an array of other artists' recordings. Townshend has also contributed to and authored many newspaper and magazine articles, book reviews, essays, books, and scripts, and he has collaborated as a lyricist and composer for many other musical acts.\nIn 1983, Townshend received the Brit Award for Lifetime Achievement and in 1990 he was inducted into the Rock and Roll Hall of Fame as a member of the Who. Townshend was ranked No. 3 in Dave Marsh's 1994 list of Best Guitarists in The New Book of Rock Lists. In 2001, he received a Grammy Lifetime Achievement Award as a member of the Who; and in 2008 he received Kennedy Center Honors. He was ranked No. 10 in Gibson.com's 2011 list of the top 50 guitarists, and No. 37 on Rolling Stone's 2023 list of 250 greatest guitarists of all time. He and Roger Daltrey received The George and Ira Gershwin Award for Lifetime Musical Achievement at UCLA on 21 May 2016.",
+        "source_url": "https://en.wikipedia.org/wiki/Floss_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "giant": {
+      "slug": "giant",
+      "title": "Giant",
+      "qid": "Q5558345",
+      "enwiki": "Giant (musical)",
+      "composers": [
+        {
+          "name": "Michael John LaChiusa",
+          "qid": "Q3308276",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13016"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Sybille Pearson",
+          "qid": "Q7659540",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8794"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Giant_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5558345"
+      },
+      "summary": {
+        "text": "Giant is a musical based on the 1952 Edna Ferber novel of the same name, with music and lyrics by Michael John LaChiusa and the book by Sybille Pearson. The musical premiered at the Signature Theatre in Arlington, Virginia in 2009. The story follows a ranch family in Texas over 30 years, and the effect of the oil boom. The musical premiered off-Broadway in 2012.",
+        "source_url": "https://en.wikipedia.org/wiki/Giant_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "guys-and-dolls": {
+      "slug": "guys-and-dolls",
+      "title": "Guys and Dolls",
+      "qid": "Q796988",
+      "enwiki": "Guys and Dolls",
+      "composers": [
+        {
+          "name": "Frank Loesser",
+          "qid": "Q966018",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5613"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Frank Loesser",
+          "qid": "Q966018",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5613"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Abe Burrows",
+          "qid": "Q318138",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3875"
+        },
+        {
+          "name": "Jo Swerling",
+          "qid": "Q369404",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6750"
+        }
+      ],
+      "premiere": {
+        "date": "1950",
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Laurence Olivier Awards",
+          "qid": "Q28470"
+        }
+      ],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4133",
+        "wikipedia": "https://en.wikipedia.org/wiki/Guys_and_Dolls",
+        "wikidata": "https://www.wikidata.org/wiki/Q796988"
+      },
+      "summary": {
+        "text": "Guys and Dolls is a musical with music and lyrics by Frank Loesser and book by Jo Swerling and Abe Burrows. It is based on \"The Idyll of Miss Sarah Brown\" (1933) and \"Blood Pressure\", which are two short stories by Damon Runyon, and also borrows characters and plot elements from other Runyon stories, such as \"Pick the Winner\".\nThe show premiered on Broadway on November 24, 1950, where it ran for 1,200 performances and won the Tony Award for Best Musical. The musical has had several revivals on both Broadway and the West End, as well as a 1955 film adaptation starring Frank Sinatra, Marlon Brando, Jean Simmons, and Vivian Blaine, who reprised her role of Adelaide from Broadway.\nGuys and Dolls is considered one of the greatest Broadway musicals. In 1998, Vivian Blaine, Sam Levene, Robert Alda and Isabel Bigley, along with the original Broadway cast of the 1950 Decca cast album, were \ninducted into the Grammy Hall of Fame.",
+        "source_url": "https://en.wikipedia.org/wiki/Guys_and_Dolls",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "illusion": {
+      "slug": "illusion",
+      "title": "Illusion",
+      "qid": "Q20874810",
+      "enwiki": "Illusion (musical)",
+      "composers": [
+        {
+          "name": "Martin Armiger",
+          "qid": "Q6774901"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Peter Carey",
+          "qid": "Q313254"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Illusion_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q20874810"
+      },
+      "summary": {
+        "text": "Illusion is an Australian rock musical by Peter Carey and Mike Mullins with songs by Carey and Martin Armiger, first performed at the Adelaide Festival of the Arts in 1986.",
+        "source_url": "https://en.wikipedia.org/wiki/Illusion_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "krampus": {
+      "slug": "krampus",
+      "title": "Krampus",
+      "qid": "Q22075136",
+      "enwiki": "Krampus (musical)",
+      "composers": [
+        {
+          "name": "Nils-Petter Ankarblom",
+          "qid": "Q5557328",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/506571"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "http://www.krampusthemusical.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Krampus_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q22075136"
+      },
+      "summary": {
+        "text": "Krampus, the \"Christmas Devil\" of Austrian and Bavarian folklore, has entered the popular culture of North America; Christian Jacobs notes that \"thanks to the Internet and YouTube, [Krampus] is now very much on America's Christmas radar.\" Tanya Basu interprets this as part of a \"growing movement of anti-Christmas celebrations\": a \"bah, humbug\" rejection of – or novel alternative to – mainstream festivities. Brian Joines of Image Comics suspects that the reason Krampus (specifically, as well as dark aspects of Christmas in general) has not been historically popularized in America is a social artifact resulting from \"the nature of how we view Christmas in this country, both as a big day for kids and as the birth of a big religious figurehead\". In some North American depictions, Krampus is an antihero who seeks to prevent children from becoming spoiled by rampant consumerism flowing from the economics of Christmas.",
+        "source_url": "https://en.wikipedia.org/wiki/Krampus_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "thalidomide-a-musical": {
+      "slug": "thalidomide-a-musical",
+      "title": "Thalidomide!! A Musical",
+      "qid": "Q7709662",
+      "enwiki": "Thalidomide!! A Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Thalidomide!!_A_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q7709662"
+      },
+      "summary": {
+        "text": "Thalidomide!! A Musical is a British musical written and composed by Mat Fraser, who was born with phocomelia as a result of the drug thalidomide being taken during his mother's pregnancy. Fraser and Anna Winslet play all the roles in the show.\nThe musical was developed with director Bill Bankes-Jones and premiered at the (London) Battersea Arts Centre's Octoberfest in 2005. It has since played across Britain and at festivals in Cardiff and Versailles, France.\nThe production tells the story of a love affair between Glyn, a thalidomide survivor (Fraser) and a non-disabled woman, Katie Crawford (Winslet), attracted by his phocomelia. Fraser calls the story a \"cartoon version\" of his own life. Winslet won the role in part because she did not shirk at an audition request to mimic Fraser himself.",
+        "source_url": "https://en.wikipedia.org/wiki/Thalidomide!!_A_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-connector": {
+      "slug": "the-connector",
+      "title": "The Connector",
+      "qid": "Q125912891",
+      "enwiki": "The Connector (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Connector_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q125912891"
+      },
+      "summary": {
+        "text": "The Connector is a stage musical with music and lyrics by Jason Robert Brown and a book by Jonathan Marc Sherman, from an original story by Daisy Prince. Set in the 1990s world of New York City journalism, the plot follows behind-the-scenes drama amongst staff of the fictional magazine The Connector, examining themes of journalistic integrity, gender inequality and plagiarism.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Connector_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-fix": {
+      "slug": "the-fix",
+      "title": "The Fix",
+      "qid": "Q7734309",
+      "enwiki": "The Fix (musical)",
+      "composers": [
+        {
+          "name": "Dana P. Rowe",
+          "qid": "Q5214803"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "John Dempsey",
+          "qid": "Q6229139",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/426184"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "John Dempsey",
+          "qid": "Q6229139",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/426184"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Fix_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7734309"
+      },
+      "summary": {
+        "text": "The Fix is a musical with book and lyrics by John Dempsey and music by Dana P. Rowe.  It concerns the career of a fictional U.S. politician who gets mixed up with the Mafia.\nIt premiered at London's Donmar Warehouse in 1997.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Fix_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-last-session": {
+      "slug": "the-last-session",
+      "title": "The Last Session",
+      "qid": "Q7746005",
+      "enwiki": "The Last Session (musical)",
+      "composers": [
+        {
+          "name": "Steve Schalchlin",
+          "qid": "Q7613858"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Steve Schalchlin",
+          "qid": "Q7613858"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Jim Brochu",
+          "qid": "Q13382513",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/487996"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Last_Session_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7746005"
+      },
+      "summary": {
+        "text": "The Last Session is a musical with the book by Jim Brochu and the music and lyrics by Steve Schalchlin, with additional lyrics by John Bettis and Marie Cain.\nThe musical is about a singer/songwriter who has decided to commit suicide to end his battle with AIDS, but only after one last recording session in the studio. The musical was presented Off-Broadway in 1997.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Last_Session_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-secret-of-my-success": {
+      "slug": "the-secret-of-my-success",
+      "title": "The Secret of My Success",
+      "qid": "Q107419102",
+      "enwiki": "The Secret of My Success (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Secret_of_My_Success_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q107419102"
+      },
+      "summary": {
+        "text": "The Secret of My Success is a musical comedy play based on the 1987 movie of the same name starring Michael J. Fox. Music is by Michael Mahler and Alan Schmuckler and book by Gordon Greenberg and Steve Rosen.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Secret_of_My_Success_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

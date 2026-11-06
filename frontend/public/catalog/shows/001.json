@@ -1,0 +1,604 @@
+{
+  "live": true,
+  "shows": {
+    "bella-an-american-tall-tale": {
+      "slug": "bella-an-american-tall-tale",
+      "title": "Bella: An American Tall Tale",
+      "qid": "Q67326043",
+      "enwiki": "Bella: An American Tall Tale",
+      "composers": [
+        {
+          "name": "Kirsten Childs",
+          "qid": "Q31552273",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/77883"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2016-09-22",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Bella%3A_An_American_Tall_Tale",
+        "wikidata": "https://www.wikidata.org/wiki/Q67326043"
+      },
+      "summary": {
+        "text": "Bella: An American Tall Tale is a stage musical with book, music, and lyrics by Kirsten Childs. The musical is set in the 1870s and tells a tale of the American frontier from the perspective of an African-American woman.\nThe musical originally premiered at Dallas Theatre Center on September 22, 2016, before its Off-Broadway premiere at Playwrights Horizons on May 19, 2017. The Off-Broadway production was co-presented by Playwrights Horizons and Dallas Theatre Center.",
+        "source_url": "https://en.wikipedia.org/wiki/Bella%3A_An_American_Tall_Tale",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "dusty-the-dusty-springfield-musical": {
+      "slug": "dusty-the-dusty-springfield-musical",
+      "title": "Dusty – The Dusty Springfield Musical",
+      "qid": "Q85845846",
+      "enwiki": "Dusty – The Dusty Springfield Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "http://www.dustyspringfieldmusical.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/Dusty_%E2%80%93_The_Dusty_Springfield_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q85845846"
+      },
+      "summary": {
+        "text": "Dusty – The Dusty Springfield Musical is a jukebox musical by Jonathan Harvey based on the life and music of singer Dusty Springfield, featuring songs sung by Springfield.",
+        "source_url": "https://en.wikipedia.org/wiki/Dusty_%E2%80%93_The_Dusty_Springfield_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "everybody-s-welcome": {
+      "slug": "everybody-s-welcome",
+      "title": "Everybody's Welcome",
+      "qid": "Q16974679",
+      "enwiki": "Everybody's Welcome",
+      "composers": [
+        {
+          "name": "Sammy Fain",
+          "qid": "Q742896",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11649"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Irving Kahal",
+          "qid": "Q6074648",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12998"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": "1931-10-31",
+        "venue": "Shubert Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3392",
+        "wikipedia": "https://en.wikipedia.org/wiki/Everybody's_Welcome",
+        "wikidata": "https://www.wikidata.org/wiki/Q16974679"
+      },
+      "summary": {
+        "text": "Everybody's Welcome is a musical comedy with a book by Lambert Carroll, lyrics by Irving Kahal, and music by Sammy Fain. The musical has two acts and a prologue. Based on Up Pops the Devil by Frances Goodrich and Albert Hackett, the musical's plot centers on an un-married couple, Ann Cathway and Steve Merrick, living in Greenwich Village. The musical is best known for originating the song \"As Time Goes By\", with music and lyrics by Herman Hupfeld. The song was part of the \"additional material\" provided for the musical by songwriters other than Kahal and Fain. It is the only music from this work that has not been lost.\nThe musical ran at the Shubert Theater in New York City from October 31, 1931, to February 13, 1932, for a total of 139 performances.  The musical starred Harriette Lake as Ann Cathway, Oscar Shaw as Steve Merrick, Ann Pennington as Louella Carroll, Jack Sheehan as Biny Hatfield and Frances Williams as Polly Bascom.  It was directed by William Mollison and choreographed by William Holbrook.",
+        "source_url": "https://en.wikipedia.org/wiki/Everybody's_Welcome",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "harmony": {
+      "slug": "harmony",
+      "title": "Harmony",
+      "qid": "Q118903200",
+      "enwiki": "Harmony (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Harmony_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q118903200"
+      },
+      "summary": {
+        "text": "Harmony is a stage musical with music by Barry Manilow and book and lyrics by Bruce Sussman. The musical tells the true story of the Comedian Harmonists, an ensemble of six young men in 1920s Germany who took the world by storm with their blend of sophisticated close harmonies and uproarious stage antics, until their inclusion of Jewish singers put them on a collision course with history.\nThe musical premiered at La Jolla Playhouse in the Mandell Weiss Theatre, in 1997. A planned Broadway production was slated for 2004, but due to lack of funds, it was ultimately canceled. The production opened in Atlanta in 2013, and Los Angeles in 2014, before an Off-Broadway production opened in April 2022. A Broadway transfer opened in November 2023 starring Chip Zien and Sierra Boggess. It closed on February 4, 2024.",
+        "source_url": "https://en.wikipedia.org/wiki/Harmony_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "la-hija-de-juan-simon": {
+      "slug": "la-hija-de-juan-simon",
+      "title": "La hija de Juan Simón",
+      "qid": "Q27044586",
+      "enwiki": "La hija de Juan Simón",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/La_hija_de_Juan_Sim%C3%B3n",
+        "wikidata": "https://www.wikidata.org/wiki/Q27044586"
+      },
+      "summary": {
+        "text": "La hija de Juan Simón (Juan Simón's Daughter) is a musical play by Nemesio M. Sobrevila, which has been made into two Spanish films. It is also the name of the title track, and the song has been recorded by numerous artists such as Leonardo Favio and Rosalía.\nThe first film, directed by José Luis Sáenz de Heredia, was released in 1935 and starred Angelillo, Pilar Muñoz and Manuel Arbó. Luis Buñuel was the executive producer for Filmófono, and had a small role as an actor. One reviewer from Cine Español opined of the 1935 film, \"It is essential to highlight the direction of La hija de Juan Simón as a decisive point in the creation of Spanish cinematic technique\". The film was a major commercial success. The second film was released in 1957, directed by Gonzalo Delgras, with Antonio Molina in the title role.",
+        "source_url": "https://en.wikipedia.org/wiki/La_hija_de_Juan_Sim%C3%B3n",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "los-40-el-musical": {
+      "slug": "los-40-el-musical",
+      "title": "Los 40 el Musical",
+      "qid": "Q118904934",
+      "enwiki": "Los 40 el Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Los_40_el_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q118904934"
+      },
+      "summary": {
+        "text": "Los 40 el Musical is a Spanish jukebox musical, inspired by Cadena SER's Los 40 Principales, with a book by Daniel Sánchez Arévalo. The show's music is drawn from songs that have been in Spain's Top 40. The show debuted in Spain in October 2009, and in Mexico in 2018.",
+        "source_url": "https://en.wikipedia.org/wiki/Los_40_el_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "love-story": {
+      "slug": "love-story",
+      "title": "Love Story",
+      "qid": "Q6691370",
+      "enwiki": "Love Story (musical)",
+      "composers": [
+        {
+          "name": "Howard Goodall",
+          "qid": "Q943914",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11763"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Love_Story_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6691370"
+      },
+      "summary": {
+        "text": "Love Story is a musical written by Stephen Clark with music by Howard Goodall and lyrics by Stephen Clark and Goodall. It is inspired by Erich Segal's best-selling 1970 novel of the same name. Love Story transferred to the Duchess Theatre in the West End in December 2010 following a critically acclaimed sell-out season at the Chichester Festival Theatre.",
+        "source_url": "https://en.wikipedia.org/wiki/Love_Story_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "lovelace-a-rock-musical": {
+      "slug": "lovelace-a-rock-musical",
+      "title": "Lovelace: A Rock Musical",
+      "qid": "Q6692126",
+      "enwiki": "Lovelace: A Rock Musical",
+      "composers": [
+        {
+          "name": "Anna Waronker",
+          "qid": "Q4767600"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Lovelace%3A_A_Rock_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q6692126"
+      },
+      "summary": {
+        "text": "Lovelace: A Rock Musical is a rock musical about the life of adult film star and women's liberation advocate, Linda Lovelace.  The book, music, and lyrics are by Anna Waronker (that dog.) and Charlotte Caffey (The Go-Go's), with original concept and lyrics by Jeffery Leonard Bowman.  The show debuted with a six-month run at the Hayworth Theatre (Los Angeles) in 2008.  A new production of Lovelace: A Rock Musical made its United Kingdom debut at The Edinburgh Festival Fringe [1] in August 2010.",
+        "source_url": "https://en.wikipedia.org/wiki/Lovelace%3A_A_Rock_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "midnight": {
+      "slug": "midnight",
+      "title": "Midnight",
+      "qid": "Q137177366",
+      "enwiki": "Midnight (musical)",
+      "composers": [
+        {
+          "name": "Todrick Hall",
+          "qid": "Q16205820"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Todrick Hall",
+          "qid": "Q16205820"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Midnight_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q137177366"
+      },
+      "summary": {
+        "text": "Midnight is a Sung-through musical, with a book, music and lyrics by Todrick Hall. It premiered Off-Broadway in September 2026, at the Daryl Roth Theatre.",
+        "source_url": "https://en.wikipedia.org/wiki/Midnight_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "once-upon-a-time-at-the-adelphi": {
+      "slug": "once-upon-a-time-at-the-adelphi",
+      "title": "Once Upon a Time at the Adelphi",
+      "qid": "Q7091802",
+      "enwiki": "Once Upon a Time at the Adelphi",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Once_Upon_a_Time_at_the_Adelphi",
+        "wikidata": "https://www.wikidata.org/wiki/Q7091802"
+      },
+      "summary": {
+        "text": "Once Upon a Time at the Adelphi is a musical written by Phil Willmott and Elliot Davis. It received its world premiere at the Liverpool Playhouse, England from June to August 2008. The production starred Julie Atherton and Simon Bailey, was directed by Phil Willmott with musical direction and arrangements by Elliot Davis, choreography by Andrew Wright, associate musical direction and additional arrangements by Mark Collins, set and costume design by Christopher Woods and sound design by Jason Barnes.\nIt was written and produced for the Liverpool '08 Capital of Culture celebrations and featured a professional cast of principals and an ensemble from the Liverpool Institute for Performing Arts.",
+        "source_url": "https://en.wikipedia.org/wiki/Once_Upon_a_Time_at_the_Adelphi",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "paradise-found": {
+      "slug": "paradise-found",
+      "title": "Paradise Found",
+      "qid": "Q7134271",
+      "enwiki": "Paradise Found (musical)",
+      "composers": [
+        {
+          "name": "Johann Strauss II",
+          "qid": "Q83309",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11185"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Richard Nelson",
+          "qid": "Q7328024",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8318"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Paradise_Found_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7134271"
+      },
+      "summary": {
+        "text": "Paradise Found is a musical based on the Joseph Roth novel Die Geschichte von der 1002. Nacht (The Tale of the 1002nd Night). The musical's book is by Richard Nelson, with lyrics by Ellen Fitzhugh set to the music of Johann Strauss II. It premiered in 2010 at London's Menier Chocolate Factory in a production co-directed by Hal Prince and Susan Stroman.",
+        "source_url": "https://en.wikipedia.org/wiki/Paradise_Found_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "people-are-wrong": {
+      "slug": "people-are-wrong",
+      "title": "People Are Wrong!",
+      "qid": "Q7165861",
+      "enwiki": "People Are Wrong!",
+      "composers": [],
+      "lyricists": [
+        {
+          "name": "Robin Goldwasser",
+          "qid": "Q7352422"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": "2002",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "https://www.peoplearewrong.net",
+        "wikipedia": "https://en.wikipedia.org/wiki/People_Are_Wrong!",
+        "wikidata": "https://www.wikidata.org/wiki/Q7165861"
+      },
+      "summary": {
+        "text": "People Are Wrong! is a 2004 Off-Broadway musical written by Robin Goldwasser and Julia Greenberg, and stars John Flansburgh, Robin Goldwasser's husband, of the band They Might Be Giants. It played Off-Broadway at the Vineyard Theatre from October 22, 2004 until December 11, 2004. The production starred John Flansburgh, Erin Hill, David Driver, Robin Goldwasser, Chris Anderson and Maggie Moore.\nThe show tells the story of a young New York couple who move to the country upstate and are tormented by Xanthus, a cult leader posing as a gardener/landscape artist. The story is told entirely in music, making this musical a rock opera.",
+        "source_url": "https://en.wikipedia.org/wiki/People_Are_Wrong!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "sa-som-i-himmelen": {
+      "slug": "sa-som-i-himmelen",
+      "title": "Så som i himmelen",
+      "qid": "Q60042838",
+      "enwiki": "Så som i himmelen (musical)",
+      "composers": [
+        {
+          "name": "Fredrik Kempe",
+          "qid": "Q2418625"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "http://www.sasomihimmelen.se/",
+        "wikipedia": "https://en.wikipedia.org/wiki/S%C3%A5_som_i_himmelen_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q60042838"
+      },
+      "summary": {
+        "text": "Så som i himmelen is a 2018 musical with music and lyrics by Carin Pollak and Fredrik Kempe and book by Kay Pollak, Edward af Sillen and Carin Pollak and originally directed by Markus Virta. The story is based on the 2004 Swedish movie As It Is in Heaven by Kay Pollak. It tells the story of Daniel Daréus, a successful and world renowned conductor whose life aspiration is to create music that will open people's hearts. After suffering heart attack, he travels back to his hometown of Norrland in the far north of Sweden. Though resistant at first, he begins working with the local choir. They in return help him fix his outlook on life through community spirit and the love of music.\nSå som i himmelen premiered at the Oscarsteatern in Stockholm, opening to five star reviews. The original cast starred Philip Jalmelid as Daniel, Malena Ernman as Gabriella, Björn Kjellman as Arne, Anders Ekborg as Stig and Tuva B Larsen as Lena. Productions have also been staged in Norway Finland, Austria and Iceland.",
+        "source_url": "https://en.wikipedia.org/wiki/S%C3%A5_som_i_himmelen_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-circus-girl": {
+      "slug": "the-circus-girl",
+      "title": "The Circus Girl",
+      "qid": "Q7723091",
+      "enwiki": "The Circus Girl",
+      "composers": [
+        {
+          "name": "Ivan Caryll",
+          "qid": "Q3156080",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11499"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Harry Greenbank",
+          "qid": "Q5669257",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12917"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "James T. Tanner",
+          "qid": "Q6143978",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6636"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Circus_Girl",
+        "wikidata": "https://www.wikidata.org/wiki/Q7723091"
+      },
+      "summary": {
+        "text": "The Circus Girl is a Edwardian musical comedy in two acts with a book by James T. Tanner and Walter Apllant (Palings), lyrics by Harry Greenbank and Adrian Ross, music by Ivan Caryll, and additional music by Lionel Monckton.\nThe musical was produced at George Edwardes's Gaiety Theatre, beginning 5 December 1896, and ran for a very successful 497 performances.  It starred Seymour Hicks as Dick Capel and his wife Ellaline Terriss as Dora Wemyss.  Edmund Payne and Arthur Williams also appeared.  The show also had a successful New York run at two theatres in 1897 for a total of 172 performances. It was produced by Charles Frohman. Mabelle Gilman Corey played Lucille and Nancy McIntosh played La Favorita in New York.\nSet in Paris, the plot concerns a group of English tourists who get mixed up with a circus troupe.  Two of the famous songs from the show are \"A Simple Little String\" and \"The Way to Treat a Lady\".",
+        "source_url": "https://en.wikipedia.org/wiki/The_Circus_Girl",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-fields-of-ambrosia": {
+      "slug": "the-fields-of-ambrosia",
+      "title": "The Fields of Ambrosia",
+      "qid": "Q7733731",
+      "enwiki": "The Fields of Ambrosia",
+      "composers": [],
+      "lyricists": [
+        {
+          "name": "Joel Higgins",
+          "qid": "Q15513007",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/70827"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Joel Higgins",
+          "qid": "Q15513007",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/70827"
+        }
+      ],
+      "premiere": {
+        "date": "1993",
+        "venue": "George Street Playhouse"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Fields_of_Ambrosia",
+        "wikidata": "https://www.wikidata.org/wiki/Q7733731"
+      },
+      "summary": {
+        "text": "The Fields of Ambrosia is a musical written by Joel Higgins and Martin Silvestri. It was performed in the George Street Playhouse in New Brunswick, New Jersey in 1993 and it was directed by Gregory Hurst, choreographed by Lynne Taylor-Corbett, staged by Hurst, and set design by Deborah Jasien. The cast included Christine Andreas as Gretchen Herzallerliebst, Higgins as Jonas Candide, Peter Samuel as Warden Brodsky, and Eddie Korbich as the mortician.\nThe 1996 production premiered at the Aldwych Theatre in London and was directed by Hurst again, with Mark Warman as musical director and a cast that included Andreas as Gretchen Herzallerliebst, Higgins as Jonas Candide, Michael Fenton Stevens as Doc, Mark Heenehan as Malcolm Piquant, Marc Joseph as Jimmy Crawford, and Roger Leach as Warden Brodsky. The show closed after only 23 performances.\nThe musical is based on the 1970 film The Traveling Executioner, The New York Times said The Fields of Ambrosia is a black comedy and contains violence, sex, romance, and sentiment. It takes place in a deep rural town in the American South in 1918.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Fields_of_Ambrosia",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-great-american-trailer-park-musical": {
+      "slug": "the-great-american-trailer-park-musical",
+      "title": "The Great American Trailer Park Musical",
+      "qid": "Q7737647",
+      "enwiki": "The Great American Trailer Park Musical",
+      "composers": [
+        {
+          "name": "David Nehls",
+          "qid": "Q41690337"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Great_American_Trailer_Park_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q7737647"
+      },
+      "summary": {
+        "text": "The Great American Trailer Park Musical is a two-act musical, written by David Nehls and Betsy Kelso. It explores the relationships between the tenants at the Armadillo Acres Trailer Park in Starke, Florida, particularly between Pippi, \"the stripper on the run,\" the Dr. Phil-loving agoraphobic, Jeannie, and Jeannie's tollbooth-collector husband, Norbert.  It was performed in the first annual New York Music Theater Festival in 2004 and Off-Broadway in 2005.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Great_American_Trailer_Park_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-heart": {
+      "slug": "the-heart",
+      "title": "The Heart",
+      "qid": "Q140306860",
+      "enwiki": "The Heart (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Heart_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q140306860"
+      },
+      "summary": {
+        "text": "The Heart is a musical with a book by Kait Kerrigan and music by Ian and Anne Eisendrath with additional lyrics by Kerrigan. The musical is based on the 2014 French language novel Mend the Living (Réparer les vivants) by Maylis de Kerangal.\nThe musical had its world premiere on August 19, 2025, at the La Jolla Playhouse and will transfer Off-Broadway in the fall of 2026 as part of the Roundabout Theatre Company season at the Laura Pels Theatre.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Heart_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "twisted": {
+      "slug": "twisted",
+      "title": "Twisted",
+      "qid": "Q16927872",
+      "enwiki": "Twisted (musical)",
+      "composers": [
+        {
+          "name": "A.J. Holmes",
+          "qid": "Q19281532",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/496075"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": "Greenhouse Theater Center"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Twisted_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q16927872"
+      },
+      "summary": {
+        "text": "Twisted: The Untold Story of a Royal Vizier is a musical with music by A. J. Holmes, lyrics by Kaley McMahon, and a book by Matt Lang, Nick Lang, and Eric Kahn Gale, first produced by StarKid Productions.\nA revisionist parody of the 1992 film Aladdin, the musical tells the film's story from the point of view of the film's villain, Jafar (spelled \"Ja'far\" in all official materials), in a nod to the musical Wicked, which told the familiar story of The Wonderful Wizard of Oz from the point of view of The Wicked Witch of the West. In addition to Aladdin and Wicked, the musical also parodies several other Disney films and stage musicals, as well as the history of The Walt Disney Company.\nTwisted opened in Chicago's Greenhouse Theatre on July 4, 2013, and closed on July 28, 2013, as part of a limited run. The original production was directed by Brian Holden. The group put the entire musical up on YouTube on November 27, 2013. The musical's cast recording debuted at No. 63 on the American iTunes Top 100 albums chart.",
+        "source_url": "https://en.wikipedia.org/wiki/Twisted_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "two-little-girls-in-blue": {
+      "slug": "two-little-girls-in-blue",
+      "title": "Two Little Girls in Blue",
+      "qid": "Q7859056",
+      "enwiki": "Two Little Girls in Blue",
+      "composers": [],
+      "lyricists": [
+        {
+          "name": "Ira Gershwin",
+          "qid": "Q61059",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12885"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Frederick J. Jackson",
+          "qid": "Q5498109",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5658"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8957",
+        "wikipedia": "https://en.wikipedia.org/wiki/Two_Little_Girls_in_Blue",
+        "wikidata": "https://www.wikidata.org/wiki/Q7859056"
+      },
+      "summary": {
+        "text": "Two Little Girls in Blue is a musical theatre work composed by Paul Lannin and Vincent Youmans, with lyrics primarily by Ira Gershwin (under the pseudonym \"Arthur Francis\") and a libretto by Fred Jackson. The musical takes place aboard the S.S. Empress and in India. The musical premiered at George M. Cohan's Theatre on Broadway on May 3, 1921, and closed on August 27 of the same year.",
+        "source_url": "https://en.wikipedia.org/wiki/Two_Little_Girls_in_Blue",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "wakaa-the-musical": {
+      "slug": "wakaa-the-musical",
+      "title": "Wakaa! The Musical",
+      "qid": "Q118903339",
+      "enwiki": "Wakaa! The Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Wakaa!_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q118903339"
+      },
+      "summary": {
+        "text": "Wakaa! The Musical is a Nigerian musical written by Tunde Babalola and produced by Bolanle Austen-Peters. The show follows four young adults after they graduate from university.",
+        "source_url": "https://en.wikipedia.org/wiki/Wakaa!_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

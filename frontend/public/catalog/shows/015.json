@@ -1,0 +1,714 @@
+{
+  "live": true,
+  "shows": {
+    "ain-t-misbehavin": {
+      "slug": "ain-t-misbehavin",
+      "title": "Ain't Misbehavin'",
+      "qid": "Q4697240",
+      "enwiki": "Ain't Misbehavin' (musical)",
+      "composers": [
+        {
+          "name": "Fats Waller",
+          "qid": "Q310476",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12543"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1425",
+        "wikipedia": "https://en.wikipedia.org/wiki/Ain't_Misbehavin'_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4697240"
+      },
+      "summary": {
+        "text": "Ain't Misbehavin' is a musical revue with a book by Murray Horwitz and Richard Maltby Jr., and music by various composers and lyricists as arranged and orchestrated by Luther Henderson. It is named after the song by Fats Waller (with Harry Brooks and Andy Razaf), \"Ain't Misbehavin'\".\nThe musical is a tribute to the music of Waller (1904–1943), who composed in a time when Manhattan nightclubs such as the Cotton Club and the Savoy Ballroom were the playgrounds of high society and Lenox Avenue dives were filled with piano players banging out the new beat known as swing. Five performers present an evening of rowdy, raunchy, and humorous songs that encapsulate the various moods of the era and reflect Waller's view of life as a journey meant for pleasure and play.",
+        "source_url": "https://en.wikipedia.org/wiki/Ain't_Misbehavin'_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "badjelly-s-bad-christmas": {
+      "slug": "badjelly-s-bad-christmas",
+      "title": "Badjelly's Bad Christmas",
+      "qid": "Q4840983",
+      "enwiki": "Badjelly's Bad Christmas",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Badjelly's_Bad_Christmas",
+        "wikidata": "https://www.wikidata.org/wiki/Q4840983"
+      },
+      "summary": {
+        "text": "Badjelly's Bad Christmas was a musical created and performed by the Chickenshed Theatre Company, based on the works of Spike Milligan. It was directed by Mary Ward and Louise Perry, and the writer was Dave Carey. \nThe show follows the journey of two arguing sisters, Kate and Laura, who go to visit their Grandad for Christmas after they push their mother to the verge of mental breakdown. When they arrive at their Grandad's house they realise that he has a new girlfriend; his own wife died two years previously. His new girlfriend, who claims she is Barbara Jelly, is in fact the evil witch Badjelly.\nThe show was fully interpreted with British Sign Language by on stage signers, who were fully included in the action, and on some of the performances the show was captioned for the deaf and hard of hearing. It ran from 1 December 2010 until 15 January 2011.",
+        "source_url": "https://en.wikipedia.org/wiki/Badjelly's_Bad_Christmas",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "baghdaddy": {
+      "slug": "baghdaddy",
+      "title": "Baghdaddy",
+      "qid": "Q29832309",
+      "enwiki": "Baghdaddy",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Baghdaddy",
+        "wikidata": "https://www.wikidata.org/wiki/Q29832309"
+      },
+      "summary": {
+        "text": "Baghdaddy, now titled Who's Your Baghdaddy, or How I Started the Iraq War, is a satirical musical comedy stage play with music and book by Marshall Paillet, lyrics and book by A. D. Penedo, based on an unproduced screenplay by J. T. Allen, and produced by Charlie Fink. The musical is based on historical events leading up to the 2003 invasion of Iraq by the United States, and focuses on how the CIA and BND (German intelligence service) provided the Bush administration with a justification for invading Iraq.\nBaghdaddy was produced off-off-Broadway at The Actors' Temple in 2015. The production was critically acclaimed, and was dubbed a Critic's Pick by The New York Times. A new production opened off-Broadway at the St. Luke's Theatre on May 1, 2017.\nWho's Your Baghdaddy, or How I Started the Iraq War, was produced in Australia in 2020 and streamed live online during the COVID-19 pandemic.",
+        "source_url": "https://en.wikipedia.org/wiki/Baghdaddy",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "blair-on-broadway": {
+      "slug": "blair-on-broadway",
+      "title": "Blair on Broadway",
+      "qid": "Q16190163",
+      "enwiki": "Blair on Broadway",
+      "composers": [],
+      "lyricists": [
+        {
+          "name": "Iain Hollingshead",
+          "qid": "Q5980475"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Iain Hollingshead",
+          "qid": "Q5980475"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Blair_on_Broadway",
+        "wikidata": "https://www.wikidata.org/wiki/Q16190163"
+      },
+      "summary": {
+        "text": "Blair on Broadway is a satirical musical based on the political career (from 1997 to 2007) of former British Prime Minister Tony Blair. The words and lyrics were written by journalist and novelist Iain Hollingshead, with music by journalist Timothy Muller.",
+        "source_url": "https://en.wikipedia.org/wiki/Blair_on_Broadway",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "chess": {
+      "slug": "chess",
+      "title": "Chess",
+      "qid": "Q843284",
+      "enwiki": "Chess (musical)",
+      "composers": [
+        {
+          "name": "Björn Ulvaeus",
+          "qid": "Q179682",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12514"
+        },
+        {
+          "name": "Benny Andersson",
+          "qid": "Q214582",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11314"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Tim Rice",
+          "qid": "Q298295",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8890"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Tim Rice",
+          "qid": "Q298295",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8890"
+        }
+      ],
+      "premiere": {
+        "date": "1984-10-27",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2530",
+        "wikipedia": "https://en.wikipedia.org/wiki/Chess_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q843284"
+      },
+      "summary": {
+        "text": "Chess is a 1986 musical with music by Benny Andersson and Björn Ulvaeus of the pop group ABBA, lyrics by Ulvaeus and Tim Rice, and book by Rice. The story involves a politically charged, Cold War–era chess tournament between two grandmasters, one American and the other Soviet, and their fight over a woman who manages one and falls in love with the other. Although the protagonists were not intended to represent any real individuals, the character of the American grandmaster was loosely based on Bobby Fischer, while elements of the story may have been inspired by the chess careers of Russian grandmasters Viktor Korchnoi and Anatoly Karpov.\nChess allegorically reflected the Cold War tensions present in the 1980s. The musical has been referred to as a metaphor for the Cold War, with the insinuation that the Cold War is itself a manipulative game. Released and staged at the height of the strong anti-communist agenda that came to be known as the \"Reagan Doctrine\", Chess addressed and satirized the hostility of the international political atmosphere of the 1980s.\nAs with other productions such as Jesus Christ Superstar and Evita—both of which Rice developed with Andrew Lloyd Webber—a highly successful concept album was released prior to the first theatrical production in order to raise money. In the case of Chess, the concept album was released in late 1984 while the show opened in 1986 in London's West End, where it played for three years. A much-altered US version premiered on Broadway in 1988 with a book by Richard Nelson, but survived only for two months. Chess is frequently revised for new productions, many of which try to merge elements from both the British and American versions, but was not revived in the West End until 2019. Chess was revived on Broadway in 2025 with a new book by Danny Strong, and it closed on June 21, 2026. \nChess placed seventh in a BBC Radio 2 listener poll of the UK's \"Number One Essential Musicals\".",
+        "source_url": "https://en.wikipedia.org/wiki/Chess_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "days-of-wine-and-roses": {
+      "slug": "days-of-wine-and-roses",
+      "title": "Days of Wine and Roses",
+      "qid": "Q119716547",
+      "enwiki": "Days of Wine and Roses (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Days_of_Wine_and_Roses_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q119716547"
+      },
+      "summary": {
+        "text": "Days of Wine and Roses is a 2023 stage musical with music and lyrics by Adam Guettel and a book by Craig Lucas, adapted from the 1962 film and 1958 teleplay of the same name.\nThe musical premiered Off-Broadway in May 2023 to highly positive reviews, starring Kelli O'Hara and Brian d'Arcy James, with direction by Michael Greif. A Broadway transfer opened in January 2024 with O'Hara, James, and Greif returning.\nThe plot follows Kirsten Arnesen and Joe Clay, a young couple who marry after he introduces her to social drinking. As years pass, their habit grows, and alcoholism plunges them into trouble and turmoil. Joe eventually gets sober and tries to help Kirsten from her self-destruction.",
+        "source_url": "https://en.wikipedia.org/wiki/Days_of_Wine_and_Roses_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "faust-up-to-date": {
+      "slug": "faust-up-to-date",
+      "title": "Faust up to Date",
+      "qid": "Q5438285",
+      "enwiki": "Faust up to Date",
+      "composers": [
+        {
+          "name": "Meyer Lutz",
+          "qid": "Q6826428",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/409752"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "George Robert Sims",
+          "qid": "Q531150",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5845"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Henry Pettitt",
+          "qid": "Q1302178",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/406090"
+        },
+        {
+          "name": "George Robert Sims",
+          "qid": "Q531150",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5845"
+        }
+      ],
+      "premiere": {
+        "date": "1888-10-30",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Faust_up_to_Date",
+        "wikidata": "https://www.wikidata.org/wiki/Q5438285"
+      },
+      "summary": {
+        "text": "Faust up to Date is a musical burlesque with a libretto was written by G. R. Sims and Henry Pettitt, and a score written by Meyer Lutz (a few songs by others were interpolated into the show). Set in Nuremberg, it is a spoof of Gounod's opera, Faust, which had first been performed in London in 1864. The burlesque followed on from an earlier Lutz musical, Mephistopheles, or Faust and Marguerite.\nThe piece was first performed at the Gaiety Theatre, London on 30 October 1888, produced by George Edwardes, and ran until August 1889.  It starred Florence St. John as Margaret, E. J. Lonnen as Mephistopheles and Mabel Love as Totchen.  It was revived in July 1892, with Florence St. John again playing the role of Margaret, Edmund Payne as Mephistopheles and Arthur Williams as Valentine.  The piece enjoyed subsequent productions in New York, Australia (with Robert Courtneidge as Valentine) and elsewhere.",
+        "source_url": "https://en.wikipedia.org/wiki/Faust_up_to_Date",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "fosse": {
+      "slug": "fosse",
+      "title": "Fosse",
+      "qid": "Q5473436",
+      "enwiki": "Fosse (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3688",
+        "wikipedia": "https://en.wikipedia.org/wiki/Fosse_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5473436"
+      },
+      "summary": {
+        "text": "Fosse is a three-act musical revue showcasing the choreography of Bob Fosse. The musical was conceived by Richard Maltby Jr., Chet Walker, and Ann Reinking.",
+        "source_url": "https://en.wikipedia.org/wiki/Fosse_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "golden-boy": {
+      "slug": "golden-boy",
+      "title": "Golden Boy",
+      "qid": "Q5579229",
+      "enwiki": "Golden Boy (musical)",
+      "composers": [
+        {
+          "name": "Charles Strouse",
+          "qid": "Q2960275",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12463"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Lee Adams",
+          "qid": "Q6512930",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12723"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Clifford Odets",
+          "qid": "Q734944",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4884"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/10181",
+        "wikipedia": "https://en.wikipedia.org/wiki/Golden_Boy_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5579229"
+      },
+      "summary": {
+        "text": "Golden Boy is a musical in two acts with a book by Clifford Odets and William Gibson, lyrics by Lee Adams, and music by Charles Strouse.\nBased on the 1937 play of the same name by Odets, it focuses on Joe Wellington, a young man from Harlem who, despite his family's objections, turns to prizefighting as a means of escaping his ghetto roots and finding fame and fortune. He crosses paths with Mephistopheles-like promoter Eddie Satin and eventually betrays his manager Tom Moody when he becomes romantically involved with Moody's girlfriend Lorna Moon. The musical premiered in 1964.",
+        "source_url": "https://en.wikipedia.org/wiki/Golden_Boy_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "lacplesis": {
+      "slug": "lacplesis",
+      "title": "Lāčplēsis",
+      "qid": "Q6711602",
+      "enwiki": "Lāčplēsis (rock opera)",
+      "composers": [
+        {
+          "name": "Zigmars Liepiņš",
+          "qid": "Q8071800"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/L%C4%81%C4%8Dpl%C4%93sis_(rock_opera)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6711602"
+      },
+      "summary": {
+        "text": "The rock opera Lāčplēsis is a Latvian musical based on the Latvian national epic Lāčplēsis. The libretto was written in 1986/87 by Māra Zālīte, with music composed by Zigmārs Liepiņš. It premiered in Riga on 23 August 1988. According to Māra Zālīte's homepage there were 43 shows, each attended by 4,000 people.",
+        "source_url": "https://en.wikipedia.org/wiki/L%C4%81%C4%8Dpl%C4%93sis_(rock_opera)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "make-a-wish": {
+      "slug": "make-a-wish",
+      "title": "Make a Wish",
+      "qid": "Q16981619",
+      "enwiki": "Make a Wish (musical)",
+      "composers": [
+        {
+          "name": "Hugh Martin",
+          "qid": "Q5931668",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13678"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Hugh Martin",
+          "qid": "Q5931668",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13678"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Preston Sturges",
+          "qid": "Q546204",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8190"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5758",
+        "wikipedia": "https://en.wikipedia.org/wiki/Make_a_Wish_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q16981619"
+      },
+      "summary": {
+        "text": "Make a Wish is a musical with a book by Preston Sturges and Abe Burrows, who was not credited, and music and lyrics by Hugh Martin.\nBased on Sturges' screenplay for the 1935 film The Good Fairy, which in turn is based on the 1930 play of the same name by Ferenc Molnár as translated by Jane Hinton, the musical focuses on Janette, who experiences various adventures, including love with young artist Paul Dumont, when she abandons her tour group during a visit to Paris.\nSturges' primary motivation for writing the book was financial, as he was deeply in debt at the time.\nThe musical opened on Broadway on April 18, 1951 at the Winter Garden Theatre where it ran for a total of 102 performances until it closed on July 14, 1951. The production was produced by Harry Rigby, Jule Styne and Alexander H. Cohen; staged by John C. Wilson; and choreographed by Gower Champion. Raoul Pène Du Bois designed the sets, lights, and costumes for the production. The original cast included Nanette Fabray as Janette, Harold Lang as Ricky, Melville Cooper as Marius Frigo, Stephen Douglass as Paul Dumont, Helen Gallagher as Poupette, Phil Leeds as Dr. Francel, Eda Heinemann as Dr. Didier, and Howard Wendell as the policeman.",
+        "source_url": "https://en.wikipedia.org/wiki/Make_a_Wish_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "marilyn-the-new-musical": {
+      "slug": "marilyn-the-new-musical",
+      "title": "Marilyn! The New Musical",
+      "qid": "Q112980358",
+      "enwiki": "Marilyn! The New Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Marilyn!_The_New_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q112980358"
+      },
+      "summary": {
+        "text": "Marilyn! The New Musical, (also known as just Marilyn!)   is a musical with a book by Tegan Summer, music by Gregoy Nabours, and lyrics by them both. It is based on the life of Marilyn Monroe, and utilizes people and events from the golden age of Hollywood.\nProduced by Prospect House Entertainment, in collaboration with Caesars Entertainment, and Authentic Brands Group the brand management company that over sees Marilyn Monroe's estate. With direction by Summers and choreography by Ferly Prado, the original production of Marilyn! premiered in Las Vegas at the Paris Theater in June 2018, after early preview tryouts at Glendale's Alex Theatre for a one-night-only presentation. Its original stars included Kelley Jakle, from the Pitch Perfect franchise as Marilyn Monroe.",
+        "source_url": "https://en.wikipedia.org/wiki/Marilyn!_The_New_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "mystic-pizza": {
+      "slug": "mystic-pizza",
+      "title": "Mystic Pizza",
+      "qid": "Q125470147",
+      "enwiki": "Mystic Pizza (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Mystic_Pizza_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q125470147"
+      },
+      "summary": {
+        "text": "Mystic Pizza is a jukebox musical with a book by Sandy Rustin and score by various artists. The score includes pop music hits from the 1980s.\nThe musical is based on the 1988 film of the same name that starred Julia Roberts, Lili Taylor and Annabeth Gish. The show is set in Mystic, Connecticut, during the 1980s and follows the lives of three young waitresses at the Mystic Pizza restaurant.",
+        "source_url": "https://en.wikipedia.org/wiki/Mystic_Pizza_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "pleasures-and-palaces": {
+      "slug": "pleasures-and-palaces",
+      "title": "Pleasures and Palaces",
+      "qid": "Q7204318",
+      "enwiki": "Pleasures and Palaces",
+      "composers": [
+        {
+          "name": "Frank Loesser",
+          "qid": "Q966018",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5613"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Pleasures_and_Palaces",
+        "wikidata": "https://www.wikidata.org/wiki/Q7204318"
+      },
+      "summary": {
+        "text": "Pleasures and Palaces is a musical with a book by Frank Loesser and Sam Spewack and music and lyrics by Loesser. It is based on Spewack's flop 1961 play Once There Was a Russian  and takes its title from the opening lyrics of the 1823 song \"Home, Sweet Home\": \"Mid pleasures and palaces though we may roam, Be it ever so humble, there's no place like home.\"",
+        "source_url": "https://en.wikipedia.org/wiki/Pleasures_and_Palaces",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "priscilla-queen-of-the-desert": {
+      "slug": "priscilla-queen-of-the-desert",
+      "title": "Priscilla, Queen of the Desert",
+      "qid": "Q7245570",
+      "enwiki": "Priscilla, Queen of the Desert (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Stephan Elliott",
+          "qid": "Q2094420",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/488771"
+        }
+      ],
+      "premiere": {
+        "date": "2006-10",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/488746",
+        "official_site": "http://www.priscillathemusical.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/Priscilla%2C_Queen_of_the_Desert_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7245570"
+      },
+      "summary": {
+        "text": "Priscilla, Queen of the Desert is a jukebox musical with book by Australian film director-writer Stephan Elliott and Allan Scott, using well-known pop songs as its score. Adapted from Elliott's 1994 film The Adventures of Priscilla, Queen of the Desert, the musical tells the story of two drag queens and a trans woman, who contract to perform a drag show at a resort in Alice Springs, a resort town in the remote Australian desert. As they head west from Sydney aboard their lavender bus, Priscilla, the three friends come to the forefront of a comedy of errors, encountering a number of strange characters, as well as incidents of homophobia, while widening comfort zones and finding new horizons.\nProduced by Allan Scott in coalition with Back Row Productions, Michael Chugg, Michael Hamlyn and John Frost, the Simon Phillips-directed and Ross Coleman-choreographed original production of Priscilla debuted in Australia at the Lyric Theatre, Sydney in October 2006. Having had a successful run in Sydney, the production transferred to Melbourne in 2007 and then Auckland, New Zealand in 2008, before returning to Sydney for a limited engagement. The Australasian success of Priscilla provoked a two-year strong West End production in addition to its Bette Midler-produced Broadway debut in 2011. While the original production received one out of its seven Helpmann Award nominations, Priscilla was nominated for the Laurence Olivier Award for Best New Musical as well as two Tony Awards, winning these awards in the costume design categories.",
+        "source_url": "https://en.wikipedia.org/wiki/Priscilla%2C_Queen_of_the_Desert_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "shinbone-alley": {
+      "slug": "shinbone-alley",
+      "title": "Shinbone Alley",
+      "qid": "Q7497280",
+      "enwiki": "Shinbone Alley",
+      "composers": [
+        {
+          "name": "George Kleinsinger",
+          "qid": "Q5541379",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12002"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Joe Darion",
+          "qid": "Q3180042",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6760"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Joe Darion",
+          "qid": "Q3180042",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6760"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7948",
+        "wikipedia": "https://en.wikipedia.org/wiki/Shinbone_Alley",
+        "wikidata": "https://www.wikidata.org/wiki/Q7497280"
+      },
+      "summary": {
+        "text": "Shinbone Alley (sometimes performed as archy & mehitabel) is a musical with a book by Joe Darion and Mel Brooks, lyrics by Darion, and music by George Kleinsinger. Based on the album Archy and Mehitabel: A Back-Alley Opera, which in turn was based on archy and mehitabel,  a series of New York Tribune columns by Don Marquis (illustrated by Krazy Kat author George Herriman), it focuses on poetic cockroach Archy (who wasn't strong enough to depress the typewriter's shift-key), alley cat Mehitabel, and her relationships with theatrical cat Tyrone T. Tattersall and tomcat Big Bill, under the watchful eye of the newspaperman, the voice-over narrator and only human being in the show.",
+        "source_url": "https://en.wikipedia.org/wiki/Shinbone_Alley",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "smile": {
+      "slug": "smile",
+      "title": "Smile",
+      "qid": "Q7544617",
+      "enwiki": "Smile (musical)",
+      "composers": [
+        {
+          "name": "Marvin Hamlisch",
+          "qid": "Q337206",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11816"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Howard Ashman",
+          "qid": "Q1334295",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6356"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Howard Ashman",
+          "qid": "Q1334295",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6356"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8105",
+        "wikipedia": "https://en.wikipedia.org/wiki/Smile_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7544617"
+      },
+      "summary": {
+        "text": "Smile is a musical about a fictitious beauty pageant in California, with music by Marvin Hamlisch and book and lyrics by Howard Ashman. It was originally produced on Broadway in 1986. The musical is based loosely on the 1975 comedy film of the same title, from a screenplay by Jerry Belson.",
+        "source_url": "https://en.wikipedia.org/wiki/Smile_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "smiling-faces": {
+      "slug": "smiling-faces",
+      "title": "Smiling Faces",
+      "qid": "Q7544743",
+      "enwiki": "Smiling Faces",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8110",
+        "wikipedia": "https://en.wikipedia.org/wiki/Smiling_Faces",
+        "wikidata": "https://www.wikidata.org/wiki/Q7544743"
+      },
+      "summary": {
+        "text": "Smiling Faces is an American musical with music by Harry Revel, lyrics by Mack Gordon (and additionally, for the song \"Do Say You Do\", by Harold Adamson), and a musical book by Harry Clarke. Produced by Lee Shubert and Jacob J. Shubert, the production opened on Broadway at the Shubert Theatre where it ran from August 30, 1932, through September 24, 1932, for a total of 31 performances. The cast included Dorothy Stone as Peggy Post,  Roy Royston as Robert Bowington, Fred Stone as Monument Spleen, Adora Andrews as Cordonia Potts, Charles Collins as Arthur Lawrence, Hope Emerson as Amy Edwards, Doris Patston as Mildred McKay, Barbara Williams as Helen Sydney, Eddie Garvey as Edward Richter, Isabel O'Madigan as Sybilla Richter, Ali Yousuff as Horatio Dalrymple, and Bradford Hatton as George Black.\nSmiling Faces is set at the home of Robert Bowington in Southampton, New York on Long Island; a ballroom at a country club; and at the Grand Hotel in Havana, Cuba. The plot centers around Peggy Post, a film actress making a movie on Long Island, as she attempts to marry well in order to attract the attention of a second potential suitor who is her true romantic target.",
+        "source_url": "https://en.wikipedia.org/wiki/Smiling_Faces",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-dollar-princess": {
+      "slug": "the-dollar-princess",
+      "title": "The Dollar Princess",
+      "qid": "Q7730574",
+      "enwiki": "The Dollar Princess",
+      "composers": [
+        {
+          "name": "Leo Fall",
+          "qid": "Q78585",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7231"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Adrian Ross",
+          "qid": "Q3605637",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13251"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Alfred Maria Willner",
+          "qid": "Q85482",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9206"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": "Daly's Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3120",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Dollar_Princess",
+        "wikidata": "https://www.wikidata.org/wiki/Q7730574"
+      },
+      "summary": {
+        "text": "The Dollar Princess is a musical in three acts, with music by Leo Fall, adapted into English by Basil Hood with lyrics by Adrian Ross (from the 1907 Die Dollarprinzessin with a German-language libretto by A. M. Willner and Fritz Grünbaum, after a comedy by Emerich von Gatti and Thilo Friedrich Wilhelm von Trotha). It opened in London at Daly's Theatre on 25 September 1909, running for 428 performances.  The London production starred Lily Elsie, Joseph Coyne, W. H. Berry and Gabrielle Ray.  The young Gladys Cooper played a small role.\nIt also had a very successful run on Broadway, with a new book and lyrics by George Grossmith, Jr. and additional numbers by Jerome Kern, opening on 6 August 1909 and running for 288 performances.  Valli Valli, Adrienne Augarde and Louie Pounds starred in the New York production.\nIn late Victorian and Edwardian Britain, \"dollar princess\" was the nickname given to American heiresses.  Playgoer and Society Illustrated wrote, \"To the average playgoer there is something very attractive in watching the antics of the vulgar when surrounded by the refinement of art which he can neither understand nor appreciate.... Miss Lily Elsie, as Alice, shows even an improvement on her performance in The Merry Widow. The inimitable Mr. Joseph Coyne has put a lot more into his part than was possible on the first night.... He is great! His American accent is a thing to listen to....\"",
+        "source_url": "https://en.wikipedia.org/wiki/The_Dollar_Princess",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-runaways": {
+      "slug": "the-runaways",
+      "title": "The Runaways",
+      "qid": "Q17092808",
+      "enwiki": "The Runaways (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Runaways_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q17092808"
+      },
+      "summary": {
+        "text": "The Runaways (Broadway, 1903), originally Chow Chow (Chicago, 1902), was an American comedy musical with book and lyrics by Addison Burkhardt and music by Raymond Hubbell. The show was joined by Fay Templeton when it came to Broadway. The musical is set at a club and race track in Saratoga County, New York, and on the fictional Isle of Table d'Hote. The musical may be the origin of the phrase How much wood would a woodchuck chuck?.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Runaways_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-sunshine-girl": {
+      "slug": "the-sunshine-girl",
+      "title": "The Sunshine Girl",
+      "qid": "Q7767451",
+      "enwiki": "The Sunshine Girl",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8429",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Sunshine_Girl",
+        "wikidata": "https://www.wikidata.org/wiki/Q7767451"
+      },
+      "summary": {
+        "text": "The Sunshine Girl is an Edwardian musical comedy in two acts with a book by Paul A. Rubens and Cecil Raleigh, music and lyrics by Rubens and additional lyrics by Arthur Wimperis.  The story involves a working girl who falls in love with the heir to the factory. He is in disguise and wants to be loved for himself, not his position, so he gets his friend to pose as the heir, leading to complications for both men.\nThe musical was first produced by George Edwardes at the Gaiety Theatre in London, opening on February 24, 1912, and running for 336 performances.  It starred George Grossmith, Jr. as Lord Bicester, Edmund Payne as Floot and Phyllis Dare as Delia Dale.  It also had a Broadway run in 1913 at the Knickerbocker Theatre starring Grossmith's in-law, Vernon Castle.\nPort Sunlight is the real life suburb on which the setting of the musical is based.  The show introduced the tango to British audiences.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Sunshine_Girl",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "wild-side-story": {
+      "slug": "wild-side-story",
+      "title": "Wild Side Story",
+      "qid": "Q6224967",
+      "enwiki": "Wild Side Story",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Wild_Side_Story",
+        "wikidata": "https://www.wikidata.org/wiki/Q6224967"
+      },
+      "summary": {
+        "text": "Wild Side Story is a parody musical that originated in 1973 as a drag show on the gay scene of Miami Beach, soon developed there into an underground happening for mixed audiences, and up until 2004 was performed hundreds of times in Florida, Sweden, California and Spain.",
+        "source_url": "https://en.wikipedia.org/wiki/Wild_Side_Story",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

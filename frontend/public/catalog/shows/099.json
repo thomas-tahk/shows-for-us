@@ -1,0 +1,847 @@
+{
+  "live": true,
+  "shows": {
+    "do-re-mi": {
+      "slug": "do-re-mi",
+      "title": "Do Re Mi",
+      "qid": "Q5286211",
+      "enwiki": "Do Re Mi (musical)",
+      "composers": [
+        {
+          "name": "Jule Styne",
+          "qid": "Q587741",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12466"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Betty Comden",
+          "qid": "Q175078",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4525"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Garson Kanin",
+          "qid": "Q1377923",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5745"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3104",
+        "wikipedia": "https://en.wikipedia.org/wiki/Do_Re_Mi_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5286211"
+      },
+      "summary": {
+        "text": "Do Re Mi is a musical with music by Jule Styne, lyrics by Betty Comden and Adolph Green, and a book by Garson Kanin, who also directed the original 1960 Broadway production. The plot centers on a minor-league con man who decides to go (somewhat) straight by moving into the legitimate business of juke boxes and music promotion. The musical was headlined by the comedy couple of Phil Silvers and Nancy Walker, both of whom were Tony nominated. Popular songs introduced included \"Cry Like the Wind\" and \"Make Someone Happy\".",
+        "source_url": "https://en.wikipedia.org/wiki/Do_Re_Mi_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "free-as-air": {
+      "slug": "free-as-air",
+      "title": "Free as Air",
+      "qid": "Q5500184",
+      "enwiki": "Free as Air",
+      "composers": [
+        {
+          "name": "Julian Slade",
+          "qid": "Q6307573"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Dorothy Reynolds",
+          "qid": "Q5298609"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Free_as_Air",
+        "wikidata": "https://www.wikidata.org/wiki/Q5500184"
+      },
+      "summary": {
+        "text": "Free as Air is a musical with lyrics by Dorothy Reynolds and Julian Slade and music by Julian Slade. They are the same team responsible for the much better known musical Salad Days, although Free as Air is said to be \"more slick and professional by some critics\".  The musical is still performed, particularly by amateur companies with large casts and choruses.",
+        "source_url": "https://en.wikipedia.org/wiki/Free_as_Air",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "fresh-airs": {
+      "slug": "fresh-airs",
+      "title": "Fresh Airs",
+      "qid": "Q5502945",
+      "enwiki": "Fresh Airs",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Fresh_Airs",
+        "wikidata": "https://www.wikidata.org/wiki/Q5502945"
+      },
+      "summary": {
+        "text": "Fresh Airs was a revue produced by Laurier Lister that opened in Brighton in 1955. It was the last in his series of \"Airs\" revues before Flanders & Swann started performing for themselves in At the Drop of a Hat.",
+        "source_url": "https://en.wikipedia.org/wiki/Fresh_Airs",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "frozen-live-at-the-hyperion": {
+      "slug": "frozen-live-at-the-hyperion",
+      "title": "Frozen – Live at the Hyperion",
+      "qid": "Q23838465",
+      "enwiki": "Frozen – Live at the Hyperion",
+      "composers": [
+        {
+          "name": "Kristen Anderson-Lopez",
+          "qid": "Q6437747",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/490352"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "https://disneyland.disney.go.com/entertainment/disney-california-adventure/frozen-live-at-hyperion/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Frozen_%E2%80%93_Live_at_the_Hyperion",
+        "wikidata": "https://www.wikidata.org/wiki/Q23838465"
+      },
+      "summary": {
+        "text": "Frozen – Live at the Hyperion is a musical stage show inspired by Disney's 2013 animated film Frozen. It was presented at the Hyperion Theater in Hollywood Land at Disney California Adventure. The show premiered on May 27, 2016.\nA version of the show Frozen: A Musical Spectacular premiered on board the Disney Cruise Line ship Disney Wonder on November 10, 2016.",
+        "source_url": "https://en.wikipedia.org/wiki/Frozen_%E2%80%93_Live_at_the_Hyperion",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "groundhog-day": {
+      "slug": "groundhog-day",
+      "title": "Groundhog Day",
+      "qid": "Q19961225",
+      "enwiki": "Groundhog Day (musical)",
+      "composers": [
+        {
+          "name": "Tim Minchin",
+          "qid": "Q23527",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/493197"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Danny Rubin",
+          "qid": "Q976462",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/510228"
+        }
+      ],
+      "premiere": {
+        "date": "2016-08-16",
+        "venue": "The Old Vic"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/510223",
+        "wikipedia": "https://en.wikipedia.org/wiki/Groundhog_Day_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q19961225"
+      },
+      "summary": {
+        "text": "Groundhog Day is a musical with music and lyrics by Tim Minchin and a book by Danny Rubin. It is based on the 1993 film of the same name, directed by Harold Ramis and written by Ramis and Rubin.\nIt tells the story of Phil Connors, an arrogant Pittsburgh TV weatherman who, during an assignment covering the annual Groundhog Day event in Punxsutawney, Pennsylvania, finds himself in a time loop, repeating the same day again and again.\nThe musical made its world premiere at The Old Vic in London in summer 2016 and was nominated for eight Laurence Olivier Awards in 2017, winning for Best New Musical and Best Actor in a Leading Role in a Musical for Andy Karl; it later opened on Broadway in 2017, and was nominated for seven Tony Awards, including Best Musical and Best Actor in a Leading Role in a Musical for Karl.",
+        "source_url": "https://en.wikipedia.org/wiki/Groundhog_Day_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "hitchy-koo-of-1919": {
+      "slug": "hitchy-koo-of-1919",
+      "title": "Hitchy-Koo of 1919",
+      "qid": "Q112169030",
+      "enwiki": "Hitchy-Koo of 1919",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Hitchy-Koo_of_1919",
+        "wikidata": "https://www.wikidata.org/wiki/Q112169030"
+      },
+      "summary": {
+        "text": "Hitchy-Koo of 1919 is a musical revue with music and lyrics by Cole Porter and a book by George V. Hobart. This revue was third in a series of four Hitchy-Koo Broadway revues from 1917 to 1920 produced by, and starring, Raymond Hitchcock. The revues were named after the 1912 popular song \"Hitchy-Koo\" by composers Lewis F. Muir and Maurice Abrahams with lyrics by L. Wolfe Gilbert; the only song which was featured in all of the Hitchy-Koo revues. The original Broadway production of this version played in 1919. The revue received favourable reviews.",
+        "source_url": "https://en.wikipedia.org/wiki/Hitchy-Koo_of_1919",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "hot-mess": {
+      "slug": "hot-mess",
+      "title": "Hot Mess",
+      "qid": "Q137690966",
+      "enwiki": "Hot Mess (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Hot_Mess_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q137690966"
+      },
+      "summary": {
+        "text": "Hot Mess is an environmentally themed pop musical by Jack Godfrey (Lyrics and Music) and Ellie Coote (Lyrics and Book) , creators of 42 Balloons. It tells the story of relationship between Earth and Humanity, personified as two actors as a romcom.",
+        "source_url": "https://en.wikipedia.org/wiki/Hot_Mess_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "last-days-of-summer": {
+      "slug": "last-days-of-summer",
+      "title": "Last Days of Summer",
+      "qid": "Q56276453",
+      "enwiki": "Last Days of Summer (musical)",
+      "composers": [
+        {
+          "name": "Jason Howland",
+          "qid": "Q6162736",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/22488"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Steve Kluger",
+          "qid": "Q7613055"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Last_Days_of_Summer_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q56276453"
+      },
+      "summary": {
+        "text": "Last Days of Summer is a musical with music by Jason Howland and lyrics and a book by Steve Kluger. Based on the 1998 epistolary novel of the same name written by Kluger, the musical made its world premiere try-out at the Kansas City Repertory Theatre in Kansas City, Missouri in September 2018. The musical centers on Joey Margolis, a young boy living in 1940s Brooklyn and his relationship with Charlie Banks, the all-star third baseman for the New York Giants.",
+        "source_url": "https://en.wikipedia.org/wiki/Last_Days_of_Summer_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "mandela": {
+      "slug": "mandela",
+      "title": "Mandela",
+      "qid": "Q116701076",
+      "enwiki": "Mandela (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Mandela_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q116701076"
+      },
+      "summary": {
+        "text": "Mandela is a musical based on the life of Nelson Mandela, with music and lyrics by Greg Dean Borowsky and Shaun Borowsky, and a book by Laiona Michelle.",
+        "source_url": "https://en.wikipedia.org/wiki/Mandela_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "meet-the-navy": {
+      "slug": "meet-the-navy",
+      "title": "Meet the Navy",
+      "qid": "Q6807852",
+      "enwiki": "Meet the Navy",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Meet_the_Navy",
+        "wikidata": "https://www.wikidata.org/wiki/Q6807852"
+      },
+      "summary": {
+        "text": "Meet the Navy was a musical revue produced by the Royal Canadian Navy during World War II. Directed by Hollywood producer Louis Silver and Broadway choreographer Larry Ceballos, the production premiered in a private performance for servicemen on 2 September 1943 at Toronto's Victoria Theatre. The first performance open to the public was given on the following 4 September. The production toured Canada in 1943-1944, entertaining approximately a half-million Canadians. \nIt then toured to 11 cities in England, and to cities in Wales and Ireland in 1944-1945; beginning in Glasgow on 23 October 1944 and ending at the Hippodrome, London on 7 April 1945. Adele Astaire \"worshipped it\" and thought the dancing was \"simply divine.\" The show subsequently toured to the Théâtre Marigny in Paris, the Vauxhall, Brussels, and the Carré Theatre in Amsterdam's Carré. The production's final performance was on 12 September 1945 at the Oldenburgisches Staatstheater in Germany. The National Film Board of Canada produced a documentary Meet the Navy on Tour, and British National Films presented another feature film  called Meet the Navy which was filmed in November 1945 in Britain and released in 1946. Although plans for a Broadway run were made, they never materialized.\nA recreation of the original production was staged in Nova Scotia during the summers of 1980, 1981 and 1982, produced by Targe Productions and presented by the Province of Nova Scotia through the department of Culture, Recreation and Fitness. It was directed and choreographed by the original production's performers, Blanche and Alan Lund. It also featured another original cast member, Robert John Pratt reprising his song, 'You'll get used to it.' In 1982, the production presented two musical numbers in a 90-minute musical celebration for Canada's new constitution, with Queen Elizabeth II attending; she saw the original production when she was 18. The Gala was presented at the National Arts Centre and broadcast by the Canadian Broadcasting Corporation (CBC).",
+        "source_url": "https://en.wikipedia.org/wiki/Meet_the_Navy",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "my-one-and-only": {
+      "slug": "my-one-and-only",
+      "title": "My One and Only",
+      "qid": "Q1956428",
+      "enwiki": "My One and Only (musical)",
+      "composers": [
+        {
+          "name": "George Gershwin",
+          "qid": "Q123829",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5813"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Ira Gershwin",
+          "qid": "Q61059",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12885"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Peter Stone",
+          "qid": "Q1718449",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8128"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6395",
+        "wikipedia": "https://en.wikipedia.org/wiki/My_One_and_Only_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1956428"
+      },
+      "summary": {
+        "text": "My One and Only is a musical with a book by Peter Stone and Timothy S. Mayer and music and lyrics by George and Ira Gershwin. The musical ran on Broadway and in the West End.",
+        "source_url": "https://en.wikipedia.org/wiki/My_One_and_Only_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "my-romance": {
+      "slug": "my-romance",
+      "title": "My Romance",
+      "qid": "Q118898003",
+      "enwiki": "My Romance (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/My_Romance_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q118898003"
+      },
+      "summary": {
+        "text": "My Romance is a musical comedy in three acts with book and lyrics by Rowland Leigh, and music by Sigmund Romberg. It was produced on Broadway in 1948.",
+        "source_url": "https://en.wikipedia.org/wiki/My_Romance_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "our-island-home": {
+      "slug": "our-island-home",
+      "title": "Our Island Home",
+      "qid": "Q17018614",
+      "enwiki": "Our Island Home",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Our_Island_Home",
+        "wikidata": "https://www.wikidata.org/wiki/Q17018614"
+      },
+      "summary": {
+        "text": "Our Island Home is a one-act musical entertainment with a libretto by W. S. Gilbert and music by Thomas German Reed that premiered on 20 June 1870 at the Royal Gallery of Illustration. The piece has five characters and is \"biographical\", in that the characters in the original production played themselves, except that they were given personalities opposite to their actual personalities.",
+        "source_url": "https://en.wikipedia.org/wiki/Our_Island_Home",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "shane-warne-the-musical": {
+      "slug": "shane-warne-the-musical",
+      "title": "Shane Warne: The Musical",
+      "qid": "Q7488317",
+      "enwiki": "Shane Warne: The Musical",
+      "composers": [
+        {
+          "name": "Eddie Perfect",
+          "qid": "Q5336403",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/516832"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Eddie Perfect",
+          "qid": "Q5336403",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/516832"
+        }
+      ],
+      "premiere": {
+        "date": "2008-12-10",
+        "venue": "Melbourne Athenaeum"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Shane_Warne%3A_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q7488317"
+      },
+      "summary": {
+        "text": "Shane Warne: The Musical is a musical comedy by Eddie Perfect based on the life of Australian cricketer Shane Warne. The Daily Telegraph described the musical as \"a warts-and-all account of the spin bowler's controversy-laden career and roller-coaster personal life set to soul, rock, opera, gospel music – and even a bit of Bollywood.\"",
+        "source_url": "https://en.wikipedia.org/wiki/Shane_Warne%3A_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "shlemiel-the-first": {
+      "slug": "shlemiel-the-first",
+      "title": "Shlemiel the First",
+      "qid": "Q7499543",
+      "enwiki": "Shlemiel the First (musical)",
+      "composers": [
+        {
+          "name": "Hankus Netsky",
+          "qid": "Q5648568"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Arnold Weinstein",
+          "qid": "Q4795301",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9799"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Robert Brustein",
+          "qid": "Q7342473"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Shlemiel_the_First_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7499543"
+      },
+      "summary": {
+        "text": "Shlemiel the First is a musical adaptation of the \"Chelm stories\" (including When Shlemiel Went to Warsaw) of Isaac Bashevis Singer about the supposedly wise men of that legendary town, and a fool named Shlemiel.  It was conceived and adapted by Robert Brustein, with lyrics by Arnold Weinstein and music based on traditional klezmer music and Yiddish theater songs by Hankus Netsky of the Klezmer Conservatory Band and Zalmen Mlotek, who wrote additional music and arrangements, and served as the musical director of the original production.  Singer had written a non-musical theatrical adaptation of the stories, Shlemiel the First, which Brustein produced in 1974 when he was the artistic director of Yale Repertory Theater in New Haven, and this served to provide the basic material for the musical.\nThe musical was originally co-produced in 1994 by Brustein's American Repertory Theatre  in Cambridge, Massachusetts and the American Music Theatre Festival in Philadelphia, and was directed, choreographed and edited by David Gordon, who one critic referred to as the \"auteur\" of the production. Critic John Lahr, writing in The New Yorker about the show in its run at ART, said that Gordon's \"fresh and elegant production ... filters a traditional tale through an avant-garde aesthetic\" and has \"an element of wonder.  In fact, it dares the musical to go back to its beginnings and start again.\"\nThe original production subsequently played at the Lincoln Center Serious Fun Festival, the American Conservatory Theater in San Francisco, the Geffen Playhouse in Los Angeles – where it earned Gordon Drama-Logue Awards for Outstanding Direction and Choreography – and also toured theatres on the east coast of Florida and in Stamford, Connecticut.  A planned Broadway booking by Alexander H. Cohen did not come about.\nSubsequent to the last presentation of the original production in 1997, new productions of the play were mounted in 2000 by the Pegasus Players in Chicago, and by Theater J in Washington, D.C. in the 2007–2008 season.\nIn January 2010, the original David Gordon production, utilizing the original set and costumes designs by Robert Israel and Catherine Zuber, respectively, was remounted at the Alexander Kasser Theatre of Montclair State University in Montclair, New Jersey, as a co-production of Jedediah Wheeler's Peak Performances and the National Yiddish Theater Folksbiene. That production was remounted under the auspices of Theatre for a New Audience for performances at New York University's Skirball Center in December 2011.",
+        "source_url": "https://en.wikipedia.org/wiki/Shlemiel_the_First_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-belle-of-brittany": {
+      "slug": "the-belle-of-brittany",
+      "title": "The Belle of Brittany",
+      "qid": "Q65064417",
+      "enwiki": "The Belle of Brittany",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1933",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Belle_of_Brittany",
+        "wikidata": "https://www.wikidata.org/wiki/Q65064417"
+      },
+      "summary": {
+        "text": "The Belle of Brittany is an Edwardian musical comedy in two acts set in 'Daffodil Time' in rustic 18th-century Brittany. It premiered at the Queen's Theatre in London on 24 October 1908. The music is by Howard Talbot and Marie Horne, to a book by Leedham Bantock and P. J. Barrow, with lyrics by Percy Greenbank. A Broadway production opened at Daly's Theatre in New York in November 1909 and ran for 72 performances. It was directed by Frank Smithson and featured Josephine Brandell and Margaret Dumont in early roles.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Belle_of_Brittany",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-good-oil": {
+      "slug": "the-good-oil",
+      "title": "The Good Oil",
+      "qid": "Q65117826",
+      "enwiki": "The Good Oil (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Good_Oil_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q65117826"
+      },
+      "summary": {
+        "text": "The Good Oil is a musical comedy with book, music and lyrics by Coralie Condon. It is set during the 1954-55 West Australian oil boom in Perth and an oil camp in the north of Western Australia.\nThe musical premiered in November 1958 at the Playhouse in Perth for the city's National Theatre.\nThe musical was adapted for radio on the  ABC in 1959 with Toni Lamond.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Good_Oil_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-goodbye-girl": {
+      "slug": "the-goodbye-girl",
+      "title": "The Goodbye Girl",
+      "qid": "Q16975203",
+      "enwiki": "The Goodbye Girl (musical)",
+      "composers": [
+        {
+          "name": "Marvin Hamlisch",
+          "qid": "Q337206",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11816"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "David Zippel",
+          "qid": "Q3703386",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13425"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Neil Simon",
+          "qid": "Q315808",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7879"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4017",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Goodbye_Girl_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q16975203"
+      },
+      "summary": {
+        "text": "The Goodbye Girl is a musical with a book by Neil Simon, lyrics by David Zippel, and music by Marvin Hamlisch, based on Simon's original screenplay for the 1977 film of the same name.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Goodbye_Girl_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-wind-in-the-willows": {
+      "slug": "the-wind-in-the-willows",
+      "title": "The Wind in the Willows",
+      "qid": "Q21152165",
+      "enwiki": "The Wind in the Willows (2016 musical)",
+      "composers": [
+        {
+          "name": "George Stiles",
+          "qid": "Q5544860",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/434332"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Anthony Drewe",
+          "qid": "Q4772423",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/434333"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Julian Fellowes",
+          "qid": "Q336018",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/408507"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "http://windinthewillowsthemusical.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Wind_in_the_Willows_(2016_musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q21152165"
+      },
+      "summary": {
+        "text": "The Wind in the Willows  is a musical written by Julian Fellowes, with music and lyrics by George Stiles and Anthony Drewe, based on the 1908 novel of the same name, written by Kenneth Grahame. The musical received its world premiere at the Theatre Royal in Plymouth in October 2016, before transferring to The Lowry in Salford and the Mayflower Theatre in Southampton. The following year the production transferred to the West End's London Palladium, where it was filmed for cinema broadcast.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Wind_in_the_Willows_(2016_musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-wizard-of-oz-1987-musical": {
+      "slug": "the-wizard-of-oz-1987-musical",
+      "title": "The Wizard of Oz",
+      "qid": "Q7775384",
+      "enwiki": "The Wizard of Oz (1987 musical)",
+      "composers": [
+        {
+          "name": "Harold Arlen",
+          "qid": "Q448644",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11319"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Yip Harburg",
+          "qid": "Q1273621",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5177"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "John Kane",
+          "qid": "Q6242466",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/73029"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Wizard_of_Oz_(1987_musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7775384"
+      },
+      "summary": {
+        "text": "The Wizard of Oz  is a musical with a book by John Kane, music by Harold Arlen and lyrics by E. Y. Harburg.  It has additional background music by Herbert Stothart.  It is based on the 1900 novel The Wonderful Wizard of Oz by L. Frank Baum and the 1939 film version written by Noel Langley, Florence Ryerson and Edgar Allan Woolf.\nSuccessful musicals based on the Baum novel were created in 1902 (for Broadway) and in 1942 (for St. Louis Municipal Opera), the latter of which, using songs from the popular 1939 film, is still frequently revived.  Seeking to more closely recreate the 1939 film on stage, the Royal Shakespeare Company adapted the film's screenplay, also using the songs from the film, and produced a new version at London's Barbican Centre in 1987. This was also a success and has been given many revivals in various formats. It also had extensive tours the U.S. from 2008 to 2020. The musical has become a popular musical for community theatres, schools and children's theatres in the United States and the United Kingdom.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Wizard_of_Oz_(1987_musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "they-re-playing-our-song": {
+      "slug": "they-re-playing-our-song",
+      "title": "They're Playing Our Song",
+      "qid": "Q3823275",
+      "enwiki": "They're Playing Our Song",
+      "composers": [
+        {
+          "name": "Marvin Hamlisch",
+          "qid": "Q337206",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11816"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Carole Bayer Sager",
+          "qid": "Q292399",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/24460"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Neil Simon",
+          "qid": "Q315808",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7879"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8626",
+        "wikipedia": "https://en.wikipedia.org/wiki/They're_Playing_Our_Song",
+        "wikidata": "https://www.wikidata.org/wiki/Q3823275"
+      },
+      "summary": {
+        "text": "They're Playing Our Song is a musical with a book by Neil Simon, lyrics by Carole Bayer Sager, and music by Marvin Hamlisch.\nIn a story based on the real-life relationship of Hamlisch and Sager, a wisecracking composer finds a new, offbeat lyricist, but initially the match is not one made in heaven. The two undergo a series of trials and overcome a number of hurdles before finding true love by the final curtain.\nThey're Playing Our Song is essentially a two-character show. Vernon and Sonia are the sole characters on stage; each character has a three-person Greek chorus acting as their inner voices, and there are no big production numbers.",
+        "source_url": "https://en.wikipedia.org/wiki/They're_Playing_Our_Song",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "thoroughly-modern-millie": {
+      "slug": "thoroughly-modern-millie",
+      "title": "Thoroughly Modern Millie",
+      "qid": "Q656332",
+      "enwiki": "Thoroughly Modern Millie (musical)",
+      "composers": [
+        {
+          "name": "Jeanine Tesori",
+          "qid": "Q16194364",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12488"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Dick Scanlan",
+          "qid": "Q5273341",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/87768"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Richard Morris",
+          "qid": "Q3431051",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8316"
+        },
+        {
+          "name": "Dick Scanlan",
+          "qid": "Q5273341",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/87768"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/10828",
+        "wikipedia": "https://en.wikipedia.org/wiki/Thoroughly_Modern_Millie_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q656332"
+      },
+      "summary": {
+        "text": "Thoroughly Modern Millie is a musical with music by Jeanine Tesori, lyrics by Dick Scanlan, and a book by Richard Morris and Scanlan. It is based on the 1967 film of the same name, which itself was based on the British musical Chrysanthemum, which opened in London in 1956. Thoroughly Modern Millie tells the story of a small-town girl, Millie Dillmount, who comes to New York City to marry for money instead of love – a thoroughly modern aim in 1922, when women were just entering the workforce. Millie soon begins to take delight in the flapper lifestyle, but problems arise when she checks into a hotel owned by the leader of a white slavery ring in China. The style of the musical is comic pastiche. Like the film on which it is based, it interpolates new tunes with some previously written songs.\nAfter previews at the La Jolla Playhouse in San Diego, California, in October 2000, the show opened on Broadway on April 18, 2002. The production subsequently won six 2002 Tony Awards, including Best Musical. Due to the success of the original Broadway production, there was both a United States tour and a West End production launched in 2003, followed by a United Kingdom tour in 2005. The musical has since become a popular choice for high school productions, but has garnered controversy over its racial stereotyping of its Asian characters, and has been described as \"a piece [that] walks the line of being entertaining and highly offensive\".",
+        "source_url": "https://en.wikipedia.org/wiki/Thoroughly_Modern_Millie_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "tiger-queens-the-tiger-king-musical": {
+      "slug": "tiger-queens-the-tiger-king-musical",
+      "title": "Tiger Queens: The Tiger King Musical",
+      "qid": "Q106405415",
+      "enwiki": "Tiger Queens: The Tiger King Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Tiger_Queens%3A_The_Tiger_King_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q106405415"
+      },
+      "summary": {
+        "text": "Tiger King (subtitled in marketing as Tiger King: Murder, Mayhem, and Madness for its first season, Tiger King 2 for its second season and Tiger King: The Doc Antle Story for its third season) is an American true crime documentary television series about the life of former zookeeper and convicted felon Joe Exotic. The first season was released on Netflix on March 20, 2020. A second season, Tiger King 2, was announced in September 2021 and was released on November 17, 2021, while a third season, Tiger King: The Doc Antle Story, was announced on December 3, 2021, and released one week later on December 12. The series focuses on the small but deeply interconnected society of big cat conservationists such as Carole Baskin, owner of Big Cat Rescue, and collectors such as Exotic, whom Baskin accuses of abusing and exploiting wild animals.\nSeason 1 received positive reviews from critics, and according to Nielsen ratings, was watched by 34.3 million people over its first ten days of release, ranking as one of Netflix's most successful releases to date, partly due to its release amid the early months of the COVID-19 pandemic, and also inspired several memes online. Despite its success and popularity, the season received criticism from conservation and animal rights groups for its framing and inaccuracies related to private breeding and wildlife conservation issues. A special aftershow hosted by Joel McHale was released on April 12, 2020, with McHale interviewing several of its subjects about Exotic and the series itself. The second and third seasons in contrast received mostly negative reviews from fans and critics, and the former was subject of a lawsuit by Carole and Howard Baskin over footage used in the series.",
+        "source_url": "https://en.wikipedia.org/wiki/Tiger_Queens%3A_The_Tiger_King_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "tonight-s-the-night": {
+      "slug": "tonight-s-the-night",
+      "title": "Tonight's the Night",
+      "qid": "Q7821404",
+      "enwiki": "Tonight's the Night (2003 musical)",
+      "composers": [
+        {
+          "name": "Rod Stewart",
+          "qid": "Q182655"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Rod Stewart",
+          "qid": "Q182655"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Ben Elton",
+          "qid": "Q436712",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4462"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Tonight's_the_Night_(2003_musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7821404"
+      },
+      "summary": {
+        "text": "Tonight's the Night is a jukebox musical based on the songs of British singer Rod Stewart with a book by Ben Elton. It opened in October 2003 at the Victoria Palace Theatre, and ran for just over a year.\nA scaled down version of the musical toured the UK between February and July 2006, commencing at the Palace Theatre, Manchester.  It was directed by C. Jay Ranger, with new sets, lighting, sound and costumes.\nReviewing the show in The Guardian, Lyn Gardner noted \"What it conveniently forgets is that what makes Stewart distinctive is not the haircut or the obsession with booze, football and blondes, but that exquisite cheesegrater voice with its bluesy catch. However gutsy this cast are, however well they can put a song across, the Rod Stewart musical lacks that one essential ingredient.\"",
+        "source_url": "https://en.wikipedia.org/wiki/Tonight's_the_Night_(2003_musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "up-in-central-park": {
+      "slug": "up-in-central-park",
+      "title": "Up in Central Park",
+      "qid": "Q3552071",
+      "enwiki": "Up in Central Park",
+      "composers": [
+        {
+          "name": "Sigmund Romberg",
+          "qid": "Q742945",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8686"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Dorothy Fields",
+          "qid": "Q435241",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5113"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Herbert Fields",
+          "qid": "Q1608254",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11265"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/9037",
+        "wikipedia": "https://en.wikipedia.org/wiki/Up_in_Central_Park",
+        "wikidata": "https://www.wikidata.org/wiki/Q3552071"
+      },
+      "summary": {
+        "text": "Up in Central Park is a Broadway musical with a book by Herbert Fields and Dorothy Fields, lyrics by Dorothy Fields, and music by Sigmund Romberg.  The musical, originally called \"Central Park\" before Broadway (see image of sheet music), was Romberg's last stage work produced during his lifetime.\nProduced by Michael Todd, the Broadway production, staged by John Kennedy, and choreographed by Helen Tamiris, opened on January 27, 1945 at the New Century Theatre, where it ran for 504 performances.  The cast included Noah Beery Sr., Wilbur Evans and Betty Bruce.\nThe musical is set in the Boss Tweed era of New York City in the 1870s.  Wilbur Evans plays John Matthews, a New York Times reporter investigating the Tweed’s crooked political machine, especially the fraud connected with constructing Central Park.\nHe falls in love with the daughter of one of the Boss’ ward heelers, who marries a politician, who is killed.  She later rekindles her love for Matthews. The settings, costumes and dances evoked the lithographs of Currier and Ives.",
+        "source_url": "https://en.wikipedia.org/wiki/Up_in_Central_Park",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

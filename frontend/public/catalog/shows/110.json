@@ -1,0 +1,641 @@
+{
+  "live": true,
+  "shows": {
+    "ain-t-too-proud": {
+      "slug": "ain-t-too-proud",
+      "title": "Ain't Too Proud",
+      "qid": "Q60747705",
+      "enwiki": "Ain't Too Proud",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2017-08-31",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/520003",
+        "official_site": "https://www.ainttooproudmusical.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Ain't_Too_Proud",
+        "wikidata": "https://www.wikidata.org/wiki/Q60747705"
+      },
+      "summary": {
+        "text": "Ain't Too Proud: The Life and Times of The Temptations is a 2017 jukebox musical with music and lyrics by The Temptations and a book by Dominique Morisseau. Based on the story of The Temptations, the musical had a series of regional productions and opened at Broadway's Imperial Theatre in March 2019.",
+        "source_url": "https://en.wikipedia.org/wiki/Ain't_Too_Proud",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "altar-boyz": {
+      "slug": "altar-boyz",
+      "title": "Altar Boyz",
+      "qid": "Q1224384",
+      "enwiki": "Altar Boyz",
+      "composers": [
+        {
+          "name": "Gary Adler",
+          "qid": "Q5524582",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/112138"
+        },
+        {
+          "name": "Michael Patrick Walker",
+          "qid": "Q6833408",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/405994"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Gary Adler",
+          "qid": "Q5524582",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/112138"
+        },
+        {
+          "name": "Michael Patrick Walker",
+          "qid": "Q6833408",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/405994"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Outer Critics Circle Award",
+          "qid": "Q7111970"
+        }
+      ],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/507533",
+        "wikipedia": "https://en.wikipedia.org/wiki/Altar_Boyz",
+        "wikidata": "https://www.wikidata.org/wiki/Q1224384"
+      },
+      "summary": {
+        "text": "Altar Boyz is a musical comedy with music and lyrics by Gary Adler and Michael Patrick Walker and a book by Kevin Del Aguila (based on an idea by Marc J. Kessler and Ken Davenport). Centering on a fictitious Christian boy band from Ohio, the show satirizes, among other things, the phenomenon of boy bands and the popularity of Christian-themed music in contemporary American culture. It began an Off Broadway run on March 1, 2005, and closed on January 10, 2010, after sixteen previews and 2,032 regular performances, making it the 9th longest-running Off-Broadway musical of all time.",
+        "source_url": "https://en.wikipedia.org/wiki/Altar_Boyz",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "babes-in-arms": {
+      "slug": "babes-in-arms",
+      "title": "Babes in Arms",
+      "qid": "Q15284234",
+      "enwiki": "Babes in Arms",
+      "composers": [
+        {
+          "name": "Richard Rodgers",
+          "qid": "Q269094",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12311"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Lorenz Hart",
+          "qid": "Q725828",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11244"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Richard Rodgers",
+          "qid": "Q269094",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12311"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1769",
+        "wikipedia": "https://en.wikipedia.org/wiki/Babes_in_Arms",
+        "wikidata": "https://www.wikidata.org/wiki/Q15284234"
+      },
+      "summary": {
+        "text": "Babes in Arms is a 1937 coming-of-age musical comedy with music by Richard Rodgers, lyrics by Lorenz Hart, and book by Rodgers and Hart. It concerns a group of small-town Long Island teenagers who put on a show to avoid being sent to a work farm by the town sheriff. Several songs in Babes in Arms became pop standards, including the title song, \"Where or When\", \"The Lady Is a Tramp\", and \"My Funny Valentine\". The film version, released in 1939, starred Judy Garland and Mickey Rooney and was directed by Busby Berkeley.",
+        "source_url": "https://en.wikipedia.org/wiki/Babes_in_Arms",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "bright-lights-big-city": {
+      "slug": "bright-lights-big-city",
+      "title": "Bright Lights, Big City",
+      "qid": "Q4967444",
+      "enwiki": "Bright Lights, Big City (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Bright_Lights%2C_Big_City_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4967444"
+      },
+      "summary": {
+        "text": "Bright Lights, Big City is a rock musical with music, lyrics and book written by Scottish composer Paul Scott Goodman based on the 1984 novel by Jay McInerney. It follows a week in the life of Jamie, a successful young writer who loses himself in the chaos of 1980s New York City.  The piece premiered Off-Broadway in New York City in 1999 and was revived in a small London production in 2010.",
+        "source_url": "https://en.wikipedia.org/wiki/Bright_Lights%2C_Big_City_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "cry-baby": {
+      "slug": "cry-baby",
+      "title": "Cry-Baby",
+      "qid": "Q5190370",
+      "enwiki": "Cry-Baby (musical)",
+      "composers": [
+        {
+          "name": "Adam Schlesinger",
+          "qid": "Q2824007",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/476231"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "David Javerbaum",
+          "qid": "Q5235597",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/476232"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Mark O'Donnell",
+          "qid": "Q554674",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/96207"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/476221",
+        "wikipedia": "https://en.wikipedia.org/wiki/Cry-Baby_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5190370"
+      },
+      "summary": {
+        "text": "Cry-Baby is a musical based on the 1990 John Waters film of the same name. The music is by Adam Schlesinger, lyrics by David Javerbaum and the book is by Mark O'Donnell and Thomas Meehan, who had previously done the book for the musical Hairspray, also based on a John Waters film of the same name. \nThe musical focuses on Baltimore teenager Allison Vernon-Williams, who is drawn across the tracks from her 1954 finishing-school background into a relationship with the orphaned Wade \"Cry-Baby\" Walker, the leader of a pack of rebel outcasts.",
+        "source_url": "https://en.wikipedia.org/wiki/Cry-Baby_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "eugenius": {
+      "slug": "eugenius",
+      "title": "Eugenius!",
+      "qid": "Q60742190",
+      "enwiki": "Eugenius!",
+      "composers": [
+        {
+          "name": "Ben Adams",
+          "qid": "Q706286"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Ben Adams",
+          "qid": "Q706286"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": "London Palladium"
+      },
+      "awards": [],
+      "links": {
+        "official_site": "http://www.eugeniusthemusical.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/Eugenius!",
+        "wikidata": "https://www.wikidata.org/wiki/Q60742190"
+      },
+      "summary": {
+        "text": "Eugenius! is an original musical comedy featuring book, music and lyrics by Ben Adams and Chris Wilkins.",
+        "source_url": "https://en.wikipedia.org/wiki/Eugenius!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "holler-if-ya-hear-me": {
+      "slug": "holler-if-ya-hear-me",
+      "title": "Holler If Ya Hear Me",
+      "qid": "Q17430993",
+      "enwiki": "Holler If Ya Hear Me (musical)",
+      "composers": [
+        {
+          "name": "Tupac Shakur",
+          "qid": "Q6107",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/496055"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Tupac Shakur",
+          "qid": "Q6107",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/496055"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/496053",
+        "wikipedia": "https://en.wikipedia.org/wiki/Holler_If_Ya_Hear_Me_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q17430993"
+      },
+      "summary": {
+        "text": "\"Holler If Ya Hear Me is a jukebox musical written by Todd Kreidler featuring the hip-hop music of Tupac Shakur.\nAccording to Playbill, the musical is \"a non-biographical story about friendship, family, revenge, change and hope. Inner city lives struggle for peace against the daily challenges they face in this entertaining and original musical\".",
+        "source_url": "https://en.wikipedia.org/wiki/Holler_If_Ya_Hear_Me_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "i-should-be-so-lucky": {
+      "slug": "i-should-be-so-lucky",
+      "title": "I Should Be So Lucky",
+      "qid": "Q118875887",
+      "enwiki": "I Should Be So Lucky (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/I_Should_Be_So_Lucky_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q118875887"
+      },
+      "summary": {
+        "text": "I Should Be So Lucky is a British jukebox musical written by Debbie Isitt, which uses the music of the pop writing team Stock Aitken Waterman.",
+        "source_url": "https://en.wikipedia.org/wiki/I_Should_Be_So_Lucky_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "i-was-looking-at-the-ceiling-and-then-i-saw-the-sky": {
+      "slug": "i-was-looking-at-the-ceiling-and-then-i-saw-the-sky",
+      "title": "I Was Looking at the Ceiling and Then I Saw the Sky",
+      "qid": "Q953293",
+      "enwiki": "I Was Looking at the Ceiling and Then I Saw the Sky",
+      "composers": [
+        {
+          "name": "John Adams",
+          "qid": "Q84114"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "June Jordan",
+          "qid": "Q6312325"
+        }
+      ],
+      "premiere": {
+        "date": "1995-05-03",
+        "venue": "Zellerbach Playhouse"
+      },
+      "awards": [],
+      "links": {
+        "official_site": "https://www.earbox.com/i-was-looking-at-the-ceiling-and-then-i-saw-the-sky/",
+        "wikipedia": "https://en.wikipedia.org/wiki/I_Was_Looking_at_the_Ceiling_and_Then_I_Saw_the_Sky",
+        "wikidata": "https://www.wikidata.org/wiki/Q953293"
+      },
+      "summary": {
+        "text": "I Was Looking at the Ceiling and Then I Saw the Sky is a 1995 \"song play\" with music composed by John Adams and a libretto by June Jordan.\nThe work is scored for three mezzo sopranos, high tenor, tenor and two baritones, accompanied by an ensemble comprising two reed players (clarinet, bass clarinet, alto saxophone), three keyboards (piano, keyboard samplers), acoustic and electric guitars, electric bass guitar (doubling on double bass) and drum set (doubling on MIDI drums).",
+        "source_url": "https://en.wikipedia.org/wiki/I_Was_Looking_at_the_Ceiling_and_Then_I_Saw_the_Sky",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "midwestern-gothic": {
+      "slug": "midwestern-gothic",
+      "title": "Midwestern Gothic",
+      "qid": "Q30602377",
+      "enwiki": "Midwestern Gothic (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Midwestern_Gothic_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q30602377"
+      },
+      "summary": {
+        "text": "Midwestern Gothic is a horror musical with book and lyrics by Royce Vavrek and music and lyrics by Joshua Schmidt. The work was commissioned and premiered by Signature Theatre on March 28, 2017.",
+        "source_url": "https://en.wikipedia.org/wiki/Midwestern_Gothic_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "on-your-toes": {
+      "slug": "on-your-toes",
+      "title": "On Your Toes",
+      "qid": "Q16395228",
+      "enwiki": "On Your Toes",
+      "composers": [
+        {
+          "name": "Richard Rodgers",
+          "qid": "Q269094",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12311"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Lorenz Hart",
+          "qid": "Q725828",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11244"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "George Abbott",
+          "qid": "Q1506831",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5770"
+        },
+        {
+          "name": "Richard Rodgers",
+          "qid": "Q269094",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12311"
+        },
+        {
+          "name": "Lorenz Hart",
+          "qid": "Q725828",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11244"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6741",
+        "wikipedia": "https://en.wikipedia.org/wiki/On_Your_Toes",
+        "wikidata": "https://www.wikidata.org/wiki/Q16395228"
+      },
+      "summary": {
+        "text": "On Your Toes (1936) is a musical with a book by Richard Rodgers, George Abbott, and Lorenz Hart, music by Rodgers, and lyrics by Hart. It was adapted into a film in 1939.\nWhile teaching music at Knickerbocker University, Phil \"Junior\" Dolan III tries to persuade Sergei Alexandrovich, the director of the Russian Ballet, to stage the jazz ballet Slaughter on Tenth Avenue. After becoming involved with the company's prima ballerina Vera Barnova, Junior is forced to assume the male lead in Slaughter. Trouble ensues when he becomes the target of two thugs hired by Vera's lover and dance partner to kill him.\nOn Your Toes marked the first time a Broadway musical made dramatic use of classical dance and incorporated jazz into its score.",
+        "source_url": "https://en.wikipedia.org/wiki/On_Your_Toes",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "pump-boys-and-dinettes": {
+      "slug": "pump-boys-and-dinettes",
+      "title": "Pump Boys and Dinettes",
+      "qid": "Q7259797",
+      "enwiki": "Pump Boys and Dinettes",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7293",
+        "wikipedia": "https://en.wikipedia.org/wiki/Pump_Boys_and_Dinettes",
+        "wikidata": "https://www.wikidata.org/wiki/Q7259797"
+      },
+      "summary": {
+        "text": "Pump Boys and Dinettes is a musical written by a performance group also called Pump Boys and Dinettes, which consists of John Foley, Mark Hardwick, Debra Monk, Cass Morgan, John Schimmel and Jim Wann. The members directed and starred in the Broadway production.",
+        "source_url": "https://en.wikipedia.org/wiki/Pump_Boys_and_Dinettes",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "quilters": {
+      "slug": "quilters",
+      "title": "Quilters",
+      "qid": "Q7272033",
+      "enwiki": "Quilters (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Molly Newman",
+          "qid": "Q6896647",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7798"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7331",
+        "wikipedia": "https://en.wikipedia.org/wiki/Quilters_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7272033"
+      },
+      "summary": {
+        "text": "Quilters is a musical with a book by Molly Newman and Barbara Damashek, and lyrics and music by Barbara Damashek. It is about the lives of American pioneer women based on the book The Quilters: Women and Domestic Art by Patricia Cooper and Norma Bradley Allen. The show was originally developed and produced by the Denver Center Theater Company, Brockman Seawell, executive producer. It had a brief run on Broadway in 1984.",
+        "source_url": "https://en.wikipedia.org/wiki/Quilters_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "sandy": {
+      "slug": "sandy",
+      "title": "Sandy",
+      "qid": "Q17509487",
+      "enwiki": "Sandy (Grease song)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Sandy_(Grease_song)",
+        "wikidata": "https://www.wikidata.org/wiki/Q17509487"
+      },
+      "summary": {
+        "text": "\"Sandy\" is a song from the 1978 film Grease, written by Louis St. Louis and Screamin' Scott Simon (of Sha Na Na), and performed by John Travolta, in character as Danny Zuko. It was released as a single in several countries, giving Travolta a no. 2 hit in the UK.",
+        "source_url": "https://en.wikipedia.org/wiki/Sandy_(Grease_song)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "starlight-express": {
+      "slug": "starlight-express",
+      "title": "Starlight Express",
+      "qid": "Q287281",
+      "enwiki": "Starlight Express",
+      "composers": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "qid": "Q180975",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12073"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Richard Stilgoe",
+          "qid": "Q2150690",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8326"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": "1984-03-27",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8285",
+        "official_site": "https://www.starlightexpress.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Starlight_Express",
+        "wikidata": "https://www.wikidata.org/wiki/Q287281"
+      },
+      "summary": {
+        "text": "Starlight Express is a 1984 musical with music by Andrew Lloyd Webber and lyrics by Richard Stilgoe. It tells the story of a young but obsolete steam engine, Rusty, that races in a championship against modern locomotives of diesel and electric engines in the hope of impressing a first-class/observation car, Pearl. The actors perform on roller skates.\nRunning for 7,409 performances in London, Starlight Express is the tenth-longest-running West End show. It is the most successful musical in Germany, where it has been performed in a purpose-built theatre since 1988, holding the Guinness World Record for most visitors to a musical in a single theatre.",
+        "source_url": "https://en.wikipedia.org/wiki/Starlight_Express",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-lightning-thief": {
+      "slug": "the-lightning-thief",
+      "title": "The Lightning Thief",
+      "qid": "Q29832089",
+      "enwiki": "The Lightning Thief (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2014-07-21",
+        "venue": "Lucille Lortel Theatre"
+      },
+      "awards": [],
+      "links": {
+        "official_site": "http://lightningthiefmusical.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Lightning_Thief_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q29832089"
+      },
+      "summary": {
+        "text": "The Lightning Thief is a musical with music and lyrics by Rob Rokicki and a book by Joe Tracz, based on the 2005 novel of the same name by Rick Riordan. In the musical,  Percy Jackson - a teenage boy who discovers that he is a demigod - goes on a quest to find Zeus's missing lightning bolt to prevent a war between the Greek gods.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Lightning_Thief_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-visit": {
+      "slug": "the-visit",
+      "title": "The Visit",
+      "qid": "Q7772895",
+      "enwiki": "The Visit (musical)",
+      "composers": [
+        {
+          "name": "John Kander",
+          "qid": "Q1685876",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6837"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Fred Ebb",
+          "qid": "Q1274807",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5654"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Terrence McNally",
+          "qid": "Q1566335",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8828"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/491297",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Visit_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7772895"
+      },
+      "summary": {
+        "text": "The Visit is a musical with a book by Terrence McNally, lyrics by Fred Ebb, and music by John Kander.\nBased on Friedrich Dürrenmatt's 1956 satirical play about greed and revenge Der Besuch der alten Dame, it focuses on the world's wealthiest woman, Claire Zachanassian, who returns to her financially depressed hometown and offers its residents a new lease on life in exchange for the murder of Anton Schell, the man who abandoned her years ago.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Visit_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "theodore-co": {
+      "slug": "theodore-co",
+      "title": "Theodore & Co",
+      "qid": "Q7781660",
+      "enwiki": "Theodore & Co",
+      "composers": [
+        {
+          "name": "Ivor Novello",
+          "qid": "Q436693",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6484"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Theodore_%26_Co",
+        "wikidata": "https://www.wikidata.org/wiki/Q7781660"
+      },
+      "summary": {
+        "text": "Theodore & Co is an English musical comedy in two acts with a book by H. M. Harwood and George Grossmith Jr. based on the French comedy Théodore et Cie by Paul Armont and Nicolas Nancey, with music by Ivor Novello and Jerome Kern and lyrics by Adrian Ross and Clifford Grey.  It was produced by Grossmith and Edward Laurillard and directed by Austen Hurgon, opening at the Gaiety Theatre on 19 September 1916 and running for 503 performances.  It starred Grossmith, Fred Leslie and Leslie Henson.\nTheodore & Co opened during World War I in the same year as two longest-running shows in London: Chu Chin Chow and The Bing Boys are Here, and the successful The Happy Day.  Audiences wanted light and uplifting entertainment during the war, and these shows delivered it.\nThis show established Ivor Novello as a theatrical composer and was Kern's first show in London. Novello's songs from the show include \"What A Duke Should Be\" and \"Oh, How I Want To Marry\".",
+        "source_url": "https://en.wikipedia.org/wiki/Theodore_%26_Co",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "wanted": {
+      "slug": "wanted",
+      "title": "Wanted",
+      "qid": "Q137673343",
+      "enwiki": "Wanted (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Wanted_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q137673343"
+      },
+      "summary": {
+        "text": "Wanted (originally titled Gun & Powder) is a 2020 musical based on the real story of Mary and Martha Clarke, two Black sisters who became outlaws in 1893. Developed by Angelica Chéri and Ross Baum, the musical began Broadway previews at the James Earl Jones Theatre on October 15, 2026, and is set to open on November 8, 2026.",
+        "source_url": "https://en.wikipedia.org/wiki/Wanted_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

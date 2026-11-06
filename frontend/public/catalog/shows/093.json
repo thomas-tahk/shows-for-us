@@ -1,0 +1,732 @@
+{
+  "live": true,
+  "shows": {
+    "castles-in-the-air": {
+      "slug": "castles-in-the-air",
+      "title": "Castles in the Air",
+      "qid": "Q5050603",
+      "enwiki": "Castles in the Air (musical)",
+      "composers": [
+        {
+          "name": "Percy Wenrich",
+          "qid": "Q370916",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12564"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Raymond Wilson Peck",
+          "qid": "Q23619514",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8263"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Raymond Wilson Peck",
+          "qid": "Q23619514",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8263"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2437",
+        "wikipedia": "https://en.wikipedia.org/wiki/Castles_in_the_Air_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5050603"
+      },
+      "summary": {
+        "text": "Castles in the Air is a musical comedy, with a book and lyrics by Raymond Wilson Peck and music by Percy Wenrich (additional lyrics by R. Locke).  The story concerns two young men, Monty Blair and John Brown, who mistake an exclusive Westchester resort for an inn.  They decide to pretend to be nobility, and Monty introduces John as a Latvian prince.  Evelyn's uncle Philip decides to teach her a lesson about social climbing by taking her to Latvia, intending to expose John as an impostor.  The plan backfires, though, because John really is a prince.\nThe musical opened on Broadway in the Selwyn Theatre on September 6, 1926. It moved to the Century Theatre on December 6, 1926.  The production was directed by Frank S. Merlin and choreographed by John Boyle and Julian Mitchell.  It starred J. Harold Murray as John and Vivienne Segal as Evelyn.\nOn June 29, 1927, a production opened in London, at the Shaftesbury Theatre.",
+        "source_url": "https://en.wikipedia.org/wiki/Castles_in_the_Air_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "dreamtime": {
+      "slug": "dreamtime",
+      "title": "Dreamtime",
+      "qid": "Q5306785",
+      "enwiki": "Dreamtime (musical)",
+      "composers": [
+        {
+          "name": "Cerrone",
+          "qid": "Q1056163"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "David Niles",
+          "qid": "Q16733406",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/82377"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "David Niles",
+          "qid": "Q5238035"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Dreamtime_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5306785"
+      },
+      "summary": {
+        "text": "Dreamtime is an original musical by Jean Marc Cerrone and David Niles.  It was created by Niles, based on an original story by Cerrone.  Niles wrote the book for the musical.  The show's message is the power of love and dreams.  Billed as a \"New Broadway Musical Experience,\" the show combined giant screen images in high definition with live actors, music and laser lighting effects.  The hi-tech, quick editing equipment incorporated into the theater allowed the audience members to be videotaped upon their entrance and become part of the show's finale.  Dreamtime ran on Broadway at the Ed Sullivan Theater in 1992.",
+        "source_url": "https://en.wikipedia.org/wiki/Dreamtime_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "edges": {
+      "slug": "edges",
+      "title": "Edges",
+      "qid": "Q5337823",
+      "enwiki": "Edges (musical)",
+      "composers": [
+        {
+          "name": "Benj Pasek",
+          "qid": "Q27660156",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/493228"
+        },
+        {
+          "name": "Justin Paul",
+          "qid": "Q6317989",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/493227"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Edges_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5337823"
+      },
+      "summary": {
+        "text": "Edges (sometimes produced as Edges: A Song Cycle) is a work of musical theatre by Benj Pasek and Justin Paul. This work is a song cycle about coming of age, growth and self-discovery of people mostly in their 20s.",
+        "source_url": "https://en.wikipedia.org/wiki/Edges_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "girl-from-the-north-country": {
+      "slug": "girl-from-the-north-country",
+      "title": "Girl from the North Country",
+      "qid": "Q48699641",
+      "enwiki": "Girl from the North Country (musical)",
+      "composers": [
+        {
+          "name": "Bob Dylan",
+          "qid": "Q392",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/84040"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Bob Dylan",
+          "qid": "Q392",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/84040"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Conor McPherson",
+          "qid": "Q734207",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4900"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": "The Old Vic"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/522971",
+        "wikipedia": "https://en.wikipedia.org/wiki/Girl_from_the_North_Country_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q48699641"
+      },
+      "summary": {
+        "text": "Girl from the North Country is a jukebox musical with music and lyrics by Bob Dylan and written by Conor McPherson. It is the second show to use Dylan's music after Twyla Tharp's The Times They Are a-Changin'.",
+        "source_url": "https://en.wikipedia.org/wiki/Girl_from_the_North_Country_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "i-can-get-it-for-you-wholesale": {
+      "slug": "i-can-get-it-for-you-wholesale",
+      "title": "I Can Get It for You Wholesale",
+      "qid": "Q3283625",
+      "enwiki": "I Can Get It for You Wholesale",
+      "composers": [
+        {
+          "name": "Harold Rome",
+          "qid": "Q1585912",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6085"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Jerome Weidman",
+          "qid": "Q1687760",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6717"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4591",
+        "wikipedia": "https://en.wikipedia.org/wiki/I_Can_Get_It_for_You_Wholesale",
+        "wikidata": "https://www.wikidata.org/wiki/Q3283625"
+      },
+      "summary": {
+        "text": "I Can Get It for You Wholesale is a musical originally produced by David Merrick, with music and lyrics by Harold Rome, and book by Jerome Weidman, based on his 1937 novel of the same title.  Its 1962 production marked the Broadway debut of 19-year-old Barbra Streisand, who was nominated for the Tony Award for Best Featured Actress in a Musical. The story is set in the New York City Garment District in 1937, during the Great Depression, and the songs utilize traditional Jewish harmonies evocative of the setting and the period of the show.",
+        "source_url": "https://en.wikipedia.org/wiki/I_Can_Get_It_for_You_Wholesale",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "jfk-a-musical-drama": {
+      "slug": "jfk-a-musical-drama",
+      "title": "JFK: A Musical Drama",
+      "qid": "Q6108124",
+      "enwiki": "JFK: A Musical Drama",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/JFK%3A_A_Musical_Drama",
+        "wikidata": "https://www.wikidata.org/wiki/Q6108124"
+      },
+      "summary": {
+        "text": "JFK: A Musical Drama is a musical with music by Will Holt, and book and lyrics by Will Holt and Tom Sawyer. Based loosely on the life of John F. Kennedy. It premiered at the Olympia Theatre, Dublin on April 24, 1997 and New York City in 1998.\nThe production was directed and choreographed by Larry Fuller and produced by Stewart F. Lane. The role of JFK was played by Maurice Clarke. It also starred Gary Raymond, Brian DeSalvo, Monica Ernesti, Stella McCusker and Peter Vollebreght.\nThe musical was music directed by Aaron Hagan and orchestrated by Peter Matz. A cast album with some of the original 1993 Goodspeed Opera House at Chester cast including Rita Gardner, Michael Brian, Claudia Rose Golde, and William Zeffiro was recorded in 2007.\nUpon the early closure of the musical, Frank Kilfeather of the Irish Times quipped \"Can you remember where you where, the night they said \"JFK\" had been shut?\".",
+        "source_url": "https://en.wikipedia.org/wiki/JFK%3A_A_Musical_Drama",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "lola-from-berlin": {
+      "slug": "lola-from-berlin",
+      "title": "Lola from Berlin",
+      "qid": "Q124749619",
+      "enwiki": "Lola from Berlin",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Lola_from_Berlin",
+        "wikidata": "https://www.wikidata.org/wiki/Q124749619"
+      },
+      "summary": {
+        "text": "Lola from Berlin is a musical in three acts with music by Jean Schwartz, lyrics by William Jerome, and a book by John J. McNally. The musical was created as a starring vehicle for actress Lulu Glaser who portrayed the title role in the original production. The work is about the German girl Lotchen von Breckenhaussett, aka \"Lola\", who travels from Berlin to New York City to collect an unexpected inheritance from a distant American relation.",
+        "source_url": "https://en.wikipedia.org/wiki/Lola_from_Berlin",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "love-janis": {
+      "slug": "love-janis",
+      "title": "Love, Janis",
+      "qid": "Q6690065",
+      "enwiki": "Love, Janis (musical)",
+      "composers": [
+        {
+          "name": "Janis Joplin",
+          "qid": "Q1514",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/495465"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Janis Joplin",
+          "qid": "Q1514",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/495465"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Love%2C_Janis_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6690065"
+      },
+      "summary": {
+        "text": "Love, Janis is a musical stage show about the life and music of rock and roll singer Janis Joplin. It was conceived, adapted and directed by Randal Myler (Hank Williams: Lost Highway, It Ain't Nothin' But The Blues). It debuted Off-Broadway in 2001 at the Village Theater (formerly the famed Village Gate) with musical direction by former Big Brother And The Holding Company band member Sam Andrew. The show had a long and healthy run, garnering over 700 performances.",
+        "source_url": "https://en.wikipedia.org/wiki/Love%2C_Janis_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "murder-on-the-orient-express": {
+      "slug": "murder-on-the-orient-express",
+      "title": "Murder on the Orient Express",
+      "qid": "Q131056649",
+      "enwiki": "Murder on the Orient Express (play)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Murder_on_the_Orient_Express_(play)",
+        "wikidata": "https://www.wikidata.org/wiki/Q131056649"
+      },
+      "summary": {
+        "text": "Murder on the Orient Express is a play by Ken Ludwig adapted from the novel of the same name by Agatha Christie. Commissioned by Agatha Christie Limited, the work was written by Ludwig in 2015. Debuted in 2017, it was the first stage play featuring Hercule Poirot to premiere in more than 75 years; with Arnold Ridley's 1940 play Peril at End House being the last play to feature Poirot previously.\nMurder on the Orient Express premiered at the McCarter Theatre in Princeton, New Jersey on March 14, 2017. The production used set designs by Beowulf Boritt, and starred Allan Corduner as Hercule Poirot. A revised version of the play premiered at the Hartford Stage on February 15, 2018. This production starred David Pittu as Poirot. The work has since been performed at many theaters in the United States and internationally.",
+        "source_url": "https://en.wikipedia.org/wiki/Murder_on_the_Orient_Express_(play)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "musical-the-prince-of-tennis": {
+      "slug": "musical-the-prince-of-tennis",
+      "title": "Musical: The Prince of Tennis",
+      "qid": "Q1192994",
+      "enwiki": "Musical: The Prince of Tennis",
+      "composers": [
+        {
+          "name": "Toshihiko Sahashi",
+          "qid": "Q2308677"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Yūji Mitsuya",
+          "qid": "Q1343946"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Yūji Mitsuya",
+          "qid": "Q1343946"
+        },
+        {
+          "name": "Hideki Mitsui",
+          "qid": "Q8673090"
+        }
+      ],
+      "premiere": {
+        "date": "2003",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Musical%3A_The_Prince_of_Tennis",
+        "wikidata": "https://www.wikidata.org/wiki/Q1192994"
+      },
+      "summary": {
+        "text": "Musical: Prince of Tennis (ミュージカル・テニスの王子様, Myūjikaru Tenisu no Ōji-sama), also known as TeniMyu (テニミュ, TeniMyu) for short, is a series of live action stage musicals directed by Yukio Ueshima based on the manga series The Prince of Tennis created by Takeshi Konomi and serialized by Shueisha in Weekly Shōnen Jump.\nThe first musical premièred in the Golden Week of 2003, and the unexpected popularity, especially among girls, and requests for merchandise of the show encouraged Marvelous Entertainment to follow through with the series. Each new show covers an arc of the manga storyline, though adaptations to the original story were made to fit the format. Female characters were removed, and irrelevant scenes or minor arcs were cut to move the plot forward.\nAt the start of the production, tickets did not sell out and the type of production was merely an experiment. Manga-based musicals were not frequently seen, if at all. However, the musicals soon became popular via word-of-mouth and social media enough to demand for double casting of characters to handle the number of performances and to allow for overseas performances in Korea and Taiwan. In addition multiple shows were live streamed into theatres all around the country to make up for the lack of enough seats in the actual venue. Even Europe got a taste of the production, when three of the actors (namely Ryousuke Katou, Shintarou Akiyama and Yuuichirou Hirata) hit Paris to attend the 10th edition of the Japan Expo in 2009\nIn May 2010, after 7 years, 22 musicals, 5 main casts and about 150 different actors, the \"first season\" came to an end with the last performance of Dream Live 7th on the 23rd. Not too long after the end of the first season, the start of a \"second season\" was commenced. The shows featured a completely new cast and a new script, but covered the same arcs as the first season. Following the end of the second season in 2014, a \"third season\" was made; similar to the second season, it featured a completely new cast and a new script, but covered the same arcs. The 3rd season commenced in February 2015 and ended in May 2020.",
+        "source_url": "https://en.wikipedia.org/wiki/Musical%3A_The_Prince_of_Tennis",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "putting-it-together": {
+      "slug": "putting-it-together",
+      "title": "Putting It Together",
+      "qid": "Q7262483",
+      "enwiki": "Putting It Together",
+      "composers": [
+        {
+          "name": "Stephen Sondheim",
+          "qid": "Q153579",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12430"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Stephen Sondheim",
+          "qid": "Q153579",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12430"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Stephen Sondheim",
+          "qid": "Q153579",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12430"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7308",
+        "wikipedia": "https://en.wikipedia.org/wiki/Putting_It_Together",
+        "wikidata": "https://www.wikidata.org/wiki/Q7262483"
+      },
+      "summary": {
+        "text": "Putting it Together is a musical revue showcasing the songs of Stephen Sondheim.  Drawing its title from a song in Sunday in the Park with George, it was devised by Sondheim and Julia McKenzie. The revue has received several productions, beginning with its premiere in England in 1992, Off-Broadway in 1993, Broadway in 1999 and the West End in 2014.",
+        "source_url": "https://en.wikipedia.org/wiki/Putting_It_Together",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "regina": {
+      "slug": "regina",
+      "title": "Regina",
+      "qid": "Q7308424",
+      "enwiki": "Regina (play)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Antonio Velasco Piña",
+          "qid": "Q4777020"
+        }
+      ],
+      "premiere": {
+        "date": "2003",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Regina_(play)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7308424"
+      },
+      "summary": {
+        "text": "Regina: Un Musical Para Una Nación Que Despierta (Regina: A musical for an awaking nation) is a Mexican musical composed by Antonio Calvo, with lyrics by Alex Slucki. It is based on the novel Regina (1987) by Antonio Velasco Piña.",
+        "source_url": "https://en.wikipedia.org/wiki/Regina_(play)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "shockheaded-peter": {
+      "slug": "shockheaded-peter",
+      "title": "Shockheaded Peter",
+      "qid": "Q7499903",
+      "enwiki": "Shockheaded Peter (musical)",
+      "composers": [],
+      "lyricists": [
+        {
+          "name": "Martyn Jacques",
+          "qid": "Q3560523"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Julian Bleach",
+          "qid": "Q9016424"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Laurence Olivier Awards",
+          "qid": "Q28470"
+        }
+      ],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Shockheaded_Peter_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7499903"
+      },
+      "summary": {
+        "text": "Shockheaded Peter is a 1998 musical using the popular German children's book Struwwelpeter (1845) by Heinrich Hoffmann as its basis.\nCreated by Julian Bleach, Anthony Cairns, Julian Crouch, Graeme Gilmour, Tamzin Griffin, Jo Pocock, Phelim McDermott, Michael Morris and The Tiger Lillies (Martyn Jacques, Adrian Huge and Adrian Stout) the production combines elements of pantomime and puppetry with musical versions of the poems with the songs generally following the text but with a somewhat darker tone. Whereas the children in the poems only sometimes die, in the musical they all do. Commissioned by the West Yorkshire Playhouse in Leeds and the Lyric Hammersmith in West London, the show debuted in 1998 in Leeds before moving to London and subsequently to world tours.\nWhile the Tiger Lillies performed as onstage band for the majority of the original Leeds and London runs, they were later replaced by David Thomas & Two Pale Boys.",
+        "source_url": "https://en.wikipedia.org/wiki/Shockheaded_Peter_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "stop-look-listen": {
+      "slug": "stop-look-listen",
+      "title": "Stop! Look! Listen!",
+      "qid": "Q7619670",
+      "enwiki": "Stop! Look! Listen!",
+      "composers": [
+        {
+          "name": "Irving Berlin",
+          "qid": "Q128746",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6452"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Irving Berlin",
+          "qid": "Q128746",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6452"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Harry B. Smith",
+          "qid": "Q5667065",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/24417"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8320",
+        "wikipedia": "https://en.wikipedia.org/wiki/Stop!_Look!_Listen!",
+        "wikidata": "https://www.wikidata.org/wiki/Q7619670"
+      },
+      "summary": {
+        "text": "Stop! Look! Listen! is a musical in three acts with music and lyrics by Irving Berlin and book by Harry B. Smith.  The piece had additional music by Henry Kailimai and Jack Alau and additional lyrics by G. H. Stover and Sylvester Kalama.\nStop! Look! Listen! opened on Broadway at the Globe Theatre on Christmas Day, 1915, and ran for 105 performances.  The revue was produced by Charles Dillingham and directed by  R.H. Burnside.  The music director was Robert Hood Bowers, and Robert McQuinn designed the sets and costumes.",
+        "source_url": "https://en.wikipedia.org/wiki/Stop!_Look!_Listen!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-best-little-whorehouse-goes-public": {
+      "slug": "the-best-little-whorehouse-goes-public",
+      "title": "The Best Little Whorehouse Goes Public",
+      "qid": "Q7716734",
+      "enwiki": "The Best Little Whorehouse Goes Public",
+      "composers": [
+        {
+          "name": "Carol Hall",
+          "qid": "Q5044354",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11810"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Carol Hall",
+          "qid": "Q5044354",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11810"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Larry L. King",
+          "qid": "Q6490649",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7149"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1957",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Best_Little_Whorehouse_Goes_Public",
+        "wikidata": "https://www.wikidata.org/wiki/Q7716734"
+      },
+      "summary": {
+        "text": "The Best Little Whorehouse Goes Public is a 1994 musical with a book by Larry L. King and Peter Masterson and music and lyrics by Carol Hall, a sequel to The Best Little Whorehouse in Texas.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Best_Little_Whorehouse_Goes_Public",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-civil-war": {
+      "slug": "the-civil-war",
+      "title": "The Civil War",
+      "qid": "Q7723241",
+      "enwiki": "The Civil War (musical)",
+      "composers": [
+        {
+          "name": "Frank Wildhorn",
+          "qid": "Q1444457",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5638"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2601",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Civil_War_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7723241"
+      },
+      "summary": {
+        "text": "The Civil War is a musical written by Gregory Boyd and Frank Wildhorn, with lyrics by Jack Murphy and music by Wildhorn. The musical centers on the American Civil War, with the musical numbers portraying the war through Union, Confederate, and slave viewpoints.  The musical was nominated for two Tony Awards, including the Tony Award for Best Musical.  Its styles include gospel, folk, country, rock, and rhythm and blues.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Civil_War_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-devil-wears-prada": {
+      "slug": "the-devil-wears-prada",
+      "title": "The Devil Wears Prada",
+      "qid": "Q113485118",
+      "enwiki": "The Devil Wears Prada (musical)",
+      "composers": [
+        {
+          "name": "Elton John",
+          "qid": "Q2808",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11938"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Mark Sonnenblick",
+          "qid": "Q121703143"
+        },
+        {
+          "name": "Shaina Taub",
+          "qid": "Q27663526",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/522361"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": "2022-07-19",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "https://devilwearspradamusical.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Devil_Wears_Prada_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q113485118"
+      },
+      "summary": {
+        "text": "The Devil Wears Prada is a musical based on the 2003 novel of the same name by Lauren Weisberger as well as the 2006 film of the same name with a screenplay by Aline Brosh McKenna. The musical has music by Elton John, lyrics by Shaina Taub and Mark Sonnenblick, and a book by Kate Wetherhead. The musical is produced by Kevin McCollum and John's Rocket Entertainment and presented by special arrangement with Buena Vista Theatrical.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Devil_Wears_Prada_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-people-in-the-picture": {
+      "slug": "the-people-in-the-picture",
+      "title": "The People in the Picture",
+      "qid": "Q7756649",
+      "enwiki": "The People in the Picture",
+      "composers": [],
+      "lyricists": [
+        {
+          "name": "Iris Rainer Dart",
+          "qid": "Q6070269",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/489218"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Iris Rainer Dart",
+          "qid": "Q6070269",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/489218"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/489214",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_People_in_the_Picture",
+        "wikidata": "https://www.wikidata.org/wiki/Q7756649"
+      },
+      "summary": {
+        "text": "The People in the Picture is a musical with book and lyrics by Iris Rainer Dart and music by Mike Stoller and Artie Butler. The musical is about a grandmother recalling her life in the Yiddish theater and the Holocaust.",
+        "source_url": "https://en.wikipedia.org/wiki/The_People_in_the_Picture",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-republic-of-myopia": {
+      "slug": "the-republic-of-myopia",
+      "title": "The Republic of Myopia",
+      "qid": "Q28428143",
+      "enwiki": "The Republic of Myopia",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Republic_of_Myopia",
+        "wikidata": "https://www.wikidata.org/wiki/Q28428143"
+      },
+      "summary": {
+        "text": "The Republic of Myopia is an Australian musical with book and lyrics by Jonathan Biggins, Drew Forsythe and Phillip Scott and music by Phillip Scott.\nThe comedic musical is set in 1904 in the fictional central European republic of Myopia. The Myopians are an old-fashioned, peaceful and happy people ruled by a benevolent President, until an American envoy visits to make things 'better'.\nSydney Theatre Company premiered the musical to open the Sydney Theatre, performed in repertory with Katherine Thomson's play Harbour (which shared the same cast).  It was directed by Biggins with choreography by Ross Coleman.\nAn original cast recording was released.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Republic_of_Myopia",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "trick-the-musical": {
+      "slug": "trick-the-musical",
+      "title": "Trick! The Musical",
+      "qid": "Q134522761",
+      "enwiki": "Trick! The Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Trick!_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q134522761"
+      },
+      "summary": {
+        "text": "Trick! The Musical is a musical with a book and lyrics by Jason Schafer and music by Arthur LaFrentz Bacon. It is based on the 1999 film by Jim Fall, which was also written by Schafer. The musical focuses on two young gay men in New York City, Gabriel, an aspiring musical writer, and Mark, a personal trainer and former go-go boy, who meet and attempt to hook up, only to have every attempt foiled across the city, through a combination of their wacky friends and acquaintances, enemies, and their own neuroses and sordid pasts.\nDirected by Paul Conroy and choreographed by Jonathan Bryant, the original production of Trick! The Musical premiered in Atlanta, Georgia, at the Out Front Theater Company in 2025. The show received positive reviews from critics and ran until May 17, 2025.\nIn March 2026, an industry reading of the musical directed by Jeff Calhoun featured J. Harrison Ghee.",
+        "source_url": "https://en.wikipedia.org/wiki/Trick!_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "up-on-the-roof": {
+      "slug": "up-on-the-roof",
+      "title": "Up on the Roof",
+      "qid": "Q7898094",
+      "enwiki": "Up on the Roof (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Up_on_the_Roof_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7898094"
+      },
+      "summary": {
+        "text": "Up on the Roof is a musical by Simon Moore and Jane Prowse, which follows a decade in the lives of five friends who form an a cappella singing group at university.\nThe show was first staged in 1987 in London and starred Mark McGann and Gary Olsen, and it was nominated for an Olivier Award for Best Musical and McGann and Olsen were nominated for best actor in a musical. It was revived at the Queen's Theatre, Hornchurch in May and June 2006.\nThe show was made into a 1997 UK TV film starring Adrian Lester and directed by Simon Moore. The film was broadcast on ITV on October 31, 1997. Time Out gave the TV film a negative rating.",
+        "source_url": "https://en.wikipedia.org/wiki/Up_on_the_Roof_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

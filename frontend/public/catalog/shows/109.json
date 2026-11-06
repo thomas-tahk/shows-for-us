@@ -1,0 +1,405 @@
+{
+  "live": true,
+  "shows": {
+    "a-knight-s-tale": {
+      "slug": "a-knight-s-tale",
+      "title": "A Knight's Tale",
+      "qid": "Q133407462",
+      "enwiki": "A Knight's Tale (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "http://aknightstalemusical.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Knight's_Tale_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q133407462"
+      },
+      "summary": {
+        "text": "A Knight's Tale The Musical is a jukebox musical written by Brona C Titley, based on the 2001 film of the same name by Brian Helgeland.",
+        "source_url": "https://en.wikipedia.org/wiki/A_Knight's_Tale_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "avenue-q": {
+      "slug": "avenue-q",
+      "title": "Avenue Q",
+      "qid": "Q790583",
+      "enwiki": "Avenue Q",
+      "composers": [
+        {
+          "name": "Jeff Marx",
+          "qid": "Q3176550",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/109409"
+        },
+        {
+          "name": "Robert Lopez",
+          "qid": "Q3435778",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/109408"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Jeff Marx",
+          "qid": "Q3176550",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/109409"
+        },
+        {
+          "name": "Robert Lopez",
+          "qid": "Q3435778",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/109408"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Jeff Whitty",
+          "qid": "Q6175265",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/109407"
+        }
+      ],
+      "premiere": {
+        "date": "2003",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/11189",
+        "official_site": "http://www.avenidaq.com.br",
+        "wikipedia": "https://en.wikipedia.org/wiki/Avenue_Q",
+        "wikidata": "https://www.wikidata.org/wiki/Q790583"
+      },
+      "summary": {
+        "text": "Avenue Q is a musical comedy featuring puppets and human actors with music and lyrics by Robert Lopez and Jeff Marx and a book by Jeff Whitty. It won Best Musical, Book, and Score at the 2004 Tony Awards. The show's format is a parody of Sesame Street, but its content involves adult-oriented themes. It has been praised for its approach to themes of racism, homosexuality and internet pornography.\nThe musical premiered off-Broadway in 2003 at the Vineyard Theatre, co-produced by the Vineyard Theatre and The New Group. In July of that same year, the show moved to the John Golden Theatre on Broadway, where it ran until 2009, playing for over 2,500 performances. It transferred to the off-Broadway New World Stages within weeks of ending its Broadway run, where it played until 2019; together, the two productions played 6,569 performances. Major productions have been staged in Las Vegas and the West End, and the musical has been staged and toured in several countries around the world. A school-friendly script has been produced.\nThe principal cast includes four puppeteers and three human actors. The puppet characters, Princeton, Kate, Nicky, and others, are played by the unconcealed puppeteers as the costumed human actors interact with the puppets.",
+        "source_url": "https://en.wikipedia.org/wiki/Avenue_Q",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "chasing-rainbows-the-road-to-oz": {
+      "slug": "chasing-rainbows-the-road-to-oz",
+      "title": "Chasing Rainbows: The Road to Oz",
+      "qid": "Q85751663",
+      "enwiki": "Chasing Rainbows: The Road to Oz",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Chasing_Rainbows%3A_The_Road_to_Oz",
+        "wikidata": "https://www.wikidata.org/wiki/Q85751663"
+      },
+      "summary": {
+        "text": "Chasing Rainbows: The Road to Oz is a musical with a book by Marc Acito, based on the life of Judy Garland.",
+        "source_url": "https://en.wikipedia.org/wiki/Chasing_Rainbows%3A_The_Road_to_Oz",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "clorindy-or-the-origin-of-the-cake-walk": {
+      "slug": "clorindy-or-the-origin-of-the-cake-walk",
+      "title": "Clorindy, or The Origin of the Cake Walk",
+      "qid": "Q5135144",
+      "enwiki": "Clorindy, or The Origin of the Cake Walk",
+      "composers": [
+        {
+          "name": "Will Marion Cook",
+          "qid": "Q739583",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11539"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Paul Laurence Dunbar",
+          "qid": "Q974678",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12857"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Clorindy%2C_or_The_Origin_of_the_Cake_Walk",
+        "wikidata": "https://www.wikidata.org/wiki/Q5135144"
+      },
+      "summary": {
+        "text": "Clorindy, or The Origin of the Cake Walk is a one-act musical by composer Will Marion Cook and librettist Paul Laurence Dunbar.\nThe piece premiered in 1898 and was the first Broadway musical with an all-black cast. It starred the famous African-American performer Ernest Hogan. Popular songs from the show included \"Who Dat Say Chicken In Dis Crowd\" (one of the first documented uses of the well-known \"Who Dat?\" comedy motif) and the finale, \"Darktown Is Out Tonight\".",
+        "source_url": "https://en.wikipedia.org/wiki/Clorindy%2C_or_The_Origin_of_the_Cake_Walk",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "dogfight": {
+      "slug": "dogfight",
+      "title": "Dogfight",
+      "qid": "Q17104955",
+      "enwiki": "Dogfight (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Peter Duchan",
+          "qid": "Q7173754"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Dogfight_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q17104955"
+      },
+      "summary": {
+        "text": "Dogfight is a stage musical with music and lyrics by Benj Pasek and Justin Paul, and a book by Peter Duchan. It is based on the 1991 film of the same name. The musical premiered off-Broadway at the Second Stage Theatre in 2012, and in August 2014, the musical had its European premiere at the Southwark Playhouse in London.",
+        "source_url": "https://en.wikipedia.org/wiki/Dogfight_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "going-up": {
+      "slug": "going-up",
+      "title": "Going Up",
+      "qid": "Q5577856",
+      "enwiki": "Going Up (musical)",
+      "composers": [
+        {
+          "name": "Louis Hirsch",
+          "qid": "Q6687388",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11862"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Otto Harbach",
+          "qid": "Q1231720",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6056"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Otto Harbach",
+          "qid": "Q1231720",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6056"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3965",
+        "wikipedia": "https://en.wikipedia.org/wiki/Going_Up_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5577856"
+      },
+      "summary": {
+        "text": "Going Up is a musical comedy in three acts with music by Louis Hirsch and book and lyrics by Otto Harbach and James Montgomery. Set in the US city of Lenox, Massachusetts, at the end of World War I, the musical tells the story of a writer turned aviator who wins the hand of the high society girl that he loves by his daring handling of the joystick of a biplane.  Popular songs included \"Hip Hooray\", \"If You Look in Her Eyes\", \"Kiss Me\", \"Going Up\", \"Do It for Me\", \"The Tickle Toe\", and \"Down! Up! Left! Right!\".\nThe musical was a hit on Broadway in 1917 and again the following year in London.  Revivals and a film adaptation followed.",
+        "source_url": "https://en.wikipedia.org/wiki/Going_Up_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "high-school-musical-2-on-stage": {
+      "slug": "high-school-musical-2-on-stage",
+      "title": "High School Musical 2: On Stage!",
+      "qid": "Q5756536",
+      "enwiki": "High School Musical 2: On Stage!",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/High_School_Musical_2%3A_On_Stage!",
+        "wikidata": "https://www.wikidata.org/wiki/Q5756536"
+      },
+      "summary": {
+        "text": "Disney's High School Musical 2: On Stage! is the second adaptation of Disney's High School Musical franchise.",
+        "source_url": "https://en.wikipedia.org/wiki/High_School_Musical_2%3A_On_Stage!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "home-sweet-homer": {
+      "slug": "home-sweet-homer",
+      "title": "Home Sweet Homer",
+      "qid": "Q16980363",
+      "enwiki": "Home Sweet Homer",
+      "composers": [
+        {
+          "name": "Mitch Leigh",
+          "qid": "Q1939469",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12043"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Roland Kibbee",
+          "qid": "Q1615398",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9323"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4463",
+        "wikipedia": "https://en.wikipedia.org/wiki/Home_Sweet_Homer",
+        "wikidata": "https://www.wikidata.org/wiki/Q16980363"
+      },
+      "summary": {
+        "text": "Home Sweet Homer is a 1976 musical with a book by Roland Kibbee and Albert Marre, lyrics by Charles Burr and Forman Brown, and music by Mitch Leigh. Loosely based on Homeric legend, the plot centers on Odysseus and Penelope, awaiting his return to Ithaca.\nIt is one of the most notorious flops in Broadway theatre history, with only a single performance before closing.",
+        "source_url": "https://en.wikipedia.org/wiki/Home_Sweet_Homer",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "monte-cristo-jr-victorian-burlesque": {
+      "slug": "monte-cristo-jr-victorian-burlesque",
+      "title": "Monte Cristo Jr.",
+      "qid": "Q60791392",
+      "enwiki": "Monte Cristo Jr. (Victorian burlesque)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6209",
+        "wikipedia": "https://en.wikipedia.org/wiki/Monte_Cristo_Jr._(Victorian_burlesque)",
+        "wikidata": "https://www.wikidata.org/wiki/Q60791392"
+      },
+      "summary": {
+        "text": "Monte Cristo Jr.  was a Victorian burlesque with a libretto written by Richard Henry, a pseudonym for the writers Richard Butler and Henry Chance Newton. The score was composed by Meyer Lutz, Ivan Caryll, Hamilton Clarke, Tito Mattei, G. W. Hunt and Henry J. Leslie. The ballet and incidental dances were arranged by John D'Auban, and the theatre's musical director, Meyer Lutz, conducted. The play's doggerel verse was loosely based on The Count of Monte Cristo by Alexandre Dumas.\nThe piece was first performed under the management of George Edwardes, premiering at the Gaiety Theatre in London on 23 December 1886. Nellie Farren, E. J. Lonnen, Fred Leslie, Marion Hood and Jenny Lind appeared in the cast during the run, which ended in early October 1887. It was then toured in Britain, and the following year it was mounted in New York and toured in Australia.\nA separate musical of the same name (except with a comma after \"Cristo\") premiered on Broadway in 1919, composed by Sigmund Romberg.",
+        "source_url": "https://en.wikipedia.org/wiki/Monte_Cristo_Jr._(Victorian_burlesque)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "oh-coward": {
+      "slug": "oh-coward",
+      "title": "Oh, Coward!",
+      "qid": "Q7080366",
+      "enwiki": "Oh, Coward!",
+      "composers": [
+        {
+          "name": "Noël Coward",
+          "qid": "Q298388",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/36502"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6674",
+        "wikipedia": "https://en.wikipedia.org/wiki/Oh%2C_Coward!",
+        "wikidata": "https://www.wikidata.org/wiki/Q7080366"
+      },
+      "summary": {
+        "text": "Oh, Coward! is a musical revue in two acts devised by Roderick Cook and containing music and lyrics by Noël Coward. The revue consists of two men and one woman in formal dress, performing songs based on the following themes: England, family album, travel, theatre, love and women. There are also sketches, such as  \"London Pastoral\" which tells of the joys of London in the spring, \"Family Album\" about relatives who \"were not excessively bright\", and a scene with excerpts from several of Coward's plays, such as Private Lives.\nIt ran Off-Broadway in 1972, in London in 1975 and on Broadway in 1986. Also in 1972 a revue along similar lines, Cowardy Custard played in London.",
+        "source_url": "https://en.wikipedia.org/wiki/Oh%2C_Coward!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "rap-master-ronnie": {
+      "slug": "rap-master-ronnie",
+      "title": "Rap Master Ronnie",
+      "qid": "Q54954307",
+      "enwiki": "Rap Master Ronnie",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Rap_Master_Ronnie",
+        "wikidata": "https://www.wikidata.org/wiki/Q54954307"
+      },
+      "summary": {
+        "text": "Rap Master Ronnie is the name of several musical comedies developed by Garry Trudeau and Elizabeth Swados throughout the 1980s, including a 1984 off-Broadway \"partisan revue,\" a music video, and a made for TV movie starring The Smothers Brothers, Carol Kane, and Jon Cryer. The shows all share the same basic structure of a faux campaign ad for Ronald Reagan, satirizing his social policies, particularly those regarding drugs and minorities. The shows received largely mixed reviews.",
+        "source_url": "https://en.wikipedia.org/wiki/Rap_Master_Ronnie",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "ubu-rock": {
+      "slug": "ubu-rock",
+      "title": "Ubu Rock",
+      "qid": "Q24807762",
+      "enwiki": "Ubu Rock",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Ubu_Rock",
+        "wikidata": "https://www.wikidata.org/wiki/Q24807762"
+      },
+      "summary": {
+        "text": "Ubu Rock is an American musical by composer/lyricist Rusty Magee, with a book by Andrei Belgrader, and Shelley Berc, based on Alfred Jarry's controversial 1896 French play Ubu Roi.  It had its premiere on June 2, 1995 at the American Repertory Theater in Cambridge, Massachusetts. It ran through July 16, 1995 and then again from March 13 to March 23, 1996.",
+        "source_url": "https://en.wikipedia.org/wiki/Ubu_Rock",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "up-and-down-broadway": {
+      "slug": "up-and-down-broadway",
+      "title": "Up and Down Broadway",
+      "qid": "Q124735316",
+      "enwiki": "Up and Down Broadway",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Up_and_Down_Broadway",
+        "wikidata": "https://www.wikidata.org/wiki/Q124735316"
+      },
+      "summary": {
+        "text": "Up and Down Broadway is a musical revue in two acts with music by Jean Schwartz, lyrics by William Jerome, and a book  Edgar Smith. The musical's loose plot concerns the god Apollo who arrives in New York City in the accompany of other Greek deities vowing to improve the theatrical tastes of the American public. In the end they decide Broadway knows more about great entertainment than the Greek gods do. The musical was written as a starring vehicle for Eddie Foy who portrayed the main servant of Apollo, Momus, and provided much of the work's comedic thrust.\nUp and Down Broadway premiered at the Casino Theatre on July 18, 1910, where it ran for a total of 72 performances; closing on September 17, 1910. The show is most famous for introducing the popular standard \"Chinatown, My Chinatown and the tune \"Oh, that Beautiful Rag\" by Irving Berlin and Ted Snyder, which experienced a succinct period of popularity on phonograph cylinder covers.",
+        "source_url": "https://en.wikipedia.org/wiki/Up_and_Down_Broadway",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

@@ -1,0 +1,701 @@
+{
+  "live": true,
+  "shows": {
+    "a-new-brain": {
+      "slug": "a-new-brain",
+      "title": "A New Brain",
+      "qid": "Q4658467",
+      "enwiki": "A New Brain",
+      "composers": [
+        {
+          "name": "William Finn",
+          "qid": "Q8009056",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9128"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "William Finn",
+          "qid": "Q8009056",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9128"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "William Finn",
+          "qid": "Q8009056",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9128"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/A_New_Brain",
+        "wikidata": "https://www.wikidata.org/wiki/Q4658467"
+      },
+      "summary": {
+        "text": "A New Brain is a musical with music and lyrics by William Finn and book by Finn and James Lapine. Though many of Finn's previous musicals are to some extent autobiographical, A New Brain deals directly with his own harrowing experience with an arteriovenous malformation and the healing power of art. The protagonist of the musical, Gordon Schwinn, worries that he may not live to complete his work. Finn wrote many of the songs soon after his release from the hospital. The musical premiered Off-Broadway in 1998 and has been revived in the U.S., England and elsewhere.",
+        "source_url": "https://en.wikipedia.org/wiki/A_New_Brain",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "a-spoonful-of-sherman": {
+      "slug": "a-spoonful-of-sherman",
+      "title": "A Spoonful of Sherman",
+      "qid": "Q17509198",
+      "enwiki": "A Spoonful of Sherman",
+      "composers": [
+        {
+          "name": "Al Sherman",
+          "qid": "Q1260972",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/83536"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Al Sherman",
+          "qid": "Q1260972",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/83536"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Robert J. Sherman",
+          "qid": "Q21062391"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Spoonful_of_Sherman",
+        "wikidata": "https://www.wikidata.org/wiki/Q17509198"
+      },
+      "summary": {
+        "text": "A Spoonful of Sherman is a musical revue written and emceed by Robert J. Sherman which premiered on January 6, 2014 at the St. James Theatre in London. \nThe cast consisted of four rising West End theatre stars including Charlotte Wakefield, Emma Williams, Stuart Matthew Price and Greg Castiglioni.  Musical Direction was provided by Colin Billing and the show was directed by Stewart Nicholls. Lighting was designed by the show's Stage Manager Andrew Holton. In the 2017 version of the show, focus of the show's narrative shifted to both Sherman Brothers' lives as well as to the life of their father, Al Sherman.",
+        "source_url": "https://en.wikipedia.org/wiki/A_Spoonful_of_Sherman",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "bandanna-land": {
+      "slug": "bandanna-land",
+      "title": "Bandanna Land",
+      "qid": "Q60517091",
+      "enwiki": "Bandanna Land",
+      "composers": [
+        {
+          "name": "Will Marion Cook",
+          "qid": "Q739583",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11539"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Jesse A. Shipp",
+          "qid": "Q6186084",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6488"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": "Majestic Theatre"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Bandanna_Land",
+        "wikidata": "https://www.wikidata.org/wiki/Q60517091"
+      },
+      "summary": {
+        "text": "Bandanna Land (also known as In Bandanna Land) is a musical from 1908.  The book was written by Jesse A. Shipp, lyrics by Alex Rogers and music composed primarily by Will Marion Cook.  Created by and featuring African Americans, it was the third musical written by the team whose previous works included In Dahomey (1902) and Abyssinia (1906). It was the last show featuring the duo of Bert Williams and George Walker, comedians who starred in these musicals. Walker became ill during the post-Broadway tour and died in 1911.",
+        "source_url": "https://en.wikipedia.org/wiki/Bandanna_Land",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "billy-noname": {
+      "slug": "billy-noname",
+      "title": "Billy Noname",
+      "qid": "Q4913107",
+      "enwiki": "Billy Noname",
+      "composers": [
+        {
+          "name": "Johnny Brandon",
+          "qid": "Q6266357",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12767"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Billy_Noname",
+        "wikidata": "https://www.wikidata.org/wiki/Q4913107"
+      },
+      "summary": {
+        "text": "Billy Noname is an Off-Broadway musical with music and lyrics by Johnny Brandon and a book by William Wellington Mackey. It ran for 48 performances at the Truck and Warehouse Theater, from March 2, 1970, to April 12, 1970. Lucia Victor directed, and the title role of Billy Noname was played by Donny Burks. The musical tells the story of a black man growing up. A recording of the original cast was released in 1996.\nRoulette Records Label (New York) issued the musical soundtrack on record #SROC-11.",
+        "source_url": "https://en.wikipedia.org/wiki/Billy_Noname",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "buonanotte-bettina": {
+      "slug": "buonanotte-bettina",
+      "title": "Buonanotte Bettina",
+      "qid": "Q86664497",
+      "enwiki": "Buonanotte Bettina",
+      "composers": [
+        {
+          "name": "Gorni Kramer",
+          "qid": "Q912564"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": "Teatro Vittorio Alfieri"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Buonanotte_Bettina",
+        "wikidata": "https://www.wikidata.org/wiki/Q86664497"
+      },
+      "summary": {
+        "text": "Buonanotte Bettina (lit. 'Good night Bettina') is a play by Italian playwrights Pietro Garinei and Sandro Giovannini. It is set in Turin on 14 November 1956. An English version, titled When in Rome, was given at Adelphi Theater in London in 1959.  There's also a Spanish version, set in Teatro de la Comedia of Madrid on 31 December 1958.",
+        "source_url": "https://en.wikipedia.org/wiki/Buonanotte_Bettina",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "cindy": {
+      "slug": "cindy",
+      "title": "Cindy",
+      "qid": "Q5120471",
+      "enwiki": "Cindy (musical)",
+      "composers": [
+        {
+          "name": "Johnny Brandon",
+          "qid": "Q6266357",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12767"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Cindy_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5120471"
+      },
+      "summary": {
+        "text": "Cindy is a musical with music and lyrics by Johnny Brandon, and a book by Joe Sauter and Mike Sawyer. It ran off-Broadway at the Gate, Orpheum, and Cricket Theatres (not simultaneously) in 1964 and 1965. It is an adaptation of the story of Cinderella.  It was produced by Chandler Warren and Philip Temple, by arrangement with Stuart Wiener and Jerry Grace.",
+        "source_url": "https://en.wikipedia.org/wiki/Cindy_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "elf": {
+      "slug": "elf",
+      "title": "Elf",
+      "qid": "Q5359849",
+      "enwiki": "Elf (musical)",
+      "composers": [
+        {
+          "name": "Matthew Sklar",
+          "qid": "Q6791232",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/82828"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Chad Beguelin",
+          "qid": "Q5066165",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/402892"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Bob Martin",
+          "qid": "Q4933272",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/412778"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/488283",
+        "wikipedia": "https://en.wikipedia.org/wiki/Elf_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5359849"
+      },
+      "summary": {
+        "text": "Elf is a musical based on the 2003 motion picture, with a score by Matthew Sklar and Chad Beguelin. The book is adapted by Bob Martin and Thomas Meehan from the film. \nThe musical premiered on Broadway in the Christmas season of 2010 and was revived in 2012 and 2024. It played in London's West End in 2015, 2022, 2023, and 2025, and it has toured extensively in English-speaking countries, often during the Christmas holiday season.",
+        "source_url": "https://en.wikipedia.org/wiki/Elf_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "king-of-cadonia": {
+      "slug": "king-of-cadonia",
+      "title": "King of Cadonia",
+      "qid": "Q6412211",
+      "enwiki": "King of Cadonia",
+      "composers": [
+        {
+          "name": "Sidney Jones",
+          "qid": "Q926850",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11958"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Adrian Ross",
+          "qid": "Q3605637",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13251"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Frederick Lonsdale",
+          "qid": "Q630412",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5689"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5068",
+        "wikipedia": "https://en.wikipedia.org/wiki/King_of_Cadonia",
+        "wikidata": "https://www.wikidata.org/wiki/Q6412211"
+      },
+      "summary": {
+        "text": "King of Cadonia is an English musical in two acts with a book by Frederick Lonsdale, lyrics by Adrian Ross and Arthur Wimperis and music by Sidney Jones and Frederick Rosse. It opened at the Prince of Wales Theatre in London on 3 September 1908, produced by Frank Curzon, and ran for 333 performances. It starred Isabel Jay, Huntley Wright, and Bertram Wallis. There was a brief Broadway production in 1910 with additional music by Jerome Kern at the Fifth Avenue Theatre and directed by Joseph W. Herbert.\nThis was Lonsdale's first success.  Famous songs included \"The Wind of Love\", \"The Portrait\" and \"Disguises\".",
+        "source_url": "https://en.wikipedia.org/wiki/King_of_Cadonia",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "l-angelica": {
+      "slug": "l-angelica",
+      "title": "L'Angelica",
+      "qid": "Q85775252",
+      "enwiki": "L'Angelica (Carvalho)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/L'Angelica_(Carvalho)",
+        "wikidata": "https://www.wikidata.org/wiki/Q85775252"
+      },
+      "summary": {
+        "text": "L'Angelica is a serenata by João de Sousa Carvalho to a libretto by Metastasio previously set by other composers. The plot concerns how Angelica thwarts the noble Orlando and elopes with Medoro. The 1720 serenata Angelica e Medoro by Nicola Porpora is a setting of the same libretto.",
+        "source_url": "https://en.wikipedia.org/wiki/L'Angelica_(Carvalho)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "my-darlin-aida": {
+      "slug": "my-darlin-aida",
+      "title": "My Darlin' Aida",
+      "qid": "Q65050541",
+      "enwiki": "My Darlin' Aida",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "playbill": "https://playbill.com/production/my-darlin-aida-winter-garden-theatre-vault-0000011591",
+        "wikipedia": "https://en.wikipedia.org/wiki/My_Darlin'_Aida",
+        "wikidata": "https://www.wikidata.org/wiki/Q65050541"
+      },
+      "summary": {
+        "text": "My Darlin’ Aida  is a 1952 Broadway musical play with music by Giuseppe Verdi, lyrics by Charles Friedman, based on Verdi's opera, Aida.  It was produced by Robert L. Joseph.",
+        "source_url": "https://en.wikipedia.org/wiki/My_Darlin'_Aida",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "primrose": {
+      "slug": "primrose",
+      "title": "Primrose",
+      "qid": "Q7243661",
+      "enwiki": "Primrose (musical)",
+      "composers": [
+        {
+          "name": "George Gershwin",
+          "qid": "Q123829",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5813"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Desmond Carter",
+          "qid": "Q5264682",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5042"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Guy Bolton",
+          "qid": "Q924974",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4575"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Primrose_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7243661"
+      },
+      "summary": {
+        "text": "Primrose is a musical in three acts with a book by Guy Bolton and George Grossmith Jr., lyrics by Desmond Carter and Ira Gershwin, and music by George Gershwin. It centres on a writer whose story-within-a-story forms the basis of the plot. It was written expressly for London's West End, where it ran for 255 performances in 1924 and 1925. The musical played in Australia, but it was not performed in the United States until more than half a century after it was written.\nGeorge Gershwin, at 25 years old, was an established songwriter by 1924 when Grossmith and his producing partners, J. A. E. Malone and Edward Laurillard, hired him to produce the score for Primrose for them in London.  The musical is the first in which Gershwin wrote some of the orchestrations himself. The year was one of the busiest for Gershwin, as it also included his Rhapsody in Blue and two other musicals. Gershwin's score, and the book by Bolton are old-fashioned for their time, with more in common with the frothy Edwardian musical comedies than with the later Gershwin musicals.  Nevertheless, Desmond Carter's witty lyrics and the show's farcical book have been praised by reviewers, while Gershwin's score has been compared with Gilbert and Sullivan. A piano vocal edition of the score was published in London in 1924, but Gershwin's manuscript was considered lost until it was found in America in 1982.",
+        "source_url": "https://en.wikipedia.org/wiki/Primrose_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "ranked": {
+      "slug": "ranked",
+      "title": "Ranked",
+      "qid": "Q85795887",
+      "enwiki": "Ranked (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Ranked_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q85795887"
+      },
+      "summary": {
+        "text": "Ranked is a musical written by David Taylor Gomes (music and lyrics) and Kyle Holmes (book), known as \"Holmes & Gomes\". The musical focuses on a dystopian world where academic competition defines each student's worth, and students do whatever it takes to get to the top of the leaderboards, including paying for their grades. Holmes & Gomes started writing in the spring of 2018, and Ranked debuted on April 4, 2019 at Granite Bay High School just weeks after the 2019 college admissions bribery scandal broke, launching the show into a national spotlight.\nThe musical is the subject of the 2022 HBO feature documentary My So-Called High School Rank, and is currently licensed by Uproar Theatrics.",
+        "source_url": "https://en.wikipedia.org/wiki/Ranked_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "ratatouille-the-musical": {
+      "slug": "ratatouille-the-musical",
+      "title": "Ratatouille the Musical",
+      "qid": "Q102202750",
+      "enwiki": "Ratatouille the Musical",
+      "composers": [
+        {
+          "name": "Kevin Chamberlin",
+          "qid": "Q1740104",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/72996"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Ratatouille_the_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q102202750"
+      },
+      "summary": {
+        "text": "Ratatouille the Musical (also known as Ratatouille: The TikTok Musical, or Ratatousical) is an Internet meme and crowdsourced musical based on the 2007 Disney/Pixar film Ratatouille. TikTok user Emily Jacobsen created a short comedic song in tribute to Remy, a rat with a talent for cooking and the main character of the film, in August 2020. This led to another TikTok user, Daniel Mertzlufft, arranging Jacobsen's tribute as if it were a finale to a Disney musical. From there, additional TikTok users continued to add to Mertzlufft's video to envision a full musical, including a playbill, scenic design, choreography, and more songs. In December 2020, Seaview Productions announced a charity benefit concert presentation of the musical. The benefit concert was streamed for 72 hours beginning on January 1, 2021, followed by an encore presentation on January 10, 2021. In total, the production raised $2 million for The Actors Fund and had 350,000 total viewers.",
+        "source_url": "https://en.wikipedia.org/wiki/Ratatouille_the_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "snow-white-and-the-seven-dwarfs": {
+      "slug": "snow-white-and-the-seven-dwarfs",
+      "title": "Snow White and the Seven Dwarfs",
+      "qid": "Q7548357",
+      "enwiki": "Snow White and the Seven Dwarfs (musical)",
+      "composers": [
+        {
+          "name": "Frank Churchill",
+          "qid": "Q912572",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/508008"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Snow_White_and_the_Seven_Dwarfs_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7548357"
+      },
+      "summary": {
+        "text": "Snow White and the Seven Dwarfs is a musical with music and lyrics by Frank Churchill and Larry Morey, and additional music and lyrics by Jay Blackton and Joe Cook, and book by Cook. Adapted from the Disney 1937 animated film Snow White and the Seven Dwarfs – which in turn had been based on the Grimm's fairy tale \"Snow White\" – it is about a princess banished from her kingdom by her vain stepmother, and she comes to live with seven dwarfs in their woodland home.\nFirst produced in 1969, the show carries much of the film's score over, by Churchill and Morey, along with four new songs by Blackton and Cook. It ran a total of 106 performances.",
+        "source_url": "https://en.wikipedia.org/wiki/Snow_White_and_the_Seven_Dwarfs_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-baker-s-wife": {
+      "slug": "the-baker-s-wife",
+      "title": "The Baker's Wife",
+      "qid": "Q7715361",
+      "enwiki": "The Baker's Wife (musical)",
+      "composers": [
+        {
+          "name": "Stephen Schwartz",
+          "qid": "Q542484",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/108290"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Joseph Stein",
+          "qid": "Q1361175",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6978"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Baker's_Wife_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7715361"
+      },
+      "summary": {
+        "text": "The Baker's Wife is a 1976 musical with music and lyrics by Stephen Schwartz and the book by Joseph Stein, based on the 1938 French film of the same name by Marcel Pagnol and Jean Giono. The musical premiered in the West End in 1989 for a short run but, although establishing a dedicated cult following, has not been produced on Broadway.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Baker's_Wife_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-deb": {
+      "slug": "the-deb",
+      "title": "The Deb",
+      "qid": "Q111915172",
+      "enwiki": "The Deb",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Deb",
+        "wikidata": "https://www.wikidata.org/wiki/Q111915172"
+      },
+      "summary": {
+        "text": "The Deb is a musical by Hannah Reilly with music by Megan Washington and lyrics by Washington & Reilly.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Deb",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-golden-vanity": {
+      "slug": "the-golden-vanity",
+      "title": "The Golden Vanity",
+      "qid": "Q25217520",
+      "enwiki": "The Golden Vanity (Britten)",
+      "composers": [
+        {
+          "name": "Benjamin Britten",
+          "qid": "Q150767",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11434"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Colin Graham",
+          "qid": "Q1108470"
+        }
+      ],
+      "premiere": {
+        "date": "1967-06",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Golden_Vanity_(Britten)",
+        "wikidata": "https://www.wikidata.org/wiki/Q25217520"
+      },
+      "summary": {
+        "text": "The Golden Vanity is a musical setting of an adaptation by Colin Graham of a traditional folk song, also known as \"The Sweet Trinity\", for boys' voices (five soloists and chorus) and piano by the English composer Benjamin Britten (1913–76). The composer described it as a vaudeville. The boys act out parts as well as sing; Britten wrote on the score: \"The Vaudeville should be given in costume but without scenery ... The action ... should be mimed in a simple way and only a few basic properties, such as telescopes and a rope, are needed ... A drum should be used for the sound of cannon fire\".",
+        "source_url": "https://en.wikipedia.org/wiki/The_Golden_Vanity_(Britten)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-jersey-lily": {
+      "slug": "the-jersey-lily",
+      "title": "The Jersey Lily",
+      "qid": "Q124613463",
+      "enwiki": "The Jersey Lily",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4877",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Jersey_Lily",
+        "wikidata": "https://www.wikidata.org/wiki/Q124613463"
+      },
+      "summary": {
+        "text": "The Jersey Lily is a musical in two acts and four scenes with music by Reginald De Koven and both book and lyrics by George V. Hobart. Additionally, composer Jean Schwartz and lyricist William Jerome contributed the song \"Bedelia\" to the show; and it is this song that became the popular hit of the production. The sheet music for \"Bedelia\" sold more than three million copies. The work was created as a starring vehicle for Blanche Ring who portrayed the title role of Liliandra. The Jersey Lily premiered on Broadway  at the Victoria Theatre on September 14, 1903. The cast also included Maud Raymond as Rosie Bauer.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Jersey_Lily",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-rothschilds": {
+      "slug": "the-rothschilds",
+      "title": "The Rothschilds",
+      "qid": "Q7761593",
+      "enwiki": "The Rothschilds (musical)",
+      "composers": [
+        {
+          "name": "Jerry Bock",
+          "qid": "Q725042",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/69330"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Sheldon Harnick",
+          "qid": "Q2354471",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8645"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Sherman Yellen",
+          "qid": "Q7495276",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8656"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7647",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Rothschilds_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7761593"
+      },
+      "summary": {
+        "text": "The Rothschilds is a musical with a book by Sherman Yellen, lyrics by Sheldon Harnick and music by Jerry Bock.\nBased on The Rothschilds by Frederic Morton, it tells of the rise of the Rothschild family from humble beginnings in Germany, to their founding of their financial empire and growing political influence under the guidance of patriarch Mayer Rothschild, to their assistance in funding Napoleon's defeat, and how they secure a declaration of rights for European Jews in the midst of an oppressive era.\nThe Rothschilds was the last collaboration between Bock and Harnick. The musical ran on Broadway in 1970, earning nine Tony Award nominations, and was revived successfully Off-Broadway in 1990. A 2015 reworking of the show was praised for clarifying the show and was recorded on JAY records.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Rothschilds_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "tonight-lola-blau": {
+      "slug": "tonight-lola-blau",
+      "title": "Tonight: Lola Blau",
+      "qid": "Q96410157",
+      "enwiki": "Tonight: Lola Blau",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Tonight%3A_Lola_Blau",
+        "wikidata": "https://www.wikidata.org/wiki/Q96410157"
+      },
+      "summary": {
+        "text": "Tonight: Lola Blau (or Heute Abend: Lola Blau in the original German) is a cabaret musical with music and original text by Georg Kreisler with the English version by Don White.\nIt concerns Lola Blau, a European Jewish cabaret singer, who flees to Switzerland from the 'Anschluss' annexation of Austria into Nazi Germany, and rises to stardom in the United States. Disillusioned with stardom and fame, she returns to her native Vienna, concluding that even after the war people had not changed much.\nIt was first performed at the Kleines Theatre der Josefstadt in Vienna in 1971. The English version was first performed in Australia by Robyn Archer in 1979.",
+        "source_url": "https://en.wikipedia.org/wiki/Tonight%3A_Lola_Blau",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "yes-uncle": {
+      "slug": "yes-uncle",
+      "title": "Yes, Uncle!",
+      "qid": "Q8052721",
+      "enwiki": "Yes, Uncle!",
+      "composers": [
+        {
+          "name": "Nat Ayer",
+          "qid": "Q3336284"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Clifford Grey",
+          "qid": "Q1101276",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4882"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Austen Hurgon",
+          "qid": "Q64006295"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Yes%2C_Uncle!",
+        "wikidata": "https://www.wikidata.org/wiki/Q8052721"
+      },
+      "summary": {
+        "text": "Yes, Uncle! is a musical comedy with a book by Austen Hurgon and George Arthurs, music by Nat D. Ayer and lyrics by Clifford Grey. The story is based on the farce Le truc du Brésilien by Nicolas Nancey and Paul Armont, and the musical takes its title from the catch-phrase used by Bobby Summers and Mabel Mannering, addressing Uncle Brabazon Hollybone. It was produced by George Grossmith, Jr. and Edward Laurillard and opened at the Prince of Wales Theatre in London on 16 December 1917 and ran for a very successful 626 performances.  The piece starred Fred Leslie as G.B. Stark, Margaret Bannerman as Joan and Leslie Henson as Bobby Summers. Later, Madge Elliott and Cyril Ritchard starred in the musical.\nYes, Uncle! was one of a number of very successful musical hits of the London stage during World War I (the others include the revue The Bing Boys Are Here (also with music and lyrics by Ayer and Grey), the musical The Maid of the Mountains, Chu Chin Chow, a mixture of comic opera and pantomime, The Happy Day (1916), Theodore & Co (1916) and The Boy (1917).  Audiences wanted light and uplifting entertainment during the war, and these shows delivered it.",
+        "source_url": "https://en.wikipedia.org/wiki/Yes%2C_Uncle!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

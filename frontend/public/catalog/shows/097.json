@@ -1,0 +1,885 @@
+{
+  "live": true,
+  "shows": {
+    "alison-a-rock-opera": {
+      "slug": "alison-a-rock-opera",
+      "title": "Alison! A Rock Opera",
+      "qid": "Q20715305",
+      "enwiki": "Alison! A Rock Opera",
+      "composers": [
+        {
+          "name": "Leo Butler",
+          "qid": "Q6523601"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Leo Butler",
+          "qid": "Q6523601"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Alison!_A_Rock_Opera",
+        "wikidata": "https://www.wikidata.org/wiki/Q20715305"
+      },
+      "summary": {
+        "text": "Alison! A Rock Opera is a musical with music and lyrics by playwright Leo Butler and Dan Persad. The modern rock 'n' roll song-cycle tells the story of ordinary woman Alison who breaks up with her boyfriend Jimmy and goes on a journey of self-discovery.\n\"Yes, breaking up is hard to do. It’s loud, it’s thrashy and the lyrics and storytelling are first class\" – Aleks Sierz.\nThe show premiered at the Royal Court Theatre in September 2011 as part of the theatre's Rough Cuts season, with its original title (and opening song) A Separate Reality.  It was directed by Nick Bagnall, and featured Anna Francolini and Rhashan Stone in the cast.\nIn September 2012, the full-length show, retitled Alison! A Rock Opera, was produced at the King's Head Theatre in Islington, London. It was directed by Bagnall, and the cast featured Clare Cathcart in the title role.\nIn April 2014, the show was revived at The Spread Eagle Theatre in Croydon, Greater London, and the cast featured Lucy Edge and Rhydian Persad.\nIn 2013, the show was recorded and released as a CD and a digital download.",
+        "source_url": "https://en.wikipedia.org/wiki/Alison!_A_Rock_Opera",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "all-american": {
+      "slug": "all-american",
+      "title": "All American",
+      "qid": "Q4728560",
+      "enwiki": "All American (musical)",
+      "composers": [
+        {
+          "name": "Charles Strouse",
+          "qid": "Q2960275",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12463"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Lee Adams",
+          "qid": "Q6512930",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12723"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Mel Brooks",
+          "qid": "Q104266",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7699"
+        }
+      ],
+      "premiere": {
+        "date": "1962-03-19",
+        "venue": "Winter Garden Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1448",
+        "wikipedia": "https://en.wikipedia.org/wiki/All_American_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4728560"
+      },
+      "summary": {
+        "text": "All American is a musical with a book by Mel Brooks, lyrics by Lee Adams, and music by Charles Strouse. Based on the Robert Lewis Taylor 1950 novel Professor Fodorski, it is set on the campus of the fictional Southern Baptist Institute of Technology: the worlds of science and sports collide when the principles of engineering are applied to football strategies, and football strategies are used to teach the principles of engineering. The techniques of a Hungarian immigrant, Professor Fodorski, prove to be successful, resulting in a winning team, and he finds himself the target of a Madison Avenue ad man who wants to exploit his new-found fame.\nThe Broadway production, in 1962, starred Ray Bolger. It drew mostly unfavorable reviews and ran for 80 performances, though the song \"Once Upon a Time\" became popular.",
+        "source_url": "https://en.wikipedia.org/wiki/All_American_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "ankles-aweigh": {
+      "slug": "ankles-aweigh",
+      "title": "Ankles Aweigh",
+      "qid": "Q4766086",
+      "enwiki": "Ankles Aweigh",
+      "composers": [
+        {
+          "name": "Sammy Fain",
+          "qid": "Q742896",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11649"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Daniel B. Shapiro",
+          "qid": "Q2898783"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Guy Bolton",
+          "qid": "Q924974",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4575"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1602",
+        "wikipedia": "https://en.wikipedia.org/wiki/Ankles_Aweigh",
+        "wikidata": "https://www.wikidata.org/wiki/Q4766086"
+      },
+      "summary": {
+        "text": "Ankles Aweigh is a musical with a book by Guy Bolton and Eddie Davis, lyrics by Dan Shapiro, and music by Sammy Fain. The plot involves Hollywood starlet Wynne, who secretly marries a Navy pilot while filming a movie in Sicily.  She disguises herself as a sailor and stows away on his ship to grab a covert honeymoon. They get mixed up with an espionage ring.\nThe original Broadway production opened April 18, 1955, and ran for 176 performances, but lost money.",
+        "source_url": "https://en.wikipedia.org/wiki/Ankles_Aweigh",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "b-r-b-rson-jr": {
+      "slug": "b-r-b-rson-jr",
+      "title": "Bør Børson Jr.",
+      "qid": "Q56405058",
+      "enwiki": "Bør Børson Jr. (musical)",
+      "composers": [
+        {
+          "name": "Egil Monn-Iversen",
+          "qid": "Q5347995"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Harald Tusberg",
+          "qid": "Q5654009"
+        }
+      ],
+      "premiere": {
+        "date": "1972-01-14",
+        "venue": "Det Norske Teatret"
+      },
+      "awards": [
+        {
+          "name": "Spellemannprisen",
+          "qid": "Q1735864"
+        }
+      ],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/B%C3%B8r_B%C3%B8rson_Jr._(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q56405058"
+      },
+      "summary": {
+        "text": "Bør Børson Jr. is a Norwegian musical based on the novel Bør Børson Jr. written by Johan Falkberget in 1920. The musical was written by Egil Monn-Iversen (music) and Harald Tusberg (book/lyrics). The performance is considered the first Norwegian musical, and has since its premiere in 1972 achieved great popularity. It is still being performed in theaters across Norway.\nThe plot follows Bør, a young businessman from the countryside, with big ambitions and great naivety. He runs the village's general store and often travels on business trips to Trondheim. Before he achieves his fame and wealth, he must fight against seductive maidens, «village beasts», and stock speculators. The action is set in the fictional village of Olderdalen in Sør-Trøndelag.\nBør Børson Jr. confirmed that not only Broadway and West End could be suppliers of premises for musicals, but that stories from Norway were also suitable for musical theater. The performance was even at one point considered to be produced for performance on Broadway.\nThe music reflected Norwegian folk tradition, and Monn-Iversen used gammaldans as a consistent musical approach. The musical and Egil Monn-Iversen were awarded the jury's honorary prize during Spellemannprisen the same year as the premiere of the musical.\nSongs from the musical, such as «Wienerbrød-tango», «Æ kjinne ein kar», «Omforlatels O. C. Bentzen» and «Børs song», have become classics in Norwegian popular music.",
+        "source_url": "https://en.wikipedia.org/wiki/B%C3%B8r_B%C3%B8rson_Jr._(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "blackbirds-of-1933": {
+      "slug": "blackbirds-of-1933",
+      "title": "Blackbirds of 1933",
+      "qid": "Q4922598",
+      "enwiki": "Blackbirds of 1933",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2074",
+        "wikipedia": "https://en.wikipedia.org/wiki/Blackbirds_of_1933",
+        "wikidata": "https://www.wikidata.org/wiki/Q4922598"
+      },
+      "summary": {
+        "text": "Blackbirds of 1933 is a musical revue with a book by Nat N. Dorfman, Mann Holiner, and Lew Leslie. It is a sequel to Blackbirds of 1928. The original production premiered on December 2, 1933 at the Apollo Theatre in New York. \nThe musical features music and lyrics by Mann Holiner, Alberta Nichols, Ned Washington, Joseph Young and Victor Young. It also featured the premiere of the Joseph Young/Ned Washington's standard \"A Hundred Years From Today.\"",
+        "source_url": "https://en.wikipedia.org/wiki/Blackbirds_of_1933",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "boobs-the-musical": {
+      "slug": "boobs-the-musical",
+      "title": "Boobs! The Musical",
+      "qid": "Q4942768",
+      "enwiki": "Boobs! The Musical",
+      "composers": [
+        {
+          "name": "Ruth Wallis",
+          "qid": "Q7383255"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Ruth Wallis",
+          "qid": "Q7383255"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Boobs!_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q4942768"
+      },
+      "summary": {
+        "text": "Boobs! The Musical: The World According to Ruth Wallis is a musical revue with lyrics and music by 1950s and 1960s star Ruth Wallis. Using 20 of Wallis' songs, Boobs! tells the story of Ruth Wallis' international career and struggles in performing her naughty songs. Boobs! The Musical opened at the Triad Theater in New York City on May 19, 2003, to critical praise.\nThe New York Times review noted that Boobs! The Musical \"exudes a joyous innocence\" and featured \"a lot of talent onstage. The six-person cast, which also includes the talented and good-looking Kristy Cates and Robert Hunt, is expertly directed by Donna Drake and choreographed by Lawrence Leritz.\"  Boobs! eventually transferred to Dillon's Reprise Room; by closing date it had played nearly 300 performances. It had subsequent long runs in New Orleans, Louisiana, in 2004, and in Wichita, Kansas, in 2005, with international productions beginning in New Zealand 2017. Broadway vets Lawrence Leritz was producer/choreographer and Donna Drake, director.  Also notable  were the costumes by J. Kevin Draves and Robert Pease and set by two-time Emmy award-winning set designer Eric Harriz. The book adaptation was written by Steve Mackes and Michael Whaley.\nBoobs! originally had a workshop at The Pulse Ensemble Theatre on the Off Broadway 42nd Street Theatre Row in December 2000.  Various notable cast members from the three New York productions included J. Robert Spencer, Jenny-Lynn Suckling, Robert Hunt, Kristy Cates, Clyde Alves, Alena Watters, Brad Bradley, Tony Falcon, Benjie Randall, David Villella and the New York theatre debut of Gennifer Flowers.",
+        "source_url": "https://en.wikipedia.org/wiki/Boobs!_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "chris-mrs": {
+      "slug": "chris-mrs",
+      "title": "Chris, Mrs.",
+      "qid": "Q124250327",
+      "enwiki": "Chris, Mrs.",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Chris%2C_Mrs.",
+        "wikidata": "https://www.wikidata.org/wiki/Q124250327"
+      },
+      "summary": {
+        "text": "Chris, Mrs. is a 2023 musical with music, lyrics, and book by Matthew Stodolak and Katie Kerr. The musical is set around Christmas, and is based on Hallmark Channel Christmas-themed films.",
+        "source_url": "https://en.wikipedia.org/wiki/Chris%2C_Mrs.",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "doonesbury": {
+      "slug": "doonesbury",
+      "title": "Doonesbury",
+      "qid": "Q5297167",
+      "enwiki": "Doonesbury (musical)",
+      "composers": [
+        {
+          "name": "Elizabeth Swados",
+          "qid": "Q5363595",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5358"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Garry Trudeau",
+          "qid": "Q1340213",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5744"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Garry Trudeau",
+          "qid": "Q1340213",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5744"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3151",
+        "wikipedia": "https://en.wikipedia.org/wiki/Doonesbury_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5297167"
+      },
+      "summary": {
+        "text": "Doonesbury, also known as Doonesbury: A Musical Comedy, is a 1983 musical with a book and lyrics by Garry Trudeau and music by Elizabeth Swados.\nBased on Trudeau's comic strip of the same name, it served to change the format of the strip from an episodic satire of college campus life that existed on a floating timeline to a more character driven, serialized political cartoon series in which characters changed, aged, and died, while still retaining a satirical political bent. Notably, the play depicts the core cast of characters—perpetually twenty-something undergraduates for the first twelve years of the strip's run—graduating college.\nTrudeau took a nearly two-year sabbatical from writing the comic strip to develop the project.",
+        "source_url": "https://en.wikipedia.org/wiki/Doonesbury_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "for-the-first-time-in-forever-a-frozen-sing-along-celebration": {
+      "slug": "for-the-first-time-in-forever-a-frozen-sing-along-celebration",
+      "title": "For the First Time in Forever: A Frozen Sing-Along Celebration",
+      "qid": "Q21527656",
+      "enwiki": "For the First Time in Forever: A Frozen Sing-Along Celebration",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "https://disneyland.disney.go.com/entertainment/disney-california-adventure/frozen-sing-along-celebration/",
+        "wikipedia": "https://en.wikipedia.org/wiki/For_the_First_Time_in_Forever%3A_A_Frozen_Sing-Along_Celebration",
+        "wikidata": "https://www.wikidata.org/wiki/Q21527656"
+      },
+      "summary": {
+        "text": "For the First Time in Forever: A Frozen Sing-Along Celebration is a musical show based on Disney Animation's 2013 computer-animated musical feature film Frozen and the songs from the film, located at Disney's Hollywood Studios and Shanghai Disneyland Park, as well as the 2026 Alaskan voyages aboard the Disney Magic and the Disney Wonder. It was also formerly hosted at Disney California Adventure, Disneyland Park in Paris, and Hong Kong Disneyland. The show is presented as a recounting of the plot of Frozen as told by the official Arendelle historians, with appearances from Princess Anna of Arendelle, Kristoff and Queen Elsa of Arendelle, while Olaf additionally appears during the Christmastime version of the show in Florida.",
+        "source_url": "https://en.wikipedia.org/wiki/For_the_First_Time_in_Forever%3A_A_Frozen_Sing-Along_Celebration",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "glam-slam-ulysses": {
+      "slug": "glam-slam-ulysses",
+      "title": "Glam Slam Ulysses",
+      "qid": "Q5566509",
+      "enwiki": "Glam Slam Ulysses",
+      "composers": [
+        {
+          "name": "Prince",
+          "qid": "Q7542",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/90818"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Glam_Slam_Ulysses",
+        "wikidata": "https://www.wikidata.org/wiki/Q5566509"
+      },
+      "summary": {
+        "text": "Glam Slam Ulysses was a 1993 musical production by Prince, loosely based on Homer's Odyssey, featuring a combination of live performances and video, with twelve previously unreleased songs.\nEach song represented an element from Homer's Odyssey (Ulysses is the Latin name for the protagonist, Odysseus). The musical received a limited performance at Prince's Glam Slam nightclub, with a few shows being performed in late August to early September 1993. Carmen Electra, who was relatively unknown at the time, was a featured dancer in the performance, as was Frank Williams. Jamie King provided the choreography.  \nWhen Prince first announced to change his name to an unpronounceable symbol on June 7, 1993, he also stated that he would no longer be releasing new albums; instead he was to focus on alternative performances, films, etc., while his record company, Warner Bros. Records, would be able to release albums from Prince's vault of unreleased material to fulfill his contract.  The first of these alternative performances would be Glam Slam Ulysses.",
+        "source_url": "https://en.wikipedia.org/wiki/Glam_Slam_Ulysses",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "i-love-you-you-re-perfect-now-change": {
+      "slug": "i-love-you-you-re-perfect-now-change",
+      "title": "I Love You, You're Perfect, Now Change",
+      "qid": "Q2619671",
+      "enwiki": "I Love You, You're Perfect, Now Change",
+      "composers": [
+        {
+          "name": "Jimmy Roberts",
+          "qid": "Q993801"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Joe DiPietro",
+          "qid": "Q1691381",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/383115"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Joe DiPietro",
+          "qid": "Q1691381",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/383115"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/I_Love_You%2C_You're_Perfect%2C_Now_Change",
+        "wikidata": "https://www.wikidata.org/wiki/Q2619671"
+      },
+      "summary": {
+        "text": "I Love You, You're Perfect, Now Change is a musical comedy with book and lyrics by Joe DiPietro, and music by Jimmy Roberts. It is the second-longest running Off-Broadway musical.  The musical was nominated for the Outer Critics Circle Award as Outstanding Off-Broadway musical in 1997.",
+        "source_url": "https://en.wikipedia.org/wiki/I_Love_You%2C_You're_Perfect%2C_Now_Change",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "legs-diamond": {
+      "slug": "legs-diamond",
+      "title": "Legs Diamond",
+      "qid": "Q6518685",
+      "enwiki": "Legs Diamond (musical)",
+      "composers": [
+        {
+          "name": "Peter Allen",
+          "qid": "Q1370974",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8107"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Harvey Fierstein",
+          "qid": "Q446481",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6157"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5326",
+        "playbill": "https://playbill.com/production/legs-diamond-mark-hellinger-theatre-vault-0000005764",
+        "wikipedia": "https://en.wikipedia.org/wiki/Legs_Diamond_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6518685"
+      },
+      "summary": {
+        "text": "Legs Diamond is a musical with a book by Harvey Fierstein and Charles Suppon based on the Warner Brothers film The Rise and Fall of Legs Diamond (1960), with a screenplay by Joseph Landon. The music and lyrics are by Peter Allen, who starred as the title character in the Broadway production.\nThe \"Almost Totally Fictitious Musical Hystery\" [sic] of Legs Diamond follows the travails of its title character, a Depression-era mobster who wants to break into show business.",
+        "source_url": "https://en.wikipedia.org/wiki/Legs_Diamond_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "man-on-the-moon": {
+      "slug": "man-on-the-moon",
+      "title": "Man on the Moon",
+      "qid": "Q15933842",
+      "enwiki": "Man on the Moon (musical)",
+      "composers": [
+        {
+          "name": "John Phillips",
+          "qid": "Q506592",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6887"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "John Phillips",
+          "qid": "Q506592",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6887"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "John Phillips",
+          "qid": "Q506592",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6887"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/388151",
+        "wikipedia": "https://en.wikipedia.org/wiki/Man_on_the_Moon_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q15933842"
+      },
+      "summary": {
+        "text": "Man on the Moon is a 1975 musical written by John Phillips of the Mamas & The Papas and directed by Paul Morrissey. It was produced by Andy Warhol with Richard Turley. The production opened at the Little Theatre in New York City on January 29, 1975, following an extended preview run, and closed after two performances. \nThe musical follows an American astronaut who leads a mission of interplanetary dignitaries to prevent the destruction of the universe by a bomb planted on the Moon by an evil scientist. \nIn 2009, a cast album was released through Varèse Sarabande.",
+        "source_url": "https://en.wikipedia.org/wiki/Man_on_the_Moon_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "newsies": {
+      "slug": "newsies",
+      "title": "Newsies",
+      "qid": "Q7019676",
+      "enwiki": "Newsies (musical)",
+      "composers": [
+        {
+          "name": "Alan Menken",
+          "qid": "Q317272",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12135"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Jack Feldman",
+          "qid": "Q16211398",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/79622"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Harvey Fierstein",
+          "qid": "Q446481",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6157"
+        }
+      ],
+      "premiere": {
+        "date": "2011-09-25",
+        "venue": "Paper Mill Playhouse"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/491209",
+        "official_site": "https://newsiesthemusical.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Newsies_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7019676"
+      },
+      "summary": {
+        "text": "Newsies: The Musical is a musical with music by Alan Menken, lyrics by Jack Feldman, and a book by Harvey Fierstein. The show is based on the 1992 musical film of the same name, which in turn was inspired by the real-life Newsboys Strike of 1899 in New York City, with Fierstein's script adapted from the film's screenplay by Bob Tzudiker and Noni White. \nThe musical premiered at the Paper Mill Playhouse in 2011 and made its Broadway debut in 2012, where it played for more than 1,000 performances before touring.",
+        "source_url": "https://en.wikipedia.org/wiki/Newsies_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "prince-of-central-park": {
+      "slug": "prince-of-central-park",
+      "title": "Prince of Central Park",
+      "qid": "Q7244324",
+      "enwiki": "Prince of Central Park (musical)",
+      "composers": [
+        {
+          "name": "Don Sebesky",
+          "qid": "Q1239500",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12382"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7250",
+        "wikipedia": "https://en.wikipedia.org/wiki/Prince_of_Central_Park_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7244324"
+      },
+      "summary": {
+        "text": "Prince of Central Park is a 1989 Broadway musical with music by Don Sebesky, lyrics by Gloria Nissenson and a book by Evan H. Rhodes.  It is based on Rhodes' 1974 novel The Prince of Central Park and its 1977 television movie adaptation which starred Ruth Gordon and Brooke Shields.  The musical was a notorious flop, losing nearly $2 million and closing after only four performances.  Today, it is best remembered for a humorously negative review by Frank Rich in The New York Times.",
+        "source_url": "https://en.wikipedia.org/wiki/Prince_of_Central_Park_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "saratoga": {
+      "slug": "saratoga",
+      "title": "Saratoga",
+      "qid": "Q7423345",
+      "enwiki": "Saratoga (musical)",
+      "composers": [
+        {
+          "name": "Harold Arlen",
+          "qid": "Q448644",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11319"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Johnny Mercer",
+          "qid": "Q363698",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12137"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Morton DaCosta",
+          "qid": "Q731760",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7815"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7749",
+        "wikipedia": "https://en.wikipedia.org/wiki/Saratoga_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7423345"
+      },
+      "summary": {
+        "text": "Saratoga is a 1959 musical with a book by Morton DaCosta, lyrics by Johnny Mercer, and music by Harold Arlen.\nBased on Edna Ferber's sprawling 1941 novel Saratoga Trunk, it focuses on Clio Dulaine, an \"illegitimate\" Creole woman who seeks revenge on the New Orleans family who exiled her mother when she became impregnated by their son. Posing as a countess raised in France, she joins forces with Montana cowboy Clint Maroon, whose family's property was appropriated by railroad tycoon Bart Van Steed. Clint persuades Clio to seduce Bart into proposing marriage, but the conspirators soon find themselves falling in love while scheming to settle old scores.\nThe success of the musical adaptation of Ferber's Show Boat convinced her lightning could strike twice. She first approached Rodgers and Hammerstein with her proposal, and when they opted to write Pipe Dream instead, she turned to Lerner and Loewe, who agreed to compose the score but lost interest after My Fair Lady opened. DaCosta wrote a first draft of the book, which Ferber disliked, and when her offer to adapt the book herself was declined, she backed out of the project.\nThe bulk of the financing was provided by NBC and RCA Victor, which released the original cast recording. Rock Hudson and Jeanmaire originally were announced as the leads, but ultimately neither participated in the show.\nThe Broadway production, directed by DaCosta and choreographed by Ralph Beaumont, opened on December 7, 1959, at the Winter Garden Theatre, where it ran for 80 performances. The cast included Carol Lawrence as Clio, Howard Keel as Clint, and Warde Donovan as Bart, with Virginia Capers, Odette Myrtil, Carol Brice, and Edith King in supporting roles. Nat Horne was a featured dancer in the production.\nCritics were impressed by the elaborate sets (which included a turntable and fifteen different locales) and the more than two hundred costumes created by Cecil Beaton, who won the Tony Award for Best Costume Design and was nominated for Best Scenic Design. The leads drew good notices, but most agreed that DaCosta's book and direction resulted in a slow-moving, uninvolving production. The main characters were unlikeable, their romance dull, and too many peripheral characters wandered in and out of the action. Show Boat, with its riverboat setting, had been a natural for musical adaptation, and whereas Oscar Hammerstein II and Jerome Kern had succeeded in compressing the epic into a lively stage production, the creative team behind Saratoga was unable to wring much excitement from a romantic relationship stemming primarily from a mutual desire for vengeance.",
+        "source_url": "https://en.wikipedia.org/wiki/Saratoga_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-fortress-of-solitude": {
+      "slug": "the-fortress-of-solitude",
+      "title": "The Fortress of Solitude",
+      "qid": "Q18157213",
+      "enwiki": "The Fortress of Solitude (musical)",
+      "composers": [
+        {
+          "name": "Michael Friedman",
+          "qid": "Q6830428",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/380569"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Itamar Moses",
+          "qid": "Q12403865",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/492752"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Fortress_of_Solitude_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q18157213"
+      },
+      "summary": {
+        "text": "The Fortress of Solitude is a musical with music and lyrics written by Michael Friedman, and a book by Itamar Moses adapted from The Fortress of Solitude by Jonathan Lethem.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Fortress_of_Solitude_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-gardens-of-anuncia": {
+      "slug": "the-gardens-of-anuncia",
+      "title": "The Gardens of Anuncia",
+      "qid": "Q125912862",
+      "enwiki": "The Gardens of Anuncia",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Gardens_of_Anuncia",
+        "wikidata": "https://www.wikidata.org/wiki/Q125912862"
+      },
+      "summary": {
+        "text": "The Gardens of Anuncia is a stage musical with music, lyrics, and a book by Michael John LaChiusa. The show is based on the life of Graciela Daniele, a prolific figure in modern musical theatre. Daniele was born and raised in Buenos Aires, Argentina, where the show is set. It follows her life from a young girl in Argentina during the years of Juan Perón, and her journey that lead her to New York City and eventually becoming an acclaimed dancer, choreographer, and director.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Gardens_of_Anuncia",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-gospel-at-colonus": {
+      "slug": "the-gospel-at-colonus",
+      "title": "The Gospel at Colonus",
+      "qid": "Q7737378",
+      "enwiki": "The Gospel at Colonus",
+      "composers": [
+        {
+          "name": "Bob Telson",
+          "qid": "Q4934165",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12487"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Lee Breuer",
+          "qid": "Q4097137",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7196"
+        },
+        {
+          "name": "Bob Telson",
+          "qid": "Q4934165",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12487"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Lee Breuer",
+          "qid": "Q4097137",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7196"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4025",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Gospel_at_Colonus",
+        "wikidata": "https://www.wikidata.org/wiki/Q7737378"
+      },
+      "summary": {
+        "text": "The Gospel at Colonus is an African-American musical version of Sophocles's tragedy, Oedipus at Colonus.  The show was created in 1983 by the experimental-theatre director Lee Breuer, one of the founders of the seminal American avant-garde theatre company Mabou Mines, and composer Bob Telson. The musical was a finalist for the Pulitzer Prize for Drama. The show had a brief run on Broadway in 1988.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Gospel_at_Colonus",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-griswolds-broadway-vacation": {
+      "slug": "the-griswolds-broadway-vacation",
+      "title": "The Griswolds' Broadway Vacation",
+      "qid": "Q116030018",
+      "enwiki": "The Griswolds' Broadway Vacation",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Griswolds'_Broadway_Vacation",
+        "wikidata": "https://www.wikidata.org/wiki/Q116030018"
+      },
+      "summary": {
+        "text": "The Griswolds' Broadway Vacation is a musical with a book, music, and lyrics by David Rossmer and Steve Rosen. It is based on the characters from the National Lampoon's Vacation film series.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Griswolds'_Broadway_Vacation",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-look-of-love": {
+      "slug": "the-look-of-love",
+      "title": "The Look of Love",
+      "qid": "Q7748370",
+      "enwiki": "The Look of Love (musical)",
+      "composers": [
+        {
+          "name": "Burt Bacharach",
+          "qid": "Q212762",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11332"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Hal David",
+          "qid": "Q449030",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12841"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": "2003-04-04",
+        "venue": "Lena Horne Theatre"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Look_of_Love_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7748370"
+      },
+      "summary": {
+        "text": "The Look of Love is a musical revue of the songs of Burt Bacharach and Hal David. The revue was conceived by David Thompson, Scott Ellis, David Loud and Ann Reinking.  It had a limited engagement on Broadway in 2003.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Look_of_Love_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-man-in-the-moon": {
+      "slug": "the-man-in-the-moon",
+      "title": "The Man in the Moon",
+      "qid": "Q121494128",
+      "enwiki": "The Man in the Moon (musical)",
+      "composers": [
+        {
+          "name": "Gustave Kerker",
+          "qid": "Q113876",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11994"
+        },
+        {
+          "name": "Reginald De Koven",
+          "qid": "Q4350526",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11579"
+        },
+        {
+          "name": "Ludwig Engländer",
+          "qid": "Q6699214",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11641"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/10774",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Man_in_the_Moon_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q121494128"
+      },
+      "summary": {
+        "text": "The Man in the Moon is a musical in three acts with music by composers Ludwig Engländer, Gustav Kerker and Reginald De Koven, and both book and lyrics by Louis Harrison and Stanislaus Stange. The work premiered on Broadway at the New York Theatre on April 24, 1899. The production closed after 192 performances on November 4, 1899. Produced and directed by George W. Lederer, the show used choreography by Carl Marwig, costumes by Caroline Siedle, and sets created by D. Frank Dodge, Henry E. Hoyt, St. John Lewis and Ernest Albert. The cast included Sam Bernard as Conan Doyle, Marie Dressler as Viola Alum, and Christie MacDonald as Diana.\nUniversity of Chicago academic Cecil Michener Smith, wrote that The Man in the Moon was \"the last successful extravaganza of the 1890s\", and that \"the extent of popular interest in The Man in the Moon was indicated by the production of a burlesque version, The Maid in the Moon, which soon opened on the Casino Roof, and by the fact that it prompted a sequel, The Man in the Moon, Jr., for which De Koven provided the entire score.\"",
+        "source_url": "https://en.wikipedia.org/wiki/The_Man_in_the_Moon_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-mimic-world": {
+      "slug": "the-mimic-world",
+      "title": "The Mimic World",
+      "qid": "Q124795534",
+      "enwiki": "The Mimic World",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/10408",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Mimic_World",
+        "wikidata": "https://www.wikidata.org/wiki/Q124795534"
+      },
+      "summary": {
+        "text": "The Mimic World is a musical revue in two acts and a prologue with music by Jean Schwartz, Lew Pollack, and Owen Murphy; and both book and lyrics by Harold Atteridge, Jimmy Hussey, and Murphy. Produced by the Shubert family, the revue premiered on Broadway at the Century Promenade (located on the roof of the Century Theatre ) on August 17, 1921; closing after 26 performances on September 10, 1921.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Mimic_World",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-pirate-queen": {
+      "slug": "the-pirate-queen",
+      "title": "The Pirate Queen",
+      "qid": "Q1430573",
+      "enwiki": "The Pirate Queen",
+      "composers": [
+        {
+          "name": "Claude-Michel Schönberg",
+          "qid": "Q712004",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4864"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Alain Boublil",
+          "qid": "Q284540",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3932"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Alain Boublil",
+          "qid": "Q284540",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3932"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/426178",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Pirate_Queen",
+        "wikidata": "https://www.wikidata.org/wiki/Q1430573"
+      },
+      "summary": {
+        "text": "The Pirate Queen is a musical with music by Claude-Michel Schönberg, French lyrics by Alain Boublil and English lyric adaptations by Richard Maltby Jr. and John Dempsey. The French book was written by Boublil and Schönberg and the English book adaptation was by Maltby Jr.\nBased on the 1986 book Grania: She-King of the Irish Seas by Morgan Llywelyn, The Pirate Queen marks the first time Boublil and Schönberg have created a musical with American collaborators. It is based on the life and adventures of the 16th century Irish chieftain and pirate Gráinne O'Malley, who was one of the last Irish clan leaders to resist the English conquest of Gaelic Ireland.\nAfter a Chicago tryout in 2006, the musical opened on Broadway on 5 April 2007 and closed on 17 June 2007 after only 85 regular performances and 32 previews.\nThe cast featured Stephanie J. Block as Grace O'Malley, Hadley Fraser as Tiernan and Linda Balgord, who was nominated for a Drama Desk Award for her performance as Queen Elizabeth I.  The show received harsh appraisals from the critics and had weak sales.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Pirate_Queen",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-yashmak": {
+      "slug": "the-yashmak",
+      "title": "The Yashmak",
+      "qid": "Q7776513",
+      "enwiki": "The Yashmak",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Yashmak",
+        "wikidata": "https://www.wikidata.org/wiki/Q7776513"
+      },
+      "summary": {
+        "text": "The Yashmak, A Story of the East is a musical play, with a libretto by Cecil Raleigh and Seymour Hicks, adapted from an Armenian operetta, Leblébidji Horhor, which had been a success in 1896 in Constantinople.  The music was composed by Napoleon Lambelet (1864–1932), and additional songs were composed by Leslie Stuart and others. The Yashmak was first produced at the original Shaftesbury Theatre in London from 31 March 1897 to 31 July 1897, for a run of 121 performances.  Scott Russell, a former leading D'Oyly Carte Opera Company tenor, left the Savoy Theatre to star in the production with Aileen D'Orme, who was later replaced by the French music hall singer Marguerite Cornille. Kitty Loftus played Dora Selwyn, while Topsy Sinden was principal dancer in the piece.\nA yashmak is a double veil worn in Islamic countries. The first layer is drawn around the forehead and gathered up behind and on the head; the second, pinned on behind to the first, falls sufficiently in front to uncover the eyes.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Yashmak",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

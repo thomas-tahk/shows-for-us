@@ -1,0 +1,664 @@
+{
+  "live": true,
+  "shows": {
+    "a-doll-s-life": {
+      "slug": "a-doll-s-life",
+      "title": "A Doll's Life",
+      "qid": "Q16974511",
+      "enwiki": "A Doll's Life",
+      "composers": [
+        {
+          "name": "Larry Grossman",
+          "qid": "Q6490433",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11797"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Betty Comden",
+          "qid": "Q175078",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4525"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1086",
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Doll's_Life",
+        "wikidata": "https://www.wikidata.org/wiki/Q16974511"
+      },
+      "summary": {
+        "text": "A Doll's Life was a 1982 musical with music by Larry Grossman, and a book and lyrics by Betty Comden and Adolph Green. A sequel to the 1879 Henrik Ibsen play A Doll's House, it told the story of what happened to the lead character, Nora Helmer, after she left her husband and her old life behind to face the world on her own; in doing so, it examined several aspects of feminism and the ways in which women are treated. \nA Doll's Life opened on Broadway at the Mark Hellinger Theatre on September 23, 1982, in a production directed by Hal Prince and starring Betsy Joslyn, George Hearn and Peter Gallagher. It closed three days later, after a run of 18 previews and 5 performances.",
+        "source_url": "https://en.wikipedia.org/wiki/A_Doll's_Life",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "a-million-dollars": {
+      "slug": "a-million-dollars",
+      "title": "A Million Dollars",
+      "qid": "Q125912563",
+      "enwiki": "A Million Dollars",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Million_Dollars",
+        "wikidata": "https://www.wikidata.org/wiki/Q125912563"
+      },
+      "summary": {
+        "text": "A Million Dollars is a musical in three acts with music by A. Baldwin Sloane, lyrics by George V. Hobart, and a book co-authored by Hobart and Louis Harrison. The musical's plot is about a barber who comes into sudden wealth and rapidly spends his new fortune. The work premiered on Broadway at the New York Theatre on September 27, 1900. It ran there for 28 performances; closing on October 20, 1900.\nA Million Dollars was directed by Frank Smithson and produced by Meyer L. Sire and Henry B. Sire. The cast included Joe Ott as Prince Punxatawney, Ignacio Martinetti as Consomme de Noodle, Cora Tanner as Aurora Borealis, Josie Sadler as Tryphena Shoolz, Nat M. Wills as Cecil Roads, Joseph Sparks as Wishbone McManus, Ethel Everton as Grace Bullion, and Grafton Baker as Harold Spotwood.",
+        "source_url": "https://en.wikipedia.org/wiki/A_Million_Dollars",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "destry-rides-again": {
+      "slug": "destry-rides-again",
+      "title": "Destry Rides Again",
+      "qid": "Q5265429",
+      "enwiki": "Destry Rides Again (musical)",
+      "composers": [
+        {
+          "name": "Harold Rome",
+          "qid": "Q1585912",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6085"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Leonard Gershe",
+          "qid": "Q4137610",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7258"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3039",
+        "playbill": "https://playbill.com/production/destry-rides-again-imperial-theatre-vault-0000006055",
+        "wikipedia": "https://en.wikipedia.org/wiki/Destry_Rides_Again_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5265429"
+      },
+      "summary": {
+        "text": "Destry Rides Again is a 1959 musical comedy with music and lyrics by Harold Rome and a book by Leonard Gershe.  The play is based on the 1939 film of the same name.",
+        "source_url": "https://en.wikipedia.org/wiki/Destry_Rides_Again_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "ever-after-the-musical": {
+      "slug": "ever-after-the-musical",
+      "title": "Ever After The Musical",
+      "qid": "Q60760796",
+      "enwiki": "Ever After The Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Ever_After_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q60760796"
+      },
+      "summary": {
+        "text": "Ever After is a 2015 musical, with book and lyrics by Marcy Heisler and music by Zina Goldrich, based on the 1998 film of the same name written by Susannah Grant, Andy Tennant, and Rick Parks, whose source material is the fairy tale Cinderella. The musical premiered at the Paper Mill Playhouse in May 2015.",
+        "source_url": "https://en.wikipedia.org/wiki/Ever_After_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "honk": {
+      "slug": "honk",
+      "title": "Honk!",
+      "qid": "Q5896336",
+      "enwiki": "Honk!",
+      "composers": [
+        {
+          "name": "George Stiles",
+          "qid": "Q5544860",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/434332"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Anthony Drewe",
+          "qid": "Q4772423",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/434333"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Anthony Drewe",
+          "qid": "Q4772423",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/434333"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Laurence Olivier Awards",
+          "qid": "Q28470"
+        }
+      ],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Honk!",
+        "wikidata": "https://www.wikidata.org/wiki/Q5896336"
+      },
+      "summary": {
+        "text": "Honk! is a musical adaptation of the 1843 Hans Christian Andersen story The Ugly Duckling, incorporating a message of tolerance. The book and lyrics are by Anthony Drewe and music is by George Stiles (of the British songwriting duo Stiles and Drewe). The musical is set in the countryside and features Ugly – a cygnet who is mistaken as an ugly duckling upon falling into his mother's nest and is rejected by everyone but Ida (his mother), a sly tomcat who only befriends him out of hunger, and several other barnyard characters.\nThe musical opened at the Watermill Theatre in England in 1993. The West End production opened in 1999 and won the 2000 Laurence Olivier Award for Best New Musical\nThe show is frequently produced by schools, as well as regional and community theatre groups in Britain, the U.S. and Canada.",
+        "source_url": "https://en.wikipedia.org/wiki/Honk!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "islander": {
+      "slug": "islander",
+      "title": "Islander",
+      "qid": "Q112683248",
+      "enwiki": "Islander (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Islander_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q112683248"
+      },
+      "summary": {
+        "text": "Islander is a musical conceived by Amy Draper with music and lyrics by Finn Anderson and a book by Stewart Melton. It follows the story of a young girl called Eilidh, who is the last child on a remote and increasingly depopulated Scottish island called Kinnan. It includes elements of Scottish folklore and has no band, instead using live looping technology to create music and sound cues. The musical features only two performers, who each play multiple roles.",
+        "source_url": "https://en.wikipedia.org/wiki/Islander_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "little-dancer": {
+      "slug": "little-dancer",
+      "title": "Little Dancer",
+      "qid": "Q48967258",
+      "enwiki": "Little Dancer (musical)",
+      "composers": [
+        {
+          "name": "Stephen Flaherty",
+          "qid": "Q3973178",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11668"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Little_Dancer_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q48967258"
+      },
+      "summary": {
+        "text": "Little Dancer is a musical with music by Stephen Flaherty and book and lyrics by Lynn Ahrens, based on Edgar Degas' 1880 statue Little Dancer of Fourteen Years. The musical premiered at the Kennedy Center in Washington, D.C. in 2014. The original production was directed and choreographed by Susan Stroman.\nThe musical was retitled Marie, Dancing Still – A New Musical in 2018, prior to the production opening at the 5th Avenue Theatre, Seattle in March 2019, and returned to its original title thereafter.",
+        "source_url": "https://en.wikipedia.org/wiki/Little_Dancer_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "martin-guerre": {
+      "slug": "martin-guerre",
+      "title": "Martin Guerre",
+      "qid": "Q1458184",
+      "enwiki": "Martin Guerre (musical)",
+      "composers": [
+        {
+          "name": "Claude-Michel Schönberg",
+          "qid": "Q712004",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4864"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Alain Boublil",
+          "qid": "Q284540",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3932"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Alain Boublil",
+          "qid": "Q284540",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3932"
+        },
+        {
+          "name": "Claude-Michel Schönberg",
+          "qid": "Q712004",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4864"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Laurence Olivier Awards",
+          "qid": "Q28470"
+        }
+      ],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/509360",
+        "wikipedia": "https://en.wikipedia.org/wiki/Martin_Guerre_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1458184"
+      },
+      "summary": {
+        "text": "Martin Guerre is a two-act musical with a book by Claude-Michel Schönberg and Alain Boublil, lyrics by Alain Boublil, Edward Hardy and Stephen Clark, and music by Claude-Michel Schönberg.\nWritten in the operatic style similar to the creative team's previous efforts, Les Misérables and Miss Saigon, the bulk of the show is sung-through, with little spoken dialogue between the musical numbers. It failed to match the box office success of its two predecessors.",
+        "source_url": "https://en.wikipedia.org/wiki/Martin_Guerre_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "pride-and-prejudice": {
+      "slug": "pride-and-prejudice",
+      "title": "Pride and Prejudice",
+      "qid": "Q7242808",
+      "enwiki": "Pride and Prejudice (musical)",
+      "composers": [
+        {
+          "name": "Bernard J. Taylor",
+          "qid": "Q4893276"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Bernard J. Taylor",
+          "qid": "Q4893276"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Pride_and_Prejudice_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7242808"
+      },
+      "summary": {
+        "text": "Pride and Prejudice is a musical by Bernard J. Taylor based on Jane Austen's 1813 novel Pride and Prejudice. It was first produced as a concept studio recording in London, England, with singers including Peter Karrie, Claire Moore, Christopher Biggins, and others. It received its world premiere at the Madison Theatre, Peoria, Illinois in 1993, and by 2007 had received more than 20 productions worldwide, including Britain, Germany, Australia and New Zealand.",
+        "source_url": "https://en.wikipedia.org/wiki/Pride_and_Prejudice_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "romantics-anonymous": {
+      "slug": "romantics-anonymous",
+      "title": "Romantics Anonymous",
+      "qid": "Q56290384",
+      "enwiki": "Romantics Anonymous (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Romantics_Anonymous_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q56290384"
+      },
+      "summary": {
+        "text": "Romantics Anonymous is a musical with music by Michael Kooman, lyrics by Christopher Dimond and a book by Emma Rice. It is based on the 2010 French-Belgian film Les Émotifs Anonymes by Jean-Pierre Améris and Philippe Blasband.",
+        "source_url": "https://en.wikipedia.org/wiki/Romantics_Anonymous_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "siddhartha": {
+      "slug": "siddhartha",
+      "title": "Siddhartha",
+      "qid": "Q16949605",
+      "enwiki": "Siddhartha (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Siddhartha_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q16949605"
+      },
+      "summary": {
+        "text": "Prince Siddhartha the Musical is an original musical production by Chu Un Temple, and directed under the Fo Guang Shan Academy of Art of the Philippines. The musical is an adaptation of The Biography of Sakyamuni Buddha, written by Buddhist monk Hsing Yun, founder of the Fo Guang Shan Buddhist Order in Taiwan.\nThe first run of the show was on July 6, 2007, at the Waterfront Cebu under the name Siddhartha: A Musical Journey to Enlightenment. Due to the positive response and overall success of the show, the cast was invited to perform excerpts of the musical at Fo Guang Shan in Kaohsiung, Taiwan in celebration of Hsing Yun's birthday in September 2007.\nA repeat performance of the musical in its entirety at the Cultural Center of the Philippines in Manila was successfully concluded on November 4, 2007.  The Manila show was presented by I.B.P.S. Manila, Philippines and Buddha's Light International Association - Philippines.\nThe CCP show was originally scheduled for three performances (two on November 3 and one on November 4).  Due to the high demand for tickets, an additional performance was added on November 4. The entire cast performed in Kaohsiung and Taipei, Taiwan, in mid May 2008.\nThe musical is set to premiere in the United States in 2013 to commemorate the 25th anniversary of Hsi Lai Temple's establishment.",
+        "source_url": "https://en.wikipedia.org/wiki/Siddhartha_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "street-of-dreams": {
+      "slug": "street-of-dreams",
+      "title": "Street of Dreams",
+      "qid": "Q7623039",
+      "enwiki": "Street of Dreams (musical)",
+      "composers": [
+        {
+          "name": "Trisha Ward",
+          "qid": "Q7844029"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Trisha Ward",
+          "qid": "Q7844029"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Trisha Ward",
+          "qid": "Q7844029"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Street_of_Dreams_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7623039"
+      },
+      "summary": {
+        "text": "Street of Dreams was a musical with music and lyrics by Trisha Ward and co-written with Damon Rochefort. It was directed by John Stephenson. It was based on the television series Coronation Street and the 2011 album Coronation Street: Rogues, Angels, Heroes and Fools.\nThe show was originally scheduled to begin on 21 March 2012 at the Manchester Arena; however, due to the intricacy of scale involved, the opening date of the production was delayed until 9 May. The show was postponed after two performances and poor reviews. Stars including Julie Goodyear and Kevin Kennedy joined Paul O'Grady in saying they had not been paid, with the two production companies behind the musical, Reckless Entertainment and Street of Dreams Ltd, being put into administration.",
+        "source_url": "https://en.wikipedia.org/wiki/Street_of_Dreams_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "that-bloody-woman": {
+      "slug": "that-bloody-woman",
+      "title": "That Bloody Woman",
+      "qid": "Q106879343",
+      "enwiki": "That Bloody Woman",
+      "composers": [
+        {
+          "name": "Luke Di Somma",
+          "qid": "Q106878719"
+        },
+        {
+          "name": "Greg Cooper",
+          "qid": "Q106879158"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2015-08-28",
+        "venue": "Christchurch Arts Centre"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/That_Bloody_Woman",
+        "wikidata": "https://www.wikidata.org/wiki/Q106879343"
+      },
+      "summary": {
+        "text": "That Bloody Woman is a 2015 punk-rock musical written by Luke Di Somma and Gregory Cooper. It is based on the life of Kate Sheppard and charts the suffragism struggle in New Zealand and its opposition by Richard Seddon. The musical was commissioned by Christchurch Arts Festival and premiered there in August 2015. It played in Auckland and Christchurch in 2016, and toured New Plymouth, Wellington and Dunedin in 2017. An original cast recording was made and released in 2016. That Bloody Woman is set to hit the Christchurch stage once again as Showbiz Christchurch prepare for their opening night on 5 July, featuring an all-female creative team and rock band.",
+        "source_url": "https://en.wikipedia.org/wiki/That_Bloody_Woman",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-blue-paradise": {
+      "slug": "the-blue-paradise",
+      "title": "The Blue Paradise",
+      "qid": "Q7718820",
+      "enwiki": "The Blue Paradise",
+      "composers": [
+        {
+          "name": "Edmund Eysler",
+          "qid": "Q224941",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11646"
+        },
+        {
+          "name": "Leo Edwards",
+          "qid": "Q6523692",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11623"
+        },
+        {
+          "name": "Sigmund Romberg",
+          "qid": "Q742945",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8686"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Edgar Smith",
+          "qid": "Q5337462"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2114",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Blue_Paradise",
+        "wikidata": "https://www.wikidata.org/wiki/Q7718820"
+      },
+      "summary": {
+        "text": "The Blue Paradise is a musical in a prologue and two acts, with music by Edmund Eysler, Sigmund Romberg and Leo Edwards, lyrics primarily by Herbert Reynolds, and a book by Edgar Smith, based on the operetta Ein Tag im Paradies (A Day in Paradise, 1913) by Eysler with original text by Leo Stein and Bela Jenbach. The story is set in a Viennese cafe, where a man realizes that he cannot recapture his long lost love.\nThe musical premiered on Broadway in 1915 and enjoyed a successful run.  It introduced the song “Auf Wiedersehn”, Romberg's first song hit, originally sung by 18-year-old Vivienne Segal in her professional debut.  As in his other early works, Romberg's contributions to this musical are strongly nostalgic, with an emphasis on the waltz as a symbol of the past.  The show also includes newer American dance music and embraces the movement towards stage realism.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Blue_Paradise",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-commitments": {
+      "slug": "the-commitments",
+      "title": "The Commitments",
+      "qid": "Q16954220",
+      "enwiki": "The Commitments (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Roddy Doyle",
+          "qid": "Q73506"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": "Palace Theatre"
+      },
+      "awards": [],
+      "links": {
+        "official_site": "http://www.thecommitmentslondon.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Commitments_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q16954220"
+      },
+      "summary": {
+        "text": "The Commitments, also called The Commitments: The Saviours of Soul, is a jukebox musical written by Roddy Doyle, based on the 1987 novel of the same name, also written by Doyle. Like the novel (and its 1991 film adaptation), the musical is about a group of unemployed Irish youths who start a soul music band. It premiered in 2013 at the Palace Theatre in London's West End.\nThe music within the musical consists of soul and rock & roll classics from the 1950s and 60s, including  \"Think\", \"(I Can't Get No) Satisfaction\", \"Papa Was a Rollin' Stone\" and \"Night Train\". The music is entirely diegetic, meaning that all the songs are performed by the band rather than being sung by characters to express an emotion. For that reason, Doyle has insisted that The Commitments is not a jukebox musical.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Commitments_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-grass-harp": {
+      "slug": "the-grass-harp",
+      "title": "The Grass Harp",
+      "qid": "Q134662525",
+      "enwiki": "The Grass Harp (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Grass_Harp_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q134662525"
+      },
+      "summary": {
+        "text": "The Grass Harp is a one-act musical comedy based on the  novel by the same name by Truman Capote. It opened at the Martin Beck Theatre on November 2, 1971 and starred Barbara Cook, Carol Brice and Karen Morrow.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Grass_Harp_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-great-gatsby": {
+      "slug": "the-great-gatsby",
+      "title": "The Great Gatsby",
+      "qid": "Q122638372",
+      "enwiki": "The Great Gatsby (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Great_Gatsby_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q122638372"
+      },
+      "summary": {
+        "text": "The Great Gatsby is a musical with music and lyrics by Jason Howland and Nathan Tysen, and a book by Kait Kerrigan. It is based on the 1925 novel of the same name by F. Scott Fitzgerald.\nThe show started its Broadway previews on March 29, 2024, at the Broadway Theatre and officially opened on April 25, 2024.\nThe show made its European debut at the London Coliseum for a limited run from April 11, 2025 until September 7, 2025.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Great_Gatsby_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-lost-boys": {
+      "slug": "the-lost-boys",
+      "title": "The Lost Boys",
+      "qid": "Q136594916",
+      "enwiki": "The Lost Boys (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "https://www.lostboysmusical.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Lost_Boys_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q136594916"
+      },
+      "summary": {
+        "text": "The Lost Boys: A New Musical is a musical with music and lyrics by American indie pop/rock band the Rescues and a book by David Hornsby and Chris Hoch, based on the 1987 comedy horror cult classic film The Lost Boys.\nDirected by Michael Arden, the show opened at the Palace Theatre on Broadway in April 2026.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Lost_Boys_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-tin-pan-alley-rag": {
+      "slug": "the-tin-pan-alley-rag",
+      "title": "The Tin Pan Alley Rag",
+      "qid": "Q7769437",
+      "enwiki": "The Tin Pan Alley Rag",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Tin_Pan_Alley_Rag",
+        "wikidata": "https://www.wikidata.org/wiki/Q7769437"
+      },
+      "summary": {
+        "text": "The Tin Pan Alley Rag is a 2009 biographical musical play produced by The Roundabout Theatre Company. The play is set in 1915 and is about Irving Berlin and Scott Joplin and their careers at the Tin Pan Alley in New York City, centered on a fictional meeting between the two composers. It was written by Mark Saltzman and directed by Stafford Arima.\nIn the New York version, the lead role of Irving Berlin was played by Michael Therriault and that of Scott Joplin by Michael Boatman.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Tin_Pan_Alley_Rag",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-toreador": {
+      "slug": "the-toreador",
+      "title": "The Toreador",
+      "qid": "Q7769621",
+      "enwiki": "The Toreador",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8823",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Toreador",
+        "wikidata": "https://www.wikidata.org/wiki/Q7769621"
+      },
+      "summary": {
+        "text": "The Toreador is an Edwardian musical comedy in two acts by James T. Tanner and Harry Nicholls, with lyrics by Adrian Ross and Percy Greenbank and music by Ivan Caryll and Lionel Monckton.  It opened at the Gaiety Theatre in London, managed by George Edwardes, on  17 June 1901 and ran for an extremely successful 675 performances.  It starred Marie Studholme, Gertie Millar, Harry Grattan, Edmund Payne, George Grossmith, Jr. and the young Sidney Bracy.  Gabrielle Ray later joined the cast.  The show also enjoyed Broadway runs in 1902 and 1904 and toured internationally.\nKey songs include \"Captivating Cora\", \"I'm Romantic\", \"When I Marry Amelia\", \"Keep Off the Grass\", and \"Archie\".\nAs was customary for musicals at the time, other songs were interpolated into the show.  For example Christie MacDonald performed \"Moon, Moon\" in the show, which was written by Nathaniel D. Mann.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Toreador",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "time-and-the-wind": {
+      "slug": "time-and-the-wind",
+      "title": "Time and the Wind",
+      "qid": "Q48741924",
+      "enwiki": "Time and the Wind (musical)",
+      "composers": [
+        {
+          "name": "Galt MacDermot",
+          "qid": "Q1346345",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12086"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Time_and_the_Wind_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q48741924"
+      },
+      "summary": {
+        "text": "Time and the Wind is a musical revue by composer Galt MacDermot and lyricist by Norman Matlock. Directed and choreographed by Louis Johnson with musical direction by MacDermot, the show premiered Off-Broadway at the John Houseman Studio Theater on July 27, 1995, with costumes by Bernard Johnson and lighting by Deborah Constantine. The show was produced by Eric Krebs and AMAS Musical Theater Inc. It starred  Christopher Jackson, Carol Denise, Russell Joel Brown, Suzanne Griffin, Johnetta Alston, and Carl Hall. In his review in The New York Times, Stephen Holden wrote, \"The show calls itself \"a New York musical revue,\" but aside from \"Gentle Rain,\" which compares people to cockroaches, the lyrics include few references to urban life. The predominant musical style is the gospel-flavored pop-soul that flourished 25 years ago but has long since been usurped by funk, rap and hip-hop.\"",
+        "source_url": "https://en.wikipedia.org/wiki/Time_and_the_Wind_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

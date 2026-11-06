@@ -1,0 +1,670 @@
+{
+  "live": true,
+  "shows": {
+    "barnum": {
+      "slug": "barnum",
+      "title": "Barnum",
+      "qid": "Q4862013",
+      "enwiki": "Barnum (musical)",
+      "composers": [
+        {
+          "name": "Cy Coleman",
+          "qid": "Q1146861",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4929"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Michael Stewart",
+          "qid": "Q6834631",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7748"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Mark Bramble",
+          "qid": "Q6766825",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7548"
+        }
+      ],
+      "premiere": {
+        "date": "1980-04-30",
+        "venue": "St. James Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1847",
+        "wikipedia": "https://en.wikipedia.org/wiki/Barnum_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4862013"
+      },
+      "summary": {
+        "text": "Barnum is an American musical with a book by Mark Bramble, lyrics by Michael Stewart, and music by Cy Coleman. It is based on the life of showman P. T. Barnum, covering the period from 1835 through 1880 in America and major cities of the world where Barnum took his performing companies. The production combines elements of traditional musical theater with the spectacle of the circus. The characters include jugglers, trapeze artists and clowns, as well as such real-life personalities as Jenny Lind and General Tom Thumb.\nThe original Broadway production ran for 854 performances and was followed by a London production, among others.",
+        "source_url": "https://en.wikipedia.org/wiki/Barnum_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "between-the-devil": {
+      "slug": "between-the-devil",
+      "title": "Between the Devil",
+      "qid": "Q4899157",
+      "enwiki": "Between the Devil",
+      "composers": [
+        {
+          "name": "Arthur Schwartz",
+          "qid": "Q711473",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4324"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Howard Dietz",
+          "qid": "Q1631780",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6363"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Howard Dietz",
+          "qid": "Q1631780",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6363"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1982",
+        "wikipedia": "https://en.wikipedia.org/wiki/Between_the_Devil",
+        "wikidata": "https://www.wikidata.org/wiki/Q4899157"
+      },
+      "summary": {
+        "text": "Between the Devil is a musical comedy with book and lyrics by Howard Dietz and music by Arthur Schwartz.",
+        "source_url": "https://en.wikipedia.org/wiki/Between_the_Devil",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "blue-eyes": {
+      "slug": "blue-eyes",
+      "title": "Blue Eyes",
+      "qid": "Q115516849",
+      "enwiki": "Blue Eyes (musical)",
+      "composers": [
+        {
+          "name": "Jerome Kern",
+          "qid": "Q313270",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6711"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Guy Bolton",
+          "qid": "Q924974",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4575"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Blue_Eyes_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q115516849"
+      },
+      "summary": {
+        "text": "Blue Eyes is a musical composed by Jerome Kern, with a book and lyrics by Guy Bolton and Graham John. Orchestrations were by Robert Russell Bennett, and the original producer was Lee Ephraim. The musical was a historical comedy and romance set against the backdrop of Jacobite Charles Edward Stuart's attempts to restore the House of Stuart to the British throne. In the plot of Blue Eyes a London actress disguises herself as a soldier to help her brother who has been imprisoned by the Duke of Cumberland in the aftermath of the Battle of Culloden. It starred Evelyn Laye, and comic relief was provided by W. H. Berry, who \"disguised himself as a silly Scotsman, a flea circus owner [and a] French dancing teacher\". \nIt was the first production at London's new Piccadilly Theatre, opening on 27 April 1928, and transferred to Daly's Theatre in July, before finishing its run of eight months, for a total of 327 performances.\nThe cast recording with the Piccadilly Theatre Orchestra was issued by Columbia Records.\nThe musicologist Thomas Hischak described Kern's score for Blue Eyes as featuring some \"entrancing songs\", particularly praising \"Back to the Heather\", \"Charlie Is the Darling of My Heart\", and the comic song \"In Vodeodo\". Hischak felt that the score was closer to that of an operetta than a musical comedy. The song \"Do I Do Wrong\" was cut from the production before the musical opened. The melody was later used for Kern's \"You're Devastating\" from his 1933 musical Roberta.",
+        "source_url": "https://en.wikipedia.org/wiki/Blue_Eyes_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "hansel-and-gretel": {
+      "slug": "hansel-and-gretel",
+      "title": "Hansel and Gretel",
+      "qid": "Q5651013",
+      "enwiki": "Hansel and Gretel (1958 TV special)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Hansel_and_Gretel_(1958_TV_special)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5651013"
+      },
+      "summary": {
+        "text": "Hansel and Gretel is a musical adaptation of the Brothers Grimm story. It was directed by Paul Bogart and broadcast as a live television special on NBC on April 27, 1958. It is one of a long series of fantasies presented on television as musical specials after the enormously successful first two telecasts of the Mary Martin Peter Pan. But Hansel and Gretel did not repeat the success of Peter Pan or several of the other specials. It was shown only once, then lapsed into obscurity, although a cast album was issued. The album, also long forgotten, has recently been issued on compact disc.\nThe adaptation, like the telecast 1957 musical adaptation of Pinocchio with Mickey Rooney, features songs by Alec Wilder and William Engvick. It introduces many characters not in the original story including a quartet of characters named, respectively, Eenie, Meanie, Miney and Moe. Moe is portrayed by Sondra Lee, who played Tiger Lily in Peter Pan. Rather incongruously, thirty-nine-year-old comedian Red Buttons appears as Hansel, and then-new Broadway star Barbara Cook is Gretel. Other cast members include Hans Conried, Stubby Kaye, and Risë Stevens. The production's original sponsor was Rexall. Samuel Leve designed the sets for the production.",
+        "source_url": "https://en.wikipedia.org/wiki/Hansel_and_Gretel_(1958_TV_special)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "hello-again": {
+      "slug": "hello-again",
+      "title": "Hello Again",
+      "qid": "Q16975606",
+      "enwiki": "Hello Again (musical)",
+      "composers": [
+        {
+          "name": "Michael John LaChiusa",
+          "qid": "Q3308276",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13016"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Michael John LaChiusa",
+          "qid": "Q3308276",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13016"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Michael John LaChiusa",
+          "qid": "Q3308276",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13016"
+        }
+      ],
+      "premiere": {
+        "date": "1993-12-30",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Hello_Again_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q16975606"
+      },
+      "summary": {
+        "text": "Hello Again is a musical with music, lyrics and book by Michael John LaChiusa.  It is based on the 1897 play La Ronde by Arthur Schnitzler (also titled Reigen).  It focuses on a series of love affairs among ten characters during the ten different decades of the 20th century.\nThe musical premiered Off-Broadway in 1993, directed and choreographed by Graciela Daniele.  Since then it has been performed in London, Sweden, Australia, Germany, The Netherlands and New York.",
+        "source_url": "https://en.wikipedia.org/wiki/Hello_Again_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "high-society": {
+      "slug": "high-society",
+      "title": "High Society",
+      "qid": "Q16975689",
+      "enwiki": "High Society (musical)",
+      "composers": [
+        {
+          "name": "Cole Porter",
+          "qid": "Q215120",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12257"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Cole Porter",
+          "qid": "Q215120",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12257"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Arthur Kopit",
+          "qid": "Q770566",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4304"
+        }
+      ],
+      "premiere": {
+        "date": "1997-09-04",
+        "venue": "American Conservatory Theater"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4392",
+        "wikipedia": "https://en.wikipedia.org/wiki/High_Society_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q16975689"
+      },
+      "summary": {
+        "text": "High Society is a musical comedy with a book by Arthur Kopit, music and lyrics by Cole Porter, and additional lyrics by Susan Birkenhead. The stage version adapts Porter's score for the 1956 film of the same name, which was based on the stage comedy The Philadelphia Story. The musical features much of the film's score, augmented by several songs selected from Porter's catalogue. The plot follows a pretentious Oyster Bay socialite who is planning to wed an equally pretentious executive, when her ex-husband arrives to disrupt the proceedings.\nThe musical premiered in San Francisco in late 1997, transferred to Broadway in early 1998, receiving mixed to unfavorable reviews, and closed after five months. Since then, it has been staged in the West End and elsewhere.",
+        "source_url": "https://en.wikipedia.org/wiki/High_Society_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "jalta-jalta": {
+      "slug": "jalta-jalta",
+      "title": "Jalta, Jalta",
+      "qid": "Q2619594",
+      "enwiki": "Jalta, Jalta",
+      "composers": [
+        {
+          "name": "Alfi Kabiljo",
+          "qid": "Q1273413"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Jalta%2C_Jalta",
+        "wikidata": "https://www.wikidata.org/wiki/Q2619594"
+      },
+      "summary": {
+        "text": "Jalta, Jalta is a Yugoslav musical from 1971. The libretto was written by Milan Grgić, the music was composed by the renowned Croatian composer Alfi Kabiljo, and the production was directed by Vlado Štefančić.\nIts first performance took place on 28 December 1971 in Zagreb at the Komedija Theatre, while the official premiere was held on 7 January 1972. The musical quickly became one of the most successful and long-running stage productions in the history of Yugoslav and Croatian theatre.\nThe story is loosely inspired by the Yalta Conference held in February 1945 in Yalta, where Allied leaders Franklin D. Roosevelt, Winston Churchill, and Joseph Stalin negotiated the post-war division of Europe. Instead of focusing on the political leaders themselves, the musical humorously follows the lives of three hotel servants from the United States, the United Kingdom, and the Soviet Union who work at the conference venue.\nThe original Zagreb production starred actors from the Komedija Theatre ensemble and quickly became extremely popular with audiences. The show ran for hundreds of performances, over 650 of which were performed by the Komedija Theatre ensemble alone. It was later staged in other cities across the former Yugoslavia. Because of its popularity, a television recording was also produced on 12 March 1974 and broadcast on Yugoslav television throughout the 1970s.\nThroughout the years, Jalta, Jalta has remained a highly popular musical, particularly in Croatia. The production has been revived several times at the Komedija Theatre in Zagreb, with notable stagings in 2010, 2013, and 2024.\nDue to its lasting popularity and cultural significance, the musical was also released on DVD in 2013, allowing audiences to watch the famous stage production outside the theatre.",
+        "source_url": "https://en.wikipedia.org/wiki/Jalta%2C_Jalta",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "jolson-tonight": {
+      "slug": "jolson-tonight",
+      "title": "Jolson Tonight",
+      "qid": "Q6270148",
+      "enwiki": "Jolson Tonight",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Nicholas Dante",
+          "qid": "Q7025282",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/90970"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Jolson_Tonight",
+        "wikidata": "https://www.wikidata.org/wiki/Q6270148"
+      },
+      "summary": {
+        "text": "Jolson Tonight is a musical with a book by Nicholas Dante. The musical is based on the life of Al Jolson.",
+        "source_url": "https://en.wikipedia.org/wiki/Jolson_Tonight",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "joseph-and-the-amazing-technicolor-dreamcoat": {
+      "slug": "joseph-and-the-amazing-technicolor-dreamcoat",
+      "title": "Joseph and the Amazing Technicolor Dreamcoat",
+      "qid": "Q1146264",
+      "enwiki": "Joseph and the Amazing Technicolor Dreamcoat",
+      "composers": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "qid": "Q180975",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12073"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Tim Rice",
+          "qid": "Q298295",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8890"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Tim Rice",
+          "qid": "Q298295",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8890"
+        }
+      ],
+      "premiere": {
+        "date": "1968",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4942",
+        "wikipedia": "https://en.wikipedia.org/wiki/Joseph_and_the_Amazing_Technicolor_Dreamcoat",
+        "wikidata": "https://www.wikidata.org/wiki/Q1146264"
+      },
+      "summary": {
+        "text": "Joseph and the Amazing Technicolor Dreamcoat is a sung-through musical with music by Andrew Lloyd Webber and lyrics by Tim Rice, based on the character Joseph from the Bible's Book of Genesis. This was the first Lloyd Webber and Rice musical to be performed publicly: their first collaboration, The Likes of Us, written in 1965, was not performed in public until 2005. Its family-friendly retelling of Joseph, familiar themes, and catchy music have resulted in numerous stagings. According to the owner of the copyright, the Really Useful Group, by 2008 more than 20,000 productions had been staged by schools and amateur theatre groups.\nJoseph... was first presented as a 15-minute \"pop cantata\" at Colet Court School in London in 1968, and was published by Novello and recorded in an expanded form by Decca Records in 1969. After the success of the next Lloyd Webber and Rice piece, Jesus Christ Superstar, Joseph... received amateur stage productions in the US beginning in 1970, and the first American release of the album was in 1971. The musical had its professional premiere, as a 35-minute version, at the Haymarket ice rink during the Edinburgh International Festival in 1972. It was Part Two of Bible One, a Young Vic Theatre Company production presented by the National Theatre of Great Britain. While still undergoing various modifications and expansions, the musical was produced in the West End in 1973. In 1974, its full modern format was performed at the Haymarket Theatre in Leicester and was also recorded that year. The musical was mounted on Broadway in 1982. Several major revivals, national tours, and a 1999 direct-to-video film starring Donny Osmond followed.",
+        "source_url": "https://en.wikipedia.org/wiki/Joseph_and_the_Amazing_Technicolor_Dreamcoat",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "kauboji": {
+      "slug": "kauboji",
+      "title": "Kauboji",
+      "qid": "Q12634331",
+      "enwiki": "Kauboji",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Kauboji",
+        "wikidata": "https://www.wikidata.org/wiki/Q12634331"
+      },
+      "summary": {
+        "text": "Kauboji (English: Cowboys) is a comedy musical authored by Saša Anočić, with music by Rakan Rushaidat and Matija Antolić.",
+        "source_url": "https://en.wikipedia.org/wiki/Kauboji",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "my-best-friend-s-wedding": {
+      "slug": "my-best-friend-s-wedding",
+      "title": "My Best Friend's Wedding",
+      "qid": "Q85851469",
+      "enwiki": "My Best Friend's Wedding (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/My_Best_Friend's_Wedding_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q85851469"
+      },
+      "summary": {
+        "text": "My Best Friend's Wedding is a jukebox musical with a book by Ronald Bass and Jonathan Harvey featuring songs by songwriters Burt Bacharach and Hal David, based on the 1997 film of the same name with screenplay by Bass.",
+        "source_url": "https://en.wikipedia.org/wiki/My_Best_Friend's_Wedding_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "my-brilliant-career": {
+      "slug": "my-brilliant-career",
+      "title": "My Brilliant Career",
+      "qid": "Q131443295",
+      "enwiki": "My Brilliant Career (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2024-11-07",
+        "venue": "Southbank Theatre"
+      },
+      "awards": [],
+      "links": {
+        "official_site": "https://www.mybrilliantcareermusical.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/My_Brilliant_Career_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q131443295"
+      },
+      "summary": {
+        "text": "My Brilliant Career is an Australian musical based on the novel of the same name by Miles Franklin, with book by Sheridan Harbridge and Dean Bryant, music by Mathew Frank and lyrics by Dean Bryant.",
+        "source_url": "https://en.wikipedia.org/wiki/My_Brilliant_Career_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "po-ca-hon-tas-or-the-gentle-savage": {
+      "slug": "po-ca-hon-tas-or-the-gentle-savage",
+      "title": "Po-ca-hon-tas, or The Gentle Savage",
+      "qid": "Q7206080",
+      "enwiki": "Po-ca-hon-tas, or The Gentle Savage",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "John Brougham",
+          "qid": "Q6223414",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/394322"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/412442",
+        "wikipedia": "https://en.wikipedia.org/wiki/Po-ca-hon-tas%2C_or_The_Gentle_Savage",
+        "wikidata": "https://www.wikidata.org/wiki/Q7206080"
+      },
+      "summary": {
+        "text": "Po-ca-hon-tas, or The Gentle Savage (subtitled \"An Original Aboriginal Erratic Operatic Semi-civilized and Demi-savage Extravaganza\") is a two-act musical burlesque by John Brougham (words) and James Gaspard Maeder (music). It debuted in 1855 and became an instant hit. Po-ca-hon-tas remained a staple of theatre troupes and blackface minstrel companies for the next 30 years, typically as an afterpiece.\nThe play parodies the Indian narratives that were popular at the time in the United States, particularly those featuring Indian heroines in the Noble Savage mould, such as The Indian Princess. The burlesque is usually credited with bringing the fad for Indian narratives to an end.",
+        "source_url": "https://en.wikipedia.org/wiki/Po-ca-hon-tas%2C_or_The_Gentle_Savage",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "saturday-night-fever": {
+      "slug": "saturday-night-fever",
+      "title": "Saturday Night Fever",
+      "qid": "Q673893",
+      "enwiki": "Saturday Night Fever (musical)",
+      "composers": [],
+      "lyricists": [
+        {
+          "name": "Bee Gees",
+          "qid": "Q133405"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Nan Knighton",
+          "qid": "Q6962214",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7859"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7755",
+        "wikipedia": "https://en.wikipedia.org/wiki/Saturday_Night_Fever_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q673893"
+      },
+      "summary": {
+        "text": "Saturday Night Fever is a 1998 jukebox musical based on the 1977 film Saturday Night Fever. Its book is by Nan Knighton (in collaboration with Arlene Phillips, Paul Nicholas, and Robert Stigwood), and the songs mostly consist of songs that were featured in the film's soundtrack, which in turn were mostly written and performed by the Bee Gees.\nThe musical focuses on Tony Manero, an Italian-American Brooklyn youth whose weekend is spent at the local discotheque. There he luxuriates in the admiration of the crowd and a growing relationship with Stephanie Mangano, and can temporarily forget the realities of his life, including a dead-end job in a paint store and his gang of deadbeat friends. In an effort to make it a family-friendly show, many of the film's darker elements, including references to racial conflict, drug use, and violence, were eliminated from the plot.",
+        "source_url": "https://en.wikipedia.org/wiki/Saturday_Night_Fever_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "shelter": {
+      "slug": "shelter",
+      "title": "Shelter",
+      "qid": "Q120664583",
+      "enwiki": "Shelter (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Shelter_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q120664583"
+      },
+      "summary": {
+        "text": "Shelter is a 1973 stage musical with book and lyrics by Gretchen Cryer, and music by Nancy Ford. The musical tells the story of a man who takes shelter from the real world in the virtual world and how his unhealthy relationship with his computer affects his real-life relationships. Marcia Rodd was nominated for the Tony Award for Best Actress in a Musical for her performance as Maud in the Broadway production.\nIn 2017, a concert production was staged at 54 Below starring Cryer's son, Jon Cryer.",
+        "source_url": "https://en.wikipedia.org/wiki/Shelter_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "sing-street": {
+      "slug": "sing-street",
+      "title": "Sing Street",
+      "qid": "Q85801271",
+      "enwiki": "Sing Street (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Sing_Street_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q85801271"
+      },
+      "summary": {
+        "text": "Sing Street is a musical with music and lyrics by Gary Clark and John Carney and a book by Enda Walsh. The musical is based on Carney's 2016 film of the same name. The stage adaptation was originally presented at New York Theatre Workshop. Directed by Rebecca Taichman and produced by Barbara Broccoli, Brian Carmody, Patrick Milling-Smith, Michael Wilson, Orin Wolf, and Frederick Zollo, the musical was initially set to premiere on Broadway at the Lyceum Theatre in previews on March 26, 2020, and officially on April 19 with the same cast, but was ultimately delayed due to the COVID-19 pandemic. Nevertheless, a cast recording featuring the original Broadway cast was released on April 22, 2020. The show was presented by the Huntington Theatre Company in Boston in the fall of 2022, with plans to move to Broadway.",
+        "source_url": "https://en.wikipedia.org/wiki/Sing_Street_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "summer-song": {
+      "slug": "summer-song",
+      "title": "Summer Song",
+      "qid": "Q25217447",
+      "enwiki": "Summer Song (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Summer_Song_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q25217447"
+      },
+      "summary": {
+        "text": "Summer Song is a 1956 musical based on the visit of the Czech composer Antonin Dvorak to Iowa, where he wrote his symphony From the New World. The lyrics were written by Eric Maschwitz and book by Hy Kraft to music by Dvorak, arranged by Bernard Grun. Maschwitz had already worked with Grun on the Chopin musical Waltz Without End in 1942.\nSummer Song opened in London in 1956 at the Prince's Theatre and ran for 148 performances.",
+        "source_url": "https://en.wikipedia.org/wiki/Summer_Song_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-marvelous-wonderettes": {
+      "slug": "the-marvelous-wonderettes",
+      "title": "The Marvelous Wonderettes",
+      "qid": "Q7750480",
+      "enwiki": "The Marvelous Wonderettes",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Roger Bean",
+          "qid": "Q16194426"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Marvelous_Wonderettes",
+        "wikidata": "https://www.wikidata.org/wiki/Q7750480"
+      },
+      "summary": {
+        "text": "The Marvelous Wonderettes is a jukebox musical comedy with a book by Roger Bean. The show, which uses pop songs from the 1950s and 1960s as a vehicle to tell its story, pays homage to the high school Songleader squads of the 50s. When called upon to perform at their senior prom as a last minute replacement, Springfield High Songleaders Betty Jean, Cindy Lou, Missy and Suzy, rally together to entertain their classmates in four-part harmony. The second act shows the four ten years later at a high school reunion.\nThe musical includes the songs \"Lollipop\", \"Dream Lover\", \"Stupid Cupid\", \"Lipstick on Your Collar\", \"Hold Me, Thrill Me, Kiss Me\", \"It's My Party\", and \"It's In His Kiss (The Shoop Shoop Song)\".",
+        "source_url": "https://en.wikipedia.org/wiki/The_Marvelous_Wonderettes",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-regulars": {
+      "slug": "the-regulars",
+      "title": "The Regulars",
+      "qid": "Q111946565",
+      "enwiki": "The Regulars",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Regulars",
+        "wikidata": "https://www.wikidata.org/wiki/Q111946565"
+      },
+      "summary": {
+        "text": "The Regulars is a folk musical with music, lyrics, and book by Will Shishmanian. It follows the story of Mark Howard, a trans man who has just moved away from his childhood home to a rural, upstate town, where he befriends Dani Thompson, a Black queer woman who's opening her own gay bar. The production is developed and directed by Miss Hazel Jade.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Regulars",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "whoop-up": {
+      "slug": "whoop-up",
+      "title": "Whoop-Up",
+      "qid": "Q7997616",
+      "enwiki": "Whoop-Up",
+      "composers": [
+        {
+          "name": "Moose Charlap",
+          "qid": "Q6908563",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11512"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Norman Gimbel",
+          "qid": "Q7052273",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12899"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Cy Feuer",
+          "qid": "Q963035",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4930"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/9349",
+        "wikipedia": "https://en.wikipedia.org/wiki/Whoop-Up",
+        "wikidata": "https://www.wikidata.org/wiki/Q7997616"
+      },
+      "summary": {
+        "text": "Whoop-Up is a musical with music by Moose Charlap, lyrics by Norman Gimbel, and book by Cy Feuer and Ernest Martin, based on Stay Away, Joe by Dan Cushman.  It was directed by Cy Feuer, with sets and lighting by Jo Mielziner and choreography by Onna White. \nProduced by Feuer and Martin, the Broadway production opened on December 22, 1958 at the Shubert Theatre, where it ran for 56 performances. Cast included Sylvia Syms, Paul Ford, Susan Johnson, Ralph Young and Romo Vincent. Julienne Marie was nominated for a Tony Award for Best Featured Actress in a Musical for her performance. The plot is described thus: \"Welcome to Glenda's Place - a saloon half-on, half-off a Montana Indian reservation. Glenda's one tough gal, until her native American boyfriend returns after two years on the rodeo circuit.\"\nAn original cast recording was made by MGM Records but the show's short run curtailed album sales and the record was soon deleted from the catalog. In 1987 Larry L. Lash at PolyGram Records, which had purchased the MGM catalogue, digitally remastered and reissued Whoop-Up on CD, adding ten bonus tracks of songs from the score performed by pop artists of the day including Connie Francis, Maurice Chevalier and Rosemary Clooney, as well as the composers' demo recording of a song cut from the show during out-of-town tryouts. The CD was embraced by Broadway cast album collectors but did not sell well and it, too, was soon deleted. The recording is now owned by Universal Music Group, but Brian Drutman of its Decca Broadway label said that with the weak sales of the previous edition there is little reason for Decca to reissue the title.",
+        "source_url": "https://en.wikipedia.org/wiki/Whoop-Up",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "windy-city": {
+      "slug": "windy-city",
+      "title": "Windy City",
+      "qid": "Q8024825",
+      "enwiki": "Windy City (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Windy_City_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q8024825"
+      },
+      "summary": {
+        "text": "Windy City is a 1982 musical with a book and lyrics by Dick Vosburgh and music by Tony Macaulay. It is based on the 1928 play The Front Page by Ben Hecht and Charles MacArthur.",
+        "source_url": "https://en.wikipedia.org/wiki/Windy_City_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

@@ -1,0 +1,690 @@
+{
+  "live": true,
+  "shows": {
+    "a-stubborn-cinderella": {
+      "slug": "a-stubborn-cinderella",
+      "title": "A Stubborn Cinderella",
+      "qid": "Q7627348",
+      "enwiki": "A Stubborn Cinderella",
+      "composers": [
+        {
+          "name": "Joseph E. Howard",
+          "qid": "Q6282805",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6951"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Frank R. Adams",
+          "qid": "Q5489115",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3897"
+        },
+        {
+          "name": "Will M. Hough",
+          "qid": "Q94663174",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9075"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1292",
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Stubborn_Cinderella",
+        "wikidata": "https://www.wikidata.org/wiki/Q7627348"
+      },
+      "summary": {
+        "text": "A Stubborn Cinderella is a musical in three acts with music by Joseph E. Howard, and book and lyrics co-written by William M. Hough and Frank R. Adams. A reinvention of the classic Cinderella folk tale, the plot is a spoof on American college life during the early 20th century. The musical is set at a fictional Columbus University in the United States, a Mountain Wilderness near the Mexican Border, and at a beach in Coronado, California.\nA Stubborn Cinderella premiered at the Alhambra Theater in Milwaukee, Wisconsin on May 24 1908. The production then moved to Chicago where it played for the grand opening of the newly built Princess Theatre at 319 S. Clark St. After an extensive run in Chicago, the production moved to New York City where it opened at the Broadway Theatre on January 25, 1909 and played for 88 performances. The Broadway production was produced by Mort H. Singer Jr. and staged by George Marion. Arthur Pell served as the musical director, and the scenic design were by Frank E. Gates and Edward A. Morange.",
+        "source_url": "https://en.wikipedia.org/wiki/A_Stubborn_Cinderella",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "brownstone": {
+      "slug": "brownstone",
+      "title": "Brownstone",
+      "qid": "Q4976735",
+      "enwiki": "Brownstone (musical)",
+      "composers": [
+        {
+          "name": "Peter Larson",
+          "qid": "Q606593"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Brownstone_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4976735"
+      },
+      "summary": {
+        "text": "Brownstone is a musical written by Josh Rubins (book and lyrics), Andrew Cadiff (book) and Peter Larson (music).  It centers on a group of five people living in a brownstone apartment in New York City.\nBrownstone's characters include Claudia, a young lady getting over a breakup; Howard, a writer struggling with his current novel; his wife Mary, who desperately wants children; Joan, a big-time lawyer whose boyfriend lives in Maine; and Stuart, a bright-eyed youngster just excited to finally be in New York. The musical is sung-through with little dialogue.",
+        "source_url": "https://en.wikipedia.org/wiki/Brownstone_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "cabin-in-the-sky": {
+      "slug": "cabin-in-the-sky",
+      "title": "Cabin in the Sky",
+      "qid": "Q13625170",
+      "enwiki": "Cabin in the Sky (musical)",
+      "composers": [
+        {
+          "name": "Vernon Duke",
+          "qid": "Q519693",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11610"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "John La Touche",
+          "qid": "Q466539",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6847"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2339",
+        "playbill": "https://playbill.com/production/cabin-in-the-sky-martin-beck-theatre-vault-0000008315",
+        "wikipedia": "https://en.wikipedia.org/wiki/Cabin_in_the_Sky_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q13625170"
+      },
+      "summary": {
+        "text": "Cabin in the Sky is a musical with music by Vernon Duke,  book by Lynn Root, and lyrics by John Latouche. The musical opened on Broadway in 1940. The show is described as a \"parable of Southern Negro Life with echoes of Ferenc Molnár's Liliom (which would be turned into the musical Carousel) and Marc Connelly's The Green Pastures.\" Several songs from the Broadway musical were released as a 3-record shellac set under the title \"The Music of Cabin in the Sky featuring Ethel Waters\" in 1940.",
+        "source_url": "https://en.wikipedia.org/wiki/Cabin_in_the_Sky_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "chaplin-1993-musical": {
+      "slug": "chaplin-1993-musical",
+      "title": "Chaplin",
+      "qid": "Q5073225",
+      "enwiki": "Chaplin (1993 musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Ernest Kinoy",
+          "qid": "Q5393393",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5422"
+        }
+      ],
+      "premiere": {
+        "date": "1993",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Chaplin_(1993_musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5073225"
+      },
+      "summary": {
+        "text": "Chaplin is a musical about the early life of the silent film star Charlie Chaplin.  The first act is portrayed in the genre of the British music hall, while in the second act, Chaplin goes to Hollywood, where he becomes \"the Little Tramp\".\nThe musical was announced to premiere on Broadway in 1981, but the project was cancelled.  An abridged version premiered in Miami, Florida, in 1993 and played in Sarasota, Florida, in 2001. The musical had a brief run in London in 2012.",
+        "source_url": "https://en.wikipedia.org/wiki/Chaplin_(1993_musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "december-rains": {
+      "slug": "december-rains",
+      "title": "December Rains",
+      "qid": "Q117350578",
+      "enwiki": "December Rains",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/December_Rains",
+        "wikidata": "https://www.wikidata.org/wiki/Q117350578"
+      },
+      "summary": {
+        "text": "December Rains (Chinese: 雨季; pinyin: Yǔ jì) is the first original Mandarin musical written by veteran songwriter Liang Wern Fook and Jimmy Ye, directed by theatre director Alec Tok and producer James Toh. It was first staged by Brink Creative Company in 1996. The musical was restaged in 2010 and 2015 by Singapore theatre production company, Toy Factory Productions at the Esplanade Theatre by Goh Boon Teck.",
+        "source_url": "https://en.wikipedia.org/wiki/December_Rains",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "dream-street": {
+      "slug": "dream-street",
+      "title": "Dream Street",
+      "qid": "Q5306450",
+      "enwiki": "Dream Street (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Dream_Street_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5306450"
+      },
+      "summary": {
+        "text": "Dream Street was a musical that ran in Las Vegas from 1983 through 1987. Produced by Nancy and Ronnie Horowitz, conceived and written by Mark Donnelly, and choreographed and directed by Steve Merritt, Dream Street was a \"compilation\" musical, made up of well-known songs strung together with a simple narrative.  It dealt with the longings and dreams of a group of children whose neighborhood was being gentrified and who were forced to move out.\nThe show was originally staged at the Dunes, where it ran for three years. It then moved to the Desert Inn, where it ran for another two years. In 1984, the show won the Eppie award for \"Best Show of the Year\". After its run in Vegas, the show briefly toured America, performing in such cities as Dallas, Chicago and St. Louis, ending with a run at Harrah's Atlantic City.\nMerritt and Donnelly became well known in Las Vegas after Donnelly was nicknamed \"The Eyes of Dream Street\" by the Las Vegas Sun and a photo of his eyes was plastered on newspapers and billboards all over town. Merritt, whose athletic choreography was unusual for audiences who were used to the \"walking about\" dancing popular in Vegas shows of the time, went on to choreograph many other shows, including the 1989 Academy Awards Show.\nDream Street owed at least part of its success to its cast, including Forrest Gardner, George Solomon, Monica Pege, Jeffrey Thomas, David Dash, Tony Kishman and Scherrie Payne (of The Supremes). The show was also home to many gifted young dancers, including Michael Fullington, Jerry Evans, Christine Scadina, Lezlie Mogell, Charles McGowan and Macarena Gandarillas, who made the most of Merritt's tough, gritty style.",
+        "source_url": "https://en.wikipedia.org/wiki/Dream_Street_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "forbidden-broadway-strikes-back": {
+      "slug": "forbidden-broadway-strikes-back",
+      "title": "Forbidden Broadway Strikes Back",
+      "qid": "Q5467311",
+      "enwiki": "Forbidden Broadway Strikes Back",
+      "composers": [],
+      "lyricists": [
+        {
+          "name": "Gerard Alessandrini",
+          "qid": "Q5549903",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/406896"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Gerard Alessandrini",
+          "qid": "Q5549903",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/406896"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Forbidden_Broadway_Strikes_Back",
+        "wikidata": "https://www.wikidata.org/wiki/Q5467311"
+      },
+      "summary": {
+        "text": "Forbidden Broadway Strikes Back is a version of Forbidden Broadway created by Gerard Alessandrini.  It previewed September 5, 1996 and opened at the Triad Theater October 16, 1996. The show won Alessandrini the 1997 Drama Desk Award for Outstanding Lyrics and was nominated for the 1997 Drama Desk Award for Outstanding Revue.\nIt later moved to the basement of Ellen's Stardust Diner and, as is the show's tradition, spoofed Broadway's latest.  An album was later released to accompany it, being the fourth volume of the FB franchise.  The album was recorded and mixed by Cynthia Daniels at Giant Sound, Dec. 11-14, 1996, and released in 1997 after Original cast member David Hibbard moved on to Once Upon A Mattress and was replaced by Tom Plotkin.  It bears the label \"Another Unoriginal Cast Recording\", since FB Strikes Back is technically the same show as the original, and features none of the original cast members.\nThe show and album parody shows like Show Boat, Beauty and the Beast, The King and I, Cats, Sunset Boulevard, and Rent, stars like Ann Reinking, Cameron Mackintosh, and Julie Andrews, and attack topics such as the Disneyfication of Broadway, the money the producers of the British shows make from souvenirs, the success of Cats, and the hype over Rent.",
+        "source_url": "https://en.wikipedia.org/wiki/Forbidden_Broadway_Strikes_Back",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "georgy": {
+      "slug": "georgy",
+      "title": "Georgy",
+      "qid": "Q5548483",
+      "enwiki": "Georgy (musical)",
+      "composers": [],
+      "lyricists": [
+        {
+          "name": "Carole Bayer Sager",
+          "qid": "Q292399",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/24460"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Tom Mankiewicz",
+          "qid": "Q721417",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8908"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3828",
+        "wikipedia": "https://en.wikipedia.org/wiki/Georgy_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5548483"
+      },
+      "summary": {
+        "text": "Georgy is a musical with a book by Tom Mankiewicz, lyrics by Carole Bayer Sager (listed as 'Carole Bayer'), and music by George Fischoff. The story is based on the Margaret Forster novel Georgy Girl and the subsequent 1966 film adaptation,",
+        "source_url": "https://en.wikipedia.org/wiki/Georgy_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "kat-and-the-kings": {
+      "slug": "kat-and-the-kings",
+      "title": "Kat and the Kings",
+      "qid": "Q6374977",
+      "enwiki": "Kat and the Kings",
+      "composers": [
+        {
+          "name": "Taliep Petersen",
+          "qid": "Q3643256",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12240"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "David Kramer",
+          "qid": "Q5236132",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4995"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "David Kramer",
+          "qid": "Q5236132",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4995"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Laurence Olivier Awards",
+          "qid": "Q28470"
+        }
+      ],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5014",
+        "wikipedia": "https://en.wikipedia.org/wiki/Kat_and_the_Kings",
+        "wikidata": "https://www.wikidata.org/wiki/Q6374977"
+      },
+      "summary": {
+        "text": "Kat and the Kings is a South African musical with a book and lyrics by David Kramer and music by Taliep Petersen.\nSet in late-1950s South Africa, it focuses on teenager Kat Diamond, who believes he's the best singer and dancer in District Six, a multi-racial slum in Cape Town. With his friends Ballie, Magoo, Bingo, and Lucy, he forms the a cappella group the Cavalla Kings, and the quintet - emulating the American doo wop and rock and roll they adore - becomes a sensation, graduating from street corners to \"whites only\" nightclubs (where the dictates of apartheid force them to use the rear entrance) and a recording contract.\nThe show was inspired by the memories of Salie Daniels, the real-life Kat who appeared as the narrator in the original production. After touring South Africa, the show was invited to the Tricycle Theatre in Kilburn in November 1997, and returned to that venue prior to its opening in the West End.  Directed by Kramer and choreographed by Loukmaan Adams and Jody Abrahams, it opened on March 23, 1998 at the Vaudeville Theatre, where it ran for slightly more than four months. In addition to Daniels, the cast included Abrahams as the young Kat, Adams as Bingo, Junaid Booysen as Ballie, Alistair Izobel as Magoo, and Mandisa Bardill as Lucy.\nKat and the Kings won the Laurence Olivier Award for Best New Musical and, in an unusual move, the entire cast was named Best Actor in a Musical. The show also was nominated for Best Theatre Choreography. An original cast album was recorded live during the June 6, 1998 performance and released by First Night Records.\nAfter fifteen previews, the Broadway production opened on August 19, 1999 at the Cort Theatre, where it ran for 157 performances. Terry Hector and Kim Louis replaced Daniels as the elder Kat and Mandisa Bardill as Lucy, respectively, but the remainder of the cast and the director and choreographers were from the London production. It was nominated for Drama Desk Awards for Outstanding Featured Actor in a Musical (Alistair Izobell), Outstanding Choreography, and Outstanding Orchestrations.",
+        "source_url": "https://en.wikipedia.org/wiki/Kat_and_the_Kings",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "lady-in-the-dark": {
+      "slug": "lady-in-the-dark",
+      "title": "Lady in the Dark",
+      "qid": "Q1424307",
+      "enwiki": "Lady in the Dark",
+      "composers": [
+        {
+          "name": "Kurt Weill",
+          "qid": "Q55004",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7112"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Ira Gershwin",
+          "qid": "Q61059",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12885"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Moss Hart",
+          "qid": "Q728876",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6153"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5214",
+        "wikipedia": "https://en.wikipedia.org/wiki/Lady_in_the_Dark",
+        "wikidata": "https://www.wikidata.org/wiki/Q1424307"
+      },
+      "summary": {
+        "text": "Lady in the Dark is a musical with music by Kurt Weill, lyrics by Ira Gershwin and book and direction by Moss Hart. It was produced by Sam Harris. The protagonist, Liza Elliott, is the unhappy editor of a fashion magazine who is undergoing psychoanalysis. The musical ran on Broadway in 1941, and in the United Kingdom in 1981. A film version was released in 1944, and a live television special followed in 1954.",
+        "source_url": "https://en.wikipedia.org/wiki/Lady_in_the_Dark",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "man-child": {
+      "slug": "man-child",
+      "title": "Man-Child",
+      "qid": "Q60746269",
+      "enwiki": "Man-Child (musical)",
+      "composers": [
+        {
+          "name": "Chris Neal",
+          "qid": "Q16199722"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1971-08",
+        "venue": "Sydney Showground"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Man-Child_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q60746269"
+      },
+      "summary": {
+        "text": "Man-Child is an Australian musical written by Chris Neal, labelled \"a musical odyssey in search of truth\". The musical has no unifying plot and no characters, but consists of a series of independent dream sequences presented through 17 songs.\nNeal first conceived the musical working in Vietnam in 1968. After a short season at the Playhouse in Canberra, Man-Child opened in Sydney in August 1971 in a 600-seat plastic bubble tent called the 'Bubble Theatre' at the Sydney Showground. The production toured to the SGIO Theatre in Brisbane and to Perth and Adelaide. A cast album was released in 1972.",
+        "source_url": "https://en.wikipedia.org/wiki/Man-Child_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "miracle-city": {
+      "slug": "miracle-city",
+      "title": "Miracle City",
+      "qid": "Q48768081",
+      "enwiki": "Miracle City",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Miracle_City",
+        "wikidata": "https://www.wikidata.org/wiki/Q48768081"
+      },
+      "summary": {
+        "text": "Miracle City is a musical with book and lyrics by Nick Enright and music by Max Lambert.",
+        "source_url": "https://en.wikipedia.org/wiki/Miracle_City",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "quadrophenia": {
+      "slug": "quadrophenia",
+      "title": "Quadrophenia",
+      "qid": "Q7268431",
+      "enwiki": "Quadrophenia (musical)",
+      "composers": [
+        {
+          "name": "Pete Townshend",
+          "qid": "Q26933",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8106"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Pete Townshend",
+          "qid": "Q26933",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8106"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Quadrophenia_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7268431"
+      },
+      "summary": {
+        "text": "Quadrophenia is a musical based on the sixth studio album by the English rock band the Who, released on 19 October 1973, and a film of the same name, released in 1979. The album was the group's second full-length rock opera, and the story reveals social, musical and psychological events from an English teenager's perspective. The music and songs were composed by Pete Townshend and the story is set in London and Brighton in 1964 and '65.\nThe name of the musical is a variation on the popular usage of the medical diagnostic term \"schizophrenia\" as dissociative identity disorder, which reflects the four distinct personalities of Jimmy, the story's protagonist, as well as the personalities of the four members of The Who.",
+        "source_url": "https://en.wikipedia.org/wiki/Quadrophenia_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "rama-at-sita": {
+      "slug": "rama-at-sita",
+      "title": "Rama at Sita",
+      "qid": "Q96401173",
+      "enwiki": "Rama at Sita",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Rama_at_Sita",
+        "wikidata": "https://www.wikidata.org/wiki/Q96401173"
+      },
+      "summary": {
+        "text": "Rama at Sita – The Musical is a 1999 full-length OPM Filipino musical in the Tagalog language. It is an adaptation of the 1980 Filipino rock opera ballet by three National Artists, Bienvenido Lumbera, Ryan Cayabyab, and Alice Reyes entitled, \"Rama, Hari\", based on the Indian epic Ramayana topbilled by Kuh Ledesma and Basil Valdez. The production was directed by Leo Rialp and is considered the most expensive theatrical production in the Philippines to date.",
+        "source_url": "https://en.wikipedia.org/wiki/Rama_at_Sita",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "reefer-madness": {
+      "slug": "reefer-madness",
+      "title": "Reefer Madness",
+      "qid": "Q7306819",
+      "enwiki": "Reefer Madness (musical)",
+      "composers": [],
+      "lyricists": [
+        {
+          "name": "Kevin Murphy",
+          "qid": "Q6397054"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Kevin Murphy",
+          "qid": "Q6397054"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "https://reefermadness.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/Reefer_Madness_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7306819"
+      },
+      "summary": {
+        "text": "Reefer Madness is a musical satire of the 1936 cult classic propaganda film of the same name. With book and lyrics by Kevin Murphy and book and music by Dan Studney, the musical debuted in Los Angeles in 1998.",
+        "source_url": "https://en.wikipedia.org/wiki/Reefer_Madness_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "rosalie": {
+      "slug": "rosalie",
+      "title": "Rosalie",
+      "qid": "Q17029981",
+      "enwiki": "Rosalie (musical)",
+      "composers": [
+        {
+          "name": "George Gershwin",
+          "qid": "Q123829",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5813"
+        },
+        {
+          "name": "Sigmund Romberg",
+          "qid": "Q742945",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8686"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "P. G. Wodehouse",
+          "qid": "Q207515",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7988"
+        },
+        {
+          "name": "Ira Gershwin",
+          "qid": "Q61059",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12885"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "William Anthony McGuire",
+          "qid": "Q3105229",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9088"
+        },
+        {
+          "name": "Guy Bolton",
+          "qid": "Q924974",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4575"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/10135",
+        "wikipedia": "https://en.wikipedia.org/wiki/Rosalie_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q17029981"
+      },
+      "summary": {
+        "text": "Rosalie is a musical with music by George Gershwin and Sigmund Romberg, lyrics by Ira Gershwin and P.G. Wodehouse, and book by William Anthony McGuire and Guy Bolton.  The story tells of a princess from a faraway land who comes to the United States of America and falls in love with a West Point Lieutenant.\nIt was first produced on Broadway in 1928 at the New Amsterdam Theatre. It was adapted in 1937 as a musical film with songs by Cole Porter.",
+        "source_url": "https://en.wikipedia.org/wiki/Rosalie_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "schoolhouse-rock-live": {
+      "slug": "schoolhouse-rock-live",
+      "title": "Schoolhouse Rock Live!",
+      "qid": "Q104792067",
+      "enwiki": "Schoolhouse Rock Live!",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Schoolhouse_Rock_Live!",
+        "wikidata": "https://www.wikidata.org/wiki/Q104792067"
+      },
+      "summary": {
+        "text": "Schoolhouse Rock Live! is a musical with music and lyrics by various artists and a book by George Keating, Scott Ferguson, and Kyle Hall. It is based on the animated musical educational series of short videos titled Schoolhouse Rock! created by David McCall. The plot follows a teacher, Tom, who is nervous for his first day of teaching. When he turns on Schoolhouse Rock!, the characters come alive and help him prepare for his lesson. It features popular songs including \"I'm Just a Bill,\" \"Lolly, Lolly, Lolly,\" \"Do the Circulation,\" \"Rufus Xavier Sarsaparilla,\" \"Conjunction Junction,\" and \"The Great American Melting Pot.\" It premiered at Chicago's Cabaret Voltaire in 1993, directed by Scott Ferguson in a partnership with Theatrebam Chicago. It moved off-Broadway in 1995. Since then, it has been performed by various schools and community theaters.\nThe show is a jukebox musical of sorts because it re-uses songs originally written for Schoolhouse Rock! Songs are composed by Bob Dorough, Dave Frishberg, George Newall, Lynn Ahrens, Kathy Mandry, and Tom Yohe.",
+        "source_url": "https://en.wikipedia.org/wiki/Schoolhouse_Rock_Live!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-girls-of-gottenberg": {
+      "slug": "the-girls-of-gottenberg",
+      "title": "The Girls of Gottenberg",
+      "qid": "Q7736646",
+      "enwiki": "The Girls of Gottenberg",
+      "composers": [
+        {
+          "name": "Ivan Caryll",
+          "qid": "Q3156080",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11499"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Adrian Ross",
+          "qid": "Q3605637",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13251"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "George Grossmith Jr.",
+          "qid": "Q3101618",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5814"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3922",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Girls_of_Gottenberg",
+        "wikidata": "https://www.wikidata.org/wiki/Q7736646"
+      },
+      "summary": {
+        "text": "The Girls of Gottenberg is an Edwardian musical comedy in two acts by George Grossmith, Jr. and L. E. Berman, with lyrics by Adrian Ross and Basil Hood, and music by Ivan Caryll and Lionel Monckton. P. G. Wodehouse's personal papers indicate that he wrote the lyrics for one song, \"Our Little Way\", but this was not included in the libretto of show, and he was not credited as a lyricist. Set in Germany, the comedy of the show is largely based on stereotypes of the German people and their culture as seen through a British lens.\nThe musical opened at the Gaiety Theatre in London, managed by George Edwardes, on 15 May 1907, and ran for 303 performances.  It starred George Grossmith, Jr., Edmund Payne and Gertie Millar.  The young Gladys Cooper played the small role of Eva.  The show also had a Broadway run at the Knickerbocker Theatre opening on 2 September 1908 and an Australian run.  One of the best known songs from the show is \"Berlin Is on the Spree\".\nAlthough this show was popular in London in 1907, it had competition from several very successful shows in that season, including the hit productions of The Merry Widow and Miss Hook of Holland.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Girls_of_Gottenberg",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-human-comedy": {
+      "slug": "the-human-comedy",
+      "title": "The Human Comedy",
+      "qid": "Q7740838",
+      "enwiki": "The Human Comedy (musical)",
+      "composers": [
+        {
+          "name": "Galt MacDermot",
+          "qid": "Q1346345",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12086"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4566",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Human_Comedy_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7740838"
+      },
+      "summary": {
+        "text": "The Human Comedy is a 1983 musical with a book and lyrics by William Dumaresq and music by Galt MacDermot.\nWilliam Saroyan's tale originated as a screenplay he had been hired to write and direct for MGM. When the studio objected to its length and an uncompromising Saroyan was pulled from the project, he rewrote the story as a 1943 novel with the same title that was published shortly prior to the film's release.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Human_Comedy_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "yes-yes-yvette": {
+      "slug": "yes-yes-yvette",
+      "title": "Yes, Yes, Yvette",
+      "qid": "Q120396569",
+      "enwiki": "Yes, Yes, Yvette",
+      "composers": [],
+      "lyricists": [
+        {
+          "name": "Irving Caesar",
+          "qid": "Q1284219",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/80184"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": "Grand Opera House"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Yes%2C_Yes%2C_Yvette",
+        "wikidata": "https://www.wikidata.org/wiki/Q120396569"
+      },
+      "summary": {
+        "text": "Yes, Yes, Yvette is a musical in three acts with lyrics by Irving Caesar and music by Philip Charig and Ben Jerome. James Montgomery and William Cary Duncan co-authored the musical's book which was based on  Montgomery's 1916 play Nothing But the Truth which was in turn based on Frederic S. Isham's 1914 novel Nothing But the Truth. Producer Harry Frazee envisioned the work as a follow-up to the 1925 hit musical No, No, Nanette, a work which he had brought to the stage, and the work was billed as a companion piece to Nanette. Many of the cast members from Nanette's successful Chicago production also starred in Yvette.",
+        "source_url": "https://en.wikipedia.org/wiki/Yes%2C_Yes%2C_Yvette",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

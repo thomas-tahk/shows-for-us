@@ -1,0 +1,573 @@
+{
+  "live": true,
+  "shows": {
+    "bajour": {
+      "slug": "bajour",
+      "title": "Bajour",
+      "qid": "Q4848929",
+      "enwiki": "Bajour (musical)",
+      "composers": [
+        {
+          "name": "Walter Marks",
+          "qid": "Q7965546",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12108"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Walter Marks",
+          "qid": "Q7965546",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12108"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Ernest Kinoy",
+          "qid": "Q5393393",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5422"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1803",
+        "wikipedia": "https://en.wikipedia.org/wiki/Bajour_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4848929"
+      },
+      "summary": {
+        "text": "Bajour is a musical with a book by Ernest Kinoy and music and lyrics by Walter Marks.  The musical is based on the Joseph Mitchell short stories The Gypsy Women and The King of the Gypsies published in The New Yorker. The title is allegedly a Romani word for a con game in which lonely and unhappy women are swindled out of their life savings.",
+        "source_url": "https://en.wikipedia.org/wiki/Bajour_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "darlinghurst-nights": {
+      "slug": "darlinghurst-nights",
+      "title": "Darlinghurst Nights",
+      "qid": "Q48814476",
+      "enwiki": "Darlinghurst Nights",
+      "composers": [
+        {
+          "name": "Max Lambert",
+          "qid": "Q43191850"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Katherine Thomson",
+          "qid": "Q3194044"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Darlinghurst_Nights",
+        "wikidata": "https://www.wikidata.org/wiki/Q48814476"
+      },
+      "summary": {
+        "text": "Darlinghurst Nights is a musical. The text was written by Katherine Thomson and music by Max Lambert, based on the verse of Kenneth Slessor. The plot takes place in Sydney, Australia.\nIt was premiered by Sydney Theatre Company at the Wharf Theatre on 7 January 1988, as part of the Festival of Sydney, playing a six-week season. The production also toured to Canberra.\nDarlinghurst Nights was revived by the Hayes Theatre in Sydney in 2018.",
+        "source_url": "https://en.wikipedia.org/wiki/Darlinghurst_Nights",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "in-dahomey": {
+      "slug": "in-dahomey",
+      "title": "In Dahomey",
+      "qid": "Q6009269",
+      "enwiki": "In Dahomey",
+      "composers": [
+        {
+          "name": "Will Marion Cook",
+          "qid": "Q739583",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11539"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Paul Laurence Dunbar",
+          "qid": "Q974678",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12857"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Jesse A. Shipp",
+          "qid": "Q6186084",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6488"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4672",
+        "wikipedia": "https://en.wikipedia.org/wiki/In_Dahomey",
+        "wikidata": "https://www.wikidata.org/wiki/Q6009269"
+      },
+      "summary": {
+        "text": "In Dahomey: A Negro Musical Comedy is a landmark 1903 American musical comedy described by theatre historian Gerald Bordman as \"the first full-length musical written and played by blacks to be performed at a major Broadway house.\" It features music by Will Marion Cook, book by Jesse A. Shipp, and lyrics by poet Paul Laurence Dunbar. It was written by Jesse A. Shipp as a satire on the American Colonization Society's back-to-Africa movement of the earlier nineteenth century.\nIn Dahomey is regarded as a marquee turning point for African-American representation in vaudeville theater. It opened on February 18, 1903, at the New York Theatre, starring George Walker and Bert Williams, two iconic figures of vaudeville entertainment at the time. The musical ran for 53 completed performances and had two tours in the United States and one tour of the United Kingdom. In total, In Dahomey ran for a combined four years.",
+        "source_url": "https://en.wikipedia.org/wiki/In_Dahomey",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "lend-me-a-tenor": {
+      "slug": "lend-me-a-tenor",
+      "title": "Lend Me a Tenor",
+      "qid": "Q6522311",
+      "enwiki": "Lend Me a Tenor (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Lend_Me_a_Tenor_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6522311"
+      },
+      "summary": {
+        "text": "Lend Me A Tenor is a musical with book and Lyrics by Peter Sham and music by Brad Carroll. The musical is based on the 1986 play of the same name by Ken Ludwig. There are several notable changes from the play turning it into a full-on musical comedy. Changes include major plot revisions between Tito Merrelli (opera star) and Saunders (opera director), eliminating Frank the Bellhop (one of the lead roles in the play), adding the role of Bernie, the stage manager, expanding the role of Julia into a musical trio of Saunders' three ex-wives, upping the mistaken identity farce from two to the magic number of three and making every character more three-dimensional than the original play. Perhaps the most important change the musical made to the play is the substitution of the opera within the musical, from Otello to Pagliacci; this change removes questionable elements from Ludwig's play, raising the hilarity to three men running around as opera clowns (Canios) rather than dressed as Otellos. Mr. Ludwig has gone on to appropriate Sham & Carroll's substitution idea in a subsequent revision of his play.",
+        "source_url": "https://en.wikipedia.org/wiki/Lend_Me_a_Tenor_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "lost-boy": {
+      "slug": "lost-boy",
+      "title": "Lost Boy",
+      "qid": "Q24037267",
+      "enwiki": "Lost Boy (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Lost_Boy_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q24037267"
+      },
+      "summary": {
+        "text": "Lost Boy is a 2013 musical by Phil Willmott. The plot follows the characters of the original 1904 play Peter Pan as young adults on the eve of the First World War.",
+        "source_url": "https://en.wikipedia.org/wiki/Lost_Boy_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "mam-zelle-champagne": {
+      "slug": "mam-zelle-champagne",
+      "title": "Mam'zelle Champagne",
+      "qid": "Q6745222",
+      "enwiki": "Mam'zelle Champagne",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5773",
+        "wikipedia": "https://en.wikipedia.org/wiki/Mam'zelle_Champagne",
+        "wikidata": "https://www.wikidata.org/wiki/Q6745222"
+      },
+      "summary": {
+        "text": "Mam'zelle Champagne is a musical revue set in Paris with book by Edgar Allan Woolf, music by Cassius Freeborn, produced by Henry Pincus, which opened June 25, 1906. On its opening night at the outdoor Madison Square Garden Roof Theatre, the millionaire scion Harry K. Thaw shot and killed the prominent architect Stanford White; the otherwise undistinguished musical's run continued for some 60 performances, largely on the publicity from this incident.",
+        "source_url": "https://en.wikipedia.org/wiki/Mam'zelle_Champagne",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "march-of-the-falsettos": {
+      "slug": "march-of-the-falsettos",
+      "title": "March of the Falsettos",
+      "qid": "Q6756900",
+      "enwiki": "March of the Falsettos",
+      "composers": [
+        {
+          "name": "William Finn",
+          "qid": "Q8009056",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9128"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "William Finn",
+          "qid": "Q8009056",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9128"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "William Finn",
+          "qid": "Q8009056",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9128"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/March_of_the_Falsettos",
+        "wikidata": "https://www.wikidata.org/wiki/Q6756900"
+      },
+      "summary": {
+        "text": "March of the Falsettos is a 1981 musical with book, lyrics, and music by William Finn. It is the second in a trilogy of musicals, preceded by In Trousers and followed by Falsettoland. March of the Falsettos and Falsettoland later formed the first and second act respectively of the 1992 musical Falsettos.",
+        "source_url": "https://en.wikipedia.org/wiki/March_of_the_Falsettos",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "roberta": {
+      "slug": "roberta",
+      "title": "Roberta",
+      "qid": "Q13406117",
+      "enwiki": "Roberta (musical)",
+      "composers": [
+        {
+          "name": "Jerome Kern",
+          "qid": "Q313270",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6711"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Otto Harbach",
+          "qid": "Q1231720",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6056"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Otto Harbach",
+          "qid": "Q1231720",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6056"
+        }
+      ],
+      "premiere": {
+        "date": "1933-11-18",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7570",
+        "wikipedia": "https://en.wikipedia.org/wiki/Roberta_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q13406117"
+      },
+      "summary": {
+        "text": "Roberta is a musical from 1933 with music by Jerome Kern, and lyrics and book by Otto Harbach. The playful romantic comedy is based on the novel Gowns by Roberta by Alice Duer Miller. It features the songs \"Yesterdays\", \"Smoke Gets in Your Eyes\", \"Let's Begin\", \"You're Devastating\", \"Something Had To Happen\", \"The Touch of Your Hand\" and \"I'll Be Hard to Handle\".",
+        "source_url": "https://en.wikipedia.org/wiki/Roberta_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "rusical": {
+      "slug": "rusical",
+      "title": "Rusical",
+      "qid": "Q104872150",
+      "enwiki": "Rusical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Rusical",
+        "wikidata": "https://www.wikidata.org/wiki/Q104872150"
+      },
+      "summary": {
+        "text": "A Rusical (portmanteau of \"RuPaul\" and \"musical\") is a musical theatre challenge recurring across the Drag Race television franchise. Rusical productions began in 2014 during the sixth season of the American series, and have subsequently become \"a highly anticipated staple\" of the reality competition, allowing contestants to showcase their talents.",
+        "source_url": "https://en.wikipedia.org/wiki/Rusical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "spider-man-turn-off-the-dark": {
+      "slug": "spider-man-turn-off-the-dark",
+      "title": "Spider-Man: Turn Off the Dark",
+      "qid": "Q1058759",
+      "enwiki": "Spider-Man: Turn Off the Dark",
+      "composers": [
+        {
+          "name": "The Edge",
+          "qid": "Q714845",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/483188"
+        },
+        {
+          "name": "Bono",
+          "qid": "Q834621",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/488492"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "The Edge",
+          "qid": "Q714845",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/483188"
+        },
+        {
+          "name": "Bono",
+          "qid": "Q834621",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/488492"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Julie Taymor",
+          "qid": "Q240490",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7020"
+        },
+        {
+          "name": "Glen Berger",
+          "qid": "Q5567594",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/483189"
+        },
+        {
+          "name": "Roberto Aguirre-Sacasa",
+          "qid": "Q7351575",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/490407"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/488484",
+        "official_site": "http://spidermanonbroadway.marvel.com/home",
+        "wikipedia": "https://en.wikipedia.org/wiki/Spider-Man%3A_Turn_Off_the_Dark",
+        "wikidata": "https://www.wikidata.org/wiki/Q1058759"
+      },
+      "summary": {
+        "text": "Spider-Man: Turn Off the Dark is a musical with music and lyrics by Bono and the Edge of Irish rock band U2 and a book by Julie Taymor, Glen Berger, and Roberto Aguirre-Sacasa. Based on the Marvel Comics character Spider-Man, the story incorporates elements of the 2002 film Spider-Man, the 2004 film Spider-Man 2 and the Greek myth of Arachne. It tells Spider-Man's origin story, his romance with Mary Jane Watson, and his battles with the Green Goblin. It includes highly technical stunts, such as aerial combat scenes and actors swinging from \"webs\".\nThe Broadway production was notorious for its many troubles. Several actors were injured performing stunts and the opening night was repeatedly delayed, causing some critics to review the \"unfinished\" production in protest. Following negative reviews, Spider-Man: Turn Off the Dark suspended performances for a month to retool the show. Aguirre-Sacasa, a longtime Spider-Man comics writer, was brought in to revise the story and book. The director, Julie Taymor, whose vision had driven the concept of the musical, was replaced by the creative consultant Philip William McKinley. By the time Spider-Man: Turn Off the Dark officially opened on June 14, 2011, it had set the record for the longest preview period in Broadway history, with 182 performances.\nCritical reception of the opening was better than for the previews, but mixed, with praise for the visual effects but little enthusiasm for the book and score. Spider-Man: Turn Off the Dark is the most expensive Broadway production in history, with a budget of $75 million. Julie Taymor contested reports of the budget on the BBC Radio 4 program 'This Cultural Life' claiming that the production cost was overstated and instead comparable to the Shrek musical. In the week ending January 1, 2012, it held the box office record for Broadway sales in one week, taking in $2.941 million over nine performances, until it was beaten by Wicked at the end of the year, with $2.947 million. The production closed on January 4, 2014, at a massive financial loss.",
+        "source_url": "https://en.wikipedia.org/wiki/Spider-Man%3A_Turn_Off_the_Dark",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-education-of-h-y-m-a-n-k-a-p-l-a-n": {
+      "slug": "the-education-of-h-y-m-a-n-k-a-p-l-a-n",
+      "title": "The Education of H*Y*M*A*N K*A*P*L*A*N",
+      "qid": "Q7731598",
+      "enwiki": "The Education of H*Y*M*A*N K*A*P*L*A*N",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3279",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Education_of_H*Y*M*A*N_K*A*P*L*A*N",
+        "wikidata": "https://www.wikidata.org/wiki/Q7731598"
+      },
+      "summary": {
+        "text": "The Education of H*Y*M*A*N K*A*P*L*A*N is a musical with lyrics and music by Oscar Brand and Paul Nassau. The musical book by Benjamin Bernard Zavin is based on Leo Rosten's stories of the fictional character Hyman Kaplan.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Education_of_H*Y*M*A*N_K*A*P*L*A*N",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-robber-bridegroom": {
+      "slug": "the-robber-bridegroom",
+      "title": "The Robber Bridegroom",
+      "qid": "Q7761191",
+      "enwiki": "The Robber Bridegroom (musical)",
+      "composers": [
+        {
+          "name": "Robert Waldman",
+          "qid": "Q7350792",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12539"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Alfred Uhry",
+          "qid": "Q766468",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4051"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Alfred Uhry",
+          "qid": "Q766468",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4051"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7563",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Robber_Bridegroom_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7761191"
+      },
+      "summary": {
+        "text": "The Robber Bridegroom is a musical with a book and lyrics by Alfred Uhry and music by Robert Waldman. The story is based on the 1942 novella by Eudora Welty of the same name, with a Robin Hood-like hero; the adaptation placed it in a late 18th-century American setting. The musical ran on Broadway in 1975 and again in 1976.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Robber_Bridegroom_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-velvet-lady": {
+      "slug": "the-velvet-lady",
+      "title": "The Velvet Lady",
+      "qid": "Q119715791",
+      "enwiki": "The Velvet Lady",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Velvet_Lady",
+        "wikidata": "https://www.wikidata.org/wiki/Q119715791"
+      },
+      "summary": {
+        "text": "The Velvet Lady is a \"musical comedy in three acts\" with music by Victor Herbert and a book and lyrics by Henry Blossom. Blossom's book is an adaptation of Fred Jackson's 1915 play A Full House. It was the final collaboration between Herbert and Blossom; premiering on Broadway just a month before Blossom's death. The musical opened at Broadway's New Amsterdam Theatre on February 3, 1919. It closed at that theatre in June 1919 after 136 performances. The production starred Fay Marbe as Vera Venon, a.k.a. \"The Velvet Lady\", Ernest Torrence as Parks, Marie Flynn as Ottilie Howell, Ray Raymond as George Howell, Georgia O'Ramey as Susie, Minerva Coverdale as Bubbles, Alfred Gerrard as Ned Pembroke, and Jed Prouty as Nicholas King.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Velvet_Lady",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-wedding-singer": {
+      "slug": "the-wedding-singer",
+      "title": "The Wedding Singer",
+      "qid": "Q7774071",
+      "enwiki": "The Wedding Singer (musical)",
+      "composers": [
+        {
+          "name": "Matthew Sklar",
+          "qid": "Q6791232",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/82828"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Chad Beguelin",
+          "qid": "Q5066165",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/402892"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/402889",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Wedding_Singer_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7774071"
+      },
+      "summary": {
+        "text": "The Wedding Singer is a musical with music by Matthew Sklar, lyrics by Chad Beguelin, and a book by Beguelin and Tim Herlihy. It is based on the 1998 film of the same name. The musical revolves around Robbie, who sings at weddings, his failed relationship with his former fiancée, and his romance with a new love, Julia.\nThe musical premiered on Broadway in 2006 and had several US tours starting in 2007. It was nominated for the 2006 Tony Award for Best Musical. It subsequently has had many international productions.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Wedding_Singer_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "top-hat": {
+      "slug": "top-hat",
+      "title": "Top Hat",
+      "qid": "Q14956951",
+      "enwiki": "Top Hat (musical)",
+      "composers": [
+        {
+          "name": "Irving Berlin",
+          "qid": "Q128746",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6452"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": "Milton Keynes Theatre"
+      },
+      "awards": [
+        {
+          "name": "Laurence Olivier Awards",
+          "qid": "Q28470"
+        }
+      ],
+      "links": {
+        "official_site": "http://www.tophatonstage.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/Top_Hat_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q14956951"
+      },
+      "summary": {
+        "text": "Top Hat the Musical is a 2011 stage musical based on the 1935 film of the same name, featuring music & lyrics by Irving Berlin with additional orchestration by Chris Walker, and a book by Matthew White and Howard Jacques. The show opened on 16 August 2011 at the Milton Keynes Theatre, touring the United Kingdom before transferring to the Aldwych Theatre in London's West End. Top Hat won multiple 2013 Laurence Olivier Awards after receiving seven nominations. The musical closed in London on 26 October 2013, with a UK and Ireland tour commencing in August 2014.",
+        "source_url": "https://en.wikipedia.org/wiki/Top_Hat_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "wonderful-town": {
+      "slug": "wonderful-town",
+      "title": "Wonderful Town",
+      "qid": "Q2306874",
+      "enwiki": "Wonderful Town",
+      "composers": [
+        {
+          "name": "Leonard Bernstein",
+          "qid": "Q152505",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7257"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Betty Comden",
+          "qid": "Q175078",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4525"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/9461",
+        "wikipedia": "https://en.wikipedia.org/wiki/Wonderful_Town",
+        "wikidata": "https://www.wikidata.org/wiki/Q2306874"
+      },
+      "summary": {
+        "text": "Wonderful Town is a 1953 musical with book written by Joseph A. Fields and Jerome Chodorov, lyrics by Betty Comden and Adolph Green, and music by Leonard Bernstein. The musical tells the story of two sisters who aspire to be a writer and actress respectively, seeking success from their basement apartment in New York City's Greenwich Village. It is based on Fields and Chodorov's 1940 play My Sister Eileen, which in turn originated from autobiographical short stories by Ruth McKenney first published in The New Yorker in the late 1930s and later published in book form as My Sister Eileen. Only the last two stories in McKenney's book were used, and they were heavily modified.\nAfter a pre-Broadway try-out at the Forrest Theatre in Philadelphia, Wonderful Town premiered on Broadway in 1953, starring Rosalind Russell in the role of Ruth Sherwood, Edie Adams as Eileen Sherwood, and George Gaynes as Robert Baker. It won five Tony Awards, including Best Musical and Best Actress, and spawned three New York City Center productions between 1958 and 1966, the 1955 and 1986 West End production and 2003 Broadway revival.  It is a lighter piece than Bernstein's later works, West Side Story and Candide, but none of the songs have become as popular.",
+        "source_url": "https://en.wikipedia.org/wiki/Wonderful_Town",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

@@ -1,0 +1,739 @@
+{
+  "live": true,
+  "shows": {
+    "21-chump-street": {
+      "slug": "21-chump-street",
+      "title": "21 Chump Street",
+      "qid": "Q23022975",
+      "enwiki": "21 Chump Street",
+      "composers": [
+        {
+          "name": "Lin-Manuel Miranda",
+          "qid": "Q1646482",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/459893"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Lin-Manuel Miranda",
+          "qid": "Q1646482",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/459893"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Lin-Manuel Miranda",
+          "qid": "Q1646482",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/459893"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/21_Chump_Street",
+        "wikidata": "https://www.wikidata.org/wiki/Q23022975"
+      },
+      "summary": {
+        "text": "21 Chump Street is a fourteen-minute one-act musical with book, music and lyrics by Lin-Manuel Miranda.  The show was based on the second act of episode #457 of This American Life, titled \"What I Did For Love\" and reported by Robbie Brown, in which a high school student, Justin Laboy, falls in love with an undercover police officer, and is ultimately arrested for selling drugs to the officer in an attempt to impress her. The title is a satirical reference to the 1987 TV show 21 Jump Street which was about undercover narcotics agents in a high school. The musical premiered in a showcase put on by This American Life, held at the Brooklyn Academy of Music on June 7, 2014, and broadcast as episode #528, \"The Radio Drama Episode\".",
+        "source_url": "https://en.wikipedia.org/wiki/21_Chump_Street",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "aunt-hannah": {
+      "slug": "aunt-hannah",
+      "title": "Aunt Hannah",
+      "qid": "Q131553548",
+      "enwiki": "Aunt Hannah",
+      "composers": [
+        {
+          "name": "Alfred Baldwin Sloane",
+          "qid": "Q4722282",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3819"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Aunt_Hannah",
+        "wikidata": "https://www.wikidata.org/wiki/Q131553548"
+      },
+      "summary": {
+        "text": "Aunt Hannah is a musical in three acts with music by A. Baldwin Sloane, lyrics by Clay M. Greene, and a book by Matthew J. Royal. The musical premiered on Broadway at the Bijou Theatre where it opened on February 22, 1900. It ran there for 21 performances, closing on March 10, 1900. Actress Agnes Findlay led the cast as Aunt Hannah with Frederick Hallen as Jack Hammersley, Bobby Gaylor as Mike McCarty, Charles W. Butler as Grimes, Bud Ross as Jim Madden, Belle Bucklin as Martha, Louise Lehman as Nora, Louise Hilton as Mary, Molly Fuller as Polly Madden, John Bunny as Grosvenor Montmorenci, and Caro Gordon Leigh as Evelyn.\nThe musical had success with the songs \"My Tiger Lily\" and \"When the Cat's Away the Mice Will Play\"; the first becoming a briefly popular commercial hit and the second serving as a \"show stopper\" within the musical. The New York Times review praised both of these songs; particularly noting that \"My Tiger Lily\" had \"saved the show\" from being a failure.",
+        "source_url": "https://en.wikipedia.org/wiki/Aunt_Hannah",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "brown-buddies": {
+      "slug": "brown-buddies",
+      "title": "Brown Buddies",
+      "qid": "Q107534976",
+      "enwiki": "Brown Buddies",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Brown_Buddies",
+        "wikidata": "https://www.wikidata.org/wiki/Q107534976"
+      },
+      "summary": {
+        "text": "Brown Buddies was a musical comedy staged with dancer Bill Bojangles and singer Adelaide Hall starring. It opened on Broadway at the Liberty Theatre where it ran for four months before commencing a road tour in the United States. Dubbed by the press \"a musical comedy in sepia\", the core of the music was composed by Millard Thomas. Songs by Shelton Brooks, Ned Reed, Porter Grainger, J. C. Johnson, J. Rosamond Johnson, George A. Little, Arthur Sizemore and Edward G. Nelson also featured. After an out-of-town try-out, the musical opened on October 7, 1930, at the Liberty Theatre, New York, where it ran a fairly solid run of 111 performances until January 10, 1931.",
+        "source_url": "https://en.wikipedia.org/wiki/Brown_Buddies",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "dance-in-the-smoke": {
+      "slug": "dance-in-the-smoke",
+      "title": "Dance in the Smoke",
+      "qid": "Q10533226",
+      "enwiki": "Dance in the Smoke",
+      "composers": [
+        {
+          "name": "Charles Redland",
+          "qid": "Q2960096"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Dance_in_the_Smoke",
+        "wikidata": "https://www.wikidata.org/wiki/Q10533226"
+      },
+      "summary": {
+        "text": "Dance in the Smoke (Swedish: I rök och dans) is a 1954 Swedish musical comedy film directed by Bengt Blomgren and Yngve Gamlin and starring Martin Ljung, Annalisa Ericson and Stig Järrel.\nIt was shot at the Råsunda Studios in Stockholm. The film's sets were designed by the art director Nils Svenwall. The film premiered on July 30, 1954, at the Spegeln cinema in Stockholm. It has been shown on several occasions on SVT, including in 1969, 1983, 2019, 2021 and in May 2022.",
+        "source_url": "https://en.wikipedia.org/wiki/Dance_in_the_Smoke",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "greenwillow": {
+      "slug": "greenwillow",
+      "title": "Greenwillow",
+      "qid": "Q5604916",
+      "enwiki": "Greenwillow",
+      "composers": [
+        {
+          "name": "Frank Loesser",
+          "qid": "Q966018",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5613"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Frank Loesser",
+          "qid": "Q966018",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5613"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Lesser Samuels",
+          "qid": "Q1820899",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7301"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4108",
+        "wikipedia": "https://en.wikipedia.org/wiki/Greenwillow",
+        "wikidata": "https://www.wikidata.org/wiki/Q5604916"
+      },
+      "summary": {
+        "text": "Greenwillow is a musical with a book by Lesser Samuels and Frank Loesser and music and lyrics by Loesser, based on the novel by B. J. Chute. The musical is set in the magical town of Greenwillow. It ran on Broadway in 1960.",
+        "source_url": "https://en.wikipedia.org/wiki/Greenwillow",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "havana": {
+      "slug": "havana",
+      "title": "Havana",
+      "qid": "Q5683045",
+      "enwiki": "Havana (Edwardian musical)",
+      "composers": [
+        {
+          "name": "Leslie Stuart",
+          "qid": "Q2065986",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12465"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Adrian Ross",
+          "qid": "Q3605637",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13251"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "George Grossmith Jr.",
+          "qid": "Q3101618",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5814"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4241",
+        "wikipedia": "https://en.wikipedia.org/wiki/Havana_(Edwardian_musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5683045"
+      },
+      "summary": {
+        "text": "Havana is an Edwardian musical comedy in three acts, with a book by George Grossmith, Jr. and Graham Hill, music by Leslie Stuart, lyrics by Adrian Ross and additional lyrics by George Arthurs. It premiered on 25 April 1908 at the Gaiety Theatre, London, starring Evie Greene as Consuelo, W. H. Berry as Reginald Brown, Lawrence Grossmith as Don Adolfo and Mabel Russell as Pepita.  A young Gladys Cooper was in the chorus.\nThe production ran for 221 performances before touring the provinces.  It also soon played in Berlin, Germany.  An American production played at the Casino Theatre in New York after a Philadelphia tryout, with revisions by its star, James T. Powers. This production was staged by Ned Wayburn and ran from 11 February 1909 to 25 September 1909 for a total of 236 performances.\nAmong the show's musical numbers are the songs Little Miquette, Cupid's Telephone, How Did the Bird Know That? and Pensacola. Musical selections from the show were recorded by the Victor Light Opera Company in 1909.",
+        "source_url": "https://en.wikipedia.org/wiki/Havana_(Edwardian_musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "let-it-be": {
+      "slug": "let-it-be",
+      "title": "Let It Be",
+      "qid": "Q6532701",
+      "enwiki": "Let It Be (musical)",
+      "composers": [
+        {
+          "name": "Lennon-McCartney",
+          "qid": "Q239177"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2012-09-24",
+        "venue": "Prince of Wales Theatre"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Let_It_Be_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6532701"
+      },
+      "summary": {
+        "text": "Let It Be is a West End and Broadway concert revue based on the career of English rock band, The Beatles, from 1962 to their breakup in 1970.",
+        "source_url": "https://en.wikipedia.org/wiki/Let_It_Be_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "lovers": {
+      "slug": "lovers",
+      "title": "Lovers",
+      "qid": "Q120664345",
+      "enwiki": "Lovers (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Lovers_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q120664345"
+      },
+      "summary": {
+        "text": "Lovers is a 1974 musical with music by Steve Sterner, and lyrics and book by Peter del Valle. The story centers on three gay male relationships: one middle-aged couple, a couple of college graduates, and a couple of older men. It was the inaugural production of a gay theater company called The Other Side of Silence (TOSOS). After achieving success with both gay and non-gay audiences, it was moved and premiered on 27 January 1975 at the Players Theater on MacDougal Street, where it ran for 118 performances.",
+        "source_url": "https://en.wikipedia.org/wiki/Lovers_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "medea-the-musical": {
+      "slug": "medea-the-musical",
+      "title": "Medea, the Musical",
+      "qid": "Q6805206",
+      "enwiki": "Medea, the Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1994",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Medea%2C_the_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q6805206"
+      },
+      "summary": {
+        "text": "Medea, the Musical is a 1994 musical comedy by American playwright John Fisher. The play, a farce, concerns a theater director's attempt to recast Medea, the ancient Greek tragedy by Euripides, as a serious modern commentary on LGBT culture, which goes humorously wrong when the director's cast and crew refuse to conform to the stereotyped roles he has created for them. The play became a long-running \"cult favorite\" in San Francisco in the mid-1990s before touring regionally. Not to be confused with Medea The Musical written by English actress and playwright Hayley Canham which premiered in Cambridge in 2022.",
+        "source_url": "https://en.wikipedia.org/wiki/Medea%2C_the_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "real-women-have-curves": {
+      "slug": "real-women-have-curves",
+      "title": "Real Women Have Curves",
+      "qid": "Q125913032",
+      "enwiki": "Real Women Have Curves (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Real_Women_Have_Curves_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q125913032"
+      },
+      "summary": {
+        "text": "Real Women Have Curves is a stage musical with a book by Lisa Loomer with Nell Benjamin and music and lyrics by Joy Huerta and Benjamin Velez. The show is based on the play of the same name by Josefina López, and the 2002 film based on the play, written by Lopez and George LaVoo. The show opened on Broadway on April 27, 2025 at the James Earl Jones Theatre.\nThe show is set in 1987 Boyle Heights, Los Angeles and follows a young woman named Ana García, who goes to work in a garment factory alongside her mother, Carmen. The show follows a group of women and their struggles with societal expectations, difficult family dynamics, immigration issues, and finding the courage to follow their dreams. The musical also touches on body positivity. Although Real Women Have Curves is primarily in English, there are also Spanish phrases incorporated in the script.The show has been critically well received and was nominated for two Tony Awards, Best Featured Actress in a Musical, and Best Original Score.",
+        "source_url": "https://en.wikipedia.org/wiki/Real_Women_Have_Curves_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "ring-of-fire": {
+      "slug": "ring-of-fire",
+      "title": "Ring of Fire",
+      "qid": "Q7334792",
+      "enwiki": "Ring of Fire (musical)",
+      "composers": [
+        {
+          "name": "Johnny Cash",
+          "qid": "Q42775",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/487514"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/406668",
+        "wikipedia": "https://en.wikipedia.org/wiki/Ring_of_Fire_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7334792"
+      },
+      "summary": {
+        "text": "Ring of Fire is a jukebox musical based on the music of Johnny Cash.",
+        "source_url": "https://en.wikipedia.org/wiki/Ring_of_Fire_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "she-loves-me": {
+      "slug": "she-loves-me",
+      "title": "She Loves Me",
+      "qid": "Q2277615",
+      "enwiki": "She Loves Me",
+      "composers": [
+        {
+          "name": "Jerry Bock",
+          "qid": "Q725042",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/69330"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Sheldon Harnick",
+          "qid": "Q2354471",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8645"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Joe Masteroff",
+          "qid": "Q1691522",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6762"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7927",
+        "wikipedia": "https://en.wikipedia.org/wiki/She_Loves_Me",
+        "wikidata": "https://www.wikidata.org/wiki/Q2277615"
+      },
+      "summary": {
+        "text": "She Loves Me is a musical with a book by Joe Masteroff, music by Jerry Bock, and lyrics by Sheldon Harnick. The plot revolves around Budapest shop employees Georg and Amalia, who, despite being consistently at odds with each other at work, are unaware that each is the other's secret pen pal met through lonely-hearts ads. It was the third adaptation of the 1937 play Parfumerie by Hungarian playwright Miklós László, following the 1940 film The Shop Around the Corner and the 1949 musical version In the Good Old Summertime. It was followed by the 1998 movie You've Got Mail. \nThe musical premiered on Broadway in 1963 and ran for 301 performances, was produced in the West End in 1964, and received award-winning revivals on each side of the Atlantic in the 1990s as well as numerous regional productions. Although the original Broadway run was not a financial success, She Loves Me slowly became a cult classic, and the very successful 2016 Broadway revival became the first Broadway show ever to be live-streamed.",
+        "source_url": "https://en.wikipedia.org/wiki/She_Loves_Me",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "sherlock-holmes-the-musical": {
+      "slug": "sherlock-holmes-the-musical",
+      "title": "Sherlock Holmes: The Musical",
+      "qid": "Q7495079",
+      "enwiki": "Sherlock Holmes: The Musical",
+      "composers": [
+        {
+          "name": "Leslie Bricusse",
+          "qid": "Q1305608",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11429"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Leslie Bricusse",
+          "qid": "Q1305608",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11429"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Leslie Bricusse",
+          "qid": "Q1305608",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11429"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Sherlock_Holmes%3A_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q7495079"
+      },
+      "summary": {
+        "text": "Sherlock Holmes: The Musical is a musical based on characters created by Sir Arthur Conan Doyle, with music, lyrics, and book by Leslie Bricusse. The story concerns a 1901 confrontation between Holmes and his arch-enemy Professor Moriarty; Moriarty's brilliant daughter Bella proves to be an even more determined (and beautiful) foe than her father.\nThe musical opened 22 October 1988 at the Northcott Theatre, in Exeter, England, and ran for a limited season of five weeks. It then played at the Cambridge Theatre on Seven Dials in London's Covent Garden area from 24 April to 8 July 1989. During this time there were public transit strikes that Ron Moody worked into the script through ad-libs.\nA revival tour (in a slightly revised version) opened at the Bristol Old Vic on 16 March 1993 with Robert Powell in the title role, Roy Barraclough as Watson, and Louise English as Bella Spellgrove.\nIn April 2013 Leslie Bricusse worked with the Morphic Graffiti theatre company to revise and revamp the show within a Victorian Music Hall setting at Hoxton Hall in London, which itself is a 145-year-old grade II listed Music Hall Theatre. Now called The Revenge of Sherlock Holmes, the revised version included new never previously performed material, and opened to critical acclaim.\nAmong the numerous adaptations of Sherlock Holmes, the Bricusse score was preceded by at least two other Holmes musicals: Baker Street in 1965 and Ein Fall für Sherlock Holmes in 1982.",
+        "source_url": "https://en.wikipedia.org/wiki/Sherlock_Holmes%3A_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-beauty-prize": {
+      "slug": "the-beauty-prize",
+      "title": "The Beauty Prize",
+      "qid": "Q7716192",
+      "enwiki": "The Beauty Prize",
+      "composers": [
+        {
+          "name": "Jerome Kern",
+          "qid": "Q313270",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6711"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "George Grossmith Jr.",
+          "qid": "Q3101618",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5814"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Beauty_Prize",
+        "wikidata": "https://www.wikidata.org/wiki/Q7716192"
+      },
+      "summary": {
+        "text": "The Beauty Prize is a musical comedy in three acts, with music by Jerome Kern, book and lyrics by George Grossmith and P. G. Wodehouse. It was first produced by Grossmith and J A E Malone on 5 September 1923 at the Winter Garden Theatre, Drury Lane, London. It was designed to replace The Cabaret Girl, which the same team had produced with great success the previous year, at the same theatre and with predominantly the same cast, but failed to achieve the same success. The review of the first night performance in The Times described it as: not ... equal to its select band of predecessors... It has quite an involved plot, which is never very interesting: a vast number of characters, most of whom are never very convincing ... The 'book', by Mr George Grossmith and Mr P G Wodehouse, has many flashes of wit but, on the whole, the narrative is an arid desert in which the music of Mr Jerome Kern makes only an occasional oasis... At the end the piece obtained rather a mixed reception. The show ran for a total of 214 performances, closing on 8 March 1924.\nThe Beauty Prize received its first American production when it was presented in a concert-style staging by Musicals Tonight! at the 45th Street Theatre, New York, from 26 April to 8 May 2005.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Beauty_Prize",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-me-nobody-knows": {
+      "slug": "the-me-nobody-knows",
+      "title": "The Me Nobody Knows",
+      "qid": "Q7750777",
+      "enwiki": "The Me Nobody Knows",
+      "composers": [
+        {
+          "name": "Gary William Friedman",
+          "qid": "Q5526164",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11700"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Will Holt",
+          "qid": "Q8002873",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6327"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5978",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Me_Nobody_Knows",
+        "wikidata": "https://www.wikidata.org/wiki/Q7750777"
+      },
+      "summary": {
+        "text": "The Me Nobody Knows is a musical with music by Gary William Friedman and lyrics by Will Holt. It debuted off-Broadway in 1970 and then transferred to Broadway, making it one of the earliest rock musicals to play on Broadway, and the first Broadway hit to give voice to the sentiments of inner-city American youth. It received the Obie Award and the Drama Desk Award for best New Musical, and Five Tony Award nominations, including Best Musical.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Me_Nobody_Knows",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-merveilleuses": {
+      "slug": "the-merveilleuses",
+      "title": "The Merveilleuses",
+      "qid": "Q7751118",
+      "enwiki": "The Merveilleuses",
+      "composers": [
+        {
+          "name": "Hugo Felix",
+          "qid": "Q1635015",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11654"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Adrian Ross",
+          "qid": "Q3605637",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13251"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Victorien Sardou",
+          "qid": "Q354828",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8957"
+        }
+      ],
+      "premiere": {
+        "date": "1906-10-27",
+        "venue": "Daly's Theatre"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Merveilleuses",
+        "wikidata": "https://www.wikidata.org/wiki/Q7751118"
+      },
+      "summary": {
+        "text": "The Merveilleuses is a musical play in three acts, with a book adapted from the French original of Victorien Sardou by Basil Hood, lyrics by Adrian Ross, and music by Hugo Felix. The main plot is a love story, concerning Dorlis, an émigré aristocrat who has just returned from enforced military service in Italy, and Illyrine, his ex-wife. The English title was sometimes rendered as The Lady Dandies.\nIt opened at Daly's Theatre, London, under the management of George Edwardes, on 27 October 1906, with a cast that included Evie Greene, Denise Orme and Robert Evett in the leading roles, and ran for 196 performances.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Merveilleuses",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-scarlet-pimpernel": {
+      "slug": "the-scarlet-pimpernel",
+      "title": "The Scarlet Pimpernel",
+      "qid": "Q1171529",
+      "enwiki": "The Scarlet Pimpernel (musical)",
+      "composers": [
+        {
+          "name": "Frank Wildhorn",
+          "qid": "Q1444457",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5638"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Nan Knighton",
+          "qid": "Q6962214",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7859"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Nan Knighton",
+          "qid": "Q6962214",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7859"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7781",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Scarlet_Pimpernel_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1171529"
+      },
+      "summary": {
+        "text": "The Scarlet Pimpernel is a musical with music by Frank Wildhorn and lyrics & book by Nan Knighton, based on the 1905 novel of the same name by Baroness Orczy. The show is set in England and France during the Reign of Terror of the French Revolution. The story is a precursor to the spy fiction and the superhero genres, where a hero hides under a mild-mannered alias.\nThe musical ran on Broadway from October 1997 to May 1999 at the Minskoff Theatre, closed, toured, and reopened from September 1999 to January 2000 at the Neil Simon Theatre, in several versions. It also had a US National tour, and regional and international productions followed.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Scarlet_Pimpernel_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-time-traveller-s-wife": {
+      "slug": "the-time-traveller-s-wife",
+      "title": "The Time Traveller's Wife",
+      "qid": "Q116873316",
+      "enwiki": "The Time Traveller's Wife (musical)",
+      "composers": [
+        {
+          "name": "Joss Stone",
+          "qid": "Q217280"
+        },
+        {
+          "name": "David A. Stewart",
+          "qid": "Q325389",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/490927"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Kait Kerrigan",
+          "qid": "Q6348573"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Time_Traveller's_Wife_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q116873316"
+      },
+      "summary": {
+        "text": "The Time Traveller's Wife is a stage musical with a book by Lauren Gunderson and music and lyrics by Joss Stone and Dave Stewart (with additional lyrics by Kait Kerrigan and additional music by Nick Finlow), based on the novel by Audrey Niffenegger and the 2009 film.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Time_Traveller's_Wife_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-who-s-tommy": {
+      "slug": "the-who-s-tommy",
+      "title": "The Who's Tommy",
+      "qid": "Q7774624",
+      "enwiki": "The Who's Tommy",
+      "composers": [
+        {
+          "name": "Pete Townshend",
+          "qid": "Q26933",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8106"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Pete Townshend",
+          "qid": "Q26933",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8106"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": "1992-07-01",
+        "venue": "La Jolla Playhouse"
+      },
+      "awards": [
+        {
+          "name": "Laurence Olivier Awards",
+          "qid": "Q28470"
+        }
+      ],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8783",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Who's_Tommy",
+        "wikidata": "https://www.wikidata.org/wiki/Q7774624"
+      },
+      "summary": {
+        "text": "The Who's Tommy is a rock musical with music and lyrics by Pete Townshend and a book by Townshend and Des McAnuff. It is based on the 1969 rock opera Tommy by the Who.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Who's_Tommy",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "top-speed": {
+      "slug": "top-speed",
+      "title": "Top Speed",
+      "qid": "Q125804376",
+      "enwiki": "Top Speed (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Top_Speed_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q125804376"
+      },
+      "summary": {
+        "text": "Top Speed is a musical in two acts with music by Harry Ruby, lyrics by Bert Kalmar, and a book co-authored by Guy Bolton, Ruby, and Kalmar. The musical is set at the Onawanda Lodge, a fictional resort in the Thousand Islands that sits on the American side of the Canada–United States border in New York. The story follows two young and financially poor American men who fall in love with two wealthy American heiresses while vacationing far above their economic means. Misadventures ensue when the boys are asked to pilot a speed boat owned by one of the girls in an international boat race.",
+        "source_url": "https://en.wikipedia.org/wiki/Top_Speed_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "whoopee": {
+      "slug": "whoopee",
+      "title": "Whoopee!",
+      "qid": "Q1632197",
+      "enwiki": "Whoopee!",
+      "composers": [
+        {
+          "name": "Walter Donaldson",
+          "qid": "Q169341",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11598"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Gus Kahn",
+          "qid": "Q520751",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12999"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "William Anthony McGuire",
+          "qid": "Q3105229",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9088"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/9350",
+        "wikipedia": "https://en.wikipedia.org/wiki/Whoopee!",
+        "wikidata": "https://www.wikidata.org/wiki/Q1632197"
+      },
+      "summary": {
+        "text": "Whoopee! is a 1928 musical comedy play with a book based on Owen Davis's play, The Nervous Wreck. The musical libretto was written by William Anthony McGuire, with music by Walter Donaldson and lyrics by Gus Kahn. The musical premiered on Broadway in 1928, starring Eddie Cantor, and introduced the hit song \"Love Me or Leave Me\", sung by Ruth Etting. A film version opened in 1930.",
+        "source_url": "https://en.wikipedia.org/wiki/Whoopee!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

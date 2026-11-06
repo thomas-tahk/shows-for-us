@@ -1,0 +1,598 @@
+{
+  "live": true,
+  "shows": {
+    "bob-s-your-uncle": {
+      "slug": "bob-s-your-uncle",
+      "title": "Bob's Your Uncle",
+      "qid": "Q60791502",
+      "enwiki": "Bob's Your Uncle (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Bob's_Your_Uncle_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q60791502"
+      },
+      "summary": {
+        "text": "Bob's Your Uncle is a 1948 British musical comedy  with music by Noel Gay, lyrics by Frank Eyton, and a book by Austin Melford. \nAfter premiering at the Royal Court Theatre in Liverpool, its West End run at the Saville Theatre lasted for 363 performances, between 5 May 1948 and 19 March 1949. The work was designed as a vehicle for the comedian Leslie Henson, who also co-produced it. The cast included Vera Pearce.",
+        "source_url": "https://en.wikipedia.org/wiki/Bob's_Your_Uncle_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "chaplin-2006-musical": {
+      "slug": "chaplin-2006-musical",
+      "title": "Chaplin",
+      "qid": "Q5073226",
+      "enwiki": "Chaplin (2006 musical)",
+      "composers": [
+        {
+          "name": "Christopher Curtis",
+          "qid": "Q112507364"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Christopher Curtis",
+          "qid": "Q112507364"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Christopher Curtis",
+          "qid": "Q112507364"
+        },
+        {
+          "name": "Thomas Meehan",
+          "qid": "Q7792371",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8874"
+        }
+      ],
+      "premiere": {
+        "date": "2006",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/492869",
+        "wikipedia": "https://en.wikipedia.org/wiki/Chaplin_(2006_musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5073226"
+      },
+      "summary": {
+        "text": "Chaplin: The Musical, formerly titled Limelight: The Story of Charlie Chaplin, is a musical with music and lyrics by Christopher Curtis and book by Curtis and Thomas Meehan. The show is based on the life of Charlie Chaplin. The musical, which started at the New York Musical Theatre Festival in 2006, debuted at the La Jolla Playhouse in 2010, and then premiered on Broadway in 2012.",
+        "source_url": "https://en.wikipedia.org/wiki/Chaplin_(2006_musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "crazy-for-you": {
+      "slug": "crazy-for-you",
+      "title": "Crazy for You",
+      "qid": "Q1475152",
+      "enwiki": "Crazy for You (musical)",
+      "composers": [
+        {
+          "name": "George Gershwin",
+          "qid": "Q123829",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5813"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Ira Gershwin",
+          "qid": "Q61059",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12885"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Ken Ludwig",
+          "qid": "Q6388044",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7069"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Laurence Olivier Awards",
+          "qid": "Q28470"
+        }
+      ],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2807",
+        "wikipedia": "https://en.wikipedia.org/wiki/Crazy_for_You_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1475152"
+      },
+      "summary": {
+        "text": "Crazy for You is a romantic comedy musical with a book by Ken Ludwig, lyrics by Ira Gershwin, and music by George Gershwin. Billed as \"The New Gershwin Musical Comedy\", it is largely based on the songwriting team's 1930 musical Girl Crazy, but also incorporates songs from several other productions. It won the 1992 Tony Award (Broadway), the 1993 Olivier Award (London), and the 1994 Dora Award (Toronto) for Best Musical.",
+        "source_url": "https://en.wikipedia.org/wiki/Crazy_for_You_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "five-anniversaries": {
+      "slug": "five-anniversaries",
+      "title": "Five Anniversaries",
+      "qid": "Q96378007",
+      "enwiki": "Five Anniversaries",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Five_Anniversaries",
+        "wikidata": "https://www.wikidata.org/wiki/Q96378007"
+      },
+      "summary": {
+        "text": "Five Anniversaries is a set of short pieces for piano by American composer Leonard Bernstein and the third installment in the series of Anniversaries for piano. It was composed between 1949 and 1951. It is known for presenting some of the musical ideas that were later developed in other works.",
+        "source_url": "https://en.wikipedia.org/wiki/Five_Anniversaries",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "hex": {
+      "slug": "hex",
+      "title": "Hex",
+      "qid": "Q107292145",
+      "enwiki": "Hex (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Hex_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q107292145"
+      },
+      "summary": {
+        "text": "Hex is a musical with book by Tanya Ronder, lyrics by Rufus Norris and music by Jim Fortune based on the classic fairy tale Sleeping Beauty by Charles Perrault.",
+        "source_url": "https://en.wikipedia.org/wiki/Hex_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "is-there-life-after-high-school": {
+      "slug": "is-there-life-after-high-school",
+      "title": "Is There Life After High School?",
+      "qid": "Q16980684",
+      "enwiki": "Is There Life After High School?",
+      "composers": [
+        {
+          "name": "Craig Carnelia",
+          "qid": "Q5180808",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11491"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1982-05-07",
+        "venue": "Ethel Barrymore Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4773",
+        "wikipedia": "https://en.wikipedia.org/wiki/Is_There_Life_After_High_School%3F",
+        "wikidata": "https://www.wikidata.org/wiki/Q16980684"
+      },
+      "summary": {
+        "text": "Is There Life After High School? is a musical with a book by Jeffrey Kindley and music and lyrics by Craig Carnelia. It is loosely inspired by Ralph Keyes' best-selling book of the same name.\nThe show uses songs and monologues to recall the joys, terrors, envies, hates, and loves that most teenagers experience throughout their four years of high school.\nThe world premiere was mounted by the Hartford Stage Company in Hartford, Connecticut. The Broadway production was staged by Robert Nigro and choreographed by Larry Fuller. It had a long preview period of 48 performances before opening on May 7, 1982, at the Ethel Barrymore Theatre. It closed after 17 performances. The cast included Sandy Faison, Harry Groener, David Patrick Kelly, Alma Cuervo, and James Widdoes, who won the Theatre World Award for his performance. Scott Bakula was one of the understudies.\nAn original cast album was released on the Original Cast label, and was re-issued on CD by the same company in 1995, with bonus tracks sung by the composer/lyricist.\nProducer and director Robert Neal Marshall produced the critically acclaimed London West End debut at the Donmar Warehouse in the Summer of 1986 as a special limited engagement.  This production starred Caroline O'Connor, Mark Michael Hutchinson, Geoff Steer, Rosemarie Ford, Lynne Kieran, Steven Mann, Nelly Morrison & Nigel Garton early in their careers who did this late night engagement while several were also appearing in West End hit shows Me and My Girl, 42nd Street and The Hired Man. The musical director was Tony Castro.\nThe show has been staged at Ford's Theatre in Washington, D.C., and at regional theatres throughout the country. The Birmingham Repertory theatre staged a youth theatre production in 2009 at the Old REP in the UK.\nThe song \"The Kid Inside\" was covered by Barry Manilow on his 1991 musical album Showstoppers and John Barrowman on his 2010 self-titled studio album.",
+        "source_url": "https://en.wikipedia.org/wiki/Is_There_Life_After_High_School%3F",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "jerico-jim-crow": {
+      "slug": "jerico-jim-crow",
+      "title": "Jerico-Jim Crow",
+      "qid": "Q6182190",
+      "enwiki": "Jerico-Jim Crow",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Jerico-Jim_Crow",
+        "wikidata": "https://www.wikidata.org/wiki/Q6182190"
+      },
+      "summary": {
+        "text": "Jerico-Jim Crow is a 1964 musical, with a book written by Langston Hughes and William Hairston.  It was a pioneering work in the urban contemporary gospel musical style, based on the themes of the Civil Rights Movement in the United States.  According to Hughes scholar and biographer Arnold Rampersad, Hughes \"virtually pioneered\" the black gospel musical, first with Black Nativity (1961) and then with Jericho-Jim Crow.\nJerico-Jim Crow premiered on Sunday, January 5, 1964, at the Sanctuary Theatre, New York City. It was co-directed by Alvin Ailey and William Hairston and conducted by Hugh Porter, with Marion Joseph Franklin, Jr as associate musical director and musical accompanist, the musical was favorably reviewed in The New York Times by Richard F. Shepard, who said: \"This rousing production is an unabashedly sentimental and tuneful history of the Negro struggle up from slavery.\"\nA cast recording was released in 1964 by Folkways Records.",
+        "source_url": "https://en.wikipedia.org/wiki/Jerico-Jim_Crow",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "la-cage-aux-folles": {
+      "slug": "la-cage-aux-folles",
+      "title": "La Cage aux Folles",
+      "qid": "Q2035179",
+      "enwiki": "La Cage aux Folles (musical)",
+      "composers": [
+        {
+          "name": "Jerry Herman",
+          "qid": "Q1363692",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6278"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Jerry Herman",
+          "qid": "Q1363692",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6278"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Harvey Fierstein",
+          "qid": "Q446481",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6157"
+        }
+      ],
+      "premiere": {
+        "date": "1983",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5126",
+        "official_site": "http://lacage.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/La_Cage_aux_Folles_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q2035179"
+      },
+      "summary": {
+        "text": "La Cage aux Folles (French pronunciation: [la kaʒ o fɔl]) is a musical with music and lyrics by Jerry Herman and a book by Harvey Fierstein.\nBased on the 1973 French play of the same name, the show tells the story of a gay couple, Georges, the manager of a Saint-Tropez nightclub featuring drag entertainment, and Albin, his romantic partner and star attraction; farcical adventures ensue when household dynamics intersect with an ultra-conservative politician. \nOpening on Broadway in 1983, La Cage broke barriers for gay representation by becoming the first hit Broadway musical centered on a homosexual relationship. The show's act one finale \"I Am What I Am\" received praise as a \"gay anthem\" and has been widely recorded.\nThe original production ran for more than four years (1,761 performances), and won six Tony Awards, including Best Musical, Best Score, and Best Book.\nThe success of the musical spawned a West End (London) production and several international runs. Subsequent revivals have garnered considerable success, winning the Tony Award for Best Revival of a Musical in both 2005 and 2010, as well as the Olivier Award for Best Musical Revival in 2009.",
+        "source_url": "https://en.wikipedia.org/wiki/La_Cage_aux_Folles_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "leben-ohne-chris": {
+      "slug": "leben-ohne-chris",
+      "title": "Leben ohne Chris",
+      "qid": "Q1599749",
+      "enwiki": "Leben ohne Chris",
+      "composers": [
+        {
+          "name": "Wolfgang Böhmer",
+          "qid": "Q22328461"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Peter Lund",
+          "qid": "Q107208"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Leben_ohne_Chris",
+        "wikidata": "https://www.wikidata.org/wiki/Q1599749"
+      },
+      "summary": {
+        "text": "Leben ohne Chris (Life without Chris) is a musical written in German language by Peter Lund (lyrics), Wolfgang Böhmer (music) and Neva Howard (choreography).",
+        "source_url": "https://en.wikipedia.org/wiki/Leben_ohne_Chris",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "marlowe": {
+      "slug": "marlowe",
+      "title": "Marlowe",
+      "qid": "Q6772000",
+      "enwiki": "Marlowe (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5880",
+        "wikipedia": "https://en.wikipedia.org/wiki/Marlowe_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6772000"
+      },
+      "summary": {
+        "text": "Marlowe is a 1981 musical with a book by Leo Rost, lyrics by Rost and Jimmy Horowitz, and music by Horowitz. Despite a claim in the Playbill that \"the story of this drama is essentially true and accurate,\" much of it is a fictionalized account of the life of Elizabethan playwright Christopher Marlowe.",
+        "source_url": "https://en.wikipedia.org/wiki/Marlowe_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "midnight-sun": {
+      "slug": "midnight-sun",
+      "title": "Midnight Sun",
+      "qid": "Q109674494",
+      "enwiki": "Midnight Sun (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "http://shinswave.com/show/sho_common_view.php?strSection=Show&strCategory=Now&strMode=View&strPage=1&strSeq=96",
+        "wikipedia": "https://en.wikipedia.org/wiki/Midnight_Sun_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q109674494"
+      },
+      "summary": {
+        "text": "Midnight Sun (태양의 노래; Tae-yang-ui norae; lit. '\"Song of the Sun\"') is a South Korean musical produced by Shinswave in 2021, based on the 2006 Japanese movie A Song to the Sun.",
+        "source_url": "https://en.wikipedia.org/wiki/Midnight_Sun_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "music-box-revue": {
+      "slug": "music-box-revue",
+      "title": "Music Box Revue",
+      "qid": "Q1801518",
+      "enwiki": "Music Box Revue",
+      "composers": [
+        {
+          "name": "Irving Berlin",
+          "qid": "Q128746",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6452"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1921",
+        "venue": "Music Box Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/10362",
+        "wikipedia": "https://en.wikipedia.org/wiki/Music_Box_Revue",
+        "wikidata": "https://www.wikidata.org/wiki/Q1801518"
+      },
+      "summary": {
+        "text": "Music Box Revue was a series of four musical theatre revues by Irving Berlin, presented from 1921 to 1924 at the Music Box Theatre in New York City. Berlin wrote the book, music, and lyrics to all four editions. The first show was staged by Hassard Short with music by Irving Berlin, and featured contributions from a number of writers including Robert Benchley. it debuted in 1921, where it ran for 440 performances.",
+        "source_url": "https://en.wikipedia.org/wiki/Music_Box_Revue",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "princess-caprice": {
+      "slug": "princess-caprice",
+      "title": "Princess Caprice",
+      "qid": "Q7244569",
+      "enwiki": "Princess Caprice",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Princess_Caprice",
+        "wikidata": "https://www.wikidata.org/wiki/Q7244569"
+      },
+      "summary": {
+        "text": "Princess Caprice is a musical theatre work described as a \"comedy with music\", in three acts, with music by Leo Fall. The book was adapted by Alexander M. Thompson from Fall's operetta Der liebe Augustin by Rudolf Bernauer and Ernst Welisch. The lyrics were by A. Scott-Craven, Harry Beswick and Percy Greenbank. Much of the music was from Der liebe Augustin, but Fall composed four new numbers, with lyrics by Scott-Craven, for the new piece.  The story involves mistaken identities and farcical financial dealings at a European palace, following which the proper romantic partners are paired happily.\nThe original production opened at the Shaftesbury Theatre, London, on 11 May 1912, running for 265 performances until January 1913.  It was produced by Robert Courtneidge.  The piece then toured.",
+        "source_url": "https://en.wikipedia.org/wiki/Princess_Caprice",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "salad-days": {
+      "slug": "salad-days",
+      "title": "Salad Days",
+      "qid": "Q7403382",
+      "enwiki": "Salad Days (musical)",
+      "composers": [
+        {
+          "name": "Julian Slade",
+          "qid": "Q6307573"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Salad_Days_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7403382"
+      },
+      "summary": {
+        "text": "Salad Days is a musical with music by Julian Slade, and with book and lyrics by Dorothy Reynolds and Julian Slade. The musical was initially performed in 1954 in the UK in Bristol and then in the West End, where it ran for 2,283 performances.",
+        "source_url": "https://en.wikipedia.org/wiki/Salad_Days_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "shout-the-mod-musical": {
+      "slug": "shout-the-mod-musical",
+      "title": "Shout! The Mod Musical",
+      "qid": "Q7502764",
+      "enwiki": "Shout! The Mod Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Shout!_The_Mod_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q7502764"
+      },
+      "summary": {
+        "text": "SHOUT! The Mod Musical is an off-Broadway musical by Phillip George and David Lowenstein featuring songs from the swinging sixties. The musical features five female singers who are called, Orange, Blue, Green, Yellow and Red.",
+        "source_url": "https://en.wikipedia.org/wiki/Shout!_The_Mod_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "sweet-charity": {
+      "slug": "sweet-charity",
+      "title": "Sweet Charity",
+      "qid": "Q2164246",
+      "enwiki": "Sweet Charity",
+      "composers": [
+        {
+          "name": "Cy Coleman",
+          "qid": "Q1146861",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4929"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Dorothy Fields",
+          "qid": "Q435241",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5113"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Neil Simon",
+          "qid": "Q315808",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7879"
+        }
+      ],
+      "premiere": {
+        "date": "1989-11-01",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/10202",
+        "wikipedia": "https://en.wikipedia.org/wiki/Sweet_Charity",
+        "wikidata": "https://www.wikidata.org/wiki/Q2164246"
+      },
+      "summary": {
+        "text": "Sweet Charity is a musical with music by Cy Coleman, lyrics by Dorothy Fields, and book by Neil Simon, based on the screenplay for the 1957 Italian film Nights of Cabiria. It was directed and choreographed for Broadway by Bob Fosse starring his wife and muse Gwen Verdon as a dancer-for-hire at a Times Square dance hall, alongside John McMartin.\nThe musical premiered on Broadway in 1966, where it was nominated for nine Tony Awards, winning the Tony Award for Best Choreography. The production also ran in the West End and has run several revivals and international productions. It was adapted for the screen in 1969, directed and choreographed by Fosse in his feature-film directorial debut. Shirley MacLaine starred as the title character, and McMartin reprised his Broadway role as Oscar Lindquist.",
+        "source_url": "https://en.wikipedia.org/wiki/Sweet_Charity",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-dancing-years": {
+      "slug": "the-dancing-years",
+      "title": "The Dancing Years",
+      "qid": "Q7728844",
+      "enwiki": "The Dancing Years",
+      "composers": [
+        {
+          "name": "Ivor Novello",
+          "qid": "Q436693",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6484"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Christopher Hassall",
+          "qid": "Q1086725"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Ivor Novello",
+          "qid": "Q436693",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6484"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Dancing_Years",
+        "wikidata": "https://www.wikidata.org/wiki/Q7728844"
+      },
+      "summary": {
+        "text": "The Dancing Years is a musical with book and music by Ivor Novello and lyrics by Christopher Hassall, set in Vienna, from 1911 until 1938. It follows a Jewish composer and his love for two women of different social classes, with an ending set against the background of Nazi persecution.\nThe piece opened in early 1939 in London's West End, starring Novello in an expensive, spectacular production, with several scene changes and a large cast. When theatres in London closed at the start of the Second World War, the show went on tour in Britain for the next three years. Censorship originally prevented the inclusion of the Nazi element, but by the time The Dancing Years reopened at the Adelphi Theatre in 1942 it had been reinstated.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Dancing_Years",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-last-sweet-days-of-isaac": {
+      "slug": "the-last-sweet-days-of-isaac",
+      "title": "The Last Sweet Days of Isaac",
+      "qid": "Q7746093",
+      "enwiki": "The Last Sweet Days of Isaac",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Last_Sweet_Days_of_Isaac",
+        "wikidata": "https://www.wikidata.org/wiki/Q7746093"
+      },
+      "summary": {
+        "text": "The Last Sweet Days of Isaac is an American Off-Broadway rock musical by Gretchen Cryer and Nancy Ford, which premiered in 1970. It starred Austin Pendleton and Fredricka Weber, and later Alice Playten. It received positive reviews, and won three Obies, a Drama Desk Award, and an Outer Critics Circle Award. It opened at the Eastside Playhouse on January 26, 1970, and closed May 2, 1971.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Last_Sweet_Days_of_Isaac",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "when-we-are-married": {
+      "slug": "when-we-are-married",
+      "title": "When We Are Married",
+      "qid": "Q20874719",
+      "enwiki": "When We Are Married (musical)",
+      "composers": [
+        {
+          "name": "Tommy Tycho",
+          "qid": "Q7819959"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/When_We_Are_Married_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q20874719"
+      },
+      "summary": {
+        "text": "When We Are Married is an Australian musical with music by Tommy Tycho, lyrics by Alan Kitson and book by Kitson and William Orr.  It is an adaptation of English playwright  J. B. Priestley's 1938 play of the same name, set in Sydney in 1908.\nThe musical opened on 27 August 1970 at the Phillip Theatre in Sydney. The cast featured Johnny Lockwood, Jill Perryman, Barbara Wyndon, Susan Swinford, Leila Blake, Joan Bruce, Johnny Ladd, Henri Szeps and Raymond Duparc.\nLorrae Desmond performed \"Get Out Today Start Moving\" from the musical on a 1970 recording of songs from Australian musicals, Australian Musicals – Now!",
+        "source_url": "https://en.wikipedia.org/wiki/When_We_Are_Married_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

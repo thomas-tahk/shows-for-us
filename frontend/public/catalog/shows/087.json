@@ -1,0 +1,671 @@
+{
+  "live": true,
+  "shows": {
+    "anna-karenina": {
+      "slug": "anna-karenina",
+      "title": "Anna Karenina",
+      "qid": "Q4767141",
+      "enwiki": "Anna Karenina (musical)",
+      "composers": [
+        {
+          "name": "Daniel Levine",
+          "qid": "Q5217924",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12056"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Peter Kellogg",
+          "qid": "Q7175134",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8119"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Peter Kellogg",
+          "qid": "Q7175132"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/9975",
+        "wikipedia": "https://en.wikipedia.org/wiki/Anna_Karenina_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4767141"
+      },
+      "summary": {
+        "text": "Anna Karenina is a 1992 musical with a book and lyrics by Peter Kellogg and music by Daniel Levine.  \nBased on the classic 1877 Leo Tolstoy novel of the same name, it focuses on the tragic title character, a fashionable but unhappily married woman, and her ill-fated liaison with Count Vronsky, which ultimately leads to her downfall.",
+        "source_url": "https://en.wikipedia.org/wiki/Anna_Karenina_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "aspects-of-love": {
+      "slug": "aspects-of-love",
+      "title": "Aspects of Love",
+      "qid": "Q735643",
+      "enwiki": "Aspects of Love",
+      "composers": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "qid": "Q180975",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12073"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Don Black",
+          "qid": "Q1238931",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5065"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "qid": "Q180975",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12073"
+        }
+      ],
+      "premiere": {
+        "date": "1989-04-17",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1717",
+        "wikipedia": "https://en.wikipedia.org/wiki/Aspects_of_Love",
+        "wikidata": "https://www.wikidata.org/wiki/Q735643"
+      },
+      "summary": {
+        "text": "Aspects of Love is a musical with music and book by Andrew Lloyd Webber, and lyrics by Don Black and Charles Hart. It is based on the 1955 novel by David Garnett.\nThe piece focuses on the romantic entanglements of actress Rose Vibert, her admiring fan Alex Dillingham, his underage cousin Jenny, his uncle George, and George's mistress, sculptor Giulietta Trapani, over a period of 17 years. The \"aspects\" of the title refers to the many forms that love takes in the show: love between couples, both as romantic infatuation and as married people; children and their parents; and hints of same-sex attraction (Giulietta and Rose).\nMost of the musical is sung, making the show sung-through with only minor amounts of dialogue.\nLloyd Webber was introduced to Aspects of Love in 1979, when he and Tim Rice were approached to write a few songs for a proposed film version. When nothing came of it, he suggested to Trevor Nunn that they collaborate on a stage adaptation. In 1983, they presented a cabaret of numbers they had written, but it was not until five years later that they tackled the project in earnest. The musical features the song \"Love Changes Everything\".\nAs with many of his shows, Lloyd Webber first presented Aspects of Love in a workshop presentation as part of his Sydmonton Festival (July 1988). The cast was led by Michael Ball as Alex, Susannah Fellows as Rose, Dinsdale Landen as George, Grania Renihan as Giulietta and Diana Morrison as Jenny.",
+        "source_url": "https://en.wikipedia.org/wiki/Aspects_of_Love",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "blackbirds-of-1926": {
+      "slug": "blackbirds-of-1926",
+      "title": "Blackbirds of 1926",
+      "qid": "Q131913829",
+      "enwiki": "Blackbirds of 1926",
+      "composers": [
+        {
+          "name": "George W. Meyer",
+          "qid": "Q5545696",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12141"
+        },
+        {
+          "name": "Arthur Johnston",
+          "qid": "Q710073",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11951"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Blackbirds_of_1926",
+        "wikidata": "https://www.wikidata.org/wiki/Q131913829"
+      },
+      "summary": {
+        "text": "Blackbirds of 1926, also known as Lew Leslie's Blackbirds of 1926, was a musical revue with an all African American cast created and produced by impresario Lew Leslie that starred Florence Mills, Edith Wilson, and Johnny Hudgins, with music by George W. Meyer and Arthur Johnston, and lyrics by Grant Clarke and Roy Turk. The Blackbirds were a continuation of Leslie's Plantation Revue, and the 1926 show was the first and original of a series of revues that would continue for more than a decade. The show ran for two years, and was succeeded by a new show called Blackbirds of 1928, a Broadway hit. Leslie mounted a series of Blackbirds revues, which ran in 1926, 1928, 1930, 1933 and 1939. The series were named after Mills' theme song, \"I'm a Little Blackbird Looking for a Bluebird,\" a thinly veiled protest against racial injustice, which she first sang in 1924.",
+        "source_url": "https://en.wikipedia.org/wiki/Blackbirds_of_1926",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "christmas-spectacular-starring-the-radio-city-rockettes": {
+      "slug": "christmas-spectacular-starring-the-radio-city-rockettes",
+      "title": "Christmas Spectacular Starring the Radio City Rockettes",
+      "qid": "Q7280720",
+      "enwiki": "Christmas Spectacular Starring the Radio City Rockettes",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "http://rockettes.com/christmas",
+        "wikipedia": "https://en.wikipedia.org/wiki/Christmas_Spectacular_Starring_the_Radio_City_Rockettes",
+        "wikidata": "https://www.wikidata.org/wiki/Q7280720"
+      },
+      "summary": {
+        "text": "The Christmas Spectacular Starring the Radio City Rockettes is an annual musical holiday stage show presented at Radio City Music Hall in New York City. The 90-minute show features more than 140 performers and an original musical score, and combines singing, dancing, and humor with traditional scenes. The star performers are the women's precision dance troupe the Rockettes. Since the first version was presented in 1933, the show has become a New York Christmas tradition.",
+        "source_url": "https://en.wikipedia.org/wiki/Christmas_Spectacular_Starring_the_Radio_City_Rockettes",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "frankenstein-or-the-vampire-s-victim": {
+      "slug": "frankenstein-or-the-vampire-s-victim",
+      "title": "Frankenstein, or The Vampire's Victim",
+      "qid": "Q5490675",
+      "enwiki": "Frankenstein, or The Vampire's Victim",
+      "composers": [
+        {
+          "name": "Meyer Lutz",
+          "qid": "Q6826428",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/409752"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Richard Butler",
+          "qid": "Q7324501"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Richard Butler",
+          "qid": "Q7324501"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Frankenstein%2C_or_The_Vampire's_Victim",
+        "wikidata": "https://www.wikidata.org/wiki/Q5490675"
+      },
+      "summary": {
+        "text": "Frankenstein, or The Vampire's Victim (sometimes called Frankenstein, or The Model Man) is a musical burlesque in three acts written by Richard Henry (a pseudonym of Richard Butler and Henry Chance Newton).  The music was composed by Meyer Lutz.  The piece is a burlesque loosely based on the 1818 Mary Shelley novel Frankenstein; or, The Modern Prometheus  and the Adelphi Theatre drama based on the novel. \nOpening at the Gaiety Theatre, London on 24 December 1887, the production ran until late April.  It starred Nellie Farren as Dr. Frankenstein and Fred Leslie as a monster who is in touch with his feminine side.  The Victorian audiences found the piece too feminist in tone.  In addition, the public was annoyed at George Edwardes, who had reduced the size of the inexpensive \"pit\" in favour of more \"stalls\".  The piece also featured Marion Hood as the doctor's love interest Tartina; E. J. Lonnen as the vampire Visconti; Emily Cross as Mary Ann; Sylvia Grey as Tamburina, goddess of the sun; Sybil Grey as Vanilla; the dancer John D'Auban as Demonico; and Frank Thornton as Schwank.",
+        "source_url": "https://en.wikipedia.org/wiki/Frankenstein%2C_or_The_Vampire's_Victim",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "good-times": {
+      "slug": "good-times",
+      "title": "Good Times",
+      "qid": "Q25217833",
+      "enwiki": "Good Times (musical)",
+      "composers": [
+        {
+          "name": "Raymond Hubbell",
+          "qid": "Q6254345",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8261"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Robert Hubberthorne Burnside",
+          "qid": "Q7273663",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8209"
+        }
+      ],
+      "premiere": {
+        "date": "1920-08-09",
+        "venue": "Hippodrome Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4009",
+        "wikipedia": "https://en.wikipedia.org/wiki/Good_Times_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q25217833"
+      },
+      "summary": {
+        "text": "Good Times was a popular 1920 Broadway musical extravaganza, with music by Raymond Hubbell and a book by R. H. Burnside.  Produced by Charles Dillingham, it debuted on August 9, 1920 at the Hippodrome in New York City and ran for 456 performances, the longest run for the 1920–21 season.  It was sixth of Dillingham's elaborate spectacles at the Hippodrome.\nThe popular songs of the \"musical spectacle\" were The Valley of Dreams, Colorland, and The Wedding of the Dancing Doll. Featuring among the large cast were Abdullah's Arabian troupe, Nanette Flack, The Poodles Hanneford Family (trick horsemen), Joe Jackson, Joseph Parsons and Belle Story.  The famed clown Marceline, a prior fixture at the Hippodrome, also returned for the show.\nA representative blurb on the show in a theatre listing from 1921 stated: \"Well, there are elephants, and diving girls, and Joe Jackson – and everything.\"  A rave review in The New York Clipper stated that \"the show ... is positively the greatest and most worth-while one of its kind this country has ever seen. ... In pretentiousness it has no equal. Its three acts and fifteen scenes are punched through with riotous color, scenic effects, some of which positively awe the beholder, and rollicking entertainment that has for its motif a horde of capable and versatile entertainers.\"\nA young Cary Grant, just arrived from England, made his American stage debut as a stilt-walker in this production.",
+        "source_url": "https://en.wikipedia.org/wiki/Good_Times_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "imagine-tap": {
+      "slug": "imagine-tap",
+      "title": "Imagine Tap",
+      "qid": "Q6002750",
+      "enwiki": "Imagine Tap",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Imagine_Tap",
+        "wikidata": "https://www.wikidata.org/wiki/Q6002750"
+      },
+      "summary": {
+        "text": "Imagine Tap! is a musical revue developed by Derick K. Grant (director/choreographer), Zane Mark (music director/supervisor), Aaron Tolson (associate choreographer/co-creator/asst producer), and Channing Cook Holmes (assistant music director).  It opened at the Harris Theater for Music and Dance in Chicago, IL on July 11, 2006, and closed on August 6, 2006.\nIt is one of the few big-budget all-tap dance revues since Bring in 'da Noise/Bring in 'da Funk, of which Derick K. Grant was dance captain for the original Broadway cast.",
+        "source_url": "https://en.wikipedia.org/wiki/Imagine_Tap",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "juno": {
+      "slug": "juno",
+      "title": "Juno",
+      "qid": "Q6314034",
+      "enwiki": "Juno (musical)",
+      "composers": [
+        {
+          "name": "Marc Blitzstein",
+          "qid": "Q918359",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7489"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Marc Blitzstein",
+          "qid": "Q918359",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7489"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Joseph Stein",
+          "qid": "Q1361175",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6978"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4987",
+        "wikipedia": "https://en.wikipedia.org/wiki/Juno_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6314034"
+      },
+      "summary": {
+        "text": "Juno is a musical with music and lyrics by Marc Blitzstein and book by Joseph Stein, based closely on the 1924 play Juno and the Paycock by Seán O'Casey.  The story centers on the disintegration of an Irish family in Dublin in the early 1920s, during the Irish War of Independence.  Juno is a hardworking matriarch who strives to hold her family together in the face of war, betrayal, and her worthless husband's drinking.\nThe original production opened on Broadway in 1959 and closed after only 16 performances.  Its somber tone did not please the critics, who were disappointed that its stars, particularly Shirley Booth, did not have an opportunity to play comedy. The score and original cast album have found some praise.  Several revivals have been staged, but none has met with great success.",
+        "source_url": "https://en.wikipedia.org/wiki/Juno_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "katyar-kaljat-ghusali": {
+      "slug": "katyar-kaljat-ghusali",
+      "title": "Katyar Kaljat Ghusali",
+      "qid": "Q13118182",
+      "enwiki": "Katyar Kaljat Ghusali (film)",
+      "composers": [
+        {
+          "name": "Jitendra Abhisheki",
+          "qid": "Q6203251"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Katyar_Kaljat_Ghusali_(film)",
+        "wikidata": "https://www.wikidata.org/wiki/Q13118182"
+      },
+      "summary": {
+        "text": "Katyar Kaljat Ghusali (transl. A dagger through the heart) is a 2015 Indian Marathi-language epic musical drama film based on a play by the same name. Directed by Subodh Bhave, the film stars Sachin Pilgaonkar, Shankar Mahadevan, Subodh Bhave, Amruta Khanvilkar and Mrunmayee Deshpande in lead roles. The film marks the directorial debut for Bhave, and the theatrical acting debut for Shankar Mahadevan. The original play, written by Purushottam Darvhekar, premiered in 1967 in Mumbai, where Hindustani classical vocalist Vasantrao Deshpande played one of the protagonists. In 2010, the play was relaunched with protagonists essayed by Rahul Deshpande, grandson of Vasantrao Deshpande and singer Mahesh Kale. The film's music is composed by Shankar–Ehsaan–Loy, and retained some of the songs from the original play composed by Jitendra Abhisheki.\nThe film is selected as one of the 26 films to be screened in Goa at 46th International Film Festival of India. The movie was also considered for the United Nations Educational, Scientific and Cultural Organisation's (UNESCO) Fellini medal.",
+        "source_url": "https://en.wikipedia.org/wiki/Katyar_Kaljat_Ghusali_(film)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "l-accademia-di-musica": {
+      "slug": "l-accademia-di-musica",
+      "title": "L'accademia di musica",
+      "qid": "Q114755135",
+      "enwiki": "L'accademia di musica (Mayr)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/L'accademia_di_musica_(Mayr)",
+        "wikidata": "https://www.wikidata.org/wiki/Q114755135"
+      },
+      "summary": {
+        "text": "L'accademia di musica was a farsa for the Teatro di San Samuele in 1800 by German composer Johann Simon Mayr.",
+        "source_url": "https://en.wikipedia.org/wiki/L'accademia_di_musica_(Mayr)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "lazarus": {
+      "slug": "lazarus",
+      "title": "Lazarus",
+      "qid": "Q22678105",
+      "enwiki": "Lazarus (musical)",
+      "composers": [
+        {
+          "name": "David Bowie",
+          "qid": "Q5383",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/78985"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Enda Walsh",
+          "qid": "Q1340238",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/491366"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Lazarus_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q22678105"
+      },
+      "summary": {
+        "text": "Lazarus is a jukebox musical featuring the music of David Bowie with a book by Enda Walsh. Inspired by the 1963 novel The Man Who Fell To Earth by Walter Tevis, Lazarus continues the story of Thomas Newton, a humanoid alien who is stuck on Earth, unable to die or return to his home planet. Lazarus had its world premiere Off-Broadway at the New York Theatre Workshop on 18 November 2015 and played until 20 January 2016. The show then made the transfer to the West End at King's Cross Theatre in London, playing from 25 October 2016 to 22 January 2017.",
+        "source_url": "https://en.wikipedia.org/wiki/Lazarus_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "le-donne-vendicate": {
+      "slug": "le-donne-vendicate",
+      "title": "Le donne vendicate",
+      "qid": "Q3828695",
+      "enwiki": "Le donne vendicate",
+      "composers": [
+        {
+          "name": "Niccolò Piccinni",
+          "qid": "Q310687"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Carlo Goldoni",
+          "qid": "Q165534",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4684"
+        }
+      ],
+      "premiere": {
+        "date": "1763",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Le_donne_vendicate",
+        "wikidata": "https://www.wikidata.org/wiki/Q3828695"
+      },
+      "summary": {
+        "text": "Le donne vendicate (also titled The Revenge of the Women, Il vago disprezzato and Le fat méprisé) is a musical farce that consists of two intermezzi by composer Niccolò Piccinni with an Italian libretto by Carlo Goldoni. Goldoni's text had already been used twice previously, in operas by Gioacchino Cocchi (1751) and Giuseppe Scolari (1757). Piccinni's version was first performed at the Teatro alla Valle in Rome in 1763.",
+        "source_url": "https://en.wikipedia.org/wiki/Le_donne_vendicate",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "newsical": {
+      "slug": "newsical",
+      "title": "Newsical",
+      "qid": "Q16982783",
+      "enwiki": "Newsical",
+      "composers": [
+        {
+          "name": "Rick Crom",
+          "qid": "Q7331316",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/69572"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Rick Crom",
+          "qid": "Q7331316",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/69572"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Rick Crom",
+          "qid": "Q7331316",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/69572"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Newsical",
+        "wikidata": "https://www.wikidata.org/wiki/Q16982783"
+      },
+      "summary": {
+        "text": "Newsical (styled \"NEWSical\") is a musical with music, lyrics, and book written by Rick Crom. In ever-changing songs and sketches, it lampoons current events, hot topics, celebrities, politicians, and other well-known entities. New songs are added on a continual basis to keep up with the headlines.\nThe musical began with a cabaret production in 2002 before moving Off-off-Broadway in 2004. In 2009 producer Tom D'Angora opened a new edition at Theater Row.  It won the Off-Broadway Alliance Award for Best Musical and over the years received several Drama Desk nominations. In 2022 the show played at The Majestic Repertory Theatre in Las Vegas before transferring to the V Theater located in the Miracle Mile Shops at Planet Hollywood.",
+        "source_url": "https://en.wikipedia.org/wiki/Newsical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "now-here-this": {
+      "slug": "now-here-this",
+      "title": "Now. Here. This.",
+      "qid": "Q23091967",
+      "enwiki": "Now. Here. This.",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Now._Here._This.",
+        "wikidata": "https://www.wikidata.org/wiki/Q23091967"
+      },
+      "summary": {
+        "text": "Now. Here. This. is a musical from the team of [title of show], with music and lyrics by Jeff Bowen and a book by Hunter Bell and Susan Blackwell. It is a collaborative work by Hunter Bell, Michael Berresse, Susan Blackwell, Heidi Blickenstaff, Jeff Bowen, and Larry Pressgrove. The four-person show, set in a natural-history museum, explores many questions of life ranging from reptiles and outer space to friendship and dying.",
+        "source_url": "https://en.wikipedia.org/wiki/Now._Here._This.",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "peggy-sue-got-married": {
+      "slug": "peggy-sue-got-married",
+      "title": "Peggy Sue Got Married",
+      "qid": "Q7160748",
+      "enwiki": "Peggy Sue Got Married (musical)",
+      "composers": [
+        {
+          "name": "Bob Gaudio",
+          "qid": "Q887941",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/394784"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Peggy_Sue_Got_Married_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7160748"
+      },
+      "summary": {
+        "text": "Peggy Sue Got Married is a 2001 musical adapted from the 1986 film directed by Francis Ford Coppola. The musical shares the same storyline as the movie, following a 42-year-old woman as she travels back in time to relive certain high school experiences.\nThe book was written by Arlene Sarner and Jerry Leichtling, with music composed by Bob Gaudio, and lyrics by Jerry Leichtling. The musical opened in the West End theatres of London in August 2001, with Ruthie Henshall starring as Peggy Sue; other actors included Tim Howar, Gavin Lee, and Andrew Kennedy. Ruthie Henshall received an Olivier Award nomination for Best Actress in a Musical in the role of Peggy Sue. The production runs for two hours and thirty minutes, with one intermission.",
+        "source_url": "https://en.wikipedia.org/wiki/Peggy_Sue_Got_Married_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "puteri-gunung-ledang": {
+      "slug": "puteri-gunung-ledang",
+      "title": "Puteri Gunung Ledang",
+      "qid": "Q7262193",
+      "enwiki": "Puteri Gunung Ledang (musical)",
+      "composers": [
+        {
+          "name": "Dick Lee",
+          "qid": "Q710609"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Puteri_Gunung_Ledang_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7262193"
+      },
+      "summary": {
+        "text": "Puteri Gunung Ledang is a Malaysian musical directed by Zahim Albakri, co-directed by Adlin Aman Ramlie, book by Adlin Aman Ramlie, Saw Teong Hin and Zahim Al-Bakri and music composed by Dick Lee. The musical is based on the 2004 Puteri Gunung Ledang film. The original production was staged at the Istana Budaya in February 2006, this was followed by two more productions and an upcoming third in February 2009. Tiara Jacquelina and Stephen Rahman-Hughes starred as Gusti Putri and Hang Tuah in all the productions to date. Other members of the production team are music director Roslan Aziz, choreographer Pat Ibrahim and production designer Raja Malek. The musical was staged in poetic Malay and Javanese-accented Malay, but English subtitles were provided.",
+        "source_url": "https://en.wikipedia.org/wiki/Puteri_Gunung_Ledang_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "saturday-s-voyeur": {
+      "slug": "saturday-s-voyeur",
+      "title": "Saturday's Voyeur",
+      "qid": "Q7426601",
+      "enwiki": "Saturday's Voyeur",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Saturday's_Voyeur",
+        "wikidata": "https://www.wikidata.org/wiki/Q7426601"
+      },
+      "summary": {
+        "text": "Saturday's Voyeur is an annual musical satire formerly produced by Salt Lake Acting Company (SLAC) in Salt Lake City, Utah, United States. Each year a new show is written to parody contemporary life, politics, and religion in Utah. Saturday's Voyeur was created in 1978 by Michael Buttars & Nancy Borgenicht. In 1990, Allen Nevins joined the team writing team, and continued to co-write the show each year with Borgenicht. The pair opted to take Saturday's Voyeur from Salt Lake Acting Company in 1992 and 1993, but then returned to Salt Lake Acting Company the following year, where it remained until 2019.\nThe name Saturday's Voyeur is itself a parody of the production Saturday's Warrior, by Lex de Azevedo. With the Church of Jesus Christ of Latter-day Saints being prevalent in Utah culture it often becomes a dominant topic in the annual production. Poking fun at the doctrine, customs, and church figures of the religion through musical satire is used as comic relief for church members and non-members alike.\nIn July 2020, Salt Lake Acting Company announced it would no longer produce Saturday's Voyeur. Borgenicht and Nevins retain the rights to the property.",
+        "source_url": "https://en.wikipedia.org/wiki/Saturday's_Voyeur",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-first": {
+      "slug": "the-first",
+      "title": "The First",
+      "qid": "Q7734063",
+      "enwiki": "The First (musical)",
+      "composers": [],
+      "lyricists": [
+        {
+          "name": "Martin Charnin",
+          "qid": "Q3295377",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7570"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Joel Siegel",
+          "qid": "Q693718",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6766"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3577",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_First_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7734063"
+      },
+      "summary": {
+        "text": "The First is a musical with a book by critic Joel Siegel.  The music was composed by Robert Brush, and Martin Charnin wrote the lyrics.  The show is based on the life of Brooklyn Dodgers second baseman Jackie Robinson, the first African-American to play major league baseball in the 20th century.\nThe musical premiered on Broadway at the Martin Beck Theatre on November 17, 1981 and closed on December 12, 1981 after 31 performances and 33 previews (although often erroneously reported as having 37 performances). Charnin has said that despite \"stellar reviews,\" the musical failed to secure one: that of Frank Rich of The New York Times, \"which at the time meant everything.\" Directed by Charnin and choreographed by Alan Johnson, the original cast included David Alan Grier as Jackie Robinson, and Lonette McKee as his wife Rachel.",
+        "source_url": "https://en.wikipedia.org/wiki/The_First_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-girl-who-came-to-supper": {
+      "slug": "the-girl-who-came-to-supper",
+      "title": "The Girl Who Came to Supper",
+      "qid": "Q7736526",
+      "enwiki": "The Girl Who Came to Supper",
+      "composers": [
+        {
+          "name": "Noël Coward",
+          "qid": "Q298388",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/36502"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Noël Coward",
+          "qid": "Q298388",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/36502"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Harry Kurnitz",
+          "qid": "Q1586611",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6129"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3881",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Girl_Who_Came_to_Supper",
+        "wikidata": "https://www.wikidata.org/wiki/Q7736526"
+      },
+      "summary": {
+        "text": "The Girl Who Came to Supper is a musical with a book by Harry Kurnitz and music and lyrics by Noël Coward, based on Terence Rattigan's 1953 play The Sleeping Prince. The musical premiered on Broadway in 1963.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Girl_Who_Came_to_Supper",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-street-singer": {
+      "slug": "the-street-singer",
+      "title": "The Street Singer",
+      "qid": "Q85808566",
+      "enwiki": "The Street Singer (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Street_Singer_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q85808566"
+      },
+      "summary": {
+        "text": "The Street Singer is a 1924 musical play written by Frederick Lonsdale with music by Harold Fraser-Simson and lyrics by Percy Greenbank and additional songs by Ivy St. Helier.\nAfter premiering at the Prince of Wales's Theatre, Birmingham it ran for 360 performances at the Lyric Theatre in the West End between 27 June 1924 and 2 May 1925. The cast included Phyllis Dare, Sylvia Leslie, Dorothy Fane, A.W. Baskcomb and Harry Welchman.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Street_Singer_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

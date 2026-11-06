@@ -32,7 +32,7 @@ interface SparqlResult {
 
 const SPARQL = 'https://query.wikidata.org/sparql'
 
-function sparqlRequest(path: string, query: string): PullRequest {
+export function sparqlRequest(path: string, query: string): PullRequest {
   return {
     path,
     url: `${SPARQL}?format=json&query=${encodeURIComponent(query)}`,
@@ -50,7 +50,7 @@ export function resolveQuery(enwiki: string, anyClass = false): string {
     return `SELECT ?item ?cls ?clsLabel WHERE {
   ${head}
   OPTIONAL { ?item wdt:P31 ?cls }
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,mul". }
 }`
   }
   return `SELECT ?item WHERE {
@@ -59,7 +59,7 @@ export function resolveQuery(enwiki: string, anyClass = false): string {
 }`
 }
 
-export function itemsQuery(qids: string[]): string {
+export function itemsQuery(qids: string[], withImage = true): string {
   const values = qids.map((q) => `wd:${q}`).join(' ')
   const person = (prop: string, kind: string) =>
     `{ ?item wdt:${prop} ?v . BIND("${kind}" AS ?kind) OPTIONAL { ?v wdt:P1220 ?extra } }`
@@ -72,25 +72,28 @@ export function itemsQuery(qids: string[]): string {
   UNION { ?item p:P1191 ?st . ?st psv:P1191 ?tv . FILTER NOT EXISTS { ?st wikibase:rank wikibase:DeprecatedRank } ?tv wikibase:timeValue ?v ; wikibase:timePrecision ?extra . BIND("premiere_date" AS ?kind) }
   UNION ${plain('P4647', 'premiere_venue')}
   UNION ${plain('P166', 'award')}
-  UNION ${plain('P18', 'image')}
+  ${withImage ? `UNION ${plain('P18', 'image')}` : ''}
   UNION ${plain('P1219', 'ibdb')}
   UNION ${plain('P5833', 'playbill')}
   UNION ${plain('P856', 'website')}
-  SERVICE wikibase:label { bd:serviceParam wikibase:language "en". }
+  SERVICE wikibase:label { bd:serviceParam wikibase:language "en,mul". }
 }
 ORDER BY ?item ?kind ?v`
 }
 
 // ---- Pure transforms --------------------------------------------------------
 
-const qidOf = (uri: string) => uri.slice(uri.lastIndexOf('/') + 1)
+export const ibdbShowUrl = (id: string) => `https://www.ibdb.com/broadway-show/${encodeURIComponent(id)}`
+export const playbillUrl = (id: string) => `https://playbill.com/production/${encodeURIComponent(id)}`
+
+export const qidOf = (uri: string) => uri.slice(uri.lastIndexOf('/') + 1)
 
 export function parseResolve(res: unknown): string[] {
   const rows = (res as SparqlResult).results.bindings
   return [...new Set(rows.flatMap((b) => (b.item ? [qidOf(b.item.value)] : [])))]
 }
 
-interface Row {
+export interface Row {
   item: string
   kind: string
   v: Term
@@ -98,10 +101,10 @@ interface Row {
   extra: string | undefined
 }
 
-const cmp = (a: string, b: string) => (a < b ? -1 : a > b ? 1 : 0)
+export const cmp = (a: string, b: string) => (a < b ? -1 : a > b ? 1 : 0)
 
 /** Rows sorted by item, kind, value so every pick is deterministic whatever order the endpoint returns. */
-function parseRows(res: unknown): Row[] {
+export function parseRows(res: unknown): Row[] {
   return (res as SparqlResult).results.bindings
     .flatMap((b) =>
       b.item && b.kind && b.v
@@ -111,16 +114,16 @@ function parseRows(res: unknown): Row[] {
     .sort((a, b) => cmp(a.item, b.item) || cmp(a.kind, b.kind) || cmp(a.v.value, b.v.value))
 }
 
-/** Wikidata time precision: 9 = year, 10 = month, 11 (or missing) = day. */
+/** Wikidata time precision: <= 9 = year (or coarser), 10 = month, 11 (or missing) = day. */
 export function formatDate(value: string, precision?: string | number): string {
   const ymd = value.slice(0, 10)
   const p = Number(precision)
-  if (p === 9) return ymd.slice(0, 4)
+  if (p <= 9 && p > 0) return ymd.slice(0, 4) // year, decade or century: no finer date is known
   if (p === 10) return ymd.slice(0, 7)
   return ymd
 }
 
-function dedupe(rows: Row[]): Row[] {
+export function dedupe(rows: Row[]): Row[] {
   const seen = new Set<string>()
   return rows.filter((r) => {
     if (seen.has(r.v.value)) return false
@@ -143,7 +146,7 @@ function pick(rows: Row[], kind: string, qids: string[], prefer: string | undefi
   return []
 }
 
-function people(rows: Row[]): PersonCredit[] {
+export function people(rows: Row[]): PersonCredit[] {
   return rows.map((r) => ({
     name: r.label ?? qidOf(r.v.value),
     qid: qidOf(r.v.value),
@@ -213,8 +216,8 @@ function buildShow(
   const ibdb = first('ibdb')?.v.value
   const playbill = first('playbill')?.v.value
   const site = first('website')?.v.value
-  if (ibdb) links.ibdb = `https://www.ibdb.com/broadway-show/${encodeURIComponent(ibdb)}`
-  if (playbill) links.playbill = `https://playbill.com/production/${encodeURIComponent(playbill)}`
+  if (ibdb) links.ibdb = ibdbShowUrl(ibdb)
+  if (playbill) links.playbill = playbillUrl(playbill)
   if (site) links.official_site = site
   const awards: ShowAward[] = [
     ...new Map(

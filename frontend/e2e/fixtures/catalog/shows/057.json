@@ -1,0 +1,29 @@
+{
+  "live": false,
+  "shows": {
+    "hair": {
+      "slug": "hair",
+      "title": "Hair",
+      "qid": "Q1000070",
+      "enwiki": "Hair (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Hair_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1000070"
+      },
+      "summary": {
+        "text": "Placeholder intro for Hair (musical). Not Wikipedia text.",
+        "source_url": "https://en.wikipedia.org/wiki/Hair_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

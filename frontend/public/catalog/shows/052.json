@@ -1,0 +1,438 @@
+{
+  "live": true,
+  "shows": {
+    "a-christmas-story-the-musical": {
+      "slug": "a-christmas-story-the-musical",
+      "title": "A Christmas Story: The Musical",
+      "qid": "Q16826771",
+      "enwiki": "A Christmas Story: The Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/493217",
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Christmas_Story%3A_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q16826771"
+      },
+      "summary": {
+        "text": "A Christmas Story: The Musical is a stage musical with music and lyrics written by Benj Pasek and Justin Paul, and a book by Joseph Robinette. It is based on the 1983 film A Christmas Story, itself based on the 1966 book In God We Trust: All Others Pay Cash by Jean Shepherd. The musical takes place in the 1940s in Indiana and focuses on a child named Ralphie, who wants a Red Ryder BB Gun for Christmas.\nAfter numerous regional productions, out of town tryouts and national tours, this version of the musical originally officially opened on Broadway in November 19, 2012 at the Lunt Fontanne Theatre for a limited engagement that ran through December 30, 2012.",
+        "source_url": "https://en.wikipedia.org/wiki/A_Christmas_Story%3A_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "beatlemania": {
+      "slug": "beatlemania",
+      "title": "Beatlemania",
+      "qid": "Q2892971",
+      "enwiki": "Beatlemania (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Bob Gill",
+          "qid": "Q4932541",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4565"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1881",
+        "wikipedia": "https://en.wikipedia.org/wiki/Beatlemania_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q2892971"
+      },
+      "summary": {
+        "text": "Beatlemania was a Broadway musical revue focused on the music of the Beatles as it related to the events and changing attitudes of the tumultuous 1960s. A \"rockumentary,\" advertised as \"Not the Beatles, but an incredible simulation,\" it ran from May 1977 to October 1979 for a total of 1,006 performances.",
+        "source_url": "https://en.wikipedia.org/wiki/Beatlemania_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "do-i-hear-a-waltz": {
+      "slug": "do-i-hear-a-waltz",
+      "title": "Do I Hear a Waltz?",
+      "qid": "Q5286034",
+      "enwiki": "Do I Hear a Waltz?",
+      "composers": [
+        {
+          "name": "Richard Rodgers",
+          "qid": "Q269094",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12311"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Stephen Sondheim",
+          "qid": "Q153579",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12430"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Arthur Laurents",
+          "qid": "Q710334",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4307"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3103",
+        "wikipedia": "https://en.wikipedia.org/wiki/Do_I_Hear_a_Waltz%3F",
+        "wikidata": "https://www.wikidata.org/wiki/Q5286034"
+      },
+      "summary": {
+        "text": "Do I Hear a Waltz? is a musical with a book by Arthur Laurents, music by Richard Rodgers, and lyrics by Stephen Sondheim. It was adapted from Laurents' 1952 play The Time of the Cuckoo, which was the basis for the 1955 film Summertime starring Katharine Hepburn.",
+        "source_url": "https://en.wikipedia.org/wiki/Do_I_Hear_a_Waltz%3F",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "happy-new-year": {
+      "slug": "happy-new-year",
+      "title": "Happy New Year",
+      "qid": "Q5652949",
+      "enwiki": "Happy New Year (musical)",
+      "composers": [
+        {
+          "name": "Cole Porter",
+          "qid": "Q215120",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12257"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Burt Shevelove",
+          "qid": "Q2136301",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4626"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4208",
+        "wikipedia": "https://en.wikipedia.org/wiki/Happy_New_Year_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5652949"
+      },
+      "summary": {
+        "text": "Happy New Year is a musical with a book by Burt Shevelove and music and lyrics by Cole Porter.\nBased on Philip Barry's comic 1928 play Holiday and its subsequent 1930 film adaptation and better known 1938 remake, it focuses on hedonistic young Wall Street attorney Johnny Case who, driven by his passion to live life as a holiday, contemplates abandoning his career for a carefree existence by marrying wealthy upper class Julia Seton.",
+        "source_url": "https://en.wikipedia.org/wiki/Happy_New_Year_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "lovely-ladies-kind-gentlemen": {
+      "slug": "lovely-ladies-kind-gentlemen",
+      "title": "Lovely Ladies, Kind Gentlemen",
+      "qid": "Q6692282",
+      "enwiki": "Lovely Ladies, Kind Gentlemen",
+      "composers": [
+        {
+          "name": "Stan Freeman",
+          "qid": "Q7597643",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11696"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Stan Freeman",
+          "qid": "Q7597643",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11696"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "John Patrick",
+          "qid": "Q4347021",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6884"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5631",
+        "wikipedia": "https://en.wikipedia.org/wiki/Lovely_Ladies%2C_Kind_Gentlemen",
+        "wikidata": "https://www.wikidata.org/wiki/Q6692282"
+      },
+      "summary": {
+        "text": "Lovely Ladies, Kind Gentlemen is a musical with a book by John Patrick and music and lyrics by Stan Freeman and Franklin Underwood.",
+        "source_url": "https://en.wikipedia.org/wiki/Lovely_Ladies%2C_Kind_Gentlemen",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "monte-carlo": {
+      "slug": "monte-carlo",
+      "title": "Monte Carlo",
+      "qid": "Q6904679",
+      "enwiki": "Monte Carlo (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Monte_Carlo_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6904679"
+      },
+      "summary": {
+        "text": "Monte Carlo is an Edwardian musical comedy in two acts with a book by Sidney Carlton, music by Howard Talbot and lyrics by Harry Greenbank. The work was first performed at the Avenue Theatre in London, opening on 27 August 1896. The New York production, which opened on March 21, 1898, at the Herald Square Theatre, was directed by Frank Smithson, who also played General Boomerang.",
+        "source_url": "https://en.wikipedia.org/wiki/Monte_Carlo_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "new-york-new-york": {
+      "slug": "new-york-new-york",
+      "title": "New York, New York",
+      "qid": "Q116609206",
+      "enwiki": "New York, New York (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/535491",
+        "wikipedia": "https://en.wikipedia.org/wiki/New_York%2C_New_York_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q116609206"
+      },
+      "summary": {
+        "text": "New York, New York is a musical with music by John Kander, lyrics by Fred Ebb and Lin-Manuel Miranda, and a book by David Thompson and Sharon Washington. Inspired by and loosely based on the 1977 film of the same name by Martin Scorsese, the musical premiered on Broadway on April 26, 2023.\nDespite receiving mixed to mostly dismal reviews and becoming a commercial disappointment, the Broadway production, directed and choreographed by Susan Stroman, received nine nominations at the 76th Tony Awards, including Best Musical, winning one award for Best Scenic Design in a Musical.",
+        "source_url": "https://en.wikipedia.org/wiki/New_York%2C_New_York_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "our-miss-gibbs": {
+      "slug": "our-miss-gibbs",
+      "title": "Our Miss Gibbs",
+      "qid": "Q7111092",
+      "enwiki": "Our Miss Gibbs",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6840",
+        "wikipedia": "https://en.wikipedia.org/wiki/Our_Miss_Gibbs",
+        "wikidata": "https://www.wikidata.org/wiki/Q7111092"
+      },
+      "summary": {
+        "text": "Our Miss Gibbs is an Edwardian musical comedy in two acts by 'Cryptos' and James T. Tanner, with lyrics by Adrian Ross and Percy Greenbank, music by Ivan Caryll and Lionel Monckton.  Produced by George Edwardes, it opened at the Gaiety Theatre in London on 23 January 1909 and ran for an extremely successful 636 performances.  It starred Gertie Millar, Edmund Payne and George Grossmith, Jr.  The young Gladys Cooper played the small role of Lady Connie, with Jean Rhys in the chorus.\nThe show also had a short Broadway run in 1910.  It was revived at the Finborough Theatre, London, in May 2006.  This was the first professional London production since 1910.  The piece was regularly revived by amateur theatre groups, particularly in Britain, from the 1920s into the 1950s but it has been produced only rarely since then. Our Miss Gibbs was revived by the Lyric Theatre in July and August 2011 at the Mountain View Center for the Performing Arts and the Lesher Center for the Arts in Walnut Creek, California. The revival featured a cast of 22 and a 9-piece orchestra. [1]",
+        "source_url": "https://en.wikipedia.org/wiki/Our_Miss_Gibbs",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "perchance-to-dream": {
+      "slug": "perchance-to-dream",
+      "title": "Perchance to Dream",
+      "qid": "Q7167068",
+      "enwiki": "Perchance to Dream (musical)",
+      "composers": [
+        {
+          "name": "Ivor Novello",
+          "qid": "Q436693",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6484"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Ivor Novello",
+          "qid": "Q436693",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6484"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Ivor Novello",
+          "qid": "Q436693",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6484"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Perchance_to_Dream_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7167068"
+      },
+      "summary": {
+        "text": "Perchance to Dream is a musical romance with book, lyrics and music by Ivor Novello.  It was the only musical for which Novello wrote lyrics.  The title is a quotation from William Shakespeare's play Hamlet.  The plot, like many of Novello's plots, is a romantic adventure tale, telling the parallel stories of the fates of several inhabitants of the same house through differing time periods. The stories interconnect and have unforeseen repercussions, one upon the other.\nIt opened on the London stage at the Hippodrome Theatre on 21 April 1945.  The show starred Novello as Sir Graham, Valentine Fayre and Bay Fayre; Margaret Rutherford as Lady Charlotte Fayre; Olive Gilbert as Ernestine Flavelle, later called Mrs. Bridport; Roma Beaumont as Melinda Fayre, Melanie and Melody; Muriel Barron as Lydia Lyddington, Veronica Lyddington and Iris; and Bobbie Andrews as William Fayre.  Zena Dare was a replacement as Lady Charlotte.  Sylvia Cecil replaced Muriel Barron during the run.  It was directed by Jack Minster, with choreography by Frank Staff and Keith Lester.  The musical is one of Novello's most successful works and enjoyed an original run of 1,022 performances (the longest of any of Novello's runs) and finally closed on 11 October 1948.  It enjoyed many subsequent tours and revivals.  A 2011 revival at the Finborough Theatre, London, was the first professional production since the 1980s.  The hit song of the show was \"We'll Gather Lilacs\".",
+        "source_url": "https://en.wikipedia.org/wiki/Perchance_to_Dream_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "skittles-commercial-the-broadway-musical": {
+      "slug": "skittles-commercial-the-broadway-musical",
+      "title": "Skittles Commercial: The Broadway Musical",
+      "qid": "Q65120817",
+      "enwiki": "Skittles Commercial: The Broadway Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Skittles_Commercial%3A_The_Broadway_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q65120817"
+      },
+      "summary": {
+        "text": "Skittles Commercial: The Broadway Musical is an advertising musical with book by Pulitzer Prize finalist Will Eno and advertising creative director Nathaniel Lawlor, with lyrics by Nathaniel Lawlor, music by Drew Gasparini, and choreography by Raja Feather Kelly, artistic director of the New Brooklyn Theatre. The show was directed by OBIE Award-winner Sarah Benson, artistic director of the Soho Rep, starred Golden Globe and Screen Actors Guild Award winner Michael C. Hall. Producers on the musical were Jason Georgan, Patrick Milling-Smith, Brian Carmody, Allison Kunzman. It was created by Mars, Incorporated, parent company of confectionery brand Skittles, and produced by advertising agency DDB, commercial production company Smuggler, and marketing companies ICF Next and Tribal Worldwide in lieu of a Super Bowl commercial for Super Bowl LIII. \nThe show had a single performance at The Town Hall on 43rd Street between Broadway and 6th Avenue in New York City at 1pm on Super Bowl Sunday, February 3, 2019. Proceeds from the performance and related merchandise were donated to Broadway Cares/Equity Fights AIDS, with additional matching funds donated by Mars.\nPrior to the public announcement of the musical in January 2019, the show was identified as Winter Live Industrial during auditions, a reference to industrial musicals. Two promotional videos were released: one featuring Hall appearing to discuss his participation in the show with a psychiatrist, and the other, the cast recording a version of the show's second song, \"Advertising Ruins Everything.\" The marketing team described the promotion of brand awareness in the three weeks leading up to the Super Bowl as the campaign's primary purpose; the show itself served as \"purely proof of concept\" and was not televised.",
+        "source_url": "https://en.wikipedia.org/wiki/Skittles_Commercial%3A_The_Broadway_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "straight-from-the-strait": {
+      "slug": "straight-from-the-strait",
+      "title": "Straight from the Strait",
+      "qid": "Q132858974",
+      "enwiki": "Straight from the Strait",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2024-08",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Straight_from_the_Strait",
+        "wikidata": "https://www.wikidata.org/wiki/Q132858974"
+      },
+      "summary": {
+        "text": "Straight from the Strait is an Australian musical with a book by Norah Bagirim and Rubina Kimiia; Bagirim wrote the lyrics, and Kimiia wrote the music.\nIt tells the story of Torres Strait Islander workers far from home in the Pilbara in the late 1960s laying track on the Mount Newman railway, and breaking a world record by laying seven kilometres of track in under 12 hours. The score includes both contemporary and traditional Torres Strait musical styles, featuring Meriam Mir, Kala Lagaw Ya and Torres Strait Creole languages as well as English.\nStraight from the Strait premiered from 28 to 31 August 2024 in Brisbane at the Queensland Performing Arts Centre's Playhouse, presented by Opera Queensland, Yumpla Nerkep Foundation and QPAC in association with Brisbane Festival.\nIt was named Best Musical or Cabaret at the 2025 Queensland Matilda Awards.",
+        "source_url": "https://en.wikipedia.org/wiki/Straight_from_the_Strait",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-onion-cellar": {
+      "slug": "the-onion-cellar",
+      "title": "The Onion Cellar",
+      "qid": "Q7755106",
+      "enwiki": "The Onion Cellar",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Onion_Cellar",
+        "wikidata": "https://www.wikidata.org/wiki/Q7755106"
+      },
+      "summary": {
+        "text": "The Onion Cellar was a jukebox musical featuring music by the Dresden Dolls which premiered at the American Repertory Theater's venue, the Zero Arrow Theater (now Club Oberon), in Cambridge, Massachusetts from December 9, 2006 to January 13, 2007. It combined cabaret show, rock concert and drama. It was conceived and written by Amanda Palmer, with Jonathan Marc Sherman, Marcus Stern, Christine Jones, Anthony Martignetti, and the cast. The running time was 1 hour and 45 minutes with no intermission.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Onion_Cellar",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-rose-of-algeria": {
+      "slug": "the-rose-of-algeria",
+      "title": "The Rose of Algeria",
+      "qid": "Q122199129",
+      "enwiki": "The Rose of Algeria",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Rose_of_Algeria",
+        "wikidata": "https://www.wikidata.org/wiki/Q122199129"
+      },
+      "summary": {
+        "text": "The Rose of Algeria is a musical in two acts with music by Victor Herbert and both book and lyrics by Glen McDonough. The work features two songs which have become a part of the classical canon of concert repertoire, \"Rose of the World\" and \"Twilight of Barakeesh\". The work is set in the country of Algeria at an oasis in the Sahara desert and at a palace in the nation's capital, Algiers. First staged on Broadway under the title Algeria in 1908, the work was a critical failure in its original version. Believing the work was a strong one, Herbert made numerous revisions after the original Broadway production closed. The revised version, now titled The Rose of Algeria, was mounted at Broadway's Herald Square Theatre in 1909 with a completely different cast and a new director. This second version was more successful with critics and audiences.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Rose_of_Algeria",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-wizard-of-oz-1902-musical": {
+      "slug": "the-wizard-of-oz-1902-musical",
+      "title": "The Wizard of Oz",
+      "qid": "Q3990060",
+      "enwiki": "The Wizard of Oz (1902 musical)",
+      "composers": [
+        {
+          "name": "Paul Tietjens",
+          "qid": "Q7154017"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "L. Frank Baum",
+          "qid": "Q207544",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7118"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "L. Frank Baum",
+          "qid": "Q207544",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7118"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/9434",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Wizard_of_Oz_(1902_musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q3990060"
+      },
+      "summary": {
+        "text": "The Wizard of Oz was a 1902 musical extravaganza based on the 1900 novel The Wonderful Wizard of Oz by L. Frank Baum. Although Baum is the credited book writer, Glen MacDonough was hired on as ghostwriter after Baum had finished the script. Much of the original music was by Paul Tietjens, some of which has been lost, although it was still well-remembered and in discussion at MGM in 1939 when the classic film version of the story was made. The original show was particularly popular because of its two comedy stars: Fred Stone playing the Scarecrow, and David C. Montgomery as the Tin Woodman.\nThe show premiered at the Chicago Grand Opera House on June 16, 1902, and then went on tour throughout the upper Midwest before moving to the Majestic Theatre on Broadway on January 20, 1903, where it ran for 293 performances through October 3. A second company was established, and the show went on tour from September 1903 through March 1904 before returning to the Majestic with an updated \"Edition De Luxe\". This version played through May and then moved on to the New York Theater for three weeks before returning to Chicago for a five-week run to finish the season.\nThe two companies toured the country from August 1904 to April 1905, and again from September 1905 to May 1906. By this time, demand had slowed, and the second company was disbanded on February 28, 1906. The main \"Company A\" had one final tour from August to November 1906 before the rights were sold to Hurtig and Seamon. The new production resumed the tour through May 1907, and continued for the 1907–08 and 1908–09 seasons. Finally, the show was released to stock theater companies in 1911.\nThe show's history is covered in more than 100 pages of the book Oz Before the Rainbow: L. Frank Baum's 'The Wonderful Wizard of Oz' on stage and screen to 1939 by Mark Evan Swartz.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Wizard_of_Oz_(1902_musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

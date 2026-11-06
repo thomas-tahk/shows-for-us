@@ -1,0 +1,559 @@
+{
+  "live": true,
+  "shows": {
+    "a-christmas-carol-shower-of-stars": {
+      "slug": "a-christmas-carol-shower-of-stars",
+      "title": "A Christmas Carol",
+      "qid": "Q4655897",
+      "enwiki": "A Christmas Carol (Shower of Stars)",
+      "composers": [
+        {
+          "name": "Bernard Herrmann",
+          "qid": "Q296804"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1954-12-23",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Christmas_Carol_(Shower_of_Stars)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4655897"
+      },
+      "summary": {
+        "text": "\"A Christmas Carol\" is the December 23, 1954 episode of the hourlong American television anthology variety series, Shower of Stars. The episode is an adaptation of Charles Dickens' 1843 novella of the same name, and was filmed by Desilu Productions, Inc.\nShower of Stars had a four-season run from 1954 to 1958 on CBS, alternating every fourth week with the dramatic anthology series Climax!. It was also one of the few American TV productions of the time telecast in the UK, in 1956. Unusually for the time, it was presented on film and in color.\nA Christmas Carol was reprinted in black-and-white for schools and libraries by Carousel Films (which distributed many CBS television specials on 16mm film). The original broadcast included a live prologue and epilogue with host William Lundigan; a black-and-white kinescope preserved these segments on film. A Christmas Carol has been released on DVD, in black-and-white.\nThe production boasted a script and lyrics by noted American playwright Maxwell Anderson, and a score by Bernard Herrmann. Fredric March, in his only known portrayal of the role, starred as Ebenezer Scrooge, and Basil Rathbone portrayed Marley's Ghost.\nThe production featured few songs, but those it did feature forced the adapters to severely condense the story, especially the final third. Rather than having a Ghost of Christmas Yet to Come, the adaptation featured a mynah bird, who leads Scrooge to a graveyard in which he sees not only his own grave, but that of Tiny Tim.\nThe script added an unusual twist to the story in having the Ghost of Christmas Past (Sally Fraser) and the Ghost of Christmas Present (Ray Middleton) be portrayed by the same actors who played Scrooge's sweetheart Belle and his nephew Fred, respectively, and Scrooge not only notices the resemblance, but mistakes the Ghost of Christmas Present for his nephew.",
+        "source_url": "https://en.wikipedia.org/wiki/A_Christmas_Carol_(Shower_of_Stars)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "at-the-drop-of-a-hat": {
+      "slug": "at-the-drop-of-a-hat",
+      "title": "At the Drop of a Hat",
+      "qid": "Q4812494",
+      "enwiki": "At the Drop of a Hat",
+      "composers": [
+        {
+          "name": "Donald Swann",
+          "qid": "Q710220",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/61548"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Michael Flanders",
+          "qid": "Q10748975",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7725"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1735",
+        "wikipedia": "https://en.wikipedia.org/wiki/At_the_Drop_of_a_Hat",
+        "wikidata": "https://www.wikidata.org/wiki/Q4812494"
+      },
+      "summary": {
+        "text": "At the Drop of a Hat is a musical revue by Flanders and Swann, described by them as \"an after-dinner farrago\". In the show, they both sang on a nearly bare stage, accompanied by Swann on the piano. The songs were linked by contemporary social commentary, mostly by Flanders. After a long London run the show played in the US, Switzerland, and on tour in Britain.",
+        "source_url": "https://en.wikipedia.org/wiki/At_the_Drop_of_a_Hat",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "baby-case": {
+      "slug": "baby-case",
+      "title": "Baby Case",
+      "qid": "Q21161625",
+      "enwiki": "Baby Case",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Baby_Case",
+        "wikidata": "https://www.wikidata.org/wiki/Q21161625"
+      },
+      "summary": {
+        "text": "Baby Case is a musical with book, music, and lyrics by Michael Ogborn. The show is based on the famous Lindbergh baby kidnapping, commonly known as the \"Crime of the Century\". The musical, which had its world premiere at the Arden Theatre Company in Philadelphia, has gone on to win multiple awards, including the \"Best of Fest\" award in the 2012 New York Musical Theatre Festival.",
+        "source_url": "https://en.wikipedia.org/wiki/Baby_Case",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "first-date": {
+      "slug": "first-date",
+      "title": "First Date",
+      "qid": "Q16974802",
+      "enwiki": "First Date (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/494331",
+        "official_site": "http://firstdatethemusical.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/First_Date_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q16974802"
+      },
+      "summary": {
+        "text": "First Date is a musical with a book by Austin Winsberg and music and lyrics by Alan Zachary and Michael Weiner.  Based around the concept of a blind date, the musical made its world premiere during 2012 at Seattle's ACT Theatre in a 5th Avenue Theatre co-production and made its Broadway debut August 8, 2013, at the Longacre Theatre.",
+        "source_url": "https://en.wikipedia.org/wiki/First_Date_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "leonard-sillman-s-new-faces-of-1968": {
+      "slug": "leonard-sillman-s-new-faces-of-1968",
+      "title": "Leonard Sillman's New Faces of 1968",
+      "qid": "Q16909972",
+      "enwiki": "Leonard Sillman's New Faces of 1968",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5335",
+        "wikipedia": "https://en.wikipedia.org/wiki/Leonard_Sillman's_New_Faces_of_1968",
+        "wikidata": "https://www.wikidata.org/wiki/Q16909972"
+      },
+      "summary": {
+        "text": "Leonard Sillman's New Faces of 1968 is a 1968 musical revue produced by Leonard Sillman. The original production included Madeline Kahn and Robert Klein.\nThe play was profiled in the William Goldman book The Season: A Candid Look at Broadway.",
+        "source_url": "https://en.wikipedia.org/wiki/Leonard_Sillman's_New_Faces_of_1968",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "little-red-riding-hood": {
+      "slug": "little-red-riding-hood",
+      "title": "Little Red Riding Hood",
+      "qid": "Q121356772",
+      "enwiki": "Little Red Riding Hood (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Little_Red_Riding_Hood_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q121356772"
+      },
+      "summary": {
+        "text": "Little Red Riding Hood is a musical in two acts with lyrics by Harrison Ward and music by composers Edward E. Rice, Fred J. Eustis, Charles Dennée, T. W. Connor, and B. Gilbert. The musical's book was authored by playwright George T. Richardson and was loosely modeled after British pantomime versions of the classic European fairy tale of the same name. It also included characters from other classic fairy tales. It premiered on Christmas Eve 1899 at the Boston Museum, and then ran for further performances in Boston in January 1900 at the Hollis Street Theatre before transferring to Broadway.\nLittle Red Riding Hood premiered on Broadway at the Casino Theatre on January 8, 1900. It closed on January 20, 1900, after 24 performances. The production starred Ethel Jackson in the title role and Madge Lessing as Little Boy Blue among others. The production was produced and directed by Edward E. Rice.",
+        "source_url": "https://en.wikipedia.org/wiki/Little_Red_Riding_Hood_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "lovemusik": {
+      "slug": "lovemusik",
+      "title": "LoveMusik",
+      "qid": "Q6690180",
+      "enwiki": "LoveMusik",
+      "composers": [
+        {
+          "name": "Kurt Weill",
+          "qid": "Q55004",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7112"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Alfred Uhry",
+          "qid": "Q766468",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4051"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/455497",
+        "wikipedia": "https://en.wikipedia.org/wiki/LoveMusik",
+        "wikidata": "https://www.wikidata.org/wiki/Q6690180"
+      },
+      "summary": {
+        "text": "LoveMusik is a musical written by Alfred Uhry, using a selection of music by Kurt Weill. The story explores the romance and lives of Kurt Weill and Lotte Lenya, based on Speak Low (When You Speak Love): The Letters of Kurt Weill and Lotte Lenya, edited and translated by Lys Symonette and Kim H. Kowalke. Harold Prince had read Speak Low and suggested the idea for a musical to Uhry. Uhry and Prince worked on LoveMusik for four years to develop it into a stage work. The story spans over 25 years, from the first meeting of Lenya and Weill as struggling young artists, to their popularity in Europe and America, to Weill's death from a heart attack at age 50.",
+        "source_url": "https://en.wikipedia.org/wiki/LoveMusik",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "lucky-stiff": {
+      "slug": "lucky-stiff",
+      "title": "Lucky Stiff",
+      "qid": "Q6698030",
+      "enwiki": "Lucky Stiff",
+      "composers": [
+        {
+          "name": "Stephen Flaherty",
+          "qid": "Q3973178",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11668"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Lynn Ahrens",
+          "qid": "Q293323",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7450"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Lynn Ahrens",
+          "qid": "Q293323",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7450"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Lucky_Stiff",
+        "wikidata": "https://www.wikidata.org/wiki/Q6698030"
+      },
+      "summary": {
+        "text": "Lucky Stiff is a musical farce. It was the first collaboration for the team of Lynn Ahrens (book and lyrics) and Stephen Flaherty (music). The show is based on the 1983 novel The Man Who Broke the Bank at Monte Carlo by Michael Butterworth. It was created and performed at Playwrights Horizons off-Broadway in 1988, and won the Richard Rodgers Award for that year. The musical was seen in London's West End in 1997 but has not had a Broadway production.  A film version had a limited release in theatres in 2015 but received mostly negative reviews.",
+        "source_url": "https://en.wikipedia.org/wiki/Lucky_Stiff",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "mr-whittington": {
+      "slug": "mr-whittington",
+      "title": "Mr. Whittington",
+      "qid": "Q105095625",
+      "enwiki": "Mr. Whittington",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Mr._Whittington",
+        "wikidata": "https://www.wikidata.org/wiki/Q105095625"
+      },
+      "summary": {
+        "text": "Mr. Whittington is a British musical with a book by Clifford Grey, Greatrex Newman and Douglas Furber and music by Johnny Green, Jack Waller and Joseph Tunbridge with additional lyrics provided by Edward Heyman. It was based on the traditional story of Dick Whittington, designed as a vehicle for the entertainer Jack Buchanan.\nAfter premiering at the Alhambra Theatre, Glasgow in November 1933, it then transferred to London's West End where it ran for 300 performances between 1 February and 20 October 1934 initially at the London Hippodrome before transferring to the Adelphi Theatre. As well as Buchanan the original cast also included Elsie Randolph, Alfred Drayton, Fred Emney, William Kendall, Laurence Naismith and Kathleen Gibson.",
+        "source_url": "https://en.wikipedia.org/wiki/Mr._Whittington",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "promenade": {
+      "slug": "promenade",
+      "title": "Promenade",
+      "qid": "Q7249698",
+      "enwiki": "Promenade (musical)",
+      "composers": [
+        {
+          "name": "Al Carmines",
+          "qid": "Q4703654"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "María Irene Fornés",
+          "qid": "Q959128",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7523"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "María Irene Fornés",
+          "qid": "Q959128",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7523"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Promenade_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7249698"
+      },
+      "summary": {
+        "text": "Promenade is an experimental musical comedy with book and lyrics by María Irene Fornés and music by Rev. Al Carmines. In a review in The New York Times for a 1983 New York revival, Stephen Holden linked the production to the Theatre of the Absurd: \"This work, which suggests a mixture of Candide and Samuel Beckett viewed through Lewis Carroll's looking glass, is a little too avant-garde and absurdist to appeal to mainstream tastes.  But in its odd way it's an exquisite piece of musical theater.\"",
+        "source_url": "https://en.wikipedia.org/wiki/Promenade_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "secondary-the-musical": {
+      "slug": "secondary-the-musical",
+      "title": "Secondary: The Musical",
+      "qid": "Q138529579",
+      "enwiki": "Secondary: The Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Secondary%3A_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q138529579"
+      },
+      "summary": {
+        "text": "Secondary: The Musical is a critically-acclaimed Singaporean musical written and composed by local singer-songwriter weish, and directed by Huzir Sulaiman, who also provided dramaturgy.\nThe musical chronicles the journey of a jaded, burnt-out literature teacher Lilin as she navigates a school year in the fictional Huxley Secondary School. The play touches on themes such as the pressures of Singapore's education system for both students and teachers alike, the myth of meritocracy, mental health, and inequality.",
+        "source_url": "https://en.wikipedia.org/wiki/Secondary%3A_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "sister-act": {
+      "slug": "sister-act",
+      "title": "Sister Act",
+      "qid": "Q656057",
+      "enwiki": "Sister Act (musical)",
+      "composers": [
+        {
+          "name": "Alan Menken",
+          "qid": "Q317272",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12135"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Glenn Slater",
+          "qid": "Q3427403",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/80644"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": "Pasadena Playhouse"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/488902",
+        "official_site": "http://www.sisteractthemusical.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Sister_Act_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q656057"
+      },
+      "summary": {
+        "text": "Sister Act is a musical based on the 1992 film of the same name with music by Alan Menken, lyrics by Glenn Slater, book by Bill and Cheri Steinkellner, and additional material by Douglas Carter Beane. After having a regional premiere in 2006, in Pasadena, California, the original West End production opened on June 2, 2009, at the London Palladium, starring Patina Miller. Subsequent productions have been seen on Broadway and in many countries around the world. The Broadway musical is produced by Whoopi Goldberg and Stage Entertainment in association with The Shubert Organization and Disney Theatrical Productions.",
+        "source_url": "https://en.wikipedia.org/wiki/Sister_Act_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "songwriters-on-parade": {
+      "slug": "songwriters-on-parade",
+      "title": "Songwriters on Parade",
+      "qid": "Q7561650",
+      "enwiki": "Songwriters on Parade",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Songwriters_on_Parade",
+        "wikidata": "https://www.wikidata.org/wiki/Q7561650"
+      },
+      "summary": {
+        "text": "Songwriters on Parade was a musical Vaudeville revue which featured hit songwriters of the day introduced by a master of ceremonies. Between 1931 and 1940 (at least) various line-ups of popular songwriters performed their hits across the eastern seaboard at Loew's move theatres and on the Keith vaudeville circuit.",
+        "source_url": "https://en.wikipedia.org/wiki/Songwriters_on_Parade",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "tambourines-to-glory": {
+      "slug": "tambourines-to-glory",
+      "title": "Tambourines to Glory",
+      "qid": "Q7681076",
+      "enwiki": "Tambourines to Glory",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8516",
+        "wikipedia": "https://en.wikipedia.org/wiki/Tambourines_to_Glory",
+        "wikidata": "https://www.wikidata.org/wiki/Q7681076"
+      },
+      "summary": {
+        "text": "Tambourines to Glory is a gospel play with music by Langston Hughes and Jobe Huntley which tells the story of two female street preachers who open a storefront church in Harlem. The play premiered on Broadway in 1963.",
+        "source_url": "https://en.wikipedia.org/wiki/Tambourines_to_Glory",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-night-that-made-america-famous": {
+      "slug": "the-night-that-made-america-famous",
+      "title": "The Night That Made America Famous",
+      "qid": "Q7754111",
+      "enwiki": "The Night That Made America Famous",
+      "composers": [
+        {
+          "name": "Harry Chapin",
+          "qid": "Q1586454",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11507"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Harry Chapin",
+          "qid": "Q1586454",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11507"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6543",
+        "playbill": "https://playbill.com/production/the-night-that-made-america-famous-ethel-barrymore-theatre-vault-0000004327",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Night_That_Made_America_Famous",
+        "wikidata": "https://www.wikidata.org/wiki/Q7754111"
+      },
+      "summary": {
+        "text": "The Night That Made America Famous is a 1975 musical revue featuring the songs of Harry Chapin. The music consists of a combination of songs written for the musical and songs from Chapin's four previous albums, the latter including \"What Made America Famous?\", a song about a plumber who rescues a group of hippies from a fire. A lyric from that song gives the musical its title.\nChapin appeared in the mixed–media musical, alongside a cast that included his brothers, Tom and Stephen, who were both featured performers and musicians. The production was directed by Gene Frankel. Originally scheduled to open February 4, 1975, it opened at the Ethel Barrymore Theatre in New York on February 26, 1975, after fourteen previews, and closed on April 5, 1975 after 47 performances.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Night_That_Made_America_Famous",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "tip-toes": {
+      "slug": "tip-toes",
+      "title": "Tip-Toes",
+      "qid": "Q3529261",
+      "enwiki": "Tip-Toes",
+      "composers": [
+        {
+          "name": "George Gershwin",
+          "qid": "Q123829",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5813"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Ira Gershwin",
+          "qid": "Q61059",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12885"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Guy Bolton",
+          "qid": "Q924974",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4575"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8745",
+        "wikipedia": "https://en.wikipedia.org/wiki/Tip-Toes",
+        "wikidata": "https://www.wikidata.org/wiki/Q3529261"
+      },
+      "summary": {
+        "text": "Tip-Toes is a musical with a book by Guy Bolton and Fred Thompson, lyrics by Ira Gershwin, and music by George Gershwin. It centers on a vaudeville act composed of Tip-Toes, her brother and her uncle, who try to pass her off as an aristocrat to snare a millionaire husband. Farcical complications ensue involving Tip-Toes' temporary amnesia and a marital infidelity subplot.\nThe musical was modestly successful on Broadway in 1925 and in London in 1926.  It was quickly adapted as a silent film starring Dorothy Gish and Will Rogers.",
+        "source_url": "https://en.wikipedia.org/wiki/Tip-Toes",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "tuxedo": {
+      "slug": "tuxedo",
+      "title": "Tuxedo",
+      "qid": "Q7857179",
+      "enwiki": "Tuxedo (vaudeville)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Tuxedo_(vaudeville)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7857179"
+      },
+      "summary": {
+        "text": "Tuxedo was a vaudeville show with minstrelsy in which the song \"Ta-ra-ra Boom-de-ay\" was interpolated.\nActor and songwriter Edward Marble wrote and produced Tuxedo for George Thatcher and his minstrel troupe known as Thatcher's Minstrels. The show debuted in Lincoln, Nebraska, on July 23, 1891. It then toured, including to Boston, Massachusetts, beginning on August 24, 1891, and the National Theater in Washington, D.C. Tuxedo arrived in New York at the Park Theatre (at Broadway and 35th Street) on October 5, 1891.\nThe song \"Ta-ra-ra Boom-de-ay\" was introduced in this show as an interpolated number.",
+        "source_url": "https://en.wikipedia.org/wiki/Tuxedo_(vaudeville)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "zangoora": {
+      "slug": "zangoora",
+      "title": "Zangoora",
+      "qid": "Q8066194",
+      "enwiki": "Zangoora",
+      "composers": [],
+      "lyricists": [
+        {
+          "name": "Javed Akhtar",
+          "qid": "Q2319562"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": "2010-09-23",
+        "venue": "Kingdom of Dreams"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Zangoora",
+        "wikidata": "https://www.wikidata.org/wiki/Q8066194"
+      },
+      "summary": {
+        "text": "Zangoora – The Gypsy Prince is the first Bollywood musical. It was premiered on 23 September 2010 at Nautanki Mahal of Kingdom of Dreams, Gurgaon. It has a cast of 110 members with Hussain Kuwajerwala, Gauahar Khan, Kashmira Irani and Sadanand Patil playing lead, supported by Arjun Fauzdar; besides crew of 250 people. In June 2013, the musical completed a run of 1000 shows, and became the longest running Bollywood stage show in India.\nThe musical was a production of the Great Indian Nautanki Company, a joint venture between Wizcraft and APRA Group. The music of the musical was composed by  Shankar–Ehsaan–Loy, with screenplay and dialogues by Javed Akhtar.",
+        "source_url": "https://en.wikipedia.org/wiki/Zangoora",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

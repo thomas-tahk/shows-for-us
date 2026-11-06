@@ -1,0 +1,833 @@
+{
+  "live": true,
+  "shows": {
+    "a-chinese-honeymoon": {
+      "slug": "a-chinese-honeymoon",
+      "title": "A Chinese Honeymoon",
+      "qid": "Q4655864",
+      "enwiki": "A Chinese Honeymoon",
+      "composers": [
+        {
+          "name": "Howard Talbot",
+          "qid": "Q5921014",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12481"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Harry Greenbank",
+          "qid": "Q5669257",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12917"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "George Dance",
+          "qid": "Q5538363",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5799"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1057",
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Chinese_Honeymoon",
+        "wikidata": "https://www.wikidata.org/wiki/Q4655864"
+      },
+      "summary": {
+        "text": "A Chinese Honeymoon is a musical comedy in two acts by George Dance, with music by Howard Talbot and additional music by Ivan Caryll and others, and additional lyrics by Harry Greenbank and others. One song that originated in the show was \"Mister Dooley\" which became famously associated with The Wizard of Oz for decades, when John Slavin, in the title role, interpolated the song for much of the first year of its run.\nThe piece opened at the Theatre Royal in Hanley, England on 16 October 1899 and then toured extensively. After that, it played at the Royal Strand Theatre in London, managed by Frank Curzon, opening on 5 October 1901 for an astonishing run of 1,075 performances. It also played at the Casino Theatre, in New York, opening on 2 June 1902 for a run of 376 performances. In London, Lily Elsie took over the role of Princess Soo-Soo from Beatrice Edwards in early 1903 and was in turn succeeded by Kate Cutler. It also starred Louie Freear, and Arthur Williams took over the role of Mr. Pineapple.\nA Chinese Honeymoon was the first musical to run for 1,000 performances. The story concerns couples who honeymoon in China and inadvertently break the kissing laws (reminiscent of The Mikado).",
+        "source_url": "https://en.wikipedia.org/wiki/A_Chinese_Honeymoon",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "a-night-with-janis-joplin": {
+      "slug": "a-night-with-janis-joplin",
+      "title": "A Night with Janis Joplin",
+      "qid": "Q20857787",
+      "enwiki": "A Night with Janis Joplin",
+      "composers": [
+        {
+          "name": "Janis Joplin",
+          "qid": "Q1514",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/495465"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2013-10-10",
+        "venue": "Lyceum Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/494971",
+        "playbill": "https://playbill.com/production/a-night-with-janis-joplin-california-center-for-the-arts-2018-2019",
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Night_with_Janis_Joplin",
+        "wikidata": "https://www.wikidata.org/wiki/Q20857787"
+      },
+      "summary": {
+        "text": "A Night with Janis Joplin is a musical that includes works of singer-songwriter Janis Joplin (1943–1970). Written and directed by Randy Johnson, the show has toured consistently since 2011, with a forthcoming stint at the Peacock Theatre in London beginning on August 20, 2024.\nThe show mounted at Portland Center Stage from May 24 through June 26, 2011 with Cat\nStephani in the lead role, before it traveled for stints at The Allen Theatre at the Cleveland\nPlayhouse, the Mead Center for American Theater, Milkwaukee Repertory Theater, and the\nArena Stage in Washington, DC in 2012 with Mary Bridget Davies. One review wrote of the\nopening night that “Davies not only filled in, she transcended, delivering a performance so raw,\nreal and in-the-moment that it brought people to their feet again and again.”\nA Night with Janis Joplin officially opened at the Lyceum Theatre on Broadway on October 10,\n2013 and closed in February, after 140 performances. The show was produced by Todd Gershwin and Daniel Chilewich, in association with The Estate of Janis Joplin and Jeffrey Jampol\nfor JAM, Inc.\nThe Broadway version garnered a Tony Award Nomination for the lead actress Mary Bridget\nDavies. Davies, who was born in Cleveland, Ohio, has previously played Joplin in the 2005\nproduction of Love, Janis. She has also toured in Europe with Joplin’s original band, Big Brother and the Holding Company. \nPost-Broadway, the show traveled through North America beginning in 2015, touring for seven years and making over 130 stops at cities including Toronto, Ontario, Los Angeles, California, Detroit, Michigan, St. Louis, Missouri, Austin, Texas, Atlanta, Georgia and more.\nOn August 23, 25 and 26 of 2022, the show traveled to Japan for three days of performances at\nthe Tokyo International Forum Hall for an all-Japanese cast helmed by singer Aina the End playing the lead role of Janis Joplin.\nIn 2023, it was announced that the hit show would move to the West End for a limited-run at\nthe Peacock Theatre in London from August 20 – September 28, 2024 with Mary Bridget Davies returning to star in the lead role.",
+        "source_url": "https://en.wikipedia.org/wiki/A_Night_with_Janis_Joplin",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "beach-blanket-tempest": {
+      "slug": "beach-blanket-tempest",
+      "title": "Beach Blanket Tempest",
+      "qid": "Q24078337",
+      "enwiki": "Beach Blanket Tempest",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1984-07-25",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Beach_Blanket_Tempest",
+        "wikidata": "https://www.wikidata.org/wiki/Q24078337"
+      },
+      "summary": {
+        "text": "Beach Blanket Tempest is an Australian musical with book and lyrics by Dennis Watkins and music by Chris Harriott, loosely based on Shakespeare's The Tempest. Set on the fictional island of Avalon, which according to this play is located somewhere in the Great Barrier Reef, the musical combines Shakespeare's tale with 1960s California surf film culture.",
+        "source_url": "https://en.wikipedia.org/wiki/Beach_Blanket_Tempest",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "carmen-jones": {
+      "slug": "carmen-jones",
+      "title": "Carmen Jones",
+      "qid": "Q13424336",
+      "enwiki": "Carmen Jones",
+      "composers": [
+        {
+          "name": "Georges Bizet",
+          "qid": "Q56158",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5874"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Oscar Hammerstein II",
+          "qid": "Q319693",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7965"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Oscar Hammerstein II",
+          "qid": "Q319693",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7965"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": "Broadway Theatre"
+      },
+      "awards": [
+        {
+          "name": "Golden Leopard",
+          "qid": "Q1700510"
+        },
+        {
+          "name": "Laurence Olivier Awards",
+          "qid": "Q28470"
+        }
+      ],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2414",
+        "wikipedia": "https://en.wikipedia.org/wiki/Carmen_Jones",
+        "wikidata": "https://www.wikidata.org/wiki/Q13424336"
+      },
+      "summary": {
+        "text": "Carmen Jones is a 1943 Broadway musical with music by Georges Bizet (orchestrated for Broadway by Robert Russell Bennett) and lyrics and book by Oscar Hammerstein II which was performed at The Broadway Theatre. Conceptually, it is Bizet's opera Carmen updated to a World War II-era, African-American setting. Bizet's opera was, in turn, based on the 1846 novella by Prosper Mérimée. The Broadway musical was produced by Billy Rose, using an all-black cast, and directed by Hassard Short. Robert Shaw prepared the choral portions of the show.\nThe original Broadway production starred Muriel Smith (alternating with Muriel Rahn) in the title role. The original Broadway cast members were nearly all new to the stage; Kennedy and Muir each wrote that on the first day of rehearsal only one member had ever been on a stage before this musical.\nThe 1954 film was adapted by Hammerstein and Harry Kleiner. It was directed by Otto Preminger and starred Dorothy Dandridge and Harry Belafonte.\nThe musical has been revived in London, running for a season in 1991 at Old Vic and most recently in Royal Festival Hall in the Southbank Centre in 2007.\nIn 2018, it was revived off-Broadway at the Classic Stage Company under the direction of John Doyle and Anika Noni Rose in the title role.",
+        "source_url": "https://en.wikipedia.org/wiki/Carmen_Jones",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "conversation-piece": {
+      "slug": "conversation-piece",
+      "title": "Conversation Piece",
+      "qid": "Q5166412",
+      "enwiki": "Conversation Piece (musical)",
+      "composers": [
+        {
+          "name": "Noël Coward",
+          "qid": "Q298388",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/36502"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Noël Coward",
+          "qid": "Q298388",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/36502"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": "His Majesty's Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2751",
+        "wikipedia": "https://en.wikipedia.org/wiki/Conversation_Piece_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5166412"
+      },
+      "summary": {
+        "text": "Conversation Piece, billed as \"A Romantic Comedy with Music\", is a musical written by Noël Coward. It premiered at His Majesty's Theatre, London, on 16 February 1934, and ran for 177 performances over five months. A Broadway production opened at the 44th Street Theatre later that year but ran for only 55 performances.",
+        "source_url": "https://en.wikipedia.org/wiki/Conversation_Piece_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "don-t-play-us-cheap": {
+      "slug": "don-t-play-us-cheap",
+      "title": "Don't Play Us Cheap",
+      "qid": "Q118896318",
+      "enwiki": "Don't Play Us Cheap",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": "Ethel Barrymore Theatre"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Don't_Play_Us_Cheap",
+        "wikidata": "https://www.wikidata.org/wiki/Q118896318"
+      },
+      "summary": {
+        "text": "Don't Play Us Cheap is a musical play with music, lyrics, and a musical book by Melvin Van Peebles. The musical is based on Van Peebles' 1967 French-language novel La fête à Harlem (1967). Set in Harlem, the musical premiered in November 1970 at San Francisco State College.\nThe musical was staged on Broadway at the Ethel Barrymore Theatre in 1972; making its New York City debut at that theatre on May 16 of that year where it ran for a total of 164 performances; closing on September 30, 1972. Staged by Van Peebles, the production used scenic designs by Kert F. Lundell, costume designs by Bernard Johnson, and lighting designs by Martin Aronstein. The original cast included Esther Rolle as Miss Maybell, Thomas Anderson as Mr. Percy, Rhetta Hughes as Earnestine, Avon Long as Brother Dave, Mabel King as Mrs. Bower, and Joshie Jo Armstead as Mrs. Washington. \nThe musical was adapted into a 1973 film of the same name. The film features much of the same cast as the Broadway production; and the film, although released after the Broadway run, was made prior to the Broadway production in 1971.",
+        "source_url": "https://en.wikipedia.org/wiki/Don't_Play_Us_Cheap",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "el-otro-lado-de-la-cama": {
+      "slug": "el-otro-lado-de-la-cama",
+      "title": "El otro lado de la cama",
+      "qid": "Q18649750",
+      "enwiki": "El otro lado de la cama (musical)",
+      "composers": [
+        {
+          "name": "Coque Malla",
+          "qid": "Q3324660"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2004-09-16",
+        "venue": "Teatro Amaya"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/El_otro_lado_de_la_cama_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q18649750"
+      },
+      "summary": {
+        "text": "El otro lado de la cama is a Spanish jukebox musical adaptation of the 2002 Spanish movie of the same name. It premiered on September 16, 2004. It was written by David Serrano, with music by Coque Malla.",
+        "source_url": "https://en.wikipedia.org/wiki/El_otro_lado_de_la_cama_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "gay-new-york": {
+      "slug": "gay-new-york",
+      "title": "Gay New York",
+      "qid": "Q121608727",
+      "enwiki": "Gay New York (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Gay_New_York_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q121608727"
+      },
+      "summary": {
+        "text": "Gay New York is a musical in two acts with both book and lyrics by Maurice Hegeman and music by Harry Trappert. The musical was adapted from an unidentified German-language operetta.",
+        "source_url": "https://en.wikipedia.org/wiki/Gay_New_York_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "happy-end": {
+      "slug": "happy-end",
+      "title": "Happy End",
+      "qid": "Q1584256",
+      "enwiki": "Happy End (musical)",
+      "composers": [
+        {
+          "name": "Kurt Weill",
+          "qid": "Q55004",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7112"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Bertolt Brecht",
+          "qid": "Q38757",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4511"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Elisabeth Hauptmann",
+          "qid": "Q73781",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/80500"
+        }
+      ],
+      "premiere": {
+        "date": "1929-09-02",
+        "venue": "Theater am Schiffbauerdamm"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4199",
+        "wikipedia": "https://en.wikipedia.org/wiki/Happy_End_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1584256"
+      },
+      "summary": {
+        "text": "Happy End is a three-act musical comedy by Kurt Weill, Elisabeth Hauptmann, and Bertolt Brecht which first opened in Berlin at the Theater am Schiffbauerdamm on September 2, 1929. It closed after seven performances. In 1977 it premiered on Broadway, where it ran for 75 performances.",
+        "source_url": "https://en.wikipedia.org/wiki/Happy_End_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "i-keano": {
+      "slug": "i-keano",
+      "title": "I, Keano",
+      "qid": "Q10966035",
+      "enwiki": "I, Keano",
+      "composers": [
+        {
+          "name": "Paul Woodfull",
+          "qid": "Q7154472"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Arthur Mathews",
+          "qid": "Q4799674"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Arthur Mathews",
+          "qid": "Q4799674"
+        },
+        {
+          "name": "Michael Nugent",
+          "qid": "Q6833111"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/I%2C_Keano",
+        "wikidata": "https://www.wikidata.org/wiki/Q10966035"
+      },
+      "summary": {
+        "text": "I, Keano is a comedy musical play about footballer Roy Keane leaving the Republic of Ireland national football team before the 2002 FIFA World Cup.\nIt is written by Arthur Mathews, Michael Nugent and Paul Woodfull, and is presented as a mock-epic melodrama about an ancient Roman legion preparing for war.\nIn its first two years, it had sales of over half a million tickets, generating €10m ($13m) in ticket sales. In January 2008, it began its fourth year of performances with the addition of Caroline Morahan as Surfia.",
+        "source_url": "https://en.wikipedia.org/wiki/I%2C_Keano",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "jamaica": {
+      "slug": "jamaica",
+      "title": "Jamaica",
+      "qid": "Q1679817",
+      "enwiki": "Jamaica (musical)",
+      "composers": [
+        {
+          "name": "Harold Arlen",
+          "qid": "Q448644",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11319"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Yip Harburg",
+          "qid": "Q1273621",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5177"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2653",
+        "playbill": "https://playbill.com/production/jamaica-imperial-theatre-vault-0000006056",
+        "wikipedia": "https://en.wikipedia.org/wiki/Jamaica_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1679817"
+      },
+      "summary": {
+        "text": "Jamaica is a musical with a book by Yip Harburg and Fred Saidy, lyrics by Harburg, and music by Harold Arlen. It is set on a small island off the coast of Jamaica, and tells about a simple island community fighting to avoid being overrun by American commercialism.\nArlen's music parodies the popular form of Calypso, which was in vogue in the 1950s, largely as a result of the popularity of Harry Belafonte, for whom the musical originally was written. Belafonte withdrew from the production due to illness, and the musical was tailored around the talents of Lena Horne.  Harburg was blacklisted in Hollywood at the time of the writing of the musical, and the satire is unusually pointed. Many of the topics raised in the songs, including evolution, nuclear energy, and consumerism, remain topical today.",
+        "source_url": "https://en.wikipedia.org/wiki/Jamaica_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "joined-at-the-heart": {
+      "slug": "joined-at-the-heart",
+      "title": "Joined at the Heart",
+      "qid": "Q6269041",
+      "enwiki": "Joined at the Heart",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Joined_at_the_Heart",
+        "wikidata": "https://www.wikidata.org/wiki/Q6269041"
+      },
+      "summary": {
+        "text": "Joined at the Heart was a musical with music and lyrics by Graham Brown & Geoff Meads (latterly of successful UK country music duo Tennessee Twin), book by Frances Anne Bartam and directed by Frances Brownlie. A new musical, the show told the love story of Victor Frankenstein and his step sister Elizabeth, a young orphan girl taken in by Victor's parents and cared for as if she were their own daughter. When Victor's mother dies, he vows to end the suffering that death brings. While in pursuit of eternal life, the love story between Victor and Elizabeth evolves to a thrilling climax all set to an enthralling musical and lyrical score.\nJoined at the Heart reached the final of the Worldwide Search for Musicals competition. The show saw its first performance at The Junction 2 in Cambridge, UK from 1–4 August 2007. Following its Cambridge run it moved to the 2007 Edinburgh Festival Fringe for a one-week run at C Venues featuring a cast of 35 onstage and several back stage personnel.\nJoined at the Heart was the first musical to be streamed live on the Internet via the Second Life virtual world, on Saturday 4 August 2007.",
+        "source_url": "https://en.wikipedia.org/wiki/Joined_at_the_Heart",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "mary-jane-mckane": {
+      "slug": "mary-jane-mckane",
+      "title": "Mary Jane McKane",
+      "qid": "Q18619406",
+      "enwiki": "Mary Jane McKane",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5917",
+        "wikipedia": "https://en.wikipedia.org/wiki/Mary_Jane_McKane",
+        "wikidata": "https://www.wikidata.org/wiki/Q18619406"
+      },
+      "summary": {
+        "text": "Mary Jane McKane is a musical comedy in three acts with book and lyrics by William Cary Duncan and Oscar Hammerstein, II and music by Herbert Stothart and Vincent Youmans. The show was produced by Arthur Hammerstein at the Imperial Theatre, and opened December 25, 1923.  \nIt was staged by Alonzo Price, choreographed by Sammy Lee, music director Herbert Stothart, costume design by Charles LeMaire, and scenic design by Frank E. Gates and Edward A. Morange. It ran for 151 performances, closing on May 3, 1924.  \nThe cast of included Mary Hay (Mary Jane McKane), Eva Clark (Louise Dryer), James Heenan (Andrew Dunn, Sr.), Kitty Kelly (Maggie Murphy), Louis Morrell (George Sherwin), Stanley Ridges (Andrew Dunn, Jr.), Hal Skelly (Joe McGillicudy), and Dallas Welford (Martin Frost). \nSet in New York City, the plot concerns a cute country girl named Mary Jane (Mary Hay) who applies for a job in the Dunns’ offices. Although she is a good stenographer, they are concerned about hiring her because she is too pretty for Andrew Dunn, Jr. (Stanley Ridges).  She gets the job by slicking down her bobbed hair and putting on goggles.  Later, after Mr. Dunn Sr. (James Heenan) fires Jr., Mary Jane goes into business with Jr. and get betrothed in the last act.\nOpening night of Mary Jane McKane was also the inaugural performance for the new Imperial Theater at 45th Street, west of Broadway.  The New York Times reported that Miss Hay “emerged, let it be recorded, as a sweet, comely, tuneful and most appealing heroine.”",
+        "source_url": "https://en.wikipedia.org/wiki/Mary_Jane_McKane",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "millennials": {
+      "slug": "millennials",
+      "title": "Millennials",
+      "qid": "Q113518469",
+      "enwiki": "Millennials (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Millennials_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q113518469"
+      },
+      "summary": {
+        "text": "Millennials is a musical with book, music and lyrics by Elliot Clay. It is described as a \"pop song cycle\".",
+        "source_url": "https://en.wikipedia.org/wiki/Millennials_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "nuts-and-wine": {
+      "slug": "nuts-and-wine",
+      "title": "Nuts and Wine",
+      "qid": "Q7070543",
+      "enwiki": "Nuts and Wine",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Nuts_and_Wine",
+        "wikidata": "https://www.wikidata.org/wiki/Q7070543"
+      },
+      "summary": {
+        "text": "Nuts and Wine was a theatrical revue, with lyrics by C. H. Bovill and P. G. Wodehouse and music by Frank E. Tours, with additional numbers by Guy Jones and Melville Gideon, from a book by Bovill and Wodehouse. It was performed at the Empire Theatre, London, opening on 3 January 1914. The show closed on 28 March 1914, after a run of 12 weeks.",
+        "source_url": "https://en.wikipedia.org/wiki/Nuts_and_Wine",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "oil-city-symphony": {
+      "slug": "oil-city-symphony",
+      "title": "Oil City Symphony",
+      "qid": "Q7081316",
+      "enwiki": "Oil City Symphony",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Mike Craver",
+          "qid": "Q6846436"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Oil_City_Symphony",
+        "wikidata": "https://www.wikidata.org/wiki/Q7081316"
+      },
+      "summary": {
+        "text": "Oil City Symphony is a musical with a book by Mike Craver, Mark Hardwick, Debra Monk, and Mary Murfitt and songs by various composers. It is a recreation of a recital by four middle-aged amateur musicians who have reunited in the auditorium of the Ohio high school they attended in the 1960s to pay tribute to music teacher Miss Hazel Reaves, who is retiring. The musical ran for 626 performances off-Broadway.\nAll four, whose combined talents \"represent 127 years of total studying time,\" aspired to show business careers, but none of them ever left their small hometown. Debbie, the ex-prom queen, plays the drums and percussion; Mark, the minister of music at his church, is a pianist and accordionist; Mary, a rabid fan of women's roller derby remembered for her portrayal of Anita in a local production of West Side Story, plays the violin, saxophone, flute, and slide whistle; and Mike, a former member of an acid rock band, is a master of the synthesizer and vibraslap.",
+        "source_url": "https://en.wikipedia.org/wiki/Oil_City_Symphony",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "picon-pie": {
+      "slug": "picon-pie",
+      "title": "Picon Pie",
+      "qid": "Q7191056",
+      "enwiki": "Picon Pie",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Picon_Pie",
+        "wikidata": "https://www.wikidata.org/wiki/Q7191056"
+      },
+      "summary": {
+        "text": "Picon Pie is a musical play by Rose Leiman Goldemberg about the life and career of Molly Picon, a performer associated with Yiddish theatre, Broadway, film, radio, and television. The play premiered at the Santa Monica Playhouse in California on April 6, 2002, with Barbara Minkus as Picon and Jack Kutcher as her husband and manager, Jacob \"Yonkel\" Kalich. The production was directed by Chris DeCarlo, with musical direction by Beth Ertz.\nMinkus later reprised the role in a 2003 Florida production and in the play's 2004 Off-Broadway production in New York City. The New York production opened at the DR2 Theatre on July 15, 2004, and later transferred to the Lamb's Theatre, where June Gable succeeded Minkus in the role of Picon.",
+        "source_url": "https://en.wikipedia.org/wiki/Picon_Pie",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "shangri-la": {
+      "slug": "shangri-la",
+      "title": "Shangri-La",
+      "qid": "Q7488580",
+      "enwiki": "Shangri-La (musical)",
+      "composers": [
+        {
+          "name": "Harry Warren",
+          "qid": "Q938810",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12549"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "James Hilton",
+          "qid": "Q43227",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6307"
+        },
+        {
+          "name": "Jerome Lawrence",
+          "qid": "Q6182811",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6713"
+        },
+        {
+          "name": "Robert Edwin Lee",
+          "qid": "Q7343994",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/80951"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7918",
+        "wikipedia": "https://en.wikipedia.org/wiki/Shangri-La_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7488580"
+      },
+      "summary": {
+        "text": "Shangri-La is a musical with a book and lyrics by James Hilton, Jerome Lawrence, and Robert E. Lee and music by Harry Warren.",
+        "source_url": "https://en.wikipedia.org/wiki/Shangri-La_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "shrek-the-musical": {
+      "slug": "shrek-the-musical",
+      "title": "Shrek the Musical",
+      "qid": "Q251667",
+      "enwiki": "Shrek the Musical",
+      "composers": [
+        {
+          "name": "Jeanine Tesori",
+          "qid": "Q16194364",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12488"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "David Lindsay-Abaire",
+          "qid": "Q532488",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/389683"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "David Lindsay-Abaire",
+          "qid": "Q532488",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/389683"
+        }
+      ],
+      "premiere": {
+        "date": "2012-11-04",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/477421",
+        "official_site": "http://www.shrekthemusical.co.uk/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Shrek_the_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q251667"
+      },
+      "summary": {
+        "text": "Shrek the Musical is a musical with music by Jeanine Tesori and book and lyrics by David Lindsay-Abaire. It is based on the 2001 DreamWorks Animation film Shrek, along with elements of its sequels: Shrek 2, Shrek Forever After and William Steig's 1990 book Shrek!. After a trial run in Seattle, the original Broadway production opened in December 2008 and closed after a run of over 12 months in January 2010. It was followed by a tour of the United States which opened in 2010, and a re-vamped West End production from June 2011 to February 2013.\nA high definition filming of the Broadway production, shot by RadicalMedia, was released on DVD, Blu-ray, and digital download on October 15, 2013, in North America and December 2, 2013, in the United Kingdom. The digital version of the film was made available to stream beginning in December 2013.",
+        "source_url": "https://en.wikipedia.org/wiki/Shrek_the_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "thrill-me": {
+      "slug": "thrill-me",
+      "title": "Thrill Me",
+      "qid": "Q7798178",
+      "enwiki": "Thrill Me",
+      "composers": [
+        {
+          "name": "Stephen Dolginoff",
+          "qid": "Q7609079"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Stephen Dolginoff",
+          "qid": "Q7609079"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Thrill_Me",
+        "wikidata": "https://www.wikidata.org/wiki/Q7798178"
+      },
+      "summary": {
+        "text": "Thrill Me: The Leopold & Loeb Story is a musical with a book, music, and lyrics by Stephen Dolginoff. It is based on the true story of Nathan Leopold and Richard Loeb, the so-called \"thrill killers\" who murdered a young boy in 1924 in order to commit \"the perfect crime.\" The story is told in flashbacks, beginning with a 1958 parole hearing.\nThe show premiered with a small production at the 2003 Midtown International Theater Festival in New York City. It was then staged as a larger Off-Broadway production in 2005 by the York Theatre Company in association with Jim Kierstead. Since then, Thrill Me was published in the United States by Dramatists Play Service, and in the UK by Samuel French Ltd. recorded on CD by Original Cast Records, and has been staged in a variety of US and international cities.\nIn 2024, writer/composer Stephen Dolginoff's memoir Thrill Maker, which recounts the entire thirty-year history of the show (which he first began writing in 1994), was published.",
+        "source_url": "https://en.wikipedia.org/wiki/Thrill_Me",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "titanic": {
+      "slug": "titanic",
+      "title": "Titanic",
+      "qid": "Q1416989",
+      "enwiki": "Titanic (musical)",
+      "composers": [
+        {
+          "name": "Maury Yeston",
+          "qid": "Q203977",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12605"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Maury Yeston",
+          "qid": "Q203977",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12605"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Peter Stone",
+          "qid": "Q1718449",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8128"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": "Lunt-Fontanne Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8751",
+        "wikipedia": "https://en.wikipedia.org/wiki/Titanic_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1416989"
+      },
+      "summary": {
+        "text": "Titanic is a musical with music and lyrics by Maury Yeston and a book by Peter Stone. It is based on the story of the RMS Titanic which sank on its maiden voyage on April 15, 1912.\nThe musical opened on Broadway on April 23, 1997, in a production directed by Richard Jones; it won five Tony Awards, including Best Musical, and ran for 804 performances. It is not related to the 1997 film of the same name.",
+        "source_url": "https://en.wikipedia.org/wiki/Titanic_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "treasure-girl": {
+      "slug": "treasure-girl",
+      "title": "Treasure Girl",
+      "qid": "Q16985756",
+      "enwiki": "Treasure Girl",
+      "composers": [
+        {
+          "name": "George Gershwin",
+          "qid": "Q123829",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5813"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Ira Gershwin",
+          "qid": "Q61059",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12885"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Fred Thompson",
+          "qid": "Q5496402",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5661"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8855",
+        "wikipedia": "https://en.wikipedia.org/wiki/Treasure_Girl",
+        "wikidata": "https://www.wikidata.org/wiki/Q16985756"
+      },
+      "summary": {
+        "text": "Treasure Girl is a 1928 American musical with a book by Fred Thompson and Vincent Lawrence, music by George Gershwin, and lyrics by Ira Gershwin. It was one of the several Gershwin shows produced by Alex A. Aarons and Vinton Freedley. \nSeven songs from Treasure Girl were published by Harms Inc. in 1928: \"I Don't Think I'll Fall in Love Today,\" \"K-Ra-Zy For You,\" \"Feeling I'm Falling,\" \"Got a Rainbow\" (also known as \"I've Got a Rainbow\"), \"Oh, So Nice!,\" \"What Are We Here For?\", and \"Where's the Boy? Here's the Girl!\" The musical's best-known song, \"(I've Got a) Crush on You,\" was first published in 1930 when it was reused in Strike Up the Band. It was not until Lee Wiley's 1939 recording that \"I've Got a Crush on You\" gained notable popularity. Since then, it has been recorded by a number of artists, including Frank Sinatra. \"K-ra-zy for You\" and \"What Causes That?\" were used in the 1992 musical Crazy for You. The former was used without the verse (following Bobby Short's 1973 recording), and Howard Pollack noted that the latter \"went from almost complete obscurity to become the surprise hit of the show.\" In fact, \"What Causes That?\" was thought lost until its rediscovery among a large cache of musical theatre materials in Secaucus; it was first published as part of Crazy for You.",
+        "source_url": "https://en.wikipedia.org/wiki/Treasure_Girl",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "you-never-know": {
+      "slug": "you-never-know",
+      "title": "You Never Know",
+      "qid": "Q8057446",
+      "enwiki": "You Never Know (musical)",
+      "composers": [
+        {
+          "name": "Cole Porter",
+          "qid": "Q215120",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12257"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Cole Porter",
+          "qid": "Q215120",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12257"
+        },
+        {
+          "name": "Edwin Gilbert",
+          "qid": "Q5346446",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5322"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Rowland Leigh",
+          "qid": "Q7372159",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8499"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/9531",
+        "wikipedia": "https://en.wikipedia.org/wiki/You_Never_Know_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q8057446"
+      },
+      "summary": {
+        "text": "You Never Know is a musical with a book by Rowland Leigh, adapted from the original European play By Candlelight, by Siegfried Geyer and Karl Farkas, with music by Cole Porter and Robert Katscher, lyrics by Cole Porter, additional lyrics by Leigh and Edwin Gilbert, directed by Leigh, and songs by others.\nThe show was written not long after the riding accident that left Porter semi-crippled.",
+        "source_url": "https://en.wikipedia.org/wiki/You_Never_Know_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "zenda": {
+      "slug": "zenda",
+      "title": "Zenda",
+      "qid": "Q8069029",
+      "enwiki": "Zenda (musical)",
+      "composers": [
+        {
+          "name": "Vernon Duke",
+          "qid": "Q519693",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11610"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Zenda_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q8069029"
+      },
+      "summary": {
+        "text": "Zenda is a musical with a book by Everett Freeman, lyrics by Lenny Adelson, Sid Kuller, and Martin Charnin, and music by Vernon Duke.",
+        "source_url": "https://en.wikipedia.org/wiki/Zenda_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

@@ -1,0 +1,793 @@
+{
+  "live": true,
+  "shows": {
+    "americano": {
+      "slug": "americano",
+      "title": "¡Americano!",
+      "qid": "Q111804272",
+      "enwiki": "¡Americano! (musical)",
+      "composers": [
+        {
+          "name": "Carrie Rodriguez",
+          "qid": "Q438254"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Michael Barnard",
+          "qid": "Q111844381"
+        },
+        {
+          "name": "Fernanda Santos",
+          "qid": "Q53871455"
+        }
+      ],
+      "premiere": {
+        "date": "2020-01-29",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "playbill": "https://playbill.com/production/americano-off-broadway-new-world-stages-stage-3-2022",
+        "official_site": "https://americanothemusical.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/%C2%A1Americano!_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q111804272"
+      },
+      "summary": {
+        "text": "¡Americano! is a musical telling based on the real-life story of Antonio (Tony) Valdovinos, a resident of the United States who learns that he is not a U.S. citizen when he tries to enlist in the U.S. Marine Corps. The script was written by Michael Barnard, Jonathan Rosenberg, and Fernanda Santos; Carrie Rodriguez composed the music. Barnard, Rosenberg, Santos and Rodriguez are credited together as lyricists.",
+        "source_url": "https://en.wikipedia.org/wiki/%C2%A1Americano!_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "beyond-the-fringe": {
+      "slug": "beyond-the-fringe",
+      "title": "Beyond the Fringe",
+      "qid": "Q4900133",
+      "enwiki": "Beyond the Fringe",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": "Royal Lyceum Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1991",
+        "wikipedia": "https://en.wikipedia.org/wiki/Beyond_the_Fringe",
+        "wikidata": "https://www.wikidata.org/wiki/Q4900133"
+      },
+      "summary": {
+        "text": "Beyond the Fringe is a British comedy stage revue written and performed by Alan Bennett, Peter Cook, Jonathan Miller and Dudley Moore. It debuted at the 1960 Edinburgh Festival and went on to play in London's West End and then in America, both on tour and on New York's Broadway in the early 1960s. Hugely successful, it is widely regarded as central to the \"satire boom\", the rise of satirical comedy in 1960s Britain.",
+        "source_url": "https://en.wikipedia.org/wiki/Beyond_the_Fringe",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "carib-song": {
+      "slug": "carib-song",
+      "title": "Carib Song",
+      "qid": "Q119039684",
+      "enwiki": "Carib Song",
+      "composers": [
+        {
+          "name": "Baldwin Bergersen",
+          "qid": "Q113866300",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4410"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "William Archibald",
+          "qid": "Q15053848",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9094"
+        }
+      ],
+      "premiere": {
+        "date": "1945-09-27",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Carib_Song",
+        "wikidata": "https://www.wikidata.org/wiki/Q119039684"
+      },
+      "summary": {
+        "text": "Carib Song is a 1945 Broadway musical with book and lyrics by William Archibald and music by Baldwin Bergersen. It opened at the Adelphi Theatre on September 27, 1945, and closed on October 27 after 36 performances. It was billed as \"A Musical Play of the West Indies in Two Acts and Thirteen Scenes\". The show focuses heavily on \"Trinidadian folklore, ritual, and ethnographic dance\".",
+        "source_url": "https://en.wikipedia.org/wiki/Carib_Song",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "doctor-dolittle": {
+      "slug": "doctor-dolittle",
+      "title": "Doctor Dolittle",
+      "qid": "Q29017615",
+      "enwiki": "Doctor Dolittle (musical)",
+      "composers": [
+        {
+          "name": "Leslie Bricusse",
+          "qid": "Q1305608",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11429"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Leslie Bricusse",
+          "qid": "Q1305608",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11429"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Leslie Bricusse",
+          "qid": "Q1305608",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11429"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/507413",
+        "wikipedia": "https://en.wikipedia.org/wiki/Doctor_Dolittle_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q29017615"
+      },
+      "summary": {
+        "text": "Doctor Dolittle is a stage musical with book, music and lyrics by Leslie Bricusse, based on the 1967 movie of the same name and the children's stories by Hugh Lofting about the adventures of a doctor who learns to speak the language of various animals and treats them as patients. The musical features the same songs as the film (which starred Rex Harrison, Samantha Eggar, Anthony Newley and Richard Attenborough), including the Academy Award-winning \"Talk to the Animals\".\nThe musical made its world premiere in London at the Hammersmith Apollo in 1998, followed by tours of the UK and US.",
+        "source_url": "https://en.wikipedia.org/wiki/Doctor_Dolittle_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "galatea-or-pygmalion-reversed": {
+      "slug": "galatea-or-pygmalion-reversed",
+      "title": "Galatea, or Pygmalion Reversed",
+      "qid": "Q5518033",
+      "enwiki": "Galatea, or Pygmalion Reversed",
+      "composers": [
+        {
+          "name": "Meyer Lutz",
+          "qid": "Q6826428",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/409752"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Galatea%2C_or_Pygmalion_Reversed",
+        "wikidata": "https://www.wikidata.org/wiki/Q5518033"
+      },
+      "summary": {
+        "text": "Galatea, or Pygmalion Re-Versed is a musical burlesque that parodies the Pygmalion legend, and specifically W. S. Gilbert's 1871 play Pygmalion and Galatea.  The libretto was written by Henry Pottinger Stephens and W. Webster.  The score was composed by Wilhelm Meyer Lutz.\nThe work premiered at the Gaiety Theatre, London on 26 December 1883, closing on 30 January 1884 after 37 performances. It starred Nellie Farren and Edward Terry.",
+        "source_url": "https://en.wikipedia.org/wiki/Galatea%2C_or_Pygmalion_Reversed",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "go-bang": {
+      "slug": "go-bang",
+      "title": "Go-Bang",
+      "qid": "Q5574561",
+      "enwiki": "Go-Bang",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Go-Bang",
+        "wikidata": "https://www.wikidata.org/wiki/Q5574561"
+      },
+      "summary": {
+        "text": "Go-Bang is an English musical comedy with words by Adrian Ross and music by F. Osmond Carr.\nThe piece was produced by Fred Harris and opened at the Trafalgar Square Theatre on 10 March 1894. It ran for 159 performances. The show starred Harry Grattan, George Grossmith, Jr., Arthur Playfair, Jessie Bond, and dancer Letty Lind. The American child prodigy \"Baby Costello\" danced in the interval between acts.  Whereas Ross generally acted as lyricist only, in this case he created the book as well as the lyrics.",
+        "source_url": "https://en.wikipedia.org/wiki/Go-Bang",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "grumpy-old-men": {
+      "slug": "grumpy-old-men",
+      "title": "Grumpy Old Men",
+      "qid": "Q85764696",
+      "enwiki": "Grumpy Old Men (musical)",
+      "composers": [
+        {
+          "name": "Neil Berg",
+          "qid": "Q6988288"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Nick Meglin",
+          "qid": "Q7027538"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Dan Remmes",
+          "qid": "Q5214270"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Grumpy_Old_Men_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q85764696"
+      },
+      "summary": {
+        "text": "Grumpy Old Men: The Musical is a stage musical with book by Dan Remmes songs composed by Neil Berg and lyrics by Nick Meglin. The music was orchestrated by Larry Hochman with additional orchestrations by Phil Reno. It is based on the 1993 Warner Bros. film Grumpy Old Men by Mark Steven Johnson which starred Jack Lemmon, Walter Matthau and Ann-Margret.  It tells the story of two childhood friends, John Gustafson and Max Goldman, now aging neighbors.  An old grudge resurfaces when a mysterious woman moves in across the street.\nThe musical premiered in the United States at the storied Ogunquit Playhouse in Ogunquit, Maine in 2018. Its West Coast premiere was in Southern California at the La Mirada Theatre for the Performing Arts in 2019. Both premiere productions were directed by Matt Lenz and choreographed by Michele Lynch.",
+        "source_url": "https://en.wikipedia.org/wiki/Grumpy_Old_Men_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "halbwelt-kultur": {
+      "slug": "halbwelt-kultur",
+      "title": "Halbwelt Kultur",
+      "qid": "Q16983100",
+      "enwiki": "Halbwelt Kultur",
+      "composers": [
+        {
+          "name": "Kurt Weill",
+          "qid": "Q55004",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7112"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Halbwelt_Kultur",
+        "wikidata": "https://www.wikidata.org/wiki/Q16983100"
+      },
+      "summary": {
+        "text": "Halbwelt Kultur is a 2012 musical cabaret based on the lives of seven highly influential women of the Weimar Republic.\nAn original concept by Patrick Kennedy, the show was devised by PK Productions and includes music by Hans Eisler, Bertolt Brecht, Friedrich Hollaender, Mischa Spoliansky and Fats Waller. The 2012 Churchill Theatre Bromley Cabaret VIP pre-show production became a hit and spawned a seven cast strong production premiering at the New Wimbledon Theatre in April 2013.\nThe show presents snapshot vignettes of the women set against the sound of the period's finest songs and the backdrop of the rise of World War II. It is based on verbatim interviews and accounts of the period and is a series of Brechtian vignettes magnifying the personalities of the women's lives.  Each vignette is framed with a famous song from the period and describes the rise to success of the women and the ultimate fleeing from Berlin due to the growing threat of Nazism.",
+        "source_url": "https://en.wikipedia.org/wiki/Halbwelt_Kultur",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "happy-town": {
+      "slug": "happy-town",
+      "title": "Happy Town",
+      "qid": "Q18151346",
+      "enwiki": "Happy Town (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4210",
+        "wikipedia": "https://en.wikipedia.org/wiki/Happy_Town_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q18151346"
+      },
+      "summary": {
+        "text": "Happy Town is a musical comedy that opened on Broadway October 7, 1959 and closed October 10, 1959 after only five performances. The music was by Gordon Duffy, lyrics by Harry Haldane, and book by Max Hampton, with additional songs by Paul Nassau.\nThe show starred Cindy Robbins, Biff McGuire, Ton Williams, Lee Venora, Chester Watson, and Michael Kermoyan and was about the only town in Texas that did not have a millionaire in residence.\nThe production was directed by Alan Buchrantz and choreographed by Lee Scott. Other credits went to Curt Nations for scenic design, Michael Travis for costumes, and Paul More for lighting. \nThe musical was poorly received. Brooks Atkinson of The New York Times wrote in his review, \"'Happy Town' is profoundly uninteresting. No one can beat pleasure into it.\" Thomas R. Dash, of Women's Wear Daily, wrote, \"The nadir of Broadway musicals of the recent past has been attained by Portofino and Buttrio Square. They can now move over and leave room for Happy Town.\" In 1991, Ken Mandelbaum wrote about Happy Town, \"There have been camp flops since, but perhaps none as completely without merit or reason for being.\" The show received one Tony Award nomination for Best Choreography.",
+        "source_url": "https://en.wikipedia.org/wiki/Happy_Town_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "into-the-light": {
+      "slug": "into-the-light",
+      "title": "Into the Light",
+      "qid": "Q19876466",
+      "enwiki": "Into the Light (musical)",
+      "composers": [
+        {
+          "name": "Lee Holdridge",
+          "qid": "Q1449569",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11871"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": "Neil Simon Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4751",
+        "wikipedia": "https://en.wikipedia.org/wiki/Into_the_Light_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q19876466"
+      },
+      "summary": {
+        "text": "Into the Light is a short-lived musical about a physicist who attempts to determine the truth behind the Shroud of Turin. His quest for the truth eventually takes a toll on his relationships with his wife and son.",
+        "source_url": "https://en.wikipedia.org/wiki/Into_the_Light_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "la-strada": {
+      "slug": "la-strada",
+      "title": "La Strada",
+      "qid": "Q6465330",
+      "enwiki": "La Strada (musical)",
+      "composers": [
+        {
+          "name": "Lionel Bart",
+          "qid": "Q326299",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7347"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Lionel Bart",
+          "qid": "Q326299",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7347"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8332",
+        "wikipedia": "https://en.wikipedia.org/wiki/La_Strada_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6465330"
+      },
+      "summary": {
+        "text": "La Strada is a musical with lyrics and music by Lionel Bart, with additional lyrics by Martin Charnin and additional music by Elliot Lawrence. It is based on the 1954 film of the same name by Federico Fellini, Tullio Pinelli and Ennio Flaiano. Bart wrote the score in 1967 and made a demonstration recording, although the musical was not produced until 1969, when it was famously cancelled after just one performance.  The musical's book was written by Charles K. Peck, Jr., who also produced it on Broadway.",
+        "source_url": "https://en.wikipedia.org/wiki/La_Strada_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "on-a-clear-day-you-can-see-forever": {
+      "slug": "on-a-clear-day-you-can-see-forever",
+      "title": "On a Clear Day You Can See Forever",
+      "qid": "Q10340884",
+      "enwiki": "On a Clear Day You Can See Forever",
+      "composers": [
+        {
+          "name": "Burton Lane",
+          "qid": "Q364143",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12021"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Alan Jay Lerner",
+          "qid": "Q961893",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3945"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Alan Jay Lerner",
+          "qid": "Q961893",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3945"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6742",
+        "wikipedia": "https://en.wikipedia.org/wiki/On_a_Clear_Day_You_Can_See_Forever",
+        "wikidata": "https://www.wikidata.org/wiki/Q10340884"
+      },
+      "summary": {
+        "text": "On a Clear Day You Can See Forever is a musical with music by Burton Lane and a book and lyrics by Alan Jay Lerner based loosely on the play Berkeley Square, written in 1926 by John L. Balderston.  It concerns a woman who has ESP and has been reincarnated. The musical received three Tony Award nominations.",
+        "source_url": "https://en.wikipedia.org/wiki/On_a_Clear_Day_You_Can_See_Forever",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "opening-night": {
+      "slug": "opening-night",
+      "title": "Opening Night",
+      "qid": "Q123569474",
+      "enwiki": "Opening Night (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Opening_Night_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q123569474"
+      },
+      "summary": {
+        "text": "Opening Night is a stage musical with music and lyrics by Rufus Wainwright and conceived and book by Ivo van Hove. It is based on the 1977 film of the same name by John Cassavetes, which van Hove has also previously adapted as a play in 2005.",
+        "source_url": "https://en.wikipedia.org/wiki/Opening_Night_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "salvation": {
+      "slug": "salvation",
+      "title": "Salvation",
+      "qid": "Q7406588",
+      "enwiki": "Salvation (musical)",
+      "composers": [
+        {
+          "name": "Peter Link",
+          "qid": "Q7175474",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12064"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Peter Link",
+          "qid": "Q7175474",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12064"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Peter Link",
+          "qid": "Q7175474",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12064"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Salvation_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7406588"
+      },
+      "summary": {
+        "text": "Salvation is a 1969 off-Broadway rock musical with music, lyrics, and book by Peter Link & C.C. Courtney.  The production opened on September 24, 1969, at the Jan Hus Playhouse and ended on April 19, 1970, after 239 performances.",
+        "source_url": "https://en.wikipedia.org/wiki/Salvation_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "spring-awakening": {
+      "slug": "spring-awakening",
+      "title": "Spring Awakening",
+      "qid": "Q579927",
+      "enwiki": "Spring Awakening (musical)",
+      "composers": [
+        {
+          "name": "Duncan Sheik",
+          "qid": "Q1265451",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/448812"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Steven Sater",
+          "qid": "Q3973444",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/448813"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Steven Sater",
+          "qid": "Q3973444",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/448813"
+        }
+      ],
+      "premiere": {
+        "date": "2006-05-19",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/448809",
+        "official_site": "http://www.springawakeningthemusical.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/Spring_Awakening_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q579927"
+      },
+      "summary": {
+        "text": "Spring Awakening is a coming-of-age rock musical with music by Duncan Sheik and a book and lyrics by Steven Sater. It is based on the 1891 German play Spring Awakening by Frank Wedekind. Set in late 19th-century Germany, the musical tells the story of teenagers discovering the inner and outer tumult of adolescent sexuality. In the musical, alternative rock is employed as part of the folk-infused rock score.\nFollowing its conception in the late 1990s and various workshops, concerts, rewrites and its Off-Broadway debut, the original Broadway production of Spring Awakening opened at the Eugene O'Neill Theatre on December 10, 2006. Its cast included Jonathan Groff, Lea Michele, and John Gallagher Jr. while its creative team comprised director Michael Mayer and choreographer Bill T. Jones. The original Broadway production won eight Tony Awards, including Tonys for Best Musical, Direction, Book, Score and Featured Actor. The production also garnered four Drama Desk Awards, while its original cast album received a Grammy Award. In addition, the show was revived in 2015 on Broadway and garnered three Tony Award nominations, among other honors.\nThe success of the Broadway production has spawned several other productions worldwide, including various US productions, a West End production that won four Laurence Olivier Awards including Best New Musical, and a series of international productions. In 2022, Spring Awakening: Those You've Known, a documentary film chronicling the 15-year reunion of the original company, was released on HBO.",
+        "source_url": "https://en.wikipedia.org/wiki/Spring_Awakening_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "sunset-boulevard": {
+      "slug": "sunset-boulevard",
+      "title": "Sunset Boulevard",
+      "qid": "Q1606410",
+      "enwiki": "Sunset Boulevard (musical)",
+      "composers": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "qid": "Q180975",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12073"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Don Black",
+          "qid": "Q1238931",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5065"
+        },
+        {
+          "name": "Christopher Hampton",
+          "qid": "Q515274",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4835"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Don Black",
+          "qid": "Q1238931",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5065"
+        },
+        {
+          "name": "Christopher Hampton",
+          "qid": "Q515274",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4835"
+        }
+      ],
+      "premiere": {
+        "date": "1993-07-12",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8426",
+        "wikipedia": "https://en.wikipedia.org/wiki/Sunset_Boulevard_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1606410"
+      },
+      "summary": {
+        "text": "Sunset Boulevard is a musical with music by Andrew Lloyd Webber, and lyrics and libretto by Don Black and Christopher Hampton, based on the 1950 film. The plot follows Norma Desmond, a faded star of the silent-screen era, living in her decaying mansion on Sunset Boulevard in 1949 Los Angeles. When young screenwriter Joe Gillis accidentally crosses her path, she sees an opportunity to make her return to the big screen, with romance and tragedy to follow.\nOpening first in London in 1993, the musical has had several long runs internationally and enjoyed extensive tours. However, it has been the subject of several legal battles and ultimately lost money due to its extraordinary running costs. The 1994 Broadway production was nominated for 11 Tony Awards, winning 7, including best musical.  The 2023 West End revival was nominated for 11 Olivier Awards, winning 7, including best musical revival. The 2024 Broadway revival was nominated for 7 Tony Awards and won 3, including Best Revival of a Musical.",
+        "source_url": "https://en.wikipedia.org/wiki/Sunset_Boulevard_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-balkan-princess": {
+      "slug": "the-balkan-princess",
+      "title": "The Balkan Princess",
+      "qid": "Q7715383",
+      "enwiki": "The Balkan Princess",
+      "composers": [
+        {
+          "name": "Paul Rubens",
+          "qid": "Q2402383",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8062"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Paul Rubens",
+          "qid": "Q2402383",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8062"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Frederick Lonsdale",
+          "qid": "Q630412",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5689"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1808",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Balkan_Princess",
+        "wikidata": "https://www.wikidata.org/wiki/Q7715383"
+      },
+      "summary": {
+        "text": "The Balkan Princess is a musical in three acts by Frederick Lonsdale and Frank Curzon, with lyrics by Paul Rubens and Arthur Wimperis, and music by Paul Rubens. It opened at London's Prince of Wales Theatre on 19 February 1910. The cast included Isabel Jay and Bertram Wallis.  There was a successful Broadway run in 1911 that used a libretto by Leonard Liebling, and the show toured widely thereafter.\nThe piece contains some of Rubens's most tuneful music, and the production was mounted with spectacle in its settings, costumes and large chorus of beautiful girls.  The show was much like Lonsdale's previous success King of Cadonia, but with the sexes reversed.  Famous songs from the show included \"Wonderful World\" and \"Dear, Delightful Woman\".",
+        "source_url": "https://en.wikipedia.org/wiki/The_Balkan_Princess",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-best-little-whorehouse-in-texas": {
+      "slug": "the-best-little-whorehouse-in-texas",
+      "title": "The Best Little Whorehouse in Texas",
+      "qid": "Q11704376",
+      "enwiki": "The Best Little Whorehouse in Texas",
+      "composers": [
+        {
+          "name": "Carol Hall",
+          "qid": "Q5044354",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11810"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Peter Masterson",
+          "qid": "Q369485",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8123"
+        },
+        {
+          "name": "Larry L. King",
+          "qid": "Q6490649",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7149"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1958",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Best_Little_Whorehouse_in_Texas",
+        "wikidata": "https://www.wikidata.org/wiki/Q11704376"
+      },
+      "summary": {
+        "text": "The Best Little Whorehouse in Texas is a musical with a book by Texas author Larry L. King and Peter Masterson and music and lyrics by Carol Hall. It is based on King’s 1974 Playboy article “The Best Little Whorehouse in Texas”, on the closure of the Chicken Ranch in La Grange, Texas.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Best_Little_Whorehouse_in_Texas",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-girl-in-pink-tights": {
+      "slug": "the-girl-in-pink-tights",
+      "title": "The Girl in Pink Tights",
+      "qid": "Q3990159",
+      "enwiki": "The Girl in Pink Tights",
+      "composers": [
+        {
+          "name": "Sigmund Romberg",
+          "qid": "Q742945",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8686"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Leo Robin",
+          "qid": "Q364124",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13232"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Joseph Fields",
+          "qid": "Q1706986",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5528"
+        },
+        {
+          "name": "Jerome Chodorov",
+          "qid": "Q6182623",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6706"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3900",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Girl_in_Pink_Tights",
+        "wikidata": "https://www.wikidata.org/wiki/Q3990159"
+      },
+      "summary": {
+        "text": "The Girl in Pink Tights is a musical comedy with music by Sigmund Romberg; lyrics by Leo Robin; and a musical book by Jerome Chodorov and Joseph Fields. The musical opened on Broadway on March 5, 1954 at the Mark Hellinger Theatre where it ran for a total of 115 performances until it closed on June 12, 1954. \nThe production was produced and directed by \nShepard Traube (1907–1983), choreographed by Agnes De Mille, used set and light designs by Eldon Elder, costume designs by Miles White, and conducted by musical director Sylvan Levin. The cast was led by Charles Goldner as Maestro Gallo, Zizi Jeanmaire as Lisette Gervais, David Atkinson as Clyde Hallam, Alexandre Kalioujny as Volodya Kuzentsov, Brenda Lewis as Lotta Leslie, Robert Smith as Van Beuren, and David Aiken as Eddington.\nComposer Romberg died before completing the full score; however his frequent orchestrator, Don Walker, was able to develop some sketches and musical ideas  left of the unfinished songs.\nA planned film version was cancelled after Marilyn Monroe refused the role in defiance of her studio contract. The actress called it \"trash\" and she was also to be paid less than a third as much as her co-star, Frank Sinatra.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Girl_in_Pink_Tights",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-golden-year": {
+      "slug": "the-golden-year",
+      "title": "The Golden Year",
+      "qid": "Q28457443",
+      "enwiki": "The Golden Year (TV play)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Golden_Year_(TV_play)",
+        "wikidata": "https://www.wikidata.org/wiki/Q28457443"
+      },
+      "summary": {
+        "text": "The Golden Year is a musical play by Jack Hulbert and Barry Baker written for BBC Television, starring Hulbert with Sally Ann Howes and Peter Graves, with original music by Harry S. Pepper. It was first broadcast on 23 June and 2 July 1951. The musical is set at Hyde Park, London during the Great Exhibition of 1851.\nA contribution to the Festival of Britain, the claim was made that the play was the first musical comedy ever produced for television. The BBC Year Book commented that \"Jack Hulbert was featured in Festival style\". Filmed in black and white, the musical has a length of 104 minutes.\nJack Hulbert, Walton Anderson, Eric Robinson, Eunice Crowther, and the George Mitchell Choir had previously worked together for BBC Television on a production of Cinderella first broadcast on 27 December 1947, and most of them came together for a new Cinderella in 1950 which like The Golden Year starred Sally Ann Howes.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Golden_Year_(TV_play)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "yankee-dutch-crossing": {
+      "slug": "yankee-dutch-crossing",
+      "title": "Yankee Dutch crossing",
+      "qid": "Q96415744",
+      "enwiki": "Yankee Dutch crossing",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Yankee_Dutch_crossing",
+        "wikidata": "https://www.wikidata.org/wiki/Q96415744"
+      },
+      "summary": {
+        "text": "Yankee Dutch crossing is the name of a dance performed in a 4-by-4 square formation of 8 couples (16 dancers).  The original version, called simply Dutch Crossing, was choreographed in the English country dance style by Ernst van Brakel of the Netherlands in 1990.  In 2004, contra dance caller Joseph Pimentel modified the choreography in the American style, sometimes called Yankee Dutch crossing to distinguish it from the original. Any number of squares can perform the dance simultaneously. It is not normally found at monthly, bi-monthly or weekly dances. The most likely venues are multi-day dance weekends or weeks, where it is taught in sessions of one hour or longer.",
+        "source_url": "https://en.wikipedia.org/wiki/Yankee_Dutch_crossing",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "zombie-prom": {
+      "slug": "zombie-prom",
+      "title": "Zombie Prom",
+      "qid": "Q8073763",
+      "enwiki": "Zombie Prom",
+      "composers": [
+        {
+          "name": "Dana P. Rowe",
+          "qid": "Q5214803"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "John Dempsey",
+          "qid": "Q6229139",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/426184"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "John Dempsey",
+          "qid": "Q6229139",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/426184"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Zombie_Prom",
+        "wikidata": "https://www.wikidata.org/wiki/Q8073763"
+      },
+      "summary": {
+        "text": "Zombie Prom is an Off-Broadway musical with music by Dana P. Rowe and a book and lyrics by John Dempsey, later adapted into a short film.  It was first produced at the Red Barn Theatre, Key West, Florida in 1993.  It opened off-Broadway in New York City at the Variety Arts Theatre in 1996. It also opened November 2009 in London with a UK Premiere at the Off-West End Landor Theatre.",
+        "source_url": "https://en.wikipedia.org/wiki/Zombie_Prom",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

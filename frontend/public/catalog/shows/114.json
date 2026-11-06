@@ -1,0 +1,833 @@
+{
+  "live": true,
+  "shows": {
+    "annie": {
+      "slug": "annie",
+      "title": "Annie",
+      "qid": "Q566892",
+      "enwiki": "Annie (musical)",
+      "composers": [
+        {
+          "name": "Charles Strouse",
+          "qid": "Q2960275",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12463"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Martin Charnin",
+          "qid": "Q3295377",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7570"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Thomas Meehan",
+          "qid": "Q7792371",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8874"
+        }
+      ],
+      "premiere": {
+        "date": "1977-04-21",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1613",
+        "wikipedia": "https://en.wikipedia.org/wiki/Annie_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q566892"
+      },
+      "summary": {
+        "text": "Annie is a musical with music by Charles Strouse, lyrics by Martin Charnin, and a book by Thomas Meehan. It is based on the 1924 comic strip Little Orphan Annie by Harold Gray (which in turn was inspired from the poem Little Orphant Annie by James Whitcomb Riley). The original Broadway production opened in 1977 and ran for nearly six years, setting a record for the Alvin Theatre (now the Neil Simon Theatre). It spawned numerous productions in many countries, as well as national tours, and won seven Tony Awards, including for Best Musical. The musical's songs \"Tomorrow\" and \"It's the Hard Knock Life\" are among its most popular musical numbers.",
+        "source_url": "https://en.wikipedia.org/wiki/Annie_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "at-home-abroad": {
+      "slug": "at-home-abroad",
+      "title": "At Home Abroad",
+      "qid": "Q4812324",
+      "enwiki": "At Home Abroad",
+      "composers": [
+        {
+          "name": "Arthur Schwartz",
+          "qid": "Q711473",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4324"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Howard Dietz",
+          "qid": "Q1631780",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6363"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1727",
+        "wikipedia": "https://en.wikipedia.org/wiki/At_Home_Abroad",
+        "wikidata": "https://www.wikidata.org/wiki/Q4812324"
+      },
+      "summary": {
+        "text": "At Home Abroad is a revue with music by Arthur Schwartz and lyrics by Howard Dietz.  It introduced the songs \"Love Is a Dancing Thing\", \"What a Wonderful World\" and \"Got a Bran' New Suit\", among others.  The revue follows a bored couple who flee America and go on a musical world tour.",
+        "source_url": "https://en.wikipedia.org/wiki/At_Home_Abroad",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "billion-dollar-baby": {
+      "slug": "billion-dollar-baby",
+      "title": "Billion Dollar Baby",
+      "qid": "Q4911989",
+      "enwiki": "Billion Dollar Baby",
+      "composers": [
+        {
+          "name": "Morton Gould",
+          "qid": "Q1352656",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11772"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Betty Comden",
+          "qid": "Q175078",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4525"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Betty Comden",
+          "qid": "Q175078",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4525"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2025",
+        "wikipedia": "https://en.wikipedia.org/wiki/Billion_Dollar_Baby",
+        "wikidata": "https://www.wikidata.org/wiki/Q4911989"
+      },
+      "summary": {
+        "text": "Billion Dollar Baby is a musical with the book and lyrics by Betty Comden and Adolph Green and the score by Morton Gould. Comden and Green were fresh from their success with On the Town, and the production team was something of an On the Town reunion: once again, George Abbott directed and Jerome Robbins choreographed.\nThe musical is set on Staten Island and in Atlantic City during the late 1920s.  It follows the adventures of an ambitious young woman, Maribelle Jones, in her quest for wealth during the Prohibition era.",
+        "source_url": "https://en.wikipedia.org/wiki/Billion_Dollar_Baby",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "billy-elliot-the-musical": {
+      "slug": "billy-elliot-the-musical",
+      "title": "Billy Elliot the Musical",
+      "qid": "Q2771",
+      "enwiki": "Billy Elliot the Musical",
+      "composers": [
+        {
+          "name": "Elton John",
+          "qid": "Q2808",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11938"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Lee Hall",
+          "qid": "Q1811812",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/475122"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Lee Hall",
+          "qid": "Q1811812",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/475122"
+        }
+      ],
+      "premiere": {
+        "date": "2005-03-31",
+        "venue": "Victoria Palace Theatre"
+      },
+      "awards": [
+        {
+          "name": "Laurence Olivier Awards",
+          "qid": "Q28470"
+        }
+      ],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/475106",
+        "official_site": "http://billyelliotthemusical.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/Billy_Elliot_the_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q2771"
+      },
+      "summary": {
+        "text": "Billy Elliot the Musical is a coming-of-age stage musical based on the 2000 film of the same name. The music is by Elton John, and the book and lyrics are by Lee Hall, who wrote the film's screenplay. The plot revolves around Billy Elliot, a motherless British boy who begins taking ballet lessons. The story of his personal struggle and fulfillment is balanced against a counter-story of family and community strife caused by the 1984–1985 miners' strike in County Durham, in North East England. Hall's screenplay was inspired in part by A. J. Cronin's 1935 novel about a miners' strike, The Stars Look Down, to which the musical's opening song pays homage.\nThe musical premiered at the Victoria Palace Theatre in London's West End in 2005 and ran through April 2016. The production was nominated for nine Laurence Olivier Awards and won four, including Best New Musical. Its success led to productions—on Broadway, in Australia, and in numerous other countries. The New York production won ten Tony Awards and ten Drama Desk Awards, including, in each case, Best Musical. The production in Australia also won numerous awards, including a record-tying seven Helpmann Awards.\nA live recording of the musical was released on DVD and Blu-ray in the UK on 24 November 2014.",
+        "source_url": "https://en.wikipedia.org/wiki/Billy_Elliot_the_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "come-fly-away": {
+      "slug": "come-fly-away",
+      "title": "Come Fly Away",
+      "qid": "Q5151145",
+      "enwiki": "Come Fly Away",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Twyla Tharp",
+          "qid": "Q454336",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/16324"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/485556",
+        "official_site": "http://www.comeflyaway.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/Come_Fly_Away",
+        "wikidata": "https://www.wikidata.org/wiki/Q5151145"
+      },
+      "summary": {
+        "text": "Come Fly Away is a dance revue conceived, directed and choreographed by Twyla Tharp, around the songs of Frank Sinatra.  The musical, set in a New York City nightclub, follows four couples as they look for love.\nIt premiered on Broadway in March 2010 after tryouts in Atlanta and has received mostly warm reviews.",
+        "source_url": "https://en.wikipedia.org/wiki/Come_Fly_Away",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "dancin": {
+      "slug": "dancin",
+      "title": "Dancin'",
+      "qid": "Q5215434",
+      "enwiki": "Dancin'",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2905",
+        "wikipedia": "https://en.wikipedia.org/wiki/Dancin'",
+        "wikidata": "https://www.wikidata.org/wiki/Q5215434"
+      },
+      "summary": {
+        "text": "Dancin' is a musical revue created, directed, and choreographed by Bob Fosse and originally produced on Broadway in 1978. The plotless, dance-driven revue is a tribute to the art of dance, matched with a wide variety of music styles, from classical to jazz to American pop songs. The original production received seven 1978 Tony Award nominations, with Fosse winning for best choreography.\nOriginal cast member Wayne Cilento helmed the first Broadway revival in 2023.",
+        "source_url": "https://en.wikipedia.org/wiki/Dancin'",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "fantastic-mr-fox": {
+      "slug": "fantastic-mr-fox",
+      "title": "Fantastic Mr Fox",
+      "qid": "Q28452408",
+      "enwiki": "Fantastic Mr Fox (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Fantastic_Mr_Fox_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q28452408"
+      },
+      "summary": {
+        "text": "Fantastic Mr Fox is a musical stage adaptation of the children's novel of the same name by Roald Dahl, adapted by Sam Holcroft with music by Arthur Darvill and lyrics by Holcroft, Darvill, Darren Clark and Al Muriel. The story follows Mr Fox who hatches a plan to outsmart his three farmer neighbours in order to feed his family and friends.",
+        "source_url": "https://en.wikipedia.org/wiki/Fantastic_Mr_Fox_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "giant-green-lizard-the-musical": {
+      "slug": "giant-green-lizard-the-musical",
+      "title": "Giant Green Lizard! The Musical",
+      "qid": "Q5558372",
+      "enwiki": "Giant Green Lizard! The Musical",
+      "composers": [
+        {
+          "name": "Jeremy Gable",
+          "qid": "Q16221741"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Jeremy Gable",
+          "qid": "Q16221741"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Jeremy Gable",
+          "qid": "Q16221741"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Giant_Green_Lizard!_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q5558372"
+      },
+      "summary": {
+        "text": "Jeremy Joseph Gable (born May 10, 1982) is an American playwright and game designer living in Philadelphia.",
+        "source_url": "https://en.wikipedia.org/wiki/Giant_Green_Lizard!_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "giuditta": {
+      "slug": "giuditta",
+      "title": "Giuditta",
+      "qid": "Q1527855",
+      "enwiki": "Giuditta",
+      "composers": [
+        {
+          "name": "Franz Lehár",
+          "qid": "Q191917",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5647"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Fritz Löhner-Beda",
+          "qid": "Q114336",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/118569"
+        },
+        {
+          "name": "Franz Lehár",
+          "qid": "Q191917",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5647"
+        },
+        {
+          "name": "Paul Knepler",
+          "qid": "Q2060650",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11045"
+        }
+      ],
+      "premiere": {
+        "date": "1934-01-20",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Giuditta",
+        "wikidata": "https://www.wikidata.org/wiki/Q1527855"
+      },
+      "summary": {
+        "text": "Giuditta is an operatic musikalische Komödie (German for musical comedy) in five scenes, with music by Franz Lehár and a German libretto, by Paul Knepler and Fritz Löhner-Beda. Scored for a large orchestra, it was Lehár's last and most ambitious work, written on a larger scale than his previous operettas. Of all his works it is the one which most approaches true opera, the resemblances between the story and that of Bizet's Carmen and its unhappy ending heightening the resonances. Perhaps the best known song in the work is the soprano aria \"Meine Lippen, sie küssen so heiß\", sung by Giuditta in the fourth scene. Another strong influence, especially for the North African setting, was the 1930 movie Morocco, starring Marlene Dietrich and Gary Cooper in very similar central roles, she being a singer-dancer, he being a soldier.",
+        "source_url": "https://en.wikipedia.org/wiki/Giuditta",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "hold-everything": {
+      "slug": "hold-everything",
+      "title": "Hold Everything!",
+      "qid": "Q5879111",
+      "enwiki": "Hold Everything!",
+      "composers": [
+        {
+          "name": "Ray Henderson",
+          "qid": "Q1980821",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8253"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Lew Brown",
+          "qid": "Q4096110",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7310"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Jack McGowan",
+          "qid": "Q16749832",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6549"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4445",
+        "wikipedia": "https://en.wikipedia.org/wiki/Hold_Everything!",
+        "wikidata": "https://www.wikidata.org/wiki/Q5879111"
+      },
+      "summary": {
+        "text": "Hold Everything! is a musical comedy with lyrics by Lew Brown and B. G. de Sylva, music by Ray Henderson, and has an accompanying book by John McGowan and B. G. de Sylva. A musical about professional boxing, the work's central character is welterweight Sonny Jim Brooks. The musical takes place at \"Pop\" O'Keefe's Training Camp on Long Island; at the Hotel Wood; and at Madison Square Garden, New York.\nProduced by Alex A. Aarons and Vinton Freedley, the Broadway production opened on 10 October 1928 at the Broadhurst Theatre for a total run of 409 performances. The cast included Jack Whiting as Sonny Jim Brooks, Bert Lahr as Brooks' sidekick, Gink Schiner; Ona Munson as Brooks' love interest, Sue Burke; Betty Compton as high society dame and villainess Norine Lloyd, Edmund Elton as \"Pop\" O'Keefe, and Victor Moore as \"Nosey\" Bartlett.\nBert Lahr had a critical triumph with this production which made him a star. The most famous song from the show is \"You're the Cream in My Coffee\". In 1930, Warner Bros. Pictures produced a movie version Hold Everything filmed entirely in Technicolor, however, only the soundtrack survives.",
+        "source_url": "https://en.wikipedia.org/wiki/Hold_Everything!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "hooray-for-what": {
+      "slug": "hooray-for-what",
+      "title": "Hooray for What!",
+      "qid": "Q5898497",
+      "enwiki": "Hooray for What!",
+      "composers": [
+        {
+          "name": "Harold Arlen",
+          "qid": "Q448644",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11319"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Yip Harburg",
+          "qid": "Q1273621",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5177"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Howard Lindsay",
+          "qid": "Q1374517",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6373"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4487",
+        "wikipedia": "https://en.wikipedia.org/wiki/Hooray_for_What!",
+        "wikidata": "https://www.wikidata.org/wiki/Q5898497"
+      },
+      "summary": {
+        "text": "Hooray for What! is an anti-war musical with music by Harold Arlen, lyrics by  E. Y. Harburg and a book by Howard Lindsay and Russel Crouse. It introduced the song \"Down With Love\".",
+        "source_url": "https://en.wikipedia.org/wiki/Hooray_for_What!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "it-shoulda-been-you": {
+      "slug": "it-shoulda-been-you",
+      "title": "It Shoulda Been You",
+      "qid": "Q20647494",
+      "enwiki": "It Shoulda Been You",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Brian Hargrove",
+          "qid": "Q4963952",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/498637"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/498635",
+        "official_site": "http://www.itshouldabeenyou.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/It_Shoulda_Been_You",
+        "wikidata": "https://www.wikidata.org/wiki/Q20647494"
+      },
+      "summary": {
+        "text": "It Shoulda Been You is a musical with music by Barbara Anselmi and book and lyrics by Brian Hargrove. The musical ran on Broadway from March 17, 2015 (previews) to August 9, 2015. The musical involves a wedding which brings together the families who are quite, and comically, different.",
+        "source_url": "https://en.wikipedia.org/wiki/It_Shoulda_Been_You",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "mozart": {
+      "slug": "mozart",
+      "title": "Mozart!",
+      "qid": "Q1000168",
+      "enwiki": "Mozart!",
+      "composers": [
+        {
+          "name": "Sylvester Levay",
+          "qid": "Q694658"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Michael Kunze",
+          "qid": "Q69773",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/87962"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Michael Kunze",
+          "qid": "Q69773",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/87962"
+        }
+      ],
+      "premiere": {
+        "date": "1999-10-02",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Mozart!",
+        "wikidata": "https://www.wikidata.org/wiki/Q1000168"
+      },
+      "summary": {
+        "text": "Mozart! is an Austrian musical, originally written in German. The original book and lyrics were written by Michael Kunze and the music and arrangements were composed by Sylvester Levay. The show reinterprets the life of the famous composer Wolfgang Amadeus Mozart. It presents him as a complex figure shaped by both extraordinary genius and personal struggle.\nThe original production was directed by the opera director Harry Kupfer. It premiered on October 2, 1999, in the Theater an der Wien, and the final performance was on 7 May 2001. It ran for 419 performances, showing to approximately 420,000 patrons.",
+        "source_url": "https://en.wikipedia.org/wiki/Mozart!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "o-mon-bel-inconnu": {
+      "slug": "o-mon-bel-inconnu",
+      "title": "Ô mon bel inconnu",
+      "qid": "Q82362449",
+      "enwiki": "Ô mon bel inconnu",
+      "composers": [
+        {
+          "name": "Reynaldo Hahn",
+          "qid": "Q432938",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11805"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Sacha Guitry",
+          "qid": "Q337276",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8565"
+        }
+      ],
+      "premiere": {
+        "date": "1933-10-05",
+        "venue": "Théâtre des Bouffes-Parisiens"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/%C3%94_mon_bel_inconnu",
+        "wikidata": "https://www.wikidata.org/wiki/Q82362449"
+      },
+      "summary": {
+        "text": "Ô mon bel inconnu  is a comédie musicale in three acts (four tableaux) composed by Reynaldo Hahn with a libretto by Sacha Guitry. It was first staged at the Théâtre des Bouffes-Parisiens in Paris in 1933. The plot concerns the wife, daughter and maid of a Parisian hatter, who all reply to his 'lonely heart' advert, and takes place in Paris and Biarritz.",
+        "source_url": "https://en.wikipedia.org/wiki/%C3%94_mon_bel_inconnu",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "sherwoodstock": {
+      "slug": "sherwoodstock",
+      "title": "SherWoodstock",
+      "qid": "Q104792054",
+      "enwiki": "SherWoodstock",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/SherWoodstock",
+        "wikidata": "https://www.wikidata.org/wiki/Q104792054"
+      },
+      "summary": {
+        "text": "SherWoodstock: The Real Legend of Rockin' Robin Hood is a satirical theatre production originally performed at the Lyric Theatre in Brisbane on 12-25 January 1990. 18,000 people attended the production which raised $100,000 for the Queensland Spastic Welfare League. The executive producer and music director was David Pyle and the director was Sean Mee. The production featured more than 200 performers on stage and a 20-piece rock band. SherWoodstock was \"described as a cross between The Secret Policeman's Ball, a Live Aid concert and Black Adder.",
+        "source_url": "https://en.wikipedia.org/wiki/SherWoodstock",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "soon": {
+      "slug": "soon",
+      "title": "Soon",
+      "qid": "Q7562681",
+      "enwiki": "Soon (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Martin Duberman",
+          "qid": "Q1372878",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7566"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8188",
+        "wikipedia": "https://en.wikipedia.org/wiki/Soon_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7562681"
+      },
+      "summary": {
+        "text": "Soon is a rock opera with music by Joseph M. Kookoolis and Scott Fagan, lyrics by Fagan, and a book by Scott Fagan and Joe Kookoolis and Robert Greenwald. It is based on a story by Fagan and Kookoolis.\nThe story is about a group of young musicians who achieve success in New York City, but pay the price. It was an attack on the record industry, which apparently caused Fagan and Kookoolis to be blacklisted.",
+        "source_url": "https://en.wikipedia.org/wiki/Soon_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "that-ll-be-the-day": {
+      "slug": "that-ll-be-the-day",
+      "title": "That'll Be the Day",
+      "qid": "Q17059883",
+      "enwiki": "That'll Be the Day (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/That'll_Be_the_Day_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q17059883"
+      },
+      "summary": {
+        "text": "That'll Be the Day (abbreviated as TBTD) is a touring rock 'n' roll variety show playing theatres and concert halls throughout the United Kingdom. That'll Be the Day was first performed in 1986 and spuriously claims to be the longest running rock 'n' roll show in the UK. Since its creation, That'll Be the Day has been written, directed and produced by Trevor Payne, who also performs in the show.",
+        "source_url": "https://en.wikipedia.org/wiki/That'll_Be_the_Day_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-little-big-things": {
+      "slug": "the-little-big-things",
+      "title": "The Little Big Things",
+      "qid": "Q122662644",
+      "enwiki": "The Little Big Things (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Laurence Olivier Awards",
+          "qid": "Q28470"
+        }
+      ],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Little_Big_Things_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q122662644"
+      },
+      "summary": {
+        "text": "The Little Big Things is a musical with music by Nick Butcher, lyrics by Nick Butcher and Tom Ling and a book by Joe White, based on the Sunday Times best selling memoir of the same name by Henry Fraser. The show received three Laurence Olivier Award nominations, including Best New Musical and won Best Actress in a Supporting Role in a Musical for Amy Trigg.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Little_Big_Things_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-most-happy-fella": {
+      "slug": "the-most-happy-fella",
+      "title": "The Most Happy Fella",
+      "qid": "Q7752369",
+      "enwiki": "The Most Happy Fella",
+      "composers": [
+        {
+          "name": "Frank Loesser",
+          "qid": "Q966018",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5613"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Frank Loesser",
+          "qid": "Q966018",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5613"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6249",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Most_Happy_Fella",
+        "wikidata": "https://www.wikidata.org/wiki/Q7752369"
+      },
+      "summary": {
+        "text": "The Most Happy Fella is a 1956 musical with a book, music, and lyrics by Frank Loesser. The story, about a romance between an older man and younger woman, is based on the 1924 play They Knew What They Wanted by Sidney Howard. The show is described by some theatre historians and critics as operatic. The original Broadway production ran for 14 months and it has enjoyed several revivals, including one staged by the New York City Opera.\nIt was broadcast in a live telecast of The Ed Sullivan Show on Sunday, October 28, 1956, the night of Elvis Presley's second appearance on that show. That broadcast was seen in some 168 stations in North America and garnered a 34.6 rating, a 57% share, with an estimated audience of 56.5 million viewers.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Most_Happy_Fella",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-office-a-musical-parody": {
+      "slug": "the-office-a-musical-parody",
+      "title": "The Office! A Musical Parody",
+      "qid": "Q115802626",
+      "enwiki": "The Office! A Musical Parody",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Office!_A_Musical_Parody",
+        "wikidata": "https://www.wikidata.org/wiki/Q115802626"
+      },
+      "summary": {
+        "text": "The Office! A Musical Parody is a musical with book and lyrics by Bob and Tobly McSmith, and music by Assaf Gleizner. It is a parody of the popular American television show The Office.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Office!_A_Musical_Parody",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-young-messiah": {
+      "slug": "the-young-messiah",
+      "title": "The Young Messiah",
+      "qid": "Q7776781",
+      "enwiki": "The Young Messiah (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Young_Messiah_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7776781"
+      },
+      "summary": {
+        "text": "The Young Messiah is a 1982 musical production of a modern adaptation of George Frideric Handel's 1741 oratorio Messiah, It was arranged by Tom Parker, and featured vocals by Labi Siffre, Madeline Bell and Vicki Brown. A later version was produced and arranged by Frank McNamara, who also conducted the orchestra and chorus. The cast included Gladys Knight, Chaka Khan, Roger Daltrey, Jeffrey Osborne, the Irish Philharmonic Orchestra & Choir and the Visual Ministry Gospel Choir. The production included a narration, Beware of False Prophets, which was written by Frank McGuinness and performed by Aidan Quinn. The music integrates gospel, rock and soul sounds.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Young_Messiah_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "toy-story-the-musical": {
+      "slug": "toy-story-the-musical",
+      "title": "Toy Story: The Musical",
+      "qid": "Q3536022",
+      "enwiki": "Toy Story: The Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Mindi Dickstein",
+          "qid": "Q16079665",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/386280"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Toy_Story%3A_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q3536022"
+      },
+      "summary": {
+        "text": "Toy Story: The Musical is a musical based on Disney·Pixar's 1995 animated film Toy Story. The show was created by Walt Disney Creative Entertainment for Disney Cruise Line, replacing the earlier Hercules: The Muse-Ical. After a year of pre-production and workshops, it had a soft premiere on board the Disney Wonder in March 2008, with an official opening on April 10, 2008. The show was performed in the Walt Disney Theatre, the grand showplace located on Deck 4. \nA land debut was planned in the Hyperion Theater at Disney California Adventure, however the plans were later removed. The musical spectacular for Frozen replaced plans for Toy Story at the Hyperion Theater starting on May 27, 2016. \nThe show was directed by Los Angeles-based director, Stefan Novinski, and choreographed by New York-based choreographer, Warren Adams. Throughout the 55-minute musical, there are 6 original songs, written by Valerie Vigoda and Brendan Milburn. It also features one song from the original soundtrack of the animated feature, \"You've Got a Friend in Me\", written by Randy Newman. Music direction and arranging was handled by Los Angeles-based music director, David O. The book was written by New York-based lyricist, Mindi Dickstein, who penned the lyrics for the Little Women musical on Broadway. Sets were designed by Los Angeles-based set designer, Sibyl Wickersheimer, costumes were created by Los Angeles-based avant garde costumer, Ann Closs-Farley, lighting was designed by New York-based designer, Jason Kantrowitz, and sound design was by Los Angeles-based designer Drew Dalzell.\nToy Story: The Musical follows the film's storyline, with certain theatrical liberties taken.",
+        "source_url": "https://en.wikipedia.org/wiki/Toy_Story%3A_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "victory-canteen": {
+      "slug": "victory-canteen",
+      "title": "Victory Canteen",
+      "qid": "Q7927475",
+      "enwiki": "Victory Canteen",
+      "composers": [
+        {
+          "name": "Richard M. Sherman",
+          "qid": "Q2318968",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12396"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Richard M. Sherman",
+          "qid": "Q2318968",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12396"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Milt Larsen",
+          "qid": "Q6860816"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Victory_Canteen",
+        "wikidata": "https://www.wikidata.org/wiki/Q7927475"
+      },
+      "summary": {
+        "text": "Victory Canteen is a musical with book by Milt Larsen and Bobby Lauher and music and lyrics by Richard M. Sherman and Robert B. Sherman.",
+        "source_url": "https://en.wikipedia.org/wiki/Victory_Canteen",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "violet": {
+      "slug": "violet",
+      "title": "Violet",
+      "qid": "Q7933209",
+      "enwiki": "Violet (musical)",
+      "composers": [
+        {
+          "name": "Jeanine Tesori",
+          "qid": "Q16194364",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12488"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/495829",
+        "wikipedia": "https://en.wikipedia.org/wiki/Violet_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7933209"
+      },
+      "summary": {
+        "text": "Violet is a musical with music by Jeanine Tesori and libretto by Brian Crawley based on the short story \"The Ugliest Pilgrim\" by Doris Betts. It tells the story of a young disfigured woman who embarks on a journey by bus from her farm in Spruce Pine, North Carolina, all the way to Tulsa, Oklahoma in order to be healed.  The musical premiered Off-Broadway in 1997 and won the Drama Critics' Circle Award and Lucille Lortel Award as Best Musical.",
+        "source_url": "https://en.wikipedia.org/wiki/Violet_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

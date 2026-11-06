@@ -1,0 +1,683 @@
+{
+  "live": true,
+  "shows": {
+    "a-stoop-on-orchard-street": {
+      "slug": "a-stoop-on-orchard-street",
+      "title": "A Stoop on Orchard Street",
+      "qid": "Q4659811",
+      "enwiki": "A Stoop on Orchard Street",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Stoop_on_Orchard_Street",
+        "wikidata": "https://www.wikidata.org/wiki/Q4659811"
+      },
+      "summary": {
+        "text": "A Stoop on Orchard Street is a musical by Jay Kholos.  The story, inspired by a visit to the Lower East Side Tenement Museum, is a nostalgic look at the year 1910.  The musical premiered Off-Broadway in 2003, where it enjoyed a long run.  It has since been revived several times.",
+        "source_url": "https://en.wikipedia.org/wiki/A_Stoop_on_Orchard_Street",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "amen-corner": {
+      "slug": "amen-corner",
+      "title": "Amen Corner",
+      "qid": "Q4742376",
+      "enwiki": "Amen Corner (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/10244",
+        "wikipedia": "https://en.wikipedia.org/wiki/Amen_Corner_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4742376"
+      },
+      "summary": {
+        "text": "Amen Corner is a musical with a book by Philip Rose and Peter Udell, lyrics by Udell,  music by Garry Sherman, orchestration by Garry Sherman & Dunn Pearson and dance arrangements by Dunn Pearson & George Butcher, based on the 1954 play of the same title by James Baldwin.  The score consists of mostly gospel-inspired music.",
+        "source_url": "https://en.wikipedia.org/wiki/Amen_Corner_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "bubbling-brown-sugar": {
+      "slug": "bubbling-brown-sugar",
+      "title": "Bubbling Brown Sugar",
+      "qid": "Q4982269",
+      "enwiki": "Bubbling Brown Sugar",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2275",
+        "wikipedia": "https://en.wikipedia.org/wiki/Bubbling_Brown_Sugar",
+        "wikidata": "https://www.wikidata.org/wiki/Q4982269"
+      },
+      "summary": {
+        "text": "Bubbling Brown Sugar is a musical revue written by Loften Mitchell based on a concept by Rosetta LeNoire and featuring the music of numerous African-American artists who were popular during the Harlem Renaissance, 1920–1940, including Duke Ellington, Eubie Blake, Count Basie, Cab Calloway, and Fats Waller. Original music, including the title theme song \"Bubbling Brown Sugar,\" was composed by pianist Emme Kemp, a protégé of the legendary Eubie Blake. It was nominated for the Tony Award for Best Musical and the Laurence Olivier Award for Best New Musical. Robert M. Cooper directed and produced the Broadway and tour productions.\nThe show was set in a Harlem nightclub of the 1920s-1940s. It originally played at the Church of St. Paul and St. Andrew, opening on February 15, 1975, and running for 12 performances. It opened on Broadway at the ANTA Playhouse on March 2, 1976, and closed on December 31, 1977, after 766 performances.",
+        "source_url": "https://en.wikipedia.org/wiki/Bubbling_Brown_Sugar",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "emilie-jolie": {
+      "slug": "emilie-jolie",
+      "title": "Émilie Jolie",
+      "qid": "Q3588858",
+      "enwiki": "Émilie Jolie",
+      "composers": [
+        {
+          "name": "Philippe Chatel",
+          "qid": "Q3379570"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/%C3%89milie_Jolie",
+        "wikidata": "https://www.wikidata.org/wiki/Q3588858"
+      },
+      "summary": {
+        "text": "Émilie Jolie is a French children's musical  by Philippe Chatel and arranged by Jean-Louis Bucchi. It later became a film involving Georges Brassens, Henri Salvador, Julien Clerc, Alain Souchon, Laurent Voulzy, Louis Chedid, Françoise Hardy and Eddy Mitchell in the first rendition and Johnny Hallyday, Alain Bashung, Jacques Dutronc, Maurane, Florent Pagny, Axelle Red and Etienne Daho.\nThe musical has had two adaptations: a 1980 live-action TV movie (except the ostrich was performed by Diane Dufresne) and a 2011 animated adaptation.\nPhilip Chatel's \"comédie musicale\" Émilie Jolie returned in its third rendition in Paris (and later in several French towns) from October 20, 2017, to April 22, 2018, with artists such as Gloria - The Voice Kids & Kids United and Johanna Serrano.\nAdditionally, members of the cast of Emilie Jolie created a song called \"chanel n\" with the creator's name as \"lluvia/SLK\" as a tracker music genre in tribute to Emilie Jolie.",
+        "source_url": "https://en.wikipedia.org/wiki/%C3%89milie_Jolie",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "gantry": {
+      "slug": "gantry",
+      "title": "Gantry",
+      "qid": "Q5521525",
+      "enwiki": "Gantry (musical)",
+      "composers": [
+        {
+          "name": "Stanley Lebowsky",
+          "qid": "Q7599745",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12033"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Fred Tobias",
+          "qid": "Q16206708",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/71575"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3773",
+        "wikipedia": "https://en.wikipedia.org/wiki/Gantry_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5521525"
+      },
+      "summary": {
+        "text": "Gantry is a musical with a book by Peter Bellwood, lyrics by Fred Tobias, and music by Stanley Lebowsky.\nBased on the 1927 novel Elmer Gantry by Sinclair Lewis, it tells the story of a womanizing, self-righteous, self-proclaimed preacher who joins forces with a female evangelist to sell religion to small-town Americans.\nAfter 31 previews, the Broadway production, directed and choreographed by Onna White, opened on February 14, 1970 at the George Abbott Theatre, where it closed after one performance. The cast included Robert Shaw, Rita Moreno, Ted Thurston, and Beth Fowler.",
+        "source_url": "https://en.wikipedia.org/wiki/Gantry_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "life-begins-at-8-40": {
+      "slug": "life-begins-at-8-40",
+      "title": "Life Begins at 8:40",
+      "qid": "Q6544726",
+      "enwiki": "Life Begins at 8:40",
+      "composers": [
+        {
+          "name": "Harold Arlen",
+          "qid": "Q448644",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11319"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Ira Gershwin",
+          "qid": "Q61059",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12885"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5377",
+        "wikipedia": "https://en.wikipedia.org/wiki/Life_Begins_at_8%3A40",
+        "wikidata": "https://www.wikidata.org/wiki/Q6544726"
+      },
+      "summary": {
+        "text": "Life Begins at 8:40 is a musical revue with music by Harold Arlen, lyrics by Ira Gershwin and E.Y. Harburg, and sketches by Gershwin, Harburg, David Freedman, H.I. Phillips, Alan Baxter, Henry Clapp Smith, and Frank Gabrielson.\nWhen Harburg and Vernon Duke parted ways after clashing over Ziegfeld Follies of 1934, the lyricist invited Arlen, with whom he had written the hit tune \"It's Only a Paper Moon,\" to collaborate on the revue. Arlen had been writing risqué numbers with Ted Koehler for The Cotton Club in Harlem and welcomed the opportunity to compose music for comedy songs in a mainstream production. The revue also proved to be a stepping stone in the career of Bert Lahr. The actor's unique voice inspired Arlen and Harburg to write songs satirizing romantic and operatic stage clichés and helped Lahr evolve from a bumbling buffoon into an adept comic performer. Arlen later maintained \"no one could write for him better than E.Y. and myself.\"\nThe original Broadway production opened at the Winter Garden Theatre on August 27, 1934 and closed on March 16, 1935 after a run of 237 performances. It was devised and staged by John Murray Anderson, choreographed by Robert Alton, and starred Ray Bolger, Brian Donlevy, Luella Gear, Frances Williams, Dixie Dunbar, and Esther Junger in addition to Lahr. Among those who contributed to the costume design were Raoul Pene Du Bois and Irene Sharaff.\nTime called the production \"the season's first first-rate entertainment.\"\nA concert revival at the Library of Congress on March 22, 2010 was recorded and released on CD by PS Classics. This performance featured Rebecca Luker, Brad Oscar and Faith Prince, and the orchestra was conducted by Aaron Gandy.",
+        "source_url": "https://en.wikipedia.org/wiki/Life_Begins_at_8%3A40",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "lollipop": {
+      "slug": "lollipop",
+      "title": "Lollipop",
+      "qid": "Q18619393",
+      "enwiki": "Lollipop (musical)",
+      "composers": [
+        {
+          "name": "Vincent Youmans",
+          "qid": "Q746951",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12607"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Zelda Sears",
+          "qid": "Q8068709",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9240"
+        }
+      ],
+      "premiere": {
+        "date": "1924-01-21",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5513",
+        "wikipedia": "https://en.wikipedia.org/wiki/Lollipop_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q18619393"
+      },
+      "summary": {
+        "text": "Lollipop is a musical comedy in three acts with book by Zelda Sears, lyrics by Sears and Walter De Leon, and music by Vincent Youmans. The show was produced by Henry W. Savage at the Knickerbocker Theatre, and opened January 21, 1924.\nIt was staged by Ira Hands, choreographed by Bert French, John Tiller, and Mary Read, costume design by Schneider-Anderson Company, Bergdorf Goodman, and Finchley, and scenic design by Sheldon K. Viele and William Castle. It ran for 152 performances, closing on May 31, 1924 \nThe cast of included Ada May (Laura Lamb), Zelda Sears (Mrs. Garrity), Nick Long, Jr. (Omar K. Garrity), Adora Andrews (Mrs. Mason), Gloria Dawn (Virginia), Aline McGill (Tessie), Mark Smith (Parkinson), Leonard Ceiley (Don Carlos), and Virginia Smith (Petunia).\nThe plot concerns Laura Lamb (Ada May), nicknamed “Lollipop” at an orphanage, and still called that even after she is adopted by a rich, catty lady named Mrs. Garrity (Zelda Sears).  Laura meets an attractive plumber at the Garrity's, is accused of stealing Mrs. Garrity's purse, from which she is acquitted, and attends a masked ball in costume.\nLollipop was Youmans’ first score without a co-composer.  He was teamed with lyricist Zelda Sears, one of the few women lyricists writing for Broadway.  When Lollipop opened, Youmans had three shows running simultaneously.",
+        "source_url": "https://en.wikipedia.org/wiki/Lollipop_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "memphis": {
+      "slug": "memphis",
+      "title": "Memphis",
+      "qid": "Q6815790",
+      "enwiki": "Memphis (musical)",
+      "composers": [
+        {
+          "name": "David Bryan",
+          "qid": "Q310098",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/484159"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Joe DiPietro",
+          "qid": "Q1691381",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/383115"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/484157",
+        "official_site": "http://www.memphisthemusical.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/Memphis_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6815790"
+      },
+      "summary": {
+        "text": "Memphis is a musical with music by David Bryan, lyrics by Bryan and Joe DiPietro, and a book by DiPietro.\nThe show is loosely based on the story of Memphis disc jockey Dewey Phillips, one of the first white DJs to play black music in the 1950s. It ran on Broadway from October 19, 2009, to August 5, 2012, winning four Tony Awards, including Best Musical. The show was staged at the Strand Theatre in Boston, Massachusetts during the 2018–2019 season, North Shore Music Theatre in Beverly, Massachusetts and TheatreWorks in Mountain View, California during the 2003–04 season, as well as the 5th Avenue Theatre in Seattle during the 2008–2009 season.",
+        "source_url": "https://en.wikipedia.org/wiki/Memphis_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "next-door-s-baby": {
+      "slug": "next-door-s-baby",
+      "title": "Next Door's Baby",
+      "qid": "Q7020977",
+      "enwiki": "Next Door's Baby",
+      "composers": [
+        {
+          "name": "Matthew Strachan",
+          "qid": "Q3299805"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Matthew Strachan",
+          "qid": "Q3299805"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Bernadette Strachan",
+          "qid": "Q4892819"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Next_Door's_Baby",
+        "wikidata": "https://www.wikidata.org/wiki/Q7020977"
+      },
+      "summary": {
+        "text": "Next Door's Baby is a musical with music and lyrics by Matthew Strachan and book by Bernie Gaughan (whose novels are published under the name Bernadette Strachan), based on Gaughan's radio play of the same name. Set in 1950's Dublin, it tells the story of two neighbouring families who attempt to reconcile their lives with secrets they have kept to avoid facing public shame. The two daughters of the families strike up an unlikely friendship which leads them to contemplate running away and leaving their families behind.",
+        "source_url": "https://en.wikipedia.org/wiki/Next_Door's_Baby",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "revenge-with-music": {
+      "slug": "revenge-with-music",
+      "title": "Revenge with Music",
+      "qid": "Q7317948",
+      "enwiki": "Revenge with Music",
+      "composers": [
+        {
+          "name": "Arthur Schwartz",
+          "qid": "Q711473",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4324"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Howard Dietz",
+          "qid": "Q1631780",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6363"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Howard Dietz",
+          "qid": "Q1631780",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6363"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7471",
+        "wikipedia": "https://en.wikipedia.org/wiki/Revenge_with_Music",
+        "wikidata": "https://www.wikidata.org/wiki/Q7317948"
+      },
+      "summary": {
+        "text": "Revenge with Music is a musical comedy with book and lyrics by Howard Dietz and music by Arthur Schwartz, that opened on Broadway in 1934. This was the first \"book\" musical by Dietz and Schwartz.",
+        "source_url": "https://en.wikipedia.org/wiki/Revenge_with_Music",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "right-this-way": {
+      "slug": "right-this-way",
+      "title": "Right This Way",
+      "qid": "Q7333577",
+      "enwiki": "Right This Way",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1938-01-05",
+        "venue": "Richard Rodgers Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7509",
+        "wikipedia": "https://en.wikipedia.org/wiki/Right_This_Way",
+        "wikidata": "https://www.wikidata.org/wiki/Q7333577"
+      },
+      "summary": {
+        "text": "Right This Way is a Broadway production that opened at the 46th Street Theatre on January 5, 1938, and ran for fifteen performances.  It was categorized as an original musical comedy and was set in Paris and Boston. It starred Joe E. Lewis as Spaulding, Leonard Elliott as Bomboski, and Leona Stephens as Lissa.\nThe interpolated song \"I'll Be Seeing You\", written by Irving Kahal and Sammy Fain, was featured in the production and has since been recognized as a jazz standard, covered by many musicians.",
+        "source_url": "https://en.wikipedia.org/wiki/Right_This_Way",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "stinkfoot-a-comic-opera": {
+      "slug": "stinkfoot-a-comic-opera",
+      "title": "Stinkfoot, a Comic Opera",
+      "qid": "Q7617449",
+      "enwiki": "Stinkfoot, a Comic Opera",
+      "composers": [
+        {
+          "name": "Vivian Stanshall",
+          "qid": "Q249966"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Vivian Stanshall",
+          "qid": "Q249966"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Ki Longfellow",
+          "qid": "Q6403615"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Stinkfoot%2C_a_Comic_Opera",
+        "wikidata": "https://www.wikidata.org/wiki/Q7617449"
+      },
+      "summary": {
+        "text": "Stinkfoot, a Comic Opera is an English musical with book, music, and lyrics by Vivian Stanshall and Ki Longfellow-Stanshall written for the Crackpot Theatre Company aboard the Old Profanity Showboat in Bristol, England.  The show is based on a series of tales written by Longfellow about Stinkfoot, a New York City alley cat.  It had been intended for children, but when told by a New York City literary agent that \"No mother in America would want her child identifying with Stinkfoot the alley cat, never mind its name,\" the story went into a drawer, and didn't reappear until 1985 when Vivian and Ki decided to base a musical on its lead character, Stinkfoot.",
+        "source_url": "https://en.wikipedia.org/wiki/Stinkfoot%2C_a_Comic_Opera",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "suffs": {
+      "slug": "suffs",
+      "title": "Suffs",
+      "qid": "Q111949099",
+      "enwiki": "Suffs",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/538248",
+        "wikipedia": "https://en.wikipedia.org/wiki/Suffs",
+        "wikidata": "https://www.wikidata.org/wiki/Q111949099"
+      },
+      "summary": {
+        "text": "Suffs is a musical with music, lyrics, and a book by Shaina Taub, based on suffragists and the American women's suffrage movement, focusing primarily on the historical events leading up to the ratification of the Nineteenth Amendment to the United States Constitution in 1920 that gave women the right to vote.\nFollowing its off-Broadway premiere at The Public Theater in April 2022, the Broadway production opened at the Music Box Theatre on April 18, 2024, to mostly positive reviews. Suffs was nominated for six Tony Awards, including Best Musical, winning for both Best Book and Best Score. The production closed in January 2025, and a North American tour began in September 2025 and ended in August 2026. A second North American tour is scheduled to begin in the fall of 2027.",
+        "source_url": "https://en.wikipedia.org/wiki/Suffs",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-better-ole": {
+      "slug": "the-better-ole",
+      "title": "The Better 'Ole",
+      "qid": "Q7717398",
+      "enwiki": "The Better 'Ole",
+      "composers": [
+        {
+          "name": "Herman Darewski",
+          "qid": "Q5739658",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11566"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "James Heard",
+          "qid": "Q41171146"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1973",
+        "playbill": "https://playbill.com/production/the-better-ole-greenwich-village-theatre-vault-0000005220",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Better_'Ole",
+        "wikidata": "https://www.wikidata.org/wiki/Q7717398"
+      },
+      "summary": {
+        "text": "The Better 'Ole, also called The Romance of Old Bill, is an Edwardian musical comedy with a book by Bruce Bairnsfather and Arthur Elliot, music by Herman Darewski, and lyrics by Percival Knight and James Heard, based on the cartoon character Old Bill, an infantryman, drawn by Bairnsfather.  In the musical, Old Bill intercepts a spy's plan to destroy a bridge, trapping a French regiment after they cross it.  Bill saves them by blowing up the bridge before they pass; his actions are misunderstood, however, and he is arrested for disobeying orders and holding an enemy document.  After Victoire explains the situation, Bill is released and given a medal.\nThe original London production in 1917 was a hit, running for over 800 performances, starring Arthur Bourchier as Old Bill.  The piece also had success on tour and on Broadway the following year and spawned two film adaptations and a sequel.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Better_'Ole",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-dancing-mistress": {
+      "slug": "the-dancing-mistress",
+      "title": "The Dancing Mistress",
+      "qid": "Q7728838",
+      "enwiki": "The Dancing Mistress",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Dancing_Mistress",
+        "wikidata": "https://www.wikidata.org/wiki/Q7728838"
+      },
+      "summary": {
+        "text": "The Dancing Mistress is a musical comedy with music by Lionel Monckton, book by James T. Tanner and lyrics by Adrian Ross and Percy Greenbank. It depicts the fortunes of a school dancing mistress who is dismissed and finds fortune and happiness in Switzerland. The piece ran in the West End of London in 1912 and 1913, and toured the British provinces in 1914.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Dancing_Mistress",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-highwayman": {
+      "slug": "the-highwayman",
+      "title": "The Highwayman",
+      "qid": "Q55635285",
+      "enwiki": "The Highwayman (musical)",
+      "composers": [
+        {
+          "name": "Edmond Samuels",
+          "qid": "Q122181904"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Highwayman_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q55635285"
+      },
+      "summary": {
+        "text": "The Highwayman is an Australian musical comedy with book, music and lyrics by Edmond Samuels. Set in Bendigo during the Gold Rush in the 1860s, the story concerns the love of an innkeeper's daughter for a highwayman.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Highwayman_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-lord-of-the-rings": {
+      "slug": "the-lord-of-the-rings",
+      "title": "The Lord of the Rings",
+      "qid": "Q905691",
+      "enwiki": "The Lord of the Rings (musical)",
+      "composers": [
+        {
+          "name": "A. R. Rahman",
+          "qid": "Q108560",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/112086"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Matthew Warchus",
+          "qid": "Q3299812",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/16443"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q905691"
+      },
+      "summary": {
+        "text": "The Lord of the Rings is a stage musical with music by A. R. Rahman, Värttinä, and Christopher Nightingale, and lyrics and book by Shaun McKenna and Matthew Warchus, based on the novel of the same name by J. R. R. Tolkien. It is the most prominent of several theatre adaptations of the novel. Set in the world of Middle-earth, the musical tells the tale of a humble hobbit who is asked to play the hero and undertake a treacherous mission to destroy an evil, magic ring without being seduced by its power.\nThe musical has been performed in four professional productions. It was first performed in 2006 at the Princess of Wales Theatre in Toronto. The second production opened at Theatre Royal, Drury Lane in London's West End in June 2007 where it played until July 2008. The musical was revived in 2023 at the Watermill Theatre in Berkshire, winning Best Regional Production in TheWhatsOnStage Awards 2024. The Watermill production was announced to open in July 2024 at the Chicago Shakespeare Theater, before transferring to the Civic Theatre in Auckland, New Zealand in November 2024. In January 2025, the production embarked on an Australian tour, opening with a new cast at the State Theatre in Sydney. An international tour continued to the Sands Theatre at the Marina Bay Sands Resort, Singapore in August 2025 before it was due to return to the UK for a run at the Theatre Royal, Plymouth in October 2025, before embarking on a European tour. The Plymouth run was cancelled in September 2025, with the status of any potential future productions being unknown.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Lord_of_the_Rings_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-three-kisses": {
+      "slug": "the-three-kisses",
+      "title": "The Three Kisses",
+      "qid": "Q65067244",
+      "enwiki": "The Three Kisses",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Three_Kisses",
+        "wikidata": "https://www.wikidata.org/wiki/Q65067244"
+      },
+      "summary": {
+        "text": "The Three Kisses is an Edwardian musical comedy in two acts which opened on 21 August 1907 at the Apollo Theatre in London with music by Howard Talbot and a book by Leedham Bantock and Percy Greenbank and lyrics by the latter. Directed by Austen Hurgon for Frank Curzon, despite being \"cordially received\" by the audience on opening night the piece was a failure.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Three_Kisses",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-view-upstairs": {
+      "slug": "the-view-upstairs",
+      "title": "The View UpStairs",
+      "qid": "Q48743277",
+      "enwiki": "The View UpStairs",
+      "composers": [
+        {
+          "name": "Max Vernon",
+          "qid": "Q6795336",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/518546"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Max Vernon",
+          "qid": "Q6795336",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/518546"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "http://www.theviewupstairs.com/#home",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_View_UpStairs",
+        "wikidata": "https://www.wikidata.org/wiki/Q48743277"
+      },
+      "summary": {
+        "text": "The View UpStairs is a musical with music, lyrics and book by Max Vernon based on the real-life events of the 1973 arson attack at the UpStairs Lounge, a gay bar in New Orleans. This attack resulted in the deaths of 32 people, the deadliest attack on a gay club in U.S. history before the 2016 Orlando nightclub shooting. The show is inspired by and pays tributes to many of the patrons who frequented the venue.\nThe single-act show runs for approximately 1 hour and 45 minutes and is set entirely within the UpStairs Lounge.",
+        "source_url": "https://en.wikipedia.org/wiki/The_View_UpStairs",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-witches": {
+      "slug": "the-witches",
+      "title": "The Witches",
+      "qid": "Q123291929",
+      "enwiki": "The Witches (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Witches_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q123291929"
+      },
+      "summary": {
+        "text": "The Witches (or Roald Dahl's The Witches) is a stage musical with book and lyrics by Lucy Kirkwood and music and lyrics by Dave Malloy, based on Roald Dahl's 1983 children's novel of the same name.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Witches_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "west-side-story": {
+      "slug": "west-side-story",
+      "title": "West Side Story",
+      "qid": "Q669010",
+      "enwiki": "West Side Story",
+      "composers": [
+        {
+          "name": "Leonard Bernstein",
+          "qid": "Q152505",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7257"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Stephen Sondheim",
+          "qid": "Q153579",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12430"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Arthur Laurents",
+          "qid": "Q710334",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4307"
+        }
+      ],
+      "premiere": {
+        "date": "1957-09-26",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/10952",
+        "official_site": "https://westsidestory.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/West_Side_Story",
+        "wikidata": "https://www.wikidata.org/wiki/Q669010"
+      },
+      "summary": {
+        "text": "West Side Story is a musical conceived by Jerome Robbins with music by Leonard Bernstein, lyrics by Stephen Sondheim, and a book by Arthur Laurents.\nInspired by William Shakespeare's play Romeo and Juliet, the story is set in the mid-1950s on the Upper West Side of Manhattan in New York City, then a multiracial, blue-collar neighborhood. The musical explores the rivalry between the Jets and the Sharks, two teenage street gangs of different ethnic backgrounds. The Sharks, who are recent migrants from Puerto Rico, and the Jets, who are white, vie for dominance of the neighborhood, and the police try to keep order. The young protagonist, Tony, a former member of the Jets and best friend of the gang's leader, Riff, falls in love with Maria, the sister of Bernardo, the leader of the Sharks. The dark theme, sophisticated music, extended dance scenes, tragic love story, and focus on social problems marked a turning point in musical theatre.\nThe original 1957 Broadway production, directed and choreographed by Robbins, marked Sondheim's Broadway debut. It ran for 732 performances before going on tour. The production was nominated for six Tony Awards, winning two. The show had an even longer-running West End production, a number of revivals, and international productions. A 1961 musical film adaptation, co-directed by Robert Wise and Robbins, was nominated for eleven Academy Awards and won ten, including Best Picture. A 2021 film adaptation, directed by Steven Spielberg was also nominated for the Academy Award for Best Picture, along with six additional nominations, winning for Best Supporting Actress.",
+        "source_url": "https://en.wikipedia.org/wiki/West_Side_Story",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

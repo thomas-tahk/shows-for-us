@@ -1,0 +1,484 @@
+{
+  "live": true,
+  "shows": {
+    "a-killer-party": {
+      "slug": "a-killer-party",
+      "title": "A Killer Party",
+      "qid": "Q104792047",
+      "enwiki": "A Killer Party",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Killer_Party",
+        "wikidata": "https://www.wikidata.org/wiki/Q104792047"
+      },
+      "summary": {
+        "text": "A Killer Party: A Murder Mystery Musical  is a digital remotely performed musical created in 2020 during the COVID-19 pandemic. It began streaming as a 9-episode web series on Vimeo on August 5, 2020. Its creative team includes Jason Howland (Music), Nathan Tysen (Lyrics), Rachel Axler and Kait Kerrigan (Book), Marc Bruni (Direction), Bobby Pearce (Costume Design), Billy Jay Stein (Music Producer) and HMS Media (Video Post-Production).\nThe virtual musical was produced by Kevin Duda & Jason Howland.\nOn August 11, 2020, Music Theater International acquired the licensing rights to the musical.",
+        "source_url": "https://en.wikipedia.org/wiki/A_Killer_Party",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "bravo-giovanni": {
+      "slug": "bravo-giovanni",
+      "title": "Bravo Giovanni",
+      "qid": "Q4958446",
+      "enwiki": "Bravo Giovanni",
+      "composers": [
+        {
+          "name": "Milton Schafer",
+          "qid": "Q6861445",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12359"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Ronny Graham",
+          "qid": "Q3441813",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8484"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2194",
+        "wikipedia": "https://en.wikipedia.org/wiki/Bravo_Giovanni",
+        "wikidata": "https://www.wikidata.org/wiki/Q4958446"
+      },
+      "summary": {
+        "text": "Bravo Giovanni is a musical with a book by A. J. Russell, lyrics by Ronny Graham, and music by Milton Schafer. It is based upon Howard Shaw's 1959 novel, The Crime of Giovanni Venturi. The musical was conceived as a vehicle for opera star Cesare Siepi, and the story concerned a family-owned Italian restaurant's efforts to compete with a restaurant chain.",
+        "source_url": "https://en.wikipedia.org/wiki/Bravo_Giovanni",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "brunch": {
+      "slug": "brunch",
+      "title": "Brunch",
+      "qid": "Q4978858",
+      "enwiki": "Brunch (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Brunch_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4978858"
+      },
+      "summary": {
+        "text": "BRUNCH The Musical is a rock musical with music and lyrics by Rick Kunzi and a book by Kunzi and Adam Barnosky about the New York City restaurant scene.\nBrunch was most recently performed Off-Broadway in New York City at the American Theater of Actors in 2009, and featured Meghann Dreyfuss (formerly in Mamma Mia! on Broadway), Kevin Collins, and Maxx Mann (former lead singer of the rock orchestra Trans-Siberian Orchestra).",
+        "source_url": "https://en.wikipedia.org/wiki/Brunch_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "buddy-the-buddy-holly-story": {
+      "slug": "buddy-the-buddy-holly-story",
+      "title": "Buddy: The Buddy Holly Story",
+      "qid": "Q1001097",
+      "enwiki": "Buddy: The Buddy Holly Story",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Alan Janes",
+          "qid": "Q26845650",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3944"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2280",
+        "official_site": "http://www.buddythemusical.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Buddy%3A_The_Buddy_Holly_Story",
+        "wikidata": "https://www.wikidata.org/wiki/Q1001097"
+      },
+      "summary": {
+        "text": "Buddy: The Buddy Holly Story is a musical in two acts written by Alan Janes, and featuring the music of Buddy Holly. It opened at the Plymouth Theatre Royal in August 1989 before It transferred to the Victoria Palace Theatre on 12 October 1989. An early example of the jukebox musical, Buddy ran in London's West End for over 12 years, playing 5,140 performances. Janes took over the producing of the show himself in 2004, and Buddy has been on tour extensively in the UK since then, having played Broadway, five U.S. National Tours and numerous other productions around the world. The show was nominated for an Olivier Award for Best Musical.",
+        "source_url": "https://en.wikipedia.org/wiki/Buddy%3A_The_Buddy_Holly_Story",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "cinder-ellen-up-too-late": {
+      "slug": "cinder-ellen-up-too-late",
+      "title": "Cinder Ellen up too Late",
+      "qid": "Q5120410",
+      "enwiki": "Cinder Ellen up too Late",
+      "composers": [
+        {
+          "name": "Meyer Lutz",
+          "qid": "Q6826428",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/409752"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Cinder_Ellen_up_too_Late",
+        "wikidata": "https://www.wikidata.org/wiki/Q5120410"
+      },
+      "summary": {
+        "text": "Cinder Ellen up too Late is a musical burlesque written by Frederick Hobson Leslie (writing under the pseudonym A. C. Torr) and W. T. Vincent, with music arranged by Meyer Lutz from compositions by Lionel Monckton, Sidney Jones, Walter Slaughter, Osmond Carr, Scott Gatti, Jacobi, Robertson, and Leopold Wenzel. Additional lyrics were written by Basil Hood.  The show was a burlesque of the well-known pantomime and fairy tale, Cinderella.\nThe piece was first produced in Melbourne, Australia at the Princess's Theatre on 22 August 1891 and then in Sydney, on 5 October at the Theatre Royal.  It then debuted in London at the Gaiety Theatre in London and ran from 24 December 1891 until 9 July 1892, a total of 181 performances. It was revised and revived later in 1892.  The production was directed by Walter Raynham, with choreography by Katti Lanner and Willie Warde and costumes by Wilhelm.  Nellie Farren created the title role in Australia; in London the part was played by Kate James and then Letty Lind. The piece was re-written during the run; some characters were dropped and new ones were introduced. The cast included Sylvia Grey as Linconzina and Florence Levey as Fettalana (the stepsisters), E. J. Lonnen as Prince Belgravia, Arthur Williams as Sir Ludgate Hill, and Fred Leslie as \"a servant\".  Adelaide Astor had the small role of Templina and later the larger one of Fettalana, and Topsy Sinden danced in the piece.  Lottie Collins sang her sensationally popular song, \"Ta-ra-ra Boom-de-ay\" as an interpolation in the show every evening.\nThe title was a \"playful allusion\" to the real first name, Ellen, of the Gaiety's famous star, Nellie Farren.  After the company's return from Australia, and before the opening of Cinder Ellen in London, Farren experienced an attack of rheumatic fever which aggravated her spinal disease.  She had to withdraw from the London production of Cinder Ellen.  Her illness progressively crippled her, and Farren rarely performed after this.  Farren's withdrawal left Kate James to open in the title role in London.",
+        "source_url": "https://en.wikipedia.org/wiki/Cinder_Ellen_up_too_Late",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "dew-drop-inn": {
+      "slug": "dew-drop-inn",
+      "title": "Dew Drop Inn",
+      "qid": "Q25205740",
+      "enwiki": "Dew Drop Inn (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Walter DeLeon",
+          "qid": "Q3565731",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9023"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3060",
+        "wikipedia": "https://en.wikipedia.org/wiki/Dew_Drop_Inn_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q25205740"
+      },
+      "summary": {
+        "text": "Dew Drop Inn is a musical with music by Alfred Goodman and Rudolf Friml, lyrics by Cyrus Wood, and a book by Walter DeLeon and Edward Delaney Dunn. While Goodman was the principal composer for the work, composers Rudolf Friml, John Frederick Coots, and Jean Schwartz also contributed songs to the show in collaboration with lyricist McElbert Moore. \nProduced by Jacob J. Shubert and directed by Fred G. Latham, the musical premiered on Broadway at the Astor Theatre on May 17, 1923, where it ran until August 25, 1923 for a total of 88 performances. The cast included James Barton, Alice Brady, Spencer Charters, Harry Clark, Danny Dare, Evelyn Cavanaugh, and Mabel Withee. The musical is set at a seaside resort somewhere in Southern California. Barton starred in blackface as the hotel porter, Ananias Washington.\nCritic Burns Mantle described Dew Drop Inn as being primarily a vehicle for Barton, \"an entertainment evidently intended for a summer run, being as fresh as flowers in its costuming, and as generously hued,\" but added that \"the fun I thought pretty thin.\"",
+        "source_url": "https://en.wikipedia.org/wiki/Dew_Drop_Inn_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "first-daughter-suite": {
+      "slug": "first-daughter-suite",
+      "title": "First Daughter Suite",
+      "qid": "Q23091526",
+      "enwiki": "First Daughter Suite",
+      "composers": [
+        {
+          "name": "Michael John LaChiusa",
+          "qid": "Q3308276",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13016"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Michael John LaChiusa",
+          "qid": "Q3308276",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13016"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/First_Daughter_Suite",
+        "wikidata": "https://www.wikidata.org/wiki/Q23091526"
+      },
+      "summary": {
+        "text": "First Daughter Suite is a chamber musical with music, lyrics, and book by Michael John LaChiusa. A continuation of his 1993 musical First Lady Suite, First Daughter Suite is composed of four narrative segments, each centered on the mothers and daughters of political families in United States history. The figures portrayed include the Nixon, Carter, Ford, Reagan, and Bush families. The musical premiered Off-Broadway in 2015 at The Public Theater.",
+        "source_url": "https://en.wikipedia.org/wiki/First_Daughter_Suite",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "it-s-a-bird-it-s-a-plane-it-s-superman": {
+      "slug": "it-s-a-bird-it-s-a-plane-it-s-superman",
+      "title": "It's a Bird... It's a Plane... It's Superman",
+      "qid": "Q11926976",
+      "enwiki": "It's a Bird... It's a Plane... It's Superman",
+      "composers": [
+        {
+          "name": "Charles Strouse",
+          "qid": "Q2960275",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12463"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Lee Adams",
+          "qid": "Q6512930",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12723"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "David Newman",
+          "qid": "Q4982515",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5001"
+        },
+        {
+          "name": "Robert Benton",
+          "qid": "Q59085",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8352"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4802",
+        "wikipedia": "https://en.wikipedia.org/wiki/It's_a_Bird..._It's_a_Plane..._It's_Superman",
+        "wikidata": "https://www.wikidata.org/wiki/Q11926976"
+      },
+      "summary": {
+        "text": "It's a Bird... It's a Plane... It's Superman is a 1966 musical composed by Charles Strouse, with lyrics by Lee Adams and book by David Newman and Robert Benton. It is based on the comic book character Superman created by Jerry Siegel and Joe Shuster and published by DC Comics.\nWhile the show's original Broadway run was well-reviewed, it did not catch on with audiences. Closing after three and a half months and costing an unprecedented $600,000, the show was Broadway's biggest flop at the time. These numbers have been disputed, with Hal Prince reporting that the show was capitalized at $400,000; other shows had proven to be bigger flops.",
+        "source_url": "https://en.wikipedia.org/wiki/It's_a_Bird..._It's_a_Plane..._It's_Superman",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "jacques-brel-is-alive-and-well-and-living-in-paris": {
+      "slug": "jacques-brel-is-alive-and-well-and-living-in-paris",
+      "title": "Jacques Brel is Alive and Well and Living in Paris",
+      "qid": "Q1381579",
+      "enwiki": "Jacques Brel is Alive and Well and Living in Paris",
+      "composers": [
+        {
+          "name": "Jacques Brel",
+          "qid": "Q1666",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11427"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": "The Village Gate"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4835",
+        "wikipedia": "https://en.wikipedia.org/wiki/Jacques_Brel_is_Alive_and_Well_and_Living_in_Paris",
+        "wikidata": "https://www.wikidata.org/wiki/Q1381579"
+      },
+      "summary": {
+        "text": "Jacques Brel Is Alive and Well and Living in Paris is a musical revue of the songs of Jacques Brel. Brel's songs were translated into English by Eric Blau and Mort Shuman, who also provided the story. The original 1968 Off-Broadway production ran for four years and spawned international and regional productions, as well as a West End production and Off-Broadway revival, among others. A film adaptation was released in 1975.\nIn 2003, David Bowie included the cast recording in a list of 25 of his favorite albums, \"Confessions of a Vinyl Junkie\".",
+        "source_url": "https://en.wikipedia.org/wiki/Jacques_Brel_is_Alive_and_Well_and_Living_in_Paris",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "knickerbocker-holiday": {
+      "slug": "knickerbocker-holiday",
+      "title": "Knickerbocker Holiday",
+      "qid": "Q1236039",
+      "enwiki": "Knickerbocker Holiday",
+      "composers": [
+        {
+          "name": "Kurt Weill",
+          "qid": "Q55004",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7112"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Maxwell Anderson",
+          "qid": "Q432919",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7672"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Maxwell Anderson",
+          "qid": "Q432919",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7672"
+        }
+      ],
+      "premiere": {
+        "date": "1938",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5097",
+        "wikipedia": "https://en.wikipedia.org/wiki/Knickerbocker_Holiday",
+        "wikidata": "https://www.wikidata.org/wiki/Q1236039"
+      },
+      "summary": {
+        "text": "Knickerbocker Holiday is a 1938 musical written by Kurt Weill (music) and Maxwell Anderson (book and lyrics), based loosely on Washington Irving's Knickerbocker's History of New York about life in 17th-century New Netherland (old New York). The musical numbers include \"September Song\", now considered a pop standard.\n\nThe musical is set in 1647 Manhattan, at the time of the arrival of Peter Stuyvesant, the new Director-General of New Netherland. The local politician Tienhoven is selling brandy and firearms to the Indians, and his prospective son-in-law Brom Broeck is aware of his political corruption. Tienhoven arranges for Broeck to be executed by hanging, but Stuyvesant pardons the young man. Broeck and his new patron are both planning to marry the same woman.",
+        "source_url": "https://en.wikipedia.org/wiki/Knickerbocker_Holiday",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "mutiny": {
+      "slug": "mutiny",
+      "title": "Mutiny!",
+      "qid": "Q137196114",
+      "enwiki": "Mutiny! (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Mutiny!_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q137196114"
+      },
+      "summary": {
+        "text": "Mutiny! is a musical by David Essex to a book and lyrics by Richard Crane, based on the novel Mutiny on the Bounty by Charles Nordhoff and James Norman Hall.",
+        "source_url": "https://en.wikipedia.org/wiki/Mutiny!_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "rain-or-shine": {
+      "slug": "rain-or-shine",
+      "title": "Rain or Shine",
+      "qid": "Q120287984",
+      "enwiki": "Rain or Shine (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Rain_or_Shine_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q120287984"
+      },
+      "summary": {
+        "text": "Rain or Shine is a musical in two acts with music by Milton Ager and Owen Murphy, lyrics by Jack Yellen, and a book by James Gleason and Maurice Marks. Set in Higginstown, Rhode Island, the musical takes place within a circus and features a variety of circus acts in addition to the typical song and dance numbers from a musical of its time period. It was one of several hit Broadway musicals in 1928.",
+        "source_url": "https://en.wikipedia.org/wiki/Rain_or_Shine_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "seven-little-australians": {
+      "slug": "seven-little-australians",
+      "title": "Seven Little Australians",
+      "qid": "Q25217701",
+      "enwiki": "Seven Little Australians (musical)",
+      "composers": [
+        {
+          "name": "David Reeves",
+          "qid": "Q16106420"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Seven_Little_Australians_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q25217701"
+      },
+      "summary": {
+        "text": "Seven Little Australians is an Australian musical with music by David Reeves, lyrics by John Palmer and Reeves and book by Reeves, Palmer and Peter Yeldham.  It is based on the classic Australian children's 1894 novel Seven Little Australians by Ethel Turner.",
+        "source_url": "https://en.wikipedia.org/wiki/Seven_Little_Australians_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "songbook": {
+      "slug": "songbook",
+      "title": "Songbook",
+      "qid": "Q7561236",
+      "enwiki": "Songbook (musical)",
+      "composers": [
+        {
+          "name": "Monty Norman",
+          "qid": "Q954120",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7803"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Laurence Olivier Awards",
+          "qid": "Q28470"
+        }
+      ],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6229",
+        "wikipedia": "https://en.wikipedia.org/wiki/Songbook_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7561236"
+      },
+      "summary": {
+        "text": "Songbook (New York title The Moony Shapiro Songbook) is a musical with music by Monty Norman and book and lyrics by Monty Norman and Julian More. The musical tells the improbable life story of a fictional songwriter, born in Liverpool in 1908, who has a colourful career with extraordinary successes and setbacks, loves and losses, and brushes with celebrities and historic events; he dies celebrated.\nIt premiered at the Gielgud Theatre in London on 25 July 1979, where it ran for 208 performances.",
+        "source_url": "https://en.wikipedia.org/wiki/Songbook_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-arcadians": {
+      "slug": "the-arcadians",
+      "title": "The Arcadians",
+      "qid": "Q7714156",
+      "enwiki": "The Arcadians (musical)",
+      "composers": [
+        {
+          "name": "Howard Talbot",
+          "qid": "Q5921014",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12481"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Arcadians_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7714156"
+      },
+      "summary": {
+        "text": "The Arcadians is an Edwardian musical comedy styled a \"Fantastic Musical Play\" in three acts with a book by Mark Ambient and Alexander M. Thompson, lyrics by Arthur Wimperis, and music by Lionel Monckton and Howard Talbot. The story concerns some idyllic Arcadians who wish to transform wicked London to a land of truth and simplicity.\nFirst produced by Robert Courtneidge, the musical opened at the Shaftesbury Theatre in London, on 29 April 1909, and ran for 809 performances. This was the third longest run for any musical theatre piece up to that time. The production starred Phyllis Dare, Dan Rolyat and Florence Smithson. A Broadway production opened in 1910 and ran for 193 performances. The piece was toured extensively, revived professionally in Britain, and a silent film version was made in 1927. It was popular with amateur theatre groups, particularly in Britain, throughout the 20th century. Recordings of some of its numbers were made in 1909 and 1915 by original members of the London cast, and more substantial excerpts and one complete performance have been released on compact disc.\nThe work is regarded by theatre historians as the finest example of its genre, with Monckton's melodic talent supported by Talbot's technical skill. The score contains elements characteristic of the Savoy Operas of the previous generation as well as broader numbers reminiscent of the music hall.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Arcadians_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

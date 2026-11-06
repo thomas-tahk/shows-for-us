@@ -1,0 +1,498 @@
+{
+  "live": true,
+  "shows": {
+    "a-padlas": {
+      "slug": "a-padlas",
+      "title": "A padlás",
+      "qid": "Q470631",
+      "enwiki": "A padlás",
+      "composers": [
+        {
+          "name": "Gábor Presser",
+          "qid": "Q714317"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Dusán Sztevanovity",
+          "qid": "Q1300225"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Péter Horváth",
+          "qid": "Q1055591"
+        },
+        {
+          "name": "Dusán Sztevanovity",
+          "qid": "Q1300225"
+        }
+      ],
+      "premiere": {
+        "date": "1988-01-29",
+        "venue": "Comedy Theatre of Budapest"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/A_padl%C3%A1s",
+        "wikidata": "https://www.wikidata.org/wiki/Q470631"
+      },
+      "summary": {
+        "text": "A padlás (Hungarian: [ɒ ˈpɒdlaːʃ]; English: The Attic) is a Hungarian musical with music by Gábor Presser and lyrics by Dusán Sztevanovity. The musical also contains additional text by Péter Horváth. It premiered in the Comedy Theatre, Budapest on 29 January 1988, directed by László Marton. In addition to its continuing successful performance there, it has also been performed in several other Hungarian theatres, as well as in other countries. The musical tells the story of a burglary, of two young people in love, and of four ghosts looking for the other world.",
+        "source_url": "https://en.wikipedia.org/wiki/A_padl%C3%A1s",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "a-tale-of-two-cities": {
+      "slug": "a-tale-of-two-cities",
+      "title": "A Tale of Two Cities",
+      "qid": "Q4659960",
+      "enwiki": "A Tale of Two Cities (musical)",
+      "composers": [
+        {
+          "name": "Jill Santoriello",
+          "qid": "Q6193034",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/478298"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Jill Santoriello",
+          "qid": "Q6193034",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/478298"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/478294",
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Tale_of_Two_Cities_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4659960"
+      },
+      "summary": {
+        "text": "A Tale of Two Cities is a musical with book, music and lyrics by Jill Santoriello based on the 1859 novel of the same name by Charles Dickens.\nAfter tryouts at the Asolo Repertory Theatre in Sarasota, Florida, in October and November 2007, the show opened on Broadway on September 18, 2008, following previews that began on August 19 at the Al Hirschfeld Theatre.  The musical closed on November 9, 2008, after a run of 60 performances and 33 previews. The show received the 2009 Outer Critics Circle Award nomination for Outstanding New Musical for its Broadway run. James Barbour  received a 2009 Drama Desk Award nomination for his performance as Sydney Carton.",
+        "source_url": "https://en.wikipedia.org/wiki/A_Tale_of_Two_Cities_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "adding-machine": {
+      "slug": "adding-machine",
+      "title": "Adding Machine",
+      "qid": "Q4681162",
+      "enwiki": "Adding Machine (musical)",
+      "composers": [
+        {
+          "name": "Joshua Schmidt",
+          "qid": "Q30323711"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Adding_Machine_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4681162"
+      },
+      "summary": {
+        "text": "Adding Machine is a musical with music by Joshua Schmidt, and book and lyrics by Schmidt and Jason Loewith. It is an adaptation of Elmer Rice's 1923 play of the same name.\nThe show opened in 2007 in Illinois before moving off-Broadway in 2008. The show was nominated for numerous Lucille Lortel and Drama Desk awards.",
+        "source_url": "https://en.wikipedia.org/wiki/Adding_Machine_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "by-jupiter": {
+      "slug": "by-jupiter",
+      "title": "By Jupiter",
+      "qid": "Q5003799",
+      "enwiki": "By Jupiter",
+      "composers": [
+        {
+          "name": "Richard Rodgers",
+          "qid": "Q269094",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12311"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Lorenz Hart",
+          "qid": "Q725828",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11244"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Lorenz Hart",
+          "qid": "Q725828",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11244"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2327",
+        "wikipedia": "https://en.wikipedia.org/wiki/By_Jupiter",
+        "wikidata": "https://www.wikidata.org/wiki/Q5003799"
+      },
+      "summary": {
+        "text": "By Jupiter is a musical with a book by Lorenz Hart and Richard Rodgers, music by Rodgers, and lyrics by Hart. The musical is based on the play The Warrior's Husband by Julian F. Thompson, set in the land of the Amazons. By Jupiter premiered on  Broadway in 1942 and starred Ray Bolger, and was the last musical written by Rodgers and Hart; when Hart’s erratic behavior was often the cause of friction between him and Rodgers and led to a breakup of their partnership the following year before his death. Rodgers then began collaborating with Oscar Hammerstein II.",
+        "source_url": "https://en.wikipedia.org/wiki/By_Jupiter",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "evie-may": {
+      "slug": "evie-may",
+      "title": "Evie May",
+      "qid": "Q96377508",
+      "enwiki": "Evie May (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Evie_May_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q96377508"
+      },
+      "summary": {
+        "text": "Evie May is an Australian musical by Hugo Chiarella (book and lyrics) and Naomi Livingston (music and lyrics).  Set in 1966 on the evening of the last Tivoli performance in Sydney, the show follows veteran variety star Evie May as she recalls the events that lead her from obscurity in regional Western Australia to the Australian variety circuit - and the many sacrifices made to get there.",
+        "source_url": "https://en.wikipedia.org/wiki/Evie_May_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "hercules": {
+      "slug": "hercules",
+      "title": "Hercules",
+      "qid": "Q85766329",
+      "enwiki": "Hercules (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Hercules_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q85766329"
+      },
+      "summary": {
+        "text": "Hercules is a musical based on the Walt Disney Animation Studios 1997 film of the same name, with music and lyrics by Alan Menken and David Zippel, and a book by Robert Horn and Kwame Kwei-Armah. The production is also loosely based on the legendary hero of the same name, the son of Zeus, in Greek mythology.\nProduced by Disney Theatrical Productions, the musical had a tryout at the Delacorte Theater in Central Park in August 2019. It opened in the summer of 2025 at the West End's Theatre Royal, Drury Lane.",
+        "source_url": "https://en.wikipedia.org/wiki/Hercules_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "jump-for-joy": {
+      "slug": "jump-for-joy",
+      "title": "Jump for Joy",
+      "qid": "Q29598370",
+      "enwiki": "Jump for Joy (1941 revue)",
+      "composers": [
+        {
+          "name": "Duke Ellington",
+          "qid": "Q4030",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11631"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1941-07-10",
+        "venue": "Mayan Theater"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Jump_for_Joy_(1941_revue)",
+        "wikidata": "https://www.wikidata.org/wiki/Q29598370"
+      },
+      "summary": {
+        "text": "Jump for Joy is a 1941 musical revue by Duke Ellington that opened on July 10, 1941, at the Mayan Theater of Los Angeles, and ran for nine weeks (122 performances).\nIt included many songs by Ellington, including the jazz standard \"I Got It Bad (and That Ain't Good)\" and the title track, \"Jump for Joy.\" The cast included Ivy Anderson, Dorothy Dandridge, Marie Bryant, Herb Jeffries, Judy Carol, Artie Brandon, Al Guster, the Hi-Hatters, Lawrence Harris, Suzette Johnson, William Lewis, \"Pot, Pan, and Skillet\", Otis Renee, Wonderful Smith, Joe Turner, Paul White, and the Duke Ellington Orchestra.",
+        "source_url": "https://en.wikipedia.org/wiki/Jump_for_Joy_(1941_revue)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "la-damnation-de-faust": {
+      "slug": "la-damnation-de-faust",
+      "title": "La Damnation de Faust",
+      "qid": "Q1144992",
+      "enwiki": "La Damnation de Faust",
+      "composers": [
+        {
+          "name": "Hector Berlioz",
+          "qid": "Q1151",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/485477"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Hector Berlioz",
+          "qid": "Q1151",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/485477"
+        },
+        {
+          "name": "Gérard de Nerval",
+          "qid": "Q191305"
+        },
+        {
+          "name": "Almire Gandonnière",
+          "qid": "Q2839127"
+        }
+      ],
+      "premiere": {
+        "date": "1846-12-06",
+        "venue": "Opéra-Comique"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/La_Damnation_de_Faust",
+        "wikidata": "https://www.wikidata.org/wiki/Q1144992"
+      },
+      "summary": {
+        "text": "La Damnation de Faust (English: The Damnation of Faust), Op. 24 is a French musical composition for four solo voices, full seven-part chorus, large children's chorus and orchestra by the French composer Hector Berlioz. He called it a légende dramatique (\"dramatic legend\"). It was first performed at the Opéra-Comique in Paris on 6 December 1846.",
+        "source_url": "https://en.wikipedia.org/wiki/La_Damnation_de_Faust",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "marguerite": {
+      "slug": "marguerite",
+      "title": "Marguerite",
+      "qid": "Q3290664",
+      "enwiki": "Marguerite (musical)",
+      "composers": [
+        {
+          "name": "Michel Legrand",
+          "qid": "Q313281",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12036"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Alain Boublil",
+          "qid": "Q284540",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3932"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Marguerite_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q3290664"
+      },
+      "summary": {
+        "text": "Marguerite is a musical with a book by Alain Boublil, Claude-Michel Schönberg and Jonathan Kent, lyrics by Alain Boublil and Herbert Kretzmer, and music by Michel Legrand, with original French lyrics by Boublil. Based on the romantic novel La Dame aux Camélias by Alexandre Dumas, fils, the musical updates the story to 1940s German-occupied Paris. It tells the tale of a 40-year-old ex-singer and her affair with a young musician who is mixed up with the French Resistance, whilst she is the mistress of a Nazi officer.",
+        "source_url": "https://en.wikipedia.org/wiki/Marguerite_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "oh-oh-delphine": {
+      "slug": "oh-oh-delphine",
+      "title": "Oh! Oh! Delphine",
+      "qid": "Q65076068",
+      "enwiki": "Oh! Oh! Delphine",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Oh!_Oh!_Delphine",
+        "wikidata": "https://www.wikidata.org/wiki/Q65076068"
+      },
+      "summary": {
+        "text": "Oh! Oh! Delphine is a musical comedy with book and lyrics by C. M. S. McLellan and music by Ivan Caryll. It is based on the French farce Villa Primrose by Marcel Guillemaud and Georges Berr.\nA Broadway production opened at the Knickerbocker Theatre on September 30, 1912, and played for 258 performances, directed by  Herbert Gresham, choreographed by Julian Mitchell and music directed by Frederick Solomon. It opened in London in 1913 at the Shaftesbury Theatre, and in Australia in 1918.",
+        "source_url": "https://en.wikipedia.org/wiki/Oh!_Oh!_Delphine",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "ragtime": {
+      "slug": "ragtime",
+      "title": "Ragtime",
+      "qid": "Q7283247",
+      "enwiki": "Ragtime (musical)",
+      "composers": [
+        {
+          "name": "Stephen Flaherty",
+          "qid": "Q3973178",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11668"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Lynn Ahrens",
+          "qid": "Q293323",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7450"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Terrence McNally",
+          "qid": "Q1566335",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8828"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Drama Desk Award for Outstanding Book of a Musical",
+          "qid": "Q5305705"
+        },
+        {
+          "name": "Drama Desk Award for Outstanding Musical",
+          "qid": "Q5305719"
+        }
+      ],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7352",
+        "playbill": "https://playbill.com/production/ragtime-neil-simon-theatre-vault-0000000843",
+        "wikipedia": "https://en.wikipedia.org/wiki/Ragtime_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7283247"
+      },
+      "summary": {
+        "text": "Ragtime is a musical with music by Stephen Flaherty, lyrics by Lynn Ahrens, and a book by Terrence McNally. It is based on the 1975 novel by E. L. Doctorow.\nSet in the early 20th century, Ragtime tells the story of three groups in the United States: African Americans, represented by Coalhouse Walker Jr., a Harlem musician; upper-class suburbanites, represented by Mother, the matriarch of a white upper-class family in New Rochelle, New York; and Eastern European immigrants, represented by Tateh, a Jewish immigrant from Latvia. The show also incorporates historical figures such as Harry Houdini, Evelyn Nesbit, Booker T. Washington, J. P. Morgan, Henry Ford, Stanford White, Harry Kendall Thaw, Admiral Peary, Matthew Henson, and Emma Goldman.",
+        "source_url": "https://en.wikipedia.org/wiki/Ragtime_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "smokey-joe-s-cafe": {
+      "slug": "smokey-joe-s-cafe",
+      "title": "Smokey Joe's Cafe",
+      "qid": "Q16984713",
+      "enwiki": "Smokey Joe's Cafe (revue)",
+      "composers": [
+        {
+          "name": "Leiber-Stoller",
+          "qid": "Q1259115"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1995-03-02",
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Grammy Award for Best Musical Theater Album",
+          "qid": "Q3113385"
+        }
+      ],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8112",
+        "wikipedia": "https://en.wikipedia.org/wiki/Smokey_Joe's_Cafe_(revue)",
+        "wikidata": "https://www.wikidata.org/wiki/Q16984713"
+      },
+      "summary": {
+        "text": "Smokey Joe's Cafe is a musical revue showcasing 39 pop standards, including rock and roll and rhythm and blues songs written by songwriters Jerry Leiber and Mike Stoller. The Original Broadway cast recording, Smokey Joe's Cafe: The Songs of Leiber and Stoller, won a Grammy Award in 1997.\nAfter a Los Angeles tryout, the revue opened on Broadway in 1995, running for 2,036 performances, making it the longest-running musical revue in Broadway history. It also had a London run in 2021.",
+        "source_url": "https://en.wikipedia.org/wiki/Smokey_Joe's_Cafe_(revue)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-passing-show-of-1916": {
+      "slug": "the-passing-show-of-1916",
+      "title": "The Passing Show of 1916",
+      "qid": "Q7756249",
+      "enwiki": "The Passing Show of 1916",
+      "composers": [
+        {
+          "name": "Otto Motzan",
+          "qid": "Q109858135"
+        },
+        {
+          "name": "Sigmund Romberg",
+          "qid": "Q742945",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8686"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Harold R. Atteridge",
+          "qid": "Q5662077",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/24428"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Harold R. Atteridge",
+          "qid": "Q5662077",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/24428"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6963",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Passing_Show_of_1916",
+        "wikidata": "https://www.wikidata.org/wiki/Q7756249"
+      },
+      "summary": {
+        "text": "The Passing Show of 1916 is a revue featuring the music of Sigmund Romberg and Otto Motzan, with book and lyrics by Harold Atteridge.  It  included the first George Gershwin songs introduced in a Broadway show.\nIt opened in the Winter Garden Theater on June 22, 1916 and played for 140 performances, closing on October 21, 1916.  It was directed by Jacob J. Shubert and J. C. Huffman and choreographed by Allan K. Foster.  The popular song \"Pretty Baby\" was included in the show.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Passing_Show_of_1916",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-seat-of-our-pants": {
+      "slug": "the-seat-of-our-pants",
+      "title": "The Seat of Our Pants",
+      "qid": "Q140026558",
+      "enwiki": "The Seat of Our Pants",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Seat_of_Our_Pants",
+        "wikidata": "https://www.wikidata.org/wiki/Q140026558"
+      },
+      "summary": {
+        "text": "The Seat of Our Pants is a musical adapted and written by Ethan Lipton, based on Thornton Wilder's 1942 comedy The Skin of Our Teeth. It opened on November 13, 2025, at The Public Theater in Lower Manhattan.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Seat_of_Our_Pants",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

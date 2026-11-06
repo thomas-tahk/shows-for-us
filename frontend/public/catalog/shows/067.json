@@ -1,0 +1,568 @@
+{
+  "live": true,
+  "shows": {
+    "along-fifth-avenue": {
+      "slug": "along-fifth-avenue",
+      "title": "Along Fifth Avenue",
+      "qid": "Q118899540",
+      "enwiki": "Along Fifth Avenue",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1949",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Along_Fifth_Avenue",
+        "wikidata": "https://www.wikidata.org/wiki/Q118899540"
+      },
+      "summary": {
+        "text": "Along Fifth Avenue is a revue in two acts with sketches by Charles Sherman and Nat Hiken; music by Gordon Jenkins, Richard Stutz, Milton Pascal and Hiken; and lyrics by Tom Adair, Stutz, Pascal and Hiken. It was produced on Broadway in 1949.",
+        "source_url": "https://en.wikipedia.org/wiki/Along_Fifth_Avenue",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "becoming-nancy": {
+      "slug": "becoming-nancy",
+      "title": "Becoming Nancy",
+      "qid": "Q96417790",
+      "enwiki": "Becoming Nancy (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Becoming_Nancy_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q96417790"
+      },
+      "summary": {
+        "text": "Becoming Nancy is a musical with a book by Elliot Davis, music by George Stiles and lyrics by Anthony Drewe with additional songs by Terry Ronald and Elliot Davis. It is based on the 2011 debut novel of the same name by composer Terry Ronald.",
+        "source_url": "https://en.wikipedia.org/wiki/Becoming_Nancy_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "disco-inferno": {
+      "slug": "disco-inferno",
+      "title": "Disco Inferno",
+      "qid": "Q5281537",
+      "enwiki": "Disco Inferno (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2004",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Disco_Inferno_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5281537"
+      },
+      "summary": {
+        "text": "Disco Inferno is a 2004 jukebox musical written by Jai Sepple. Set in the East End of London in 1976, the show features songs from the 1970s and is loosely based on the story of Faust.",
+        "source_url": "https://en.wikipedia.org/wiki/Disco_Inferno_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "flora-the-red-menace": {
+      "slug": "flora-the-red-menace",
+      "title": "Flora the Red Menace",
+      "qid": "Q5460450",
+      "enwiki": "Flora the Red Menace",
+      "composers": [
+        {
+          "name": "John Kander",
+          "qid": "Q1685876",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6837"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Fred Ebb",
+          "qid": "Q1274807",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5654"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "George Abbott",
+          "qid": "Q1506831",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5770"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3608",
+        "wikipedia": "https://en.wikipedia.org/wiki/Flora_the_Red_Menace",
+        "wikidata": "https://www.wikidata.org/wiki/Q5460450"
+      },
+      "summary": {
+        "text": "Flora the Red Menace is a musical with a book by George Abbott and Robert Russell, music by John Kander, and lyrics by Fred Ebb. The original 1965 production starred Liza Minnelli in the title role in her Broadway debut, for which she won a Tony Award for Best Actress in a Musical.  The show marked the first collaboration of Kander and Ebb, who went on to write the Broadway and Hollywood hits Cabaret and Chicago.\nWhile only two numbers (\"A Quiet Thing\" and \"Sing Happy\") became notable outside the show, the score does present a valuable insight into the later work of Kander and Ebb: like Cabaret and Chicago, it features a headstrong heroine and has a strong dose of political content.",
+        "source_url": "https://en.wikipedia.org/wiki/Flora_the_Red_Menace",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "got-tu-go-disco": {
+      "slug": "got-tu-go-disco",
+      "title": "Got tu Go Disco",
+      "qid": "Q112030260",
+      "enwiki": "Got tu Go Disco",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Got_tu_Go_Disco",
+        "wikidata": "https://www.wikidata.org/wiki/Q112030260"
+      },
+      "summary": {
+        "text": "Got tu Go Disco is a musical with music and lyrics by Kenny Lehman, John Davis, Ray Chew, Nat Adderley Jr., Thomas Jones, Wayne Morrison, Steve Boston, Eugene Narmore, Betty Rowland, Jerry Powell and a book by John Zodrow. Following nine previews, the show opened on Broadway in June 1979, where it ran for eight performances.\nThe plot adapts the Cinderella story to a nightclub setting, as the young woman Cassette sells clothes by day and becomes queen of the dancefloor by night.",
+        "source_url": "https://en.wikipedia.org/wiki/Got_tu_Go_Disco",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "gutenberg-the-musical": {
+      "slug": "gutenberg-the-musical",
+      "title": "Gutenberg! The Musical!",
+      "qid": "Q5621714",
+      "enwiki": "Gutenberg! The Musical!",
+      "composers": [
+        {
+          "name": "Scott Brown",
+          "qid": "Q294974"
+        },
+        {
+          "name": "Anthony King",
+          "qid": "Q4772883",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/459898"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Scott Brown",
+          "qid": "Q83854804",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/459897"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "http://www.gutenbergthemusical.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Gutenberg!_The_Musical!",
+        "wikidata": "https://www.wikidata.org/wiki/Q5621714"
+      },
+      "summary": {
+        "text": "Gutenberg! The Musical! is a musical written and composed by Scott Brown and Anthony King. Brown and King developed the show at the Upright Citizens Brigade Theatre in New York City, where versions of it played over the course of more than a year. The show was part of the 2005 New York Musical Theatre Festival and, in more final form, the 2006 Festival, and ran at the Jermyn Street Theatre in London in January 2006.\nThe musical opened off-Broadway on December 3, 2006, directed by Alex Timbers, and closed on May 6, 2007. A 2023 Broadway production, also helmed by Timbers, starred Josh Gad and Andrew Rannells.\nThe piece concerns two earnest but clueless theatre composers, who present a highly inaccurate musical about the life of Johannes Gutenberg to potential investors.",
+        "source_url": "https://en.wikipedia.org/wiki/Gutenberg!_The_Musical!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "half-in-earnest": {
+      "slug": "half-in-earnest",
+      "title": "Half in Earnest",
+      "qid": "Q124250046",
+      "enwiki": "Half in Earnest",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Half_in_Earnest",
+        "wikidata": "https://www.wikidata.org/wiki/Q124250046"
+      },
+      "summary": {
+        "text": "Half in Earnest is a musical comedy by Vivian Ellis adapted from The Importance of Being Earnest and other works of Oscar Wilde.\nIt premiered at the Bucks County Playhouse in Pennsylvania and the Olney Theatre in Maryland in 1957, featuring Anna Russell. The following year, a production opened the Belgrade Theatre, Coventry on March 27, 1958.",
+        "source_url": "https://en.wikipedia.org/wiki/Half_in_Earnest",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "jack-o-lantern": {
+      "slug": "jack-o-lantern",
+      "title": "Jack O'Lantern",
+      "qid": "Q121461209",
+      "enwiki": "Jack O'Lantern (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Jack_O'Lantern_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q121461209"
+      },
+      "summary": {
+        "text": "Jack O'Lantern is a musical in two acts and 8 scenes with music by Ivan Caryll and both lyrics and book co-authored by Anne Caldwell and R. H. Burnside. The work also included some additional songs with music by Irving Berlin, Shelton Brooks and Gus King; and lyrics by Louis Harrison and Benjamin Hapgood Burt.\nJack O'Lantern was written as a starring vehicle for Fred Stone who portrayed John Obadiah Lantern, a.k.a. \"Jack O'Lantern\". The work premiered on Broadway at the Globe Theatre on October 16, 1917.  A modest success, it ran for a total of 265 performances; closing on June 1, 1918. The work was directed by Burnside, produced by Charles Dillingham, and included sets designed by Ernest Albert, Homer Emens and Joseph Urban. Helen Dryden, Robert MacQuinn, and Gladys Monkhouse designed the costumes.",
+        "source_url": "https://en.wikipedia.org/wiki/Jack_O'Lantern_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "johnny-johnson": {
+      "slug": "johnny-johnson",
+      "title": "Johnny Johnson",
+      "qid": "Q6266982",
+      "enwiki": "Johnny Johnson (musical)",
+      "composers": [
+        {
+          "name": "Kurt Weill",
+          "qid": "Q55004",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7112"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Paul Green",
+          "qid": "Q704852",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8043"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4921",
+        "wikipedia": "https://en.wikipedia.org/wiki/Johnny_Johnson_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6266982"
+      },
+      "summary": {
+        "text": "Johnny Johnson is a musical with a book and lyrics by Paul Green and music by Kurt Weill. It premiered in 1936 on  Broadway.\nBased on Jaroslav Hašek's 1921–1923 satiric novel The Good Soldier Švejk, the musical focuses on a naive and idealistic young man who, despite his pacifist views, leaves his sweetheart Minny Belle Tompkins to fight in Europe in World War I. He first tries to stop the war after meeting a young German sniper of the same name, who believes that the soldiers must unite. However, the commanders of the allied forces intend to use the discontent with the war among the German soldiers as a perfect time to advance in the war. Johnny then manages to bring the skirmish to a temporary halt by incapacitating a meeting of the generals with laughing gas, but once they recover they promptly reinstate the war, resulting in hundreds of thousands of fatalities. Meanwhile, Johnny finds himself committed to an asylum for ten years. He returns home to discover Minny Belle has married a capitalist, and he settles down as a toymaker who will create anything except tin soldiers, his personal gesture of peace in an increasingly warlike society.\nThe musical was written and composed by Green and Weill during the summer of 1936 in a rented old house located in Nichols, Connecticut near the summer rehearsal headquarters of the Group Theatre at Pine Brook Country Club. Its title was inspired by the fact the name appeared on United States casualty rolls more often than any other.",
+        "source_url": "https://en.wikipedia.org/wiki/Johnny_Johnson_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "monte-cristo-jr-musical": {
+      "slug": "monte-cristo-jr-musical",
+      "title": "Monte Cristo Jr.",
+      "qid": "Q124607407",
+      "enwiki": "Monte Cristo Jr. (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Monte_Cristo_Jr._(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q124607407"
+      },
+      "summary": {
+        "text": "Monte Cristo Jr. is a musical in two acts with music by Sigmund Romberg and Jean Schwartz and both book and lyrics by Harold Atteridge. Additional music was by Maurice Abrahams, Fred E. Alhert and Earl Carroll, with lyrics by Earl Carroll, Sam M. Lewis and Joe Young.  It should not be confused with the similarly named Monte Cristo Jr. by Richard Henry.\nRomberg, Schwartz, & Atteridge's Monte Cristo, Jr. premiered on Broadway at the Winter Garden Theatre on February 12, 1919; closing on October 4, 1919, after 215 performances. Performances of this show were suspended for a month during the Actor's Equity strike. It starred Charles Purcell as a boy named Monte who is reading Dumas's The Count of Monte Cristo, and after falling asleep, finds himself and his friends transformed into characters within the book. Others in the original cast included Charles \"Chic\" Sale (as Jefferson Sap Jr.), Flore Revalles (as Yvonne, Haydee, and Diamonda), Rosa Rolanda (as King Love), Sam Ash (as Julian Danglers), Gordon Dooley (as Wilbur), Esther Walker (as Daisy), and Ralph C. Herz (as Jameson and  Reverend Fluffy Ruff) among others.",
+        "source_url": "https://en.wikipedia.org/wiki/Monte_Cristo_Jr._(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "mr-president": {
+      "slug": "mr-president",
+      "title": "Mr. President",
+      "qid": "Q6929117",
+      "enwiki": "Mr. President (musical)",
+      "composers": [
+        {
+          "name": "Irving Berlin",
+          "qid": "Q128746",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6452"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Irving Berlin",
+          "qid": "Q128746",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6452"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Howard Lindsay",
+          "qid": "Q1374517",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6373"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6291",
+        "wikipedia": "https://en.wikipedia.org/wiki/Mr._President_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6929117"
+      },
+      "summary": {
+        "text": "Mr. President is a musical with a book by Howard Lindsay and Russel Crouse and music and lyrics by Irving Berlin.  The story focuses on fictional US President Stephen Decatur Henderson, who runs into political trouble following a disastrous trip to the Soviet Union, and his problems with his children. Bored with life as a civilian after his presidency ends, he decides to return to political life.\nThe original 1962 Broadway production ran for 265 performances and starred Robert Ryan and Nanette Fabray. The show received a generally unenthusiastic response and was Irving Berlin's last musical.",
+        "source_url": "https://en.wikipedia.org/wiki/Mr._President_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "roman-holiday": {
+      "slug": "roman-holiday",
+      "title": "Roman Holiday",
+      "qid": "Q30602927",
+      "enwiki": "Roman Holiday (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Roman_Holiday_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q30602927"
+      },
+      "summary": {
+        "text": "Roman Holiday is a jukebox musical with music and lyrics by Cole Porter, and a book by Paul Blake. Based on the 1953 film of the same name, the musical tells the story of a young European princess and the American reporter who inadvertently aids in her escape from a whirlwind European tour, resulting in 24 hours spent in Italy's capital.",
+        "source_url": "https://en.wikipedia.org/wiki/Roman_Holiday_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "sinbad-1891-musical": {
+      "slug": "sinbad-1891-musical",
+      "title": "Sinbad",
+      "qid": "Q7521859",
+      "enwiki": "Sinbad (1891 musical)",
+      "composers": [
+        {
+          "name": "William H. Batchelor",
+          "qid": "Q78895367",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/455043"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Harry B. Smith",
+          "qid": "Q5667065",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/24417"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Sinbad_(1891_musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7521859"
+      },
+      "summary": {
+        "text": "Sinbad or The Maid of Balsora is a musical with music composed by W. H. Batchelor and a book and lyrics by Harry B. Smith.\nThe original production opened on June 11, 1891, in Chicago and starred Eddie Foy.  It was produced by David Henderson, whose company was then known as the American Extravaganza Company.",
+        "source_url": "https://en.wikipedia.org/wiki/Sinbad_(1891_musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-billionaire": {
+      "slug": "the-billionaire",
+      "title": "The Billionaire",
+      "qid": "Q121536461",
+      "enwiki": "The Billionaire (musical)",
+      "composers": [
+        {
+          "name": "Gustave Kerker",
+          "qid": "Q113876",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11994"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Harry B. Smith",
+          "qid": "Q5667065",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/24417"
+        }
+      ],
+      "premiere": {
+        "date": "1902-12-29",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Billionaire_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q121536461"
+      },
+      "summary": {
+        "text": "The Billionaire is a musical in three acts with music by Gustave Kerker, and both book and lyrics by Harry B. Smith. The show was written with the backing of producers Klaw and Erlanger and was made specifically for the talents of Jerome Sykes who portrayed \"The Billionaire\", John Doe. The action of the musical begins in Nice, France during Carnival where the billionaire Sykes meets a young American girl, Pansy Good (portrayed by Nellie Follis), studying to be an actress. Impressed with her talents, he buys her Doe's Theatre in New York City and establishes her as a star. Later, Doe attempts to ride a horse in a race at the Longchamp Racecourse in Paris, but is too fat to succeed. Pansy rides the horse instead and wins the race.\nThe Billionaire premiered on Broadway at Daly's Theatre on December 29, 1902, where it ran for a total of 104 performances; closing on March 28, 1903  The production was later remounted for a 8 more performances at the Grand Opera House the following April. Herbert Gresham directed the production and Ned Wayburn choreographed the show. The costumes were designed by F. Richard Anderson, and the sets were designed by Ernest Albert. Others in the cast included May Robson as Mrs. Peppercorn, Sallie Fisher as Flora, and Marie Doro as Rosalba.\nAfter the New York run, the musical toured the United States; ultimately closing in Chicago after Sykes caught pneumonia in that city and died on December 29, 1903.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Billionaire_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-great-british-bake-off-musical": {
+      "slug": "the-great-british-bake-off-musical",
+      "title": "The Great British Bake Off Musical",
+      "qid": "Q110664609",
+      "enwiki": "The Great British Bake Off Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Great_British_Bake_Off_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q110664609"
+      },
+      "summary": {
+        "text": "The Great British Bake Off Musical is a musical with book and lyrics by Jake Brunger and music and lyrics by Pippa Cleary, based on the British television baking competition of the same name.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Great_British_Bake_Off_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-great-waltz": {
+      "slug": "the-great-waltz",
+      "title": "The Great Waltz",
+      "qid": "Q21505421",
+      "enwiki": "The Great Waltz (musical)",
+      "composers": [
+        {
+          "name": "Johann Strauss I",
+          "qid": "Q184178",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12460"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Desmond Carter",
+          "qid": "Q5264682",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5042"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4083",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Great_Waltz_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q21505421"
+      },
+      "summary": {
+        "text": "The Great Waltz is a  musical conceived by Hassard Short with a book by Moss Hart and lyrics by Desmond Carter, using themes by Johann Strauss I and Johann Strauss II.  It is based on a pasticcio by Erich Wolfgang Korngold and Julius Bittner called Walzer aus Wien, first performed in Vienna in 1930.  The story of the musical is loosely based on the real-life feud between the older and younger Strauss, allegedly because of the father's jealousy of his son's greater talent.\nThe Great Waltz debuted on Broadway at the Center Theatre on September 22, 1934 and ran for 289 performances. The production was directed by Hassard Short and presented by Max Gordon, with choreography by Albertina Rasch, settings by Albert Johnson and costumes by Doris Zinkeisen together with Marion Claire, Marie Burke and Guy Robertson.  The musical was made into a motion picture by MGM in 1938 with a screenplay and new lyrics by Oscar Hammerstein II.  \nIn 1949 impresario Edwin Lester hired Robert Wright and George Forrest to adapt Strauss's German lyrics and music for a production at the Los Angeles Civic Light Opera starring Dorothy Kirsten and John Charles Thomas. This version was used for a London revival that opened at the Drury Lane Theatre on July 9, 1970 and ran for 605 performances.  It was also used for a 1972 film remake.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Great_Waltz_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-little-show": {
+      "slug": "the-little-show",
+      "title": "The Little Show",
+      "qid": "Q7747722",
+      "enwiki": "The Little Show",
+      "composers": [
+        {
+          "name": "Arthur Schwartz",
+          "qid": "Q711473",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4324"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Howard Dietz",
+          "qid": "Q1631780",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6363"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": "1929-04-30",
+        "venue": "Music Box Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5483",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Little_Show",
+        "wikidata": "https://www.wikidata.org/wiki/Q7747722"
+      },
+      "summary": {
+        "text": "The Little Show was a musical revue with lyrics by Howard Dietz and music by Arthur Schwartz. It was the first of 11 musicals that featured the songs of Dietz and Schwartz. The revue opened at the Music Box Theatre on Broadway on April 30, 1929 and ran for 321 performances until February 1930.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Little_Show",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-tap-dance-kid": {
+      "slug": "the-tap-dance-kid",
+      "title": "The Tap Dance Kid",
+      "qid": "Q7768114",
+      "enwiki": "The Tap Dance Kid",
+      "composers": [
+        {
+          "name": "Henry Krieger",
+          "qid": "Q5724487",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12011"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Robert Lorick",
+          "qid": "Q7346991",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13056"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8527",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Tap_Dance_Kid",
+        "wikidata": "https://www.wikidata.org/wiki/Q7768114"
+      },
+      "summary": {
+        "text": "The Tap Dance Kid is a musical based on the novel Nobody's Family is Going to Change by Louise Fitzhugh. It was written by Charles Blackwell with music by Henry Krieger and lyrics by Robert Lorick.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Tap_Dance_Kid",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

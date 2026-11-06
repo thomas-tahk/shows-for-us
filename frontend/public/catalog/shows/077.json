@@ -1,0 +1,605 @@
+{
+  "live": true,
+  "shows": {
+    "american-idiot": {
+      "slug": "american-idiot",
+      "title": "American Idiot",
+      "qid": "Q465082",
+      "enwiki": "American Idiot (musical)",
+      "composers": [
+        {
+          "name": "Green Day",
+          "qid": "Q47871",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/485579"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Billie Joe Armstrong",
+          "qid": "Q712592",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/485580"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": "2009-09-04",
+        "venue": "Berkeley Repertory Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/485577",
+        "wikipedia": "https://en.wikipedia.org/wiki/American_Idiot_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q465082"
+      },
+      "summary": {
+        "text": "American Idiot is a sung-through rock musical based on the 2004 concept album  of the same name by rock band Green Day. After a run at the Berkeley Repertory Theatre in 2009, the show moved to the St. James Theatre on Broadway. Previews began on March 24, 2010, and the musical officially opened on April 20, 2010. The show closed on April 24, 2011, after 422 performances. While Green Day did not appear in the production, vocalist/guitarist Billie Joe Armstrong performed the role of St. Jimmy occasionally throughout the run.\nThe story, expanded from that of the album by Armstrong and director Michael Mayer, centers on three disaffected young men, Johnny, Will, and Tunny. Johnny and Tunny flee a stifling suburban lifestyle and parental restrictions, while Will stays at home to work out his relationship with his pregnant girlfriend, Heather. The former pair look for meaning in life and try out the freedom and excitement of the city. Tunny quickly gives up on life in the city, joins the military and is shipped off to war. Johnny turns to drugs and finds a part of himself that he grows to dislike, has a relationship and experiences lost love.\nThe book was written by Armstrong and director Michael Mayer. The music was composed by Green Day and the lyrics were by Armstrong. The score included all the songs from the band's original American Idiot album, as well as additional Green Day songs from the 2009 concept album 21st Century Breakdown, and \"When It's Time\", a song originally only released as a single in Britain.\nThe musical won two Tony Awards: Best Scenic Design of a Musical for Christine Jones and Best Lighting Design of a Musical for Kevin Adams. It also received a nomination for Best Musical. In 2011, its Broadway cast recording won a Grammy Award for Best Musical Show Album.",
+        "source_url": "https://en.wikipedia.org/wiki/American_Idiot_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "elegies-for-angels-punks-and-raging-queens": {
+      "slug": "elegies-for-angels-punks-and-raging-queens",
+      "title": "Elegies for Angels, Punks and Raging Queens",
+      "qid": "Q1326330",
+      "enwiki": "Elegies for Angels, Punks and Raging Queens",
+      "composers": [],
+      "lyricists": [
+        {
+          "name": "Bill Russell",
+          "qid": "Q862419",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4541"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Bill Russell",
+          "qid": "Q862419",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4541"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Elegies_for_Angels%2C_Punks_and_Raging_Queens",
+        "wikidata": "https://www.wikidata.org/wiki/Q1326330"
+      },
+      "summary": {
+        "text": "Elegies For Angels, Punks and Raging Queens is a musical with music by Janet Hood and lyrics and book by Bill Russell. The work features songs and monologues inspired by the NAMES Project AIDS Memorial Quilt and Edgar Lee Masters' Spoon River Anthology.  Each of the monologues is written from the perspective of characters who've died from AIDS and the songs represent the feelings of friends and family members dealing with the loss.\nThe piece was developed in the late 1980s and was originally titled \"The Quilt.\"  It was originally produced in 1989 by the TWEED New Works Festival at the Ohio Theatre in Soho in NYC, where the new title was adopted.  It was subsequently produced off-off Broadway in 1990 by TWEED's artistic director Kevin Malony and Justin Ross at RAPP Arts Center in Manhattan's East Village.  In 1992, it was produced by Giacomo Capizzano at the King's Head Theatre in London, where it played for several months.  In June 1993, the production was transferred by Mr Capizzano to the Criterion Theatre in London's West End, where it played until July of the same year. The London cast included Miquel Brown, Kim Criswell, Kwame Kwei-Armah, James Dreyfus, Simon Fanshawe and legendary drag queen Regina Fong.\nIn addition to the New York and London productions of the piece, there have been professional productions in Australia, Germany and Israel, among other countries.",
+        "source_url": "https://en.wikipedia.org/wiki/Elegies_for_Angels%2C_Punks_and_Raging_Queens",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "escape-to-margaritaville": {
+      "slug": "escape-to-margaritaville",
+      "title": "Escape to Margaritaville",
+      "qid": "Q33101512",
+      "enwiki": "Escape to Margaritaville",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Escape_to_Margaritaville",
+        "wikidata": "https://www.wikidata.org/wiki/Q33101512"
+      },
+      "summary": {
+        "text": "Escape to Margaritaville is a 2017 American jukebox musical by Greg Garcia and Mike O'Malley, based on the songs of Jimmy Buffett. The plot revolves around a part-time bartender and singer who falls for a career-minded tourist. The show's music consists of songs previously recorded by Buffett, and written by him and various other songwriters, with one exception, the original song \"Three Chords\".\nFollowing try-out performances in La Jolla, New Orleans, Houston, and Chicago, the show premiered on Broadway in February 2018 at the Marriott Marquis Theatre. A national tour launched in 2019.",
+        "source_url": "https://en.wikipedia.org/wiki/Escape_to_Margaritaville",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "evangeline-1999-musical": {
+      "slug": "evangeline-1999-musical",
+      "title": "Evangeline",
+      "qid": "Q5415790",
+      "enwiki": "Evangeline (1999 musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Evangeline_(1999_musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5415790"
+      },
+      "summary": {
+        "text": "Evangeline is a musical with a book by Jamie Wax, lyrics by Wax and Paul Taranto, and music by Paul Taranto.\nPeopled by characters introduced by Henry Wadsworth Longfellow in his 1847 epic poem of the same name, it tells the tale of Evangeline Bellefontaine and Gabriel Lajeunesse, born on the same mid-18th century day in the Acadian village of Grand-Pré in Nova Scotia. The two forge a bond that strengthens as they grow older, and they eventually become engaged. Their lives are disrupted when they are separated by British soldiers who invade the community and disperse the residents among the American colonies. Evangeline's search for her fiancé takes her on a long journey from the New England seacoast to the Louisiana bayous, where she settles in St. Martin and faithfully waits for the arrival of her beloved. Years later she joins local priest Father Felician to assist him in his ministrations to the still-homeless Acadians roaming along the Atlantic seabord, a fateful move that unexpectedly brings her closer to her destiny.\nIn 1995, inspired by a children's theatre production about the Acadian expulsion, music teacher Paul Taranto began working on a musical adaptation of the story. Three years later, he approached actor/playwright/lyricist Wax with a collection of songs he had written and asked if he would be interested in collaborating on the project. Unable to commit himself at the time, he recommended Taranto work with mutual friend Danny Tiberghein, who taught at the same school and had a theatrical background. When Tiberghein was later killed, Wax agreed to complete the musical with Taranto as a memorial to him.",
+        "source_url": "https://en.wikipedia.org/wiki/Evangeline_(1999_musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "fiorello": {
+      "slug": "fiorello",
+      "title": "Fiorello!",
+      "qid": "Q2216434",
+      "enwiki": "Fiorello!",
+      "composers": [
+        {
+          "name": "Jerry Bock",
+          "qid": "Q725042",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/69330"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Sheldon Harnick",
+          "qid": "Q2354471",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8645"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Jerome Weidman",
+          "qid": "Q1687760",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6717"
+        }
+      ],
+      "premiere": {
+        "date": "1959-11-23",
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Pulitzer Prize for Drama",
+          "qid": "Q289214"
+        }
+      ],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3539",
+        "wikipedia": "https://en.wikipedia.org/wiki/Fiorello!",
+        "wikidata": "https://www.wikidata.org/wiki/Q2216434"
+      },
+      "summary": {
+        "text": "Fiorello! is a musical about New York City mayor Fiorello La Guardia, a reform Republican, which debuted on Broadway in 1959, and tells the story of how La Guardia took on the Tammany Hall political machine. The book is by Jerome Weidman and George Abbott, drawn substantially from the 1955 volume Life with Fiorello by Ernest Cuneo, with lyrics by Sheldon Harnick, and music by Jerry Bock. It won the three major theatre awards - Tony Award (shared with The Sound of Music), the New York Drama Critics Circle award, and the Pulitzer Prize for Drama. It is one of only ten musicals to win the latter award.",
+        "source_url": "https://en.wikipedia.org/wiki/Fiorello!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "follies": {
+      "slug": "follies",
+      "title": "Follies",
+      "qid": "Q2452512",
+      "enwiki": "Follies",
+      "composers": [
+        {
+          "name": "Stephen Sondheim",
+          "qid": "Q153579",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12430"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Stephen Sondheim",
+          "qid": "Q153579",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12430"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "James Goldman",
+          "qid": "Q541868",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6594"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Laurence Olivier Awards",
+          "qid": "Q28470"
+        }
+      ],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3638",
+        "wikipedia": "https://en.wikipedia.org/wiki/Follies",
+        "wikidata": "https://www.wikidata.org/wiki/Q2452512"
+      },
+      "summary": {
+        "text": "Follies is a musical with music and lyrics by Stephen Sondheim and a book by James Goldman.\nThe plot centers on a crumbling Broadway theater, now scheduled for demolition, previously home to a musical revue (based on the Ziegfeld Follies). The evening follows a reunion of the Weismann Girls who performed during the interwar period. Several of the former showgirls perform their old numbers, often accompanied by the ghosts of their younger selves. The score offers a pastiche of 1920s and 1930s musical styles, evoking a nostalgic tone.\nThe original Broadway production, directed by Harold Prince and Michael Bennett, with choreography by Bennett, opened April 4, 1971. The musical was nominated for 11 Tony Awards and won seven at the 26th Tony Awards. The original production, among the most costly on Broadway, ran for over 500 performances but ultimately lost its entire investment. The musical has had a number of major revivals, and several of its songs have become standards, including \"Broadway Baby\", \"I'm Still Here\", \"Too Many Mornings\", \"Could I Leave You?\", and \"Losing My Mind\".",
+        "source_url": "https://en.wikipedia.org/wiki/Follies",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "gentlemen-prefer-blondes": {
+      "slug": "gentlemen-prefer-blondes",
+      "title": "Gentlemen Prefer Blondes",
+      "qid": "Q736979",
+      "enwiki": "Gentlemen Prefer Blondes (musical)",
+      "composers": [
+        {
+          "name": "Jule Styne",
+          "qid": "Q587741",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12466"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Leo Robin",
+          "qid": "Q364124",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13232"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Joseph Fields",
+          "qid": "Q1706986",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5528"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3810",
+        "wikipedia": "https://en.wikipedia.org/wiki/Gentlemen_Prefer_Blondes_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q736979"
+      },
+      "summary": {
+        "text": "Gentlemen Prefer Blondes is a musical with a book by Joseph Fields and Anita Loos, lyrics by Leo Robin, and music by Jule Styne, based on the best-selling 1925 novel of the same name by Loos. The story involves an American woman's voyage to Paris to perform in a nightclub.\nThe musical opened on Broadway in 1949 (running for 740 performances and introducing Carol Channing), a London production was mounted in 1962, and there was a Broadway revival in 1995. It was made into a 1953 film of the same name, starring Jane Russell and Marilyn Monroe. The popular songs \"Bye Bye Baby\" and \"Diamonds Are a Girl's Best Friend\" were introduced in this musical. An adaptation called Lorelei (also starring Carol Channing) was performed on Broadway in 1974.",
+        "source_url": "https://en.wikipedia.org/wiki/Gentlemen_Prefer_Blondes_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "here-s-where-i-belong": {
+      "slug": "here-s-where-i-belong",
+      "title": "Here's Where I Belong",
+      "qid": "Q5736747",
+      "enwiki": "Here's Where I Belong",
+      "composers": [
+        {
+          "name": "Robert Waldman",
+          "qid": "Q7350792",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12539"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Alfred Uhry",
+          "qid": "Q766468",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4051"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Terrence McNally",
+          "qid": "Q1566335",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8828"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4366",
+        "wikipedia": "https://en.wikipedia.org/wiki/Here's_Where_I_Belong",
+        "wikidata": "https://www.wikidata.org/wiki/Q5736747"
+      },
+      "summary": {
+        "text": "Here's Where I Belong is a musical with a book by Alex Gordon (a nom de plume of the novelist Gordon Cotler) and Terrence McNally, lyrics by Alfred Uhry, and music by Robert Waldman. The musical closed after one performance on Broadway.",
+        "source_url": "https://en.wikipedia.org/wiki/Here's_Where_I_Belong",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "marvin-trilogy": {
+      "slug": "marvin-trilogy",
+      "title": "Marvin Trilogy",
+      "qid": "Q107556612",
+      "enwiki": "Marvin Trilogy",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Marvin_Trilogy",
+        "wikidata": "https://www.wikidata.org/wiki/Q107556612"
+      },
+      "summary": {
+        "text": "The Marvin Trilogy is a trilogy of one-act musicals created by William Finn. It consists of In Trousers (1978), March of the Falsettos (1981), and Falsettoland (1990). The musicals center on Marvin, who has left his wife to be with a male lover, Whizzer, and struggles to keep his family together. The first act of the trilogy (In Trousers) focuses on Marvin's life as an adolescent, the influential women of his life, and his struggle to accept his sexual identity. Much of the second act (March of the Falsettos) explores the impact his relationship with Whizzer has had on his family. The third act (Falsettoland) focuses on how family dynamics evolve as Marvin and Trina plan for their son's Bar Mitzvah. Central to the musical are the themes of Jewish identity, gender roles, and gay life in the late 1970s and early 1980s.\nMarch of the Falsettos and Falsettoland were later combined into one musical titled Falsettos with music and lyrics by Finn and a book by Lapine. When referring to Falsettos, March of the Falsettos is thought of as the first act, as opposed to In Trousers, which is act one in the Marvin Trilogy. The 2016 Broadway revival of Falsettos is the most widely well-known rendition of any play in the Marvin Trilogy. As for the first musical in the Marvin Trilogy, In Trousers is the most obscure musical of the three.",
+        "source_url": "https://en.wikipedia.org/wiki/Marvin_Trilogy",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "passing-strange": {
+      "slug": "passing-strange",
+      "title": "Passing Strange",
+      "qid": "Q65088989",
+      "enwiki": "Passing Strange",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Passing_Strange",
+        "wikidata": "https://www.wikidata.org/wiki/Q65088989"
+      },
+      "summary": {
+        "text": "Passing Strange is a comedy-drama rock musical about a young African American's journey of self-discovery as an artist, while combining strong existentialist and meta-fictional elements (especially self-referential humor). The musical's lyrics and book are by Stew with music and orchestrations by Heidi Rodewald and Stew. It was created in collaboration with director Annie Dorsen.\nThe musical was developed at the Sundance Institute Theatre Lab in 2004 and 2005, one of the few works to be invited back for a second round of development.  It had productions in Berkeley, California and Off-Broadway before opening on Broadway in 2008, garnering strong reviews and several awards. Spike Lee filmed the musical on Broadway in July 2008, premiering the film in 2009.",
+        "source_url": "https://en.wikipedia.org/wiki/Passing_Strange",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "prodigal": {
+      "slug": "prodigal",
+      "title": "Prodigal",
+      "qid": "Q85794638",
+      "enwiki": "Prodigal (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2000-01",
+        "venue": "Chapel Off Chapel"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Prodigal_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q85794638"
+      },
+      "summary": {
+        "text": "Prodigal, originally titled Prodigal Son, is an Australian musical by Dean Bryant and Mathew Frank.\nIt premiered on 19 January 2000 at Chapel Off Chapel in Melbourne as part of the Midsumma Festival. It received a Green Room Award for Original Music and Lyrics in the Music Theatre category.\nAn off-Broadway production played at the York Theatre in 2002.",
+        "source_url": "https://en.wikipedia.org/wiki/Prodigal_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "saturday-night": {
+      "slug": "saturday-night",
+      "title": "Saturday Night",
+      "qid": "Q3474024",
+      "enwiki": "Saturday Night (musical)",
+      "composers": [
+        {
+          "name": "Stephen Sondheim",
+          "qid": "Q153579",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12430"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Stephen Sondheim",
+          "qid": "Q153579",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12430"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Julius J. Epstein",
+          "qid": "Q795022",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7023"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Saturday_Night_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q3474024"
+      },
+      "summary": {
+        "text": "Saturday Night is a 1955 musical with music and lyrics by Stephen Sondheim and a book by Julius J. Epstein, based on the play, Front Porch in Flatbush, written by Epstein and his brother Philip.\nThe first professional musical written by Stephen Sondheim, Saturday Night was intended to open on Broadway in 1955; however, after the sudden death of its lead producer, the show was shelved. Sondheim instead made his professional premiere in 1957 as the lyricist for West Side Story. \nFollowing a student production, Saturday Night was staged at the Bridewell Theatre, London in 1997 and then in Chicago in 1999 and Off-Broadway in 2000. The musical also ran in the West End in 2009.",
+        "source_url": "https://en.wikipedia.org/wiki/Saturday_Night_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-christmas-schooner": {
+      "slug": "the-christmas-schooner",
+      "title": "The Christmas Schooner",
+      "qid": "Q7722759",
+      "enwiki": "The Christmas Schooner",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "John Reeger",
+          "qid": "Q6254473"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Christmas_Schooner",
+        "wikidata": "https://www.wikidata.org/wiki/Q7722759"
+      },
+      "summary": {
+        "text": "The Christmas Schooner is a musical written by John Reeger with music and lyrics by Julie Shannon.\nPremiered at Bailiwick Repertory Theatre and received the 1996 Chicago After Dark Award for outstanding new work. A twelve-year continuing seasonal run has followed as well as a CD, and productions in the Midwest, Texas and California have also been successful. 2008 was the final season for the performance at the Bailiwick Repertory Theatre.\nBased on the true story of the Rouse Simmons, a Great Lakes schooner whose captain risks life and limb to transport fir trees from Michigan's Upper Peninsula to Chicago's German immigrants during the late 19th century.  Notable songs from the musical include \"We All Have Songs,\" \"Pass it On,\" \"What is it About the Water?,\" \"The Christmas Schooner,\" \"Questions,\" and \"Hardwater Sailor.\"",
+        "source_url": "https://en.wikipedia.org/wiki/The_Christmas_Schooner",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-fascinating-widow": {
+      "slug": "the-fascinating-widow",
+      "title": "The Fascinating Widow",
+      "qid": "Q27670345",
+      "enwiki": "The Fascinating Widow",
+      "composers": [],
+      "lyricists": [
+        {
+          "name": "Otto Harbach",
+          "qid": "Q1231720",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6056"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Otto Harbach",
+          "qid": "Q1231720",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6056"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3478",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Fascinating_Widow",
+        "wikidata": "https://www.wikidata.org/wiki/Q27670345"
+      },
+      "summary": {
+        "text": "The Fascinating Widow is a 1910 musical comedy with music by Frederick W. Mills and both book and lyrics by Otto Harbach. It was created as a starring vehicle for the female impersonator Julian Eltinge. The play premiered in Atlantic City, New Jersey, then toured the United States for 10 months before appearing on Broadway in September 1911.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Fascinating_Widow",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-woman-in-white": {
+      "slug": "the-woman-in-white",
+      "title": "The Woman in White",
+      "qid": "Q1460321",
+      "enwiki": "The Woman in White (musical)",
+      "composers": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "qid": "Q180975",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12073"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "David Zippel",
+          "qid": "Q3703386",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13425"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Charlotte Jones",
+          "qid": "Q13522488",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/400391"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/400389",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Woman_in_White_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1460321"
+      },
+      "summary": {
+        "text": "The Woman in White is a musical with music by Andrew Lloyd Webber, lyrics by David Zippel, and a book by Charlotte Jones. It is based on the 1860 novel by Wilkie Collins, as well as on elements of the 1866 short story \"The Signal-Man\" by Charles Dickens. \nIt ran for nineteen months in the West End and three months on Broadway, making it one of Lloyd Webber's shortest-running shows.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Woman_in_White_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "triumph-of-love": {
+      "slug": "triumph-of-love",
+      "title": "Triumph of Love",
+      "qid": "Q7844570",
+      "enwiki": "Triumph of Love (musical)",
+      "composers": [],
+      "lyricists": [
+        {
+          "name": "Susan Birkenhead",
+          "qid": "Q7647576",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12753"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8893",
+        "wikipedia": "https://en.wikipedia.org/wiki/Triumph_of_Love_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7844570"
+      },
+      "summary": {
+        "text": "Triumph of Love is a musical with a book by James Magruder, lyrics by Susan Birkenhead, and music by Jeffrey Stock. It is based on a play of the same name by the 18th-century French playwright Pierre de Marivaux.",
+        "source_url": "https://en.wikipedia.org/wiki/Triumph_of_Love_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "walk-a-little-faster": {
+      "slug": "walk-a-little-faster",
+      "title": "Walk a Little Faster",
+      "qid": "Q7962058",
+      "enwiki": "Walk a Little Faster",
+      "composers": [
+        {
+          "name": "Vernon Duke",
+          "qid": "Q519693",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11610"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Yip Harburg",
+          "qid": "Q1273621",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5177"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "S. J. Perelman",
+          "qid": "Q1998209",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8556"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/9142",
+        "wikipedia": "https://en.wikipedia.org/wiki/Walk_a_Little_Faster",
+        "wikidata": "https://www.wikidata.org/wiki/Q7962058"
+      },
+      "summary": {
+        "text": "Walk a Little Faster is a musical revue with sketches by S. J. Perelman and Robert MacGunigle, music by Vernon Duke, and lyrics by E. Y. Harburg.",
+        "source_url": "https://en.wikipedia.org/wiki/Walk_a_Little_Faster",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

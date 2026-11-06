@@ -1,0 +1,418 @@
+{
+  "live": true,
+  "shows": {
+    "bridget-jones-s-diary": {
+      "slug": "bridget-jones-s-diary",
+      "title": "Bridget Jones's Diary",
+      "qid": "Q4966724",
+      "enwiki": "Bridget Jones's Diary (musical)",
+      "composers": [
+        {
+          "name": "Lily Allen",
+          "qid": "Q58735"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Lily Allen",
+          "qid": "Q58735"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Bridget_Jones's_Diary_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4966724"
+      },
+      "summary": {
+        "text": "Bridget Jones's Diary is a musical with music and lyrics by Lily Allen, Greg Kurstin, and Karen Poole. The play is based on the 1996 book by Helen Fielding and the 2001 film of the same name. The show was in development around 2009–2010 and has had several workshop readings, but no full performances.",
+        "source_url": "https://en.wikipedia.org/wiki/Bridget_Jones's_Diary_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "burger-brain-the-fast-food-musical": {
+      "slug": "burger-brain-the-fast-food-musical",
+      "title": "Burger Brain - The Fast Food Musical",
+      "qid": "Q131425557",
+      "enwiki": "Burger Brain - The Fast Food Musical",
+      "composers": [
+        {
+          "name": "Chris Harriott",
+          "qid": "Q64541751"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Dennis Watkins",
+          "qid": "Q131328642"
+        }
+      ],
+      "premiere": {
+        "date": "1988-09-27",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Burger_Brain_-_The_Fast_Food_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q131425557"
+      },
+      "summary": {
+        "text": "Burger Brain - The Fast Food Musical is an Australian musical with book and lyrics by Dennis Watkins and music by Chris Harriott. \nStaged by the Australian Theatre for Young People it was directed by Stephen Lloyd Helper it featured a cast of forty and the lead roles were shared. On opening night lead roles of Waldo and Hanna were played by Huey Acuna and Toni Collette. Other cast members include Nadine Weinberger, Daryl Aberhart and Margaret Dokic.",
+        "source_url": "https://en.wikipedia.org/wiki/Burger_Brain_-_The_Fast_Food_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "canterbury-tales": {
+      "slug": "canterbury-tales",
+      "title": "Canterbury Tales",
+      "qid": "Q5033701",
+      "enwiki": "Canterbury Tales (musical)",
+      "composers": [
+        {
+          "name": "Richard Hill",
+          "qid": "Q7326457",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11858"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Nevill Coghill",
+          "qid": "Q3338877",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7885"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Martin Starkie",
+          "qid": "Q6776658",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7578"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2388",
+        "wikipedia": "https://en.wikipedia.org/wiki/Canterbury_Tales_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5033701"
+      },
+      "summary": {
+        "text": "Canterbury Tales is a British musical based on Chaucer's fourteenth-century collection of stories published under the same title. The show was first given in Oxford in 1964 and subsequently presented in the West End, on Broadway and in Australia and Continental Europe. It was conceived by the actor and director Martin Starkie and co-written with Nevill Coghill, whose modern-English translation of Chaucer's original had been published in 1951. The music was by John Hawkins and Richard Hill. \nThe first London production ran for 2,082 performances – at the time, one of the longest runs in West End history. There have been a few revivals since the original productions. A sequel, presented in 1979, failed.",
+        "source_url": "https://en.wikipedia.org/wiki/Canterbury_Tales_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "gone-with-the-wind": {
+      "slug": "gone-with-the-wind",
+      "title": "Gone with the Wind",
+      "qid": "Q5581647",
+      "enwiki": "Gone with the Wind (musical)",
+      "composers": [
+        {
+          "name": "Margaret Martin",
+          "qid": "Q51078620"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Gone_with_the_Wind_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5581647"
+      },
+      "summary": {
+        "text": "Gone with the Wind is a musical written by Margaret Martin. It was adapted by Trevor Nunn from Margaret Mitchell's 1936 novel of the same name and its 1939 film adaptation. \nThe production began previews on 5 April 2008 and officially opened at the New London Theatre in London's West End on 22 April 2008.  The production was directed by Nunn and featured sets by John Napier and costumes by Andreane Neofitu. Darius Danesh and Jill Paice starred as Rhett Butler and Scarlett O'Hara respectively.  The show was produced by Aldo Scrofani, Colin Ingram, Gary McAvay and the Nederlander Producing Company. The production closed on 14 June 2008, after 79 performances.",
+        "source_url": "https://en.wikipedia.org/wiki/Gone_with_the_Wind_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "kismet": {
+      "slug": "kismet",
+      "title": "Kismet",
+      "qid": "Q3815652",
+      "enwiki": "Kismet (musical)",
+      "composers": [
+        {
+          "name": "Alexander Borodin",
+          "qid": "Q164004",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11407"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "George Forrest",
+          "qid": "Q1070832",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11679"
+        },
+        {
+          "name": "Robert Wright",
+          "qid": "Q888339",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12601"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Luther Davis",
+          "qid": "Q3267868",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7445"
+        },
+        {
+          "name": "Charles Lederer",
+          "qid": "Q971219",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4774"
+        }
+      ],
+      "premiere": {
+        "date": "1953-12-03",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5079",
+        "wikipedia": "https://en.wikipedia.org/wiki/Kismet_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q3815652"
+      },
+      "summary": {
+        "text": "Kismet is a musical adapted by Charles Lederer and Luther Davis from the play Kismet (1911) by Edward Knoblock, with lyrics and musical adaptation (as well as some original music) by Robert Wright and George Forrest. The music was mostly adapted from several pieces composed by Alexander Borodin. The story concerns a wily poet who talks his way out of trouble several times; meanwhile, his beautiful daughter meets and falls in love with the young caliph.\nThe musical was first produced on Broadway in 1953 and won the Tony Award for best musical in 1954. It was also successful in London's West End and has been given several revivals.  A 1955 film version was produced by Metro-Goldwyn-Mayer.",
+        "source_url": "https://en.wikipedia.org/wiki/Kismet_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "my-favorite-year": {
+      "slug": "my-favorite-year",
+      "title": "My Favorite Year",
+      "qid": "Q6945431",
+      "enwiki": "My Favorite Year (musical)",
+      "composers": [
+        {
+          "name": "Stephen Flaherty",
+          "qid": "Q3973178",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11668"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Lynn Ahrens",
+          "qid": "Q293323",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7450"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Joseph Dougherty",
+          "qid": "Q6282683"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6371",
+        "wikipedia": "https://en.wikipedia.org/wiki/My_Favorite_Year_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6945431"
+      },
+      "summary": {
+        "text": "My Favorite Year is a musical with a book by Joseph Dougherty, music by Stephen Flaherty, and lyrics by Lynn Ahrens. It is based on the 1982 film of the same name.",
+        "source_url": "https://en.wikipedia.org/wiki/My_Favorite_Year_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "smike": {
+      "slug": "smike",
+      "title": "Smike",
+      "qid": "Q1539188",
+      "enwiki": "Smike",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Smike",
+        "wikidata": "https://www.wikidata.org/wiki/Q1539188"
+      },
+      "summary": {
+        "text": "Smike is a pop musical adaptation of a small part of Charles Dickens' 1839 novel Nicholas Nickleby, that was televised for the BBC in 1973. The musical is based on the character Smike from that novel. The TV production starred Beryl Reid as Mrs Squeers, Andrew Keir as Mr Squeers, Leonard Whiting as Nicholas, and Ian Sharrock as Smike. The original cast also featured DJ Neil Fox, a pupil at Kingston Grammar, as one of the schoolboys. A cast album was released on Pye records, including the songs from that production, but not all of the songs used in the stage version. The complete score was re-recorded in 1983 and released on a double album featuring Jill Gascoine, Oliver Tobias and Mike Holoway.\nIt was originally devised in 1973 at Kingston Grammar School by two teachers, Simon May, who became a successful television composer, and Clive Barnett. The songwriting partner was Roger Holman.\nSongs include \"Don't Let Life Get You Down\" and \"In the Warm Light of a Brand New Day\". \"We'll Find Our Day\" was recorded by Mark Rattray and Emma Robbins, and featured on the album New Vintage: The Best of Simon May. Simon May's 1977 album Summer of My Life included \"Don't Let Life Get You Down\" and \"In the Warm Light of a Brand New Day\", with the latter also featured on his album Simon's Way. '\"Parents\"/\"Better Off The Way I Am\" was included on May's 2010 compilation album The Simon May Collection.",
+        "source_url": "https://en.wikipedia.org/wiki/Smike",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "superbia": {
+      "slug": "superbia",
+      "title": "Superbia",
+      "qid": "Q112161233",
+      "enwiki": "Superbia (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Superbia_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q112161233"
+      },
+      "summary": {
+        "text": "Superbia is an unproduced musical with book, music, and lyrics by Jonathan Larson. Stemming from an earlier attempt at writing a musical based on Nineteen Eighty-Four by George Orwell, Larson spent a six-year period from 1985 to 1991 working on Superbia, which for numerous reasons never went beyond the workshop stage of development. Eventually, Larson set aside Superbia for other projects, including Rent, and died in 1996 before he could return to working on it.\nSuperbia was a science fiction musical set in the year 2064 in a world dominated by TVs and cameras. The overall message Larson pursued, which remained to his final draft, was a cautionary tale about media desensitization and what Larson referred to as \"Bottom Line Mentality\". He initially described it as a futuristic fairy tale along the lines of Cinderella and The Emperor's New Clothes. Larson wanted to blend the inherent theatricality of 1980s pop with musical theater storytelling. To that end, he composed the musical largely on a synthesizer, combining New Wave synth-pop and rock with traditional Broadway and vaudevillian structures. Superbia thus represents Larson's first serious attempt to meld popular music styles with musical theater, a combination he later became well known for with Rent and Tick, Tick...Boom!.\nSuperbia has never been produced or published even after Larson's death, but interest in it has persisted due to its depiction in his semi-autobiographical musical Tick, Tick... Boom! and its 2021 film adaptation.",
+        "source_url": "https://en.wikipedia.org/wiki/Superbia_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-magician-s-elephant": {
+      "slug": "the-magician-s-elephant",
+      "title": "The Magician's Elephant",
+      "qid": "Q85847720",
+      "enwiki": "The Magician's Elephant (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Magician's_Elephant_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q85847720"
+      },
+      "summary": {
+        "text": "The Magician's Elephant is a musical with book and lyrics by Nancy Harris and music and lyrics by Marc Teitler, based on the 2009 children's novel of the same name by Kate DiCamillo.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Magician's_Elephant_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-night-boat": {
+      "slug": "the-night-boat",
+      "title": "The Night Boat",
+      "qid": "Q7754070",
+      "enwiki": "The Night Boat",
+      "composers": [
+        {
+          "name": "Jerome Kern",
+          "qid": "Q313270",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6711"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Anne Caldwell",
+          "qid": "Q4768205",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4167"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Anne Caldwell",
+          "qid": "Q4768205",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4167"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6531",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Night_Boat",
+        "wikidata": "https://www.wikidata.org/wiki/Q7754070"
+      },
+      "summary": {
+        "text": "The Night Boat (1920) is a musical in three acts, based on a farce by Alexandre Bisson, with a book and lyrics by Anne Caldwell and music by Jerome Kern.  The story lampoons the notorious New York City-to-Albany night boat, on which clandestine romances were common.\nAfter out-of-town tryouts, the musical was produced on Broadway by Charles Dillingham, where it opened on February 2, 1920, at the Liberty Theatre under the direction of Fred G. Latham and Ned Wayburn, with music direction by Victor Baravalle. The Night Boat had a successful initial run of 313 performances, closing on October 30, 1920 and opening for a new run in Boston soon afterwards, followed by successful tours.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Night_Boat",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-spitfire-grill": {
+      "slug": "the-spitfire-grill",
+      "title": "The Spitfire Grill",
+      "qid": "Q7765961",
+      "enwiki": "The Spitfire Grill (musical)",
+      "composers": [
+        {
+          "name": "James Valcq",
+          "qid": "Q15458843"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Fred Alley",
+          "qid": "Q5494440"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "James Valcq",
+          "qid": "Q15458843"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Spitfire_Grill_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7765961"
+      },
+      "summary": {
+        "text": "The Spitfire Grill is an American musical with music and book by James Valcq and lyrics and book by Fred Alley, based on the 1996 film of the same name by Lee David Zlotoff. The off-Broadway production by Playwrights Horizons began previews at the Duke Theatre on 42nd Street on September 7, 2001, and concluded its scheduled run on October 14, 2001. It won the Richard Rodgers Production Award, administered by the American Academy of Arts and Letters. The musical depicts the journey of a young woman just released from prison, who decides to start her life anew in a rural town in Wisconsin. She participates in a journey within the town toward its own tenuous reawakening.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Spitfire_Grill_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "white-noise-a-cautionary-musical": {
+      "slug": "white-noise-a-cautionary-musical",
+      "title": "White Noise: A Cautionary Musical",
+      "qid": "Q7995113",
+      "enwiki": "White Noise: A Cautionary Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/White_Noise%3A_A_Cautionary_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q7995113"
+      },
+      "summary": {
+        "text": "White Noise: A Cautionary Musical is a musical about a white supremacist rock duo. Created by Ryan J. Davis, the show was directed by Sergio Trujillo and produced by Whoopi Goldberg. The music and lyrics were written by Robert Morris, Steven Morris, and Joe Shane, based upon the book White Noise by Matte O'Brien. \nThis musical is a satire that was inspired by the true story of Prussian Blue, a Neo-Nazi folk duo that gained a following singing songs with undertones of their racist ideology. It seeks to draw attention to the lyrical content found in the contemporary music industry and the individual's responsibility to critically listen to and evaluate musical selections.",
+        "source_url": "https://en.wikipedia.org/wiki/White_Noise%3A_A_Cautionary_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

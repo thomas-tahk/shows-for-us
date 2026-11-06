@@ -1,0 +1,564 @@
+{
+  "live": true,
+  "shows": {
+    "a-theory-of-justice-the-musical": {
+      "slug": "a-theory-of-justice-the-musical",
+      "title": "A Theory of Justice: The Musical",
+      "qid": "Q17019046",
+      "enwiki": "A Theory of Justice: The Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Theory_of_Justice%3A_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q17019046"
+      },
+      "summary": {
+        "text": "A Theory of Justice: The Musical is a musical comedy by Eylon Levy, Ramin Sabi, Tommy Peto and Toby Huelin. Billed as a \"time-travelling romp through 2,500 years of political philosophy\", the musical tells a fictionalised account of the writing of A Theory of Justice (1971), the classic philosophical treatise by the American political philosopher John Rawls.\nThe musical premiered in Oxford's Keble O'Reilly Theatre in January 2013 and was revived for the Edinburgh Fringe Festival in August 2013, where it was nominated for four awards in the categories of Best Musical, Best Book, Best Music, and Best Lyrics. In 2018, a reworked version was presented for a rehearsed reading in London's West End. The official cast soundtrack was released in May 2019.\nThe musical follows John Rawls on a journey through time to gain inspiration for A Theory of Justice from a chorus of singing and dancing political philosophers, including Plato, Locke, Hobbes, Rousseau, Mill, Wollstonecraft, Marx and Kant. As he pursues his love interest, a beautiful student named Fairness, Rawls is menaced by villainous libertarian philosopher Robert Nozick and his lover Ayn Rand, who plot to stop Rawls writing his redistributionist theory of justice.\nThe real-life John Rawls' daughter Liz praised the musical as \"perfect\" and \"amazing and witty\" after watching the Edinburgh Fringe Festival production, saying it \"far surpassed any expectations\".",
+        "source_url": "https://en.wikipedia.org/wiki/A_Theory_of_Justice%3A_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "amazing-grace": {
+      "slug": "amazing-grace",
+      "title": "Amazing Grace",
+      "qid": "Q20708381",
+      "enwiki": "Amazing Grace (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/500419",
+        "wikipedia": "https://en.wikipedia.org/wiki/Amazing_Grace_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q20708381"
+      },
+      "summary": {
+        "text": "Amazing Grace is a musical with music and lyrics by Christopher Smith and a book by Smith and Arthur Giron. The musical is Smith's first foray as a professional writer or composer. It is based loosely on the life of John Newton, an English slave trader who later became an Anglican priest and eventually an abolitionist. He wrote many hymns, including \"Amazing Grace\".\nThe musical had a 2012 production by Goodspeed Musicals in Connecticut and a pre-Broadway run in Chicago in 2014. It opened on Broadway on July 16, 2015, and closed on October 25, 2015.",
+        "source_url": "https://en.wikipedia.org/wiki/Amazing_Grace_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "bats": {
+      "slug": "bats",
+      "title": "Bats",
+      "qid": "Q4869620",
+      "enwiki": "Bats (musical)",
+      "composers": [
+        {
+          "name": "Ian Dorricott",
+          "qid": "Q5981428"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Bats_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4869620"
+      },
+      "summary": {
+        "text": "Ian J. Dorricott (born 1949 in Brisbane, Australia) is an Australian composer for school music texts and stage musicals.\nDorricott attended West Bundaberg State School, Bundaberg State High School and the University of Queensland. He earned a B. A. (Hons.)/B. Music and A. Music from the University of Queensland in 1971. His teaching experience includes Yeronga High School, Brisbane Girls Grammar School and St Joseph's College, Gregory Terrace.",
+        "source_url": "https://en.wikipedia.org/wiki/Bats_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "chu-chem": {
+      "slug": "chu-chem",
+      "title": "Chu Chem",
+      "qid": "Q5115121",
+      "enwiki": "Chu Chem",
+      "composers": [
+        {
+          "name": "Mitch Leigh",
+          "qid": "Q1939469",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12043"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Jim Haines",
+          "qid": "Q21104205"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Ted Allen",
+          "qid": "Q517270"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2585",
+        "wikipedia": "https://en.wikipedia.org/wiki/Chu_Chem",
+        "wikidata": "https://www.wikidata.org/wiki/Q5115121"
+      },
+      "summary": {
+        "text": "Chu Chem is a musical with a book by Ted Allen, lyrics by Jim Haines and Jack Wohl, and music by Mitch Leigh.",
+        "source_url": "https://en.wikipedia.org/wiki/Chu_Chem",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "cilla-the-musical": {
+      "slug": "cilla-the-musical",
+      "title": "Cilla The Musical",
+      "qid": "Q96418124",
+      "enwiki": "Cilla The Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Cilla_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q96418124"
+      },
+      "summary": {
+        "text": "Cilla The Musical is a jukebox musical written by Jeff Pope based on the early career and music of Cilla Black and Pope's 2014 ITV drama biopic of the same name.",
+        "source_url": "https://en.wikipedia.org/wiki/Cilla_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "hit-list": {
+      "slug": "hit-list",
+      "title": "Hit List",
+      "qid": "Q16995592",
+      "enwiki": "Hit List (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Hit_List_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q16995592"
+      },
+      "summary": {
+        "text": "Hit List is an American musical with music and lyrics by Marc Shaiman, Scott Wittman, Drew Gasparini, Joe Iconis, Andrew McMahon, Benj Pasek & Justin Paul, and Lucie Silvas and a book by Julia Brownell, based on the original fictitious musical from the second season of the NBC television series Smash.\nWithin the television series Hit List is created by characters Jimmy Collins (Jeremy Jordan) and Kyle Bishop (Andy Mientus). Hit List centers around three characters, Amanda, Jesse and \"The Diva\", as they seek to attain and hold onto fame. Amanda is portrayed by Karen Cartwright (Katharine McPhee), Jesse by Jimmy Collins and The Diva by Ana Vargas (Krysta Rodriguez).\nOn October 15, 2013, New York City venue 54 Below announced plans to stage Hit List in concert format. Jordan, Mientus and Rodriguez each appeared, with Carrie Manolakos standing in for McPhee. The musical's original concert production opened on December 8, 2013 and closed December 9, 2013 after 3 regular performances.",
+        "source_url": "https://en.wikipedia.org/wiki/Hit_List_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "make-it-snappy": {
+      "slug": "make-it-snappy",
+      "title": "Make It Snappy",
+      "qid": "Q17089509",
+      "enwiki": "Make It Snappy",
+      "composers": [
+        {
+          "name": "William B. Friedlander",
+          "qid": "Q16981477",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/14833"
+        },
+        {
+          "name": "Jean Schwartz",
+          "qid": "Q6171492",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12374"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Alfred Bryan",
+          "qid": "Q1273339",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12786"
+        },
+        {
+          "name": "William B. Friedlander",
+          "qid": "Q16981477",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/14833"
+        },
+        {
+          "name": "Harold R. Atteridge",
+          "qid": "Q5662077",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/24428"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Eddie Cantor",
+          "qid": "Q350472",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5198"
+        },
+        {
+          "name": "Harold R. Atteridge",
+          "qid": "Q5662077",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/24428"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": "Winter Garden Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/10484",
+        "wikipedia": "https://en.wikipedia.org/wiki/Make_It_Snappy",
+        "wikidata": "https://www.wikidata.org/wiki/Q17089509"
+      },
+      "summary": {
+        "text": "Make It Snappy was a musical revue that ran for 96 performances at the  Winter Garden Theatre in the 1922–23 Broadway season. It ran from 13 April to 1 July 1922.\nIt starred Eddie Cantor, who introduced the hit songs \"Yes! We Have No Bananas\" and \"The Sheik of Araby\".",
+        "source_url": "https://en.wikipedia.org/wiki/Make_It_Snappy",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "michael-todd-s-peep-show": {
+      "slug": "michael-todd-s-peep-show",
+      "title": "Michael Todd's Peep Show",
+      "qid": "Q16981959",
+      "enwiki": "Michael Todd's Peep Show",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/10675",
+        "wikipedia": "https://en.wikipedia.org/wiki/Michael_Todd's_Peep_Show",
+        "wikidata": "https://www.wikidata.org/wiki/Q16981959"
+      },
+      "summary": {
+        "text": "Michael Todd's Peep Show was a 1950 American musical revue produced by Mike Todd, with music by, among others, Jule Styne, Raymond Scott and Bhumibol Adulyadej, the King of Thailand. The book was by comedian Bobby Clark, who did not perform in the show. Peep Show, which opened at Broadway's Winter Garden Theatre on 28 June 1950, was a success, closing on 25 February 1951 after 278 performances. The production was choreographed by James Starbuck.\nAfter the opening performances of Peep Show, the New York City Commissioner of Licenses called a meeting with Todd which led to changes in how the women were presented. In Art Cohn's posthumous biography of Todd, The Nine Lives of Mike Todd, it is revealed that the naked girls featured in the show's mermaid sequence had difficulty getting the blue dye used in the water, out of their pubic hair. \nCritic George Jean Nathan wrote that Peep Show emphasized \"sex, ferociously\".",
+        "source_url": "https://en.wikipedia.org/wiki/Michael_Todd's_Peep_Show",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "red-hot-and-blue": {
+      "slug": "red-hot-and-blue",
+      "title": "Red, Hot and Blue",
+      "qid": "Q1118554",
+      "enwiki": "Red, Hot and Blue",
+      "composers": [
+        {
+          "name": "Cole Porter",
+          "qid": "Q215120",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12257"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Cole Porter",
+          "qid": "Q215120",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12257"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Howard Lindsay",
+          "qid": "Q1374517",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6373"
+        },
+        {
+          "name": "Russel Crouse",
+          "qid": "Q1382872",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8531"
+        }
+      ],
+      "premiere": {
+        "date": "1936-10-29",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7423",
+        "wikipedia": "https://en.wikipedia.org/wiki/Red%2C_Hot_and_Blue",
+        "wikidata": "https://www.wikidata.org/wiki/Q1118554"
+      },
+      "summary": {
+        "text": "Red, Hot and Blue is a musical with music and lyrics by Cole Porter and a book by Howard Lindsay and Russel Crouse. It premiered on Broadway in 1936 and introduced the popular song \"It's De-Lovely,\" sung by Ethel Merman and Bob Hope.\nThe musical has no connection to the 1949 film musical of the same name with songs by Frank Loesser.\nToday it may be most famous as one of the first instances of creative resolution of top billing on posters and marquees. Stars Jimmy Durante and Ethel Merman refused to accept second billing. The producers devised a compromise in which their names formed an X-shaped cross, drawing the observer’s eye in two directions. The third star, Bob Hope, settled for his name in bold under the cross.",
+        "source_url": "https://en.wikipedia.org/wiki/Red%2C_Hot_and_Blue",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "rock-of-ages": {
+      "slug": "rock-of-ages",
+      "title": "Rock of Ages",
+      "qid": "Q10656270",
+      "enwiki": "Rock of Ages (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/482290",
+        "playbill": "https://playbill.com/production/rock-of-ages-wilson-center-at-cape-fear-community-college-2018-2019",
+        "wikipedia": "https://en.wikipedia.org/wiki/Rock_of_Ages_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q10656270"
+      },
+      "summary": {
+        "text": "Rock of Ages is a jukebox musical built around classic rock songs from the 1980s, especially from the famous glam metal bands of that decade. The musical features songs from Styx, Journey, Bon Jovi, Pat Benatar, Twisted Sister, Steve Perry, Poison and Europe, among other well-known rock bands. It was written by Chris D'Arienzo, directed by Kristin Hanggi and choreographed by Kelly Devine with music supervision, arrangements and orchestrations by Ethan Popp.\nDuring the show, the performers frequently break the \"fourth wall\", directly addressing the audience and seemingly forgetting (or perhaps reminding the audience) that they are actors in a musical. Despite the musical's title, the Def Leppard song of the same name was not included in the musical during its original Broadway incarnation, though it now often appears in revivals, tours, and regional productions.\nThe original Broadway production ran for 2,328 performances, closing on January 18, 2015 tied as the 34th-longest running show in Broadway history. Since debuting in 2009, it has spawned replica productions in Japan, Australia and the United Kingdom, as well as several touring productions.",
+        "source_url": "https://en.wikipedia.org/wiki/Rock_of_Ages_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "school-idol-musical": {
+      "slug": "school-idol-musical",
+      "title": "School Idol Musical",
+      "qid": "Q130297380",
+      "enwiki": "School Idol Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/School_Idol_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q130297380"
+      },
+      "summary": {
+        "text": "Love Live! School Idol Project Series is a Japanese multimedia project created by Hajime Yatate and Sakurako Kimino and co-produced by Kadokawa through ASCII Media Works; Bandai Namco Music Live through music label Lantis; and Bandai Namco Filmworks through its animation studio Sunrise. Each of the individual titles within the franchise revolve around teenage girls who become \"school idols\". Starting in June 2010 with Love Live! School Idol Project, the franchise has seen multiple anime television series, three anime films, light novels, manga, and video games. The rhythm game series Love Live! School Idol Festival features characters across multiple Love Live! titles.",
+        "source_url": "https://en.wikipedia.org/wiki/School_Idol_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "show-boat": {
+      "slug": "show-boat",
+      "title": "Show Boat",
+      "qid": "Q2166879",
+      "enwiki": "Show Boat",
+      "composers": [
+        {
+          "name": "Jerome Kern",
+          "qid": "Q313270",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6711"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Oscar Hammerstein II",
+          "qid": "Q319693",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7965"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Oscar Hammerstein II",
+          "qid": "Q319693",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7965"
+        }
+      ],
+      "premiere": {
+        "date": "1927-12-27",
+        "venue": "Ziegfeld Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/10963",
+        "playbill": "https://playbill.com/production/show-boat-city-center-vault-0000013161",
+        "wikipedia": "https://en.wikipedia.org/wiki/Show_Boat",
+        "wikidata": "https://www.wikidata.org/wiki/Q2166879"
+      },
+      "summary": {
+        "text": "Show Boat is a musical with music by Jerome Kern and book and lyrics by Oscar Hammerstein II. It is based on Edna Ferber's best-selling 1926 novel of the same name. The musical follows the lives of the performers, stagehands and dock workers on the Cotton Blossom, a Mississippi River show boat, over 40 years from 1887 to 1927. Its themes include racial prejudice and tragic, enduring love. The musical contributed such classic songs as \"Ol' Man River\", \"Make Believe\", and \"Can't Help Lovin' Dat Man\".\n\nThe musical was first produced in 1927 by Florenz Ziegfeld. The premiere of Show Boat on Broadway was an important event in the history of American musical theatre. It \"was a radical departure in musical storytelling, marrying spectacle with seriousness\", compared with the trivial and unrealistic operettas, light musical comedies and \"Follies\"-type musical revues that defined Broadway in the 1890s and early 20th century. According to The Complete Book of Light Opera:Here we come to a completely new genre – the musical play as distinguished from musical comedy. Now … the play was the thing, and everything else was subservient to that play. Now … came complete integration of song, humor and production numbers into a single and inextricable artistic entity.\nThe quality of Show Boat was recognized immediately by critics, and it is frequently revived. Awards did not exist for Broadway shows in 1927, when the show premiered, nor in 1932 when its first revival was staged. Late 20th-century revivals of Show Boat have won both the Tony Award for Best Revival of a Musical (1995) and the Laurence Olivier Award for Best Musical Revival (1991).",
+        "source_url": "https://en.wikipedia.org/wiki/Show_Boat",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "soft-power": {
+      "slug": "soft-power",
+      "title": "Soft Power",
+      "qid": "Q93320938",
+      "enwiki": "Soft Power (musical)",
+      "composers": [
+        {
+          "name": "Jeanine Tesori",
+          "qid": "Q16194364",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12488"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Jeanine Tesori",
+          "qid": "Q16194364",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12488"
+        },
+        {
+          "name": "David Henry Hwang",
+          "qid": "Q329897",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4993"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "David Henry Hwang",
+          "qid": "Q329897",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4993"
+        }
+      ],
+      "premiere": {
+        "date": "2018-05-03",
+        "venue": "Ahmanson Theatre"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Soft_Power_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q93320938"
+      },
+      "summary": {
+        "text": "Soft Power is a musical (also referred to by its authors as a \"play with a musical\") with book and lyrics by David Henry Hwang and music and additional lyrics by Jeanine Tesori.\nSoft Power was intended as a \"reverse The King And I\". Instead of exoticizing an Asian country, Soft Power exoticizes America by looking at it from a hypothetical future Chinese musical. It also serves as a quasi-sequel to Hwang's 2007 play Yellow Face. Like that play, the semi-autobiographical work centers around a stand-in for the author named DHH interacting with fictional characters. The play was partially inspired by a 2015 stabbing of Hwang by a stranger on the streets of New York City.",
+        "source_url": "https://en.wikipedia.org/wiki/Soft_Power_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-band-wagon": {
+      "slug": "the-band-wagon",
+      "title": "The Band Wagon",
+      "qid": "Q3519868",
+      "enwiki": "The Band Wagon (musical)",
+      "composers": [
+        {
+          "name": "Arthur Schwartz",
+          "qid": "Q711473",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4324"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Howard Dietz",
+          "qid": "Q1631780",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6363"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Howard Dietz",
+          "qid": "Q1631780",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6363"
+        },
+        {
+          "name": "George S. Kaufman",
+          "qid": "Q163662",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5827"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1825",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Band_Wagon_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q3519868"
+      },
+      "summary": {
+        "text": "The Band Wagon is a musical revue with book by George S. Kaufman and Howard Dietz, lyrics also by Dietz and music by Arthur Schwartz.  It first played on Broadway in 1931, running for 260 performances.  It introduced the song \"Dancing in the Dark\" and inspired two films.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Band_Wagon_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "when-claudia-smiles": {
+      "slug": "when-claudia-smiles",
+      "title": "When Claudia Smiles",
+      "qid": "Q124795496",
+      "enwiki": "When Claudia Smiles",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/When_Claudia_Smiles",
+        "wikidata": "https://www.wikidata.org/wiki/Q124795496"
+      },
+      "summary": {
+        "text": "When Claudia Smiles is a musical in three acts with music by Jean Schwartz and both book and lyrics by Anne Caldwell. Set in New York City, the work is based on Leo Ditrichstein's 1903 play Vivian's Papas. The musical began its Broadway run at the 39th Street Theatre on February 2, 1914, and then transferred to the Lyric Theatre where it ultimately closed on March 21, 1914, after 56 performances.  The production was directed by Charles Winninger and produced by Frederic McKay. The cast included Blanche Ring, Mahlon Hamilton, Anna Laughlin, and Bertha Mann.",
+        "source_url": "https://en.wikipedia.org/wiki/When_Claudia_Smiles",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "zorba": {
+      "slug": "zorba",
+      "title": "Zorba",
+      "qid": "Q498325",
+      "enwiki": "Zorba (musical)",
+      "composers": [
+        {
+          "name": "John Kander",
+          "qid": "Q1685876",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6837"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Fred Ebb",
+          "qid": "Q1274807",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5654"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Joseph Stein",
+          "qid": "Q1361175",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6978"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/9600",
+        "wikipedia": "https://en.wikipedia.org/wiki/Zorba_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q498325"
+      },
+      "summary": {
+        "text": "Zorba is a musical with a book by Joseph Stein, lyrics by Fred Ebb, and music by John Kander.  Adapted from the 1946 novel Zorba the Greek by Nikos Kazantzakis and the subsequent 1964 film of the same name, it focuses on the friendship that evolves between Zorba and Nikos, a young American who has inherited an abandoned mine on Crete, and their romantic relationships with a French woman and a local widow, respectively.\nThe musical premiered on Broadway in 1968 in a production directed by Harold Prince.  It was nominated for the Tony Award for Best Musical in a season that included Hair, Promises, Promises and 1776.  The last of these won the award. The original production ran for 305 performances, and a 1983 Broadway revival ran for 362 performances with a cast starring Anthony Quinn.",
+        "source_url": "https://en.wikipedia.org/wiki/Zorba_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

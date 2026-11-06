@@ -1,0 +1,785 @@
+{
+  "live": true,
+  "shows": {
+    "aladdin-jr": {
+      "slug": "aladdin-jr",
+      "title": "Aladdin Jr.",
+      "qid": "Q3307583",
+      "enwiki": "Aladdin Jr.",
+      "composers": [
+        {
+          "name": "Alan Menken",
+          "qid": "Q317272",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12135"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Howard Ashman",
+          "qid": "Q1334295",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6356"
+        },
+        {
+          "name": "Tim Rice",
+          "qid": "Q298295",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8890"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Aladdin_Jr.",
+        "wikidata": "https://www.wikidata.org/wiki/Q3307583"
+      },
+      "summary": {
+        "text": "Aladdin Jr. is a 60-minute musical adapted from the 1992 Walt Disney Animation Studios film Aladdin for licensing company Music Theatre International's Broadway Junior collection, a series of abridged musicals and original adaptations developed for younger performers. A 30-minute adaptation for elementary-school-aged performers, Disney's Aladdin KIDS, is also available.\nFollowing the success of the film's musical adaptation, the original Aladdin JR. script was replaced with an adaptation of the Broadway version.",
+        "source_url": "https://en.wikipedia.org/wiki/Aladdin_Jr.",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "all-for-the-ladies": {
+      "slug": "all-for-the-ladies",
+      "title": "All for the Ladies",
+      "qid": "Q119041838",
+      "enwiki": "All for the Ladies",
+      "composers": [
+        {
+          "name": "Alfred G. Robyn",
+          "qid": "Q118878999"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Henry Blossom",
+          "qid": "Q5718303",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6226"
+        }
+      ],
+      "premiere": {
+        "date": "1912-12-30",
+        "venue": "Lyric Theatre"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/All_for_the_Ladies",
+        "wikidata": "https://www.wikidata.org/wiki/Q119041838"
+      },
+      "summary": {
+        "text": "All for the Ladies is a musical with music by Alfred G. Robyn and both lyrics and book by Henry Blossom. The musical premiered on Broadway at the Lyric Theatre on December 30, 1912. It closed on April 5, 1913, after 112 performances. The musical was created as a starring vehicle for comedian Sam Bernard who portrayed the central character of Leon von Laubenheim of Pantural, Clemente & Co. The production also starred Adele Ritchie as Nancy Panturel, Alice Gentle as Georgette Clemente, and Jerome Uhl as General Villefranche. The musical is set in France.",
+        "source_url": "https://en.wikipedia.org/wiki/All_for_the_Ladies",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "allegro": {
+      "slug": "allegro",
+      "title": "Allegro",
+      "qid": "Q4731413",
+      "enwiki": "Allegro (musical)",
+      "composers": [
+        {
+          "name": "Richard Rodgers",
+          "qid": "Q269094",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12311"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Oscar Hammerstein II",
+          "qid": "Q319693",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7965"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Oscar Hammerstein II",
+          "qid": "Q319693",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7965"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1787",
+        "wikipedia": "https://en.wikipedia.org/wiki/Allegro_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4731413"
+      },
+      "summary": {
+        "text": "Allegro is a musical by Richard Rodgers (music) and Oscar Hammerstein II (book and lyrics), their third collaboration for the stage. Opening on Broadway on October 10, 1947, the musical centers on the life of Joseph Taylor Jr., who follows in the footsteps of his father as a doctor, but is tempted by fortune and fame at a big-city hospital.\nAfter the immense successes of the first two Rodgers and Hammerstein musicals, Oklahoma! and Carousel, the pair sought a subject for their next play. Hammerstein had long contemplated a serious work that would deal with the problems of the ordinary man in the fast-moving modern world.  He and Rodgers sought to create a work which would be as innovative as their first two stage musicals. To that end, they created a play with a large cast, including a Greek chorus. The production would have no sets; props and projections served to suggest locations.\nAfter a disastrous tryout in New Haven, Connecticut, the musical opened on Broadway to a large advance sale of tickets, and very mixed reviews. Agnes de Mille, the choreographer of Rodgers and Hammerstein's previous Broadway productions, both directed and choreographed the work. The show was viewed as too moralistic, and the Broadway run ended after nine months; it was followed by a short national tour. There was no West End production and it has rarely been revived. There are two recordings of Allegro, the original cast album and a studio recording released in 2009.",
+        "source_url": "https://en.wikipedia.org/wiki/Allegro_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "an-american-in-paris": {
+      "slug": "an-american-in-paris",
+      "title": "An American in Paris",
+      "qid": "Q21480307",
+      "enwiki": "An American in Paris (musical)",
+      "composers": [
+        {
+          "name": "George Gershwin",
+          "qid": "Q123829",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5813"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Ira Gershwin",
+          "qid": "Q61059",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12885"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Craig Lucas",
+          "qid": "Q5181167",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4924"
+        }
+      ],
+      "premiere": {
+        "date": "2014-12-10",
+        "venue": "Théâtre du Châtelet"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/497694",
+        "wikipedia": "https://en.wikipedia.org/wiki/An_American_in_Paris_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q21480307"
+      },
+      "summary": {
+        "text": "An American in Paris is a musical play inspired by the 1951 film of the same name and adapted for the stage by Christopher Wheeldon. It first opened at the Théâtre du Châtelet in Paris in December 2014 and then at the Palace Theatre on Broadway in April 2015. Incorporating songs from George and Ira Gershwin, the book is by Craig Lucas. The musical won four Tony Awards.\nThe Broadway production closed in October 2016. A US national tour opened in the autumn of 2016 in Boston, Massachusetts, and a London West End production opened at the Dominion Theatre in March 2017. The Italian premiere took place in Genoa in Teatro Carlo Felice in October 2018.",
+        "source_url": "https://en.wikipedia.org/wiki/An_American_in_Paris_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "anne-of-green-gables-the-musical": {
+      "slug": "anne-of-green-gables-the-musical",
+      "title": "Anne of Green Gables: The Musical",
+      "qid": "Q4768925",
+      "enwiki": "Anne of Green Gables: The Musical",
+      "composers": [
+        {
+          "name": "Norman Campbell",
+          "qid": "Q3343754"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Don Harron",
+          "qid": "Q3036029",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5080"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Don Harron",
+          "qid": "Q3036029",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5080"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Anne_of_Green_Gables%3A_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q4768925"
+      },
+      "summary": {
+        "text": "Anne Of Green Gables – The Musical is a musical based on the 1908 novel Anne of Green Gables by Lucy Maud Montgomery. The book was written by Don Harron exclusively, the music by Norman Campbell and the lyrics in a joint venture by Harron, Norman Campbell, Elaine Campbell and Mavor Moore. It has been Canada's longest-running musical, performed annually from its opening in 1965 until 2019, with the planned 2020 and 2021 productions cancelled due to the COVID-19 pandemic. In March 2014, it was officially recognised as the longest running annual musical theatre production in the world by Guinness World Records.\nAnne returned to the Charlottetown Festival stage for the 2022 season, however organisers announced late in the year that the show would be produced only in alternating years from then on.",
+        "source_url": "https://en.wikipedia.org/wiki/Anne_of_Green_Gables%3A_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "ballroom": {
+      "slug": "ballroom",
+      "title": "Ballroom",
+      "qid": "Q4851919",
+      "enwiki": "Ballroom (musical)",
+      "composers": [
+        {
+          "name": "Billy Goldenberg",
+          "qid": "Q328637",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11757"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Alan Bergman",
+          "qid": "Q1857066",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12751"
+        },
+        {
+          "name": "Marilyn Bergman",
+          "qid": "Q442879",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12752"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Jerome Kass",
+          "qid": "Q21192283",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6710"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1820",
+        "wikipedia": "https://en.wikipedia.org/wiki/Ballroom_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4851919"
+      },
+      "summary": {
+        "text": "Ballroom is a stage musical with a book by Jerome Kass and music by Billy Goldenberg and lyrics by Alan and Marilyn Bergman. Debuting on Broadway in 1978, it was nominated for the Tony Award for Best Musical. \nBased on Kass's teleplay for the 1975 Emmy Award-winning television drama Queen of the Stardust Ballroom starring Maureen Stapleton, the plot focuses on lonely widow Bea Asher, who becomes romantically involved with Alfred Rossi, a mail carrier she meets at the local dance hall. Her dream of a happily-ever-after relationship is shattered when she discovers Alfred hasn't been as honest about his personal life as she thought.",
+        "source_url": "https://en.wikipedia.org/wiki/Ballroom_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "billy": {
+      "slug": "billy",
+      "title": "Billy",
+      "qid": "Q4912084",
+      "enwiki": "Billy (musical)",
+      "composers": [
+        {
+          "name": "John Barry",
+          "qid": "Q111074",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11350"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Don Black",
+          "qid": "Q1238931",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5065"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Dick Clement",
+          "qid": "Q711682"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Billy_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4912084"
+      },
+      "summary": {
+        "text": "Billy is a musical based on the novel and play Billy Liar by Keith Waterhouse and Willis Hall. The book was written by Dick Clement and Ian La Frenais, the music is by John Barry, and the lyrics are by Don Black.",
+        "source_url": "https://en.wikipedia.org/wiki/Billy_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "carrie": {
+      "slug": "carrie",
+      "title": "Carrie",
+      "qid": "Q5046194",
+      "enwiki": "Carrie (musical)",
+      "composers": [
+        {
+          "name": "Michael Gore",
+          "qid": "Q538824",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11770"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Dean Pitchford",
+          "qid": "Q5246414",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5030"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Lawrence D. Cohen",
+          "qid": "Q6503968",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7171"
+        }
+      ],
+      "premiere": {
+        "date": "1988-02-13",
+        "venue": "Royal Shakespeare Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2421",
+        "playbill": "https://playbill.com/production/carrie-virginia-theatre-vault-0000005242",
+        "wikipedia": "https://en.wikipedia.org/wiki/Carrie_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5046194"
+      },
+      "summary": {
+        "text": "Carrie (also known as Carrie: The Musical) is a musical with a book by Lawrence D. Cohen, lyrics by Dean Pitchford, and music by Michael Gore. It is based on Stephen King's novel, and integrates elements from the 1976 film.\nThe musical focuses on Carrie White, an awkward teenage girl with telekinetic powers, whose lonely life is dominated by her oppressive religious fanatic mother, Margaret. When she is humiliated by her classmates at the high school prom, she unleashes chaos on everyone and everything in her path out of vengeance.\nCo-produced with the Royal Shakespeare Company, with direction by Terry Hands and choreography by Debbie Allen, the original production of Carrie premiered on Broadway at the Virginia Theatre in April 1988, after completing pre-Broadway tryouts in the United Kingdom at Stratford-upon-Avon's Royal Shakespeare Theatre in February and March of that year. Its original stars included Linzi Hateley as the title character, Sally Ann Triplett as Sue Snell, Charlotte d'Amboise as Chris Hargensen, Gene Anthony Ray as Billy Nolan, and Darlene Love as Miss Lynn Gardner. Barbara Cook played Margaret during the tryouts, but was replaced by Betty Buckley for the Broadway run following Cook's resignation after a technical accident.\nThe show received mostly negative reviews and closed after 16 previews and five regular performances in Broadway. With a budget of $8 million, it is considered one of the most notable and expensive failures in Broadway theatre history. Its reputation, the story behind its difficult production, and its limited run created a passionate response from fans, with the show gaining a cult following. The original production's legacy continued in several unofficial productions at Emerson College, Gammel Hellerup Gymnasium, and Stagedoor Manor. A 1991 book written by Ken Mandelbaum, which chronicled the history of flop Broadway musicals, was entitled Not Since Carrie, and a 2021 podcast and subsequent 2023 book, Out for Blood, documented its creation and development.\nAn Off-Broadway revival premiered in 2012 at the Lucille Lortel Theatre, with the book and score almost entirely revised by Cohen, Pitchford, and Gore. The show removed most of the exaggerated and playful style from the original and focused on transforming the musical into a psychological-drama. The revival received better reviews than the original production, although some described it as dull. It became the official version of the show, and opened the rights for licensing the following year. The 2015 Off-West End and Los Angeles production followed after the 2012 revival, both receiving positive reviews. \"Chapter Thirty-One: A Night to Remember\", a second season musical episode of Riverdale centered around the musical and using the revival versions of the songs, aired on The CW in 2018.",
+        "source_url": "https://en.wikipedia.org/wiki/Carrie_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "chicago": {
+      "slug": "chicago",
+      "title": "Chicago",
+      "qid": "Q656285",
+      "enwiki": "Chicago (musical)",
+      "composers": [
+        {
+          "name": "John Kander",
+          "qid": "Q1685876",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6837"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Fred Ebb",
+          "qid": "Q1274807",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5654"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Fred Ebb",
+          "qid": "Q1274807",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5654"
+        },
+        {
+          "name": "Bob Fosse",
+          "qid": "Q313256",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4563"
+        }
+      ],
+      "premiere": {
+        "date": "1975-06-03",
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Tony Award for Best Revival of a Musical",
+          "qid": "Q2018307"
+        },
+        {
+          "name": "Laurence Olivier Awards",
+          "qid": "Q28470"
+        },
+        {
+          "name": "Grammy Award for Best Musical Theater Album",
+          "qid": "Q3113385"
+        }
+      ],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/9942",
+        "official_site": "http://www.chicagothemusical.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Chicago_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q656285"
+      },
+      "summary": {
+        "text": "Chicago is an American musical with music by John Kander, lyrics by Fred Ebb, and book by Ebb and Bob Fosse. Set in Chicago in the Jazz Age, the musical is based on the 1926 play of the same name by Maurine Dallas Watkins, then a journalist covering the city's courthouse beat. A satire on corruption in the administration of criminal justice, the plot follows felons who manipulate their stories to develop celebrity status.\nThe original Broadway production opened in June 1975 at the 46th Street Theatre and ran for 936 performances, closing in August 1977. Fosse directed and choreographed the original production, and his style is strongly identified with the show. The original West End production opened in 1979, running for 600 performances.\nThe ongoing 1996 revival of Chicago is the longest-running show currently on Broadway, holding the record as the longest-running musical revival and the longest-running American musical in Broadway history. The lengthy run ranks second only to The Phantom of the Opera, having surpassed Cats on November 23, 2014, upon its 7,486th performance. The 1997 West End revival became the longest-running American musical in West End history. Chicago has been staged in numerous productions around the world, and has toured extensively in the United States and United Kingdom. The musical's 2002 film adaptation won the Academy Award for Best Picture.",
+        "source_url": "https://en.wikipedia.org/wiki/Chicago_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "hurt-locker": {
+      "slug": "hurt-locker",
+      "title": "Hurt Locker",
+      "qid": "Q18350409",
+      "enwiki": "Hurt Locker (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Tony Kushner",
+          "qid": "Q704433",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8918"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Hurt_Locker_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q18350409"
+      },
+      "summary": {
+        "text": "Hurt Locker: The Musical is a fictional musical in the 2014 Broadway premiere production of Hedwig and the Angry Inch loosely inspired by the film of the same name. In the Broadway performance of Hedwig and the Angry Inch, the musical opens with Hedwig explaining that the musical only ran for a single night before closing during intermission, and that she has convinced a producer to let her perform in what would otherwise be an empty stage. Fake Playbills for the musical are used as props and are found scattered on the floor of the Belasco Theatre and contains advertisements for other fake musicals such as Gravity on Ice, Container Store: The Musical, The Entire Bible, and SoulCycle on Broadway. The Playbills, which describe the musical as having \"explosions, negligible storytelling, camouflage and tits\", also state that the musical's cast included actors such as Taye Diggs (who would go on to play the role of Hedwig in the summer of 2015) and that the music and lyrics were written by Metallica and Stephen R. Schwartz, which is the real name of Hedwig songwriter Stephen Trask.\nDirector Michael Mayer stated that they came up with the idea for Hurt Locker: The Musical as a way to explain Hedwig's presence in a Broadway theater. It was also used as a way to update the script to modern day as well as explain how Hedwig would be able to use such stage settings. Various newspapers have commented favorably on the faux Playbills, both an element of the musical and as a piece separate from the musical itself. The faux Playbills were written by writer-performers Mike Albo and Amanda Duarte, and designed by Rogers Eckersley Design.",
+        "source_url": "https://en.wikipedia.org/wiki/Hurt_Locker_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "i-am-anne-frank": {
+      "slug": "i-am-anne-frank",
+      "title": "I Am Anne Frank",
+      "qid": "Q17150298",
+      "enwiki": "I Am Anne Frank (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/I_Am_Anne_Frank_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q17150298"
+      },
+      "summary": {
+        "text": "I Am Anne Frank is a 1996 song cycle by Enid Futterman and Michael Cohen, adapted from their 1985 musical-theater piece Yours, Anne.\nA staged version  featured at the Ivey Awards under direction of Ben Krywoscz and musical direction of Mindy Eschedor of the Nautilus Music Theater. The New Jersey premiere took place at the Blairstown Theater Festival.\nAndrea Marcovicci played Anne Frank and Stephen Bogardus played Peter van Pels in the New York premiere at Alice Tully Hall in October 1996.",
+        "source_url": "https://en.wikipedia.org/wiki/I_Am_Anne_Frank_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "i-dreamed-a-dream": {
+      "slug": "i-dreamed-a-dream",
+      "title": "I Dreamed a Dream",
+      "qid": "Q5977071",
+      "enwiki": "I Dreamed a Dream (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Alan McHugh",
+          "qid": "Q15072791"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/I_Dreamed_a_Dream_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5977071"
+      },
+      "summary": {
+        "text": "I Dreamed a Dream is a jukebox musical with the book co-written by Alan McHugh and Elaine C. Smith and produced by Michael Harrison. It is based on the life of Susan Boyle and her 2010 autobiography, The Woman I Was Born to Be.  The score features songs recorded by Boyle, hymns, traditional songs and popular songs, mostly from the 1960s to the 1980s.\nThe show premiered on 27 March 2012 at the Theatre Royal in Newcastle, directed by Ed Curtis and choreographed by Nick Winston. Smith stars as Susan Boyle, and Boyle herself sings two songs at the end of most performances. It has received generally favourable reviews.  The production's tour of the UK and Ireland continued through much of 2012.",
+        "source_url": "https://en.wikipedia.org/wiki/I_Dreamed_a_Dream_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "laughing-room-only": {
+      "slug": "laughing-room-only",
+      "title": "Laughing Room Only",
+      "qid": "Q116814450",
+      "enwiki": "Laughing Room Only",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Laughing_Room_Only",
+        "wikidata": "https://www.wikidata.org/wiki/Q116814450"
+      },
+      "summary": {
+        "text": "Jackie Mason's Laughing Room Only is a 2003 Broadway musical with a book by Dennis Blair and Digby Wolfe and music and lyrics by Doug Katsaros. It began previews at the Brooks Atkinson Theatre on October 23, 2003, opened on November 19, 2003, and closed on November 30, 2003, totaling 14 performances. The show's story features the titular Jackie Mason as himself as he tries to put on a 10 million dollar musical on a budget of $19.99.\nOther cast members were Ruth Gottschall, Cheryl Stern, Darrin Baker, Robert Creighton, and Barry Finkel. The show was directed by Robert Johanson.",
+        "source_url": "https://en.wikipedia.org/wiki/Laughing_Room_Only",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "lennon": {
+      "slug": "lennon",
+      "title": "Lennon",
+      "qid": "Q6522814",
+      "enwiki": "Lennon (musical)",
+      "composers": [
+        {
+          "name": "John Lennon",
+          "qid": "Q1203",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6852"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "John Lennon",
+          "qid": "Q1203",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6852"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Don Scardino",
+          "qid": "Q2745262",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/59231"
+        }
+      ],
+      "premiere": {
+        "date": "2005-04-12",
+        "venue": "Curran Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/392115",
+        "wikipedia": "https://en.wikipedia.org/wiki/Lennon_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6522814"
+      },
+      "summary": {
+        "text": "Lennon is a musical with music and lyrics by John Lennon and book by Don Scardino, who also directed its premiere. The musical is about the life of Lennon and is notable for Scardino's choice to be almost exclusively based on Lennon's own words and to focus on Lennon's solo career, with no songs from the Lennon–McCartney catalogue.\nThe \"$7 million bio-musical\" first opened in San Francisco, California, in April 2005.  After what The Times described as \"a troubled try-out in San Francisco, a cancelled run in Boston and a radical rewrite\", it had 42 previews and 49 performances on Broadway at the Broadhurst Theatre from 14 August to 24 September 2005.  The role of Lennon is played by performers of both sexes and different ages and skin colours, an approach Scardino said was inspired by \"I Am the Walrus\" where Lennon writes, \"I am he, as you are he, as you are me, and we are all together.\" This use of multiple actors was scaled back after the San Francisco production, with the final rewrite having a single actor narrating Lennon's story.\nYoko Ono was actively involved in the production, retaining final script approval and requiring the show's Broadway producers to complete the script and present it to her live (albeit in workshop format). The show's credits included the phrase \"With Special Thanks to Yoko Ono Lennon\".\nThe limited use of Beatles songs, attributed to creative choices and not licensing issues, led critics to dismiss the work as \"Ono-centric\". Ono was unapologetic about the choice: \"If we put 'Yesterday' in, it's not really fair to the Beatles because we're leaning on their power.  We're talking about John now, thank you.\" She later said \"It is definitely John's story – from Liverpool 1940 to New York 1980. I am the B-side, and that's how it should be. I think he would have loved it.\" The musical also conspicuously omits any mention of May Pang, Lennon's lover for a period of 18 months in 1974–75 when the singer was separated from Ono.",
+        "source_url": "https://en.wikipedia.org/wiki/Lennon_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "life-could-be-a-dream": {
+      "slug": "life-could-be-a-dream",
+      "title": "Life Could Be a Dream",
+      "qid": "Q6544755",
+      "enwiki": "Life Could Be a Dream (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Life_Could_Be_a_Dream_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6544755"
+      },
+      "summary": {
+        "text": "Life Could Be a Dream is a jukebox musical written by Roger Bean, the creator of The Marvelous Wonderettes.\nThe original production at the Hudson Theatre in Hollywood, California was directed by Bean and was produced by David Elzer. It premiered on August 7, 2009, and starred Daniel Tatar, Jim Holdridge, Ryan Castellino, Doug Carpenter and Jessica Keenan Wynn.",
+        "source_url": "https://en.wikipedia.org/wiki/Life_Could_Be_a_Dream_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "million-dollar-quartet": {
+      "slug": "million-dollar-quartet",
+      "title": "Million Dollar Quartet",
+      "qid": "Q6859768",
+      "enwiki": "Million Dollar Quartet (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Floyd Mutrux",
+          "qid": "Q5462500",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/485504"
+        }
+      ],
+      "premiere": {
+        "date": "2006-11-09",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/485498",
+        "wikipedia": "https://en.wikipedia.org/wiki/Million_Dollar_Quartet_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6859768"
+      },
+      "summary": {
+        "text": "Million Dollar Quartet is a jukebox musical with a book by Colin Escott and Floyd Mutrux. It dramatizes the Million Dollar Quartet recording session of December 4, 1956 among early rock and roll/country stars who recorded at Sun Studio in Memphis, which are Elvis Presley, Johnny Cash, Carl Perkins and newcomer Jerry Lee Lewis. The musical opened on Broadway in 2010, after several tryouts and regional productions, and spawned a 2011 West End production.",
+        "source_url": "https://en.wikipedia.org/wiki/Million_Dollar_Quartet_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "operette": {
+      "slug": "operette",
+      "title": "Operette",
+      "qid": "Q7097861",
+      "enwiki": "Operette (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Operette_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7097861"
+      },
+      "summary": {
+        "text": "Operette is a musical in two acts composed, written and produced by Noël Coward.  The show is a period piece, set in the year 1906 at the fictional \"Jubilee\" theatre.  The story concerns an ageing Viennese operetta star, who warns the young ingenue not to marry a nobleman.\nThe piece premiered in 1938.  Coward's attempt to follow up the mittel-European nostalgia of his hit operetta Bitter Sweet (1929) was not a success and ran for only 132 performances.  It nevertheless contained songs that endured, in Coward's cabaret act and elsewhere, such as \"The Stately Homes of England\".",
+        "source_url": "https://en.wikipedia.org/wiki/Operette_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "sally-in-our-alley": {
+      "slug": "sally-in-our-alley",
+      "title": "Sally in Our Alley",
+      "qid": "Q120467197",
+      "enwiki": "Sally in Our Alley (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Sally_in_Our_Alley_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q120467197"
+      },
+      "summary": {
+        "text": "Sally in Our Alley is a 1902 Broadway musical comedy show. It helped Marie Cahill reach stardom and popularized songs. The title refers to the popular saying that developed from the British song \"Sally in Our Alley\". The show helped popularize the song \"Under the Bamboo Tree\". George V. Hobart wrote the musical and its song lyrics. Ludwig Engländer wrote the music for the show. Interpolations of songs by J. Rosamond Johnson, George Walker, and Bert Williams were included in the show.\nThe first performance of the show was delayed a couple days because of a dressing room row that occurred after Irene Bently was assigned a tent rather than a bedroom like Marie Cahill.\nThe show's chorus was photographed and is in the MCNY collection. The photograph is attributed to the Byron Company.\nSongs in the show include \"When It's All Goin' out and Nothin' Comin' In\" written by Bert Williams and George Walker as well as \"Under the Bamboo Tree\" by Rosamond Johnson (music) and Bob Cole (lyrics). A gramophone recording of Under the Bamboo Tree was made. Other performers such as vaudeville star Marie Cahill also recorded the song. She also performed as a musical comedienne in the show. It become part of her vaudeville routine. Harry Farleigh performed in the show.\nSeveral Sally in Our Alley films were also made. Grace Fields stars in one of the films. Joseph W. Stern published sheet music for the songs and instrumentals in the show.",
+        "source_url": "https://en.wikipedia.org/wiki/Sally_in_Our_Alley_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "snow-wolf-lake": {
+      "slug": "snow-wolf-lake",
+      "title": "Snow.Wolf.Lake",
+      "qid": "Q133266894",
+      "enwiki": "Snow.Wolf.Lake",
+      "composers": [
+        {
+          "name": "Iskandar Ismail",
+          "qid": "Q27973943"
+        },
+        {
+          "name": "Dick Lee",
+          "qid": "Q710609"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Jacky Cheung",
+          "qid": "Q16781"
+        },
+        {
+          "name": "Lin Xi",
+          "qid": "Q698511"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": "1997-03-28",
+        "venue": "Hong Kong Coliseum"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Snow.Wolf.Lake",
+        "wikidata": "https://www.wikidata.org/wiki/Q133266894"
+      },
+      "summary": {
+        "text": "Snow.Wolf.Lake (Chinese: 雪狼湖) is Hong Kong's first modern musical. Jacky Cheung, a cantopop artist, was the artistic director of the show and also played character Wolf in the musical. The running time of the musical is about three hours. It has two versions: Cantonese and Mandarin. The title combines the Chinese name of the two main characters, \"Wolf\", the male protagonist, and \"Snow\", the female protagonist. \"Lake\" refers to a plot related element.",
+        "source_url": "https://en.wikipedia.org/wiki/Snow.Wolf.Lake",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-new-yorkers-englander-musical": {
+      "slug": "the-new-yorkers-englander-musical",
+      "title": "The New Yorkers",
+      "qid": "Q121494127",
+      "enwiki": "The New Yorkers (Engländer musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_New_Yorkers_(Engl%C3%A4nder_musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q121494127"
+      },
+      "summary": {
+        "text": "The New Yorkers is a musical in two acts with music by Ludwig Engländer, a book by Glen MacDonough, and lyrics by George V. Hobart. The musical also contains some additional song material by composer Jackson Gouraud and lyricist George Sidney, and contained \"coon songs\" by Will Marion Cook and Sidney L. Perrin.\nThe musical premiered on Broadway at the Herald Square Theatre on October 7, 1901. It ran for a total of 64 performances; closing on November 30, 1901. The production was produced and directed by George W. Lederer and used costumes designed by Caroline Seidle. The sets were designed by D. Frank Dodge and Ernest Albert.\nThe original production  starred Dan Daly as Upson Downes, an unemployed New Yorker trying to get by in Paris, France. Downes learns that the heiress Olive Green (portrayed by Virginia Earle) is betrothed to a baron whom her family has never met. He disguises himself and pretends to be the baron, fooling Olive and her father, De Long Green (portrayed by George A. Schiller). Eventually the real baron shows up and a comedy of errors ensues.",
+        "source_url": "https://en.wikipedia.org/wiki/The_New_Yorkers_(Engl%C3%A4nder_musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "zombies-from-the-beyond": {
+      "slug": "zombies-from-the-beyond",
+      "title": "Zombies from The Beyond",
+      "qid": "Q8073792",
+      "enwiki": "Zombies from The Beyond",
+      "composers": [
+        {
+          "name": "James Valcq",
+          "qid": "Q15458843"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "James Valcq",
+          "qid": "Q15458843"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "James Valcq",
+          "qid": "Q15458843"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Zombies_from_The_Beyond",
+        "wikidata": "https://www.wikidata.org/wiki/Q8073792"
+      },
+      "summary": {
+        "text": "Zombies from The Beyond is an American musical comedy with book, music, and lyrics by James Valcq. It opened Off-Broadway on October 11, 1995, at the Players Theatre. The show examines American ideals and foibles during the era of President Dwight D. Eisenhower in a tone that is often parodistic and sometimes genuinely satiric, all following closely the structural form of grade-B space paranoia films that were popular during the 1950s.",
+        "source_url": "https://en.wikipedia.org/wiki/Zombies_from_The_Beyond",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "zorro": {
+      "slug": "zorro",
+      "title": "Zorro",
+      "qid": "Q4027516",
+      "enwiki": "Zorro (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Zorro_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4027516"
+      },
+      "summary": {
+        "text": "Zorro is a musical with music by the Gipsy Kings and John Cameron, a book by Stephen Clark and Helen Edmundson, and lyrics by Stephen Clark. It is inspired by the 2005 fictional biography of the same name by Isabel Allende, itself a prequel to the 1919 serialized novella The Curse of Capistrano by Johnston McCulley, the first work to feature the pulp hero Zorro. It also contains numerous references to earlier Zorro-related works, especially the 1998 film The Mask of Zorro.\nThe show had its world premiere in 2008 at the Congress Theatre in Eastbourne, as part of a UK trial tour, followed by a London West End run at the Garrick Theatre. Zorro began previews at the Garrick Theatre on July 2, 2008, after the first few were cancelled due to technical problems, with an official opening on July 15, 2008. Christopher Renshaw directed and Rafael Amargo choreographed. The cast featured Matt Rawle as Diego de la Vega, Emma Williams as Luisa, Adam Levy as Ramon, Lesli Margherita as Inez (who won an Olivier Award for her role), Nick Cavaliere as Sergeant Garcia, and Jonathan Newth as Don Alejandro. On December 17, 2008, the cast of Zorro performed a medley of songs from the show on the Royal Variety Performance at the London Palladium. An original cast recording was released in February 2009. The production ran for almost nine months, playing its final performance on March 14, 2009.\nA one-night concert version was performed on February 23, 2020 at Cadogan Hall in London. The cast was led by two of the original cast members, Lesli Margherita and Emma Williams. This production had new compositions, orchestrations and arrangements by John Cameron. There was no set; however, the actors used additional props and costumes. George Reeve designed and created the video projections.\nAria Entertainment revived the show at the Hope Mills Theatre in Manchester in March 2020, but the run was cut short after just two performances due to the COVID-19 pandemic. The show was transferred to London in 2022, but its scheduled reopening on March 12 was again delayed. The show reopened at the Charing Cross Theatre on April 12, 2022, running until May 28.",
+        "source_url": "https://en.wikipedia.org/wiki/Zorro_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

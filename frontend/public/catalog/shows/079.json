@@ -1,0 +1,702 @@
+{
+  "live": true,
+  "shows": {
+    "a-greek-slave": {
+      "slug": "a-greek-slave",
+      "title": "A Greek Slave",
+      "qid": "Q4657182",
+      "enwiki": "A Greek Slave",
+      "composers": [
+        {
+          "name": "Sidney Jones",
+          "qid": "Q926850",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11958"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Harry Greenbank",
+          "qid": "Q5669257",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12917"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Owen Hall",
+          "qid": "Q7114495",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7982"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1118",
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Greek_Slave",
+        "wikidata": "https://www.wikidata.org/wiki/Q4657182"
+      },
+      "summary": {
+        "text": "A Greek Slave is a musical comedy in two acts, first performed on 8 June 1898 at Daly's Theatre in London, produced by George Edwardes and ran for 349 performances. The score was composed by Sidney Jones with additional songs by Lionel Monckton and lyrics by Harry Greenbank and Adrian Ross. The libretto was written by Owen Hall. It starred Marie Tempest, Letty Lind, Hayden Coffin, Scott Russell, Huntley Wright and Rutland Barrington among other popular London stars. The show had a brief Broadway run in 1899.\nThe work's competition in London in 1898 included the long-running musicals A Runaway Girl and The Belle of New York.",
+        "source_url": "https://en.wikipedia.org/wiki/A_Greek_Slave",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "a-my-name-is-alice": {
+      "slug": "a-my-name-is-alice",
+      "title": "A... My Name Is Alice",
+      "qid": "Q4647013",
+      "enwiki": "A... My Name Is Alice",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/A..._My_Name_Is_Alice",
+        "wikidata": "https://www.wikidata.org/wiki/Q4647013"
+      },
+      "summary": {
+        "text": "A... My Name Is Alice is a musical revue conceived by Joan Micklin Silver and Julianne Boyd, first produced in 1983. It won the Outer Critics Circle Award for Best Revue. It consists of some 21 songs by composers such as David Zippel, Doug Katsaros, Winnie Holzman, and Lucy Simon, along with scenes penned by Cassandra Medley, Marta Kauffman, Anne Meara, and others.",
+        "source_url": "https://en.wikipedia.org/wiki/A..._My_Name_Is_Alice",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "behold-the-man-la-opera-de-cecilia": {
+      "slug": "behold-the-man-la-opera-de-cecilia",
+      "title": "Behold the Man, La Ópera de Cecilia",
+      "qid": "Q104845419",
+      "enwiki": "Behold the Man, La Ópera de Cecilia",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Behold_the_Man%2C_La_%C3%93pera_de_Cecilia",
+        "wikidata": "https://www.wikidata.org/wiki/Q104845419"
+      },
+      "summary": {
+        "text": "Behold the Man, La Ópera de Cecilia is a two-act, crossover musical comedy, in both English and Spanish, based on the true story of Cecilia Giménez and her failed 2012 restoration of the Ecce Homo fresco in Borja, Spain.",
+        "source_url": "https://en.wikipedia.org/wiki/Behold_the_Man%2C_La_%C3%93pera_de_Cecilia",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "cambridge-footlights-revue": {
+      "slug": "cambridge-footlights-revue",
+      "title": "Cambridge Footlights Revue",
+      "qid": "Q5025421",
+      "enwiki": "Cambridge Footlights Revue",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2366",
+        "wikipedia": "https://en.wikipedia.org/wiki/Cambridge_Footlights_Revue",
+        "wikidata": "https://www.wikidata.org/wiki/Q5025421"
+      },
+      "summary": {
+        "text": "The Cambridge Footlights Revue is an annual revue by the Footlights Club, a group of comedy writer-performers at the University of Cambridge.  Three of the more notable revues are detailed below.",
+        "source_url": "https://en.wikipedia.org/wiki/Cambridge_Footlights_Revue",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "catch-my-soul": {
+      "slug": "catch-my-soul",
+      "title": "Catch My Soul",
+      "qid": "Q5051669",
+      "enwiki": "Catch My Soul (musical)",
+      "composers": [
+        {
+          "name": "Ray Pohlman",
+          "qid": "Q21598309"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Jack Good",
+          "qid": "Q162092",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/502697"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "William Shakespeare",
+          "qid": "Q692",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8638"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Catch_My_Soul_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5051669"
+      },
+      "summary": {
+        "text": "Catch My Soul is a rock musical produced by Jack Good, loosely adapted from Shakespeare's Othello. The character of Iago had originally been played by Jerry Lee Lewis in the US production which had closed in 1968. The UK production of the show was a showcase for the talents of Lance LeGault, P. P. Arnold, P.J. Proby and an introduction to the rock musician Robert Tench with the band Gass.\nThe first UK production opened at the University Theatre Manchester by the 69 Theatre Company with Angharad Rees as Desdemona on 14 October 1970. It toured to Birmingham, Oxford and Brighton before opening at the Roundhouse in December 1970 and then ran at the Prince of Wales Theatre in the West End from February to July 1971. The original UK cast recorded Catch My Soul (1971), The show also toured larger UK cities and closed in January 1972, with music as interpreted by Gass the show's backing band at that time. A film, Catch My Soul, was released in 1974 with a different cast.",
+        "source_url": "https://en.wikipedia.org/wiki/Catch_My_Soul_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "coraline-musical": {
+      "slug": "coraline-musical",
+      "title": "Coraline",
+      "qid": "Q5169535",
+      "enwiki": "Coraline (musical)",
+      "composers": [
+        {
+          "name": "Stephin Merritt",
+          "qid": "Q2395308"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "David Greenspan",
+          "qid": "Q16187095",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/102285"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Coraline_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5169535"
+      },
+      "summary": {
+        "text": "Coraline is a musical with music and lyrics by Stephin Merritt and a book by David Greenspan. It is based on the 2002 novella of the same name by Neil Gaiman. The story follows Coraline Jones, a young girl who discovers a parallel world beyond a secret door in her new home. The world has everything Coraline dreams of, but hides an ominous secret.\nCoraline premiered off-Broadway in June 2009, four months after the film adaptation's release.",
+        "source_url": "https://en.wikipedia.org/wiki/Coraline_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "follow-that-girl": {
+      "slug": "follow-that-girl",
+      "title": "Follow That Girl",
+      "qid": "Q5464716",
+      "enwiki": "Follow That Girl",
+      "composers": [
+        {
+          "name": "Julian Slade",
+          "qid": "Q6307573"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Julian Slade",
+          "qid": "Q6307573"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Julian Slade",
+          "qid": "Q6307573"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Follow_That_Girl",
+        "wikidata": "https://www.wikidata.org/wiki/Q5464716"
+      },
+      "summary": {
+        "text": "Follow That Girl is a musical adapted by Julian Slade and Dorothy Reynolds from their original Bristol Old Vic production Christmas in King Street. The story centers on a girl named Victoria Gilchrist, whose parents want her to marry one of two businessmen. She objects and runs away. Her capture after a long chase by a policeman, Tom, leads to romance and finally marriage to him. The original production contained many topical and local Bristol references — the heroine Victoria was named after the Bristol University Students Union building — but most of these were replaced when the show was revamped for its West End production.\nVictoria was played by Susan Hampshire and Tom by Peter Gilmore. Others in the cast were James Cairncross – a prime collaborator with Slade and Reynolds in their musicals both as a performer and writer – Patricia Routledge, Robert MacBain and Philip Guard. Follow That Girl opened at the Vaudeville Theatre on 17 March 1960 and ran for 211 performances.\nJulian Slade and Dorothy Reynolds also wrote Salad Days and Hooray for Daisy. Profits from Salad Days were donated towards the purchase of premises for the Bristol Old Vic Theatre School in 1956 and this contribution was honoured forty years later when the school's new purpose-built dance and movement studio was named after them in 1996.",
+        "source_url": "https://en.wikipedia.org/wiki/Follow_That_Girl",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "gay-divorce": {
+      "slug": "gay-divorce",
+      "title": "Gay Divorce",
+      "qid": "Q1398255",
+      "enwiki": "Gay Divorce",
+      "composers": [
+        {
+          "name": "Cole Porter",
+          "qid": "Q215120",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12257"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Cole Porter",
+          "qid": "Q215120",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12257"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Dwight Taylor",
+          "qid": "Q3041892",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5150"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3784",
+        "wikipedia": "https://en.wikipedia.org/wiki/Gay_Divorce",
+        "wikidata": "https://www.wikidata.org/wiki/Q1398255"
+      },
+      "summary": {
+        "text": "Gay Divorce is a musical with music and lyrics by Cole Porter and book by Dwight Taylor, adapted by Kenneth Webb and Samuel Hoffenstein. It was Fred Astaire's last Broadway show and featured the hit song \"Night and Day\" in which Astaire danced with co-star Claire Luce.\nRKO Radio Pictures released a film production of the musical  in 1934, starring Astaire and Ginger Rogers, renamed The Gay Divorcee.",
+        "source_url": "https://en.wikipedia.org/wiki/Gay_Divorce",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "glad-to-see-you": {
+      "slug": "glad-to-see-you",
+      "title": "Glad To See You",
+      "qid": "Q30686942",
+      "enwiki": "Glad To See You",
+      "composers": [
+        {
+          "name": "Jule Styne",
+          "qid": "Q587741",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12466"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Sammy Cahn",
+          "qid": "Q470040",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11268"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Glad_To_See_You",
+        "wikidata": "https://www.wikidata.org/wiki/Q30686942"
+      },
+      "summary": {
+        "text": "Glad To See You was a 1944 American musical comedy. The musical, which involves the adventure of a USO troupe during World War II, was intended for Broadway but flopped, closing after out-of-town tryouts and never opening in New York.",
+        "source_url": "https://en.wikipedia.org/wiki/Glad_To_See_You",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "jekyll-hyde": {
+      "slug": "jekyll-hyde",
+      "title": "Jekyll & Hyde",
+      "qid": "Q1373366",
+      "enwiki": "Jekyll & Hyde (musical)",
+      "composers": [
+        {
+          "name": "Frank Wildhorn",
+          "qid": "Q1444457",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5638"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Leslie Bricusse",
+          "qid": "Q1305608",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11429"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Leslie Bricusse",
+          "qid": "Q1305608",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11429"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": "Alley Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4863",
+        "official_site": "http://jekyll-hyde.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/Jekyll_%26_Hyde_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1373366"
+      },
+      "summary": {
+        "text": "Jekyll & Hyde is a 1990 musical based on the 1886  novella The Strange Case of Dr Jekyll and Mr Hyde by Robert Louis Stevenson. Originally conceived for the stage by Frank Wildhorn and Steve Cuden, it features music by Frank Wildhorn, a book by Leslie Bricusse and lyrics by all of them. After a world premiere run in Houston, Texas, the musical embarked on a national tour of the United States prior to its Broadway debut in 1997. \nMany awarded international productions in various languages (more than 20 countries) have since been staged including two subsequent North American tours, two tours in the United Kingdom, a concert version, a revamped US tour in 2012, a 2013 Broadway revival featuring Constantine Maroulis, and an Australian concert version in 2019 starring Anthony Warlow.",
+        "source_url": "https://en.wikipedia.org/wiki/Jekyll_%26_Hyde_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "jerome-robbins-broadway": {
+      "slug": "jerome-robbins-broadway",
+      "title": "Jerome Robbins' Broadway",
+      "qid": "Q3177424",
+      "enwiki": "Jerome Robbins' Broadway",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4871",
+        "wikipedia": "https://en.wikipedia.org/wiki/Jerome_Robbins'_Broadway",
+        "wikidata": "https://www.wikidata.org/wiki/Q3177424"
+      },
+      "summary": {
+        "text": "Jerome Robbins' Broadway is an anthology comprising musical numbers from shows that were either directed or choreographed by Jerome Robbins. The shows represented include, for example, The King and I, On the Town and West Side Story. Robbins won his fifth Tony Award for direction.",
+        "source_url": "https://en.wikipedia.org/wiki/Jerome_Robbins'_Broadway",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "julie-the-musical": {
+      "slug": "julie-the-musical",
+      "title": "JULIE: The Musical",
+      "qid": "Q127326793",
+      "enwiki": "JULIE: The Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/JULIE%3A_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q127326793"
+      },
+      "summary": {
+        "text": "Julie: The Musical (stylised in all caps) is a British musical comedy biopic about the 17th century opera singer, swordswoman and queer historical figure, Julie d'Aubigny. Its music, book and lyrics were written by Manchester-based, queer creator Abey Bradbury, who also did costume design for the show. It was co-produced by Le Gasp! Productions.\nThemes of the show include queerness, found family, feminism, and carving a place for yourself in a world not built for you.",
+        "source_url": "https://en.wikipedia.org/wiki/JULIE%3A_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "ladyship": {
+      "slug": "ladyship",
+      "title": "Ladyship",
+      "qid": "Q127699510",
+      "enwiki": "Ladyship (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Ladyship_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q127699510"
+      },
+      "summary": {
+        "text": "Ladyship is a stage musical with music, lyrics and book by Laura Good and Linda Good of the alt-pop band, The Twigs, based upon the conviction and transportation of women convicts from England to Australia in 1789.\nIt premiered off-broadway at The Alice Griffin Jewel Box Theater on July 10, 2019, as part of The New York Musical Festival, as a main stage production, and was directed by Samantha Saltzman.",
+        "source_url": "https://en.wikipedia.org/wiki/Ladyship_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "little-hans-andersen": {
+      "slug": "little-hans-andersen",
+      "title": "Little Hans Andersen",
+      "qid": "Q104792058",
+      "enwiki": "Little Hans Andersen",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Little_Hans_Andersen",
+        "wikidata": "https://www.wikidata.org/wiki/Q104792058"
+      },
+      "summary": {
+        "text": "Little Hans Andersen is a musical fairy pantomime in two acts and seven scenes for children with lyrics by Basil Hood and music by Walter Slaughter.\nIt was a revised version of Hood and Slaughter's pantomime Hans Andersen's Fairytales, based on the fairy tales of Hans Christian Andersen which had opened at Terry's Theatre in December 1897. After the last performance of the Savoy Opera A Princess of Kensington, produced by William Greet, the cast of the D'Oyly Carte Opera Company dispersed and many of them moved to the Adelphi Theatre to appear in the new musical comedy The Earl and the Girl (1903), also produced by Greet; there they next appeared in Little Hans Andersen from 23 December 1903 to 16 January 1904 for 23 matinee performances. Greet followed this with other productions at the Adelphi in which many of the same cast members appeared.",
+        "source_url": "https://en.wikipedia.org/wiki/Little_Hans_Andersen",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "seussical": {
+      "slug": "seussical",
+      "title": "Seussical",
+      "qid": "Q7457059",
+      "enwiki": "Seussical",
+      "composers": [
+        {
+          "name": "Stephen Flaherty",
+          "qid": "Q3973178",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11668"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Lynn Ahrens",
+          "qid": "Q293323",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7450"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/10308",
+        "wikipedia": "https://en.wikipedia.org/wiki/Seussical",
+        "wikidata": "https://www.wikidata.org/wiki/Q7457059"
+      },
+      "summary": {
+        "text": "Seussical, sometimes Seussical the Musical, is a musical with lyrics by Lynn Ahrens, music by Stephen Flaherty, and a story co-written by both. It is based on the works of Dr. Seuss, with most of its plot drawing from Horton Hears a Who!, Gertrude McFuzz, and Horton Hatches the Egg. The title is a portmanteau of \"Seuss\" and \"musical\". Despite a negative critical reception and significant financial losses during its initial Broadway run in 2000, Seussical has since had a revival in popularity, with two US national tours, a West End production, and numerous adaptations for schools and regional theaters.",
+        "source_url": "https://en.wikipedia.org/wiki/Seussical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "someone-like-you": {
+      "slug": "someone-like-you",
+      "title": "Someone like You",
+      "qid": "Q7559704",
+      "enwiki": "Someone like You (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Someone_like_You_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7559704"
+      },
+      "summary": {
+        "text": "Someone Like You is a musical with a book by Robin Midgley and Fay Weldon, lyrics by Dee Shipman, and music by Petula Clark.\nBased on a concept developed by Clark and Ferdie Pacheco over a period of several years, it is set in West Virginia immediately after the end of the Civil War. Originally entitled Amen, it was conceived as a dark view of the difficulties Southerners faced dealing with carpetbaggers during the Reconstruction period, and also dealt with the problems of morphine-addicted Confederate soldiers returning home. It lost many of its serious overtones as the project evolved; Clark and Shipman's original book was revised substantially by Weldon (who also contributed the new title), and the plot became convoluted, often bordering on the ridiculous. Shipman later stated, \"For all the faults there were in the original book . . . it was better than the hybrid we ended up with because it had passion.\"\nThe story centers on Abigail Kane, who journeys to America from her native England with her son Andy in search of her preacher husband, who allegedly had gone to the States to participate in the skirmish between North and South. She comes to the aid of the Major, a doctor struggling to care for a multitude of injured soldiers without the benefit of medical supplies, and soon discovers her missing husband is involved in shady dealings not usually associated with a man of the cloth. Drawn together out of both necessity and desire, Abigail and the Major forsake their marital vows and become involved in a passionate romance.\nDirected by Midgley, the musical premiered on 25 October 1989 at the Cambridge Arts Theatre in Cambridge, and in his review in the Cambridge Evening News, Alan Kersey wrote, \"Petula Clark proved last night at the world premiere of Someone Like You that she can still work wonders both on stage and in the tough real world of show business.\" The production toured the UK through 9 December.\nOn 22 March 1990, Someone Like You opened at the Strand Theatre in London's West End. In addition to Clark, it starred Dave Willetts (The Phantom of the Opera) as the Major, Clive Carter as Kane (roles in which Clark had hoped Andy Williams and Sting would be cast) and Lewis Rae as Andy. Reviews were mixed, although most critics praised Clark's performance and her contribution to the score.\nDue to financial difficulties faced by producer Harold Fielding, all his assets were seized, and the show closed without warning after the 25 April performance. Although an original cast album was never released at the time, Clark's recordings of several of the tunes were issued on various CDs throughout the ensuing years.\nA studio recording of the score was released by Sepia Records in May 2007. With arrangements by the show's original musical director and arranger, Kenny Clayton, it features vocals by Debi Doss, Andrew Derbyshire, and Lewis Rae, who appeared in the original production as young Andy. Clayton is featured on piano and keyboards, with David Martin on guitar and Eric Young on percussion.",
+        "source_url": "https://en.wikipedia.org/wiki/Someone_like_You_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "songs-for-a-new-world": {
+      "slug": "songs-for-a-new-world",
+      "title": "Songs for a New World",
+      "qid": "Q2301455",
+      "enwiki": "Songs for a New World",
+      "composers": [
+        {
+          "name": "Jason Robert Brown",
+          "qid": "Q1683976",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11446"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Jason Robert Brown",
+          "qid": "Q1683976",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11446"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Songs_for_a_New_World",
+        "wikidata": "https://www.wikidata.org/wiki/Q2301455"
+      },
+      "summary": {
+        "text": "Songs for a New World is a work of musical theatre written and composed by Jason Robert Brown. This was Jason Robert Brown's first produced show, originally produced Off-Broadway at the WPA Theatre in 1995. Brown and director Daisy Prince put together songs he had written for other venues and events, resulting in \"neither musical play nor revue, it is closer to a theatrical song cycle, a very theatrical song cycle.\"\nThe show lies between musical and song cycle, but it is neither; it is an abstract musical, a series of songs all connected by a theme: \"the moment of decision.\" The show has four performers who do not play the same characters throughout the show but who do have consistently developing character arcs nonetheless. Composer Brown has said, \"It's about one moment. It's about hitting the wall and having to make a choice, or take a stand, or turn around and go back.\"\nBecause of its small cast and orchestra, Songs for a New World has become a favorite small show for colleges and local theatres.",
+        "source_url": "https://en.wikipedia.org/wiki/Songs_for_a_New_World",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "strike": {
+      "slug": "strike",
+      "title": "Strike!",
+      "qid": "Q62614942",
+      "enwiki": "Strike! (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Strike!_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q62614942"
+      },
+      "summary": {
+        "text": "Strike! is a 2005 historical stage musical depicting the Winnipeg General Strike. It has been adapted into a Canadian Broadcasting Corporation radio production, a 17-minute short film, and the full-length feature film Stand!.",
+        "source_url": "https://en.wikipedia.org/wiki/Strike!_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "sullivan-and-gilbert": {
+      "slug": "sullivan-and-gilbert",
+      "title": "Sullivan and Gilbert",
+      "qid": "Q7636443",
+      "enwiki": "Sullivan and Gilbert",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Sullivan_and_Gilbert",
+        "wikidata": "https://www.wikidata.org/wiki/Q7636443"
+      },
+      "summary": {
+        "text": "Sullivan and Gilbert is a jukebox musical by Ken Ludwig with music and lyrics by Gilbert and Sullivan.  Sullivan and Gilbert features over 15 Gilbert and Sullivan songs. It examines a fictional day in 1890 when the Victorian era composer and dramatist, while embroiled in their 1890 \"carpet quarrel\", are requested by Queen Victoria to present a revue of songs from their operas on short notice.\nThe musical premiered in 1983 in Milford, New Hampshire, United States, and it has been revived several times in various places in North America.",
+        "source_url": "https://en.wikipedia.org/wiki/Sullivan_and_Gilbert",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-billy-barnes-revue": {
+      "slug": "the-billy-barnes-revue",
+      "title": "The Billy Barnes Revue",
+      "qid": "Q7718009",
+      "enwiki": "The Billy Barnes Revue",
+      "composers": [
+        {
+          "name": "Billy Barnes",
+          "qid": "Q4912155",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11346"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Billy Barnes",
+          "qid": "Q4912155",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11346"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Bob Rodgers",
+          "qid": "Q4933804"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2029",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Billy_Barnes_Revue",
+        "wikidata": "https://www.wikidata.org/wiki/Q7718009"
+      },
+      "summary": {
+        "text": "The Billy Barnes Revue is a 1959 musical comedy revue with music and lyrics by Billy Barnes and sketches by Bob Rodgers. The revue premiered in Los Angeles in 1959 and went on to be produced both on Broadway and Off Broadway.\nThe show is remembered for its acclaimed cast of newcomers, including Bert Convy and Ken Berry.  Barnes continued to produce successful revues in Los Angeles.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Billy_Barnes_Revue",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-drifters-girl": {
+      "slug": "the-drifters-girl",
+      "title": "The Drifters Girl",
+      "qid": "Q108864428",
+      "enwiki": "The Drifters Girl",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2021-10-09",
+        "venue": "Theatre Royal, Newcastle"
+      },
+      "awards": [],
+      "links": {
+        "official_site": "https://thedriftersgirl.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Drifters_Girl",
+        "wikidata": "https://www.wikidata.org/wiki/Q108864428"
+      },
+      "summary": {
+        "text": "The Drifters Girl is a jukebox musical with a book by Ed Curtis based on an idea by Tina Treadwell. It is based on the story of the American vocal group The Drifters and their manager from 1967 until 2001, Faye Treadwell. The musical features The Drifters' music.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Drifters_Girl",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "xanadu-the-marco-polo-musical": {
+      "slug": "xanadu-the-marco-polo-musical",
+      "title": "Xanadu: The Marco Polo Musical",
+      "qid": "Q8042878",
+      "enwiki": "Xanadu: The Marco Polo Musical",
+      "composers": [
+        {
+          "name": "William Perry",
+          "qid": "Q539791"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "William Perry",
+          "qid": "Q539791"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Xanadu%3A_The_Marco_Polo_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q8042878"
+      },
+      "summary": {
+        "text": "Xanadu: The Marco Polo Musical is an original musical written and produced in 1953 by Seventh Army Special Services in Germany, the first of the numerous stage musicals, film musicals and songs inspired in part by the Samuel Taylor Coleridge poem Kubla Khan with its opening lines:\n\nIn Xanadu did Kubla Khan\nA stately pleasure-dome decree\nWhere Alph, the sacred river, ran\nThrough caverns measureless to man\nDown to a sunless sea.\nThe play featured the mythical Chinese/Mongol city of Xanadu, which is also a color associated with the Yuan dynasty.\nThe score was written by songwriting team William P. Perry and William S. Wheeling, both of whom had been drawn into the Armed Forces shortly after their graduation from Harvard University. The cast and other members of the creative team were transferred from military units all over the world, and in spite of frequent cast changes as draftees were returned home, the show ran for five years and played both civilian and military theatres throughout Europe.",
+        "source_url": "https://en.wikipedia.org/wiki/Xanadu%3A_The_Marco_Polo_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

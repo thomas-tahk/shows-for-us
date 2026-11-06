@@ -1,0 +1,772 @@
+{
+  "live": true,
+  "shows": {
+    "1789-les-amants-de-la-bastille": {
+      "slug": "1789-les-amants-de-la-bastille",
+      "title": "1789: Les Amants de la Bastille",
+      "qid": "Q2809501",
+      "enwiki": "1789: Les Amants de la Bastille",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2012-10-10",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/1789%3A_Les_Amants_de_la_Bastille",
+        "wikidata": "https://www.wikidata.org/wiki/Q2809501"
+      },
+      "summary": {
+        "text": "1789: Les Amants de la Bastille (1789: Lovers of the Bastille) is a French stage musical with music by Dove Attia, Laurent Delort, Louis Delort, Rod Janois, Jean-Pierre Pilot, Benoit Poher, William Rousseau and Olivier Schultheis as well as lyrics by Attia and Vincent Baguian and a book by Attia and François Chouquet. It had its debut on 10 October 2012 at Palais des Sports de Paris. An accompanying double CD album was also successful in the French SNEP charts.\nIt has had productions in Japan, from both the Takarazuka Revue and Toho.",
+        "source_url": "https://en.wikipedia.org/wiki/1789%3A_Les_Amants_de_la_Bastille",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "a-snow-white-christmas": {
+      "slug": "a-snow-white-christmas",
+      "title": "A Snow White Christmas",
+      "qid": "Q16826858",
+      "enwiki": "A Snow White Christmas (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Snow_White_Christmas_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q16826858"
+      },
+      "summary": {
+        "text": "A Snow White Christmas is a pantomime version of the fairytale Snow White, with a book by Kris Lythgoe and a score consisting of a pastiche of well-known pop tunes. It was first produced in 2011 at the El Portal Theatre in North Hollywood, California. The music includes songs by Katy Perry, Bruno Mars, Michael Jackson, The Village People, Britney Spears, Lady Gaga and Hall & Oates, among others. Like other pantomime-style musicals, the show includes magic, dancing, singing, acting, audience interactivity and sing-a-long segments.",
+        "source_url": "https://en.wikipedia.org/wiki/A_Snow_White_Christmas_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "black-velvet": {
+      "slug": "black-velvet",
+      "title": "Black Velvet",
+      "qid": "Q4922101",
+      "enwiki": "Black Velvet (revue)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1938",
+        "venue": "Hippodrome"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Black_Velvet_(revue)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4922101"
+      },
+      "summary": {
+        "text": "Black Velvet was a revue at the London Hippodrome in 1938 which included Roma Beaumont, and Pat Kirkwood singing the celebrated song \"My Heart Belongs to Daddy\", and vocalist/impressionist Afrique.  The show made Pat Kirkwood into Britain's first wartime star and established her career.",
+        "source_url": "https://en.wikipedia.org/wiki/Black_Velvet_(revue)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "carnival-in-flanders": {
+      "slug": "carnival-in-flanders",
+      "title": "Carnival in Flanders",
+      "qid": "Q5044107",
+      "enwiki": "Carnival in Flanders (musical)",
+      "composers": [
+        {
+          "name": "Jimmy Van Heusen",
+          "qid": "Q33124",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12521"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Johnny Burke",
+          "qid": "Q743229",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11462"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Preston Sturges",
+          "qid": "Q546204",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8190"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2416",
+        "wikipedia": "https://en.wikipedia.org/wiki/Carnival_in_Flanders_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5044107"
+      },
+      "summary": {
+        "text": "Carnival in Flanders is a musical with a book by Preston Sturges, lyrics by Johnny Burke, and music by Jimmy Van Heusen.\nBased on the 1934 French comedy film La Kermesse Héroïque, it is set in 1616 in the small Flemish village of Flackenburg, where a Spanish duke and his entourage descend upon the community. The mayor plays dead, hoping that his ruse will force the visitors to depart, but the duke sets his sights on the man's \"widow\" and begins to woo her. The musical had a brief run on Broadway in 1953.\nThe musical is the source of the song \"Here's That Rainy Day\", which has become a standard.",
+        "source_url": "https://en.wikipedia.org/wiki/Carnival_in_Flanders_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "collits-inn": {
+      "slug": "collits-inn",
+      "title": "Collits' Inn",
+      "qid": "Q5147521",
+      "enwiki": "Collits' Inn (musical)",
+      "composers": [
+        {
+          "name": "Varney Monk",
+          "qid": "Q7916040"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Varney Monk",
+          "qid": "Q7916040"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Collits'_Inn_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5147521"
+      },
+      "summary": {
+        "text": "Collits' Inn is an Australian musical play with music by Varney Monk. Its first staging was in December 1932 at the Savoy Theatre in Sydney. The 1933 Melbourne production at the Princess Theatre was the first fully professional production, presented by F. W. Thring and starring Gladys Moncrieff, George Wallace, Claude Flemming and Campbell Copelin. Wallace's role was created especially for him. It is generally considered the first commercially successful Australian musical, and it was praised by the Sydney Morning Herald as \"an Australian opera\".\nThe text was published by Currency Press in 1990.",
+        "source_url": "https://en.wikipedia.org/wiki/Collits'_Inn_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "dog-man-the-musical": {
+      "slug": "dog-man-the-musical",
+      "title": "Dog Man: The Musical",
+      "qid": "Q112107161",
+      "enwiki": "Dog Man: The Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Dog_Man%3A_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q112107161"
+      },
+      "summary": {
+        "text": "Dog Man: The Musical is a 2019 superhero comedy musical based on the Dog Man series of graphic novels by writer Dav Pilkey. It was created by TheatreWorksUSA.",
+        "source_url": "https://en.wikipedia.org/wiki/Dog_Man%3A_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "in-town": {
+      "slug": "in-town",
+      "title": "In Town",
+      "qid": "Q6011032",
+      "enwiki": "In Town",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/In_Town",
+        "wikidata": "https://www.wikidata.org/wiki/Q6011032"
+      },
+      "summary": {
+        "text": "In Town is a musical comedy written by Adrian Ross and James T. Tanner, with music by F. Osmond Carr and lyrics by Ross. The plot of In Town, though thin, is a smart tale of backstage and society intrigue.  One of the popular songs from the show was \"The Man About Town\".\nThe piece was first produced by George Edwardes and debuted with success in 1892, playing in New York in 1897. It was one of the first Edwardian musical comedies, lighter than a Gilbert and Sullivan-style comic opera, but more coherent in construction than a Victorian burlesque. The piece initiated Edwardes's famous series of modern-dress musical shows at the Gaiety Theatre that led ladies' clothing fashions throughout Britain and, unlike burlesque, attracted female audience interest. After In Town, the Edwardian musical comedies dominated the musical stage in Britain until the 1920s.",
+        "source_url": "https://en.wikipedia.org/wiki/In_Town",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "king-david": {
+      "slug": "king-david",
+      "title": "King David",
+      "qid": "Q6411426",
+      "enwiki": "King David (musical)",
+      "composers": [
+        {
+          "name": "Alan Menken",
+          "qid": "Q317272",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12135"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Tim Rice",
+          "qid": "Q298295",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8890"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Tim Rice",
+          "qid": "Q298295",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8890"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/10535",
+        "wikipedia": "https://en.wikipedia.org/wiki/King_David_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6411426"
+      },
+      "summary": {
+        "text": "King David: A World Premiere Concert Event is a 1997 oratorio (sometimes described as a work-in-progress musical), co-produced by The Walt Disney Company and Andre Djaoui, and written by Alan Menken (music) and Tim Rice (libretto). Originally conceived by Djaoui as a grand musical performed in Jerusalem to celebrate the 3000th anniversary of the city's founding, it was eventually staged as a concert in the first production at Broadway's New Amsterdam Theater after Disney's restoration. Opening on May 18, 1997 (after three previews beginning May 15), the show ran for six performances closing May 23.\nKing David is a song-cycle about David whom Alan Menken deems \"one of the great heroes of Jewish history\", and is based on Biblical tales from the Books of Samuel and 1 Chronicles, as well as text from David's Psalms. It retells the Old Testament story of the shepherd boy, David, who rises from his humble roots to become King of Israel, including the drama between him and Saul and David's trials and tribulations in the foundation of Jerusalem.\"\nAt present, there are no plans for a fully staged Broadway production.",
+        "source_url": "https://en.wikipedia.org/wiki/King_David_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "la-la-lucille": {
+      "slug": "la-la-lucille",
+      "title": "La La Lucille",
+      "qid": "Q6463318",
+      "enwiki": "La La Lucille",
+      "composers": [
+        {
+          "name": "George Gershwin",
+          "qid": "Q123829",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5813"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Buddy DeSylva",
+          "qid": "Q80760",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4394"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5153",
+        "wikipedia": "https://en.wikipedia.org/wiki/La_La_Lucille",
+        "wikidata": "https://www.wikidata.org/wiki/Q6463318"
+      },
+      "summary": {
+        "text": "La La Lucille is a musical with a book by Fred Jackson, primary lyrics by Arthur J. Jackson (1893–1922) and Buddy DeSylva, additional lyrics by Lou Paley and Irving Caesar, and music by George Gershwin.",
+        "source_url": "https://en.wikipedia.org/wiki/La_La_Lucille",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "lady-be-good": {
+      "slug": "lady-be-good",
+      "title": "Lady, Be Good",
+      "qid": "Q842761",
+      "enwiki": "Lady, Be Good (musical)",
+      "composers": [
+        {
+          "name": "George Gershwin",
+          "qid": "Q123829",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5813"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Ira Gershwin",
+          "qid": "Q61059",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12885"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Guy Bolton",
+          "qid": "Q924974",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4575"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5227",
+        "wikipedia": "https://en.wikipedia.org/wiki/Lady%2C_Be_Good_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q842761"
+      },
+      "summary": {
+        "text": "Lady, Be Good! (title sometimes presented with an exclamation point) is a musical written by Guy Bolton and Fred Thompson with music by George and lyrics by Ira Gershwin. It was first presented on Broadway in 1924; the West End production followed in 1926. The story of the musical is about a brother and sister who are out of money; both are eager to sacrifice themselves to help the other. This was the first Broadway collaboration of the Gershwin brothers, and the Astaire siblings play a brother-sister dance team.",
+        "source_url": "https://en.wikipedia.org/wiki/Lady%2C_Be_Good_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "miss-saigon": {
+      "slug": "miss-saigon",
+      "title": "Miss Saigon",
+      "qid": "Q653753",
+      "enwiki": "Miss Saigon",
+      "composers": [
+        {
+          "name": "Claude-Michel Schönberg",
+          "qid": "Q712004",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4864"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Alain Boublil",
+          "qid": "Q284540",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3932"
+        },
+        {
+          "name": "Claude-Michel Schönberg",
+          "qid": "Q712004",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4864"
+        }
+      ],
+      "premiere": {
+        "date": "1989-09-20",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6149",
+        "official_site": "https://www.miss-saigon.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Miss_Saigon",
+        "wikidata": "https://www.wikidata.org/wiki/Q653753"
+      },
+      "summary": {
+        "text": "Miss Saigon is a sung-through stage musical by Claude-Michel Schönberg and Alain Boublil, with lyrics by Boublil and Richard Maltby Jr. It is based on Giacomo Puccini's 1904 opera Madama Butterfly, and similarly tells the tragic tale of a doomed romance involving an Asian woman abandoned by her American lover. The setting of the plot is relocated to 1970s Saigon during the Vietnam War, and Madama Butterfly's story of marriage between an American lieutenant and a geisha is replaced by a romance between a United States Marine and a seventeen-year-old South Vietnamese bargirl.\nThe musical premiered at the Theatre Royal, Drury Lane, London, on 20 September 1989, closing after 4,092 performances on 30 October 1999. It opened on Broadway at the Broadway Theatre on April 11, 1991, with a record advance of over $39 million, and was later staged in many other cities and embarked on tours. Opening day ticket-sales for the 2014 London revival of more than £4m were said to set a world record.\nThe musical was Schönberg and Boublil's second major success, following Les Misérables in 1985. As of January 2026, Miss Saigon remains Broadway's fifteenth longest-running show.",
+        "source_url": "https://en.wikipedia.org/wiki/Miss_Saigon",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "nobody-s-boy": {
+      "slug": "nobody-s-boy",
+      "title": "Nobody's Boy",
+      "qid": "Q65050577",
+      "enwiki": "Nobody's Boy (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Nobody's_Boy_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q65050577"
+      },
+      "summary": {
+        "text": "Nobody's Boy is a musical theatre production of 1919, produced in London's West End.",
+        "source_url": "https://en.wikipedia.org/wiki/Nobody's_Boy_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "one-night-stand": {
+      "slug": "one-night-stand",
+      "title": "One Night Stand",
+      "qid": "Q7093048",
+      "enwiki": "One Night Stand (musical)",
+      "composers": [
+        {
+          "name": "Jule Styne",
+          "qid": "Q587741",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12466"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Herb Gardner",
+          "qid": "Q113570",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6258"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Herb Gardner",
+          "qid": "Q113570",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6258"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6793",
+        "wikipedia": "https://en.wikipedia.org/wiki/One_Night_Stand_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7093048"
+      },
+      "summary": {
+        "text": "One Night Stand is a musical with a book and lyrics by Herb Gardner and music by Jule Styne. Its plot centers on a songwriter who feels he's past his prime.\nStyne had approached Gardner about adapting his play A Thousand Clowns for the musical stage, but Gardner was more interested in working on an original project. According to producer Joe Kipness, the collaboration was ill-conceived, since the two men could not agree about anything. \nThe Broadway production, directed by John Dexter and choreographed by Peter Gennaro, began previews at the Nederlander Theatre on October 20, 1980. After eight performances, it closed without ever officially opening. The cast included Charles Kimbrough, Catherine Cox, Jack Weston, and Brandon Maggart.\nA cast album was released by Original Cast Records.",
+        "source_url": "https://en.wikipedia.org/wiki/One_Night_Stand_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "only-fools-and-horses-the-musical": {
+      "slug": "only-fools-and-horses-the-musical",
+      "title": "Only Fools and Horses The Musical",
+      "qid": "Q60693459",
+      "enwiki": "Only Fools and Horses The Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2019-02-09",
+        "venue": "Theatre Royal Haymarket"
+      },
+      "awards": [],
+      "links": {
+        "official_site": "https://onlyfoolsmusical.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/Only_Fools_and_Horses_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q60693459"
+      },
+      "summary": {
+        "text": "Only Fools and Horses The Musical is a 2019 British romantic comedy musical with book, music and lyrics by Paul Whitehouse and Jim Sullivan, and additional music by Chas Hodges and John Sullivan. It is based on John Sullivan's BBC television sitcom of the same name which ran from 1981 to 2003.\nThe musical premiered at the Theatre Royal Haymarket in February 2019 and played for over 1,000 performances until the end of April 2023.",
+        "source_url": "https://en.wikipedia.org/wiki/Only_Fools_and_Horses_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "panama-hattie": {
+      "slug": "panama-hattie",
+      "title": "Panama Hattie",
+      "qid": "Q1265449",
+      "enwiki": "Panama Hattie",
+      "composers": [
+        {
+          "name": "Cole Porter",
+          "qid": "Q215120",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12257"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Cole Porter",
+          "qid": "Q215120",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12257"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Herbert Fields",
+          "qid": "Q1608254",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11265"
+        },
+        {
+          "name": "Buddy DeSylva",
+          "qid": "Q80760",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4394"
+        }
+      ],
+      "premiere": {
+        "date": "1940",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6911",
+        "wikipedia": "https://en.wikipedia.org/wiki/Panama_Hattie",
+        "wikidata": "https://www.wikidata.org/wiki/Q1265449"
+      },
+      "summary": {
+        "text": "Panama Hattie is a 1940 American musical with music and lyrics by Cole Porter and book by Herbert Fields and B. G. DeSylva. The musical is about a nightclub owner, Hattie Maloney, who lives in the Panama Canal Zone and ends up dealing with both romantic and military intrigue. The title is a play on words, referring to the popular Panama hat.\nThe musical was adapted as the 1942 Metro-Goldwyn-Mayer musical film Panama Hattie, and again in 1954 as an episode of the CBS TV series The Best of Broadway.",
+        "source_url": "https://en.wikipedia.org/wiki/Panama_Hattie",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "sunny-afternoon": {
+      "slug": "sunny-afternoon",
+      "title": "Sunny Afternoon",
+      "qid": "Q18619514",
+      "enwiki": "Sunny Afternoon (musical)",
+      "composers": [
+        {
+          "name": "Ray Davies",
+          "qid": "Q357455"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Ray Davies",
+          "qid": "Q357455"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Joe Penhall",
+          "qid": "Q3808679"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": "Hampstead Theatre"
+      },
+      "awards": [],
+      "links": {
+        "official_site": "http://sunnyafternoonmusical.co.uk",
+        "wikipedia": "https://en.wikipedia.org/wiki/Sunny_Afternoon_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q18619514"
+      },
+      "summary": {
+        "text": "Sunny Afternoon is a jukebox musical with music and lyrics by Ray Davies and a book by Joe Penhall. Based on the formation and career of the English rock band the Kinks, the musical was commissioned and produced by Sonia Friedman and made its world premiere in 2014 at the Hampstead Theatre, London, before transferring to the West End's Harold Pinter Theatre. Featuring songs by the Kinks, Sunny Afternoon includes their hits such as \"Lola\", \"Waterloo Sunset\", \"You Really Got Me\", and the musical's title song, \"Sunny Afternoon\".",
+        "source_url": "https://en.wikipedia.org/wiki/Sunny_Afternoon_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "swing": {
+      "slug": "swing",
+      "title": "Swing!",
+      "qid": "Q7658494",
+      "enwiki": "Swing!",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8480",
+        "wikipedia": "https://en.wikipedia.org/wiki/Swing!",
+        "wikidata": "https://www.wikidata.org/wiki/Q7658494"
+      },
+      "summary": {
+        "text": "Swing! is a musical conceived by Paul Kelly with music by various artists. It celebrates the music of the Swing era of jazz (1930s–1946), including many well-known tunes by artists like Duke Ellington, William \"Count\" Basie, Benny Goodman and others. It received a nomination for the 2000 Tony Award for Best Musical and other Tony Awards.",
+        "source_url": "https://en.wikipedia.org/wiki/Swing!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-great-big-radio-show": {
+      "slug": "the-great-big-radio-show",
+      "title": "The Great Big Radio Show!",
+      "qid": "Q7737664",
+      "enwiki": "The Great Big Radio Show!",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Great_Big_Radio_Show!",
+        "wikidata": "https://www.wikidata.org/wiki/Q7737664"
+      },
+      "summary": {
+        "text": "The Great Big Radio Show! is a musical comedy, with music and lyrics by Philip Glassborow.  Piano arrangements and dance music are by David Rhind-Tutt.  Book is by Philip Glassborow with Nick McIvor.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Great_Big_Radio_Show!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-great-mystical-circus": {
+      "slug": "the-great-mystical-circus",
+      "title": "The Great Mystical Circus",
+      "qid": "Q7737860",
+      "enwiki": "The Great Mystical Circus",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Great_Mystical_Circus",
+        "wikidata": "https://www.wikidata.org/wiki/Q7737860"
+      },
+      "summary": {
+        "text": "O Grande Circo Mistico (The Great Mystical Circus) is a Brazilian musical first performed in 1983.\nOriginally intended as a ballet for the Ballet Teatro Guaira, the story was inspired by the poem of Parnassianist/modernist Jorge de Lima and incorporates music, ballet, opera, circus, theater and poetry. It tells the story of a great love affair between an aristocrat and an acrobat and the saga of the Austrian family that owned the Circus Knieps, and their adventures around the world during the early 20th Century.\nEarly success saw a tour around Brazil and Portugal, selling over 200,000 tickets to over 200 performances.\nThe soundtrack is composed by Chico Buarque and Edu Lobo.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Great_Mystical_Circus",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-imbible": {
+      "slug": "the-imbible",
+      "title": "The Imbible",
+      "qid": "Q21072764",
+      "enwiki": "The Imbible",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "http://imbible.org/",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Imbible",
+        "wikidata": "https://www.wikidata.org/wiki/Q21072764"
+      },
+      "summary": {
+        "text": "The Imbible is a series of educational entertainment musicals created and produced by Anthony Caporale through his production company Broadway Theatre Studio. Each installment tells a different story about the history, science, and culture of alcoholic beverages through music, comedy, audience interaction, and drink making demonstrations and tastings during the performances. \nThe first installment, The Imbible: A Spirited History of Drinking, features a book and new lyrics by Caporale, and original musical arrangements by Josh Ehrlich and Anthony Caporale. Known for creating the award-winning video podcasts Art of the Drink and Broadway Bartender, Caporale selected the music and created new arrangements with Ehrlich, an arranger for Voices of Gotham. \nThe Imbible: A Spirited History of Drinking tells the story of how Western civilization has been influenced by the introduction of alcohol consumption from 10,000 BC through the Craft cocktail movement. Caporale was originally supported in the lead role of The Bartender by a trio of waiters who also serve as clowns, Greek chorus, and round out the parts of a barbershop quartet called The Backwaiters. Caporale ultimately played 535 consecutive Off-Broadway performances before moving to an understudy role to focus on producing the series.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Imbible",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-wild-rose-1926-musical": {
+      "slug": "the-wild-rose-1926-musical",
+      "title": "The Wild Rose",
+      "qid": "Q129744785",
+      "enwiki": "The Wild Rose (1926 musical)",
+      "composers": [
+        {
+          "name": "Rudolf Friml",
+          "qid": "Q48363",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11702"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Wild_Rose_(1926_musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q129744785"
+      },
+      "summary": {
+        "text": "The Wild Rose is a musical in two acts with both book and lyrics co-authored by Otto Harbach and Oscar Hammerstein II, and music by Rudolf Friml. It should not be confused with the earlier 1902 musical, The Wild Rose, by Ludwig Engländer, Harry B. Smith and George V. Hobart.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Wild_Rose_(1926_musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "two-gentlemen-of-verona": {
+      "slug": "two-gentlemen-of-verona",
+      "title": "Two Gentlemen of Verona",
+      "qid": "Q7858977",
+      "enwiki": "Two Gentlemen of Verona (musical)",
+      "composers": [
+        {
+          "name": "Galt MacDermot",
+          "qid": "Q1346345",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12086"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "John Guare",
+          "qid": "Q320556",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6822"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "John Guare",
+          "qid": "Q320556",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6822"
+        },
+        {
+          "name": "Mel Shapiro",
+          "qid": "Q6810838",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9591"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8953",
+        "wikipedia": "https://en.wikipedia.org/wiki/Two_Gentlemen_of_Verona_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7858977"
+      },
+      "summary": {
+        "text": "Two Gentlemen of Verona is a rock musical, with a book by John Guare and Mel Shapiro, lyrics by Guare and music by Galt MacDermot, based on the Shakespeare comedy of the same name.\nThe original Broadway production, in 1971, won the Tony Awards for Best Musical and Best Book of a Musical. A London production followed in 1973. The Public Theater revived the piece in 2005.",
+        "source_url": "https://en.wikipedia.org/wiki/Two_Gentlemen_of_Verona_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "urban-cowboy": {
+      "slug": "urban-cowboy",
+      "title": "Urban Cowboy",
+      "qid": "Q7899883",
+      "enwiki": "Urban Cowboy (musical)",
+      "composers": [
+        {
+          "name": "Jason Robert Brown",
+          "qid": "Q1683976",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11446"
+        },
+        {
+          "name": "Jeff Blumenkrantz",
+          "qid": "Q6173370",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/72259"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Jeff Blumenkrantz",
+          "qid": "Q6173370",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/72259"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Aaron Latham",
+          "qid": "Q4662181",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/106363"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/11165",
+        "wikipedia": "https://en.wikipedia.org/wiki/Urban_Cowboy_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7899883"
+      },
+      "summary": {
+        "text": "Urban Cowboy is a musical with a book by Aaron Latham and Phillip Oesterman and a score by Broadway composer-lyricists Jeff Blumenkrantz and Jason Robert Brown and a variety of country music tunesmiths, including Clint Black and Charlie Daniels.",
+        "source_url": "https://en.wikipedia.org/wiki/Urban_Cowboy_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

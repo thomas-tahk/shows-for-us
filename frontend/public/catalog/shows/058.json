@@ -1,0 +1,662 @@
+{
+  "live": true,
+  "shows": {
+    "austenland": {
+      "slug": "austenland",
+      "title": "Austenland",
+      "qid": "Q133819204",
+      "enwiki": "Austenland (musical)",
+      "composers": [
+        {
+          "name": "Kate Anderson",
+          "qid": "Q133819253"
+        },
+        {
+          "name": "Elyssa Samsel",
+          "qid": "Q91325179"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Kate Anderson",
+          "qid": "Q133819253"
+        },
+        {
+          "name": "Elyssa Samsel",
+          "qid": "Q91325179"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Austenland_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q133819204"
+      },
+      "summary": {
+        "text": "Austenland is an American musical based on the 2007 novel of the same name, with book by Jodi Picoult and Timothy Allen McDonald and music and lyrics by Kate Anderson and Elyssa Samsel.",
+        "source_url": "https://en.wikipedia.org/wiki/Austenland_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "charlotte-sweet": {
+      "slug": "charlotte-sweet",
+      "title": "Charlotte Sweet",
+      "qid": "Q16961128",
+      "enwiki": "Charlotte Sweet",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Charlotte_Sweet",
+        "wikidata": "https://www.wikidata.org/wiki/Q16961128"
+      },
+      "summary": {
+        "text": "Charlotte Sweet is an all-sung, all-rhymed original musical with a libretto by Michael Colby and music by Gerald Jay Markoe.\nThe musical is a sequel to Ludlow Ladd, a comic Christmas musical that Colby and Markoe created Off-off Broadway for The Lyric Theater of New York in 1979.",
+        "source_url": "https://en.wikipedia.org/wiki/Charlotte_Sweet",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "evita": {
+      "slug": "evita",
+      "title": "Evita",
+      "qid": "Q830549",
+      "enwiki": "Evita (musical)",
+      "composers": [
+        {
+          "name": "Andrew Lloyd Webber",
+          "qid": "Q180975",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12073"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Tim Rice",
+          "qid": "Q298295",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8890"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Tim Rice",
+          "qid": "Q298295",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8890"
+        }
+      ],
+      "premiere": {
+        "date": "1978",
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Laurence Olivier Awards",
+          "qid": "Q28470"
+        }
+      ],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3400",
+        "playbill": "https://playbill.com/production/evita-broadway-theatre-vault-0000012263",
+        "official_site": "https://www.andrewlloydwebber.com/show/evita",
+        "wikipedia": "https://en.wikipedia.org/wiki/Evita_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q830549"
+      },
+      "summary": {
+        "text": "Evita is a sung-through musical with music by Andrew Lloyd Webber and lyrics by Tim Rice. It covers the early life, rise to power, charity work, controversies and death of the Argentine political leader Eva Perón, the second wife of the Argentine president Juan Perón.\nThe musical began as a rock opera concept album released in 1976. Its success led to productions in London's West End in 1978, winning the Laurence Olivier Award for Best Musical, and on Broadway a year later, where it was the first British musical to receive the Tony Award for Best Musical.\nThis has been followed by a string of professional tours and worldwide productions and numerous cast albums, as well as a 1996 film adaptation. The musical was revived in London's West End in 2006, 2014, 2017, and 2025, and on Broadway in 2012, with a second revival scheduled for 2027.",
+        "source_url": "https://en.wikipedia.org/wiki/Evita_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "falsettos": {
+      "slug": "falsettos",
+      "title": "Falsettos",
+      "qid": "Q5432757",
+      "enwiki": "Falsettos",
+      "composers": [
+        {
+          "name": "William Finn",
+          "qid": "Q8009056",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9128"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "William Finn",
+          "qid": "Q8009056",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9128"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "James Lapine",
+          "qid": "Q6137781",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6607"
+        }
+      ],
+      "premiere": {
+        "date": "1992-04-29",
+        "venue": "John Golden Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3448",
+        "playbill": "https://playbill.com/production/falsettos-john-golden-theatre-vault-0000008390",
+        "wikipedia": "https://en.wikipedia.org/wiki/Falsettos",
+        "wikidata": "https://www.wikidata.org/wiki/Q5432757"
+      },
+      "summary": {
+        "text": "Falsettos is a sung-through musical with a book by William Finn and James Lapine, and music and lyrics by Finn. The musical consists of March of the Falsettos (1981) and Falsettoland (1990), the last two installments in a trio of one-act musicals that premiered off-Broadway (the first was In Trousers). The story centers on Marvin, who has left his wife to be with a male lover, Whizzer, and struggles to keep his family together. Much of the first act explores the impact his relationship with Whizzer has had on his family. The second act explores family dynamics that evolve as he and his ex-wife plan his son's bar mitzvah, which is complicated as Whizzer comes down with an early case of AIDS. Central to the musical are the themes of Jewish identity, gender roles, and gay life in the late 1970s and early 1980s. \nFalsettos premiered on Broadway in 1992 and was nominated for seven Tony Awards, winning those for Best Book and Best Original Score. The musical was revived on Broadway in 2016, starring Christian Borle, Stephanie J. Block, Andrew Rannells, Anthony Rosenthal, and Brandon Uranowitz. The 2016 revival was filmed and adapted for the PBS Live from Lincoln Center television series, and aired on October 27, 2017. The revival was nominated for five Tony Awards, including Best Revival of a Musical. Both the original cast and the 2016 revival cast performed at the Tony Awards. Other revivals include tours in Australia and the United Kingdom. The musical was praised by critics for its melodic compositions, humor, character development, and positive portrayal of non-traditional family structures.",
+        "source_url": "https://en.wikipedia.org/wiki/Falsettos",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "honeymoon-lane": {
+      "slug": "honeymoon-lane",
+      "title": "Honeymoon Lane",
+      "qid": "Q116687022",
+      "enwiki": "Honeymoon Lane (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Honeymoon_Lane_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q116687022"
+      },
+      "summary": {
+        "text": "Honeymoon Lane was a popular Broadway musical by Eddie Dowling, who wrote the book and also starred with music by James F. Hanley. The musical was a big success and ran for nearly a year from 20 September 1926 at the Knickerbocker Theatre on Broadway. Among the cast was Pauline Mason as Mary Brown, Eddie Dowling as Tim Murphy, Al Sexton as Ted Kleinze, and Kate Smith. The play was made into a film of the same name with Dowling again starring in 1931.",
+        "source_url": "https://en.wikipedia.org/wiki/Honeymoon_Lane_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "jet-set-go": {
+      "slug": "jet-set-go",
+      "title": "Jet Set Go!",
+      "qid": "Q16851283",
+      "enwiki": "Jet Set Go!",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Jet_Set_Go!",
+        "wikidata": "https://www.wikidata.org/wiki/Q16851283"
+      },
+      "summary": {
+        "text": "Jet Set Go! is a British musical comedy written by Jake Brunger and Pippa Cleary, with Brunger writing book and lyrics and Cleary writing music and lyrics.",
+        "source_url": "https://en.wikipedia.org/wiki/Jet_Set_Go!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "late-nite-comic": {
+      "slug": "late-nite-comic",
+      "title": "Late Nite Comic",
+      "qid": "Q6495325",
+      "enwiki": "Late Nite Comic",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Allan Knee",
+          "qid": "Q4730754",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4078"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5280",
+        "wikipedia": "https://en.wikipedia.org/wiki/Late_Nite_Comic",
+        "wikidata": "https://www.wikidata.org/wiki/Q6495325"
+      },
+      "summary": {
+        "text": "Late Night Comic is a  stage musical, written by playwright (Allan Knee) and composer/lyricist (Brian Gari). The musical ran for 17 performances on Broadway, in 1987.",
+        "source_url": "https://en.wikipedia.org/wiki/Late_Nite_Comic",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "simply-heavenly": {
+      "slug": "simply-heavenly",
+      "title": "Simply Heavenly",
+      "qid": "Q54954274",
+      "enwiki": "Simply Heavenly",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Simply_Heavenly",
+        "wikidata": "https://www.wikidata.org/wiki/Q54954274"
+      },
+      "summary": {
+        "text": "Simply Heavenly is a musical comedy with book and lyrics by Langston Hughes and music by David Martin, based on Hughes' novel Simple Takes A Wife and other Simple stories.\nThe story is concerned with Jess Simple, an honest, easy-going man trying to raise enough money to divorce a wife he does not love in order to marry his new love while attempting unsuccessfully to escape a “hussy” called Zarita, who is bent on leading him astray. In the background are the many aspects of Harlem at the time—its jazz, its humor, and the universal problems of paying the rent and buying a shot of gin. \nIt was first produced Off-Broadway at the 85th Street Playhouse for 44 performances from May 21, 1957, before transferring to the Playhouse Theatre on Broadway for 62 performances from August 20, 1957. A London West End production played at the Adelphi Theatre, running for 16 performances from 20 May 1958. \nThe musical was revived by the Young Vic in London in March to April 2003. Its West End transfer at the Trafalgar Studios from October 2004 to May 2005 was nominated for an Olivier Award for Outstanding Musical Production.",
+        "source_url": "https://en.wikipedia.org/wiki/Simply_Heavenly",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-bohemian-g-yurl-and-the-unapproachable-pole": {
+      "slug": "the-bohemian-g-yurl-and-the-unapproachable-pole",
+      "title": "The Bohemian G-yurl and the Unapproachable Pole",
+      "qid": "Q104792064",
+      "enwiki": "The Bohemian G-yurl and the Unapproachable Pole",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Bohemian_G-yurl_and_the_Unapproachable_Pole",
+        "wikidata": "https://www.wikidata.org/wiki/Q104792064"
+      },
+      "summary": {
+        "text": "The Bohemian G-yurl and the Unapproachable Pole is a musical burlesque in two acts, with a score by Meyer Lutz to a libretto by Henry James Byron, which played under the management of John Hollingshead at the Gaiety Theatre in London in 1877. It was a parody of the popular opera The Bohemian Girl composed by Michael William Balfe with a libretto by Alfred Bunn.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Bohemian_G-yurl_and_the_Unapproachable_Pole",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-cabaret-girl": {
+      "slug": "the-cabaret-girl",
+      "title": "The Cabaret Girl",
+      "qid": "Q7720878",
+      "enwiki": "The Cabaret Girl",
+      "composers": [
+        {
+          "name": "Jerome Kern",
+          "qid": "Q313270",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6711"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "P. G. Wodehouse",
+          "qid": "Q207515",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7988"
+        },
+        {
+          "name": "George Grossmith Jr.",
+          "qid": "Q3101618",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5814"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Cabaret_Girl",
+        "wikidata": "https://www.wikidata.org/wiki/Q7720878"
+      },
+      "summary": {
+        "text": "The Cabaret Girl is a musical comedy in three acts with music by Jerome Kern and book and lyrics by George Grossmith, Jr. and P. G. Wodehouse. It was produced by Grossmith and J. A. E. Malone at the Winter Garden Theatre in London's West End in September 1922 and featured Dorothy Dickson, Grossmith, Geoffrey Gwyther, and Norman Griffin (later replaced by Leslie Henson) in the leading roles.\nThe first performance was originally scheduled for Thursday, 14 September 1922, with Henson in a leading role, but he fell ill on the morning of the scheduled opening, which was delayed to allow Griffin to prepare for the part. The show finally opened the following Tuesday, 19 September. According to the reviewer in The Times, \"Last night the piece received the warmest of receptions and thoroughly deserved it.\" The production ran for 361 performances, closing on 11 August 1923. Henson took over from Griffin on 22 January 1923.\nThe Cabaret Girl was first given an American production in 2004 when San Francisco's 42nd Street Moon company produced a staged concert of the show.  Its first full American production was in 2008, when the Ohio Light Opera gave seven performances, between 26 June and 8 August, as part of their 30th Anniversary season. The same company released a commercial recording of the work in 2009 on Albany Records. The recording is the earliest work composed by Kern to be restored and recorded in its original form. The first New York City production was given in March 2009, in a concert staging by the semi-professional troupe Musicals Tonight!",
+        "source_url": "https://en.wikipedia.org/wiki/The_Cabaret_Girl",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-four-musketeers": {
+      "slug": "the-four-musketeers",
+      "title": "The Four Musketeers",
+      "qid": "Q7735027",
+      "enwiki": "The Four Musketeers (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Four_Musketeers_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7735027"
+      },
+      "summary": {
+        "text": "The Four Musketeers! is a musical with a score by Laurie Johnson and lyrics by Herbert Kretzmer. It was developed from a book by Michael Pertwee loosely based on The Three Musketeers.\nThe musical premiered at the Theatre Royal, Drury Lane, London on 5 December 1967.  It was directed by Peter Coe. The sets were designed by Sean Kenny.\nHarry Secombe played D'Artagnan, with Aubrey Woods as Richelieu. Also in the original London cast were: Elizabeth Larner, Glyn Owen, John Junkin, Stephanie Voss, Jeremy Lloyd, Sheena Marshe and Kenneth Connor.\nThe show ran for 462 performances.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Four_Musketeers_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-good-companions": {
+      "slug": "the-good-companions",
+      "title": "The Good Companions",
+      "qid": "Q7737195",
+      "enwiki": "The Good Companions (musical)",
+      "composers": [
+        {
+          "name": "André Previn",
+          "qid": "Q155712",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12263"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Johnny Mercer",
+          "qid": "Q363698",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12137"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Ronald Harwood",
+          "qid": "Q706668",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6164"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Good_Companions_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7737195"
+      },
+      "summary": {
+        "text": "The Good Companions is a musical with a book by Ronald Harwood, music by André Previn, and lyrics by Johnny Mercer. It is based on the 1929 novel of the same title by J. B. Priestley.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Good_Companions_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-grinning-man": {
+      "slug": "the-grinning-man",
+      "title": "The Grinning Man",
+      "qid": "Q48699790",
+      "enwiki": "The Grinning Man (musical)",
+      "composers": [
+        {
+          "name": "Tim Phillips",
+          "qid": "Q7804110"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": "Bristol Old Vic"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Grinning_Man_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q48699790"
+      },
+      "summary": {
+        "text": "The Grinning Man is a tragicomic musical based on Victor Hugo's 1869 novel The Man Who Laughs with a book by Carl Grose, music by Tim Phillips, Marc Teitler and lyrics by Carl Grose, Tom Morris, Tim Phillips and Marc Teitler.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Grinning_Man_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-queen-of-versailles": {
+      "slug": "the-queen-of-versailles",
+      "title": "The Queen of Versailles",
+      "qid": "Q127699330",
+      "enwiki": "The Queen of Versailles (musical)",
+      "composers": [
+        {
+          "name": "Stephen Schwartz",
+          "qid": "Q542484",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/108290"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/542340",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Queen_of_Versailles_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q127699330"
+      },
+      "summary": {
+        "text": "The Queen of Versailles is a musical with a score by Stephen Schwartz and a book by Lindsey Ferrentino. The musical is based on the 2012 documentary directed by Lauren Greenfield about Jackie and David Siegel, the owners of Westgate Resorts, who were then building a gigantic mansion  in central Florida that they named Versailles. Beyond the events of the documentary film, the musical incorporates additional incidents in the lives of the Siegel family, including some that occurred after the documentary's release.\nThe musical premiered in Boston, Massachusetts, at Emerson Colonial Theatre in July and August 2024, starring Kristin Chenoweth and F. Murray Abraham. Both reprised their roles in a Broadway production at the St. James Theatre, which began in previews October 8, 2025, opened on November 9, and closed on December 21, 2025.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Queen_of_Versailles_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-rat-pack-live-from-las-vegas": {
+      "slug": "the-rat-pack-live-from-las-vegas",
+      "title": "The Rat Pack: Live from Las Vegas",
+      "qid": "Q7759465",
+      "enwiki": "The Rat Pack: Live from Las Vegas",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Rat_Pack%3A_Live_from_Las_Vegas",
+        "wikidata": "https://www.wikidata.org/wiki/Q7759465"
+      },
+      "summary": {
+        "text": "The Rat Pack - Live From Las Vegas is a musical produced by Flying Music Group Ltd. It was conceived and created by Mitch Sebastian, who was also the original director and choreographer.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Rat_Pack%3A_Live_from_Las_Vegas",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-sound-of-music": {
+      "slug": "the-sound-of-music",
+      "title": "The Sound of Music",
+      "qid": "Q1022513",
+      "enwiki": "The Sound of Music",
+      "composers": [
+        {
+          "name": "Richard Rodgers",
+          "qid": "Q269094",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12311"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Oscar Hammerstein II",
+          "qid": "Q319693",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7965"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Howard Lindsay",
+          "qid": "Q1374517",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6373"
+        },
+        {
+          "name": "Russel Crouse",
+          "qid": "Q1382872",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8531"
+        }
+      ],
+      "premiere": {
+        "date": "1959",
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Tony Award for Best Musical",
+          "qid": "Q1780176"
+        }
+      ],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8195",
+        "playbill": "https://playbill.com/production/the-sound-of-music-rp-funding-center-2018-2019",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Sound_of_Music",
+        "wikidata": "https://www.wikidata.org/wiki/Q1022513"
+      },
+      "summary": {
+        "text": "The Sound of Music is a musical with music by Richard Rodgers, lyrics by Oscar Hammerstein II, and a book by Howard Lindsay and Russel Crouse. It is based on the 1949 book The Story of the Trapp Family Singers by Maria von Trapp. Set in Austria on the eve of the Anschluss in 1938, the musical tells the story of Maria, who takes a job as governess to a large family while she decides whether to become a nun. She falls in love with the children, and eventually their widowed father, Captain von Trapp. He is ordered to accept a commission in the German Navy, but he opposes the Nazis. He and Maria decide on a plan to flee Austria with the children. Many songs from the musical have become standards, including \"Do-Re-Mi\", \"My Favorite Things\", \"Edelweiss\", \"Climb Ev'ry Mountain\", and the title song \"The Sound of Music\".\nThe original Broadway production, starring Mary Martin and Theodore Bikel, opened in 1959 and won five Tony Awards, including Best Musical, out of nine nominations. The first London production opened at the Palace Theatre in 1961. The show has enjoyed numerous productions and revivals since then. It was adapted as a 1965 film starring Julie Andrews and Christopher Plummer, which won five Academy Awards, including Best Picture. The Sound of Music was the last musical written by Rodgers and Hammerstein, as Oscar Hammerstein died of stomach cancer nine months after the Broadway premiere.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Sound_of_Music",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-wicklow-postman": {
+      "slug": "the-wicklow-postman",
+      "title": "The Wicklow Postman",
+      "qid": "Q7774754",
+      "enwiki": "The Wicklow Postman",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Mark Price",
+          "qid": "Q127125"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Wicklow_Postman",
+        "wikidata": "https://www.wikidata.org/wiki/Q7774754"
+      },
+      "summary": {
+        "text": "The Wicklow Postman is a musical play with a book by Mark Price and music and lyrics mostly by Eugene O'Rourke and\nB.H. Janssen, that was popular in the 1890s. Set in Wicklow, Ireland, the work was a starring vehicle for the Irish comedian Eugene O'Rourke (1863–1912) who played the title role.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Wicklow_Postman",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "three-to-make-ready": {
+      "slug": "three-to-make-ready",
+      "title": "Three to Make Ready",
+      "qid": "Q118383172",
+      "enwiki": "Three to Make Ready",
+      "composers": [
+        {
+          "name": "Morgan Lewis",
+          "qid": "Q6911746",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12061"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Nancy Hamilton",
+          "qid": "Q13560398",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7862"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": "Broadway theatre"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Three_to_Make_Ready",
+        "wikidata": "https://www.wikidata.org/wiki/Q118383172"
+      },
+      "summary": {
+        "text": "Three to Make Ready is an American revue in two acts with a sketches and lyrics by Nancy Hamilton and music by Morgan Lewis. It was produced on Broadway in 1946.",
+        "source_url": "https://en.wikipedia.org/wiki/Three_to_Make_Ready",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "waltzing-the-wilarra": {
+      "slug": "waltzing-the-wilarra",
+      "title": "Waltzing the Wilarra",
+      "qid": "Q123058360",
+      "enwiki": "Waltzing the Wilarra",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Waltzing_the_Wilarra",
+        "wikidata": "https://www.wikidata.org/wiki/Q123058360"
+      },
+      "summary": {
+        "text": "Waltzing the Wilarra is an Australian musical play written and composed by David Milroy, set in a mixed-race dance club in post-World War II Perth.\nYirra Yaakin Theatre Company premiered the work, which performed from 3 February to 6 March 2011 at the Subiaco Arts Centre as part of the Perth International Arts Festival.\nWaltzing the Wilarra was very well received. The West Australian called it \"a terrific production\" with \"a powerful, charismatic cast\" and that \"the music throughout is instantly memorable\". PerthNow called it \"a landmark production\". \nThe production received three 2011 WA Equity Guild Awards from nine nominations, including Best New Play and Best Design for its composition/music. It was also nominated for three national Helpmann Awards in 2011 including Best Original Score.\nA national tour production was produced in 2025, beginning at Frankston Arts Centre in Melbourne, Victoria on 3 July, and closing at Araluen Arts Centre in Alice Springs, Northern Territory on 22 October. The production was directed by Brittanie Shipway.",
+        "source_url": "https://en.wikipedia.org/wiki/Waltzing_the_Wilarra",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "when-dreams-come-true": {
+      "slug": "when-dreams-come-true",
+      "title": "When Dreams Come True",
+      "qid": "Q125293761",
+      "enwiki": "When Dreams Come True (musical)",
+      "composers": [
+        {
+          "name": "Silvio Hein",
+          "qid": "Q2286813",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11834"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Philip Bartholomae",
+          "qid": "Q21557963",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8140"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/When_Dreams_Come_True_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q125293761"
+      },
+      "summary": {
+        "text": "When Dreams Comes True is a musical in three acts and four scenes with music by Silvio Hein and both book and lyrics by Philip Bartholomae.",
+        "source_url": "https://en.wikipedia.org/wiki/When_Dreams_Come_True_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

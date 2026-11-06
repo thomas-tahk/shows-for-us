@@ -1,5 +1,6 @@
 import { readFileSync } from 'node:fs'
-import { test, expect, type Page } from '@playwright/test'
+import type { Page } from '@playwright/test'
+import { test, expect } from './catalogFixture'
 import { load } from 'js-yaml'
 
 // Read the committed data so these tests survive the owner's sign-off edits and the first live pull.
@@ -30,7 +31,7 @@ for (const width of [390, 1280]) {
     await expectNoHScroll(page)
 
     await page.getByLabel('Search shows').fill('hamil')
-    await expect(page.locator('main a[href^="/show/"]')).toHaveCount(1)
+    await expect(page.locator('main a[href^="/show/"]').first()).toHaveAttribute('href', '/show/hamilton')
     await expectNoHScroll(page)
     await page.screenshot({ path: test.info().outputPath(`home-results-${width}.png`), fullPage: true })
 
@@ -58,7 +59,7 @@ for (const width of [390, 1280]) {
     )
     if (dataLive) {
       // Real pull: the IBDB link must point at a show page.
-      const ibdb = page.locator('main a[href*="ibdb.com"]')
+      const ibdb = page.getByRole('region', { name: 'Links' }).locator('a[href*="ibdb.com"]')
       await expect(ibdb).toHaveCount(1)
       expect(await ibdb.getAttribute('href')).toMatch(/^https:\/\/www\.ibdb\.com\/broadway-show\//)
     } else {

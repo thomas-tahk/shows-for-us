@@ -1,0 +1,423 @@
+{
+  "live": true,
+  "shows": {
+    "bloomer-girl": {
+      "slug": "bloomer-girl",
+      "title": "Bloomer Girl",
+      "qid": "Q4928196",
+      "enwiki": "Bloomer Girl",
+      "composers": [
+        {
+          "name": "Harold Arlen",
+          "qid": "Q448644",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11319"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Yip Harburg",
+          "qid": "Q1273621",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5177"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Sig Herzig",
+          "qid": "Q3483497",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13553"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2097",
+        "wikipedia": "https://en.wikipedia.org/wiki/Bloomer_Girl",
+        "wikidata": "https://www.wikidata.org/wiki/Q4928196"
+      },
+      "summary": {
+        "text": "Bloomer Girl is a 1944 Broadway musical with music by Harold Arlen, lyrics by E.Y. Harburg, and a book by Sig Herzig and Fred Saidy, based on an unpublished play by writer Daniel Lewis James and his wife Lilith. The plot concerns independent Evelina Applegate, a hoop skirt manufacturer's daughter who defies her father by rejecting hoopskirts and embracing comfortable bloomers advocated by her aunt \"Dolly\" Bloomer, who was inspired by the women's rights advocate Amelia Bloomer. The American Civil War is looming, and abolitionist Evelina refuses to marry suitor Jeff Calhoun until he frees his slave, Pompey.\nA television version of the musical was shown in 1956.",
+        "source_url": "https://en.wikipedia.org/wiki/Bloomer_Girl",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "bye-bye-birdie": {
+      "slug": "bye-bye-birdie",
+      "title": "Bye Bye Birdie",
+      "qid": "Q1018482",
+      "enwiki": "Bye Bye Birdie",
+      "composers": [
+        {
+          "name": "Charles Strouse",
+          "qid": "Q2960275",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12463"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Lee Adams",
+          "qid": "Q6512930",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12723"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Michael Stewart",
+          "qid": "Q6834631",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7748"
+        }
+      ],
+      "premiere": {
+        "date": "1960",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2333",
+        "wikipedia": "https://en.wikipedia.org/wiki/Bye_Bye_Birdie",
+        "wikidata": "https://www.wikidata.org/wiki/Q1018482"
+      },
+      "summary": {
+        "text": "Bye Bye Birdie is a stage musical with music by Charles Strouse and lyrics by Lee Adams, with a book by Michael Stewart.\nOriginally titled Let's Go Steady, it is set in 1958. The play's book was influenced by Elvis Presley being drafted into the US Army in 1957. The rock star character's name, \"Conrad Birdie\", is word play on the name of Conway Twitty. Twitty later had a long career as a country music star but, in the late 1950s, he was one of Presley's rock 'n' roll rivals.\nThe original 1960–61 Broadway production was a Tony Award–winning success. It spawned a London production and several major revivals, a sequel, a 1963 film, and a 1995 television production. The show also became a popular choice for high school and college productions due to its variable cast size and large proportion of ensemble numbers.",
+        "source_url": "https://en.wikipedia.org/wiki/Bye_Bye_Birdie",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "flat-earthers-the-musical": {
+      "slug": "flat-earthers-the-musical",
+      "title": "Flat Earthers: The Musical",
+      "qid": "Q140431173",
+      "enwiki": "Flat Earthers: The Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Flat_Earthers%3A_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q140431173"
+      },
+      "summary": {
+        "text": "Flat Earthers: The Musical is a musical with a book and lyrics by Jean Tong and Lou Wall, and music by Wall and James Gales. It premiered at the Hayes Theatre in Sydney, Australia, on 17 October 2024. The production was a co-production between the Hayes Theatre and Griffin Theatre Company.",
+        "source_url": "https://en.wikipedia.org/wiki/Flat_Earthers%3A_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "goosebumps-the-musical": {
+      "slug": "goosebumps-the-musical",
+      "title": "Goosebumps The Musical",
+      "qid": "Q30639438",
+      "enwiki": "Goosebumps The Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "https://dannyabosch.com/goosebumps-the-musical/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Goosebumps_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q30639438"
+      },
+      "summary": {
+        "text": "Goosebumps The Musical: Phantom of the Auditorium (also known as Goosebumps The Musical) is a musical with book and lyrics by John Maclay, and music and lyrics by Danny Abosch. It is based on Phantom of the Auditorium, book 24 of the bestselling Goosebumps book series by R.L. Stine, published by Scholastic Publishing.",
+        "source_url": "https://en.wikipedia.org/wiki/Goosebumps_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "lolita-my-love": {
+      "slug": "lolita-my-love",
+      "title": "Lolita, My Love",
+      "qid": "Q6668903",
+      "enwiki": "Lolita, My Love",
+      "composers": [
+        {
+          "name": "John Barry",
+          "qid": "Q111074",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11350"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Alan Jay Lerner",
+          "qid": "Q961893",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3945"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Alan Jay Lerner",
+          "qid": "Q961893",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3945"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Lolita%2C_My_Love",
+        "wikidata": "https://www.wikidata.org/wiki/Q6668903"
+      },
+      "summary": {
+        "text": "Lolita, My Love was an unsuccessful musical by  John Barry and Alan Jay Lerner, based on Vladimir Nabokov's 1955 novel Lolita. It closed in Boston in 1971 while on a tour prior to Broadway.",
+        "source_url": "https://en.wikipedia.org/wiki/Lolita%2C_My_Love",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "paradise-lost-shadows-and-wings": {
+      "slug": "paradise-lost-shadows-and-wings",
+      "title": "Paradise Lost: Shadows and Wings",
+      "qid": "Q7134306",
+      "enwiki": "Paradise Lost: Shadows and Wings",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Paradise_Lost%3A_Shadows_and_Wings",
+        "wikidata": "https://www.wikidata.org/wiki/Q7134306"
+      },
+      "summary": {
+        "text": "Paradise Lost: Shadows and Wings is a musical theatre work with music by American composer Eric Whitacre, lyrics by Whitacre and David Norona, and book by poet Edward Esch, set in two acts. The music combines styles of opera, musical theatre, cinematic music, as well as electronic music techniques of trance music, ambient music, and techno to portray the story of an abandoned tribe of angels in search of their wings, loosely based on John Milton's epic poem Paradise Lost. Although it has various non-classical influences, it is meant to be performed by singers with operatic or musical theatre backgrounds.",
+        "source_url": "https://en.wikipedia.org/wiki/Paradise_Lost%3A_Shadows_and_Wings",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "sarafina": {
+      "slug": "sarafina",
+      "title": "Sarafina!",
+      "qid": "Q17066402",
+      "enwiki": "Sarafina! (musical)",
+      "composers": [
+        {
+          "name": "Mbongeni Ngema",
+          "qid": "Q6799750",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7684"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7748",
+        "wikipedia": "https://en.wikipedia.org/wiki/Sarafina!_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q17066402"
+      },
+      "summary": {
+        "text": "Sarafina! is a South African musical written and directed by Mbongeni Ngema with music by Hugh Masekela depicting students involved in the Soweto Riots in opposition to apartheid. It was also adapted into a 1992 film starring Whoopi Goldberg and Leleti Khumalo.\nSarafina! The play was first presented at The Market Theatre, Johannesburg, South Africa, in June 1987. Following that success, it premiered on Broadway on 28 January 1988, at the Cort Theatre, and closed on 2 July 1989, after 597 performances and 11 previews. The musical was conceived and directed by Mbongeni Ngema, who also wrote the book. He wrote the music and lyrics alongside Hugh Masekela. The cast included Leleti Khumalo as Sarafina.\nLeleti Khumalo received a Tony Award nomination for Best Featured Actress in a Musical, as well as an NAACP Image Award for her Broadway theatre portrayal of the title character. The production was also nominated for the Tony Awards for: Best Musical, Best Original Score, Best Choreography, and Best Direction of a Musical.\nThe show presents a school uprising similar to the Soweto uprising of 16 June 1976. A narrator introduces several characters, among them the schoolgirl activist Sarafina. Things get out of control when policemen shoot several pupils at the school. Nevertheless, the musical ends with a cheerful farewell show of pupils leaving school, which takes most of the second act.\nThe production of the play was chronicled in the documentary film Voices of Sarafina!. The album of Sarafina! includes the following songs:\n\n\"Sarafina!\"\n\"Lord's Prayer\"\n\"Nkonyane Kandaba\"\n\"Freedom is coming tomorrow\"\n\"Sabela\"\n\"Sechaba\"\n\"Safa Saphel' Isizwe\"\n\"Vuma Dlozi Lame\"\n\"One more time\"",
+        "source_url": "https://en.wikipedia.org/wiki/Sarafina!_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "sons-o-fun": {
+      "slug": "sons-o-fun",
+      "title": "Sons o' Fun",
+      "qid": "Q7562281",
+      "enwiki": "Sons o' Fun",
+      "composers": [
+        {
+          "name": "Jack Yellen",
+          "qid": "Q1261023",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6562"
+        },
+        {
+          "name": "Sammy Fain",
+          "qid": "Q742896",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11649"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Jack Yellen",
+          "qid": "Q1261023",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6562"
+        },
+        {
+          "name": "Sammy Fain",
+          "qid": "Q742896",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11649"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Chic Johnson",
+          "qid": "Q82116",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/24399"
+        },
+        {
+          "name": "Ole Olsen",
+          "qid": "Q82125",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7943"
+        }
+      ],
+      "premiere": {
+        "date": "1941-12-01",
+        "venue": "Winter Garden Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8187",
+        "wikipedia": "https://en.wikipedia.org/wiki/Sons_o'_Fun",
+        "wikidata": "https://www.wikidata.org/wiki/Q7562281"
+      },
+      "summary": {
+        "text": "Sons o' Fun is a musical revue written by the comedy team of Olsen and Johnson, consisting of John \"Ole\" Olsen and Harold \"Chic\" Johnson, also starring Ella Logan and Carmen Miranda, with music and lyrics by Sammy Fain and Jack Yellen. The revue ran on Broadway from December 1, 1941, through August 29, 1943.",
+        "source_url": "https://en.wikipedia.org/wiki/Sons_o'_Fun",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "sunny-days": {
+      "slug": "sunny-days",
+      "title": "Sunny Days",
+      "qid": "Q124881797",
+      "enwiki": "Sunny Days (musical)",
+      "composers": [
+        {
+          "name": "Jean Schwartz",
+          "qid": "Q6171492",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12374"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Clifford Grey",
+          "qid": "Q1101276",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4882"
+        },
+        {
+          "name": "William Cary Duncan",
+          "qid": "Q29045881",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9110"
+        }
+      ],
+      "premiere": {
+        "date": "1928-02-08",
+        "venue": "Imperial Theatre"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Sunny_Days_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q124881797"
+      },
+      "summary": {
+        "text": "Sunny Days is a musical in three acts with music by Jean Schwartz and both book and lyrics by Clifford Grey and William Carey Duncan. The musical was an adaptation of Grey's earlier stage play A Kiss in a Taxi (1925, produced by A. H. Woods) which was in turn adapted from Maurice Hennequin and Pierre Veber's Le Monsieur de cinq heures (1924, Théâtre du Palais-Royal). The work premiered at Broadway's Imperial Theatre on February 8, 1928. It ran there for a total of 101 performances; closing on May 5, 1928. The cast included Jeanette MacDonald as Ginette Bertin, Frank McIntyre as Leon Dorsay, Billy B. Van as Rudolph Max, Lynne Overman as Maurice Vane, Rosalie Claire as Angele Larue, and Audrey Maple as Madame Dorsay.",
+        "source_url": "https://en.wikipedia.org/wiki/Sunny_Days_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-perfect-city": {
+      "slug": "the-perfect-city",
+      "title": "The Perfect City",
+      "qid": "Q17150932",
+      "enwiki": "The Perfect City",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Perfect_City",
+        "wikidata": "https://www.wikidata.org/wiki/Q17150932"
+      },
+      "summary": {
+        "text": "The Perfect City is a musical by Martin Coslett and Ross Clark, based on William Penn, the 17th-century London aristocrat and Quaker idealist who leaves his repressive home country behind to construct a utopian city in Philadelphia, Pennsylvania.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Perfect_City",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "time": {
+      "slug": "time",
+      "title": "Time",
+      "qid": "Q535442",
+      "enwiki": "Time (musical)",
+      "composers": [
+        {
+          "name": "Jeff Daniels",
+          "qid": "Q111551699"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Dave Clark",
+          "qid": "Q1173155"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Dave Clark",
+          "qid": "Q1173155"
+        }
+      ],
+      "premiere": {
+        "date": "1986-04-09",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Time_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q535442"
+      },
+      "summary": {
+        "text": "Time is a musical with a book and lyrics by Dave Clark and David Soames, music by Jeff Daniels, and additional songs by Hans Poulsen and David Pomeranz.",
+        "source_url": "https://en.wikipedia.org/wiki/Time_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "unlock-d": {
+      "slug": "unlock-d",
+      "title": "Unlock'd",
+      "qid": "Q28228900",
+      "enwiki": "Unlock'd",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Unlock'd",
+        "wikidata": "https://www.wikidata.org/wiki/Q28228900"
+      },
+      "summary": {
+        "text": "Unlock'd is an original musical written by American songwriting duo Carner and Gregor. The musical premiered Off-Broadway at the Duke Theater on June 16, 2013.",
+        "source_url": "https://en.wikipedia.org/wiki/Unlock'd",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

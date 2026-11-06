@@ -1,0 +1,688 @@
+{
+  "live": true,
+  "shows": {
+    "a-man-of-no-importance": {
+      "slug": "a-man-of-no-importance",
+      "title": "A Man of No Importance",
+      "qid": "Q4658102",
+      "enwiki": "A Man of No Importance (musical)",
+      "composers": [
+        {
+          "name": "Stephen Flaherty",
+          "qid": "Q3973178",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11668"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Lynn Ahrens",
+          "qid": "Q293323",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7450"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Terrence McNally",
+          "qid": "Q1566335",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8828"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Man_of_No_Importance_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4658102"
+      },
+      "summary": {
+        "text": "A Man of No Importance is a musical with music by Stephen Flaherty, lyrics by Lynn Ahrens and a book by Terrence McNally, based on the 1994 Albert Finney film, A Man of No Importance.  It tells the story of an amateur theatre group in Dublin and their leader, who is determined to stage a version of Salome at his church, despite the objections of church authorities.",
+        "source_url": "https://en.wikipedia.org/wiki/A_Man_of_No_Importance_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "dance-of-the-vampires": {
+      "slug": "dance-of-the-vampires",
+      "title": "Dance of the Vampires",
+      "qid": "Q1074321",
+      "enwiki": "Dance of the Vampires (musical)",
+      "composers": [
+        {
+          "name": "Jim Steinman",
+          "qid": "Q281908",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/69720"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Michael Kunze",
+          "qid": "Q69773",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/87962"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Michael Kunze",
+          "qid": "Q69773",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/87962"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/10848",
+        "playbill": "https://playbill.com/production/dance-of-the-vampires-minskoff-theatre-vault-0000002330",
+        "wikipedia": "https://en.wikipedia.org/wiki/Dance_of_the_Vampires_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1074321"
+      },
+      "summary": {
+        "text": "Dance of the Vampires is a musical adaptation of the 1967 Roman Polanski film (known as The Fearless Vampire Killers in the United States). Polanski also directed the musical’s original German-language production (titled Tanz der Vampire). The music was composed by Jim Steinman, orchestrated by Steve Margoshes, and Michael Kunze wrote the original German book and lyrics.",
+        "source_url": "https://en.wikipedia.org/wiki/Dance_of_the_Vampires_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "dear-world": {
+      "slug": "dear-world",
+      "title": "Dear World",
+      "qid": "Q5246944",
+      "enwiki": "Dear World",
+      "composers": [
+        {
+          "name": "Jerry Herman",
+          "qid": "Q1363692",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6278"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Jerry Herman",
+          "qid": "Q1363692",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6278"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Jerome Lawrence",
+          "qid": "Q6182811",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6713"
+        },
+        {
+          "name": "Robert Edwin Lee",
+          "qid": "Q7343994",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/80951"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2991",
+        "wikipedia": "https://en.wikipedia.org/wiki/Dear_World",
+        "wikidata": "https://www.wikidata.org/wiki/Q5246944"
+      },
+      "summary": {
+        "text": "Dear World is a musical with music and lyrics by Jerry Herman and book by Jerome Lawrence and Robert E. Lee. With its opening, Herman became the first composer-lyricist in history to have three productions running simultaneously on Broadway. It starred Angela Lansbury, who won the Tony Award for Leading Actress in a Musical in 1969 for her performance as the Countess Aurelia. \nBased on The Madwoman of Chaillot by French dramatist Jean Giraudoux, as adapted by Maurice Valency, the plot follows the eccentric Countess Aurelia and her struggles against the straitlaced authority figures in her life. She and her Chaillot cohort defend their Parisian neighborhood against scheming and corrupt developers. The forces of idealism, love, and poetry win over those of greed, materialism, and science.",
+        "source_url": "https://en.wikipedia.org/wiki/Dear_World",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "ghost": {
+      "slug": "ghost",
+      "title": "Ghost",
+      "qid": "Q2006428",
+      "enwiki": "Ghost (musical)",
+      "composers": [
+        {
+          "name": "David A. Stewart",
+          "qid": "Q325389",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/490927"
+        },
+        {
+          "name": "Glen Ballard",
+          "qid": "Q920983",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/490928"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Bruce Joel Rubin",
+          "qid": "Q991682",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/490926"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Bruce Joel Rubin",
+          "qid": "Q991682",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/490926"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": "Manchester Opera House"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/490919",
+        "official_site": "http://ghostthemusical.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/Ghost_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q2006428"
+      },
+      "summary": {
+        "text": "Ghost is a musical with book and lyrics by Bruce Joel Rubin and music and lyrics by Dave Stewart and Glen Ballard. Based on the hit 1990 romantic fantasy thriller film of the same name, it centres on lovers Sam and Molly, who are attacked as they are returning to their apartment. When Sam dies he becomes caught between the real world and the next. Molly is in danger and Sam cannot leave her. A medium, Oda Mae Brown, helps Sam to get in touch with Molly to warn her.\nThe musical had its world premiere at the Manchester Opera House in Manchester in March 2011. Ghost then began its West End premiere in summer 2011, opening on 19 July. A Broadway transfer opened in April 2012. It toured the UK in 2013, after the London production closed in October 2012.",
+        "source_url": "https://en.wikipedia.org/wiki/Ghost_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "hot-chocolates": {
+      "slug": "hot-chocolates",
+      "title": "Hot Chocolates",
+      "qid": "Q11863649",
+      "enwiki": "Hot Chocolates",
+      "composers": [
+        {
+          "name": "Fats Waller",
+          "qid": "Q310476",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12543"
+        },
+        {
+          "name": "Harry Brooks",
+          "qid": "Q5667534",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11437"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Andy Razaf",
+          "qid": "Q117741",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4135"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4500",
+        "playbill": "https://playbill.com/production/hot-chocolates-hudson-theatre-vault-0000005901",
+        "wikipedia": "https://en.wikipedia.org/wiki/Hot_Chocolates",
+        "wikidata": "https://www.wikidata.org/wiki/Q11863649"
+      },
+      "summary": {
+        "text": "Hot Chocolates is a musical revue with music by Fats Waller and Harry Brooks and book and lyrics by Andy Razaf. It was originally titled Tan Town Topics in hopes it would be picked up by Broadway. Performed at the Hudson Theater in New York City, it was directed by Leonard Harper and ran for 219 performances from June 20, 1929, to December 14, 1929. It is also referred to as Connie's Hot Chocolates, after premiering at Connie's Inn. It was staged, directed and produced by Leonard Harper. While the revue featured music and singing, including the subsequent hit \"Ain't Misbehavin''\", it was praised for the cast's dancing, including its male and female chorus lines.\nLouis Armstrong made his Broadway debut as part of the show's ensemble.  Cab Calloway later joined the cast as a replacement at Armstrong's recommendation. Calloway later adopted the song \"(What Did I Do to Be So) Black and Blue,\" originally sung by Edith Wilson, for his performances decades later.",
+        "source_url": "https://en.wikipedia.org/wiki/Hot_Chocolates",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "il-trionfo-d-amore": {
+      "slug": "il-trionfo-d-amore",
+      "title": "Il trionfo d'amore",
+      "qid": "Q105038167",
+      "enwiki": "Il trionfo d'amore (Almeida)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Il_trionfo_d'amore_(Almeida)",
+        "wikidata": "https://www.wikidata.org/wiki/Q105038167"
+      },
+      "summary": {
+        "text": "Il Trionfo d'Amore is a scherzo pastorale by Francisco António de Almeida written to celebrate one of the two Saint name-days of King João V. The serenata was first performed on 27 December 1729 at the Ribeira Palace, on the feast of St John the Baptist. The plot concerns the wedding arrangements for Nerina to Adraste, which the gods’ frustrate because of her greater love for Arsindo.",
+        "source_url": "https://en.wikipedia.org/wiki/Il_trionfo_d'amore_(Almeida)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "judy-s-scary-little-christmas": {
+      "slug": "judy-s-scary-little-christmas",
+      "title": "Judy's Scary Little Christmas",
+      "qid": "Q6304293",
+      "enwiki": "Judy's Scary Little Christmas",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Judy's_Scary_Little_Christmas",
+        "wikidata": "https://www.wikidata.org/wiki/Q6304293"
+      },
+      "summary": {
+        "text": "Judy's Scary Little Christmas is an original musical written by James Webber and David Church, with music and lyrics by Joe Patrick Ward.  It is a spoof on television variety shows of the 1950s, satirizing celebrities’ public images and private lives.  The fictional story employs a metaphysical plot twist (as in the television series, The Twilight Zone) and spiritual redemption through a ghost (as in Charles Dickens’ novel, A Christmas Carol.)  The show contains campy humor based on the sensationalized personal lives of the celebrities, with satirical references to pop culture and politics of the 1950s (including the Hollywood blacklist.)",
+        "source_url": "https://en.wikipedia.org/wiki/Judy's_Scary_Little_Christmas",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "kiss-me-kate": {
+      "slug": "kiss-me-kate",
+      "title": "Kiss Me, Kate",
+      "qid": "Q1330969",
+      "enwiki": "Kiss Me, Kate",
+      "composers": [
+        {
+          "name": "Cole Porter",
+          "qid": "Q215120",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12257"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Cole Porter",
+          "qid": "Q215120",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12257"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Samuel and Bella Spewack",
+          "qid": "Q11844123"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5083",
+        "wikipedia": "https://en.wikipedia.org/wiki/Kiss_Me%2C_Kate",
+        "wikidata": "https://www.wikidata.org/wiki/Q1330969"
+      },
+      "summary": {
+        "text": "Kiss Me, Kate is a musical with music and lyrics by Cole Porter and a book by Bella and Samuel Spewack. The story involves the production of a musical version of William Shakespeare's The Taming of the Shrew and the conflict on and off-stage between Fred Graham, the show's director, producer, and star, and his leading lady, his ex-wife Lilli Vanessi. A secondary romance concerns Lois Lane, the actress playing Bianca, and her gambler boyfriend, Bill, who runs afoul of some gangsters. The original production starred Alfred Drake, Patricia Morison, Lisa Kirk and Harold Lang.\nKiss Me, Kate was Porter's response to Rodgers and Hammerstein's Oklahoma! and other integrated musicals; it was the first show he wrote in which the music and lyrics were firmly connected to the script. The musical premiered in 1948 and proved to be Porter's only show to run for more than 1,000 performances on  Broadway. In 1949, it won the first Tony Award for Best Musical.",
+        "source_url": "https://en.wikipedia.org/wiki/Kiss_Me%2C_Kate",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "mamma-mia": {
+      "slug": "mamma-mia",
+      "title": "Mamma Mia!",
+      "qid": "Q686861",
+      "enwiki": "Mamma Mia! (musical)",
+      "composers": [
+        {
+          "name": "Björn Ulvaeus",
+          "qid": "Q179682",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12514"
+        },
+        {
+          "name": "Benny Andersson",
+          "qid": "Q214582",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11314"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Björn Ulvaeus",
+          "qid": "Q179682",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12514"
+        },
+        {
+          "name": "Benny Andersson",
+          "qid": "Q214582",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11314"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Catherine Johnson",
+          "qid": "Q467766",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/84809"
+        }
+      ],
+      "premiere": {
+        "date": "1999-04-06",
+        "venue": "Prince Edward Theatre"
+      },
+      "awards": [
+        {
+          "name": "Goldene Stimmgabel",
+          "qid": "Q896189"
+        }
+      ],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/10610",
+        "official_site": "http://www.mamma-mia.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Mamma_Mia!_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q686861"
+      },
+      "summary": {
+        "text": "Mamma Mia! (promoted as Benny Andersson & Björn Ulvaeus' Mamma Mia!) is a jukebox musical written by British playwright Catherine Johnson, based on songs recorded by Swedish group ABBA and composed by members Benny Andersson and Björn Ulvaeus. The musical's title is taken from the group's 1975 chart-topper \"Mamma Mia\". Ulvaeus and Andersson were involved in the development of the show from the beginning, while singer Anni-Frid Lyngstad was involved financially in the production and also appeared at many of the premieres around the world.\nThe musical includes hits such as \"Super Trouper\", \"Lay All Your Love on Me\", \"Dancing Queen\", \"Knowing Me, Knowing You\", \"Take a Chance on Me\", \"Thank You for the Music\", \"Money, Money, Money\", \"The Winner Takes It All\", \"Voulez-Vous\", \"SOS\" and \"Mamma Mia\". Over 70 million people have seen the show, which has grossed $4.5 billion worldwide since its 1999 debut. A film adaptation starring Meryl Streep, Colin Firth, Pierce Brosnan, Amanda Seyfried, Christine Baranski, Stellan Skarsgård and Julie Walters was released in 2008. \nAs of 2024, the show has productions in London's West End, where it is the fifth longest-running show in West End history and the third longest-running musical, as well as various foreign productions. Its Broadway incarnation closed on 12 September 2015 after running for nearly 14 years, making it the ninth longest-running show in Broadway history.",
+        "source_url": "https://en.wikipedia.org/wiki/Mamma_Mia!_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "once-upon-a-one-more-time": {
+      "slug": "once-upon-a-one-more-time",
+      "title": "Once Upon a One More Time",
+      "qid": "Q85846843",
+      "enwiki": "Once Upon a One More Time",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Once_Upon_a_One_More_Time",
+        "wikidata": "https://www.wikidata.org/wiki/Q85846843"
+      },
+      "summary": {
+        "text": "Once Upon a One More Time is a jukebox musical based on songs popularized by Britney Spears. Set in a fantasy storybook realm, the plot follows numerous fairy-tale characters transformed by a feminist awakening.\nFollowing a 2021 tryout in Washington, D.C., the Broadway production opened at the Marquis Theatre on June 22, 2023 and closed on September 3, 2023.",
+        "source_url": "https://en.wikipedia.org/wiki/Once_Upon_a_One_More_Time",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "robert-and-elizabeth": {
+      "slug": "robert-and-elizabeth",
+      "title": "Robert and Elizabeth",
+      "qid": "Q7351360",
+      "enwiki": "Robert and Elizabeth",
+      "composers": [
+        {
+          "name": "Ron Grainer",
+          "qid": "Q320816"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Ronald Millar",
+          "qid": "Q7365116",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8479"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Ronald Millar",
+          "qid": "Q7365116",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8479"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Robert_and_Elizabeth",
+        "wikidata": "https://www.wikidata.org/wiki/Q7351360"
+      },
+      "summary": {
+        "text": "Robert and Elizabeth is a musical with music by Ron Grainer and book and lyrics by Ronald Millar.  The story is based on an unproduced musical titled The Third Kiss by Judge Fred G. Moritt, which in turn was adapted from the play The Barretts of Wimpole Street by Rudolph Besier.  It is an operetta-style musical which tells the story of the romance and elopement of poets Robert Browning and Elizabeth Barrett. The original 1964 London production was a success, starring John Clements as Barrett, June Bronhill as Elizabeth and Keith Michell as Robert.  Several revivals have followed.",
+        "source_url": "https://en.wikipedia.org/wiki/Robert_and_Elizabeth",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-errand-boy": {
+      "slug": "the-errand-boy",
+      "title": "The Errand Boy",
+      "qid": "Q121536455",
+      "enwiki": "The Errand Boy (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/413478",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Errand_Boy_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q121536455"
+      },
+      "summary": {
+        "text": "The Errand Boy is a musical in two acts with lyrics by Edward P. Moore (or possibly Edward P. Moran) and a book by George Totten Smith. Created as a starring vehicle for vaudeville star  Billy B. Van, the composer of the music for this work was never credited. Set in the town of Georges Mills, New Hampshire, the plot centers around the local errand boy Patsy Bolivar who becomes involved with a troupe of traveling performers stranded in his town.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Errand_Boy_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-school-girl": {
+      "slug": "the-school-girl",
+      "title": "The School Girl",
+      "qid": "Q7762521",
+      "enwiki": "The School Girl",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7787",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_School_Girl",
+        "wikidata": "https://www.wikidata.org/wiki/Q7762521"
+      },
+      "summary": {
+        "text": "The School Girl is an Edwardian musical comedy, in two acts, composed by Leslie Stuart (with additional songs by Paul Rubens) with a book by Henry Hamilton and Paul M. Potter, and lyrics by Charles H. Taylor and others. It concerns a French school girl from a convent, who goes to Paris to help her lovesick friend. Through mistaken identity, she learns secrets that help her at the Paris stock exchange and ends up at a students' ball in the Latin Quarter.  All ends happily.\nThe musical was first produced in 1903 by George Edwardes and Charles Frohman at the Prince of Wales Theatre in London and ran for 333 performances there. It starred Edna May, Marie Studholme and Billie Burke.  George Grossmith, Jr. succeeded G. P. Huntley as Ormsby St. Ledger.  The show also played successfully on Broadway in 1904, with May and Grossmith, and on the national and international touring circuits.\nThe most famous song from this show was \"My Little Canoe\".",
+        "source_url": "https://en.wikipedia.org/wiki/The_School_Girl",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-straw-hat-revue": {
+      "slug": "the-straw-hat-revue",
+      "title": "The Straw Hat Revue",
+      "qid": "Q104792045",
+      "enwiki": "The Straw Hat Revue",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "playbill": "https://playbill.com/production/the-straw-hat-revue-ambassador-theatre-vault-0000001060",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Straw_Hat_Revue",
+        "wikidata": "https://www.wikidata.org/wiki/Q104792045"
+      },
+      "summary": {
+        "text": "The Straw Hat Revue is a musical comedy revue with sketches mostly by Max Liebman and Samuel Locke, and music and lyrics by Sylvia Fine and James Shelton. It was produced on Broadway in 1939.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Straw_Hat_Revue",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-theory-of-relativity": {
+      "slug": "the-theory-of-relativity",
+      "title": "The Theory of Relativity",
+      "qid": "Q107203427",
+      "enwiki": "The Theory of Relativity (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Theory_of_Relativity_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q107203427"
+      },
+      "summary": {
+        "text": "The Theory of Relativity is a musical with music and lyrics by Neil Bartram, and a book by Brian Hill. The show explores how young adults deal with their personal feelings and situations and how they develop communities based on their shared experiences.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Theory_of_Relativity_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-tooth-of-crime": {
+      "slug": "the-tooth-of-crime",
+      "title": "The Tooth of Crime",
+      "qid": "Q7769586",
+      "enwiki": "The Tooth of Crime",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1972-07-17",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Tooth_of_Crime",
+        "wikidata": "https://www.wikidata.org/wiki/Q7769586"
+      },
+      "summary": {
+        "text": "The Tooth of Crime is a musical play written by Sam Shepard which made its premiere in London's Open Space Theatre on July 17, 1972. It tells the story of aging rock singer Hoss, doing battle with rival Crow.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Tooth_of_Crime",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "three-cheers": {
+      "slug": "three-cheers",
+      "title": "Three Cheers",
+      "qid": "Q23092121",
+      "enwiki": "Three Cheers",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8665",
+        "wikipedia": "https://en.wikipedia.org/wiki/Three_Cheers",
+        "wikidata": "https://www.wikidata.org/wiki/Q23092121"
+      },
+      "summary": {
+        "text": "Three Cheers is an American “new musical entertainment” (musical comedy) in two acts, with a book by Anne Caldwell and R. H. Burnside, lyrics by Anne Caldwell, and music by Raymond Hubbell with additional lyrics by Lew Brown and B. G. DeSylva and additional music by Ray Henderson. The show was presented by Charles Dillingham and produced by R. H. Burnside at the Globe Theatre, and opened October 15, 1928.\nThe show was staged by R. H. Burnside with dances by David Bennett. The musical director was George Hirst. The scenic designers were Sheldon K. Viele and Raymond Sovey, and costume design by Charles LeMaire. It ran for 210 performances, closing on April 13, 1929.\nThe cast headlined Dorothy Stone as Princess Sylvia and Will Rogers (substituting for Fred Stone who was injured in an airplane crash), as King Pompanola. Fred joined the cast later in the run. Other members of the cast included Edward Allan as Spike, Thea Dore as Floria Farleigh, Maude Eburne as Queen Ysobel, Alan Edwards as Harry Vance, Cynthia Foley as Ermyntrude, Kathryn Hereford as Mike, Patsy Kelly as Bobbie Bird, John Lambert as Malotte, James Murray as Captain Meurice, Janet Velie as Daphne De Lorne, Florine Phelps and Irene Phelps as Letty and Betty, Phyllis Rae as Zaia, Oscar Ragland as The Duke, and Evangeline Raleigh as Audrey Nugent.\nAct I is set in and around the Palace of Itza and Act II in Hollywood. The plot concerns a motion picture company that invades the territory of Itza hoping to get some photos of castles, Kings, and the like. Princess Sylvia falls in love with Harry Vance (Alan Edwards), the director, which slows matters up a little but not much.",
+        "source_url": "https://en.wikipedia.org/wiki/Three_Cheers",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "triassic-parq": {
+      "slug": "triassic-parq",
+      "title": "Triassic Parq",
+      "qid": "Q18164562",
+      "enwiki": "Triassic Parq",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Triassic_Parq",
+        "wikidata": "https://www.wikidata.org/wiki/Q18164562"
+      },
+      "summary": {
+        "text": "Triassic Parq is a musical comedy with music by Marshall Pailet, and lyrics and book by Marshall Pailet, Bryce Norbitz and Steve Wargo.",
+        "source_url": "https://en.wikipedia.org/wiki/Triassic_Parq",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "waking-ned-devine": {
+      "slug": "waking-ned-devine",
+      "title": "Waking Ned Devine",
+      "qid": "Q141686466",
+      "enwiki": "Waking Ned Devine (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Waking_Ned_Devine_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q141686466"
+      },
+      "summary": {
+        "text": "Waking Ned Devine is an upcoming musical with music and lyrics by Glen Hansard and Markéta Irglová and a book by David Hein. Based on the 1998 black comedy film of the same name the musical is expected to receive its world premiere at the Lyric Theatre, Belfast in February 2027.\nIt was the final musical project worked on by Glen Hansard, before his death.",
+        "source_url": "https://en.wikipedia.org/wiki/Waking_Ned_Devine_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "we-will-rock-you": {
+      "slug": "we-will-rock-you",
+      "title": "We Will Rock You",
+      "qid": "Q1051695",
+      "enwiki": "We Will Rock You (musical)",
+      "composers": [
+        {
+          "name": "Queen",
+          "qid": "Q15862"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Queen",
+          "qid": "Q15862"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Ben Elton",
+          "qid": "Q436712",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4462"
+        }
+      ],
+      "premiere": {
+        "date": "2002-04-26",
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Laurence Olivier Awards",
+          "qid": "Q28470"
+        }
+      ],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/505301",
+        "official_site": "http://www.wewillrockyou.co.uk",
+        "wikipedia": "https://en.wikipedia.org/wiki/We_Will_Rock_You_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1051695"
+      },
+      "summary": {
+        "text": "We Will Rock You (often abbreviated as WWRY) is a jukebox musical based on the songs of British rock band Queen with a book by Ben Elton. The musical tells the story of a renegade group known as the Bohemians who struggle to restore the free exchange of thought and culture in a vaguely Orwellian society.\nDirected by Christopher Renshaw and choreographed by Arlene Phillips, the original West End production opened in 2002. Although the musical was at first panned by critics, it has become an audience favourite, becoming the longest-running musical at the Dominion Theatre, celebrating its tenth anniversary on 14 May 2012.\nThe original production closed on 31 May 2014, at that time the eleventh longest-running musical in West End history. Numerous international and touring productions have followed, and We Will Rock You has been seen in six of the world's continents. By December 2022 the musical had been seen by 20 million people across 28 countries.\nFrom 2 June to 27 August 2023, We Will Rock You returned to the West End for a 12-week run at the London Coliseum.",
+        "source_url": "https://en.wikipedia.org/wiki/We_Will_Rock_You_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

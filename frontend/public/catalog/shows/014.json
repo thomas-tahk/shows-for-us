@@ -1,0 +1,648 @@
+{
+  "live": true,
+  "shows": {
+    "1600-pennsylvania-avenue": {
+      "slug": "1600-pennsylvania-avenue",
+      "title": "1600 Pennsylvania Avenue",
+      "qid": "Q4551092",
+      "enwiki": "1600 Pennsylvania Avenue (musical)",
+      "composers": [
+        {
+          "name": "Leonard Bernstein",
+          "qid": "Q152505",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7257"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Alan Jay Lerner",
+          "qid": "Q961893",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3945"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Alan Jay Lerner",
+          "qid": "Q961893",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3945"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1013",
+        "playbill": "https://playbill.com/production/1600-pennsylvania-avenue-mark-hellinger-theatre-vault-0000005790",
+        "wikipedia": "https://en.wikipedia.org/wiki/1600_Pennsylvania_Avenue_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4551092"
+      },
+      "summary": {
+        "text": "1600 Pennsylvania Avenue is a 1976 musical with music by Leonard Bernstein and book and lyrics by Alan Jay Lerner. It is considered to be a legendary Broadway flop, running only seven performances. It was Bernstein's last original score for Broadway.",
+        "source_url": "https://en.wikipedia.org/wiki/1600_Pennsylvania_Avenue_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "a-chorus-line": {
+      "slug": "a-chorus-line",
+      "title": "A Chorus Line",
+      "qid": "Q189427",
+      "enwiki": "A Chorus Line",
+      "composers": [
+        {
+          "name": "Marvin Hamlisch",
+          "qid": "Q337206",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11816"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Edward Kleban",
+          "qid": "Q5343953",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13009"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "James Kirkwood, Jr.",
+          "qid": "Q3110308",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/48233"
+        }
+      ],
+      "premiere": {
+        "date": "1975-04-15",
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Laurence Olivier Awards",
+          "qid": "Q28470"
+        },
+        {
+          "name": "Pulitzer Prize for Drama",
+          "qid": "Q289214"
+        },
+        {
+          "name": "Drama Desk Award for Outstanding Music",
+          "qid": "Q5305717"
+        }
+      ],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1058",
+        "official_site": "http://www.achoruslineontour.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Chorus_Line",
+        "wikidata": "https://www.wikidata.org/wiki/Q189427"
+      },
+      "summary": {
+        "text": "A Chorus Line is a 1975 musical conceived by Michael Bennett with music by Marvin Hamlisch, lyrics by Edward Kleban, and a book by James Kirkwood Jr. and Nicholas Dante.\nSet on the bare stage of a Broadway theater, the musical is centered on seventeen Broadway dancers auditioning for spots on a chorus line. A Chorus Line provides a glimpse into the personalities of the performers and the choreographer, as they describe the events that have shaped their lives and their decisions to become dancers.\nFollowing several workshops and an Off-Broadway production, A Chorus Line opened at the Shubert Theatre on Broadway July 25, 1975, directed by Michael Bennett and co-choreographed by Bennett and Bob Avian. An unprecedented box office and critical hit, the musical received twelve Tony Award nominations and won nine, in addition to the 1976 Pulitzer Prize for Drama.\nThe original Broadway production ran for 6,137 performances, becoming the longest-running production in Broadway history until surpassed by Cats in 1997, and the longest-running Broadway musical originally produced in the US, until surpassed in 2011 by the revival of Chicago. It remains the seventh longest-running Broadway show ever. A Chorus Line's success has spawned many successful productions worldwide. It began a lengthy run in the West End in 1976 winning the Laurence Olivier Award for Best New Musical and was revived on Broadway in 2006, and in the West End in 2013.",
+        "source_url": "https://en.wikipedia.org/wiki/A_Chorus_Line",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "acorn-antiques-the-musical": {
+      "slug": "acorn-antiques-the-musical",
+      "title": "Acorn Antiques: The Musical!",
+      "qid": "Q4674541",
+      "enwiki": "Acorn Antiques: The Musical!",
+      "composers": [
+        {
+          "name": "Victoria Wood",
+          "qid": "Q3309588"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Victoria Wood",
+          "qid": "Q3309588"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Laurence Olivier Awards",
+          "qid": "Q28470"
+        }
+      ],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Acorn_Antiques%3A_The_Musical!",
+        "wikidata": "https://www.wikidata.org/wiki/Q4674541"
+      },
+      "summary": {
+        "text": "Acorn Antiques: The Musical! is a musical about an antiques dealer, based on the parodic soap opera of the same name by Victoria Wood. It premiered in the West End in 2005, and starred Julie Walters and Celia Imrie. The musical won the Olivier Award for Best Performance in a Supporting Role in a Musical and was nominated as Best New Musical.",
+        "source_url": "https://en.wikipedia.org/wiki/Acorn_Antiques%3A_The_Musical!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "ain-t-supposed-to-die-a-natural-death": {
+      "slug": "ain-t-supposed-to-die-a-natural-death",
+      "title": "Ain't Supposed to Die a Natural Death",
+      "qid": "Q4697295",
+      "enwiki": "Ain't Supposed to Die a Natural Death",
+      "composers": [
+        {
+          "name": "Melvin Van Peebles",
+          "qid": "Q2531955",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7702"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Melvin Van Peebles",
+          "qid": "Q2531955",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7702"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Melvin Van Peebles",
+          "qid": "Q2531955",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7702"
+        }
+      ],
+      "premiere": {
+        "date": "1971",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1426",
+        "wikipedia": "https://en.wikipedia.org/wiki/Ain't_Supposed_to_Die_a_Natural_Death",
+        "wikidata": "https://www.wikidata.org/wiki/Q4697295"
+      },
+      "summary": {
+        "text": "Ain't Supposed to Die a Natural Death (Tunes from Blackness) is a musical with a book, music, and lyrics by Melvin Van Peebles.  The musical contains some material also on three of Van Peebles' albums, Brer Soul, Ain't Supposed to Die a Natural Death and As Serious as a Heart-Attack, some of which were yet to come out.\nThe musical is a series of 19 politically outspoken, darkly comic, and sexually charged musical monologues that explore the negative aspects of African-American street life and the ghetto experience. Each character has a painful story to tell in funk, soul, jazz and blues-inflected songs.  The innovative piece, presented in a confrontational, \"in your face\" style, is a precursor to choreopoem, spoken word, and rap music.  It \"contributed to the growing black presence on Broadway.\"\nIn 1970, Van Peebles decided to transform some of the albums he had recorded between 1968 and 1970 into a musical.  According to Van Peebles, \"The songs were mirroring the incidents that were happening in the streets.\"  Van Peebles marketed the musical to black audiences in churches \"all up and down the fucking East Coast. Ministers have congregations, and the congregations would come with busloads of people.\"",
+        "source_url": "https://en.wikipedia.org/wiki/Ain't_Supposed_to_Die_a_Natural_Death",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "bring-it-on-the-musical": {
+      "slug": "bring-it-on-the-musical",
+      "title": "Bring It On: The Musical",
+      "qid": "Q4968283",
+      "enwiki": "Bring It On: The Musical",
+      "composers": [
+        {
+          "name": "Lin-Manuel Miranda",
+          "qid": "Q1646482",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/459893"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Amanda Green",
+          "qid": "Q4739639",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/447001"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Jeff Whitty",
+          "qid": "Q6175265",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/109407"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/492886",
+        "playbill": "https://playbill.com/production/bring-it-on-the-musical-st-james-theatre-vault-0000013953",
+        "official_site": "https://bringitonmusical.com/index.html",
+        "wikipedia": "https://en.wikipedia.org/wiki/Bring_It_On%3A_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q4968283"
+      },
+      "summary": {
+        "text": "Bring It On: The Musical is a musical with music by Tom Kitt and Lin-Manuel Miranda, lyrics by Amanda Green and Miranda, and book by Jeff Whitty. The musical, loosely based on the 2000 film of the same name written by Jessica Bendinger, focuses on the competitive world of cheerleading and over-the-top team rivalries.\nThe musical premiered at the Alliance Theatre in Atlanta, Georgia in January 2011. The cast included Amanda Lea LaVergne as Campbell, Adrienne Warren as Danielle, Nick Blaemire as Randall, Ryann Redmond as Bridget, and \"award-winning competitive cheerleaders from across the country\". A national tour of the musical played in major U.S. cities from November 2011 to June 2012.\nThe touring stage production began previews on Broadway in July 2012 at the St. James Theatre, before opening for a limited engagement on August 1, 2012, to December 30, 2012.",
+        "source_url": "https://en.wikipedia.org/wiki/Bring_It_On%3A_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "by-the-beautiful-sea": {
+      "slug": "by-the-beautiful-sea",
+      "title": "By the Beautiful Sea",
+      "qid": "Q5003847",
+      "enwiki": "By the Beautiful Sea (musical)",
+      "composers": [
+        {
+          "name": "Arthur Schwartz",
+          "qid": "Q711473",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4324"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Dorothy Fields",
+          "qid": "Q435241",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5113"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Herbert Fields",
+          "qid": "Q1608254",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11265"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2331",
+        "wikipedia": "https://en.wikipedia.org/wiki/By_the_Beautiful_Sea_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5003847"
+      },
+      "summary": {
+        "text": "By the Beautiful Sea is a musical with a book by Herbert Fields and Dorothy Fields, lyrics by Dorothy Fields, and music by Arthur Schwartz. Like Schwartz's previous musical, A Tree Grows in Brooklyn, also starring Shirley Booth, the musical is set in Brooklyn just after the start of the 20th century (1907).  By the Beautiful Sea played on Broadway in 1954.",
+        "source_url": "https://en.wikipedia.org/wiki/By_the_Beautiful_Sea_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "dr-seuss-how-the-grinch-stole-christmas-the-musical": {
+      "slug": "dr-seuss-how-the-grinch-stole-christmas-the-musical",
+      "title": "Dr. Seuss' How the Grinch Stole Christmas! The Musical",
+      "qid": "Q5304377",
+      "enwiki": "Dr. Seuss' How the Grinch Stole Christmas! The Musical",
+      "composers": [],
+      "lyricists": [
+        {
+          "name": "Timothy Mason",
+          "qid": "Q2435268"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Timothy Mason",
+          "qid": "Q2435268"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/438378",
+        "wikipedia": "https://en.wikipedia.org/wiki/Dr._Seuss'_How_the_Grinch_Stole_Christmas!_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q5304377"
+      },
+      "summary": {
+        "text": "Dr. Seuss' How the Grinch Stole Christmas! The Musical, or simply How the Grinch Stole Christmas! The Musical, is a seasonal musical stage adaptation of the 1957 Dr. Seuss book How the Grinch Stole Christmas!. Versions of the musical have been produced since the 1990s, including a Broadway production that ran during two Christmas seasons.",
+        "source_url": "https://en.wikipedia.org/wiki/Dr._Seuss'_How_the_Grinch_Stole_Christmas!_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "dracula-the-musical-q5304725": {
+      "slug": "dracula-the-musical-q5304725",
+      "title": "Dracula: the Musical",
+      "qid": "Q5304725",
+      "enwiki": "Dracula: the Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Dracula%3A_the_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q5304725"
+      },
+      "summary": {
+        "text": "Dracula, the Musical is a musical based on the original 1897 Victorian novel by Bram Stoker. The score is by Frank Wildhorn, with lyrics and book by Don Black and Christopher Hampton.\nThe show had its regional premiere at the La Jolla Playhouse, La Jolla, California, in 2001, playing to 115% capacity, earning the highest paid capacity for any world premiere production in the playhouse's history. It then premiered on Broadway in 2004, starring Tom Hewitt as the vampire Count and Melissa Errico as the woman he loves, Mina Harker.\nA brief nude scene in which Dracula seduces Lucy Westenra (played by Kelli O'Hara) received much publicity, as did the show's numerous special effects. Despite that, the show ran for only 154 performances, and received mainly negative reviews. The show underwent substantial revision and later had engagements in Europe and Asia, where it achieved considerable success.",
+        "source_url": "https://en.wikipedia.org/wiki/Dracula%3A_the_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "eyes-and-no-eyes": {
+      "slug": "eyes-and-no-eyes",
+      "title": "Eyes and No Eyes",
+      "qid": "Q5422816",
+      "enwiki": "Eyes and No Eyes",
+      "composers": [
+        {
+          "name": "Joseph Williams",
+          "qid": "Q52155365"
+        },
+        {
+          "name": "Thomas German Reed",
+          "qid": "Q7789995"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "W. S. Gilbert",
+          "qid": "Q348513",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5905"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Eyes_and_No_Eyes",
+        "wikidata": "https://www.wikidata.org/wiki/Q5422816"
+      },
+      "summary": {
+        "text": "Eyes and No Eyes, or The Art of Seeing is a one-act musical entertainment with a libretto by W. S. Gilbert and music originally by Thomas German Reed. The story concerns two sisters who love flirtatious twin brothers (though it is not certain which loves which). The sisters lose their uncle's wedding cloak. To avoid his anger, they persuade him that the cloak is magically visible only to true lovers and invisible to flirts.\nThe entertainment premiered in 1875 at St. George's Hall in London. The original music was lost, and twenty years later new music was composed by \"Florian Pascal\" (a pseudonym for Joseph Williams Jr. (1847–1923), a music publisher who acquired the copyright to the show). It was then published, but not immediately performed.",
+        "source_url": "https://en.wikipedia.org/wiki/Eyes_and_No_Eyes",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "infinite-joy": {
+      "slug": "infinite-joy",
+      "title": "Infinite Joy",
+      "qid": "Q16848469",
+      "enwiki": "Infinite Joy",
+      "composers": [
+        {
+          "name": "William Finn",
+          "qid": "Q8009056",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9128"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": "Joe's Pub"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Infinite_Joy",
+        "wikidata": "https://www.wikidata.org/wiki/Q16848469"
+      },
+      "summary": {
+        "text": "Infinite Joy is a musical revue consisting of songs by Broadway composer William Finn. The songs are mostly material cut from Finn's earlier shows and material from works Finn was then working on. Several of the songs were included in the composer's song cycle Elegies.",
+        "source_url": "https://en.wikipedia.org/wiki/Infinite_Joy",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "king-of-hearts": {
+      "slug": "king-of-hearts",
+      "title": "King of Hearts",
+      "qid": "Q6412248",
+      "enwiki": "King of Hearts (musical)",
+      "composers": [
+        {
+          "name": "Peter Link",
+          "qid": "Q7175474",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12064"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Jacob Brackman",
+          "qid": "Q6118405",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11413"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Joseph Stein",
+          "qid": "Q1361175",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6978"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/10096",
+        "wikipedia": "https://en.wikipedia.org/wiki/King_of_Hearts_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6412248"
+      },
+      "summary": {
+        "text": "King of Hearts is a 1978 musical with a book by Joseph Stein, lyrics by Jacob Brackman, and music by Peter Link, orchestrated by Bill Brohn. It is based on the 1966 anti-war cult film of the same name.",
+        "source_url": "https://en.wikipedia.org/wiki/King_of_Hearts_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "little-johnny-jones": {
+      "slug": "little-johnny-jones",
+      "title": "Little Johnny Jones",
+      "qid": "Q6650560",
+      "enwiki": "Little Johnny Jones",
+      "composers": [
+        {
+          "name": "George M. Cohan",
+          "qid": "Q563017",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5829"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "George M. Cohan",
+          "qid": "Q563017",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5829"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "George M. Cohan",
+          "qid": "Q563017",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5829"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5456",
+        "wikipedia": "https://en.wikipedia.org/wiki/Little_Johnny_Jones",
+        "wikidata": "https://www.wikidata.org/wiki/Q6650560"
+      },
+      "summary": {
+        "text": "Little Johnny Jones is a musical by George M. Cohan.  The show introduced Cohan's tunes \"Give My Regards to Broadway\" and \"The Yankee Doodle Boy.\" The Johnny Jones character was inspired by real-life  Hall of Fame jockey Tod Sloan.",
+        "source_url": "https://en.wikipedia.org/wiki/Little_Johnny_Jones",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "midnight-in-the-garden-of-good-and-evil": {
+      "slug": "midnight-in-the-garden-of-good-and-evil",
+      "title": "Midnight in the Garden of Good and Evil",
+      "qid": "Q131783088",
+      "enwiki": "Midnight in the Garden of Good and Evil (musical)",
+      "composers": [
+        {
+          "name": "Jason Robert Brown",
+          "qid": "Q1683976",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11446"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Midnight_in_the_Garden_of_Good_and_Evil_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q131783088"
+      },
+      "summary": {
+        "text": "Midnight in the Garden of Good and Evil is a musical with music and lyrics by Jason Robert Brown and a book by Taylor Mac. Based on John Berendt's 1994 non-fiction novel of the same name, it premiered on July 8, 2024, at the Goodman Theatre in Chicago. The musical follows an antiques dealer who is on trial for the murder of a male prostitute in Savannah, Georgia, U.S., based on the killing of Danny Hansford. A Broadway run was announced for 2025 but has not yet come to fruition.",
+        "source_url": "https://en.wikipedia.org/wiki/Midnight_in_the_Garden_of_Good_and_Evil_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "new-orleans": {
+      "slug": "new-orleans",
+      "title": "New Orleans",
+      "qid": "Q123367576",
+      "enwiki": "New Orleans (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/New_Orleans_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q123367576"
+      },
+      "summary": {
+        "text": "New Orleans: the Storyville Musical is a musical by Toni Morrison, Donald McKayle and Dorothea Freitag, set in 1917 in New Orleans' Storyville district. Produced in workshop in 1982, it also received staged readings at New York Shakespeare Festival in 1984 but was never fully produced. It was Morrison's first venture in the medium of theatre. \nNumerous working titles and variations have been used in press coverage of the piece, including Storyville, District Storyville, New Orleans,  N'Orleans: the Storyville Musical and New Orleans: the Storyville Musical.",
+        "source_url": "https://en.wikipedia.org/wiki/New_Orleans_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "oh-calcutta": {
+      "slug": "oh-calcutta",
+      "title": "Oh! Calcutta!",
+      "qid": "Q1396725",
+      "enwiki": "Oh! Calcutta!",
+      "composers": [
+        {
+          "name": "Peter Schickele",
+          "qid": "Q1354646",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/87927"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6679",
+        "wikipedia": "https://en.wikipedia.org/wiki/Oh!_Calcutta!",
+        "wikidata": "https://www.wikidata.org/wiki/Q1396725"
+      },
+      "summary": {
+        "text": "Oh! Calcutta! is an avant-garde, risqué theatrical revue created by British drama critic Kenneth Tynan and produced by Hillard Elkins. The show, consisting of sketches on sex-related topics, debuted Off-Broadway in 1969 and then in the West End in 1970. It ran in London for over 3,900 performances, and in New York initially for 1,314. Revivals enjoyed even longer runs, including a 1976 Broadway revival that ran for 5,959 performances, making the show the longest-running revue in Broadway history, the second longest-running revival (after Chicago), and the eighth longest-running Broadway show ever.\nThe show sparked considerable controversy at the time due to its extended scenes of total nudity, both male and female. \nThe title is taken from a painting by French artist Clovis Trouille, a portrait of a reclining nude. Trouille's 1946 work Oh! Calcutta! Calcutta! mixes photographic collage and oil techniques; the inscription is a French pun (quel cul t'as!), an admiring exclamation on the woman's buttocks.",
+        "source_url": "https://en.wikipedia.org/wiki/Oh!_Calcutta!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "pretty-filthy": {
+      "slug": "pretty-filthy",
+      "title": "Pretty Filthy",
+      "qid": "Q85794429",
+      "enwiki": "Pretty Filthy",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Pretty_Filthy",
+        "wikidata": "https://www.wikidata.org/wiki/Q85794429"
+      },
+      "summary": {
+        "text": "Pretty Filthy is a 2015 musical with a book by Bess Wohl and music and lyrics by Michael Friedman developed with director Steve Cosson. The musical is produced by American \"investigative\" theater company The Civilians. The show is based on The Civilians' visit to the San Fernando Valley, also known as \"the Hollywood of the adult film industry.\" The musical focuses on the private and professional lives of either real-life adult film stars or composite characters based on various people, with each actor playing multiple roles.",
+        "source_url": "https://en.wikipedia.org/wiki/Pretty_Filthy",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "stand-by-the-river": {
+      "slug": "stand-by-the-river",
+      "title": "Stand by the River",
+      "qid": "Q7598134",
+      "enwiki": "Stand by the River",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Stand_by_the_River",
+        "wikidata": "https://www.wikidata.org/wiki/Q7598134"
+      },
+      "summary": {
+        "text": "Stand by the River is a musical written by Joanne and Mark Sutton-Smith based on the life of abolitionist William Still, his liberation of Jane Johnson and her two sons from slavery in 1855, and the federal trial that summer.",
+        "source_url": "https://en.wikipedia.org/wiki/Stand_by_the_River",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-thorn-birds-musical": {
+      "slug": "the-thorn-birds-musical",
+      "title": "The Thorn Birds Musical",
+      "qid": "Q7768893",
+      "enwiki": "The Thorn Birds Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "http://www.thethornbirdsmusical.co.uk/",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Thorn_Birds_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q7768893"
+      },
+      "summary": {
+        "text": "The Thorn Birds is a 2009 musical adaptation of the 1977 novel of the same name by Colleen McCullough. The lyrics were written by McCullough herself, the music was composed by Gloria Bruni and it was directed by Michael Bogdanov behind Wales Theatre Company.\nIt starred Matthew Goodgame as Father Ralph de Bricassart, Helen Anker as Meggie Cleary and Peter Karrie as Cardinal di Conti-Verchese. The cast included Andrea Miller, Kieran Brown, Ieuan Rhys, Phylip Harries, Richard Munday and Llinos Daniel.\nThe UK tour features visits to Poole, Swansea, Wolverhampton, Aberystwyth, Bradford, Hull, Llandudno, Windsor, Plymouth, Malvern, Birmingham and then finishing in the Wales Millennium Centre, Cardiff in July.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Thorn_Birds_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

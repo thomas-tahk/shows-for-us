@@ -1,0 +1,625 @@
+{
+  "live": true,
+  "shows": {
+    "and-the-world-goes-round": {
+      "slug": "and-the-world-goes-round",
+      "title": "And the World Goes 'Round",
+      "qid": "Q4753455",
+      "enwiki": "And the World Goes 'Round",
+      "composers": [
+        {
+          "name": "John Kander",
+          "qid": "Q1685876",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6837"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Fred Ebb",
+          "qid": "Q1274807",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5654"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/512052",
+        "wikipedia": "https://en.wikipedia.org/wiki/And_the_World_Goes_'Round",
+        "wikidata": "https://www.wikidata.org/wiki/Q4753455"
+      },
+      "summary": {
+        "text": "And the World Goes 'Round is a musical revue showcasing the songs of John Kander and Fred Ebb.  The revue takes its title from a tune the songwriting team wrote for Liza Minnelli to sing in the film New York, New York (that song, however, is titled \"But the World Goes 'Round\").",
+        "source_url": "https://en.wikipedia.org/wiki/And_the_World_Goes_'Round",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "around-the-world": {
+      "slug": "around-the-world",
+      "title": "Around the World",
+      "qid": "Q4795637",
+      "enwiki": "Around the World (musical)",
+      "composers": [
+        {
+          "name": "Cole Porter",
+          "qid": "Q215120",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12257"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Orson Welles",
+          "qid": "Q24829",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7963"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1687",
+        "wikipedia": "https://en.wikipedia.org/wiki/Around_the_World_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4795637"
+      },
+      "summary": {
+        "text": "Around the World is a musical based on the 1873 Jules Verne novel Around the World in Eighty Days, with a book by Orson Welles and music and lyrics by Cole Porter. It involves an around-the-world adventure by Phileas Fogg. The expensive musical extravaganza opened on Broadway in May 1946 but closed after 75 performances.\nAs he did with his unsuccessful 1938 stage production of Too Much Johnson, Welles shot film sequences that were integrated into Around the World. This footage is lost.",
+        "source_url": "https://en.wikipedia.org/wiki/Around_the_World_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "cabaret": {
+      "slug": "cabaret",
+      "title": "Cabaret",
+      "qid": "Q1024739",
+      "enwiki": "Cabaret (musical)",
+      "composers": [
+        {
+          "name": "John Kander",
+          "qid": "Q1685876",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6837"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Fred Ebb",
+          "qid": "Q1274807",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5654"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Joe Masteroff",
+          "qid": "Q1691522",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6762"
+        }
+      ],
+      "premiere": {
+        "date": "1966-11-20",
+        "venue": "Broadhurst Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2338",
+        "wikipedia": "https://en.wikipedia.org/wiki/Cabaret_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1024739"
+      },
+      "summary": {
+        "text": "Cabaret is an American musical with music by John Kander, lyrics by Fred Ebb, and a book by Joe Masteroff. It is based on the play I Am a Camera by John Van Druten, which premiered in 1951, and which in turn was based on the 1939 novel Goodbye to Berlin by Christopher Isherwood.\nSet in 1929–1930 Berlin during the twilight of the Jazz Age as the Nazis rise to power, the musical focuses on the hedonistic nightlife at the seedy Kit Kat Klub and revolves around American writer Clifford Bradshaw's relations with English cabaret performer Sally Bowles. A subplot involves the doomed romance between German boarding house owner Fräulein Schneider and her elderly suitor Herr Schultz, a Jewish fruit vendor. Overseeing the action is the master of ceremonies at the Kit Kat Klub, and the club itself serves as a metaphor for ominous political developments in late Weimar Germany.\nThe original Broadway production opened on November 20, 1966, at the Broadhurst Theatre in New York City and became a box office hit that ran for 1,166 performances. The production won eight Tony Awards and inspired numerous subsequent productions around the world, including the 1968 West End debut, as well as the 1972 film adaptation.",
+        "source_url": "https://en.wikipedia.org/wiki/Cabaret_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "happy-hunting": {
+      "slug": "happy-hunting",
+      "title": "Happy Hunting",
+      "qid": "Q5652861",
+      "enwiki": "Happy Hunting (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Howard Lindsay",
+          "qid": "Q1374517",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6373"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4202",
+        "wikipedia": "https://en.wikipedia.org/wiki/Happy_Hunting_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5652861"
+      },
+      "summary": {
+        "text": "Happy Hunting is a 1956 musical with a book by Howard Lindsay and Russel Crouse, lyrics by Matt Dubey, music by Harold Karr, original choreography by Alex Romero, assistant choreographer Eugene Louis Faccuito (Luigi) . The plot focuses on wealthy Philadelphia Main Line widow Liz Livingstone and her efforts to find a royal husband for her daughter Beth.",
+        "source_url": "https://en.wikipedia.org/wiki/Happy_Hunting_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "let-em-eat-cake": {
+      "slug": "let-em-eat-cake",
+      "title": "Let 'Em Eat Cake",
+      "qid": "Q163220",
+      "enwiki": "Let 'Em Eat Cake",
+      "composers": [
+        {
+          "name": "George Gershwin",
+          "qid": "Q123829",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5813"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Ira Gershwin",
+          "qid": "Q61059",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12885"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "George S. Kaufman",
+          "qid": "Q163662",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5827"
+        },
+        {
+          "name": "Morrie Ryskind",
+          "qid": "Q323516",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7807"
+        }
+      ],
+      "premiere": {
+        "date": "1933-10-21",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5343",
+        "wikipedia": "https://en.wikipedia.org/wiki/Let_'Em_Eat_Cake",
+        "wikidata": "https://www.wikidata.org/wiki/Q163220"
+      },
+      "summary": {
+        "text": "Let 'Em Eat Cake is a 1933 Broadway musical with music by George Gershwin, lyrics by Ira Gershwin, and book by George S. Kaufman and Morrie Ryskind. A political satire, it tells the story of a fictional American president who fails to get reelected. Inspired by fascism in Europe, he and the former vice president decide to overthrow the government.\nThe sequel to the Pulitzer prize-winning Of Thee I Sing, a light-hearted comedy about the election of President Wintergreen, Let 'Em Eat Cake fell flat with audiences and critics when it opened in October 1933 due to its much darker tone. A review in TIME magazine panned the libretto for \"[wandering] dreamily away into demented unreality\" with its focus on revolution and dictatorship.",
+        "source_url": "https://en.wikipedia.org/wiki/Let_'Em_Eat_Cake",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "love-linda-the-life-of-mrs-cole-porter": {
+      "slug": "love-linda-the-life-of-mrs-cole-porter",
+      "title": "Love, Linda: The Life of Mrs. Cole Porter",
+      "qid": "Q6690081",
+      "enwiki": "Love, Linda: The Life of Mrs. Cole Porter",
+      "composers": [
+        {
+          "name": "Cole Porter",
+          "qid": "Q215120",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12257"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Cole Porter",
+          "qid": "Q215120",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12257"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Stevie Holland",
+          "qid": "Q7615585"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "https://www.lovelindathemusical.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Love%2C_Linda%3A_The_Life_of_Mrs._Cole_Porter",
+        "wikidata": "https://www.wikidata.org/wiki/Q6690081"
+      },
+      "summary": {
+        "text": "Love, Linda: The Life Of Mrs. Cole Porter is a theatrical and musical adventure about the life of Linda Lee Thomas, the socialite wife of composer Cole Porter, with a Book by Stevie Holland with Gary William Friedman, Music and Lyrics by Cole Porter, and Arrangements and Additional Music by Gary William Friedman. It originally starred Stevie Holland. It opened at the Triad Theater on October 28, 2009 for an initial limited run through November 21, 2009, and returned for a brief run in 2010, closing on June 9, 2010, before touring regionally. The show had its Off-Broadway premiere, with direction by Richard Maltby, Jr., in a limited engagement at the York Theatre, beginning December 3, 2013, and closing January 5th, 2014. A film of the stage version starring Stevie Holland was released in 2021.",
+        "source_url": "https://en.wikipedia.org/wiki/Love%2C_Linda%3A_The_Life_of_Mrs._Cole_Porter",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "menopause-the-musical": {
+      "slug": "menopause-the-musical",
+      "title": "Menopause The Musical",
+      "qid": "Q6817294",
+      "enwiki": "Menopause The Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "The Center's Honorarium Honorees",
+          "qid": "Q118919758"
+        }
+      ],
+      "links": {
+        "official_site": "http://www.menopausethemusical.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/Menopause_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q6817294"
+      },
+      "summary": {
+        "text": "Menopause The Musical is a 2001 musical with book and lyrics by Jeanie Linders which premiered on March 28, 2001 in Orlando, Florida. The musical follows four mature women shopping for lingerie at a Bloomingdale's sale, with lyrics parodying popular music from the baby boomer era to reflect symptoms of menopause. Following the success of an Off-Broadway production, running for over 1,500 performances until 2006, the show was produced across the United States touring to the present day including in Las Vegas, where it has been running since 2006 as the longest running scripted musical in Las Vegas history. The show has spawned productions worldwide.",
+        "source_url": "https://en.wikipedia.org/wiki/Menopause_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "mrs-henderson-presents": {
+      "slug": "mrs-henderson-presents",
+      "title": "Mrs Henderson Presents",
+      "qid": "Q22682066",
+      "enwiki": "Mrs Henderson Presents (musical)",
+      "composers": [
+        {
+          "name": "George Fenton",
+          "qid": "Q920167",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11655"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Don Black",
+          "qid": "Q1238931",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5065"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": "Theatre Royal"
+      },
+      "awards": [],
+      "links": {
+        "official_site": "http://www.mrshenderson.co.uk",
+        "wikipedia": "https://en.wikipedia.org/wiki/Mrs_Henderson_Presents_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q22682066"
+      },
+      "summary": {
+        "text": "Mrs Henderson Presents is a musical comedy with music by George Fenton and Simon Chamberlain, with lyrics by Don Black and a book by Terry Johnson. Based on the 2005 film Mrs Henderson Presents, the musical received its world premiere at the Theatre Royal, Bath in 2015 and transferred to the West End's Noël Coward Theatre in February 2016. The film was based on the true story of Laura Henderson and London's Windmill Theatre.",
+        "source_url": "https://en.wikipedia.org/wiki/Mrs_Henderson_Presents_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "plain-and-fancy": {
+      "slug": "plain-and-fancy",
+      "title": "Plain and Fancy",
+      "qid": "Q7200642",
+      "enwiki": "Plain and Fancy",
+      "composers": [
+        {
+          "name": "Albert Hague",
+          "qid": "Q2605041",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11804"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Joseph Stein",
+          "qid": "Q1361175",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6978"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7120",
+        "wikipedia": "https://en.wikipedia.org/wiki/Plain_and_Fancy",
+        "wikidata": "https://www.wikidata.org/wiki/Q7200642"
+      },
+      "summary": {
+        "text": "Plain and Fancy is a musical comedy with a book by Joseph Stein and Will Glickman, lyrics by Arnold B. Horwitt, and music by Albert Hague. One of the first depictions of an Amish community in American popular culture, it includes a traditional barn raising and an old-fashioned country wedding. The musical ran on Broadway in 1955–56, and has been produced yearly at the Round Barn Theatre in Nappanee, Indiana since 1986.",
+        "source_url": "https://en.wikipedia.org/wiki/Plain_and_Fancy",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "preludes": {
+      "slug": "preludes",
+      "title": "Preludes",
+      "qid": "Q20858215",
+      "enwiki": "Preludes (musical)",
+      "composers": [
+        {
+          "name": "Dave Malloy",
+          "qid": "Q16935103",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/494711"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Dave Malloy",
+          "qid": "Q16935103",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/494711"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Preludes_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q20858215"
+      },
+      "summary": {
+        "text": "Preludes is a musical fantasia set in the mind of Sergei Rachmaninoff, written and composed by Dave Malloy. The music is a combination of compositions by Rachmaninoff, Malloy, hybrids of the two, as well as music and lyrics from other related compositions.",
+        "source_url": "https://en.wikipedia.org/wiki/Preludes_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "smash": {
+      "slug": "smash",
+      "title": "Smash",
+      "qid": "Q133799955",
+      "enwiki": "Smash (musical)",
+      "composers": [
+        {
+          "name": "Marc Shaiman",
+          "qid": "Q979312",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/75368"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Scott Wittman",
+          "qid": "Q4022358",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/16532"
+        },
+        {
+          "name": "Marc Shaiman",
+          "qid": "Q979312",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/75368"
+        }
+      ],
+      "premiere": {
+        "date": "2025-04-10",
+        "venue": "Imperial Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/540700",
+        "wikipedia": "https://en.wikipedia.org/wiki/Smash_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q133799955"
+      },
+      "summary": {
+        "text": "Smash is an American musical with music by Marc Shaiman and lyrics by Shaiman and Scott Wittman, and a book by Rick Elice and Bob Martin. Based on the 2012–2013 NBC television series of the same name created by Theresa Rebeck, the musical includes songs from the TV series and an original finale song written for the stage. Like the television series, the musical follows the creation of a musical about the life of Marilyn Monroe. The show opened at the Imperial Theatre on April 10, 2025.",
+        "source_url": "https://en.wikipedia.org/wiki/Smash_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-adventures-of-tom-sawyer": {
+      "slug": "the-adventures-of-tom-sawyer",
+      "title": "The Adventures of Tom Sawyer",
+      "qid": "Q7712669",
+      "enwiki": "The Adventures of Tom Sawyer (musical)",
+      "composers": [
+        {
+          "name": "Don Schlitz",
+          "qid": "Q5293479",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/82564"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Don Schlitz",
+          "qid": "Q5293479",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/82564"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Ken Ludwig",
+          "qid": "Q6388044",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7069"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/10512",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Adventures_of_Tom_Sawyer_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7712669"
+      },
+      "summary": {
+        "text": "The Adventures of Tom Sawyer is a musical comedy based on the 1876 novel by Mark Twain conceived and written by Ken Ludwig, with music and lyrics by Don Schlitz.\nThe musical is the story of a fourteen-year-old boy growing up in the heartland of America. This Broadway musical version of Mark Twain's novel is set in 1840 in St. Petersburg, Missouri, a bustling town on the banks of the Mississippi River. In the course of the story, Tom matches wits with his stern Aunt Polly, falls in love with the beautiful, feisty Becky Thatcher, and goes on the adventure of his life with Becky and Huckleberry Finn. Along the way he meets a terrifying villain named Injun Joe, Tom's bratty half-brother Sid, and all the other boys and girls in the village.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Adventures_of_Tom_Sawyer_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-boy": {
+      "slug": "the-boy",
+      "title": "The Boy",
+      "qid": "Q7719603",
+      "enwiki": "The Boy (musical)",
+      "composers": [
+        {
+          "name": "Lionel Monckton",
+          "qid": "Q2290123",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12155"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Adrian Ross",
+          "qid": "Q3605637",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13251"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Boy_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7719603"
+      },
+      "summary": {
+        "text": "The Boy is a musical comedy with a book by Fred Thompson and Percy Greenbank (based on Arthur Wing Pinero's 1885 play, The Magistrate), music by Lionel Monckton and Howard Talbot and lyrics by Greenbank and Adrian Ross. The original production opened at the Adelphi Theatre in London in 1917 and ran for 801 performances – one of the longest runs of any musical theatre piece up to that time. It had successful foreign productions and tours.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Boy_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-boys-are-coming-home": {
+      "slug": "the-boys-are-coming-home",
+      "title": "The Boys Are Coming Home",
+      "qid": "Q7719742",
+      "enwiki": "The Boys Are Coming Home",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Boys_Are_Coming_Home",
+        "wikidata": "https://www.wikidata.org/wiki/Q7719742"
+      },
+      "summary": {
+        "text": "The Boys Are Coming Home was the second new musical to emerge from AMTP at Northwestern University. Written in 2005 and based on Shakespeare’s comedy Much Ado About Nothing, the musical is set in the year 1945, when American servicemen returned home from World War II. With music and lyrics by Leslie Arden and book by Berni Stapleton, The Boys Are Coming Home is a \"journey through the joys and challenges of post-war life\".  The Boys Are Coming Home was directed by Gary Griffin (assisted by Jason Tyne).\nThe Boys Are Coming Home was chosen for inclusion in the National Alliance for Music Theatre Festival of New Works in New York City and was renamed One Step Forward.\nIt was listed on the Goodman Theatre's 2007–8 season with a new book by Rebecca Gilman and was to be directed by David Petrarca.  This would have been the second Arden/Petrarca team-up with their first being Goodman's production of The House of Martin Guerre back in 1996, but irreconcilable artistic points of view among the key collaborators scuttled the planned premiere (which reverted to its original title The Boys Are Coming Home) and director Chuck Smith's staging of Ain't Misbehavin' assumed the dates of The Boys are Coming Home.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Boys_Are_Coming_Home",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-pursuit-of-persephone": {
+      "slug": "the-pursuit-of-persephone",
+      "title": "The Pursuit of Persephone",
+      "qid": "Q7758831",
+      "enwiki": "The Pursuit of Persephone",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Pursuit_of_Persephone",
+        "wikidata": "https://www.wikidata.org/wiki/Q7758831"
+      },
+      "summary": {
+        "text": "The Pursuit of Persephone is a musical with music and lyrics by Peter Mills and book by Cara Reichel.  The show details F. Scott Fitzgerald's time at Princeton University, and his love for Ginevra King. Elements of the plot are loosely adapted from This Side of Paradise (Fitzgerald's own fictionalized account of his time at Princeton).",
+        "source_url": "https://en.wikipedia.org/wiki/The_Pursuit_of_Persephone",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "tony-the-tony-blair-rock-opera": {
+      "slug": "tony-the-tony-blair-rock-opera",
+      "title": "Tony! The Tony Blair Rock Opera",
+      "qid": "Q116196836",
+      "enwiki": "Tony! The Tony Blair Rock Opera",
+      "composers": [
+        {
+          "name": "Steve Brown",
+          "qid": "Q7612051"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Tony!_The_Tony_Blair_Rock_Opera",
+        "wikidata": "https://www.wikidata.org/wiki/Q116196836"
+      },
+      "summary": {
+        "text": "TONY! [The Tony Blair Rock Opera] is a musical comedy by Harry Hill and Steve Brown based on the life of former Prime Minister of the United Kingdom, Tony Blair.",
+        "source_url": "https://en.wikipedia.org/wiki/Tony!_The_Tony_Blair_Rock_Opera",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "wildcat": {
+      "slug": "wildcat",
+      "title": "Wildcat",
+      "qid": "Q8000992",
+      "enwiki": "Wildcat (musical)",
+      "composers": [
+        {
+          "name": "Cy Coleman",
+          "qid": "Q1146861",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4929"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Carolyn Leigh",
+          "qid": "Q4257369",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13033"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "N. Richard Nash",
+          "qid": "Q446404",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6893"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/9377",
+        "playbill": "https://playbill.com/production/wildcat-alvin-theatre-vault-0000000900",
+        "wikipedia": "https://en.wikipedia.org/wiki/Wildcat_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q8000992"
+      },
+      "summary": {
+        "text": "Wildcat is a musical with a book by N. Richard Nash, lyrics by Carolyn Leigh, and music by Cy Coleman.\nThe original production opened on Broadway in 1960, starring a 49-year-old Lucille Ball in her only Broadway show.\nThe show introduced the song \"Hey, Look Me Over\", which was subsequently performed as a cover version by several musicians.\nAn original cast album was issued by RCA Victor.",
+        "source_url": "https://en.wikipedia.org/wiki/Wildcat_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

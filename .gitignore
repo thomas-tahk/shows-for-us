@@ -67,3 +67,4 @@ secrets.json
 
 # Supabase
 .supabase/
+.claude/worktrees/

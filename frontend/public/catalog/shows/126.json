@@ -1,0 +1,503 @@
+{
+  "live": true,
+  "shows": {
+    "1492-up-to-date": {
+      "slug": "1492-up-to-date",
+      "title": "1492 Up to Date",
+      "qid": "Q4549881",
+      "enwiki": "1492 Up to Date",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/1492_Up_to_Date",
+        "wikidata": "https://www.wikidata.org/wiki/Q4549881"
+      },
+      "summary": {
+        "text": "1492 Up to Date; or, Very Near It (sometimes titled 1492) is a burlesque extravaganza created in 1892 in observance of the quadricentennial of Columbus's expedition to the New World.  The libretto is by R. A. Barnet. with music by Carl Pflueger. Its Broadway production was presented by Edward E. Rice's \"Surprise Party\" in 1893. The plot centers on Columbus, but in burlesque style, it has little to do with his historical story.\nThe show has been described as \"a musical, historical, mellow drama  [sic] that threw together bits of opera comique, comic opera, stereopticon projections, extravaganza, farce-comedy, vaudeville, local comedy, burlesque, and even minstrelsy.\"",
+        "source_url": "https://en.wikipedia.org/wiki/1492_Up_to_Date",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "billie": {
+      "slug": "billie",
+      "title": "Billie",
+      "qid": "Q134663003",
+      "enwiki": "Billie (musical)",
+      "composers": [
+        {
+          "name": "George M. Cohan",
+          "qid": "Q563017",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5829"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Billie_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q134663003"
+      },
+      "summary": {
+        "text": "Billie is a musical in two acts with music and lyrics by George M. Cohan. Cohan also wrote the book to the musical which he adapted from his earlier 1912 play Broadway Jones. It was the last musical comedy Cohan created.  The musical starred Polly Walker in the title role and Joseph Wagstaff as her character's love interest.",
+        "source_url": "https://en.wikipedia.org/wiki/Billie_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "greatest-days": {
+      "slug": "greatest-days",
+      "title": "Greatest Days",
+      "qid": "Q28841855",
+      "enwiki": "Greatest Days",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": "Manchester Opera House"
+      },
+      "awards": [],
+      "links": {
+        "official_site": "http://www.thebandmusical.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/Greatest_Days",
+        "wikidata": "https://www.wikidata.org/wiki/Q28841855"
+      },
+      "summary": {
+        "text": "Greatest Days is a jukebox musical with music and lyrics by Take That and a book by Tim Firth. It received its world premiere under its original title The Band at the Manchester Opera House, in September 2017, before embarking on a UK and Ireland tour and opened at the Theatre Royal Haymarket at London's West End in December 2018. The band was cast through the 2017 BBC reality television show Let It Shine.\nThe musical tells the story of five women who were best friends as teenagers and all big fans of The Band. 25 years later after losing contact the four of them reunite to fulfill their dream of seeing the band perform.\nGreatest Days is the second jukebox musical based on the songs of Take That, after the 2008 musical Never Forget.",
+        "source_url": "https://en.wikipedia.org/wiki/Greatest_Days",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "kiss-of-the-spider-woman": {
+      "slug": "kiss-of-the-spider-woman",
+      "title": "Kiss of the Spider Woman",
+      "qid": "Q1263085",
+      "enwiki": "Kiss of the Spider Woman (musical)",
+      "composers": [
+        {
+          "name": "John Kander",
+          "qid": "Q1685876",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6837"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Fred Ebb",
+          "qid": "Q1274807",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5654"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Terrence McNally",
+          "qid": "Q1566335",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8828"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5088",
+        "wikipedia": "https://en.wikipedia.org/wiki/Kiss_of_the_Spider_Woman_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1263085"
+      },
+      "summary": {
+        "text": "Kiss of the Spider Woman is a musical with music by John Kander, lyrics by Fred Ebb, and a book by Terrence McNally. It is based on the 1976 novel by Manuel Puig. Directed by Harold Prince, the musical had runs in Toronto (1992), the West End (1992-93), and Broadway (1993). It won the 1993 Tony Award for Best Musical, Best Book of a Musical, and Best Original Score, as well as acting awards for all three principals in the cast.\nA film adaptation starring and co-executive produced by Jennifer Lopez and written and directed by Bill Condon premiered at the 2025 Sundance Film Festival on January 26, 2025.",
+        "source_url": "https://en.wikipedia.org/wiki/Kiss_of_the_Spider_Woman_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "mean-girls": {
+      "slug": "mean-girls",
+      "title": "Mean Girls",
+      "qid": "Q28453248",
+      "enwiki": "Mean Girls (musical)",
+      "composers": [
+        {
+          "name": "Jeff Richmond",
+          "qid": "Q641975",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/505020"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Nell Benjamin",
+          "qid": "Q61902700",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/405997"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Tina Fey",
+          "qid": "Q14540",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/515824"
+        }
+      ],
+      "premiere": {
+        "date": "2017-10-31",
+        "venue": "National Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/515810",
+        "playbill": "https://playbill.com/production/mean-girls-august-wilson-theatre-2017-2018",
+        "official_site": "http://meangirlsonbroadway.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Mean_Girls_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q28453248"
+      },
+      "summary": {
+        "text": "Mean Girls is a rock musical with a book by Tina Fey, lyrics by Nell Benjamin, and music by Jeff Richmond. It is based on the 2004 film by Mark Waters, which was also written by Fey and was in turn inspired by Rosalind Wiseman's 2002 book Queen Bees and Wannabes. The musical focuses on Cady Heron, a teenage girl who transfers to a public high school after being homeschooled her whole life in Africa. At school, she befriends outsiders Janis Sarkisian and Damian Hubbard who persuade her to infiltrate the \"Plastics\", a clique consisting of wealthy but insecure Gretchen Wieners, sweet but dimwitted Karen Smith, and \"queen bee\" Regina George.\nDirected and choreographed by Casey Nicholaw, and produced by Lorne Michaels, the original production of Mean Girls premiered on Broadway at the August Wilson Theatre in 2018, after completing pre-Broadway tryouts in Washington, D.C. at the National Theatre in 2017. The show received positive to mixed reviews from critics and was nominated for twelve awards at the 72nd Tony Awards, including Best Musical. A recording featuring the original Broadway cast was released in 2018 by Atlantic Records. The show closed after 833 performances on Broadway on March 11, 2020, due to the COVID-19 pandemic.\nA film adaptation was released in theaters in January 2024.",
+        "source_url": "https://en.wikipedia.org/wiki/Mean_Girls_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "red-white-and-maddox": {
+      "slug": "red-white-and-maddox",
+      "title": "Red, White and Maddox",
+      "qid": "Q116312230",
+      "enwiki": "Red, White and Maddox",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Red%2C_White_and_Maddox",
+        "wikidata": "https://www.wikidata.org/wiki/Q116312230"
+      },
+      "summary": {
+        "text": "Red, White and Maddox is a satirical musical revue written by Jay Broad and Don Tucker. The play debuted in Atlanta in October 1968 and later had a 41-performance run on Broadway from January 26 to March 1, 1969. The play was conceived by Broad, who at the time was the director of the Theatre Atlanta theatrical company. Modeled as a fictional biography of Georgia Governor Lester Maddox, the play is split into two acts. The first act chronicles Maddox's foray into politics as a firebrand segregationist, culminating in him becoming governor of the state. The second act, set in the future, details Maddox becoming president of the United States.\nThe play was controversial upon its debut in Atlanta and may have contributed to Theatre Atlanta being evicted from their theater. After this, company management entered into discussions with producer Edward Padula, who helped move the production to the Cort Theatre on Broadway. The play received mixed reviews from New York critics, who contended that the subject matter was of local importance and not of enough notability to merit a Broadway production. However, Clive Barnes of The New York Times praised Jay Garner's performance of Maddox, and Richard Watts Jr. of the New York Post expressed enjoyment with the soundtrack. Due to the play's short run on Broadway, a planned album was cancelled, though several singles were recorded. In February 1970, a television adaptation was aired on WNEW-TV.",
+        "source_url": "https://en.wikipedia.org/wiki/Red%2C_White_and_Maddox",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "redhead": {
+      "slug": "redhead",
+      "title": "Redhead",
+      "qid": "Q599053",
+      "enwiki": "Redhead (musical)",
+      "composers": [
+        {
+          "name": "Albert Hague",
+          "qid": "Q2605041",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11804"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Dorothy Fields",
+          "qid": "Q435241",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5113"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Dorothy Fields",
+          "qid": "Q435241",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5113"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7427",
+        "wikipedia": "https://en.wikipedia.org/wiki/Redhead_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q599053"
+      },
+      "summary": {
+        "text": "Redhead is a musical with music composed by Albert Hague and lyrics by Dorothy Fields, who with her brother, Herbert, along with Sidney Sheldon and David Shaw wrote the book/libretto. Set in London in the 1880s, around the time of Jack the Ripper, the musical is a murder mystery in the setting of a wax museum.",
+        "source_url": "https://en.wikipedia.org/wiki/Redhead_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "seven-brides-for-seven-brothers": {
+      "slug": "seven-brides-for-seven-brothers",
+      "title": "Seven Brides for Seven Brothers",
+      "qid": "Q7457186",
+      "enwiki": "Seven Brides for Seven Brothers (musical)",
+      "composers": [
+        {
+          "name": "Gene de Paul",
+          "qid": "Q731258",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11580"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7877",
+        "wikipedia": "https://en.wikipedia.org/wiki/Seven_Brides_for_Seven_Brothers_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7457186"
+      },
+      "summary": {
+        "text": "Seven Brides for Seven Brothers is a musical with a book by Lawrence Kasha and David Landay, music by Gene de Paul, Al Kasha and Joel Hirschhorn, and lyrics by Johnny Mercer, Al Kasha and Joel Hirschhorn. It is based on the 1954 Stanley Donen film of the same name which is, itself, an adaption of the short story \"The Sobbin' Women,\" by Stephen Vincent Benét, based on the Ancient Roman legend of The Rape of the Sabine Women.\nThe show's 1978–79 premiere tour was canceled without reaching Broadway: after touring for eighteen months from 1981 a subsequent production opened on Broadway in July 1982, to close three days and five performances after its official opening. In 1985, a West End production had a six-week limited engagement run, with a further five and a half week West End run at The Prince of Wales Theatre. Revised versions of the musical have met with success in U.S. regional theatres and in amateur productions on both sides of the Atlantic.",
+        "source_url": "https://en.wikipedia.org/wiki/Seven_Brides_for_Seven_Brothers_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "spamalot": {
+      "slug": "spamalot",
+      "title": "Spamalot",
+      "qid": "Q939143",
+      "enwiki": "Spamalot",
+      "composers": [
+        {
+          "name": "John Du Prez",
+          "qid": "Q960768",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/384264"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Eric Idle",
+          "qid": "Q210741",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/76129"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Eric Idle",
+          "qid": "Q210741",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/76129"
+        }
+      ],
+      "premiere": {
+        "date": "2004-12-21",
+        "venue": "CIBC Theatre"
+      },
+      "awards": [
+        {
+          "name": "Tony Awards",
+          "qid": "Q191874"
+        },
+        {
+          "name": "Tony Award for Best Direction of a Musical",
+          "qid": "Q377293"
+        },
+        {
+          "name": "Drama Desk Awards",
+          "qid": "Q682154"
+        }
+      ],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/384261",
+        "playbill": "https://playbill.com/production/spamalot-shubert-theatre-vault-0000010462",
+        "official_site": "http://www.montypythonsspamalot.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/Spamalot",
+        "wikidata": "https://www.wikidata.org/wiki/Q939143"
+      },
+      "summary": {
+        "text": "Spamalot (also known as Monty Python's Spamalot: A New Musical (Lovingly) Ripped Off from the Motion Picture Monty Python and the Holy Grail) is a musical with music by John Du Prez and Eric Idle, and lyrics and a book by Idle. Based on the 1975 film Monty Python and the Holy Grail, the musical offers a highly irreverent parody of Arthurian legend, with the title being a portmanteau of Spam and Camelot.\nThe original 2005 Broadway production directed by Mike Nichols received 14 Tony Award nominations, winning in three categories, including Best Musical. During its initial run of 1,575 performances, the production was seen by more than two million people and grossed over $168 million. Tim Curry starred as King Arthur in the original Broadway and West End productions. It was one of eight UK musicals commemorated on Royal Mail stamps, issued in February 2011. \nA film adaptation, directed by Casey Nicholaw from a script by Idle, was  announced. Idle later stated on Twitter that the film would not be made due to his former Monty Python colleagues vetoing the project.",
+        "source_url": "https://en.wikipedia.org/wiki/Spamalot",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-biograph-girl": {
+      "slug": "the-biograph-girl",
+      "title": "The Biograph Girl",
+      "qid": "Q16962625",
+      "enwiki": "The Biograph Girl",
+      "composers": [
+        {
+          "name": "David Heneker",
+          "qid": "Q5234905",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9851"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Biograph_Girl",
+        "wikidata": "https://www.wikidata.org/wiki/Q16962625"
+      },
+      "summary": {
+        "text": "The Biograph Girl is a musical with a book by Warner Brown, lyrics by Brown and David Heneker, and music by Heneker. Its plot focuses on the silent film era and five pioneers of American cinema - actresses Mary Pickford and Lillian Gish, directors D. W. Griffith and Mack Sennett, and Paramount Pictures founder Adolph Zukor.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Biograph_Girl",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-blues-brothers-show": {
+      "slug": "the-blues-brothers-show",
+      "title": "The Blues Brothers Show",
+      "qid": "Q7718891",
+      "enwiki": "The Blues Brothers Show",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Blues_Brothers_Show",
+        "wikidata": "https://www.wikidata.org/wiki/Q7718891"
+      },
+      "summary": {
+        "text": "The Blues Brothers Show is a live show attraction located at Universal Studios Florida and formerly at Universal Studios Hollywood, based on the 1980 film The Blues Brothers.\nThe show debuted at the Florida theme park in March 1991 in the New York area, and features the title characters of Jake and Elwood Blues performing classic rock, blues and soul music from the film. Currently, in Florida, before the show begins, the Blues Brothers drive around the theme park in their Bluesmobile, park it nearby Transformers: The Ride – 3D and then walk towards the stage.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Blues_Brothers_Show",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-bunyip": {
+      "slug": "the-bunyip",
+      "title": "The Bunyip",
+      "qid": "Q76463353",
+      "enwiki": "The Bunyip (musical)",
+      "composers": [
+        {
+          "name": "Herbert De Pinna",
+          "qid": "Q41751801"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Herbert De Pinna",
+          "qid": "Q41751801"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Bunyip_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q76463353"
+      },
+      "summary": {
+        "text": "The Bunyip, also known by the longer title The Enchantment of Fairy Princess Wattle Blossom, was written by Ella Palzier Campbell (a.k.a. Ella Airlie). The pantomime  was a highly successful musical comedy that toured Australia for a decade within Fuller Brothers theatre circuit. The show was produced by Sydney entrepreneur Nat Philips. The premiere of the show ran for at least 97 performances and was revived several times over the following decade.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Bunyip_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-crooked-mile": {
+      "slug": "the-crooked-mile",
+      "title": "The Crooked Mile",
+      "qid": "Q18164253",
+      "enwiki": "The Crooked Mile (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Crooked_Mile_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q18164253"
+      },
+      "summary": {
+        "text": "The Crooked Mile is an avant-garde musical set in Soho, London with music by Peter Greenwell and book and lyrics by Peter Wildeblood. It was based on Wildeblood's 1958 novel, West End People. The play premiered at the Cambridge Theatre, London, in 1959, directed by Kenneth Alwyn and starring Millicent Martin and Elisabeth Welch. The music was orchestrated by Gordon Langford.\nThe show ran for 164 performances, closing prematurely on 30 January 1960, despite continuing mainly positive reviews.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Crooked_Mile_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-penny-friend": {
+      "slug": "the-penny-friend",
+      "title": "The Penny Friend",
+      "qid": "Q7756568",
+      "enwiki": "The Penny Friend",
+      "composers": [
+        {
+          "name": "William Roy",
+          "qid": "Q6963397"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "William Roy",
+          "qid": "Q6963397"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "William Roy",
+          "qid": "Q6963397"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Penny_Friend",
+        "wikidata": "https://www.wikidata.org/wiki/Q7756568"
+      },
+      "summary": {
+        "text": "The Penny Friend is a musical with music, lyrics, and book by William Roy based on a play by J. M. Barrie, A Kiss for Cinderella. It featured Bernadette Peters in her first Off-Broadway role. William Roy later worked with Peters as a writer, arranger and conductor for her nightclub act.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Penny_Friend",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "walmartopia": {
+      "slug": "walmartopia",
+      "title": "Walmartopia",
+      "qid": "Q7963532",
+      "enwiki": "Walmartopia",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Walmartopia",
+        "wikidata": "https://www.wikidata.org/wiki/Q7963532"
+      },
+      "summary": {
+        "text": "Walmartopia is a musical with music by Andrew Rohn and book by Catherine Capellaro. It is an irreverent political satire of big business and eternal smiley faces, a musical tale of a single mom who speaks up to her corporate employer and finds herself and her young daughter jettisoned to a future where Wal-Mart dominates the entire world.",
+        "source_url": "https://en.wikipedia.org/wiki/Walmartopia",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

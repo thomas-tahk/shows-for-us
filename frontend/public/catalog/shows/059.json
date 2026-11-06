@@ -1,0 +1,790 @@
+{
+  "live": true,
+  "shows": {
+    "1896": {
+      "slug": "1896",
+      "title": "1896",
+      "qid": "Q109286596",
+      "enwiki": "1896 (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/1896_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q109286596"
+      },
+      "summary": {
+        "text": "1896 is a 1995 Philippine sung-through musical written by Charley dela Paz and composed by Lucien Letaba. It was commissioned by and staged under the Philippine Educational Theater Association (PETA). It centers around the Philippine Revolution at the latter part of the Spanish colonial rule in the Philippines. 1896 garnered the second prize for the Filipino-language full length play category in the 1995 Palanca Awards.",
+        "source_url": "https://en.wikipedia.org/wiki/1896_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "betty-blue-eyes": {
+      "slug": "betty-blue-eyes",
+      "title": "Betty Blue Eyes",
+      "qid": "Q4898724",
+      "enwiki": "Betty Blue Eyes",
+      "composers": [
+        {
+          "name": "George Stiles",
+          "qid": "Q5544860",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/434332"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Anthony Drewe",
+          "qid": "Q4772423",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/434333"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Ron Cowen",
+          "qid": "Q7363663"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": "Novello Theatre"
+      },
+      "awards": [],
+      "links": {
+        "official_site": "http://bettyblueeyesthemusical.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/Betty_Blue_Eyes",
+        "wikidata": "https://www.wikidata.org/wiki/Q4898724"
+      },
+      "summary": {
+        "text": "Betty Blue Eyes is a 2011 stage musical comedy based on the 1984 film A Private Function, and features music by George Stiles, with lyrics by Anthony Drewe. The book was written for the stage by Ron Cowen and Daniel Lipman, adapted from Alan Bennett's original screenplay.",
+        "source_url": "https://en.wikipedia.org/wiki/Betty_Blue_Eyes",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "dolphin-show": {
+      "slug": "dolphin-show",
+      "title": "Dolphin Show",
+      "qid": "Q5289649",
+      "enwiki": "Dolphin Show",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Dolphin_Show",
+        "wikidata": "https://www.wikidata.org/wiki/Q5289649"
+      },
+      "summary": {
+        "text": "The Dolphin Show is a non-profit student theatre organization that annually presents a large-scale student-produced musical theatre production at Northwestern University.",
+        "source_url": "https://en.wikipedia.org/wiki/Dolphin_Show",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "dracula-a-chamber-musical": {
+      "slug": "dracula-a-chamber-musical",
+      "title": "Dracula: A Chamber Musical",
+      "qid": "Q5304680",
+      "enwiki": "Dracula: A Chamber Musical",
+      "composers": [
+        {
+          "name": "Richard Ouzounian",
+          "qid": "Q7328208"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Richard Ouzounian",
+          "qid": "Q7328208"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Dracula%3A_A_Chamber_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q5304680"
+      },
+      "summary": {
+        "text": "Dracula: A Chamber Musical is a 1997 Canadian musical adaptation of Bram Stoker's 1897 novel Dracula. The book and lyrics are by Richard Ouzounian and the music and orchestration are by Marek Norman. After premiering at the Neptune Theatre in Halifax, Nova Scotia, in 1997, Dracula in 1999 became the first Canadian musical to be staged at the Stratford Shakespeare Festival.\nDracula was a popular success, enjoying a six-month run. Ouzounian, who was head of creative arts programming for TVOntario, arranged for the musical to be filmed and broadcast in collaboration with CBC Television. The special earned Juan Chioran a 2000 Gemini Award for Best Performance in a Performing Arts Program or Series for his portrayal of the title role. Dracula has since been staged in regional theatres across the United States and Canada.",
+        "source_url": "https://en.wikipedia.org/wiki/Dracula%3A_A_Chamber_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "ever-green": {
+      "slug": "ever-green",
+      "title": "Ever Green",
+      "qid": "Q16991926",
+      "enwiki": "Ever Green",
+      "composers": [
+        {
+          "name": "Richard Rodgers",
+          "qid": "Q269094",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12311"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Lorenz Hart",
+          "qid": "Q725828",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11244"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Benn Levy",
+          "qid": "Q4889592",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4483"
+        }
+      ],
+      "premiere": {
+        "date": "1930-12-03",
+        "venue": "Adelphi Theatre"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Ever_Green",
+        "wikidata": "https://www.wikidata.org/wiki/Q16991926"
+      },
+      "summary": {
+        "text": "Ever Green is a musical with music by Richard Rodgers, lyrics by Lorenz Hart and a book by Benn Levy. This was the last of three musicals written by Rodgers and Hart in London.\nThe musical premiered on 3 December 1930 at the newly renovated Adelphi Theatre, London. It was produced by Charles B. Cochran and directed by Frank Collins with choreography by Buddy Bradley and Billy Pierce. It starred dancer Jessie Matthews (who played both the mother and the daughter) and comedian Sonnie Hale, who married her the following year. It also featured Joyce Barbour, Jean Cadell and Albert Burdon. \nThe lavish production was noted for the setpiece \"Dancing on the Ceiling\" that used London's first revolving stage. In this, the two stars danced around a huge chandelier that was standing up from the floor, simulating the ceiling. Matthews subsequently adopted \"Dancing on the Ceiling\" (also known as \"He dances overhead\") as her signature tune. The show was Matthews' biggest stage success and led to her renowned film career.\nThe musical garnered critical and box office success, running for 254 performances. It was later adapted into a successful 1934 film also starring Matthews.",
+        "source_url": "https://en.wikipedia.org/wiki/Ever_Green",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "gone-missing": {
+      "slug": "gone-missing",
+      "title": "Gone Missing",
+      "qid": "Q5581576",
+      "enwiki": "Gone Missing (musical)",
+      "composers": [
+        {
+          "name": "Michael Friedman",
+          "qid": "Q6830428",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/380569"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Michael Friedman",
+          "qid": "Q6830428",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/380569"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Gone_Missing_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5581576"
+      },
+      "summary": {
+        "text": "Gone Missing is a 2003 musical by The Civilians, an investigative theater company in New York City. This piece of musical theatre is composed of interviews conducted by the company on the subject of loss. The play engages with individuals who have lost everything from jewelry to technology to a black Gucci pump, investigating both how things get lost, and how the impact of that loss can extend far beyond the meaning of the object itself. Gone Missing was written and directed by Steve Cosson from interviews by the company, with music and lyrics by Michael Friedman, with additional text for “Interview with Dr. Palinurus” by Peter Morris. Gone Missing made its Canadian premiere on May 12, 2011 by Southpointe Academy in British Columbia.",
+        "source_url": "https://en.wikipedia.org/wiki/Gone_Missing_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "half-a-sixpence-2016-musical": {
+      "slug": "half-a-sixpence-2016-musical",
+      "title": "Half a Sixpence",
+      "qid": "Q28452740",
+      "enwiki": "Half a Sixpence (2016 musical)",
+      "composers": [
+        {
+          "name": "David Heneker",
+          "qid": "Q5234905",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9851"
+        },
+        {
+          "name": "George Stiles",
+          "qid": "Q5544860",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/434332"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Anthony Drewe",
+          "qid": "Q4772423",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/434333"
+        },
+        {
+          "name": "David Heneker",
+          "qid": "Q5234905",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9851"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Julian Fellowes",
+          "qid": "Q336018",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/408507"
+        }
+      ],
+      "premiere": {
+        "date": "2016-07-14",
+        "venue": "Chichester Festival Theatre"
+      },
+      "awards": [],
+      "links": {
+        "official_site": "http://www.halfasixpence.co.uk",
+        "wikipedia": "https://en.wikipedia.org/wiki/Half_a_Sixpence_(2016_musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q28452740"
+      },
+      "summary": {
+        "text": "Half a Sixpence (also Kipps - The New Half A Sixpence Musical) is a stage musical based on the 1905 novel Kipps by H. G. Wells and the original 1963 musical, with music by George Stiles and Anthony Drewe, and lyrics by Anthony Drewe and Heneker, featuring several of the original songs by Heneker, and book by Julian Fellowes.",
+        "source_url": "https://en.wikipedia.org/wiki/Half_a_Sixpence_(2016_musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "heavens-cafe": {
+      "slug": "heavens-cafe",
+      "title": "Heavens Cafe",
+      "qid": "Q5694930",
+      "enwiki": "Heavens Cafe",
+      "composers": [
+        {
+          "name": "John Miner",
+          "qid": "Q6248925"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "John Miner",
+          "qid": "Q6248925"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Heavens_Cafe",
+        "wikidata": "https://www.wikidata.org/wiki/Q5694930"
+      },
+      "summary": {
+        "text": "Heavens Cafe is  a rock opera written and composed by John Miner. It  was first staged in Las Vegas, Nevada, in 1996.  The opportunity to perform the musical theater project came after Miner's demo was heard by investor Mike Lewis of Las Vegas-based Tributary Music Label after his departure from California-based progressive rock group Mantra Sunrise.  Miner established a new band, named Art rock circus with drummer Jon Weisberg and bassist Jon Cornell to stage the live performances at the Flamingo Theater in Las Vegas. Former Folies Bergère performer Kristine Keppel directed the original casting.  In 2003, Los Angeles based theater director John Beane approached Miner about staging the opera in the Los Angeles area later that year.  Beane's new vision for the project came to fruition in May 2004 with a six-week California run at the Insurgo Theater which included Ken Jaquess from K² (band) on bass, Yvette Devereaux violin and Nolan Stolz on drums.",
+        "source_url": "https://en.wikipedia.org/wiki/Heavens_Cafe",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "maggie-may": {
+      "slug": "maggie-may",
+      "title": "Maggie May",
+      "qid": "Q6730278",
+      "enwiki": "Maggie May (musical)",
+      "composers": [
+        {
+          "name": "Lionel Bart",
+          "qid": "Q326299",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7347"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Lionel Bart",
+          "qid": "Q326299",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7347"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Alun Owen",
+          "qid": "Q447951"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Maggie_May_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6730278"
+      },
+      "summary": {
+        "text": "Maggie May is a musical with a book by Alun Owen and music and lyrics by Lionel Bart.  Based on \"Maggie May\", a traditional ballad about a Liverpool prostitute, it deals with trade union ethics and disputes among Irish-Catholic dockers in Liverpool, centring on the life of streetwalker Margaret Mary Duffy and her sweetheart, a freewheeling sailor.\nThe show includes bittersweet ballads, robust chorus numbers, and even some rock 'n' roll, making it one of the most musically diverse British scores of the 1960s. Steven Suskin, in reviewing a newly released CD, wrote: the show begins with a \"rather weird folk-ballad\", and has \"a couple of gentle lullaby-like ballads...raucous production numbers... a tongue-twister, set to an almost violent waltz\", along with a distinctive version of the title song \"which mixes a sailor's chanty with — what, Dixieland?\".",
+        "source_url": "https://en.wikipedia.org/wiki/Maggie_May_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "mayor": {
+      "slug": "mayor",
+      "title": "Mayor",
+      "qid": "Q6797624",
+      "enwiki": "Mayor (musical)",
+      "composers": [
+        {
+          "name": "Charles Strouse",
+          "qid": "Q2960275",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12463"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Warren Leight",
+          "qid": "Q7970349",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9049"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5972",
+        "wikipedia": "https://en.wikipedia.org/wiki/Mayor_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6797624"
+      },
+      "summary": {
+        "text": "Mayor is a musical with a book by Warren Leight and music  and lyrics by Charles Strouse. It is based on the  memoir by former New York City Mayor Ed Koch and depicts a single day in the life of the city's mayor. The musical ran on Broadway in 1985 after an Off-Broadway run.",
+        "source_url": "https://en.wikipedia.org/wiki/Mayor_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "musical-park-chung-hee": {
+      "slug": "musical-park-chung-hee",
+      "title": "Musical Park Chung Hee",
+      "qid": "Q122809340",
+      "enwiki": "Musical Park Chung Hee",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Musical_Park_Chung_Hee",
+        "wikidata": "https://www.wikidata.org/wiki/Q122809340"
+      },
+      "summary": {
+        "text": "Musical Park Chung Hee (Korean: 뮤지컬 박정희) is a South Korean musical based on the life of South Korean president Park Chung Hee.\nThe musical first ran in the LG Arts Center in Seoul on June 17, 2021. It was produced by the conservative thinktank HoverLab.\nActress Noh Min-ah played Park's daughter, president Park Geun-hye.\nThe full musical has been uploaded to YouTube for free viewing by HoverLab.",
+        "source_url": "https://en.wikipedia.org/wiki/Musical_Park_Chung_Hee",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "natasha-pierre-the-great-comet-of-1812": {
+      "slug": "natasha-pierre-the-great-comet-of-1812",
+      "title": "Natasha, Pierre & The Great Comet of 1812",
+      "qid": "Q16387253",
+      "enwiki": "Natasha, Pierre & The Great Comet of 1812",
+      "composers": [
+        {
+          "name": "Dave Malloy",
+          "qid": "Q16935103",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/494711"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Dave Malloy",
+          "qid": "Q16935103",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/494711"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Dave Malloy",
+          "qid": "Q16935103",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/494711"
+        }
+      ],
+      "premiere": {
+        "date": "2012-10-16",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/506409",
+        "wikipedia": "https://en.wikipedia.org/wiki/Natasha%2C_Pierre_%26_The_Great_Comet_of_1812",
+        "wikidata": "https://www.wikidata.org/wiki/Q16387253"
+      },
+      "summary": {
+        "text": "Natasha, Pierre & the Great Comet of 1812 (or simply The Great Comet) is a sung-through musical adaptation of a 70-page segment from Leo Tolstoy's 1869 novel War and Peace. The show was written by composer, lyricist, playwright, orchestrator Dave Malloy and originally directed by Rachel Chavkin. It is based on Volume II, Part V of Tolstoy's novel, focusing on Natasha's romance with Anatole and Pierre's search for meaning in his life.\nThe musical originally ran at the Ars Nova in 2012, followed by 2013 stagings in both the Meatpacking District and the Theater District of Manhattan, a 2014 Spanish-language staging in Quito, Ecuador, and a 2015 remounting at the American Repertory Theater in Cambridge, Massachusetts. The Great Comet premiered on Broadway in November 2016 at the Imperial Theatre, and closed in September 2017.\nThe original Off-Broadway production of the show had Phillipa Soo and Dave Malloy playing the roles of Natasha Rostova and Pierre Bezukhov respectively. Once the show was taken to Broadway, Denée Benton and Josh Groban made their Broadway debuts in the roles of Natasha and Pierre.\nThe musical received positive reviews, particularly for Phillipa Soo, Denée Benton, and Josh Groban's leading performances, as well as for the production's score, direction, and scenic design. The show was nominated for 12 awards – the highest number of nominations in the season – for the 2017 Tony Awards, including Best Musical, Best Original Score, Best Book of a Musical, Best Actress in a Musical for Benton, Best Actor in a Musical for Groban, Best Featured Actor in a Musical for Lucas Steele, and Best Direction of a Musical for Chavkin. It won two awards: Best Scenic Design for Mimi Lien and Best Lighting Design in a Musical for Bradley King.",
+        "source_url": "https://en.wikipedia.org/wiki/Natasha%2C_Pierre_%26_The_Great_Comet_of_1812",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "rockabye-hamlet": {
+      "slug": "rockabye-hamlet",
+      "title": "Rockabye Hamlet",
+      "qid": "Q7354928",
+      "enwiki": "Rockabye Hamlet",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7578",
+        "wikipedia": "https://en.wikipedia.org/wiki/Rockabye_Hamlet",
+        "wikidata": "https://www.wikidata.org/wiki/Q7354928"
+      },
+      "summary": {
+        "text": "Rockabye Hamlet is a rock musical with a book, lyrics, and music by Cliff Jones. It is based on the classic tragedy by William Shakespeare and tells the story of a Danish prince who plots revenge on his uncle for killing his father.",
+        "source_url": "https://en.wikipedia.org/wiki/Rockabye_Hamlet",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "something-more": {
+      "slug": "something-more",
+      "title": "Something More!",
+      "qid": "Q7560136",
+      "enwiki": "Something More!",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8165",
+        "wikipedia": "https://en.wikipedia.org/wiki/Something_More!",
+        "wikidata": "https://www.wikidata.org/wiki/Q7560136"
+      },
+      "summary": {
+        "text": "Something More! is a musical with music by Sammy Fain and lyrics by Marilyn Bergman and Alan Bergman. The book by Nate Monaster is based on the 1962 novel Portofino P.T.A. by Gerald Green. Composer Robert Prince contributed some music to a few dance numbers.",
+        "source_url": "https://en.wikipedia.org/wiki/Something_More!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "swamp-gravy": {
+      "slug": "swamp-gravy",
+      "title": "Swamp Gravy",
+      "qid": "Q7653331",
+      "enwiki": "Swamp Gravy",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Swamp_Gravy",
+        "wikidata": "https://www.wikidata.org/wiki/Q7653331"
+      },
+      "summary": {
+        "text": "Swamp Gravy is the U.S. state of Georgia's official folk-life play. It is performed each year In March and October in Colquitt,  the Miller County seat in south Georgia.",
+        "source_url": "https://en.wikipedia.org/wiki/Swamp_Gravy",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-ballad-of-angel-s-alley": {
+      "slug": "the-ballad-of-angel-s-alley",
+      "title": "The Ballad of Angel's Alley",
+      "qid": "Q29300730",
+      "enwiki": "The Ballad of Angel's Alley",
+      "composers": [],
+      "lyricists": [
+        {
+          "name": "Jeff Underhill",
+          "qid": "Q98549522"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Ballad_of_Angel's_Alley",
+        "wikidata": "https://www.wikidata.org/wiki/Q29300730"
+      },
+      "summary": {
+        "text": "The Ballad of Angel's Alley: A Pocket Opera is an Australian musical set in Melbourne's \"push\" wars of the 1890s, with book and lyrics by Jeff Underhill and music by Bruce George.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Ballad_of_Angel's_Alley",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-blue-moon": {
+      "slug": "the-blue-moon",
+      "title": "The Blue Moon",
+      "qid": "Q7718801",
+      "enwiki": "The Blue Moon (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2112",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Blue_Moon_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7718801"
+      },
+      "summary": {
+        "text": "The Blue Moon is an Edwardian musical comedy with music composed by Howard Talbot and Paul Rubens, lyrics by Percy Greenbank and Rubens and a book by Harold Ellis and by Alexander M. Thompson.  It is set in India during the days of the British Raj, and concerns the love of a singing girl for a young British army officer.\nIt ran in London in 1905, starring Courtice Pounds, and was then played in the English provinces and in America and Australia.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Blue_Moon_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-cradle-will-rock": {
+      "slug": "the-cradle-will-rock",
+      "title": "The Cradle Will Rock",
+      "qid": "Q7727935",
+      "enwiki": "The Cradle Will Rock",
+      "composers": [
+        {
+          "name": "Marc Blitzstein",
+          "qid": "Q918359",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7489"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Marc Blitzstein",
+          "qid": "Q918359",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7489"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2803",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Cradle_Will_Rock",
+        "wikidata": "https://www.wikidata.org/wiki/Q7727935"
+      },
+      "summary": {
+        "text": "The Cradle Will Rock is a 1937 play in music by Marc Blitzstein. Originally a part of the Federal Theatre Project, it was directed by Orson Welles and produced by John Houseman. Set in Steeltown, U.S.A., the Brechtian allegory of corruption and corporate greed includes a panoply of social figures. It follows the efforts of Larry Foreman to unionize the town's workers and combat the powerful industrialist Mr. Mister, who controls the town's factory, press, church, and social organization. The piece is almost entirely sung-through, giving it many operatic qualities, although Blitzstein included popular song styles of the time.\nThe WPA temporarily shut down the project a few days before it was to open on Broadway. To avoid government and union restrictions, the show was performed on June 16, 1937, with Blitzstein playing piano onstage and the cast members singing their parts from the audience.\nThe original cast consisted of John Adair, Guido Alexander, Marc Blitzstein, Peggy Coudray, Howard da Silva, George Fairchild, Robert Farnsworth, Edward Fuller, Will Geer, Maynard Holmes, Frank Marvel, Charles Niemeyer, Le Roi Operti, Jules Schmidt, George Smithfield, Olive Stanton, and Bert Weston.\nThe Cradle Will Rock was reprised January–April 1938 as part of the first season of the Mercury Theatre, an independent repertory company founded by Welles and Houseman. An abridged version of the production was recorded and released in 1938, the first original cast recording ever made.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Cradle_Will_Rock",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-music-man": {
+      "slug": "the-music-man",
+      "title": "The Music Man",
+      "qid": "Q1457220",
+      "enwiki": "The Music Man",
+      "composers": [
+        {
+          "name": "Meredith Willson",
+          "qid": "Q1281750",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13689"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Meredith Willson",
+          "qid": "Q1281750",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13689"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Meredith Willson",
+          "qid": "Q1281750",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13689"
+        },
+        {
+          "name": "Franklin Lacey",
+          "qid": "Q5491636",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5643"
+        }
+      ],
+      "premiere": {
+        "date": "1957-12-19",
+        "venue": "Majestic Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6353",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Music_Man",
+        "wikidata": "https://www.wikidata.org/wiki/Q1457220"
+      },
+      "summary": {
+        "text": "The Music Man is a musical with book, music, and lyrics by Meredith Willson, based on a story by Willson and Franklin Lacey. The plot concerns con man Harold Hill, who poses as a boys' band organizer and leader.  He sells band instruments and uniforms to naïve Midwestern townsfolk, promising to train the members of the new band. Harold is no musician, however, and plans to skip town without giving any music lessons. Prim librarian and piano teacher Marian sees through him, but when Harold helps her younger brother overcome his lisp and social awkwardness, Marian begins to fall in love with him. He risks being caught to win her heart.\nIn 1957, the show became a hit on Broadway, winning five Tony Awards, including Best Musical, and running for 1,375 performances. The cast album won the first Grammy Award for Best Musical Theater Album and spent 245 weeks on the Billboard charts. The show's success led to Broadway and West End revivals, a popular 1962 film adaptation and a 2003 television adaptation. The Music Man is frequently produced by both professional and amateur theater companies and is a popular choice for high school and college productions.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Music_Man",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "three-houses": {
+      "slug": "three-houses",
+      "title": "Three Houses",
+      "qid": "Q126489231",
+      "enwiki": "Three Houses (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Three_Houses_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q126489231"
+      },
+      "summary": {
+        "text": "Three Houses is a chamber musical with music, lyrics, book, and orchestrations by Dave Malloy, and direction and choreography by Annie Tippe.",
+        "source_url": "https://en.wikipedia.org/wiki/Three_Houses_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "three-sisters": {
+      "slug": "three-sisters",
+      "title": "Three Sisters",
+      "qid": "Q7797808",
+      "enwiki": "Three Sisters (musical)",
+      "composers": [
+        {
+          "name": "Jerome Kern",
+          "qid": "Q313270",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6711"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Oscar Hammerstein II",
+          "qid": "Q319693",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7965"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Oscar Hammerstein II",
+          "qid": "Q319693",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7965"
+        }
+      ],
+      "premiere": {
+        "date": "1934-04-19",
+        "venue": "The Theatre Royal"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Three_Sisters_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7797808"
+      },
+      "summary": {
+        "text": "Three Sisters is a musical written by Oscar Hammerstein II (lyrics and book) and Jerome Kern (music). It concerns the romantic lives of three sisters.\nThe musical was originally produced in London at the Theatre Royal, Drury Lane in 1934 and was not a success. It introduced the song \"I Won't Dance\", and also includes \"Lonely Feet\", \"Hand in Hand\", \"Now I Have Springtime\", and \"My Beautiful Circus Girl\".",
+        "source_url": "https://en.wikipedia.org/wiki/Three_Sisters_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "two-merry-monarchs": {
+      "slug": "two-merry-monarchs",
+      "title": "Two Merry Monarchs",
+      "qid": "Q7859090",
+      "enwiki": "Two Merry Monarchs",
+      "composers": [
+        {
+          "name": "Orlando Morgan",
+          "qid": "Q7103140"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1910-03-10",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Two_Merry_Monarchs",
+        "wikidata": "https://www.wikidata.org/wiki/Q7859090"
+      },
+      "summary": {
+        "text": "Two Merry Monarchs is an Edwardian musical comedy in two acts with a book by Arthur Anderson and George Levy, lyrics by Anderson and Hartley Carrick, and music by Orlando Morgan. It opened at the Savoy Theatre in London on 10 March 1910, under the management of C. H. Workman, and ran there for 43 performances.   It starred Workman, Robert Whyte Jr., Lennox Pawle, Daisy le Hay and Roland Cunningham.  The work was the last piece that could be considered a Savoy opera.\nThere was a brief transfer to the Strand Theatre in London, which ran for an additional six performances, from 30 April to 6 May 1910, and a provincial tour in the late summer of 1910, both starring Hayden Coffin.  Another tour was given in the spring of 1911.  The score is apparently lost, and the comedy was not subsequently revived.",
+        "source_url": "https://en.wikipedia.org/wiki/Two_Merry_Monarchs",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "what-s-up": {
+      "slug": "what-s-up",
+      "title": "What's Up?",
+      "qid": "Q7990840",
+      "enwiki": "What's Up? (musical)",
+      "composers": [
+        {
+          "name": "Frederick Loewe",
+          "qid": "Q551678",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5688"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Alan Jay Lerner",
+          "qid": "Q961893",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3945"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Alan Jay Lerner",
+          "qid": "Q961893",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3945"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/9255",
+        "wikipedia": "https://en.wikipedia.org/wiki/What's_Up%3F_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7990840"
+      },
+      "summary": {
+        "text": "What's Up? is a musical notable as the first Broadway stage collaboration by Lerner and Loewe, with book by Arthur Pierson and Alan Jay Lerner, lyrics by Lerner, and music by Frederick Loewe.",
+        "source_url": "https://en.wikipedia.org/wiki/What's_Up%3F_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

@@ -1,0 +1,605 @@
+{
+  "live": true,
+  "shows": {
+    "annie-warbucks": {
+      "slug": "annie-warbucks",
+      "title": "Annie Warbucks",
+      "qid": "Q4769451",
+      "enwiki": "Annie Warbucks",
+      "composers": [
+        {
+          "name": "Charles Strouse",
+          "qid": "Q2960275",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12463"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Martin Charnin",
+          "qid": "Q3295377",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7570"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Thomas Meehan",
+          "qid": "Q7792371",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8874"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Annie_Warbucks",
+        "wikidata": "https://www.wikidata.org/wiki/Q4769451"
+      },
+      "summary": {
+        "text": "Annie Warbucks is a musical with a book by Thomas Meehan, music by Charles Strouse, and lyrics by Martin Charnin. A sequel to the 1977 Tony Award-winning hit Annie, based on Harold Gray's Little Orphan Annie comic strip, it begins immediately after Annie ends.",
+        "source_url": "https://en.wikipedia.org/wiki/Annie_Warbucks",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "bernarda-alba": {
+      "slug": "bernarda-alba",
+      "title": "Bernarda Alba",
+      "qid": "Q4893807",
+      "enwiki": "Bernarda Alba (musical)",
+      "composers": [
+        {
+          "name": "Federico García Lorca",
+          "qid": "Q41408",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5514"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Michael John LaChiusa",
+          "qid": "Q3308276",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13016"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Bernarda_Alba_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4893807"
+      },
+      "summary": {
+        "text": "Bernarda Alba is a one-act musical with music, lyrics and book by Michael John LaChiusa, based on Federico García Lorca's 1936 play The House of Bernarda Alba.  Bernarda Alba tells the story of a controlling, newly widowed mother who is challenged by her five rebellious daughters. The musical opened Off Broadway at Lincoln Center's Mitzi E. Newhouse Theater in 2006, to mixed reviews.",
+        "source_url": "https://en.wikipedia.org/wiki/Bernarda_Alba_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "ceilidh": {
+      "slug": "ceilidh",
+      "title": "Ceilidh",
+      "qid": "Q137270378",
+      "enwiki": "Ceilidh (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Ceilidh_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q137270378"
+      },
+      "summary": {
+        "text": "Ceilidh ( KAY-lee; Scottish Gaelic: [ˈkʲʰeːlɪ]) is an immersive musical with music, lyrics and book by Scottish writing team Scott Gilmour and Claire McKenzie, collectively known as Noisemaker. The production is directed and choreographed by Sam Pinkleton and held its North American premiere in Baltimore, Maryland, at the M&T Bank Exchange (France–Merrick Performing Arts Center), from September 6 to October 12, 2025.",
+        "source_url": "https://en.wikipedia.org/wiki/Ceilidh_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "darling-of-the-day": {
+      "slug": "darling-of-the-day",
+      "title": "Darling of the Day",
+      "qid": "Q5223943",
+      "enwiki": "Darling of the Day",
+      "composers": [
+        {
+          "name": "Jule Styne",
+          "qid": "Q587741",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12466"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Yip Harburg",
+          "qid": "Q1273621",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5177"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Nunnally Johnson",
+          "qid": "Q2005146",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7161"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2936",
+        "playbill": "https://playbill.com/production/darling-of-the-day-george-abbott-theatre-vault-0000003715",
+        "wikipedia": "https://en.wikipedia.org/wiki/Darling_of_the_Day",
+        "wikidata": "https://www.wikidata.org/wiki/Q5223943"
+      },
+      "summary": {
+        "text": "Darling of the Day is a musical with a book by Nunnally Johnson, lyrics by E. Y. Harburg, and music by Jule Styne. Based on the Arnold Bennett novel Buried Alive and his play The Great Adventure, the original 1968 Broadway production starred Vincent Price and Patricia Routledge, who won the Tony Award for Best Actress in a Musical.",
+        "source_url": "https://en.wikipedia.org/wiki/Darling_of_the_Day",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "don-t-bother-me-i-can-t-cope": {
+      "slug": "don-t-bother-me-i-can-t-cope",
+      "title": "Don't Bother Me, I Can't Cope",
+      "qid": "Q5291478",
+      "enwiki": "Don't Bother Me, I Can't Cope",
+      "composers": [
+        {
+          "name": "Micki Grant",
+          "qid": "Q6838839",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7760"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3135",
+        "wikipedia": "https://en.wikipedia.org/wiki/Don't_Bother_Me%2C_I_Can't_Cope",
+        "wikidata": "https://www.wikidata.org/wiki/Q5291478"
+      },
+      "summary": {
+        "text": "Don't Bother Me, I Can't Cope is a musical revue first staged in 1971 with music, lyrics and book by Micki Grant. It was originally produced by Edward Padula.",
+        "source_url": "https://en.wikipedia.org/wiki/Don't_Bother_Me%2C_I_Can't_Cope",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "high-jinks": {
+      "slug": "high-jinks",
+      "title": "High Jinks",
+      "qid": "Q65087590",
+      "enwiki": "High Jinks (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/High_Jinks_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q65087590"
+      },
+      "summary": {
+        "text": "High Jinks is a musical farce with music by Rudolf Friml and book and lyrics by Otto Harbach and Leo Ditrichstein, based on the farce Before and After by Leo Ditrichstein which was adapted from a French farce, Les Dragees d'Hercule, by Maurice Hennequin and Paul Bilhaud.\nThe musical is set in France and concerns several patients of Dr Thorne who take High Jinks, an elixir found in Tibet, which causes them to laugh and fall in love. \"Something Seems Tingle-Ingleing\" and \"Love's Own Kiss\" are two of the best known songs.\nDirected by Frank Smithson, High Jinks opened at the Casino Theatre on Broadway on December 10, 1913, and ran for 213 performances. A London production at the Adelphi Theatre opened in August 1916 and ran for 383 performances.",
+        "source_url": "https://en.wikipedia.org/wiki/High_Jinks_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "karachi-the-musical": {
+      "slug": "karachi-the-musical",
+      "title": "Karachi: The Musical",
+      "qid": "Q17064020",
+      "enwiki": "Karachi: The Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Karachi%3A_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q17064020"
+      },
+      "summary": {
+        "text": "Karachi: The Musical is Pakistan's first original Broadway-style Urdu musical, with music by Hamza Jafri and lyrics by Faraz Lodhi. Set in the Lyari area of Karachi, the story revolves around an aspiring boxer, Saif Salam, who travels from Mailsi to train with the country's best boxing coach, Ghulam Bashir. It guest-starred Munawar Saeed as Dara Jokhio, a former gangster.",
+        "source_url": "https://en.wikipedia.org/wiki/Karachi%3A_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "mentiras-el-musical": {
+      "slug": "mentiras-el-musical",
+      "title": "Mentiras, el musical",
+      "qid": "Q5395530",
+      "enwiki": "Mentiras, el musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "http://mentiraselmusical.com",
+        "wikipedia": "https://en.wikipedia.org/wiki/Mentiras%2C_el_musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q5395530"
+      },
+      "summary": {
+        "text": "Mentiras, el musical is a 2009 Mexican jukebox musical based on popular Spanish-language songs from the 1980s. It was written and directed by José Manuel López Velarde and produced by OCESA, with Federico González Compeán and Morris Gilbert serving as executive producers. The musical celebrated its 600th performance in November 2010. A cast recording was released on CD and through iTunes by OCESA Seitrack, followed by a karaoke version of the soundtrack.\nOn March 11, 2024, Amazon Prime Video announced a television adaptation of the musical, starring Belinda, Luis Gerardo Mendez, Diana Bovio, Mariana Treviño and Regina Blandón. The series premiered on June 13, 2025 as Mentiras, la serie.",
+        "source_url": "https://en.wikipedia.org/wiki/Mentiras%2C_el_musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "miss-liberty": {
+      "slug": "miss-liberty",
+      "title": "Miss Liberty",
+      "qid": "Q6876977",
+      "enwiki": "Miss Liberty",
+      "composers": [
+        {
+          "name": "Irving Berlin",
+          "qid": "Q128746",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6452"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Robert E. Sherwood",
+          "qid": "Q1362097",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13527"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6137",
+        "wikipedia": "https://en.wikipedia.org/wiki/Miss_Liberty",
+        "wikidata": "https://www.wikidata.org/wiki/Q6876977"
+      },
+      "summary": {
+        "text": "Miss Liberty is a 1949 Broadway musical with a book by Robert E. Sherwood and music and lyrics by Irving Berlin. It is based on the sculpting of New York City's Statue of Liberty (Liberty Enlightening the World) in 1886. The score includes the song \"Give Me Your Tired, Your Poor\", a musical setting of Emma Lazarus's sonnet \"The New Colossus\" (1883), which was placed at the base of the monument in 1903.",
+        "source_url": "https://en.wikipedia.org/wiki/Miss_Liberty",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "music-in-the-air": {
+      "slug": "music-in-the-air",
+      "title": "Music in the Air",
+      "qid": "Q6941946",
+      "enwiki": "Music in the Air",
+      "composers": [
+        {
+          "name": "Jerome Kern",
+          "qid": "Q313270",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6711"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Oscar Hammerstein II",
+          "qid": "Q319693",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7965"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Oscar Hammerstein II",
+          "qid": "Q319693",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7965"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6357",
+        "wikipedia": "https://en.wikipedia.org/wiki/Music_in_the_Air",
+        "wikidata": "https://www.wikidata.org/wiki/Q6941946"
+      },
+      "summary": {
+        "text": "Music in the Air is a musical written by Oscar Hammerstein II (lyrics and book) and Jerome Kern (music). It introduced songs such as \"The Song Is You\", \"In Egern on the Tegern See\" and \"I've Told Ev'ry Little Star\". The musical premiered on Broadway in 1932, and followed the team's success with the musical Show Boat from 1927.",
+        "source_url": "https://en.wikipedia.org/wiki/Music_in_the_Air",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "out-of-this-world": {
+      "slug": "out-of-this-world",
+      "title": "Out of This World",
+      "qid": "Q1455642",
+      "enwiki": "Out of This World (musical)",
+      "composers": [
+        {
+          "name": "Cole Porter",
+          "qid": "Q215120",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12257"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Dwight Taylor",
+          "qid": "Q3041892",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5150"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6854",
+        "wikipedia": "https://en.wikipedia.org/wiki/Out_of_This_World_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1455642"
+      },
+      "summary": {
+        "text": "Out of This World is a musical with music and lyrics by Cole Porter, and the book by Dwight Taylor and Reginald Lawrence. The show, an adaptation of Plautus's comedy Amphitryon, first opened on Broadway in 1950.",
+        "source_url": "https://en.wikipedia.org/wiki/Out_of_This_World_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "radiant-baby": {
+      "slug": "radiant-baby",
+      "title": "Radiant Baby",
+      "qid": "Q7280305",
+      "enwiki": "Radiant Baby",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Radiant_Baby",
+        "wikidata": "https://www.wikidata.org/wiki/Q7280305"
+      },
+      "summary": {
+        "text": "Radiant Baby is a musical about Keith Haring, who was an artist and social activist in New York City. The music was composed by Debra Barsha, with lyrics by Ira Gasman, Stuart Ross, and Debra Barsha. It was based on Keith Haring: The Authorized Biography (1991) by John Gruen.\nRadiant Baby was partially developed at the 1998 O'Neil Music Theater Conference in Waterford, Connecticut. It had its New York premiere at The Public Theater in a 2003 production directed by George C. Wolfe with Daniel Reichard in the title role. Kate Jennings Grant and Billy Porter also appeared in the New York production.",
+        "source_url": "https://en.wikipedia.org/wiki/Radiant_Baby",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-black-crook": {
+      "slug": "the-black-crook",
+      "title": "The Black Crook",
+      "qid": "Q152444",
+      "enwiki": "The Black Crook",
+      "composers": [
+        {
+          "name": "Thomas Baker",
+          "qid": "Q7787332",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/413529"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/10289",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Black_Crook",
+        "wikidata": "https://www.wikidata.org/wiki/Q152444"
+      },
+      "summary": {
+        "text": "The Black Crook is a work of musical theatre first produced in New York City with great success in 1866. Many theatre writers have cautiously identified The Black Crook as the first popular piece that conforms to the modern notion of a musical. The book is by Charles M. Barras. The music, selected and arranged by Thomas Baker, consists mostly of adaptations, but it included some new songs composed for the piece, notably \"You Naughty, Naughty Men\". The story is a Faustian melodramatic romantic comedy, but the production became famous for its spectacular special effects and skimpy costumes.\nIt opened on September 12, 1866 at the 3,200-seat Niblo's Garden on Broadway in Manhattan and ran for a record-breaking 474 performances. It was then toured extensively for decades and revived on Broadway in 1870–71, 1871–72 and many more times after that. The Black Crook is often considered a prototype of the modern musical in that its popular songs and dances are interspersed throughout a unifying play and performed by the actors.\nA British production titled The Black Crook, which opened at the Alhambra Theatre in London on December 23, 1872, was an opera bouffe with a new story based on some of the French source material that influenced the New York version, with new music by Frederic Clay and Georges Jacobi.  A silent film version of The Black Crook was produced in 1916.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Black_Crook",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-lady-in-red": {
+      "slug": "the-lady-in-red",
+      "title": "The Lady in Red",
+      "qid": "Q125343314",
+      "enwiki": "The Lady in Red (musical)",
+      "composers": [
+        {
+          "name": "Robert Winterberg",
+          "qid": "Q110146704",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12586"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Anne Caldwell",
+          "qid": "Q4768205",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4167"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Lady_in_Red_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q125343314"
+      },
+      "summary": {
+        "text": "The Lady in Red is a musical in three acts with music by Robert Winterberg and both book and lyrics by Anne Caldwell. It was an Americanized version of Winterberg's earlier German-language operetta Die Dame in Rot (1911) with entirely new lyrics and dialogue by Caldwell and some new music by Winterberg in addition to some of the music from the earlier 1911 work. However, most of Winterberg's original score had been replaced by songs by a variety of American songwriters, many of them uncredited. Composer George Gershwin had two songs in the show, \"Some Wonderful Sort of Someone,\" with lyrics by Schuyler Greene, and \"Something About Love\", with lyrics by Lou Paley.\nThe Lady in Red premiered at Broadway's Lyric Theatre on March 12, 1919.  This new version of Winterberg's operetta was created as a starring vehicle for Adele Rowland who portrayed Kitty St. Claire. Directed by Frank Smithson and produced by John P. Slocum, the production ran on Broadway for a total of 48 performances, closing on June 21, 1919.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Lady_in_Red_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-tik-tok-man-of-oz": {
+      "slug": "the-tik-tok-man-of-oz",
+      "title": "The Tik-Tok Man of Oz",
+      "qid": "Q7769277",
+      "enwiki": "The Tik-Tok Man of Oz",
+      "composers": [
+        {
+          "name": "Louis F. Gottschalk",
+          "qid": "Q2809986",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13448"
+        },
+        {
+          "name": "Victor Schertzinger",
+          "qid": "Q707999",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13731"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "L. Frank Baum",
+          "qid": "Q207544",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7118"
+        },
+        {
+          "name": "Oliver Morosco",
+          "qid": "Q7087706",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7957"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "L. Frank Baum",
+          "qid": "Q207544",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7118"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Tik-Tok_Man_of_Oz",
+        "wikidata": "https://www.wikidata.org/wiki/Q7769277"
+      },
+      "summary": {
+        "text": "The Tik-Tok Man of Oz is a musical play with book and lyrics by L. Frank Baum and music by Louis F. Gottschalk that opened at the Majestic Theatre in Los Angeles, California on March 31, 1913. It is loosely inspired by Baum's book Ozma of Oz (1907), incorporates much of the material from Baum's book The Road to Oz (1909), and was the basis for his 1914 novel, Tik-Tok of Oz.  It was promoted as \"A Companion Play to The Wizard of Oz\" and directed by Frank M. Stammers.  The play is known from its advertising and published music, but survives only in earlier manuscript.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Tik-Tok_Man_of_Oz",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "two-s-company": {
+      "slug": "two-s-company",
+      "title": "Two's Company",
+      "qid": "Q1325870",
+      "enwiki": "Two's Company (musical)",
+      "composers": [
+        {
+          "name": "Vernon Duke",
+          "qid": "Q519693",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11610"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Sammy Cahn",
+          "qid": "Q470040",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11268"
+        },
+        {
+          "name": "Ogden Nash",
+          "qid": "Q719228",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7942"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8976",
+        "wikipedia": "https://en.wikipedia.org/wiki/Two's_Company_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1325870"
+      },
+      "summary": {
+        "text": "Two's Company is a musical revue with principal sketches by Charles Sherman and Peter DeVries, principal lyrics by Ogden Nash and Sammy Cahn, and principal music by Vernon Duke.\nThe evening consisted of a series of show business-themed comedy sketches and song-and-dance routines tailored for the talents of its centerpiece, Bette Davis, who accepted the challenge of an eight-shows-a-week schedule when good film roles failed to follow her triumph in All About Eve.\nThe out-of-town tryout opened at the Shubert Theatre in Detroit on October 19, 1952. In the middle of the third chorus of her first song, an overworked Davis collapsed. Revived by her then-husband Gary Merrill, she walked to the apron of the stage and with a smile commented to the audience, \"Well, you can't say I didn't fall for you!,\" winning over both them and the critics, whose reviews were kind. \nFrom there the show moved to Pittsburgh, where it was met with less enthusiasm, and the creative team began reshaping it on a nightly basis. By the time it reached Boston it was in serious trouble, and noted play doctor and Davis friend John Murray Anderson was called in for consultation. Roles were recast, sketches were eliminated and new ones added, and musical sequences were rearranged. Several songs were contributed by others, including Sheldon Harnick, and Horton Foote was among those who wrote additional sketch material.\nAmong the leading lady's characterizations were Tallulah Bankhead, Jeanne Eagels, an actress involved with an Italian director, a hillbilly singer on a television variety show, and a performer in parodies of plays by Noël Coward and Arthur Miller. \nWith Davis bedridden due to exhaustion, the Broadway opening, scheduled for December 4, was postponed. The revue, directed by Jules Dassin and choreographed by Jerome Robbins, finally opened on December 15, 1952 at the Alvin Theatre, where it ran for 90 performances. In addition to Davis, the cast included David Burns, Nora Kaye, George S. Irving, Maria Karnilova, Tina Louise, Ellen Hanley, Stanley Prager, and Hiram Sherman, who won the Tony Award for Best Featured Actor in a Musical. Additionally, Florence Baum (later Florence Brooks, Dunay, then Weisgal) danced in the show. She would later go on to marry EGOT winner Mel Brooks, and had three children with him.\nDespite mostly unfavorable notices, the show played to sold-out houses. Davis continued to suffer from fatigue, but doctors could find no physical cause. When a wisdom tooth became inflamed, it was discovered she was suffering from osteomyelitis of the jaw, which required immediate surgery. With no hope of Davis returning in the near future, the producers opted to close the show, but not before Bette Davis's understudy Lenore Korman took over the role. But the production ended up losing $320,000 of the investment. There is an undocumented rumor that Bette Davis wanted no part of this musical and she had from the very beginning found a woman in the singing ensemble who had a most fabulous voice, to eventually take over the role after Davis feigned all her illness. The star's rehabilitation ultimately kept her unemployed for the next three years. That also was an unverified ruse that held that Davis simply took a break.\nThe original cast recording is available on compact disc on the Sepia label.  The compact disc release includes six bonus tracks not on the original cast LP record.",
+        "source_url": "https://en.wikipedia.org/wiki/Two's_Company_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "unison": {
+      "slug": "unison",
+      "title": "UniSon",
+      "qid": "Q29344624",
+      "enwiki": "UniSon",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/UniSon",
+        "wikidata": "https://www.wikidata.org/wiki/Q29344624"
+      },
+      "summary": {
+        "text": "UNISON is a musical by UNIVERSES Theater (Mildred Ruiz-Sapp, Steven Sapp, William Ruiz), originally inspired by the poetry of August Wilson among others; commissioned and premiering at the Oregon Shakespeare Festival a.k.a. OSF (2017).\nUniSon was commissioned by the Oregon Shakespeare Festival (OSF) and premiered at OSF in April 2017. Robert O'Hara directed. His design team included Choreographer, Byron Easley; Scenic Designer, Christopher Acebo; Lighting Designer, Alex Jainchill; Video Designer, Kaitlyn Pietras; Composers, UNIVERSES with Broken Chord and Toshi Reagon. Dramaturgy by Joan Herrington.",
+        "source_url": "https://en.wikipedia.org/wiki/UniSon",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "valmouth": {
+      "slug": "valmouth",
+      "title": "Valmouth",
+      "qid": "Q55636922",
+      "enwiki": "Valmouth (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Valmouth_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q55636922"
+      },
+      "summary": {
+        "text": "Valmouth is a 1958 musical by Sandy Wilson based on the novel of the same name by Ronald Firbank.\nIt premiered in London at the Lyric Hammersmith, before transferring to the Saville Theatre.\nThe production was directed by Vida Hope. It made a star of Fenella Fielding as Lady Parvula de Panzoust.\nThe musical has since been staged several times including twice at the Chichester Festival Theatre and several cast album recordings have been released. The musical has also been performed on BBC Radio, first broadcast in 1975.",
+        "source_url": "https://en.wikipedia.org/wiki/Valmouth_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

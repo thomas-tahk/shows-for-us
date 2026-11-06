@@ -1,0 +1,852 @@
+{
+  "live": true,
+  "shows": {
+    "a-night-out": {
+      "slug": "a-night-out",
+      "title": "A Night Out",
+      "qid": "Q4658573",
+      "enwiki": "A Night Out (musical)",
+      "composers": [
+        {
+          "name": "Cole Porter",
+          "qid": "Q215120",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12257"
+        },
+        {
+          "name": "Willy Redstone",
+          "qid": "Q91663303"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Clifford Grey",
+          "qid": "Q1101276",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4882"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "George Grossmith Jr.",
+          "qid": "Q3101618",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5814"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Night_Out_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4658573"
+      },
+      "summary": {
+        "text": "A Night Out is a musical comedy with a book by George Grossmith, Jr. and Arthur Miller, music by Willie Redstone and Cole Porter and lyrics by Clifford Grey.  The story is adapted from the 1894 French comedy L'Hôtel du libre échange by Georges Feydeau and Maurice Desvallières.  The sculptor Pinglet gets an evening away from his domineering wife and dines with the attractive Marcelle Delavaux.  After a series of coincidences and mix-ups, he manages the deception without suffering any adverse consequences.\nThe musical was presented with success at the Winter Garden Theatre, London, from 1920 to 1921 and then toured in Britain.",
+        "source_url": "https://en.wikipedia.org/wiki/A_Night_Out_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "a-trip-to-coontown": {
+      "slug": "a-trip-to-coontown",
+      "title": "A Trip to Coontown",
+      "qid": "Q108178969",
+      "enwiki": "A Trip to Coontown",
+      "composers": [
+        {
+          "name": "Billy Johnson",
+          "qid": "Q129255922"
+        },
+        {
+          "name": "Bob Cole",
+          "qid": "Q4932103",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/103096"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Trip_to_Coontown",
+        "wikidata": "https://www.wikidata.org/wiki/Q108178969"
+      },
+      "summary": {
+        "text": "A Trip to Coontown is an American musical comedy. It was performed, directed, and produced by African Americans. It was written and performed in by Bob Cole and Billy Johnson. and debuted it New Jersey in 1897 before touring in the U.S. and internationally. Its New York City debut was at the Third Avenue Theatre on April 4, 1898.\nThe musical was a reworking of Cole and Johnson's skit \"At Jolly Coon-ey Island\" which was written by Cole for an operatic variety company called Black Patti’s Troubadours (formed by Sissieretta Jones). A Trip to Coontown spoofed the popular musical A Trip to Chinatown (1891).\nIn the early 20th century the musical was staged in European cities.",
+        "source_url": "https://en.wikipedia.org/wiki/A_Trip_to_Coontown",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "connect-disconnect": {
+      "slug": "connect-disconnect",
+      "title": "Connect/Disconnect",
+      "qid": "Q5161364",
+      "enwiki": "Connect/Disconnect",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Connect%2FDisconnect",
+        "wikidata": "https://www.wikidata.org/wiki/Q5161364"
+      },
+      "summary": {
+        "text": "Connect/Disconnect (Swedish title Kontaktannonsen) is a one-act musical written by Ola Hörling (book and lyrics) and Jan-Erik Sääf (music and lyrics), which received its premiere in 1996 at Artisten in Gothenburg, Sweden. Since then it has toured in Sweden, Denmark and Finland and has been translated and adapted and a second act added by Sääf and Owen Robertson, in which form it has played in London and at the June Havoc Theatre in New York City in July 2009 as part of the Midtown International Theatre Festival, directed by Rick Jacobs and produced by Jacobs and Robert Greer.",
+        "source_url": "https://en.wikipedia.org/wiki/Connect%2FDisconnect",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "grona-hund": {
+      "slug": "grona-hund",
+      "title": "Gröna hund",
+      "qid": "Q5612859",
+      "enwiki": "Gröna hund",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Gr%C3%B6na_hund",
+        "wikidata": "https://www.wikidata.org/wiki/Q5612859"
+      },
+      "summary": {
+        "text": "Gröna hund, complete title Gröna Hund på Gröna Lund (Green Dog on Gröna Lund, also a reference to \"Röda hund\", literally \"Red dog\", but also Swedish for \"rubella\"), was the first variety show produced by AB Svenska Ord. After that the writers/actors Hans Alfredsson and Tage Danielsson became known as Hasseåtage. \nThe show premièred on 27 April 1962 on Gröna Lund in Stockholm. It also made a few performances in Gothenburg, Malmö, and Oslo.",
+        "source_url": "https://en.wikipedia.org/wiki/Gr%C3%B6na_hund",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "high-spirits": {
+      "slug": "high-spirits",
+      "title": "High Spirits",
+      "qid": "Q5757085",
+      "enwiki": "High Spirits (musical)",
+      "composers": [
+        {
+          "name": "Hugh Martin",
+          "qid": "Q5931668",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13678"
+        },
+        {
+          "name": "Timothy Gray",
+          "qid": "Q7807224",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8892"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Hugh Martin",
+          "qid": "Q5931668",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13678"
+        },
+        {
+          "name": "Timothy Gray",
+          "qid": "Q7807224",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8892"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Hugh Martin",
+          "qid": "Q5931668",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13678"
+        },
+        {
+          "name": "Timothy Gray",
+          "qid": "Q7807224",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8892"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4393",
+        "wikipedia": "https://en.wikipedia.org/wiki/High_Spirits_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5757085"
+      },
+      "summary": {
+        "text": "High Spirits is a musical with a book, lyrics, and music by Hugh Martin and Timothy Gray, based on the play Blithe Spirit by Noël Coward, about a man coping with the ghost of his dead wife.\nMartin and Gray adhered closely to Coward's original text, while expanding the medium's character to the star role, initially calling the show Faster Than Sound. The playwright was delighted with their adaptation and agreed to direct it himself.",
+        "source_url": "https://en.wikipedia.org/wiki/High_Spirits_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "hit-the-deck": {
+      "slug": "hit-the-deck",
+      "title": "Hit the Deck",
+      "qid": "Q5871540",
+      "enwiki": "Hit the Deck (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4429",
+        "wikipedia": "https://en.wikipedia.org/wiki/Hit_the_Deck_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5871540"
+      },
+      "summary": {
+        "text": "Hit the Deck is a musical with music by Vincent Youmans, lyrics by Clifford Grey and Leo Robin and book by Herbert Fields. It was based on the 1922 play Shore Leave by Hubert Osborne. The title refers to a nautical slang term that means to prepare for action (general) or to drop to a prone position on the ground (as a defensive response to hostile fire). The musical is set in China and Newport, Rhode Island, and on a ship traveling between the two locations.\nThe original production was staged at the Belasco Theatre on Broadway, opening on April 25, 1927, and running for 352 performances. Charles King played Bilge and Louise Groody played Loulou. The show's co-producers were Youmans and Lew Fields, and Lew Fields co-directed with Alexander Leftwich. The production ran for 352 performances.\nThe first London production opened at the Hippodrome on July 3, 1927 and ran for 277 performances. It starred Stanley Holloway. In The Manchester Guardian, Ivor Brown praised Holloway for a singing style \"which coaxes the ear rather than clubbing the head.\"",
+        "source_url": "https://en.wikipedia.org/wiki/Hit_the_Deck_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "in-the-green": {
+      "slug": "in-the-green",
+      "title": "In the Green",
+      "qid": "Q104792060",
+      "enwiki": "In the Green",
+      "composers": [
+        {
+          "name": "Grace McLean",
+          "qid": "Q65926767",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/506432"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Grace McLean",
+          "qid": "Q65926767",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/506432"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Grace McLean",
+          "qid": "Q65926767",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/506432"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Richard Rodgers Awards for Musical Theatre",
+          "qid": "Q85797168"
+        }
+      ],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/In_the_Green",
+        "wikidata": "https://www.wikidata.org/wiki/Q104792060"
+      },
+      "summary": {
+        "text": "In the Green is a one-act musical with a book, music, and lyrics by Grace McLean. The show tells the story of medieval composer, mystic, scientist, and Catholic saint Hildegard von Bingen “on her path to sainthood from childhood,” primarily depicting the thirty years she spent locked up in a cell with her mentor, the anchoress Jutta von Sponheim.\nThe show was commissioned by LCT3 as part of Grace McLean's artist in residency series. The Off-Broadway production premiered at the Claire Tow Theater with previews starting on June 8, 2019, with an official opening date of June 27, 2019 and ran until August 4, 2019. The production was directed by Lee Sunday Evans, with orchestrations by McLean and Kris Kukul, and music direction by Ada Westfall.\nIn the Green won the Richard Rodgers Award for Musical Theater and was nominated for seven Lucille Lortel Awards, with Grace McLean winning Best Actress in a Musical for her role as Jutta.",
+        "source_url": "https://en.wikipedia.org/wiki/In_the_Green",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "jo": {
+      "slug": "jo",
+      "title": "Jo",
+      "qid": "Q134179075",
+      "enwiki": "Jo (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Jo_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q134179075"
+      },
+      "summary": {
+        "text": "Jo – the Little Women Musical is a musical with music by Dan Redfeld and book and lyrics by Christina Harding and John Gabriel Koladziej. The show focuses on Jo March, a central character from Louisa May Alcott's novel Little Women, and her hope to be a voice of her generation, after the passing of her sister Beth.",
+        "source_url": "https://en.wikipedia.org/wiki/Jo_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "kathy-and-stella-solve-a-murder": {
+      "slug": "kathy-and-stella-solve-a-murder",
+      "title": "Kathy and Stella Solve a Murder!",
+      "qid": "Q127377690",
+      "enwiki": "Kathy and Stella Solve a Murder!",
+      "composers": [
+        {
+          "name": "Matthew Floyd Jones",
+          "qid": "Q131178518"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Jon Brittain",
+          "qid": "Q22277175"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Kathy_and_Stella_Solve_a_Murder!",
+        "wikidata": "https://www.wikidata.org/wiki/Q127377690"
+      },
+      "summary": {
+        "text": "Kathy & Stella Solve a Murder! is a murder mystery comedy musical about two true crime podcasters who are thrust into a thrilling whodunnit of their own. The show was written by Jon Brittain (book and lyrics) and Matthew Floyd Jones (music and lyrics), and developed by producer Francesca Moody.\nKathy & Stella opened at the Ambassadors Theatre in London's West End in May 2024.",
+        "source_url": "https://en.wikipedia.org/wiki/Kathy_and_Stella_Solve_a_Murder!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "king-cotton": {
+      "slug": "king-cotton",
+      "title": "King Cotton",
+      "qid": "Q6411369",
+      "enwiki": "King Cotton (play)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/King_Cotton_(play)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6411369"
+      },
+      "summary": {
+        "text": "King Cotton was a specially commissioned musical written by Jimmy McGovern and directed by Jude Kelly,  based on an idea by Ian Brownbill and designed by Ti Green.\nThe piece was co-commissioned by The Lowry and the Liverpool Culture Company to mark \"Liverpool 08\" and the bicentenary of the Abolition of the Slave Trade Act. The project was supported by Arts Council England, the PRS Foundation and the Liverpool Empire Theatre.\nThe production is set in the Lancashire Cotton Famine and links with the American Civil War. King Cotton is the epic story of Tom, an impoverished mill-worker from the north-west of England, and Sokoto, a black slave from an American cotton plantation. Both are searching for their own freedom, but neither imagines that this journey will bring them together with such devastating consequences. The play is set to a moving live score of brass band music, provided by Ashton Under Lyne Brass Band and traditional spiritual music.\nThe play starred John Henshaw, Israel Oyelumade, Paul Anderson and Cornelius Macarthy opened at The Lowry, Salford, United Kingdom, on 12 September 2007, before moving to the Liverpool Empire Theatre from 25 September 2007.",
+        "source_url": "https://en.wikipedia.org/wiki/King_Cotton_(play)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "kristina-fran-duvemala": {
+      "slug": "kristina-fran-duvemala",
+      "title": "Kristina från Duvemåla",
+      "qid": "Q142885",
+      "enwiki": "Kristina från Duvemåla",
+      "composers": [
+        {
+          "name": "Benny Andersson",
+          "qid": "Q214582",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11314"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Björn Ulvaeus",
+          "qid": "Q179682",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12514"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Björn Ulvaeus",
+          "qid": "Q179682",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12514"
+        }
+      ],
+      "premiere": {
+        "date": "1995-10-07",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Kristina_fr%C3%A5n_Duvem%C3%A5la",
+        "wikidata": "https://www.wikidata.org/wiki/Q142885"
+      },
+      "summary": {
+        "text": "Kristina från Duvemåla (\"Kristina from Duvemåla\") is a Swedish musical written by former ABBA members Björn Ulvaeus (lyrics) and Benny Andersson (music). It is based on The Emigrants saga, a series of four novels by Swedish author Vilhelm Moberg detailing a family's poverty-driven migration from Sweden to America in the mid-19th century: The Emigrants (1949), Unto a Good Land (1952), The Settlers (1956), and The Last Letter Home (1959).",
+        "source_url": "https://en.wikipedia.org/wiki/Kristina_fr%C3%A5n_Duvem%C3%A5la",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "leap-of-faith": {
+      "slug": "leap-of-faith",
+      "title": "Leap of Faith",
+      "qid": "Q6509938",
+      "enwiki": "Leap of Faith (musical)",
+      "composers": [
+        {
+          "name": "Alan Menken",
+          "qid": "Q317272",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12135"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Glenn Slater",
+          "qid": "Q3427403",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/80644"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Janus Cercone",
+          "qid": "Q6155945",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/91494"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/491631",
+        "wikipedia": "https://en.wikipedia.org/wiki/Leap_of_Faith_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6509938"
+      },
+      "summary": {
+        "text": "Leap of Faith is a stage musical based on the 1992 American movie of the same name, which starred Steve Martin. The music is by Alan Menken, with lyrics by Glenn Slater and a book by Janus Cercone and Warren Leight about a con man posing as a man of faith, who is redeemed by the love of a good woman.\nThe musical premiered in September 2010 in Los Angeles for a limited run through October, directed and choreographed by Rob Ashford. The musical opened on Broadway in April 2012.",
+        "source_url": "https://en.wikipedia.org/wiki/Leap_of_Faith_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "let-s-face-it": {
+      "slug": "let-s-face-it",
+      "title": "Let's Face It!",
+      "qid": "Q6532313",
+      "enwiki": "Let's Face It!",
+      "composers": [
+        {
+          "name": "Cole Porter",
+          "qid": "Q215120",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12257"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Herbert Fields",
+          "qid": "Q1608254",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11265"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5351",
+        "wikipedia": "https://en.wikipedia.org/wiki/Let's_Face_It!",
+        "wikidata": "https://www.wikidata.org/wiki/Q6532313"
+      },
+      "summary": {
+        "text": "Let's Face It! is a musical with music and lyrics by Cole Porter. The book by Herbert and Dorothy Fields is based on the 1925 play The Cradle Snatchers by Russell Medcraft and Norma Mitchell.\nThe 1941 Broadway and 1942 West End productions were successful, and a film version was released in 1943.",
+        "source_url": "https://en.wikipedia.org/wiki/Let's_Face_It!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "little-shop-of-horrors": {
+      "slug": "little-shop-of-horrors",
+      "title": "Little Shop of Horrors",
+      "qid": "Q1199246",
+      "enwiki": "Little Shop of Horrors (musical)",
+      "composers": [
+        {
+          "name": "Alan Menken",
+          "qid": "Q317272",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12135"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Howard Ashman",
+          "qid": "Q1334295",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6356"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Howard Ashman",
+          "qid": "Q1334295",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6356"
+        }
+      ],
+      "premiere": {
+        "date": "1982-05-06",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/11223",
+        "wikipedia": "https://en.wikipedia.org/wiki/Little_Shop_of_Horrors_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1199246"
+      },
+      "summary": {
+        "text": "Little Shop of Horrors is a horror comedy rock musical with music by Alan Menken and lyrics and a book by Howard Ashman. The story follows a hapless florist shop worker who raises a plant that feeds on human blood and flesh. The musical is loosely based on the low-budget 1960 black comedy film The Little Shop of Horrors. Menken's score features early 1960s-style rock and roll, doo-wop and early Motown.\nThe musical premiered off-off-Broadway in 1982 before moving to the Orpheum Theatre off-Broadway, where it had a five-year run. It later received numerous productions in the U.S. and abroad, and a subsequent Broadway production. In part because of its small cast, it has become popular with school and other amateur theatre groups. The musical was also made into a 1986 film of the same name, directed by Frank Oz.",
+        "source_url": "https://en.wikipedia.org/wiki/Little_Shop_of_Horrors_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "matilda-the-musical": {
+      "slug": "matilda-the-musical",
+      "title": "Matilda the Musical",
+      "qid": "Q1407282",
+      "enwiki": "Matilda the Musical",
+      "composers": [
+        {
+          "name": "Tim Minchin",
+          "qid": "Q23527",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/493197"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Dennis Kelly",
+          "qid": "Q1189253",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/73661"
+        }
+      ],
+      "premiere": {
+        "date": "2011-11-24",
+        "venue": "Courtyard Theatre"
+      },
+      "awards": [
+        {
+          "name": "Laurence Olivier Awards",
+          "qid": "Q28470"
+        }
+      ],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/493193",
+        "official_site": "https://www.matildathemusical.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Matilda_the_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q1407282"
+      },
+      "summary": {
+        "text": "Roald Dahl's Matilda, also known simply as Matilda and Matilda the Musical, is a musical with music and lyrics by Tim Minchin and a book by Dennis Kelly. It is based on the 1988 novel Matilda by Roald Dahl. The musical's narrative centres on Matilda Wormwood, a precocious five-year-old girl with the gift of telekinesis, who loves reading, overcomes obstacles caused by her family and school, and helps her teacher to reclaim her life. After a twelve-week trial run staged by the Royal Shakespeare Company (RSC) at Stratford-upon-Avon from November 2010 to January 2011, it received its West End premiere on 24 November 2011 at the Cambridge Theatre and its Broadway premiere on 11 April 2013 at the Shubert Theatre.\nMatilda the Musical has received widespread critical acclaim and box-office popularity, winning seven 2012 Olivier Awards, including Best New Musical—at the time, the highest number of such awards ever won by a single show. Cleo Demetriou, Kerry Ingram, Eleanor Worthington-Cox and Sophia Kiely shared a Laurence Olivier Award for Best Actress in a Leading Role in a Musical. Ten-year-old Worthington-Cox became the youngest winner of the award in any category. At the 2013 Tony Awards, the show won five awards, including the Tony Award for Best Book of a Musical for Dennis Kelly.\nA film adaptation was released on 25 November 2022 in the United Kingdom by TriStar Pictures, followed by the United States on 25 December 2022 on Netflix.",
+        "source_url": "https://en.wikipedia.org/wiki/Matilda_the_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "meet-me-in-st-louis": {
+      "slug": "meet-me-in-st-louis",
+      "title": "Meet Me in St. Louis",
+      "qid": "Q6807778",
+      "enwiki": "Meet Me in St. Louis (musical)",
+      "composers": [
+        {
+          "name": "Hugh Martin",
+          "qid": "Q5931668",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13678"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Hugh Wheeler",
+          "qid": "Q5171067",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6402"
+        }
+      ],
+      "premiere": {
+        "date": "1989-11-02",
+        "venue": "Gershwin Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5993",
+        "playbill": "https://playbill.com/production/meet-me-in-st-louis-george-gershwin-theatre-vault-0000011042",
+        "wikipedia": "https://en.wikipedia.org/wiki/Meet_Me_in_St._Louis_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6807778"
+      },
+      "summary": {
+        "text": "Meet Me in St. Louis is a 1989 musical based on the 1944 film of the same name, which in turn is based on the 1942 novel of the same name by Sally Benson. The musical is about a wealthy lawyer's large family and household living in St. Louis, Missouri in a Victorian era style mansion and their excitement and anticipation of the family and the city on the eve of the 1904 World's Fair. (a.k.a. the Louisiana Purchase Exposition) celebrating the centennial of the Louisiana Purchase from France and Spain. As the year progresses leading up to the fair's opening, the family is distraught and upset over father's proposed promotion and move east to bigger New York City leaving behind all their friends and familiar surroundings.\nThe later musical varied from the earlier film with additional songs and some additional character development; the focus is not primarily on the character of Esther, as in the film. The musical play ran on Broadway in New York City in 1989, 45 years after the famous 1944 musical feature film starring Judy Garland. It was revived to be performed again Off-Broadway in 2004, / 2006 another 15 years later. Interest and audience continued in its hometown of St. Louis in 2009 followed by a leap across the Atlantic Ocean to London in England by 2013.",
+        "source_url": "https://en.wikipedia.org/wiki/Meet_Me_in_St._Louis_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "silk-stockings": {
+      "slug": "silk-stockings",
+      "title": "Silk Stockings",
+      "qid": "Q2286134",
+      "enwiki": "Silk Stockings",
+      "composers": [
+        {
+          "name": "Cole Porter",
+          "qid": "Q215120",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12257"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Cole Porter",
+          "qid": "Q215120",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12257"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "George S. Kaufman",
+          "qid": "Q163662",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5827"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8011",
+        "wikipedia": "https://en.wikipedia.org/wiki/Silk_Stockings",
+        "wikidata": "https://www.wikidata.org/wiki/Q2286134"
+      },
+      "summary": {
+        "text": "Silk Stockings is a musical with a book by George S. Kaufman, Leueen MacGrath, and Abe Burrows and music and lyrics by Cole Porter. The musical is loosely based on the Melchior Lengyel story Ninotchka and the 1939 film adaptation it inspired. It ran on Broadway in 1955. This was the last musical that Porter wrote for the stage.",
+        "source_url": "https://en.wikipedia.org/wiki/Silk_Stockings",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "spamilton": {
+      "slug": "spamilton",
+      "title": "Spamilton",
+      "qid": "Q29832209",
+      "enwiki": "Spamilton",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Spamilton",
+        "wikidata": "https://www.wikidata.org/wiki/Q29832209"
+      },
+      "summary": {
+        "text": "Spamilton: An American Parody is a musical parody of the Broadway show Hamilton. Written by Gerard Alessandrini, creator of the parody revue Forbidden Broadway, Spamilton also parodies several other musicals, including Gypsy, Chicago, The King and I, Assassins, Camelot, The Book of Mormon and Sweeney Todd, and personalities, like Patti LuPone, Audra McDonald, Stephen Sondheim, Stephen Schwartz, Barbra Streisand, Bernadette Peters, Carol Channing and Liza Minnelli.\nThe show, directed by Alessandrini, had its first preview on July 19, 2016, and opened on September 8, 2016, at New York's Triad Theatre. Originally scheduled to run 18 performances, it was extended at the Triad until May 28, 2017. It moved on June 2, 2017, to the 47th Street Theatre, near the Richard Rodgers Theatre where Hamilton is presented. The production ran into 2018.\nA Chicago production of Spamilton opened at the Royal George Theatre on March 12, 2017. A production ran at the Kirk Douglas Theatre in Culver City from November 5, 2017, to January 7, 2018, shortly before a national tour. US tours continued into 2024.\nA production played in London at the Menier Chocolate Factory running from July 24 (previews from July 12) to September 15, 2018.",
+        "source_url": "https://en.wikipedia.org/wiki/Spamilton",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-belle-of-new-york": {
+      "slug": "the-belle-of-new-york",
+      "title": "The Belle of New York",
+      "qid": "Q7716424",
+      "enwiki": "The Belle of New York (musical)",
+      "composers": [
+        {
+          "name": "Gustave Kerker",
+          "qid": "Q113876",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11994"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "C. M. S. McLellan",
+          "qid": "Q5006692",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6397"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "C. M. S. McLellan",
+          "qid": "Q5006692",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6397"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/9300",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Belle_of_New_York_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7716424"
+      },
+      "summary": {
+        "text": "The Belle of New York is a musical comedy in two acts, with book and lyrics by Hugh Morton and music by Gustave Kerker, about a Salvation Army girl who reforms a spendthrift, makes a great sacrifice and finds true love.\nOpening on Broadway at the Casino Theatre on 28 September 1897, it ran for only 64 performances. After a more encouraging American tour, it subsequently transferred to London at what was then called the Shaftesbury Theatre in 1898, where it was a major success, running for an almost unprecedented 674 performances, and became the first American musical to run for over a year in the West End. The Standard stated that the entire Broadway cast \"numbering sixty-three persons\" was brought over to London, \"the largest stage troupe from the other side of the Atlantic that has ever professionally visited this country.\" The uniquely American plot and quirky characters were viewed as refreshing by London critics.\nThe show starred Edna May, whose performance as Violet made her a star in New York and London. Postcards of her in costume became ubiquitous; more photographs of her were sold in London than of any other actress in 1898. In London, the piece opened on 12 April 1898, produced by J. C. Williamson and George Musgrove. The composer conducted at the opening night. Painter Ernest Albert designed the production's sets. The work had stiff competition in London in 1898, as other successful openings included A Greek Slave and A Runaway Girl.\nLong runs in Paris, Berlin and elsewhere followed, and there were nine West End revivals over the next four decades. The musical was also produced regularly by amateur groups from 1920 until about 1975. Two film versions were made, in 1919 with Marion Davies, Etienne Girardot and L. Rogers Lytton, and in 1952 with Fred Astaire, Vera-Ellen, Marjorie Main and Keenan Wynn that replaced the original songs with a score by Johnny Mercer and Harry Warren.\nIn 1921, a rewritten version of the musical called The Whirl of New York premiered on Broadway.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Belle_of_New_York_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-times-they-are-a-changin": {
+      "slug": "the-times-they-are-a-changin",
+      "title": "The Times They Are a-Changin'",
+      "qid": "Q7769408",
+      "enwiki": "The Times They Are a-Changin' (musical)",
+      "composers": [
+        {
+          "name": "Bob Dylan",
+          "qid": "Q392",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/84040"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Bob Dylan",
+          "qid": "Q392",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/84040"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": "2006-10-26",
+        "venue": "Lena Horne Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/423559",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Times_They_Are_a-Changin'_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7769408"
+      },
+      "summary": {
+        "text": "The Times They Are a-Changin' was a 2006 dance musical featuring the songs of Bob Dylan, conceived, directed and choreographed by Twyla Tharp.\nThe show takes place in a setting described as \"somewhere between awake and asleep,\" a dreamlike circus environment in which a coming-of-age conflict between a tyrannical circus master, Captain Ahrab, his idealistic son, Coyote, and a circus performer, Cleo, is told among a choreographed world of clowns, contortionists and Big Tops.\nPremiering in San Diego in February 2006, the show eventually moved to Broadway, opening on October 26, 2006. The show received uniformly negative reviews, and closed on November 19, 2006 after 35 previews and 28 performances.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Times_They_Are_a-Changin'_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "tootsie": {
+      "slug": "tootsie",
+      "title": "Tootsie",
+      "qid": "Q55636030",
+      "enwiki": "Tootsie (musical)",
+      "composers": [
+        {
+          "name": "David Yazbek",
+          "qid": "Q5241354",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/75798"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "David Yazbek",
+          "qid": "Q5241354",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/75798"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Robert Horn",
+          "qid": "Q22101589",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/391751"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": "Cadillac Palace Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/519385",
+        "wikipedia": "https://en.wikipedia.org/wiki/Tootsie_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q55636030"
+      },
+      "summary": {
+        "text": "Tootsie is a musical comedy with music and lyrics by David Yazbek and a book by Robert Horn. The musical is based on the 1982 American comedy film of the same name written by Larry Gelbart, Murray Schisgal, and Don McGuire. The musical made its world premiere try-out at the Cadillac Palace Theatre in Chicago in September 2018. Like the film, the musical tells the story of a talented but volatile actor whose reputation for being difficult forces him to adopt a new identity as a woman in order to land a job. The original movie revolved around a daytime soap opera, while the show involves a Broadway musical.",
+        "source_url": "https://en.wikipedia.org/wiki/Tootsie_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "your-lie-in-april": {
+      "slug": "your-lie-in-april",
+      "title": "Your Lie in April",
+      "qid": "Q123944284",
+      "enwiki": "Your Lie in April (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Your_Lie_in_April_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q123944284"
+      },
+      "summary": {
+        "text": "Your Lie in April is a musical based on the manga series Your Lie in April written and illustrated by Naoshi Arakawa. The show features a score with music by Broadway composer Frank Wildhorn and lyrics by Tracy Miller and Carly Robyn Green, a Japanese book by Riko Sakaguchi, an English-language book by Rinne B. Groff, and arrangements and orchestrations by Jason Howland. The show is a co-production between Toho Co. Ltd. and Fuji Television.",
+        "source_url": "https://en.wikipedia.org/wiki/Your_Lie_in_April_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "your-own-thing": {
+      "slug": "your-own-thing",
+      "title": "Your Own Thing",
+      "qid": "Q8058908",
+      "enwiki": "Your Own Thing",
+      "composers": [
+        {
+          "name": "Danny Apolinar",
+          "qid": "Q131718245"
+        },
+        {
+          "name": "Hal Hester",
+          "qid": "Q134112988"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Danny Apolinar",
+          "qid": "Q131718245"
+        },
+        {
+          "name": "Hal Hester",
+          "qid": "Q134112988"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Donald Driver",
+          "qid": "Q1093571"
+        }
+      ],
+      "premiere": {
+        "date": "1968",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Your_Own_Thing",
+        "wikidata": "https://www.wikidata.org/wiki/Q8058908"
+      },
+      "summary": {
+        "text": "Your Own Thing is a rock-styled musical comedy loosely based on Twelfth Night by William Shakespeare. It premiered off-Broadway in early 1968. The music and lyrics are by Hal Hester and Danny Apolinar  with the book adaptation by Donald Driver, who also directed the original production. Dorothy Love was the show's producer. The show was a success, running for 937 performances Off-Broadway and then touring and playing in London and Australia.. The phrase “doing your own thing,” popularised in the 1960s, continues to be used in contemporary culture and marketing, including in campaigns such as BRITA’s “Own Your Thing,” which emphasises hydration, individuality and everyday lifestyle choices..",
+        "source_url": "https://en.wikipedia.org/wiki/Your_Own_Thing",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

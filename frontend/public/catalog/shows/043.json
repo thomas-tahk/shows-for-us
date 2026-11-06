@@ -1,0 +1,751 @@
+{
+  "live": true,
+  "shows": {
+    "42nd-street": {
+      "slug": "42nd-street",
+      "title": "42nd Street",
+      "qid": "Q233773",
+      "enwiki": "42nd Street (musical)",
+      "composers": [
+        {
+          "name": "Harry Warren",
+          "qid": "Q938810",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12549"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Al Dubin",
+          "qid": "Q180899",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12855"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Michael Stewart",
+          "qid": "Q6834631",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7748"
+        }
+      ],
+      "premiere": {
+        "date": "1980-08-25",
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Laurence Olivier Awards",
+          "qid": "Q28470"
+        }
+      ],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1027",
+        "wikipedia": "https://en.wikipedia.org/wiki/42nd_Street_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q233773"
+      },
+      "summary": {
+        "text": "42nd Street is a 1980 stage musical with a book by Michael Stewart and Mark Bramble, lyrics by Al Dubin and Johnny Mercer and music by Harry Warren. The 1980 Broadway production won the Tony Awards for Best Musical and Best Choreography and it became a long-running hit. The show was also produced in London in 1984 (winning the Olivier Award for Best Musical) and its 2001 Broadway revival won the Tony Award for Best Revival.\nBased on the 1932 novel by Bradford Ropes and the subsequent 1933 Hollywood film adaptation, this backstage musical follows the rehearsal process of a Broadway show staged during the height of the Great Depression.\nThe show is a jukebox musical of sorts, in that, in addition to songs from the 1933 film 42nd Street, it includes songs that Dubin and Warren wrote for many other films at around the same time, including Gold Diggers of 1933, Roman Scandals, Dames, Gold Diggers of 1935, Go into Your Dance, Gold Diggers of 1937 and The Singing Marine. It also includes \"There's a Sunny Side to Every Situation\", written by Warren and Johnny Mercer for Hard to Get. A 2017 revival added the song \"Boulevard of Broken Dreams\", written by Warren and Dubin for Moulin Rouge.",
+        "source_url": "https://en.wikipedia.org/wiki/42nd_Street_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "a-party-with-betty-comden-and-adolph-green": {
+      "slug": "a-party-with-betty-comden-and-adolph-green",
+      "title": "A Party with Betty Comden and Adolph Green",
+      "qid": "Q4658713",
+      "enwiki": "A Party with Betty Comden and Adolph Green",
+      "composers": [
+        {
+          "name": "Leonard Bernstein",
+          "qid": "Q152505",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7257"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Betty Comden",
+          "qid": "Q175078",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4525"
+        },
+        {
+          "name": "Adolph Green",
+          "qid": "Q329849",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/3911"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1229",
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Party_with_Betty_Comden_and_Adolph_Green",
+        "wikidata": "https://www.wikidata.org/wiki/Q4658713"
+      },
+      "summary": {
+        "text": "A Party with Betty Comden and Adolph Green is a musical revue with a book and lyrics by Betty Comden and Adolph Green and music by Leonard Bernstein, Jule Styne, André Previn, Saul Chaplin, and Roger Edens.\nThe performance was composed of material written by Comden and Green for stage shows, films, and their former comedy troupe The Revuers.\nComden and Green originally performed the revue A Party Off-Broadway at the Cherry Lane Theatre for 5 performances in November 1958.\nThe revue was then produced on Broadway by the Theatre Guild, opening on December 23, 1958, at the John Golden Theatre, where it closed on May 23, 1959, after 82 performances. It won the Obie Award for Best Musical  An original cast recording was released by Capitol Records (LP# SWAO-1197).\nAfter four previews, a revival opened on Broadway on February 10, 1977, at the Morosco Theatre, where it remained for six weeks before transferring to the Little Theatre to complete its 92-performance run on April 30, 1977. This production included material written since the original 1958 show, including Do Re Mi and Subways Are For Sleeping. The duo then took the show on tour, starting in Washington, DC. A revival cast album was recorded live at the Arena Theatre in Washington, D.C. was released by DRG.",
+        "source_url": "https://en.wikipedia.org/wiki/A_Party_with_Betty_Comden_and_Adolph_Green",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "between-the-lines": {
+      "slug": "between-the-lines",
+      "title": "Between the Lines",
+      "qid": "Q114352458",
+      "enwiki": "Between the Lines (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Between_the_Lines_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q114352458"
+      },
+      "summary": {
+        "text": "Between the Lines is a musical based on the novel of the same name, written by Jodi Picoult, with music and lyrics by Elyssa Samsel and Kate Anderson, and a book by Timothy Allen McDonald. The musical follows 17-year-old Delilah as she struggles to balance fitting in at her new school and a romance with a prince who is another world away.",
+        "source_url": "https://en.wikipedia.org/wiki/Between_the_Lines_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "charlie-and-the-chocolate-factory": {
+      "slug": "charlie-and-the-chocolate-factory",
+      "title": "Charlie and the Chocolate Factory",
+      "qid": "Q5085750",
+      "enwiki": "Charlie and the Chocolate Factory (musical)",
+      "composers": [
+        {
+          "name": "Marc Shaiman",
+          "qid": "Q979312",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/75368"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Scott Wittman",
+          "qid": "Q4022358",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/16532"
+        },
+        {
+          "name": "Marc Shaiman",
+          "qid": "Q979312",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/75368"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "David Greig",
+          "qid": "Q726345",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/509570"
+        }
+      ],
+      "premiere": {
+        "date": "2013-06-25",
+        "venue": "The Theatre Royal"
+      },
+      "awards": [
+        {
+          "name": "Laurence Olivier Award for Best Costume Design",
+          "qid": "Q6500778"
+        },
+        {
+          "name": "Laurence Olivier Award for Best Lighting Design",
+          "qid": "Q6500787"
+        }
+      ],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/509566",
+        "official_site": "http://www.charlieandthechocolatefactory.co.uk/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Charlie_and_the_Chocolate_Factory_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5085750"
+      },
+      "summary": {
+        "text": "Charlie and the Chocolate Factory is a musical based on the 1964 children's novel by Roald Dahl, with book by David Greig, music by Marc Shaiman and lyrics by Shaiman and Scott Wittman, with original songs from the 1971 film Willy Wonka & the Chocolate Factory by Leslie Bricusse and Anthony Newley.\nDirected by Sam Mendes, the musical premiered in the West End at the Theatre Royal Drury Lane in June 2013 and ran for 3 years and 7 months before closing on 7 January 2017. In 2013 the production broke the record for weekly ticket sales in London. While receiving mixed reviews from critics, the show won two Laurence Olivier Awards in 2014 for Best Costume Design and Best Lighting Design. The show was reworked for a Broadway production opening in April 2017 at the Lunt-Fontanne Theatre and ran almost nine months before closing in January 2018. A U.S. tour opened 21 September 2018 at Shea's Performing Arts Center in Buffalo, New York and an Australian tour at Capitol Theatre on 11 January 2019. A second U.S. tour launched on 1 January 2020 in Miami, Florida. The Broadway version of the musical has been acquired for licensing rights in North America, Europe and Australia by Music Theatre International.",
+        "source_url": "https://en.wikipedia.org/wiki/Charlie_and_the_Chocolate_Factory_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "elixier": {
+      "slug": "elixier",
+      "title": "Elixier",
+      "qid": "Q5362027",
+      "enwiki": "Elixier",
+      "composers": [
+        {
+          "name": "Tobias Künzel",
+          "qid": "Q119976"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Kati Naumann",
+          "qid": "Q19965153"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Elixier",
+        "wikidata": "https://www.wikidata.org/wiki/Q5362027"
+      },
+      "summary": {
+        "text": "Elixier is a German musical that premiered in 1997 in Leipzig, Germany under the direction of Horst Königstein. The music was written by Tobias Künzel and Wolfgang Lenk (Die Prinzen), with lyrics by Kati Naumann.",
+        "source_url": "https://en.wikipedia.org/wiki/Elixier",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "fancy-nancy-the-musical": {
+      "slug": "fancy-nancy-the-musical",
+      "title": "Fancy Nancy the Musical",
+      "qid": "Q5433698",
+      "enwiki": "Fancy Nancy the Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "http://fancy-nancy-the-musical.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Fancy_Nancy_the_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q5433698"
+      },
+      "summary": {
+        "text": "Fancy Nancy The Musical is an American musical with book and lyrics by Susan DiLallo, and music and lyrics by Danny Abosch. It is based on Fancy Nancy and the Mermaid Ballet, part of the popular Fancy Nancy book series by Jane O'Connor, illustrated by Robin Preiss Glasser.",
+        "source_url": "https://en.wikipedia.org/wiki/Fancy_Nancy_the_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "fly-by-night": {
+      "slug": "fly-by-night",
+      "title": "Fly by Night",
+      "qid": "Q96378069",
+      "enwiki": "Fly by Night (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Fly_by_Night_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q96378069"
+      },
+      "summary": {
+        "text": "Fly by Night is a stage musical written by Will Connolly, Michael Mitnick, and Kim Rosenstock, and conceived by Kim Rosenstock.The show was first developed and presented by Yale Summer Cabaret in 2009, and had a workshop at The American Musical Theatre Project at Northwestern University in 2011.\nAfter an out of town run at Dallas Theater Center in 2013, it opened Off-Broadway on May 16, 2014 in the Playwrights Horizons Mainstage Theater, where it ran until June 29. The production was directed by Carolyn Cantor.\nThe show, described as a 'darkly comic rock-fable', is set largely in 1965 New York at the time of the northeast blackout, and centres around a love triangle between a sandwich maker and two sisters.",
+        "source_url": "https://en.wikipedia.org/wiki/Fly_by_Night_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "forty-five-minutes-from-broadway": {
+      "slug": "forty-five-minutes-from-broadway",
+      "title": "Forty-five Minutes from Broadway",
+      "qid": "Q5472933",
+      "enwiki": "Forty-five Minutes from Broadway",
+      "composers": [
+        {
+          "name": "George M. Cohan",
+          "qid": "Q563017",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5829"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "George M. Cohan",
+          "qid": "Q563017",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5829"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "George M. Cohan",
+          "qid": "Q563017",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5829"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3686",
+        "wikipedia": "https://en.wikipedia.org/wiki/Forty-five_Minutes_from_Broadway",
+        "wikidata": "https://www.wikidata.org/wiki/Q5472933"
+      },
+      "summary": {
+        "text": "Forty-Five Minutes From Broadway is a three-act musical by George M. Cohan written about the town of New Rochelle, New York. The title refers to the 45-minute train ride from New Rochelle to Broadway. The story concerns a romance between a maid who stands to inherit a fortune and an unpopular out-of-towner.\nThe musical premiered on Broadway in 1906 and was briefly revived in 1912. It was adapted as silent film and broadcast live on television in 1959.",
+        "source_url": "https://en.wikipedia.org/wiki/Forty-five_Minutes_from_Broadway",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "hell-s-kitchen": {
+      "slug": "hell-s-kitchen",
+      "title": "Hell's Kitchen",
+      "qid": "Q123808021",
+      "enwiki": "Hell's Kitchen (musical)",
+      "composers": [
+        {
+          "name": "Alicia Keys",
+          "qid": "Q121507",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/513231"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Alicia Keys",
+          "qid": "Q121507",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/513231"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": "2024-04-20",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "https://hellskitchen.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Hell's_Kitchen_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q123808021"
+      },
+      "summary": {
+        "text": "Hell's Kitchen is a jukebox musical built on the music and lyrics of Alicia Keys, with a semi-autobiographical plot about her upbringing in Manhattan in the 1990s. The musical, with a book by Kristoffer Diaz, initially ran at The Public Theater in October 2023, having its Broadway debut at the Shubert Theatre on April 20, 2024, followed by a cast recording on June 7, 2024.\nThe original Off-Broadway and Broadway productions received positive reviews by theatre critics, considering the musical among the best examples of the jukebox musical, while Maleah Joi Moon, Shoshana Bean, and Kecia Lewis were praised for their acting and vocal performances. The productions received nominations and won at the Lucille Lortel Awards, Drama Desk Awards, Drama League Awards, and Grammy Awards. At the 77th Tony Awards, the Broadway production garnered 13 nominations, winning Best Leading Actress and Best Featured Actress.",
+        "source_url": "https://en.wikipedia.org/wiki/Hell's_Kitchen_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "king-s-rhapsody": {
+      "slug": "king-s-rhapsody",
+      "title": "King's Rhapsody",
+      "qid": "Q6411075",
+      "enwiki": "King's Rhapsody",
+      "composers": [
+        {
+          "name": "Ivor Novello",
+          "qid": "Q436693",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6484"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Ivor Novello",
+          "qid": "Q436693",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6484"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/King's_Rhapsody",
+        "wikidata": "https://www.wikidata.org/wiki/Q6411075"
+      },
+      "summary": {
+        "text": "King's Rhapsody is a musical with book and music by Ivor Novello and lyrics by Christopher Hassall.\nThe musical was first produced at the Palace Theatre, London, on 15 September 1949 and ran for 841 performances, surviving its author, who died in 1951. It starred Novello in the title role of the heir to the throne under pressure from his long-lived mother, Queen Elana, to abdicate in favour of his infant son, with Phyllis Dare as his mistress Marta Karillos, Zena Dare as Queen Elana, Vanessa Lee as Princess Cristiane, Robert Andrews as Vanescu, and Olive Gilbert as Countess Vera.\nA 1955 film adaptation was made, starring Errol Flynn.",
+        "source_url": "https://en.wikipedia.org/wiki/King's_Rhapsody",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "local-hero": {
+      "slug": "local-hero",
+      "title": "Local Hero",
+      "qid": "Q55621133",
+      "enwiki": "Local Hero (musical)",
+      "composers": [
+        {
+          "name": "Mark Knopfler",
+          "qid": "Q185343"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Mark Knopfler",
+          "qid": "Q185343"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": "2019-03-23",
+        "venue": "Royal Lyceum Theatre"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Local_Hero_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q55621133"
+      },
+      "summary": {
+        "text": "Local Hero is a musical with music and lyrics by Mark Knopfler, and a book by Bill Forsyth and David Greig. The musical is based on the 1983 film of the same name, written by Bill Forsyth. It tells the story of an American oil company representative who is sent to the fictional village of Furness on the west coast of Scotland to purchase the town and surrounding property for his company. The musical made its world premiere at the Royal Lyceum Theatre in Edinburgh in March 2019.",
+        "source_url": "https://en.wikipedia.org/wiki/Local_Hero_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "nancy-brown": {
+      "slug": "nancy-brown",
+      "title": "Nancy Brown",
+      "qid": "Q125186304",
+      "enwiki": "Nancy Brown (musical)",
+      "composers": [
+        {
+          "name": "Henry Kimball Hadley",
+          "qid": "Q707340",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6235"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Frederic Ranken",
+          "qid": "Q112429825",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5659"
+        },
+        {
+          "name": "George Broadhurst",
+          "qid": "Q3760447",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/24415"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Nancy_Brown_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q125186304"
+      },
+      "summary": {
+        "text": "Nancy Brown is a musical in two acts with music by Henry Kimball Hadley and both book and lyrics by George Broadhurst and Frederic Ranken. The musical also used several songs written by the African-American songwriting team of Robert Cole, J. Rosamond Johnson, and James Weldon Johnson. Set in the royal palace of the  fictional kingdom of Ballyhoo, the show was about the matchmaker Nancy Brown's attempt to wed the Ballyhooian royalty and nobility to eight wealthy American heiresses in order to save the financially bankrupt kingdom.",
+        "source_url": "https://en.wikipedia.org/wiki/Nancy_Brown_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "nord-ost": {
+      "slug": "nord-ost",
+      "title": "Nord-Ost",
+      "qid": "Q2747",
+      "enwiki": "Nord-Ost",
+      "composers": [
+        {
+          "name": "Georgy Leonardovich Vasilyev",
+          "qid": "Q4104588"
+        },
+        {
+          "name": "Aleksey Ivashchenko",
+          "qid": "Q4197092"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Georgy Leonardovich Vasilyev",
+          "qid": "Q4104588"
+        },
+        {
+          "name": "Aleksey Ivashchenko",
+          "qid": "Q4197092"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": "2001-10-19",
+        "venue": "Dubrovka Theatre"
+      },
+      "awards": [
+        {
+          "name": "Golden Mask",
+          "qid": "Q1271569"
+        }
+      ],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Nord-Ost",
+        "wikidata": "https://www.wikidata.org/wiki/Q2747"
+      },
+      "summary": {
+        "text": "Nord-Ost (Russian: Норд-Ост, means \"North-East\" in German) is a Russian musical theatre production that was composed by Aleksei Ivaschenko and Georgii Vasilyev, based on the novel The Two Captains by Veniamin Kaverin. It is a fictional story based around the historical events surrounding the discovery of the Severnaya Zemlya archipelago in 1913. The musical was first staged on October 19, 2001 in the Dubrovka theatre, where it played over 400 performances.\nThe play celebrates the Russian soldiers who fought in World War II.",
+        "source_url": "https://en.wikipedia.org/wiki/Nord-Ost",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "rudolf": {
+      "slug": "rudolf",
+      "title": "Rudolf",
+      "qid": "Q681540",
+      "enwiki": "Rudolf (musical)",
+      "composers": [
+        {
+          "name": "Frank Wildhorn",
+          "qid": "Q1444457",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5638"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2006-05-26",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Rudolf_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q681540"
+      },
+      "summary": {
+        "text": "Rudolf is a musical conceived for the stage by Frank Wildhorn and Steve Cuden, with a book by Jack Murphy and Phoebe Hwang, lyrics by Murphy, additional lyrics by Nan Knighton, and music by Frank Wildhorn. Arrangements by Koen Schoots and orchestrations by Kim Scharnberg. It is about Rudolf, Crown Prince of Austria and his extramarital relationship with Baroness Mary Vetsera. Their 1889 deaths at his Mayerling hunting lodge apparently were the result of a murder-suicide pact, although historians have debated this explanation.\nLoosely based on the book A Nervous Splendor: Vienna 1888-1889 by Frederic Morton, the musical was developed under the working titles Vienna, Affäre Mayerling (The Mayerling Affair), and Rudolf - The Last Kiss. The pressures of the monarchy have fallen upon Rudolf's shoulders, he is in political and personal conflict with his father, Emperor Franz Joseph, and his marriage to Princess Stéphanie of Belgium is crumbling when he meets and falls in love with the 17-year-old baroness. Their secret liaison doesn't escape the attention of prime minister Eduard Taaffe, who hopes to use his knowledge of the affair to destroy Rudolf's political career.",
+        "source_url": "https://en.wikipedia.org/wiki/Rudolf_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "six": {
+      "slug": "six",
+      "title": "Six",
+      "qid": "Q60752083",
+      "enwiki": "Six (musical)",
+      "composers": [
+        {
+          "name": "Lucy Moss",
+          "qid": "Q67205843",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/523490"
+        },
+        {
+          "name": "Toby Marlow",
+          "qid": "Q7811844",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/523489"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Lucy Moss",
+          "qid": "Q67205843",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/523490"
+        },
+        {
+          "name": "Toby Marlow",
+          "qid": "Q7811844",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/523489"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Lucy Moss",
+          "qid": "Q67205843",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/523490"
+        },
+        {
+          "name": "Toby Marlow",
+          "qid": "Q7811844",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/523489"
+        }
+      ],
+      "premiere": {
+        "date": "2017",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/523484",
+        "official_site": "https://www.sixthemusical.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Six_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q60752083"
+      },
+      "summary": {
+        "text": "Six (stylised SIX in all caps) is a British musical with music, book, and lyrics by Toby Marlow and Lucy Moss. It is a modern retelling of the lives of the six wives of Henry VIII, presented in the form of a singing competition and pop concert. In the show, the wives take turns telling their stories to determine who suffered the most from their shared husband, but ultimately seek to reclaim their individual identities and rewrite their stories.\nThe musical premiered at the Edinburgh Festival Fringe in 2017, where it was performed by students from Cambridge University. Six premiered in the West End at the Arts Theatre in January 2019, and has since embarked on a UK tour. It premiered in North America in May 2019 and on Broadway in February 2020. Following a hiatus due to the COVID-19 pandemic, it officially opened at the Brooks Atkinson Theatre on 3 October 2021 and has since launched additional touring companies. \nA filmed stage production titled SIX The Musical Live!, featuring the original West End cast, was released in UK & Ireland cinemas by Universal Pictures on 6 April 2025. It was released in theaters in the US and Canada on 14 August 2026.",
+        "source_url": "https://en.wikipedia.org/wiki/Six_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-donkey-show": {
+      "slug": "the-donkey-show",
+      "title": "The Donkey Show",
+      "qid": "Q7730645",
+      "enwiki": "The Donkey Show (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Diane Paulus",
+          "qid": "Q5271541",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/482425"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Donkey_Show_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7730645"
+      },
+      "summary": {
+        "text": "The Donkey Show: A Midsummer Night's Disco is a theatrical adaptation of Shakespeare's A Midsummer Night's Dream.  The production, created in a disco-era style, was written by Diane Paulus and her husband Randy Weiner and the members of Project 400, Emily Hellstrom, Jordin Ruderman, Rachel Murdy and Anna Wilson. It first appeared Off-Broadway, opening August 18, 1999.  The show subsequently ran for six years including venues in England, Scotland, France and Spain. After a successful run at the Edinburgh Festival the Donkey Show came to London for an eight-month run in London’s West End (Hanover Grand). The London show was produced by David Babani and Graham Kentsley. Rob Goodmonson (NYC) played the part of the DJ in the UK production. In 2009, the show was revived by the American Repertory Theater in Cambridge, Massachusetts, for which Paulus is artistic director. The club/theater space used in Cambridge is called OBERON, after the king of the fairies in A Midsummer Night's Dream. The show ran in that space until September 2019.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Donkey_Show_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "thespis": {
+      "slug": "thespis",
+      "title": "Thespis",
+      "qid": "Q972539",
+      "enwiki": "Thespis (opera)",
+      "composers": [
+        {
+          "name": "Arthur Sullivan",
+          "qid": "Q212692",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8692"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "W. S. Gilbert",
+          "qid": "Q348513",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5905"
+        }
+      ],
+      "premiere": {
+        "date": "1871-12-26",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Thespis_(opera)",
+        "wikidata": "https://www.wikidata.org/wiki/Q972539"
+      },
+      "summary": {
+        "text": "Thespis, or The Gods Grown Old, is an operatic extravaganza that was the first collaboration between dramatist W. S. Gilbert and composer Arthur Sullivan.  No musical score of Thespis was ever published, and most of the music has been lost. Gilbert and Sullivan went on to become the most famous and successful artistic partnership in Victorian England, creating a string of enduring comic opera hits, including H.M.S. Pinafore, The Pirates of Penzance and The Mikado.\nThespis premièred in London at the Gaiety Theatre on 26 December 1871. Like many productions at that theatre, it was written in a broad, burlesque style, considerably different from Gilbert and Sullivan's later works. It was a success, for a Christmas entertainment of the time, and closed on 8 March 1872, after a run of 63 performances. It was advertised as \"An entirely original Grotesque Opera in Two Acts\".\nThe story follows an acting troupe headed by Thespis, the legendary Greek father of the drama, who temporarily trade places with the gods on Mount Olympus, who have grown elderly and ignored. The actors turn out to be comically inept rulers. Having seen the ensuing mayhem down below, the angry gods return, sending the actors back to Earth as \"eminent tragedians, whom no one ever goes to see\". Gilbert would return to this theme twenty-five years later in his last opera with Sullivan, The Grand Duke, in which a theatre company temporarily replaces the ruler of a small country and decides to \"revive the classic memories of Athens at its best\".\nSeasonal works like Thespis were not normally expected to endure, and apart from a benefit performance shortly after the original staging, Thespis was not performed again during its creators' lifetimes.  A renewed interest in the piece began in the 1950s, and numerous productions have been performed since, either with music taken from Sullivan's other works, or with original music.",
+        "source_url": "https://en.wikipedia.org/wiki/Thespis_(opera)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "tickets-please": {
+      "slug": "tickets-please",
+      "title": "Tickets, Please!",
+      "qid": "Q7800677",
+      "enwiki": "Tickets, Please!",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/8712",
+        "wikipedia": "https://en.wikipedia.org/wiki/Tickets%2C_Please!",
+        "wikidata": "https://www.wikidata.org/wiki/Q7800677"
+      },
+      "summary": {
+        "text": "Tickets, Please! is a musical revue.  It contains sketches by Sketches by Harry Herrmann, Edmund Rice, Jack Roche and Ted Luce, with music and lyrics by Lyn Duddy, Joan Edwards, Mel Tolkin, Lucille Kallen and Clay Warnick.  Incidental music is by Phil Ingalls and Harold Hastings.\nIt first played on Broadway at the Coronet Theatre from April 27, 1950 to November 4, 1950.  It then moved to the Mark Hellinger Theatre for a further three weeks, closing on November 27, 1950, for a total of 245 performances.  The production was directed by Mervyn Nelson and choreographed by Joan Mann.  It starred Grace Hartman and Paul Hartman and featured Jack Albertson, Roger Price and Tommy Wonder.\t It is also notable as the first Broadway credit of Larry Kert and Hal Prince (assistant stage manager).  Time magazine wrote that the piece \"is that always attractive idea, an intimate revue. Its stars are those always entertaining zanies, the Hartmans, who are in excellent form. The pity is that the rest of the show constitutes a sort of conspiracy against them.\"",
+        "source_url": "https://en.wikipedia.org/wiki/Tickets%2C_Please!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "wise-guy": {
+      "slug": "wise-guy",
+      "title": "Wise Guy",
+      "qid": "Q55637825",
+      "enwiki": "Wise Guy (musical)",
+      "composers": [
+        {
+          "name": "Irving Berlin",
+          "qid": "Q128746",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6452"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Wise_Guy_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q55637825"
+      },
+      "summary": {
+        "text": "Wise Guy, which had at different points the working titles (in approximate order) The Last Resorts, Palm Beach, The Mizner Story, and Sentimental Guy, is a musical whose music and lyrics were written by Irving Berlin between 1952 and 1956. It has never been produced.\nThe subject of the musical is Berlin's deceased friend, the famous Florida architect Addison Mizner, to a lesser extent Addison's younger brother and sometimes partner Wilson, and their friends and clients. Berlin had been an investor in Mizner's visionary but ultimately ruinous Boca Raton project, and there had been talk (but no serious plans) of Berlin setting up a nightclub in Boca Raton.",
+        "source_url": "https://en.wikipedia.org/wiki/Wise_Guy_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "woman-of-the-year": {
+      "slug": "woman-of-the-year",
+      "title": "Woman of the Year",
+      "qid": "Q8030743",
+      "enwiki": "Woman of the Year (musical)",
+      "composers": [
+        {
+          "name": "John Kander",
+          "qid": "Q1685876",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6837"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Fred Ebb",
+          "qid": "Q1274807",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5654"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Peter Stone",
+          "qid": "Q1718449",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8128"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/9448",
+        "wikipedia": "https://en.wikipedia.org/wiki/Woman_of_the_Year_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q8030743"
+      },
+      "summary": {
+        "text": "Woman of the Year is a musical with a book by Peter Stone and score by John Kander and Fred Ebb.\nBased on the Ring Lardner Jr.-Michael Kanin written, Katharine Hepburn and Spencer Tracy starring 1942 film, the musical changes the newspaper reporters of the original to television personality Tess Harding and cartoonist Sam Craig, who experience difficulty merging their careers with their marriage. The musical premiered on Broadway in 1981 and starred Lauren Bacall.",
+        "source_url": "https://en.wikipedia.org/wiki/Woman_of_the_Year_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

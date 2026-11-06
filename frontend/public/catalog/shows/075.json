@@ -1,0 +1,587 @@
+{
+  "live": true,
+  "shows": {
+    "a-persian-princess": {
+      "slug": "a-persian-princess",
+      "title": "A Persian Princess",
+      "qid": "Q65057652",
+      "enwiki": "A Persian Princess",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/A_Persian_Princess",
+        "wikidata": "https://www.wikidata.org/wiki/Q65057652"
+      },
+      "summary": {
+        "text": "A Persian Princess is an oriental-themed Edwardian musical comedy in two acts, with a book by Leedham Bantock and P. J. Barrow, lyrics by Percy Greenbank and music by Sidney Jones, with additional numbers by Marie Horne. It premiered on 27 April 1909 at the Queen's Theatre in London. Despite its experienced and highly regarded cast the show opened to poor reviews and had a short run of 68 performances, closing on 3 July 1909.",
+        "source_url": "https://en.wikipedia.org/wiki/A_Persian_Princess",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "anyone-can-whistle": {
+      "slug": "anyone-can-whistle",
+      "title": "Anyone Can Whistle",
+      "qid": "Q4778265",
+      "enwiki": "Anyone Can Whistle",
+      "composers": [
+        {
+          "name": "Stephen Sondheim",
+          "qid": "Q153579",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12430"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Stephen Sondheim",
+          "qid": "Q153579",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12430"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Arthur Laurents",
+          "qid": "Q710334",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4307"
+        }
+      ],
+      "premiere": {
+        "date": "1964-04-04",
+        "venue": "Majestic Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1639",
+        "wikipedia": "https://en.wikipedia.org/wiki/Anyone_Can_Whistle",
+        "wikidata": "https://www.wikidata.org/wiki/Q4778265"
+      },
+      "summary": {
+        "text": "Anyone Can Whistle is a musical with music and lyrics by Stephen Sondheim, and a book by Arthur Laurents. Described as \"a satire on conformity and the insanity of the so-called sane,\" the show tells a story of an economically depressed town whose corrupt mayor decides to create a fake miracle in order to attract tourists. The phony miracle draws the attention of an emotionally inhibited nurse, a crowd of inmates from a local asylum, and a doctor with secrets of his own.\nFollowing a tryout period in Philadelphia, Anyone Can Whistle opened at the Majestic Theatre on April 4, 1964, with Angela Lansbury making her stage musical debut. The show received widely varied reviews (including negative notices from the New York Times and the New York Herald Tribune), and closed after a run of twelve previews and nine performances. \nWhile the score has become an acclaimed part of Sondheim's canon, Anyone Can Whistle has seen relatively few productions compared to other Sondheim musicals. The title song, \"Everybody Says Don't\", and \"There Won't Be Trumpets\" have been performed widely.",
+        "source_url": "https://en.wikipedia.org/wiki/Anyone_Can_Whistle",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "fela": {
+      "slug": "fela",
+      "title": "Fela!",
+      "qid": "Q3068064",
+      "enwiki": "Fela!",
+      "composers": [
+        {
+          "name": "Fela Kuti",
+          "qid": "Q313868",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/484352"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Bill T. Jones",
+          "qid": "Q2903368",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/448814"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/484349",
+        "wikipedia": "https://en.wikipedia.org/wiki/Fela!",
+        "wikidata": "https://www.wikidata.org/wiki/Q3068064"
+      },
+      "summary": {
+        "text": "Fela! is a jukebox musical with a book by Bill T. Jones and Jim Lewis, based on music and lyrics by the late Nigerian singer Fela Kuti, with additional music by Aaron Johnson and Jordan McLean and additional lyrics by Jim Lewis. The musical is based on events in the life of groundbreaking Nigerian composer and activist Fela Anikulapo Kuti. It portrays Kuti in the days when he was the target of 1,000 government soldiers assigned to end his public performances at the legendary Lagos nightclub The Shrine.\nFela! ran Off-Broadway for one month in 2008. It premiered on Broadway at the Eugene O'Neill Theatre on November 23, 2009, and ran until January 2011. The Off-Broadway production won the Lucille Lortel Awards for Best Musical, Outstanding Choreographer for Bill T. Jones, and Outstanding Costume Design for Marina Draghici. The Broadway production received eleven 2010 Tony Award nominations and won Best Choreography, Best Costume Design in a Musical, and Best Sound Design of a Musical. Alex Gibney's 2014 documentary film Finding Fela followed aspects of the Broadway musical, and drew heavily on interviews with Jones.",
+        "source_url": "https://en.wikipedia.org/wiki/Fela!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "forever-plaid": {
+      "slug": "forever-plaid",
+      "title": "Forever Plaid",
+      "qid": "Q5469434",
+      "enwiki": "Forever Plaid",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Forever_Plaid",
+        "wikidata": "https://www.wikidata.org/wiki/Q5469434"
+      },
+      "summary": {
+        "text": "Forever Plaid is an Off-Broadway musical revue written by Stuart Ross, first performed in New York in 1989 and now performed internationally.",
+        "source_url": "https://en.wikipedia.org/wiki/Forever_Plaid",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "hole": {
+      "slug": "hole",
+      "title": "Hole",
+      "qid": "Q141362490",
+      "enwiki": "Hole (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Hole_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q141362490"
+      },
+      "summary": {
+        "text": "HOLE! is a two-person musical written and acted by the team Jake Brasch and Nadja Leonhard-Hooper, a duo  known as American Sing-Song (A.S.S.). It is directed by RJ Tolan.",
+        "source_url": "https://en.wikipedia.org/wiki/Hole_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "ipi-tombi": {
+      "slug": "ipi-tombi",
+      "title": "Ipi Tombi",
+      "qid": "Q16995067",
+      "enwiki": "Ipi Tombi",
+      "composers": [
+        {
+          "name": "Bertha Egnos",
+          "qid": "Q27576297",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4508"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4762",
+        "wikipedia": "https://en.wikipedia.org/wiki/Ipi_Tombi",
+        "wikidata": "https://www.wikidata.org/wiki/Q16995067"
+      },
+      "summary": {
+        "text": "Ipi Tombi (also produced as Ipi N'tombi, both corrupted transliterations of the Zulu iphi ntombi, or \"where is the girl?\"), is a 1974 musical by South African writers Bertha Egnos Godfrey and her daughter Gail Lakier, telling the story of a young black man leaving his village and young wife to work in the mines of Johannesburg. The show, originally called The Warrior, uses pastiches of a variety of South African indigenous musical styles.",
+        "source_url": "https://en.wikipedia.org/wiki/Ipi_Tombi",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "james-joyce-s-the-dead": {
+      "slug": "james-joyce-s-the-dead",
+      "title": "James Joyce's The Dead",
+      "qid": "Q1680650",
+      "enwiki": "James Joyce's The Dead",
+      "composers": [
+        {
+          "name": "Shaun Davey",
+          "qid": "Q731432",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/76310"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Shaun Davey",
+          "qid": "Q731432",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/76310"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Richard Nelson",
+          "qid": "Q7328024",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8318"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/4840",
+        "wikipedia": "https://en.wikipedia.org/wiki/James_Joyce's_The_Dead",
+        "wikidata": "https://www.wikidata.org/wiki/Q1680650"
+      },
+      "summary": {
+        "text": "James Joyce's The Dead is a Broadway musical by Richard Nelson and Shaun Davey based upon James Joyce's short story \"The Dead\".",
+        "source_url": "https://en.wikipedia.org/wiki/James_Joyce's_The_Dead",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "kid-boots": {
+      "slug": "kid-boots",
+      "title": "Kid Boots",
+      "qid": "Q6404431",
+      "enwiki": "Kid Boots",
+      "composers": [
+        {
+          "name": "Harry Tierney",
+          "qid": "Q2756975",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12495"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Joseph McCarthy",
+          "qid": "Q3810247",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13089"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Otto Harbach",
+          "qid": "Q1231720",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6056"
+        },
+        {
+          "name": "William Anthony McGuire",
+          "qid": "Q3105229",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/9088"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/5048",
+        "wikipedia": "https://en.wikipedia.org/wiki/Kid_Boots",
+        "wikidata": "https://www.wikidata.org/wiki/Q6404431"
+      },
+      "summary": {
+        "text": "Kid Boots is a musical with a book by William Anthony McGuire and Otto Harbach, music by Harry Tierney, and lyrics by Joseph McCarthy.  The show was staged by Edward Royce.\nProduced by Florenz Ziegfeld, the Broadway production, opened on December 31, 1923 at the Earl Carroll Theatre and then moved to the Selwyn Theatre, where it ended on February 21, 1925, for a total of 489 performances. The cast starred Eddie Cantor and Mary Eaton, with George Olsen and his orchestra.\nThe show was billed as “A Musical Comedy of Palm Beach and Golf” and was set at the Everglades Club in Palm Beach, Florida. It was a showcase for Eddie Cantor, who played the caddie master at the swank club.  He gives golf lessons on the side, with crooked balls so the clients need more instruction.  He's also a bootlegger and a busybody.  He can't be fired, however, because he has something on everyone at the club. The most famous song to come out of the show was “Dinah” by Sam M. Lewis, Joe Young and Harry Akst, added to the finale during the run for Eddie. The song later gave vocalist Dinah Shore, discovered by Eddie Cantor in 1940, her stage name and the theme song for her long running radio and television shows.\nThe New York Times reported that on closing night, \"[j]ust before the finale, George Olsen's band marched down the aisle and serenaded the company, ending with 'Auld Lang Syne.' \"",
+        "source_url": "https://en.wikipedia.org/wiki/Kid_Boots",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "lizard-boy-the-musical": {
+      "slug": "lizard-boy-the-musical",
+      "title": "Lizard Boy: The Musical",
+      "qid": "Q111951169",
+      "enwiki": "Lizard Boy: The Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Lizard_Boy%3A_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q111951169"
+      },
+      "summary": {
+        "text": "Lizard Boy: The Musical is a Drama Desk-nominated indie-rock musical with book, lyrics and music by Justin Huertas. The musical follows the story of Trevor, a young man who has lizard scales for skin as he embarks on his first date in a year but winds up finding out he has superpowers and in a fight for his life. \nLizard Boy was originally commissioned by Jerry Manning the then artistic director of Seattle Repertory Theatre in 2012 and premiered there in 2015. Its Original Cast Album was recorded in one day in 2015 in Seattle. The musical was inspired by works such as X-Men, Spider-Man and the 2006 musical Spring Awakening.",
+        "source_url": "https://en.wikipedia.org/wiki/Lizard_Boy%3A_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "memphis-bound": {
+      "slug": "memphis-bound",
+      "title": "Memphis Bound",
+      "qid": "Q48742772",
+      "enwiki": "Memphis Bound",
+      "composers": [
+        {
+          "name": "Arthur Sullivan",
+          "qid": "Q212692",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8692"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "W. S. Gilbert",
+          "qid": "Q348513",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5905"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": "1945-05-24",
+        "venue": "Broadway Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/6009",
+        "playbill": "https://playbill.com/production/memphis-bound-broadway-theatre-vault-0000012354",
+        "wikipedia": "https://en.wikipedia.org/wiki/Memphis_Bound",
+        "wikidata": "https://www.wikidata.org/wiki/Q48742772"
+      },
+      "summary": {
+        "text": "Memphis Bound (usually styled Memphis Bound!) is a 1945 American musical based on the Gilbert and Sullivan opera H.M.S. Pinafore. The score was adapted and augmented by Don Walker and Clay Warnick, with a libretto credited to Albert Barker and Sally Benson, \"with gratitude to W. S. Gilbert and Sir Arthur Sullivan.\" The original production starred an all-black cast including Bill \"Bojangles\" Robinson, Avon Long, Billy Daniels, Ada Brown, and Sheila Guyse.",
+        "source_url": "https://en.wikipedia.org/wiki/Memphis_Bound",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "money-to-burn": {
+      "slug": "money-to-burn",
+      "title": "Money to Burn",
+      "qid": "Q6899295",
+      "enwiki": "Money to Burn (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Money_to_Burn_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6899295"
+      },
+      "summary": {
+        "text": "Money to Burn was a short-lived musical written by Daniel Abineri and performed at The Venue, off Leicester Square, London. The musical closed shortly after its press night  following poor reviews.",
+        "source_url": "https://en.wikipedia.org/wiki/Money_to_Burn_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "much-ado": {
+      "slug": "much-ado",
+      "title": "Much Ado",
+      "qid": "Q6930949",
+      "enwiki": "Much Ado",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Much_Ado",
+        "wikidata": "https://www.wikidata.org/wiki/Q6930949"
+      },
+      "summary": {
+        "text": "Much Ado, Bernard J. Taylor's musical version of Shakespeare's Much Ado About Nothing, was recorded as a concept album in 1995, featuring Paul McGann, Peter Karrie and other West End stars.  It received its world premiere at Stratford-on-Avon in 1996. It was partly inspired by the Kenneth Branagh film version.  The most recent production was in Budapest, Hungary, opening in June 2007.\nTerry Wardrope, critic for the European musicals magazine Words and Music, wrote: \"The usual fine cast once again give full throat to a grand selection of songs. One of the strongest facets of Mr Taylor's musical talents I have found is his ability to write music in the style befitting the age his work is set, as MUCH ADO so admirably demonstrates. Paul McGann's singing voice adds style. and panache to his solo numbers (If I Could Write A Sonnet and The Strange Affliction Called Love) as well as a pleasing accompaniment to the redoubtable Claire Moore In Disdain\" and Then Kill For Me. Of course, as always Claire Moore gives a breathtaking performance with (among others) I'll Never Marry and How Can This Be, but then that lady can do no wrong in my book. It's another impressive piece from Bernard Taylor, reinforcing my impression that he is one of the finest British musical talents we have.\"\nMike Gibb, editor of Masquerade, the British musicals review magazine, wrote: \"It proves to be yet another fine slab of musical writing, full of invention and, as with all BJT offerings, dripping with melody. It also succeeds in capturing the mood of the period courtesy of a medieval English feel amongst the diverse musical influences. Paul McGann and Simon Burke must have been delighted with the quality of the material they were offered with the likes of I'll Never Love Again and If I Could Write A Sonnet - both grade 'A' Taylor ballads - gentle, flowing, melodious.\"",
+        "source_url": "https://en.wikipedia.org/wiki/Much_Ado",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "queen-of-the-mist": {
+      "slug": "queen-of-the-mist",
+      "title": "Queen of the Mist",
+      "qid": "Q17065957",
+      "enwiki": "Queen of the Mist",
+      "composers": [
+        {
+          "name": "Michael John LaChiusa",
+          "qid": "Q3308276",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13016"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Michael John LaChiusa",
+          "qid": "Q3308276",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13016"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Queen_of_the_Mist",
+        "wikidata": "https://www.wikidata.org/wiki/Q17065957"
+      },
+      "summary": {
+        "text": "Queen of the Mist is a musical with music, lyrics and book by Michael John LaChiusa. Queen tells the story of Annie Edson Taylor. Produced by Transport Group Theatre Company, the musical first opened Off-Broadway in 2011.",
+        "source_url": "https://en.wikipedia.org/wiki/Queen_of_the_Mist",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "raisin": {
+      "slug": "raisin",
+      "title": "Raisin",
+      "qid": "Q7285130",
+      "enwiki": "Raisin (musical)",
+      "composers": [
+        {
+          "name": "Judd Woldin",
+          "qid": "Q6302321",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6991"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7363",
+        "wikipedia": "https://en.wikipedia.org/wiki/Raisin_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7285130"
+      },
+      "summary": {
+        "text": "Raisin is a musical with music by Judd Woldin, lyrics by Robert Brittan, and a book by Robert Nemiroff and Charlotte Zaltzberg. It is an adaptation of the Lorraine Hansberry play A Raisin in the Sun; the musical's book was co-written by Hansberry's husband, Robert Nemiroff. Ernestine Jackson participated also in the Raisin musical in 1973, she originated the role of Ruth Younger.   \nThe story concerns an African-American family in Chicago in 1951. The musical was nominated for nine Tony Awards, winning two, including Best Musical, and the Broadway production ran for 847 performances.",
+        "source_url": "https://en.wikipedia.org/wiki/Raisin_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "standing-at-the-sky-s-edge": {
+      "slug": "standing-at-the-sky-s-edge",
+      "title": "Standing at the Sky's Edge",
+      "qid": "Q97704001",
+      "enwiki": "Standing at the Sky's Edge (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Standing_at_the_Sky's_Edge_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q97704001"
+      },
+      "summary": {
+        "text": "Standing at the Sky's Edge is an Olivier Award-winning musical with music and lyrics by Richard Hawley and a book by Chris Bush.\nThe musical (named after Hawley's 2012 album of the same name) begins in 1961 and tells the story of three families over sixty years living in Park Hill, a council housing estate in Sheffield and features both new and existing songs by Hawley.",
+        "source_url": "https://en.wikipedia.org/wiki/Standing_at_the_Sky's_Edge_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "starship": {
+      "slug": "starship",
+      "title": "Starship",
+      "qid": "Q7602410",
+      "enwiki": "Starship (musical)",
+      "composers": [
+        {
+          "name": "Darren Criss",
+          "qid": "Q295502",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/490612"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Starship_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7602410"
+      },
+      "summary": {
+        "text": "Starship is a musical with music and lyrics by Darren Criss, and a book by Matt Lang, Nick Lang, Brian Holden, and Joe Walker.\nStarship is about an alien planet inhabited by giant insects, called Bug-World. One of these insects, named Bug, comes across a crashed human starship and becomes infatuated with the idea of becoming a Starship Ranger, and he gets his chance when a group of humans land on Bug-World in an attempt to colonize the planet.\nThe musical was performed February 11-23rd, 2011, at the Hoover-Leppen Theatre in Chicago, Illinois (this was the first StarKid stage production to not be performed on the University of Michigan campus). It was produced by StarKid Productions and directed by Matt Lang. The musical stars an ensemble cast featuring Joey Richter as the lead, Bug. The group put the entire musical up on YouTube on April 30, 2011. The musical's cast recording debuted at No. 134 on the Billboard 200 and No. 1 for Top Cast Albums.\nAn audio-only sequel, Starship: Requiem, was included as a perk for fans who contributed to Firebringer's funding and was intended to be released on Christmas of 2016 but was delayed until February 2018.",
+        "source_url": "https://en.wikipedia.org/wiki/Starship_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-little-prince": {
+      "slug": "the-little-prince",
+      "title": "The Little Prince",
+      "qid": "Q111972944",
+      "enwiki": "The Little Prince (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Little_Prince_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q111972944"
+      },
+      "summary": {
+        "text": "The Little Prince is a theatrical production based on Antoine de Saint-Exupéry’s 1943 story The Little Prince that features dance, circus arts, video production and acrobatics. Tournié and Mouron began adapting the show for the stage in 2018. The show is directed and choreographed by Anne Tournié and ran in Paris, Dubai and Sydney before arriving on Broadway in spring 2022. The Sydney engagement marked the city's first major international production since the COVID-19 lockdown. \nCast included Lionel Zalachas as the Little Prince, co-director Chris Mouron as The Narrator, Aurélien Bednarek as The Aviator together with a large ensemble cast. The Broadway production was slated to run from March through August at the Broadway Theatre but on April 26, it announced it would close on May 8 after receiving poor reviews.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Little_Prince_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "viva-forever": {
+      "slug": "viva-forever",
+      "title": "Viva Forever!",
+      "qid": "Q7937461",
+      "enwiki": "Viva Forever! (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Jennifer Saunders",
+          "qid": "Q235415"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Viva_Forever!_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7937461"
+      },
+      "summary": {
+        "text": "Viva Forever! is a jukebox musical based on the songs of 1990s British girl-group the Spice Girls. It was written by Jennifer Saunders, produced by Judy Craymer and directed by Paul Garrington. Musical Supervision by Martin Koch, and Musical Direction by John Donovan. Sound Design by Bobby Aitken.\nThe show began previews at the Piccadilly Theatre, London, on 27 November 2012 and had its Press Night on 11 December 2012. The score features nearly every song from the Spice Girls' first two albums albums, Spice (1996) and Spiceworld (1997), from several their third album—such as their hit \"Goodbye\"—as well as several solo single releases, including \"Look At Me\" by Geri Halliwell and \"I Turn To You\" by Melanie C. The show generated over £2,000,000 (in US money, $2,694,328.44) in pre-opening ticket sales.\nViva Forever! was panned by critics, receiving some of the worst reviews of 2012. It was announced on 2 May 2013 that the show was to close on 29 June 2013 after seven months with a loss of at least £5 million. In a 2016 interview, Spice Girls group member Mel B said she disliked the musical and that it \"wasn’t actually the kind of show the group hoped for.\"",
+        "source_url": "https://en.wikipedia.org/wiki/Viva_Forever!_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "wings": {
+      "slug": "wings",
+      "title": "Wings",
+      "qid": "Q105161703",
+      "enwiki": "Wings (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Wings_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q105161703"
+      },
+      "summary": {
+        "text": "Wings is a musical with music by Jeffrey Lunden and book and lyrics by Arthur Perlman adapted from Arthur Kopit's play of the same name.\nThe one-act musical concerns an older female stroke victim who was an aviatrix and wing-walker.\nThe original production premiered at Chicago's Goodman Theatre in October 1992 and opened at the New York Shakespeare Festival Joseph Papp Public Theater in February 1993.\nWings received the 1994 Lortel Award for Outstanding Musical.",
+        "source_url": "https://en.wikipedia.org/wiki/Wings_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

@@ -1,0 +1,547 @@
+{
+  "live": true,
+  "shows": {
+    "all-about-us": {
+      "slug": "all-about-us",
+      "title": "All About Us",
+      "qid": "Q4728526",
+      "enwiki": "All About Us (musical)",
+      "composers": [
+        {
+          "name": "John Kander",
+          "qid": "Q1685876",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6837"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Fred Ebb",
+          "qid": "Q1274807",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5654"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Joseph Stein",
+          "qid": "Q1361175",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6978"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/All_About_Us_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4728526"
+      },
+      "summary": {
+        "text": "All About Us is a musical with a book by Joseph Stein, lyrics by Fred Ebb, and music by John Kander. The musical has been produced in regional theatres but not in New York City.\nBased on Thornton Wilder's Pulitzer Prize-winning classic comedy The Skin of Our Teeth, the prehistoric Antrobus family and their maid deal with life's trials and tribulations, including the Ice Age, a great flood, and a devastating war as they traverse the centuries in a testament to human will and resilience.",
+        "source_url": "https://en.wikipedia.org/wiki/All_About_Us_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "attack-on-titan-the-musical": {
+      "slug": "attack-on-titan-the-musical",
+      "title": "Attack on Titan: The Musical",
+      "qid": "Q114088538",
+      "enwiki": "Attack on Titan: The Musical",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Attack_on_Titan%3A_The_Musical",
+        "wikidata": "https://www.wikidata.org/wiki/Q114088538"
+      },
+      "summary": {
+        "text": "Attack on Titan: The Musical is a 2023 musical theatre adaptation of the manga and anime series of the same name. The script is written by Masafumi Hata, based on a story by Hajime Isayama, with music by KEN the 390. Gō Ueki is slated to be the director of the production.\nThe Japanese-language musical premiered at the Orix Theater in Osaka, Japan on January 7, 2023 before moving to Tokyo. Internationally, it was performed in Japanese with English subtitles at the New York City Center in Midtown Manhattan, New York from 11 to 13 October 2024.",
+        "source_url": "https://en.wikipedia.org/wiki/Attack_on_Titan%3A_The_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "autant-en-emporte-le-vent": {
+      "slug": "autant-en-emporte-le-vent",
+      "title": "Autant en emporte le vent",
+      "qid": "Q2872347",
+      "enwiki": "Autant en emporte le vent",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Autant_en_emporte_le_vent",
+        "wikidata": "https://www.wikidata.org/wiki/Q2872347"
+      },
+      "summary": {
+        "text": "Autant en emporte le vent is a French musical adaptation of the 1936 Margaret Mitchell novel Gone with the Wind produced by Dove Attia and Albert Cohen in 2003, with music and lyrics by Gérard Presgurvic and staging and choreography by Kamel Ouali. The production is said to be a \"musical spectacular\" that gives \"the black characters greater voice, in song and dance, [to express] their desire for freedom.\"\nThe debut performance was at Palais des Sports de Paris on 30 September 2003. After three months daily performances in Paris, the show moved to tour other major cities in France, Belgium, and Switzerland. The final show was in Nîmes arena on 11 July 2004.",
+        "source_url": "https://en.wikipedia.org/wiki/Autant_en_emporte_le_vent",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "cyrano": {
+      "slug": "cyrano",
+      "title": "Cyrano",
+      "qid": "Q5200575",
+      "enwiki": "Cyrano (musical)",
+      "composers": [
+        {
+          "name": "Michael J. Lewis",
+          "qid": "Q29545039",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12060"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Anthony Burgess",
+          "qid": "Q217619",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4193"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Anthony Burgess",
+          "qid": "Q217619",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4193"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/2870",
+        "wikipedia": "https://en.wikipedia.org/wiki/Cyrano_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5200575"
+      },
+      "summary": {
+        "text": "Cyrano is a musical with a book and lyrics by Anthony Burgess and music by Michael J. Lewis.\nBased on Edmond Rostand's classic 1897 play of the same name, it focuses on a love triangle involving the large-nosed poetic Cyrano de Bergerac, his beautiful cousin Roxana, and his classically handsome but inarticulate friend Christian de Neuvillette who, unaware of Cyrano's unrequited passion for Roxana, imposes upon him to provide the romantic words he can use to woo her successfully in mid-17th century Paris.\nIn the early 1960s, David Merrick had announced plans to produce a musical entitled Cyrano with a score by Leslie Bricusse and Anthony Newley, but nothing came of the project. Burgess had translated the Rostand play for the Guthrie in Minneapolis, and director Michael Langham suggested he adapt it for a musical version. Burgess joined forces with film composer Lewis, replacing dialogue in his play with musical numbers, and the completed work was staged at the Guthrie, again with Langham at the helm.\nFollowing a 6 week tryout in Boston's Colonial Theatre and five previews, the Broadway production, directed and choreographed by Michael Kidd, opened on May 13, 1973 at the Palace Theatre, where it ran for 49 performances. The cast included Christopher Plummer as Cyrano, Leigh Beery as Roxana, and Mark Lamos as Christian, with Tovah Feldshuh making her Broadway debut in two small supporting roles.\nPlummer won the Tony for Best Actor in a Musical and Drama Desk Award for Outstanding Performance, and Beery was Tony-nominated for Best Featured Actress in a Musical.\nAn original cast recording LP was released by A&M Records in 1973. An original cast recording CD was released by Decca Records in 2005.\nIn September 1994, an abridged version of the musical was staged at The Newport Arts Center in  Orange County, California. Directed by Kent Johnson, and starring John Huntington as Cyrano and Deirdre McGill as Roxanne.  One song, \"You Have Made Me Love\", released on a Broadway standards album sung by McGill.",
+        "source_url": "https://en.wikipedia.org/wiki/Cyrano_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "dear-worthy-editor": {
+      "slug": "dear-worthy-editor",
+      "title": "Dear Worthy Editor",
+      "qid": "Q55609242",
+      "enwiki": "Dear Worthy Editor",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Dear_Worthy_Editor",
+        "wikidata": "https://www.wikidata.org/wiki/Q55609242"
+      },
+      "summary": {
+        "text": "Dear Worthy Editor: Letters to The Daily Forward (originally called A Bintel Brief) is a 1960s or c. 1974 musical and one of the early works by Alan Menken. He collaborated with his mother to develop the musical, adapted from the Bintel Brief letters-to-the-editor published by the Yiddish-language newspaper Jewish Daily Forward. While Menken had written musicals prior to this, it became his first work to achieve a level of success, being performed many times in the Jewish-American circuit.",
+        "source_url": "https://en.wikipedia.org/wiki/Dear_Worthy_Editor",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "ernest-in-love": {
+      "slug": "ernest-in-love",
+      "title": "Ernest in Love",
+      "qid": "Q16835601",
+      "enwiki": "Ernest in Love",
+      "composers": [
+        {
+          "name": "Lee Pockriss",
+          "qid": "Q6514734",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12251"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Ernest_in_Love",
+        "wikidata": "https://www.wikidata.org/wiki/Q16835601"
+      },
+      "summary": {
+        "text": "Ernest in Love is a musical with a book and lyrics by Anne Croswell and music by Lee Pockriss.  It is based on The Importance of Being Earnest, Oscar Wilde's classic 1895 comedy of manners.",
+        "source_url": "https://en.wikipedia.org/wiki/Ernest_in_Love",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "evangeline-1874-musical": {
+      "slug": "evangeline-1874-musical",
+      "title": "Evangeline",
+      "qid": "Q25206058",
+      "enwiki": "Evangeline (1874 musical)",
+      "composers": [
+        {
+          "name": "Edward E. Rice",
+          "qid": "Q5342706",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12286"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "J. Cheever Goodwin",
+          "qid": "Q16856370",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4824"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "J. Cheever Goodwin",
+          "qid": "Q16856370",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4824"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/502594",
+        "wikipedia": "https://en.wikipedia.org/wiki/Evangeline_(1874_musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q25206058"
+      },
+      "summary": {
+        "text": "Evangeline; or, The Belle of Acadia is a musical Extravaganza, with music by Edward E. Rice (arranged and orchestrated by John J. Braham) and lyrics and book by J. Cheever Goodwin. It was a comedy loosely based on Henry Wadsworth Longfellow's 1847 serious epic poem Evangeline. The title character is a young American maiden of French Acadian stock, who is forced to leave her home and is separated from her beloved. A notary stalks her, holding a secret will that may prevent her from gaining her inheritance.\nThe extravaganza debuted at Niblo's Garden in New York City on July 27, 1874, and received many revivals throughout the late 19th century.",
+        "source_url": "https://en.wikipedia.org/wiki/Evangeline_(1874_musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "happy-days": {
+      "slug": "happy-days",
+      "title": "Happy Days",
+      "qid": "Q16841823",
+      "enwiki": "Happy Days (musical)",
+      "composers": [
+        {
+          "name": "Paul Williams",
+          "qid": "Q927415",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/508357"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Garry Marshall",
+          "qid": "Q315087",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5743"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/508340",
+        "wikipedia": "https://en.wikipedia.org/wiki/Happy_Days_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q16841823"
+      },
+      "summary": {
+        "text": "Happy Days is a musical with a book by Garry Marshall and music and lyrics by Paul Williams, based on the ABC television series of the same name. The story is set roughly during Season 4 of the original sitcom. The story concerns the kids' plans to save Arnold's from demolition by hosting a dance contest and wrestling match.",
+        "source_url": "https://en.wikipedia.org/wiki/Happy_Days_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "i-remember-mama": {
+      "slug": "i-remember-mama",
+      "title": "I Remember Mama",
+      "qid": "Q5978796",
+      "enwiki": "I Remember Mama (musical)",
+      "composers": [
+        {
+          "name": "Richard Rodgers",
+          "qid": "Q269094",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12311"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Martin Charnin",
+          "qid": "Q3295377",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7570"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Thomas Meehan",
+          "qid": "Q7792371",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8874"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/10085",
+        "wikipedia": "https://en.wikipedia.org/wiki/I_Remember_Mama_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5978796"
+      },
+      "summary": {
+        "text": "I Remember Mama is a musical with a book by Thomas Meehan, lyrics by Martin Charnin and Raymond Jessel, and music by Richard Rodgers. The musical ran on Broadway in 1979.",
+        "source_url": "https://en.wikipedia.org/wiki/I_Remember_Mama_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "invisible-thread": {
+      "slug": "invisible-thread",
+      "title": "Invisible Thread",
+      "qid": "Q23023263",
+      "enwiki": "Invisible Thread (musical)",
+      "composers": [
+        {
+          "name": "Griffin Matthews",
+          "qid": "Q114119931"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Griffin Matthews",
+          "qid": "Q114119931"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Invisible_Thread_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q23023263"
+      },
+      "summary": {
+        "text": "Witness Uganda (previously titled Invisible Thread) is a musical with book, music, and lyrics by Matt Gould and Griffin Matthews. It was based on the true story of Matthews' humanitarian trips to Uganda, and his work to fund his nonprofit organization, Uganda Project. The musical premiered under the title Witness Uganda on February 4, 2014, at Cambridge's American Repertory Theater, and ran through March 16, 2014. Under the title Invisible Thread, the show transferred to off-Broadway's Second Stage Theatre in a production which ran during December 2015.\nThe show returned to its original title of Witness Uganda for a February 2019 run at the Wallis Annenberg Center for the Performing Arts in Los Angeles.",
+        "source_url": "https://en.wikipedia.org/wiki/Invisible_Thread_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "lone-star-love": {
+      "slug": "lone-star-love",
+      "title": "Lone Star Love",
+      "qid": "Q6671446",
+      "enwiki": "Lone Star Love",
+      "composers": [
+        {
+          "name": "Jack Herrick",
+          "qid": "Q6113071"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Lone_Star_Love",
+        "wikidata": "https://www.wikidata.org/wiki/Q6671446"
+      },
+      "summary": {
+        "text": "Lone Star Love, or, The Merry Wives of Windsor, Texas is a musical based on Shakespeare's The Merry Wives of Windsor. The score is by Jack Herrick (of the Red Clay Ramblers), and the book is by John L. Haber and Robert Horn.  The setting of the piece has been moved to the Wild West shortly after the American Civil War, and the musical features country and bluegrass music.",
+        "source_url": "https://en.wikipedia.org/wiki/Lone_Star_Love",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "rockquiem": {
+      "slug": "rockquiem",
+      "title": "Rockquiem",
+      "qid": "Q3939816",
+      "enwiki": "Rockquiem",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Rockquiem",
+        "wikidata": "https://www.wikidata.org/wiki/Q3939816"
+      },
+      "summary": {
+        "text": "Rockquiem – based on W. A. Mozart (2003) is an international music and dance show for singers, chorus, dancers, rock band and orchestra combining the music of Wolfgang Amadeus Mozart's Requiem Mass K. 626 with contemporary rock music.\nInitiated by Czech musician and producer Daniel Landa and Bolzano theatre principal Manfred Schweigkofler, Rockquiem  was composed in 2002 by Stefan Wurz.\nThe world premiere was held at the famous Smetana Hall of the Obecní dům (Municipal House), Prague, on August 3, 2003. The theatrical version premiered on April 8, 2004, at the Nuovo Teatro Comunale, Bolzano.\nRockquiem was later successfully performed in several European countries including the Szeged Open Air Festival in Hungary and the Bergen Opera Festival in Norway.",
+        "source_url": "https://en.wikipedia.org/wiki/Rockquiem",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "sunfish": {
+      "slug": "sunfish",
+      "title": "Sunfish",
+      "qid": "Q28455413",
+      "enwiki": "Sunfish (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Sunfish_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q28455413"
+      },
+      "summary": {
+        "text": "Sunfish is a musical with book and lyrics by Michael Cooper and book and music by Hyeyoung Kim, based upon the Korean folktale Sim-Chung. The musical received its world premiere production at the Stoneham Theater in Boston, Massachusetts from February 10 to February 27, 2011 and went on to international acclaim, opening at the Daegu International Music Theater Festival in South Korea on June 17 to June 23, 2013 where it was awarded Top Jury Honor.",
+        "source_url": "https://en.wikipedia.org/wiki/Sunfish_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-color-purple": {
+      "slug": "the-color-purple",
+      "title": "The Color Purple",
+      "qid": "Q7726834",
+      "enwiki": "The Color Purple (musical)",
+      "composers": [
+        {
+          "name": "Brenda Russell",
+          "qid": "Q2373269",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/391911"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Marsha Norman",
+          "qid": "Q545362",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7556"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [
+        {
+          "name": "Tony Award for Best Revival of a Musical",
+          "qid": "Q2018307"
+        }
+      ],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/398534",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Color_Purple_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7726834"
+      },
+      "summary": {
+        "text": "The Color Purple is a musical with music and lyrics by Brenda Russell, Allee Willis, and Stephen Bray, and book by Marsha Norman. Based on the 1982 novel The Color Purple by Alice Walker and its 1985 film adaptation, the musical follows the journey of Celie, an African American woman in the American South from the early to mid-20th century.\nThe original Broadway production ran from 2005 to 2008, earning eleven Tony Award nominations in 2006. An enthusiastically acclaimed Broadway revival opened in late 2015 and ran through early 2017, winning two 2016 Tony Awards—including Best Revival of a Musical.\nA film adaptation of the musical was released on December 25, 2023.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Color_Purple_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-matchgirls": {
+      "slug": "the-matchgirls",
+      "title": "The Matchgirls",
+      "qid": "Q7750647",
+      "enwiki": "The Matchgirls",
+      "composers": [],
+      "lyricists": [
+        {
+          "name": "Bill Owen",
+          "qid": "Q2903321",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/81648"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Bill Owen",
+          "qid": "Q2903321",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/81648"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Matchgirls",
+        "wikidata": "https://www.wikidata.org/wiki/Q7750647"
+      },
+      "summary": {
+        "text": "The Matchgirls is a musical by Bill Owen and Tony Russell about the London matchgirls strike of 1888. It premiered at the Globe Theatre, London, on 1 March 1966, directed and choreographed by Gillian Lynne.\nThe musical focuses on the lifestyle of the match cutters at the Bryant and May factory in Bow, London, with strong references to the condition Phossy jaw and the political climate of the era.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Matchgirls",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-mystery-of-edwin-drood": {
+      "slug": "the-mystery-of-edwin-drood",
+      "title": "The Mystery of Edwin Drood",
+      "qid": "Q2914297",
+      "enwiki": "The Mystery of Edwin Drood (musical)",
+      "composers": [
+        {
+          "name": "Rupert Holmes",
+          "qid": "Q1383270",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6325"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Rupert Holmes",
+          "qid": "Q1383270",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6325"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Rupert Holmes",
+          "qid": "Q1383270",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6325"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/10536",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Mystery_of_Edwin_Drood_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q2914297"
+      },
+      "summary": {
+        "text": "The Mystery of Edwin Drood is a mystery musical comedy written by Rupert Holmes based on the unfinished Charles Dickens novel of the same name. The show was the first Broadway musical with multiple endings (determined by audience vote). The show won five Tony Awards, including Best Musical, with Holmes awarded for Best Book of a Musical and Best Original Score.\nThe musical debuted at the New York Shakespeare Festival in August 1985 before transferring to Broadway, where it ran until May 1987, sometimes billed as Drood: The Music Hall Musical, followed by two national tours and a West End production. The Roundabout Theatre Company revived the musical in 2012.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Mystery_of_Edwin_Drood_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}

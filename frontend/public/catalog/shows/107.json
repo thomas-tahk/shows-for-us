@@ -1,0 +1,561 @@
+{
+  "live": true,
+  "shows": {
+    "bare-a-pop-opera": {
+      "slug": "bare-a-pop-opera",
+      "title": "Bare: A Pop Opera",
+      "qid": "Q2443217",
+      "enwiki": "Bare: A Pop Opera",
+      "composers": [
+        {
+          "name": "Damon Intrabartolo",
+          "qid": "Q5212838"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Bare%3A_A_Pop_Opera",
+        "wikidata": "https://www.wikidata.org/wiki/Q2443217"
+      },
+      "summary": {
+        "text": "Bare, also known as Bare: A Pop Opera, is a coming-of-age sung-through musical with music by Damon Intrabartolo, lyrics by Jon Hartmere, and a book by Hartmere and Intrabartolo. The story focuses on a group of high school students and their struggles at their private Catholic boarding school.\nThe musical was later revised as Bare: The Musical.",
+        "source_url": "https://en.wikipedia.org/wiki/Bare%3A_A_Pop_Opera",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "claudio-quest": {
+      "slug": "claudio-quest",
+      "title": "Claudio Quest",
+      "qid": "Q25112209",
+      "enwiki": "Claudio Quest",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Claudio_Quest",
+        "wikidata": "https://www.wikidata.org/wiki/Q25112209"
+      },
+      "summary": {
+        "text": "Claudio Quest is a musical with book, music and lyrics by Drew Fornarola and Marshall Pailet.",
+        "source_url": "https://en.wikipedia.org/wiki/Claudio_Quest",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "funny-face": {
+      "slug": "funny-face",
+      "title": "Funny Face",
+      "qid": "Q639390",
+      "enwiki": "Funny Face (musical)",
+      "composers": [
+        {
+          "name": "George Gershwin",
+          "qid": "Q123829",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5813"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Ira Gershwin",
+          "qid": "Q61059",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12885"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Paul Girard Smith",
+          "qid": "Q387110",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8041"
+        },
+        {
+          "name": "Fred Thompson",
+          "qid": "Q5496402",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5661"
+        }
+      ],
+      "premiere": {
+        "date": "1927-11-22",
+        "venue": "Neil Simon Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3749",
+        "playbill": "https://playbill.com/production/funny-face-alvin-theatre-vault-0000000968",
+        "wikipedia": "https://en.wikipedia.org/wiki/Funny_Face_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q639390"
+      },
+      "summary": {
+        "text": "Funny Face is a 1927 musical composed by George Gershwin, with lyrics by Ira Gershwin, and book by Fred Thompson and Paul Gerard Smith. When it opened on Broadway on November 22, 1927, as the first show performed in the newly built Alvin Theatre, it starred Fred Astaire and his sister Adele Astaire. It was in this show that Astaire first danced in evening clothes and a top hat.\nOriginally called Smarty, it first opened in Philadelphia on October 11, 1927, to poor reviews. This led to major rewrites and caused critic-humorist Robert Benchley, who had contributed to the script, to walk out. The rewrites and changes continued as the musical moved from Philadelphia to Washington, D.C. (October 31); to Atlantic City (November 7); to Wilmington (November 14); before reaching Broadway and the Alvin Theatre on November 22, now renamed Funny Face. It became a major Broadway hit, and after 244 performances, the whole company transferred it to London, where Fred and Adele Astaire had had a successful run of Lady, Be Good! just before starting the rehearsals of Smarty in Philadelphia.\nThe London production opened at Princes Theatre on November 8, 1928, and ran there until January 29, 1929. After a short tour of the UK provinces, the musical re-opened at the Winter Garden Theatre in London on March 11, 1929, where it ran until June 1929, chalking up a total of 263 performances. Leslie Henson shared top billing with Fred and Adele Astaire.",
+        "source_url": "https://en.wikipedia.org/wiki/Funny_Face_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "gigantic": {
+      "slug": "gigantic",
+      "title": "Gigantic",
+      "qid": "Q5437165",
+      "enwiki": "Gigantic (musical)",
+      "composers": [],
+      "lyricists": [
+        {
+          "name": "Randy Blair",
+          "qid": "Q7292086"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Randy Blair",
+          "qid": "Q7292086"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Gigantic_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5437165"
+      },
+      "summary": {
+        "text": "Gigantic is a rock musical comedy written by Randy Blair, Timothy Michael Drucker, and Matthew roi Berger. It was originally performed as Fat Camp at the 2009 New York Musical Theatre Festival, directed by Alex Timbers, and produced by Carl Levin and Michael Minarik. The production was awarded the 2009 Best of Fest Award, in addition to other honors.\nIn 2015, the musical opened Off-Broadway as Gigantic, produced by the Vineyard Theatre at the Acorn Theatre on Theatre Row. The production, which opened on December 3, 2015, starred Max Wilcox, Ryann Redmond, Jared Loftin, Larry Owens, Bonnie Milligan, Leslie Kritzer, and Burke Moses.",
+        "source_url": "https://en.wikipedia.org/wiki/Gigantic_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "harry-delmar-s-revels": {
+      "slug": "harry-delmar-s-revels",
+      "title": "Harry Delmar's Revels",
+      "qid": "Q110269540",
+      "enwiki": "Harry Delmar's Revels",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/3022",
+        "wikipedia": "https://en.wikipedia.org/wiki/Harry_Delmar's_Revels",
+        "wikidata": "https://www.wikidata.org/wiki/Q110269540"
+      },
+      "summary": {
+        "text": "Harry Delmar's Revels was a Broadway revue that ran from Nov 28, 1927 - Mar 1928 for 112 performances. It was produced by Samuel Baerwitz and Harry Delmar. The music is by Jimmy Monaco, Jesse Greer, and Lester Lee.  The book is by William K. Wells and the lyrics are by Billy Rose and Ballard MacDonald.",
+        "source_url": "https://en.wikipedia.org/wiki/Harry_Delmar's_Revels",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "juno-and-avos": {
+      "slug": "juno-and-avos",
+      "title": "Juno and Avos",
+      "qid": "Q4534600",
+      "enwiki": "Juno and Avos (opera)",
+      "composers": [
+        {
+          "name": "Alexey Rybnikov",
+          "qid": "Q195773"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Andrei Voznesensky",
+          "qid": "Q236619"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Andrei Voznesensky",
+          "qid": "Q236619"
+        }
+      ],
+      "premiere": {
+        "date": "1979",
+        "venue": "Lenkom Theatre"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Juno_and_Avos_(opera)",
+        "wikidata": "https://www.wikidata.org/wiki/Q4534600"
+      },
+      "summary": {
+        "text": "Juno and Avos (Russian: Юнона и Авось, Junona i Avos') is a popular Russian-language rock opera written by Alexey Rybnikov, poetry by Andrei Voznesensky. It was first performed in 1981 in the Lenkom Theatre, Moscow, directed by Mark Zakharov. Main roles in the premiere performed by Soviet stars Nikolai Karachentsov and Elena Shanina.\nThe opera is named after the two ships Juno and Avos that constituted the expedition headed by Russian explorer Nikolai Rezanov. The plot is based on the love story of Nikolai Rezanov and Concepción Argüello, a 15-year-old daughter of José Darío Argüello, the colonial governor of Spanish California.\nThe performance was first recorded for television in 1983, the second television version was created in 2002.\nThe opera's first premiere abroad took place at Espace Cardin theater in Paris in 1983.",
+        "source_url": "https://en.wikipedia.org/wiki/Juno_and_Avos_(opera)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "madame-aphrodite": {
+      "slug": "madame-aphrodite",
+      "title": "Madame Aphrodite",
+      "qid": "Q6726266",
+      "enwiki": "Madame Aphrodite (musical)",
+      "composers": [
+        {
+          "name": "Jerry Herman",
+          "qid": "Q1363692",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6278"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Jerry Herman",
+          "qid": "Q1363692",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6278"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Tad Mosel",
+          "qid": "Q1529199",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8813"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Madame_Aphrodite_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q6726266"
+      },
+      "summary": {
+        "text": "Madame Aphrodite is a musical with a book by Tad Mosel and music and lyrics by Jerry Herman. It is based on Mosel's play of the same name that was broadcast on television in 1953.\nThe original off-Broadway production was short-lived and only ran for 13 performances in 1961. It is notable as the only stage musical in the entire Jerry Herman canon (which includes smash hits such as Hello Dolly!, Mame and La Cage aux Folles as well as less successful but highly respected flops like Dear World, Mack & Mabel and The Grand Tour) that never spawned an original cast album, and has never been performed since its original production.",
+        "source_url": "https://en.wikipedia.org/wiki/Madame_Aphrodite_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "marie-antoinette": {
+      "slug": "marie-antoinette",
+      "title": "Marie Antoinette",
+      "qid": "Q1150327",
+      "enwiki": "Marie Antoinette (musical)",
+      "composers": [
+        {
+          "name": "Sylvester Levay",
+          "qid": "Q694658"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Michael Kunze",
+          "qid": "Q69773",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/87962"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Michael Kunze",
+          "qid": "Q69773",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/87962"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Marie_Antoinette_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q1150327"
+      },
+      "summary": {
+        "text": "Marie Antoinette is a stage musical with music by Sylvester Levay and book and lyrics by Michael Kunze, the authors of Elisabeth, Mozart! and Rebecca. The Libretto was written in English and then translated into Japanese. The premiere took place on  November 1, 2006 in Tokyo, Japan at the Imperial Garden Theater. Tamiya Kuriyama directed the original production. After running in Tokyo, the show was performed in Fukuoka, Osaka before moving back to Tokyo from April 2007 through May 2007.\nThe German premiere took place on January 30, 2009 at the Musical Theater Bremen with Kuriyama directing once again.",
+        "source_url": "https://en.wikipedia.org/wiki/Marie_Antoinette_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "miss-spectacular": {
+      "slug": "miss-spectacular",
+      "title": "Miss Spectacular",
+      "qid": "Q6877411",
+      "enwiki": "Miss Spectacular",
+      "composers": [
+        {
+          "name": "Jerry Herman",
+          "qid": "Q1363692",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6278"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Jerry Herman",
+          "qid": "Q1363692",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6278"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Miss_Spectacular",
+        "wikidata": "https://www.wikidata.org/wiki/Q6877411"
+      },
+      "summary": {
+        "text": "Miss Spectacular is an unproduced musical with a libretto by Robert L. Freedman, lyrics and music by Jerry Herman and additional lyrics by Steve Lawrence and Michael Feinstein. Its plot focuses on a girl from the Midwest who heads to Las Vegas and is a finalist in the \"Miss Spectacular\" contest.",
+        "source_url": "https://en.wikipedia.org/wiki/Miss_Spectacular",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "piff-paff-pouf": {
+      "slug": "piff-paff-pouf",
+      "title": "Piff! Paff!! Pouf!!!",
+      "qid": "Q124735239",
+      "enwiki": "Piff! Paff!! Pouf!!!",
+      "composers": [
+        {
+          "name": "Jean Schwartz",
+          "qid": "Q6171492",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12374"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7088",
+        "wikipedia": "https://en.wikipedia.org/wiki/Piff!_Paff!!_Pouf!!!",
+        "wikidata": "https://www.wikidata.org/wiki/Q124735239"
+      },
+      "summary": {
+        "text": "Piff! Paff!! Pouf!!! is a musical in two acts with music by Jean Schwartz, lyrics by William Jerome, and a book by Stanislaus Stange. It is considered the best musical created by the writing team of Schwartz and Jerome. A hit with audiences, it was the longest running musical of the 1903-1904 Broadway season. Set on the Atlantic City Boardwalk and at a mansion along the banks of the Hudson River in the Hudson River Valley in the state of New York, the musical follows a recently widowed man whose deceased wife, an heiress, left him her fortune in her will on the condition that he marry off all four of their daughters in the order of their birth prior to receiving any of her money.",
+        "source_url": "https://en.wikipedia.org/wiki/Piff!_Paff!!_Pouf!!!",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "rainbow-square": {
+      "slug": "rainbow-square",
+      "title": "Rainbow Square",
+      "qid": "Q123532227",
+      "enwiki": "Rainbow Square",
+      "composers": [
+        {
+          "name": "Robert Stolz",
+          "qid": "Q45095",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12453"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Guy Bolton",
+          "qid": "Q924974",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4575"
+        },
+        {
+          "name": "Harold Purcell",
+          "qid": "Q94509716"
+        }
+      ],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Rainbow_Square",
+        "wikidata": "https://www.wikidata.org/wiki/Q123532227"
+      },
+      "summary": {
+        "text": "Rainbow Square is a musical with book and lyrics by Guy Bolton and Harold Purcell and music by Robert Stolz. It is set in occupied Vienna in a square bordering the American and Russian zones.\nRainbow Square played 146 performances at the Stoll Theatre in London following its 21 September 1951 premiere. Its cast included Martha King, Gloria Lane, Vera Pearce and Sonnie Hale.",
+        "source_url": "https://en.wikipedia.org/wiki/Rainbow_Square",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "say-when": {
+      "slug": "say-when",
+      "title": "Say When",
+      "qid": "Q7429028",
+      "enwiki": "Say When (musical)",
+      "composers": [
+        {
+          "name": "Ray Henderson",
+          "qid": "Q1980821",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8253"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Ted Koehler",
+          "qid": "Q363783",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12004"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Jack McGowan",
+          "qid": "Q16749832",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/6549"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/10138",
+        "wikipedia": "https://en.wikipedia.org/wiki/Say_When_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q7429028"
+      },
+      "summary": {
+        "text": "Say When is an American musical with music by Ray Henderson, lyrics by Ted Koehler, and a musical book by Jack McGowan. Directed by Bertram Harrison, the production opened on Broadway at the Imperial Theatre where it ran from November 8, 1934, through January 12, 1935 for a total of 76 performances.",
+        "source_url": "https://en.wikipedia.org/wiki/Say_When_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-belle-of-mayfair": {
+      "slug": "the-belle-of-mayfair",
+      "title": "The Belle of Mayfair",
+      "qid": "Q7716422",
+      "enwiki": "The Belle of Mayfair",
+      "composers": [
+        {
+          "name": "Leslie Stuart",
+          "qid": "Q2065986",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12465"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Basil Hood",
+          "qid": "Q4867189",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4438"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/1936",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Belle_of_Mayfair",
+        "wikidata": "https://www.wikidata.org/wiki/Q7716422"
+      },
+      "summary": {
+        "text": "The Belle of Mayfair is a musical comedy composed by Leslie Stuart with a book by Basil Hood, Charles Brookfield and Cosmo Hamilton and lyrics by George Arthurs, Hood and William Caine. The story is inspired by the Shakespeare play Romeo and Juliet.\nThe original production opened at the Vaudeville Theatre in London on 11 April 1906, produced by Charles Frohman.  It ran for 431 performances, closing on 13 April 1907, and starred Edna May, Louie Pounds, Arthur Williams, Camille Clifford and Courtice Pounds.  Hood withdrew his name from the original production after Frohman started altering the text to suit casting changes that occurred during the run.  Some of these changes resulted from disputes between the female leads and the management, one of which resulted in court action.  Edna May stormed out of the production, and the role was assumed by Phyllis Dare, making her a star.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Belle_of_Mayfair",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-new-yorkers": {
+      "slug": "the-new-yorkers",
+      "title": "The New Yorkers",
+      "qid": "Q3988489",
+      "enwiki": "The New Yorkers",
+      "composers": [
+        {
+          "name": "Cole Porter",
+          "qid": "Q215120",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12257"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Herbert Fields",
+          "qid": "Q1608254",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/11265"
+        }
+      ],
+      "premiere": {
+        "date": "1930-12-08",
+        "venue": "Broadway Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/10114",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_New_Yorkers",
+        "wikidata": "https://www.wikidata.org/wiki/Q3988489"
+      },
+      "summary": {
+        "text": "The New Yorkers is a musical with score by Cole Porter and book by Herbert Fields that satirizes New York City types during Prohibition, from high society matrons to con men, bootleggers, thieves, and prostitutes. The musical premiered on Broadway in 1930, based on a story by E. Ray Goetz and Peter Arno, cartoonist for The New Yorker magazine. Star Jimmy Durante contributed additional songs to feature his character. The original Broadway production received mostly positive reviews and ran for 168 performances. \nThe musical introduced \"Love for Sale\", one of Porter's most notable songs, which was banned from radio broadcast for its frank lyrics concerning prostitution.",
+        "source_url": "https://en.wikipedia.org/wiki/The_New_Yorkers",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "the-streets-of-paris": {
+      "slug": "the-streets-of-paris",
+      "title": "The Streets of Paris",
+      "qid": "Q17280390",
+      "enwiki": "The Streets of Paris",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "1939-06-19",
+        "venue": "Broadhurst Theatre"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/10558",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Streets_of_Paris",
+        "wikidata": "https://www.wikidata.org/wiki/Q17280390"
+      },
+      "summary": {
+        "text": "The Streets of Paris is a musical revue featuring Bobby Clark, Luella Gear, Abbott and Costello and Carmen Miranda, debuted on May 29, 1939 in Boston and on June 19, 1939 in New York. Had two hours and-a-half, with the interval. The musical was staged from June 1939 to 10 February 1940, totaling 274 presentations.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Streets_of_Paris",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "velvet": {
+      "slug": "velvet",
+      "title": "Velvet",
+      "qid": "Q55637033",
+      "enwiki": "Velvet (musical)",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Velvet_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q55637033"
+      },
+      "summary": {
+        "text": "Velvet is an Australian musical partly based on New York's Studio 54. It debuted at the Adelaide Fringe Festival in 2015. It features a mix of music and acrobatics.\nThe musical was directed by Craig Ilott and was based on a concept created by Marcia Hines, Peter Rix and Craig Ilott.\nThe show has been performed in Edinburgh, Brisbane, Sydney, Melbourne, Adelaide Perth, Hobart and New Zealand. Featured cast has included Marcia Hines and Brendan Maclean and Mirko Köckenberger.",
+        "source_url": "https://en.wikipedia.org/wiki/Velvet_(musical)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    }
+  }
+}
