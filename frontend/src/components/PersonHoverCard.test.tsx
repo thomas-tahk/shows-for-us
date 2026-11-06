@@ -1,6 +1,6 @@
 // @vitest-environment jsdom
 import { afterEach, describe, expect, it, vi } from 'vitest'
-import { cleanup, fireEvent, render, screen } from '@testing-library/react'
+import { act, cleanup, fireEvent, render, screen } from '@testing-library/react'
 import { MemoryRouter } from 'react-router-dom'
 import { resetCatalogIndexCache } from '../data/catalogIndexCache'
 import { resetPersonSummaryCache } from '../data/personSummary'
@@ -48,6 +48,46 @@ describe('PersonHoverCard', () => {
     expect(link.getAttribute('href')).toBe('https://www.ibdb.com/broadway-cast-staff/kern-1')
     fireEvent.keyDown(link, { key: 'Escape' })
     expect(screen.queryByRole('group')).toBeNull()
+  })
+
+  it('opens after a mouse pointer enters (delayed) and closes after it leaves; touch pointers do not', async () => {
+    vi.useFakeTimers()
+    try {
+      stub(false)
+      renderCard('https://example.com/p')
+      const trigger = screen.getByRole('link', { name: 'Jerome Kern' })
+      const wrapper = trigger.parentElement as HTMLElement
+      // jsdom has no PointerEvent: React derives pointerenter/leave from pointerover/out and reads pointerType.
+      const pointer = (type: string, pointerType: string) => {
+        const ev = new MouseEvent(type, { bubbles: true })
+        Object.defineProperty(ev, 'pointerType', { value: pointerType })
+        fireEvent(wrapper, ev)
+      }
+      pointer('pointerover', 'touch')
+      await act(() => vi.advanceTimersByTimeAsync(500))
+      expect(screen.queryByRole('group')).toBeNull()
+      pointer('pointerover', 'mouse')
+      expect(screen.queryByRole('group')).toBeNull()
+      await act(() => vi.advanceTimersByTimeAsync(200))
+      expect(screen.getByRole('group', { name: 'About Jerome Kern' })).toBeTruthy()
+      pointer('pointerout', 'mouse')
+      await act(() => vi.advanceTimersByTimeAsync(300))
+      expect(screen.queryByRole('group')).toBeNull()
+    } finally {
+      vi.useRealTimers()
+    }
+  })
+
+  it('Escape closes and returns focus to the name without reopening', async () => {
+    stub(false)
+    renderCard('https://example.com/p')
+    const link = screen.getByRole('link', { name: 'Jerome Kern' })
+    fireEvent.focus(link)
+    const close = await screen.findByRole('button', { name: 'Close' })
+    close.focus()
+    fireEvent.keyDown(close, { key: 'Escape' })
+    expect(screen.queryByRole('group')).toBeNull()
+    expect(document.activeElement).toBe(link)
   })
 
   it('opens on hover and closes on blur', async () => {

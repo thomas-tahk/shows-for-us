@@ -1,4 +1,5 @@
 import { useCallback, useEffect, useId, useLayoutEffect, useRef, useState } from 'react'
+import type { Ref } from 'react'
 import { Link } from 'react-router-dom'
 import { knownFor, loadPersonSummary, type PersonSummary } from '../data/personSummary'
 import { useCatalogIndex } from '../data/useCatalogIndex'
@@ -72,7 +73,7 @@ function CardBody({ name, qid }: { name: string; qid: string }) {
       )}
       {info && text && (
         <p className="mt-3 border-t border-neutral-700 pt-2 text-xs text-neutral-300">
-          Text from <a className={linkClass} href={info.pageUrl} rel="noopener noreferrer">Wikipedia</a>,{' '}
+          Excerpt from <a className={linkClass} href={info.pageUrl} rel="noopener noreferrer">Wikipedia</a>,{' '}
           <a className={linkClass} href="https://creativecommons.org/licenses/by-sa/4.0/" rel="noopener noreferrer">CC BY-SA 4.0</a>.
         </p>
       )}
@@ -113,12 +114,22 @@ export default function PersonHoverCard({ name, qid, href, className = '' }: Pro
   const wrapper = useRef<HTMLSpanElement>(null)
   const cardRef = useClampToViewport(open)
   const cardId = useId()
+  const triggerRef = useRef<HTMLElement | null>(null)
+  const suppressFocus = useRef(false)
+  const closeAndRefocus = useCallback(() => {
+    set(false)
+    const trigger = triggerRef.current
+    if (!trigger || document.activeElement === trigger) return
+    suppressFocus.current = true // refocusing must not reopen the card
+    trigger.focus()
+    suppressFocus.current = false
+  }, [set])
   useEffect(() => {
     if (!open) return
-    const onKey = (e: KeyboardEvent) => e.key === 'Escape' && set(false)
+    const onKey = (e: KeyboardEvent) => e.key === 'Escape' && closeAndRefocus()
     document.addEventListener('keydown', onKey)
     return () => document.removeEventListener('keydown', onKey)
-  }, [open, set])
+  }, [open, closeAndRefocus])
   const focusedAt = useRef(0)
   // A tap focuses (opens) and then clicks: that click must not toggle the card shut again.
   const toggle = () => {
@@ -131,9 +142,10 @@ export default function PersonHoverCard({ name, qid, href, className = '' }: Pro
     <span
       ref={wrapper}
       className="relative inline-block"
-      onMouseEnter={() => schedule(true, OPEN_DELAY_MS)}
-      onMouseLeave={() => schedule(false, CLOSE_DELAY_MS)}
+      onPointerEnter={e => e.pointerType === 'mouse' && schedule(true, OPEN_DELAY_MS)}
+      onPointerLeave={e => e.pointerType === 'mouse' && schedule(false, CLOSE_DELAY_MS)}
       onFocus={() => {
+        if (suppressFocus.current) return
         focusedAt.current = Date.now()
         set(true)
       }}
@@ -143,7 +155,7 @@ export default function PersonHoverCard({ name, qid, href, className = '' }: Pro
     >
       {href ? (
         <>
-          <a className={`${triggerClass} ${linkClass}`} href={href} rel="noopener noreferrer" aria-describedby={open ? cardId : undefined}>
+          <a ref={triggerRef as Ref<HTMLAnchorElement>} className={`${triggerClass} ${linkClass}`} href={href} rel="noopener noreferrer" aria-describedby={open ? cardId : undefined}>
             {name}
           </a>
           <button
@@ -159,6 +171,7 @@ export default function PersonHoverCard({ name, qid, href, className = '' }: Pro
         </>
       ) : (
         <button
+          ref={triggerRef as Ref<HTMLButtonElement>}
           type="button"
           aria-expanded={open}
           aria-controls={open ? cardId : undefined}
@@ -177,6 +190,13 @@ export default function PersonHoverCard({ name, qid, href, className = '' }: Pro
           className="fixed inset-x-3 bottom-3 z-30 max-h-[70vh] overflow-y-auto rounded-xl border border-amber-400/60 bg-neutral-900 p-4 text-left font-normal shadow-2xl shadow-black sm:absolute sm:inset-x-auto sm:bottom-auto sm:left-0 sm:top-full sm:mt-1 sm:w-80"
         >
           <CardBody name={name} qid={qid} />
+          <button
+            type="button"
+            onClick={closeAndRefocus}
+            className="mt-3 inline-flex min-h-11 w-full items-center justify-center rounded-lg border-2 border-amber-400 font-semibold text-amber-300 sm:hidden"
+          >
+            Close
+          </button>
         </div>
       )}
     </span>

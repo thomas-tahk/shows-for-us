@@ -41,20 +41,24 @@ interface SummaryResponse {
   content_urls?: { desktop?: { page?: string } }
 }
 
-/** At most `count` sentences; a period after a single capital letter (an initial) is not a sentence end. */
-export function firstSentences(text: string, count = 2): string {
-  const parts = text.match(/[^.!?]+(?:[.!?]+(?=\s|$)|$)/g) ?? [text]
-  const out: string[] = []
-  let current = ''
-  for (const part of parts) {
-    current += part
-    if (/(^|\s)[A-Z]\.$/.test(part.trim())) continue
-    out.push(current.trim())
-    current = ''
-    if (out.length === count) return out.join(' ')
+function splitSentences(text: string): string[] {
+  if (typeof Intl !== 'undefined' && 'Segmenter' in Intl) {
+    const seg = new Intl.Segmenter('en', { granularity: 'sentence' })
+    const out: string[] = []
+    for (const { segment } of seg.segment(text)) {
+      // Segmenter splits after an initial ("J. K. Rowling"): glue it to what follows.
+      const last = out.length - 1
+      if (last >= 0 && /(^|\s)[A-Z]\.\s*$/.test(out[last])) out[last] += segment
+      else out.push(segment)
+    }
+    return out
   }
-  if (current.trim()) out.push(current.trim())
-  return out.join(' ')
+  return text.match(/[^.!?]+(?:[.!?]+["'\u201d\u2019)]*(?=\s|$)|$)/g) ?? [text]
+}
+
+/** At most `count` sentences (Intl.Segmenter where available, a simple splitter otherwise). */
+export function firstSentences(text: string, count = 2): string {
+  return splitSentences(text).slice(0, count).map(s => s.trim()).filter(Boolean).join(' ')
 }
 
 export function parseSummary(json: SummaryResponse, fallbackDescription: string | null): PersonSummary | null {
@@ -75,26 +79,25 @@ async function fetchJson<T>(url: string): Promise<T> {
   return (await res.json()) as T
 }
 
+/** Throws on network/HTTP failure; null means "no English Wikipedia article". */
 async function fetchPersonSummary(qid: string): Promise<PersonSummary | null> {
-  try {
-    const { enwiki, description } = parseWikidata(await fetchJson<WikidataResponse>(wikidataUrl(qid)), qid)
-    if (!enwiki) return null
-    return parseSummary(await fetchJson<SummaryResponse>(summaryUrl(enwiki)), description)
-  } catch {
-    return null
-  }
+  const { enwiki, description } = parseWikidata(await fetchJson<WikidataResponse>(wikidataUrl(qid)), qid)
+  if (!enwiki) return null
+  return parseSummary(await fetchJson<SummaryResponse>(summaryUrl(enwiki)), description)
 }
 
 const cache = new Map<string, Promise<PersonSummary | null>>()
 
-/** One fetch per qid per page load; failures are cached as null (no retry storms). Never rejects. */
+/** Successes and "no article" are cached per qid; network/HTTP failures resolve null but are retried on the next call. Never rejects. */
 export function loadPersonSummary(qid: string): Promise<PersonSummary | null> {
-  let hit = cache.get(qid)
-  if (!hit) {
-    hit = fetchPersonSummary(qid)
-    cache.set(qid, hit)
-  }
-  return hit
+  const hit = cache.get(qid)
+  if (hit) return hit
+  const attempt = fetchPersonSummary(qid)
+  cache.set(qid, attempt)
+  return attempt.catch(() => {
+    if (cache.get(qid) === attempt) cache.delete(qid)
+    return null
+  })
 }
 
 /** For tests. */

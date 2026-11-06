@@ -56,6 +56,12 @@ describe('person summary parsing', () => {
     expect(parseSummary({ ...summary, type: 'disambiguation' }, null)).toBeNull()
     expect(firstSentences('J. K. Rowling wrote books. She is rich. More.')).toBe('J. K. Rowling wrote books. She is rich.')
   })
+
+  it('does not split on abbreviations, closing quotes or decimals', () => {
+    expect(firstSentences('He shaped the U.S. stage. Then he left. Later.')).toBe('He shaped the U.S. stage. Then he left.')
+    expect(firstSentences('He wrote "Ol\' Man River." Then he left. Later.')).toBe('He wrote "Ol\' Man River." Then he left.')
+    expect(firstSentences('It earned $1.5 million. Then it closed. Later.')).toBe('It earned $1.5 million. Then it closed.')
+  })
 })
 
 describe('loadPersonSummary', () => {
@@ -72,11 +78,21 @@ describe('loadPersonSummary', () => {
     expect(await loadPersonSummary('Q5')).toBeNull()
   })
 
-  it('resolves null (never rejects) on HTTP and network failure', async () => {
+  it('resolves null (never rejects) on HTTP and network failure, and retries next time', async () => {
     stubFetch(() => null)
-    expect(await loadPersonSummary('Q1')).toBeNull()
+    expect(await loadPersonSummary('Q123')).toBeNull()
     vi.stubGlobal('fetch', vi.fn(async () => { throw new TypeError('offline') }))
     expect(await loadPersonSummary('Q2')).toBeNull()
+    const ok = stubFetch(url => (url.includes('wikidata') ? wikidata : summary))
+    expect((await loadPersonSummary('Q123'))?.title).toBe('Jerome Kern')
+    expect(ok).toHaveBeenCalledTimes(2)
+  })
+
+  it('caches "no enwiki article"', async () => {
+    const f = stubFetch(() => ({ entities: { Q5: {} } }))
+    await loadPersonSummary('Q5')
+    await loadPersonSummary('Q5')
+    expect(f).toHaveBeenCalledTimes(1)
   })
 })
 

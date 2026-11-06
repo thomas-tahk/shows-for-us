@@ -54,7 +54,7 @@ function FlagshipShowPage({ slug, flagship }: { slug: string; flagship: NonNulla
       </ShowHero>
 
       <div className="grid gap-6 md:grid-cols-2 md:items-start">
-        {writeup && <Creators creators={writeup.creators} />}
+        {writeup && <Creators creators={writeup.creators} known={live ? [...data.composers, ...data.lyricists, ...data.librettists] : []} />}
         {writeup && <Awards awards={writeup.awards} />}
       </div>
 

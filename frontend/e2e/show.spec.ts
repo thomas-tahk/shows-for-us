@@ -59,7 +59,7 @@ for (const width of [390, 1280]) {
     )
     if (dataLive) {
       // Real pull: the IBDB link must point at a show page.
-      const ibdb = page.locator('main a[href*="ibdb.com"]')
+      const ibdb = page.getByRole('region', { name: 'Links' }).locator('a[href*="ibdb.com"]')
       await expect(ibdb).toHaveCount(1)
       expect(await ibdb.getAttribute('href')).toMatch(/^https:\/\/www\.ibdb\.com\/broadway-show\//)
     } else {

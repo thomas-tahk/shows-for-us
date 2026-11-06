@@ -76,13 +76,28 @@ test('fetch error shows a retry button that recovers', async ({ page }) => {
   await expect(page.getByRole('heading', { level: 1, name: 'Show Boat' })).toBeVisible()
 })
 
-test('a catalogue show page never requests the 1 MB index', async ({ page }) => {
+test('a catalogue show page never requests the 1 MB index on load', async ({ page }) => {
   const indexRequests: string[] = []
   page.on('request', r => /\/catalog\/index\.json/.test(r.url()) && indexRequests.push(r.url()))
   await page.goto('/show/show-boat')
   await expect(page.getByRole('heading', { level: 1, name: 'Show Boat' })).toBeVisible()
   await expect(page.getByRole('note')).toContainText('Sample data')
   expect(indexRequests).toEqual([])
+})
+
+test('the index is fetched only after a person card opens', async ({ page }) => {
+  const indexRequests: string[] = []
+  page.on('request', r => /\/catalog\/index\.json/.test(r.url()) && indexRequests.push(r.url()))
+  // Wikimedia hosts are not reachable from e2e: the card degrades to the name and Known for.
+  await page.route(/(wikidata|wikipedia)\.org/, route => route.abort())
+  await page.goto('/show/show-boat')
+  await expect(page.getByRole('heading', { level: 1, name: 'Show Boat' })).toBeVisible()
+  expect(indexRequests).toEqual([])
+  await page.getByRole('link', { name: 'Jerome Kern' }).focus()
+  await expect(page.getByRole('group', { name: 'About Jerome Kern' })).toBeVisible()
+  await expect.poll(() => indexRequests.length).toBe(1)
+  await page.keyboard.press('Escape')
+  await expect(page.getByRole('group')).toHaveCount(0)
 })
 
 test('a shard without `live` shows no sample-data note', async ({ page }) => {
