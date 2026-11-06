@@ -11,12 +11,12 @@ export default function Productions({ productions }: { productions: Production[]
   if (productions.length === 0) return null
   return (
     <Section id="productions-h" title="Notable productions">
-      <ul className="space-y-2 text-neutral-200">
+      <ul className="divide-y divide-neutral-800 text-neutral-100">
         {productions.map(p => (
-          <li key={`${p.name}-${p.venue}`} className="break-words">
+          <li key={`${p.name}-${p.venue}`} className="break-words py-3 first:pt-0 last:pb-0">
             <span className="font-semibold">{p.name}</span>: {p.venue}, {p.city}
-            {span(p) && <span className="text-neutral-400"> ({span(p)})</span>}
-            {p.note && <span className="block text-sm text-neutral-400">{p.note}</span>}
+            {span(p) && <span className="text-neutral-300"> ({span(p)})</span>}
+            {p.note && <span className="block text-sm text-neutral-300">{p.note}</span>}
           </li>
         ))}
       </ul>

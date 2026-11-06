@@ -2,7 +2,7 @@
 export default function SummaryText({ text }: { text: string }) {
   const paragraphs = text.split('\n').filter(p => p.trim() !== '')
   return (
-    <div className="mt-2 space-y-3 text-neutral-200 leading-relaxed">
+    <div className="space-y-4 text-neutral-100 leading-relaxed">
       {paragraphs.map((p, i) => <p key={i}>{p}</p>)}
     </div>
   )
