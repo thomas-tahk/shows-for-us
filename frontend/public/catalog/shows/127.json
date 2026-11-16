@@ -718,6 +718,49 @@
         "modified": false
       }
     },
+    "the-threepenny-opera": {
+      "slug": "the-threepenny-opera",
+      "title": "The Threepenny Opera",
+      "qid": "Q212495",
+      "enwiki": "The Threepenny Opera",
+      "composers": [
+        {
+          "name": "Kurt Weill",
+          "qid": "Q55004",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7112"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Bertolt Brecht",
+          "qid": "Q38757",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4511"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Bertolt Brecht",
+          "qid": "Q38757",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4511"
+        }
+      ],
+      "premiere": {
+        "date": "1928-08-31",
+        "venue": "Theater am Schiffbauerdamm"
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/10596",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Threepenny_Opera",
+        "wikidata": "https://www.wikidata.org/wiki/Q212495"
+      },
+      "summary": {
+        "text": "The Threepenny Opera (Die Dreigroschenoper [diː dʁaɪˈɡʁɔʃn̩ˌʔoːpɐ]) is a 1928 German \"play with music\" by Bertolt Brecht, adapted from a translation by Elisabeth Hauptmann of John Gay's 18th-century English ballad opera The Beggar's Opera, and four ballads by François Villon, with music by Kurt Weill. Although there is debate as to how much contribution Hauptmann might have made to the libretto, Brecht is usually listed as sole author and Hauptmann as the sole translator, which was probably an unfair oversimplification typical of the time.\nThe work offers a socialist critique of the capitalist world. It opened on 31 August 1928 at Berlin's Theater am Schiffbauerdamm.\nWith influences from jazz and German dance music, songs from The Threepenny Opera have been widely covered and become standards, most notably \"Die Moritat von Mackie Messer\" (\"The Ballad of Mack the Knife\") and \"Seeräuberjenny\" (\"Pirate Jenny\").\nThe Threepenny Opera has been performed in the United Kingdom, the United States, France, Russia, Italy, and Hungary. It has also been adapted to film and radio. The German-language version from 1928 entered the public domain in the United States in 2024.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Threepenny_Opera",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
     "zombies-from-the-beyond": {
       "slug": "zombies-from-the-beyond",
       "title": "Zombies from The Beyond",
@@ -766,7 +809,7 @@
       "lyricists": [],
       "librettists": [],
       "premiere": {
-        "date": null,
+        "date": "2008-07-02",
         "venue": null
       },
       "awards": [],

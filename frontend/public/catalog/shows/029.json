@@ -137,6 +137,42 @@
         "modified": false
       }
     },
+    "der-silbersee": {
+      "slug": "der-silbersee",
+      "title": "Der Silbersee",
+      "qid": "Q847229",
+      "enwiki": "Der Silbersee",
+      "composers": [
+        {
+          "name": "Kurt Weill",
+          "qid": "Q55004",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7112"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Georg Kaiser",
+          "qid": "Q60477",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/13616"
+        }
+      ],
+      "premiere": {
+        "date": "1933-02-18",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Der_Silbersee",
+        "wikidata": "https://www.wikidata.org/wiki/Q847229"
+      },
+      "summary": {
+        "text": "Der Silbersee: ein Wintermärchen (The Silver Lake: a Winter's Fairy Tale) is a 'play with music' in three acts by Kurt Weill to a German text by Georg Kaiser. The subtitle is an allusion to Heinrich Heine's 1844 satirical epic poem, Germany. A Winter's Tale.",
+        "source_url": "https://en.wikipedia.org/wiki/Der_Silbersee",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
     "different-times": {
       "slug": "different-times",
       "title": "Different Times",

@@ -1,9 +1,9 @@
 {
   "meta": {
-    "generated_at": "2026-11-04T13:53:15.758Z",
+    "generated_at": "2026-11-16T16:17:14.351Z",
     "mode": "live",
     "live": true,
-    "count": 2396
+    "count": 2402
   },
   "shows": [
     {
@@ -1219,7 +1219,8 @@
       "year": null,
       "creators": [
         "Bert Kalmar",
-        "George S. Kaufman"
+        "George S. Kaufman",
+        "Morrie Ryskind"
       ]
     },
     {
@@ -1324,7 +1325,7 @@
     {
       "slug": "anything-goes",
       "title": "Anything Goes",
-      "year": null,
+      "year": "1934",
       "creators": [
         "Cole Porter",
         "P. G. Wodehouse",
@@ -2942,7 +2943,7 @@
     {
       "slug": "can-can",
       "title": "Can-Can",
-      "year": null,
+      "year": "1953",
       "creators": [
         "Cole Porter",
         "Abe Burrows"
@@ -3992,6 +3993,15 @@
       "creators": []
     },
     {
+      "slug": "der-silbersee",
+      "title": "Der Silbersee",
+      "year": "1933",
+      "creators": [
+        "Kurt Weill",
+        "Georg Kaiser"
+      ]
+    },
+    {
       "slug": "der-kleine-tag",
       "title": "Der kleine Tag",
       "year": null,
@@ -4068,7 +4078,7 @@
     {
       "slug": "dirty-rotten-scoundrels",
       "title": "Dirty Rotten Scoundrels",
-      "year": null,
+      "year": "2004",
       "creators": [
         "David Yazbek",
         "Jeffrey Lane"
@@ -4273,6 +4283,15 @@
       "creators": []
     },
     {
+      "slug": "down-in-the-valley",
+      "title": "Down in the Valley",
+      "year": "1948",
+      "creators": [
+        "Kurt Weill",
+        "Arnold Sundgaard"
+      ]
+    },
+    {
       "slug": "dr-seuss-how-the-grinch-stole-christmas-the-musical",
       "title": "Dr. Seuss' How the Grinch Stole Christmas! The Musical",
       "year": null,
@@ -4452,7 +4471,7 @@
     {
       "slug": "el-medico",
       "title": "El médico",
-      "year": null,
+      "year": "2018",
       "creators": []
     },
     {
@@ -4739,7 +4758,7 @@
     {
       "slug": "fame",
       "title": "Fame",
-      "year": null,
+      "year": "1988",
       "creators": [
         "Jacques Levy"
       ]
@@ -4878,7 +4897,7 @@
     {
       "slug": "finian-s-rainbow",
       "title": "Finian's Rainbow",
-      "year": null,
+      "year": "1947",
       "creators": [
         "Burton Lane",
         "Yip Harburg",
@@ -4910,7 +4929,7 @@
     {
       "slug": "first-date",
       "title": "First Date",
-      "year": null,
+      "year": "2012",
       "creators": []
     },
     {
@@ -5039,7 +5058,7 @@
     {
       "slug": "flowers-for-mrs-harris",
       "title": "Flowers for Mrs Harris",
-      "year": null,
+      "year": "2016",
       "creators": []
     },
     {
@@ -5509,7 +5528,7 @@
     {
       "slug": "ghost",
       "title": "Ghost",
-      "year": null,
+      "year": "2011",
       "creators": [
         "David A. Stewart",
         "Glen Ballard",
@@ -5576,7 +5595,7 @@
     {
       "slug": "girl-crazy",
       "title": "Girl Crazy",
-      "year": null,
+      "year": "1930",
       "creators": [
         "George Gershwin",
         "Ira Gershwin",
@@ -7170,7 +7189,7 @@
     {
       "slug": "irma-la-douce",
       "title": "Irma La Douce",
-      "year": null,
+      "year": "1956",
       "creators": [
         "Marguerite Monnot",
         "Alexandre Breffort"
@@ -7279,7 +7298,7 @@
     {
       "slug": "jacques-brel-is-alive-and-well-and-living-in-paris",
       "title": "Jacques Brel is Alive and Well and Living in Paris",
-      "year": null,
+      "year": "1968",
       "creators": [
         "Jacques Brel"
       ]
@@ -7328,7 +7347,7 @@
     {
       "slug": "jane-eyre",
       "title": "Jane Eyre",
-      "year": null,
+      "year": "1996",
       "creators": [
         "Paul Gordon",
         "John Caird"
@@ -7345,7 +7364,7 @@
     {
       "slug": "jekyll-hyde",
       "title": "Jekyll & Hyde",
-      "year": null,
+      "year": "1990",
       "creators": [
         "Frank Wildhorn",
         "Leslie Bricusse"
@@ -7858,7 +7877,7 @@
     {
       "slug": "kiss-me-kate",
       "title": "Kiss Me, Kate",
-      "year": null,
+      "year": "1948",
       "creators": [
         "Cole Porter",
         "Samuel and Bella Spewack"
@@ -8166,7 +8185,7 @@
     {
       "slug": "lazarus",
       "title": "Lazarus",
-      "year": null,
+      "year": "2015",
       "creators": [
         "David Bowie",
         "Enda Walsh"
@@ -9137,7 +9156,7 @@
     {
       "slug": "man-of-la-mancha",
       "title": "Man of La Mancha",
-      "year": null,
+      "year": "1965",
       "creators": [
         "Mitch Leigh",
         "Joe Darion",
@@ -10365,7 +10384,7 @@
     {
       "slug": "nine",
       "title": "Nine",
-      "year": null,
+      "year": "1982",
       "creators": [
         "Maury Yeston",
         "Arthur Kopit"
@@ -11533,7 +11552,7 @@
     {
       "slug": "promises-promises",
       "title": "Promises, Promises",
-      "year": null,
+      "year": "1968",
       "creators": [
         "Burt Bacharach",
         "Hal David",
@@ -11543,7 +11562,7 @@
     {
       "slug": "pump-boys-and-dinettes",
       "title": "Pump Boys and Dinettes",
-      "year": null,
+      "year": "1982",
       "creators": []
     },
     {
@@ -11747,7 +11766,7 @@
     {
       "slug": "rebecca",
       "title": "Rebecca",
-      "year": null,
+      "year": "2006",
       "creators": [
         "Sylvester Levay",
         "Michael Kunze"
@@ -12587,7 +12606,7 @@
     {
       "slug": "she-loves-me",
       "title": "She Loves Me",
-      "year": null,
+      "year": "1963",
       "creators": [
         "Jerry Bock",
         "Sheldon Harnick",
@@ -13410,7 +13429,7 @@
     {
       "slug": "steel-pier",
       "title": "Steel Pier",
-      "year": null,
+      "year": "1997",
       "creators": [
         "John Kander",
         "Fred Ebb",
@@ -13507,6 +13526,7 @@
       "year": null,
       "creators": [
         "George Gershwin",
+        "Ira Gershwin",
         "Morrie Ryskind"
       ]
     },
@@ -14308,7 +14328,7 @@
     {
       "slug": "the-bodyguard",
       "title": "The Bodyguard",
-      "year": null,
+      "year": "2012",
       "creators": []
     },
     {
@@ -15569,7 +15589,7 @@
     {
       "slug": "the-last-ship",
       "title": "The Last Ship",
-      "year": null,
+      "year": "2014",
       "creators": [
         "Sting",
         "John Logan"
@@ -15716,6 +15736,12 @@
         "Arthur Schwartz",
         "Howard Dietz"
       ]
+    },
+    {
+      "slug": "the-liturgy-of-the-heathens",
+      "title": "The Liturgy of the Heathens",
+      "year": null,
+      "creators": []
     },
     {
       "slug": "the-look-of-love",
@@ -16164,6 +16190,15 @@
       "year": "2017",
       "creators": [
         "Stephen Schwartz"
+      ]
+    },
+    {
+      "slug": "the-prince-of-pilsen",
+      "title": "The Prince of Pilsen",
+      "year": null,
+      "creators": [
+        "Gustav Luders",
+        "Frank Pixley"
       ]
     },
     {
@@ -16661,7 +16696,7 @@
     {
       "slug": "the-three-musketeers",
       "title": "The Three Musketeers",
-      "year": null,
+      "year": "1928",
       "creators": [
         "Rudolf Friml",
         "Clifford Grey",
@@ -16673,6 +16708,15 @@
       "title": "The Three Musketeers: One For All, All For One!",
       "year": null,
       "creators": []
+    },
+    {
+      "slug": "the-threepenny-opera",
+      "title": "The Threepenny Opera",
+      "year": "1928",
+      "creators": [
+        "Kurt Weill",
+        "Bertolt Brecht"
+      ]
     },
     {
       "slug": "the-tik-tok-man-of-oz",
@@ -16937,7 +16981,7 @@
     {
       "slug": "the-witches-of-eastwick",
       "title": "The Witches of Eastwick",
-      "year": null,
+      "year": "2000",
       "creators": [
         "Dana P. Rowe",
         "John Dempsey"
@@ -17100,7 +17144,7 @@
     {
       "slug": "they-re-playing-our-song",
       "title": "They're Playing Our Song",
-      "year": null,
+      "year": "1979",
       "creators": [
         "Marvin Hamlisch",
         "Carole Bayer Sager",
@@ -17330,7 +17374,7 @@
     {
       "slug": "titanic",
       "title": "Titanic",
-      "year": null,
+      "year": "1997",
       "creators": [
         "Maury Yeston",
         "Peter Stone"
@@ -17971,6 +18015,15 @@
       ]
     },
     {
+      "slug": "warriors",
+      "title": "Warriors",
+      "year": "2027",
+      "creators": [
+        "Lin-Manuel Miranda",
+        "Eisa Davis"
+      ]
+    },
+    {
       "slug": "watch-your-step",
       "title": "Watch Your Step",
       "year": null,
@@ -18089,7 +18142,7 @@
     {
       "slug": "where-s-charley",
       "title": "Where's Charley?",
-      "year": null,
+      "year": "1948",
       "creators": [
         "Frank Loesser",
         "George Abbott"
@@ -18300,7 +18353,7 @@
     {
       "slug": "women-on-the-verge-of-a-nervous-breakdown",
       "title": "Women on the Verge of a Nervous Breakdown",
-      "year": null,
+      "year": "2010",
       "creators": [
         "David Yazbek",
         "Jeffrey Lane"
@@ -18465,7 +18518,7 @@
     {
       "slug": "you-re-a-good-man-charlie-brown",
       "title": "You're a Good Man, Charlie Brown",
-      "year": null,
+      "year": "1967",
       "creators": [
         "Clark Gesner"
       ]
@@ -18611,7 +18664,7 @@
     {
       "slug": "zorro",
       "title": "Zorro",
-      "year": null,
+      "year": "2008",
       "creators": []
     },
     {

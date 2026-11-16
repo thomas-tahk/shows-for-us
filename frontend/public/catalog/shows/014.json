@@ -619,6 +619,30 @@
         "modified": false
       }
     },
+    "the-liturgy-of-the-heathens": {
+      "slug": "the-liturgy-of-the-heathens",
+      "title": "The Liturgy of the Heathens",
+      "qid": "Q16801939",
+      "enwiki": "The Liturgy of the Heathens",
+      "composers": [],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Liturgy_of_the_Heathens",
+        "wikidata": "https://www.wikidata.org/wiki/Q16801939"
+      },
+      "summary": {
+        "text": "Alexey Lvovich Rybnikov (Russian: Алексей Львович Рыбников; born July 17, 1945) is a modern Russian composer.\nHe is the author of music for Soviet and Russian musicals (rock operas) The Star and Death of Joaquin Murieta (Звезда и смерть Хоакина Мурьеты, 1976) and  Juno and Avos (Юнона и Авось, 1981, shown more than 700 times), for numerous plays and operas, for more than 80 Russian movies. More than 10 million discs with his music have been sold to 1989.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Liturgy_of_the_Heathens",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
     "the-thorn-birds-musical": {
       "slug": "the-thorn-birds-musical",
       "title": "The Thorn Birds Musical",
@@ -640,6 +664,42 @@
       "summary": {
         "text": "The Thorn Birds is a 2009 musical adaptation of the 1977 novel of the same name by Colleen McCullough. The lyrics were written by McCullough herself, the music was composed by Gloria Bruni and it was directed by Michael Bogdanov behind Wales Theatre Company.\nIt starred Matthew Goodgame as Father Ralph de Bricassart, Helen Anker as Meggie Cleary and Peter Karrie as Cardinal di Conti-Verchese. The cast included Andrea Miller, Kieran Brown, Ieuan Rhys, Phylip Harries, Richard Munday and Llinos Daniel.\nThe UK tour features visits to Poole, Swansea, Wolverhampton, Aberystwyth, Bradford, Hull, Llandudno, Windsor, Plymouth, Malvern, Birmingham and then finishing in the Wales Millennium Centre, Cardiff in July.",
         "source_url": "https://en.wikipedia.org/wiki/The_Thorn_Birds_Musical",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
+    "warriors": {
+      "slug": "warriors",
+      "title": "Warriors",
+      "qid": "Q141641516",
+      "enwiki": "Warriors (musical)",
+      "composers": [
+        {
+          "name": "Lin-Manuel Miranda",
+          "qid": "Q1646482",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/459893"
+        },
+        {
+          "name": "Eisa Davis",
+          "qid": "Q28033745",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/459481"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [],
+      "premiere": {
+        "date": "2027",
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "official_site": "https://warriorsmusical.com/",
+        "wikipedia": "https://en.wikipedia.org/wiki/Warriors_(musical)",
+        "wikidata": "https://www.wikidata.org/wiki/Q141641516"
+      },
+      "summary": {
+        "text": "Warriors is an upcoming musical with book, music, and lyrics by Lin-Manuel Miranda and Eisa Davis. It is based on both the 1979 film The Warriors and the original 1965 novel by Sol Yurick. Directed by Jenny Koons and co-directed and choreographed by Andy Blankenbuehler, Warriors is set to open on Broadway at the Lunt-Fontanne Theatre in 2027.",
+        "source_url": "https://en.wikipedia.org/wiki/Warriors_(musical)",
         "license": "CC BY-SA 4.0",
         "modified": false
       }

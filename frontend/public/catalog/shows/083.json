@@ -445,7 +445,13 @@
           "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/5813"
         }
       ],
-      "lyricists": [],
+      "lyricists": [
+        {
+          "name": "Ira Gershwin",
+          "qid": "Q61059",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12885"
+        }
+      ],
       "librettists": [
         {
           "name": "Morrie Ryskind",
@@ -582,7 +588,7 @@
         }
       ],
       "premiere": {
-        "date": null,
+        "date": "1948",
         "venue": null
       },
       "awards": [],

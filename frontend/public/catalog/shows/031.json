@@ -73,6 +73,42 @@
         "modified": false
       }
     },
+    "down-in-the-valley": {
+      "slug": "down-in-the-valley",
+      "title": "Down in the Valley",
+      "qid": "Q5302976",
+      "enwiki": "Down in the Valley (opera)",
+      "composers": [
+        {
+          "name": "Kurt Weill",
+          "qid": "Q55004",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/7112"
+        }
+      ],
+      "lyricists": [],
+      "librettists": [
+        {
+          "name": "Arnold Sundgaard",
+          "qid": "Q696386",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/4255"
+        }
+      ],
+      "premiere": {
+        "date": "1948-07-15",
+        "venue": "Indiana University Bloomington"
+      },
+      "awards": [],
+      "links": {
+        "wikipedia": "https://en.wikipedia.org/wiki/Down_in_the_Valley_(opera)",
+        "wikidata": "https://www.wikidata.org/wiki/Q5302976"
+      },
+      "summary": {
+        "text": "Down in the Valley is a folk-opera in one act by composer Kurt Weill and librettist Arnold Sundgaard, initially composed and conceived for the radio in 1945 then rewritten and produced in 1948. It uses famous American tunes to carry the story (including \"Down in the Valley\", \"The Lonesome Dove\", and \"Hop Up, My Ladies\") and connected by original choral music.",
+        "source_url": "https://en.wikipedia.org/wiki/Down_in_the_Valley_(opera)",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
     "girl-crazy": {
       "slug": "girl-crazy",
       "title": "Girl Crazy",
@@ -100,7 +136,7 @@
         }
       ],
       "premiere": {
-        "date": null,
+        "date": "1930-09-29",
         "venue": null
       },
       "awards": [],
