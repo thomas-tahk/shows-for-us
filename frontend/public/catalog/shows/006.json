@@ -310,6 +310,49 @@
         "modified": false
       }
     },
+    "the-prince-of-pilsen": {
+      "slug": "the-prince-of-pilsen",
+      "title": "The Prince of Pilsen",
+      "qid": "Q104154693",
+      "enwiki": "The Prince of Pilsen",
+      "composers": [
+        {
+          "name": "Gustav Luders",
+          "qid": "Q13648900",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12082"
+        }
+      ],
+      "lyricists": [
+        {
+          "name": "Gustav Luders",
+          "qid": "Q13648900",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/12082"
+        }
+      ],
+      "librettists": [
+        {
+          "name": "Frank Pixley",
+          "qid": "Q104154699",
+          "ibdb_url": "https://www.ibdb.com/broadway-cast-staff/8185"
+        }
+      ],
+      "premiere": {
+        "date": null,
+        "venue": null
+      },
+      "awards": [],
+      "links": {
+        "ibdb": "https://www.ibdb.com/broadway-show/7252",
+        "wikipedia": "https://en.wikipedia.org/wiki/The_Prince_of_Pilsen",
+        "wikidata": "https://www.wikidata.org/wiki/Q104154693"
+      },
+      "summary": {
+        "text": "The Prince of Pilsen is a musical in two acts with music and lyrics by Gustav Luders and a book by Frank S. Pixley.",
+        "source_url": "https://en.wikipedia.org/wiki/The_Prince_of_Pilsen",
+        "license": "CC BY-SA 4.0",
+        "modified": false
+      }
+    },
     "the-wild-party-lippa-musical": {
       "slug": "the-wild-party-lippa-musical",
       "title": "The Wild Party",
